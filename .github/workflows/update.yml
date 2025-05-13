@@ -28,11 +28,20 @@ jobs:
       - name: Run script
         run: python update_digest.py
 
-      - name: Fix Git Safe Directory
+      - name: Check for changes
+        id: changes
         run: |
-          git config --global --add safe.directory /github/workspace
+          git diff --exit-code
+          if [ $? -eq 0 ]; then
+            echo "No changes detected."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected."
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit and Push
+        if: steps.changes.outputs.has_changes == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
