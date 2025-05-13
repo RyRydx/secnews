@@ -6,7 +6,7 @@ from googletrans import Translator
 # Inizializza il traduttore
 translator = Translator()
 
-# Funzione per tradurre i titoli in italiano
+
 def translate_to_italian(text):
     try:
         translated = translator.translate(text, src='en', dest='it')
@@ -16,22 +16,17 @@ def translate_to_italian(text):
         return text
 
 
-# Ottiene la directory dello script attuale
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_PATH = os.path.join(SCRIPT_DIR, "data", "articoli_blog.md")
 
-# Assicura che la cartella data esista
 os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
 
-# Lista di fonti RSS (senza quelle problematiche)
 sources = {
-    # Le tue attuali
     "Krebs on Security": "https://krebsonsecurity.com/feed/ ",
     "Graham Cluley": "https://www.grahamcluley.com/feed/ ",
     "The Hacker News": "https://feeds.feedburner.com/TheHackersNews ",
     "BleepingComputer": "https://www.bleepingcomputer.com/feed/ ",
 
-    # Nuove fonti consigliate
     "Troy Hunt": "https://www.troyhunt.com/rss ",
     "Schneier on Security": "https://www.schneier.com/feed/atom/ ",
     "Threatpost": "https://threatpost.com/feed/ ",
@@ -42,8 +37,7 @@ today = datetime.now(timezone.utc)
 limit_days = 7
 cutoff = today - timedelta(days=limit_days)
 
-all_articles = []  # Lista per raccogliere tutti gli articoli
-
+all_articles = []  
 
 # === Recupera articoli dai feed RSS ===
 for name, url in sources.items():
@@ -92,11 +86,9 @@ for name, url in sources.items():
         print(f"Impossibile scaricare feed da {name}: {e}")
 
 
-# === Ordina gli articoli per data decrescente ===
 all_articles.sort(key=lambda x: x["pub_date"], reverse=True)
 
 
-# === Scrivi nel file Markdown ===
 with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     f.write("# Articoli e Blog Cybersec\n\n")
     f.write(f"## Ultimi {limit_days} giorni\n\n")
