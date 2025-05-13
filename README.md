@@ -1,7 +1,7 @@
 # CyberSecurity Insights Hub 🛡️
 
 Benvenuto! Questo è un piccolo progetto fatto da uno studente di CyberSecurity che raccoglie automaticamente informazioni e aggiornamenti dal mondo della sicurezza informatica.
-Il progetto è un digest quotidiano di articoli e notizie sulla sicurezza informatica, raccolti automaticamente da fonti affidabili e tradotti in italiano.
+Il progetto è un digest quotidiano di articoli e notizie sulla sicurezza informatica, raccolti automaticamente da fonti affidabili con titolo tradotto in italiano.
 
 
 ## 📰 Ultimi Articoli
@@ -35,9 +35,9 @@ Suggerisci nuove fonti o migliorie aprendo un issue o una pull request!
 
 ## Sezioni
 
-### 1. [Attacchi Recenti](./data/attacchi_recenti.md)
-### 2. [Vulnerabilità Note](./data/vulnerabilita_note.md)
-### 3. [Mappa Attacchi Live](./data/mappe_attacchi.md)
-### 4. [Articoli e Blog Recenti](./data/articoli_blog.md)
+### 1. [Attacchi Recenti](./data/Articoli_blog.md) ✅
+### 2. [Vulnerabilità Note](./data/vulnerabilita_note.md) ❌
+### 3. [Mappa Attacchi Live](./data/mappe_attacchi.md) ❌
+### 4. [Articoli e Blog Recenti](./data/articoli_blog.md) ❌
 
 
