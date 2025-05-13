@@ -12,7 +12,6 @@ Gli articoli vengono aggiornati quotidianamente alle 6:00 UTC.
 
 ## 🔍 Fonti utilizzate
 
-- Wired Threat Level
 - Krebs on Security
 - Graham Cluley
 - The Hacker News
@@ -21,7 +20,7 @@ Gli articoli vengono aggiornati quotidianamente alle 6:00 UTC.
 - Schneier on Security
 - Threatpost
 - HackerOne Blog
-- OWASP Blog
+  e altre....
 
 ## 🤖 Funzionamento e automazione
 
