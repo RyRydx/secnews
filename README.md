@@ -1,7 +1,7 @@
 # CyberSecurity Insights Hub 🛡️
 
 Benvenuto! Questo è un piccolo progetto fatto da uno studente di CyberSecurity che raccoglie automaticamente informazioni e aggiornamenti dal mondo della sicurezza informatica.
-Il progetto è un digest quotidiano di articoli e notizie sulla sicurezza informatica, raccolti automaticamente da fonti affidabili con titolo tradotto in italiano.
+Il progetto è un digest quotidiano di articoli e notizie sulla sicurezza informatica, raccolti automaticamente da fonti affidabili con titolo tradotto in italiano, nato con lo scopo di sperimentare con l'informazione, la programmazione in python e l'AI.
 
 
 ## 📰 Ultimi Articoli
