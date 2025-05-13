@@ -1,0 +1,41 @@
+name: Aggiorna Articoli
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # Ogni giorno alle 6:00 UTC
+  workflow_dispatch:       # Per lanciarlo manualmente da GitHub
+
+permissions:
+  contents: write
+  id-token: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser googletrans==4.0.0-rc1
+
+      - name: Run script
+        run: python update_digest.py
+
+      - name: Fix Git Safe Directory
+        run: |
+          git config --global --add safe.directory /github/workspace
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Aggiornamento articoli - $(date +'%Y-%m-%d')"
+          git push
