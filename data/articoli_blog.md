@@ -42,7 +42,7 @@
   Fonte: The Hacker News, 14 May 2025, 04:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html>)
 
-- **Patch SAP difettosi di secondo giorno sfruttato negli attacchi recenti**  
+- **Patch SAP difettoso difetto a zero giorni sfruttato negli attacchi recenti**  
   Fonte: BleepingComputer, 13 May 2025, 20:48:18 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/sap-patches-second-zero-day-flaw-exploited-in-recent-attacks/>)
 
@@ -94,7 +94,7 @@
   Fonte: BleepingComputer, 13 May 2025, 15:00:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-intel-cpu-flaws-leak-sensitive-data-from-privileged-memory/>)
 
-- **Pacchetto PyPI dannoso in posa come Solana Strumento Stole Our Source Code in 761 download**  
+- **Pacchetto PyPI dannoso in posa come Solana Strumento Stole Our Source Codice in 761 download**  
   Fonte: The Hacker News, 13 May 2025, 14:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html>)
 
@@ -247,4 +247,4 @@
   [Leggi](<https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html>)
 
 
-<!-- Ultimo aggiornamento: 2025-05-14 13:47:09 UTC -->
+<!-- Ultimo aggiornamento: 2025-05-14 13:47:46 UTC -->
