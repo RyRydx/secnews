@@ -89,7 +89,7 @@ for name, url in sources.items():
 all_articles.sort(key=lambda x: x["pub_date"], reverse=True)
 
 
-with open(data/articoli_blog.md, "w", encoding="utf-8") as f:
+with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     f.write("# Articoli e Blog Cybersec\n\n")
     f.write(f"## Ultimi {limit_days} giorni\n\n")
 
