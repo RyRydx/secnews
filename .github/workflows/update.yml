@@ -40,10 +40,14 @@ jobs:
             exit 1
           fi
 
+      - name: Add all files to git index
+        run: |
+          git add .
+
       - name: Check for changes
         id: changes
         run: |
-          git diff --exit-code data/articoli_blog.md || true
+          git diff --cached --exit-code || true
           if [ $? -eq 0 ]; then
             echo "No changes detected."
             echo "has_changes=false" >> $GITHUB_OUTPUT
@@ -57,6 +61,5 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
           git commit -m "Aggiornamento articoli - $(date +'%Y-%m-%d')"
           git push
