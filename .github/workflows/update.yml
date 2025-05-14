@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Scarica tutta la cronologia Git
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -48,16 +50,16 @@ jobs:
         run: |
           git status
 
-      - name: Check for changes
+      - name: Check for changes (including new files)
         id: changes
         run: |
-          git diff --cached --exit-code || true
-          if [ $? -eq 0 ]; then
-            echo "No changes detected."
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-          else
+          git diff-index --quiet HEAD . || has_changes=true
+          if [ "$has_changes" = "true" ]; then
             echo "Changes detected."
             echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "No changes detected."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Commit and Push
