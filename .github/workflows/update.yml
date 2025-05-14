@@ -26,12 +26,24 @@ jobs:
           pip install feedparser googletrans==4.0.0-rc1
 
       - name: Run script
-        run: python update_digest.py
+        run: |
+          python update_digest.py
+
+      - name: Verifica generazione file
+        run: |
+          echo "Controlliamo se il file è stato generato..."
+          if [ -f data/articoli_blog.md ]; then
+            echo "✅ File trovato!"
+            head -n 5 data/articoli_blog.md
+          else
+            echo "❌ File NON trovato!"
+            exit 1
+          fi
 
       - name: Check for changes
         id: changes
         run: |
-          git diff --exit-code || true
+          git diff --exit-code data/articoli_blog.md || true
           if [ $? -eq 0 ]; then
             echo "No changes detected."
             echo "has_changes=false" >> $GITHUB_OUTPUT
