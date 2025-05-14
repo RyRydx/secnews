@@ -6,7 +6,6 @@ from googletrans import Translator
 # Inizializza il traduttore
 translator = Translator()
 
-
 def translate_to_italian(text):
     try:
         translated = translator.translate(text, src='en', dest='it')
@@ -15,12 +14,14 @@ def translate_to_italian(text):
         print(f"Errore nella traduzione: {e}")
         return text
 
-
+# Percorso del file Markdown
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_PATH = os.path.join(SCRIPT_DIR, "data", "articoli_blog.md")
 
+# Assicura che la cartella data esista
 os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
 
+# Lista delle fonti RSS
 sources = {
     "Krebs on Security": "https://krebsonsecurity.com/feed/ ",
     "Graham Cluley": "https://www.grahamcluley.com/feed/ ",
@@ -30,16 +31,17 @@ sources = {
     "Troy Hunt": "https://www.troyhunt.com/rss ",
     "Schneier on Security": "https://www.schneier.com/feed/atom/ ",
     "Threatpost": "https://threatpost.com/feed/ ",
-    "Cloudflare Blog - Security": "https://blog.cloudflare.com/tag/security/rss/"
+    "Cloudflare Blog - Security": "https://blog.cloudflare.com/tag/security/rss/ "
 }
 
+# Periodo da considerare
 today = datetime.now(timezone.utc)
 limit_days = 7
 cutoff = today - timedelta(days=limit_days)
 
-all_articles = []  
+all_articles = []
 
-# === Recupera articoli dai feed RSS ===
+# === Scarica i feed RSS e filtra gli articoli recenti ===
 for name, url in sources.items():
     print(f"Fetching from {name}...")
 
@@ -85,15 +87,31 @@ for name, url in sources.items():
     except Exception as e:
         print(f"Impossibile scaricare feed da {name}: {e}")
 
-
+# Ordina gli articoli per data decrescente
 all_articles.sort(key=lambda x: x["pub_date"], reverse=True)
 
+# === Controlla se il file esiste, altrimenti lo crea ===
+if not os.path.exists(OUTPUT_PATH):
+    print(f"Il file {OUTPUT_PATH} non esiste. Lo creo ora.")
+else:
+    print(f"Trovato file esistente. Lo sovrascrivo...")
 
-with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-    f.write("# Articoli e Blog Cybersec\n\n")
-    f.write(f"## Ultimi {limit_days} giorni\n\n")
+# Scrive il file Markdown
+try:
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+        f.write("# Articoli e Blog Cybersec\n\n")
+        f.write(f"## Ultimi {limit_days} giorni\n\n")
 
-    for article in all_articles:
-        f.write(f"- **{article['title_it']}**  \n")
-        f.write(f"  Fonte: {article['name']}, {article['pub_date'].strftime('%d %b %Y, %H:%M:%S %Z')}  \n")
-        f.write(f"  [Leggi](<{article['link']}>)\n\n")
+        for article in all_articles:
+            f.write(f"- **{article['title_it']}**  \n")
+            f.write(f"  Fonte: {article['name']}, {article['pub_date'].strftime('%d %b %Y, %H:%M:%S %Z')}  \n")
+            f.write(f"  [Leggi](<{article['link']}>)\n\n")
+
+        # Timestamp per aiutare Git a rilevare modifiche
+        timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+        f.write(f"\n<!-- Ultimo aggiornamento: {timestamp} -->\n")
+
+    print("File scritto correttamente.")
+
+except Exception as e:
+    print(f"Errore durante la scrittura del file: {e}")
