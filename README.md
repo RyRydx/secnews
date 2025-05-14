@@ -34,7 +34,7 @@ Suggerisci nuove fonti o migliorie aprendo un issue o una pull request!
 
 ## Sezioni
 
-### 1. [Attacchi Recenti](./data/Articoli_blog.md) ✅
+### 1. [Attacchi Recenti](./data/articoli_blog.md) ✅
 ### 2. [Vulnerabilità Note](./data/vulnerabilita_note.md) ❌
 ### 3. [Mappa Attacchi Live](./data/mappe_attacchi.md) ❌
 ### 4. [Articoli e Blog Recenti](./data/articoli_blog.md) ❌
