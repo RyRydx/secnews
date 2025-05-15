@@ -2,6 +2,62 @@
 
 ## Ultimi 7 giorni
 
+- **La nuova vulnerabilità di Chrome abilita la perdita di dati incrociata tramite Politica di referrer del caricatore**  
+  Fonte: The Hacker News, 15 May 2025, 06:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html>)
+
+- **Smashing Security Podcast #417: ciao, pervertito!- truffe di sestozione e disastri di discordia**  
+  Fonte: Graham Cluley, 14 May 2025, 23:00:32 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-417/>)
+
+- **Google Chrome per bloccare i lanci del browser a livello di amministrazione per una migliore sicurezza**  
+  Fonte: BleepingComputer, 14 May 2025, 20:25:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-chrome-to-block-admin-level-browser-launches-for-better-security/>)
+
+- **Hacker dietro gli attacchi al dettaglio nel Regno Unito ora mirano alle aziende statunitensi**  
+  Fonte: BleepingComputer, 14 May 2025, 19:38:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-scattered-spider-switches-targets-to-us-retail-chains/>)
+
+- **Patch Samsung CVE-2025-4632 Utilizzato per distribuire la botnet Mirai tramite MagicInfo 9 Exploit**  
+  Fonte: The Hacker News, 14 May 2025, 17:57:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html>)
+
+- **Bianlian e Ransomexx Exploit SAP NetWeaver difetto per distribuire pipemagic Trojan**  
+  Fonte: The Hacker News, 14 May 2025, 17:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/bianlian-and-ransomexx-exploit-sap.html>)
+
+- **Le bande di ransomware si uniscono agli attacchi in corso SAP Netweaver**  
+  Fonte: BleepingComputer, 14 May 2025, 17:39:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-gangs-join-ongoing-sap-netweaver-attacks/>)
+
+- **La Commissione per i diritti umani australiani perde i documenti ai motori di ricerca**  
+  Fonte: BleepingComputer, 14 May 2025, 16:28:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/australian-human-rights-commission-leaks-docs-to-search-engines/>)
+
+- **Imminenti impegni di lingua**  
+  Fonte: Schneier on Security, 14 May 2025, 16:05:01 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/05/upcoming-speaking-engagements-46.html>)
+
+- **Xinbi Telegram Market legato a $ 8,4 miliardi in criminalità crittografica, truffe romantiche, riciclaggio della Corea del Nord**  
+  Fonte: The Hacker News, 14 May 2025, 15:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/xinbi-telegram-market-tied-to-84b-in.html>)
+
+- **Microsoft risolve i problemi di avvio Linux sui sistemi Windows a doppio boot**  
+  Fonte: BleepingComputer, 14 May 2025, 14:50:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-linux-boot-issues-on-dual-boot-windows-systems/>)
+
+- **Gigante d'acciaio Nucor Corporation che affronta interruzioni dopo l'attacco informatico**  
+  Fonte: BleepingComputer, 14 May 2025, 14:39:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/steel-giant-nucor-corporation-facing-disruptions-after-cyberattack/>)
+
+- **CTM360 Identifica l'aumento degli attacchi di phishing rivolti agli utenti di meta imprenditoriali**  
+  Fonte: The Hacker News, 14 May 2025, 14:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html>)
+
+- **Phishing focalizzato: l'attacco bersaglio le vittime con siti di fiducia e convalida dal vivo**  
+  Fonte: BleepingComputer, 14 May 2025, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/focused-phishing-attack-targets-victims-with-trusted-sites-and-live-validation/>)
+
 - **Il gigante della moda Dior rivela il Cyberattack, avverte di violazione dei dati**  
   Fonte: BleepingComputer, 14 May 2025, 13:37:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fashion-giant-dior-discloses-cyberattack-warns-of-data-breach/>)
@@ -58,30 +114,6 @@
   Fonte: BleepingComputer, 13 May 2025, 18:26:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ivanti-fixes-epmm-zero-days-chained-in-code-execution-attacks/>)
 
-- **Microsoft May 2025 Patch Tuesday Corregge 5 Exploited Zero-Days, 72 difetti**  
-  Fonte: BleepingComputer, 13 May 2025, 17:56:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2025-patch-tuesday-fixes-5-exploited-zero-days-72-flaws/>)
-
-- **Windows 11 KB5058411 e KB5058405 Aggiornamenti cumulativi rilasciati**  
-  Fonte: BleepingComputer, 13 May 2025, 17:31:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058411-and-kb5058405-cumulative-updates-released/>)
-
-- **Android 16 espande la "protezione avanzata" con sicurezza a livello di dispositivo**  
-  Fonte: BleepingComputer, 13 May 2025, 17:20:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/android-16-expands-advanced-protection-with-device-level-security/>)
-
-- **Windows 10 KB5058379 AGGIORNAMENTO Corregge gli errori di SGRMBROKER in Event Visualizzatore**  
-  Fonte: BleepingComputer, 13 May 2025, 17:18:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-fixes-sgrmbroker-errors-in-event-viewer/>)
-
-- **Fortinet fissa la critica zero-day sfruttata negli attacchi FortiVoice**  
-  Fonte: BleepingComputer, 13 May 2025, 16:46:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-zero-day-exploited-in-fortivoice-attacks/>)
-
-- **Ivanti avverte di neuroni critici per il difetto di bypass di auth itsm**  
-  Fonte: BleepingComputer, 13 May 2025, 15:54:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-neurons-for-itsm-auth-bypass-flaw/>)
-
 - **L'IA Fix #50: AI riporta Dead Man per il processo di Killer e il giudice lo adora**  
   Fonte: Graham Cluley, 13 May 2025, 15:40:04 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-50/>)
@@ -89,10 +121,6 @@
 - **Exploit APTS legati alla Cina SAP CVE-2025-31324 per violare 581 sistemi critici in tutto il mondo**  
   Fonte: The Hacker News, 13 May 2025, 15:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html>)
-
-- **Nuovi difetti della CPU Intel perdi dati sensibili alla memoria privilegiata**  
-  Fonte: BleepingComputer, 13 May 2025, 15:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-intel-cpu-flaws-leak-sensitive-data-from-privileged-memory/>)
 
 - **Pacchetto PyPI dannoso in posa come Solana Strumento Stole Our Source Codice in 761 download**  
   Fonte: The Hacker News, 13 May 2025, 14:47:00 UTC  
@@ -186,7 +214,7 @@
   Fonte: The Hacker News, 09 May 2025, 10:57:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html>)
 
-- **Gli hacker colpiscono la compagnia aerea di deportazione globale, si manifesta il volo per le perdite e lasciano un messaggio insignificante per "Donnie" Trump**  
+- **Gli hacker hanno colpito la compagnia aerea di deportazione globale, si manifesta il volo per le perdite e lasciano un messaggio insignificante per "Donnie" Trump**  
   Fonte: Graham Cluley, 09 May 2025, 09:04:13 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-globalx-message-trump>)
 
@@ -230,21 +258,5 @@
   Fonte: The Hacker News, 08 May 2025, 06:57:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/russian-hackers-using-clickfix-fake.html>)
 
-- **Patch Cisco CVE-2025-20188 (10,0 cvs) in iOS XE che consente gli exploit di root tramite JWT**  
-  Fonte: The Hacker News, 08 May 2025, 04:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html>)
 
-- **Smashing Security Podcast #416: High Street Hacks e Disney's Wingdings Woe**  
-  Fonte: Graham Cluley, 08 May 2025, 00:18:11 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-416/>)
-
-- **La ditta pakistana ha spedito analoghi di fentanil, truffe per noi**  
-  Fonte: Krebs on Security, 07 May 2025, 22:22:48 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/>)
-
-- **Europol chiude sei servizi DDO per noleggio utilizzati negli attacchi globali**  
-  Fonte: The Hacker News, 07 May 2025, 13:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-05-14 13:47:46 UTC -->
+<!-- Ultimo aggiornamento: 2025-05-15 06:52:40 UTC -->
