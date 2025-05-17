@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications**  
+  Fonte: The Hacker News, 17 May 2025, 04:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html>)
+
+- **Aggiornamento settimanale 452**  
+  Fonte: Troy Hunt, 16 May 2025, 21:12:07 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-452/>)
+
+- **Blogging di calamari del venerdì: simulazione di calamari per animali domestici**  
+  Fonte: Schneier on Security, 16 May 2025, 21:05:32 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-pet-squid-simulation.html>)
+
+- **Microsoft conferma che gli aggiornamenti di Windows 10 attivano il recupero di bitlocker**  
+  Fonte: BleepingComputer, 16 May 2025, 18:36:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/>)
+
+- **Israel arresta il nuovo sospetto dietro Nomad Bridge $ 190m Crypto Hack**  
+  Fonte: BleepingComputer, 16 May 2025, 16:25:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/legal/israel-arrests-new-suspect-behind-nomad-bridge-190m-crypto-hack/>)
+
+- **Chatgpt lancia Codex, uno strumento AI per la programmazione del software**  
+  Fonte: BleepingComputer, 16 May 2025, 15:49:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-codex-an-ai-tool-for-software-programming/>)
+
+- **Hacker Exploit VMware ESXI, Microsoft SharePoint Zero-Days a PWN2Own**  
+  Fonte: BleepingComputer, 16 May 2025, 15:23:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-vmware-esxi-microsoft-sharepoint-zero-days-at-pwn2own/>)
+
+- **Trasparenza della vulnerabilità: rafforzare la sicurezza attraverso la divulgazione responsabile**  
+  Fonte: Cloudflare Blog - Security, 16 May 2025, 15:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/vulnerability-transparency-strengthening-security-through-responsible/>)
+
+- **Maker di stampante Procolorato Driver offerto da malware per mesi**  
+  Fonte: BleepingComputer, 16 May 2025, 14:56:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/>)
+
+- **Le bande di ransomware utilizzano sempre più malware post-sfruttamento skitnet**  
+  Fonte: BleepingComputer, 16 May 2025, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-gangs-increasingly-use-skitnet-post-exploitation-malware/>)
+
+- **Backdoor delle comunicazioni negli inverter di potenza cinese**  
+  Fonte: Schneier on Security, 16 May 2025, 13:55:28 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/05/communications-backdoor-in-chinese-power-inverters.html>)
+
+- **Il nuovo Botnet HTTPBOT lancia oltre 200 attacchi DDO di precisione ai settori dei giochi e della tecnologia**  
+  Fonte: The Hacker News, 16 May 2025, 11:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html>)
+
+- **Prescrizione per il disastro: dati sensibili del paziente trapelati nella violazione dell'ascensione**  
+  Fonte: Graham Cluley, 16 May 2025, 11:25:43 UTC  
+  [Leggi](<https://www.fortra.com/blog/prescription-disaster-sensitive-patient-data-leaked-ascension-hack>)
+
+- **Le 10 migliori migliori pratiche per un'efficace protezione dei dati**  
+  Fonte: The Hacker News, 16 May 2025, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html>)
+
+- **I ricercatori espongono nuovi difetti della CPU Intel che consentono perdite di memoria e attacchi di Spectre V2**  
+  Fonte: The Hacker News, 16 May 2025, 09:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html>)
+
+- **USA addebiti altri 12 sospetti legati a $ 230 milioni di cripto**  
+  Fonte: BleepingComputer, 16 May 2025, 09:06:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-12-more-suspects-linked-to-230-million-crypto-theft/>)
+
+- **Tag CISA ha recentemente patch Chrome Bug come sfruttato attivamente**  
+  Fonte: BleepingComputer, 16 May 2025, 08:13:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-tags-recently-patched-chrome-bug-as-actively-exploited-zero-day/>)
+
+- **Rat REMCOS senza fila consegnata tramite file LNK e MSHTA in attacchi basati su PowerShell**  
+  Fonte: The Hacker News, 16 May 2025, 07:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html>)
+
 - **Leak conferma che Openi's Chatgpt integrerà MCP**  
   Fonte: BleepingComputer, 15 May 2025, 23:53:37 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openais-chatgpt-will-integrate-mcp/>)
@@ -38,25 +110,9 @@
   Fonte: BleepingComputer, 15 May 2025, 16:38:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/nova-scotia-power-confirms-hackers-stole-customer-data-in-cyberattack/>)
 
-- **Windows 11 e Red Hat Linux ha violato il primo giorno di PWN2Own**  
-  Fonte: BleepingComputer, 15 May 2025, 15:48:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/windows-11-and-red-hat-linux-virtualbox-hacked-on-first-day-of-pwn2own/>)
-
-- **Il nuovo strumento Tor Oniux anonimizza il traffico di rete di qualsiasi app Linux**  
-  Fonte: BleepingComputer, 15 May 2025, 15:20:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-tor-oniux-tool-anonymizes-any-linux-apps-network-traffic/>)
-
 - **Gli agenti di Coinbase hanno corrotto, dati di ~ 1% di utenti trapelati;Il tentativo di estorsione di $ 20 milioni fallisce**  
   Fonte: The Hacker News, 15 May 2025, 14:28:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/coinbase-agents-bribed-data-of-1-users.html>)
-
-- **Il pacchetto NPM dannoso utilizza la steganografia Unicode per eludere il rilevamento**  
-  Fonte: BleepingComputer, 15 May 2025, 13:31:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-npm-package-uses-unicode-steganography-to-evade-detection/>)
-
-- **La violazione dei dati di Coinbase espone le informazioni sui clienti e gli ID governativi**  
-  Fonte: BleepingComputer, 15 May 2025, 13:28:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/coinbase-discloses-breach-faces-up-to-400-million-in-losses/>)
 
 - **Test della penna solo per conformità?È tempo di cambiare il tuo approccio**  
   Fonte: The Hacker News, 15 May 2025, 11:25:00 UTC  
@@ -66,7 +122,7 @@
   Fonte: Schneier on Security, 15 May 2025, 11:00:33 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/05/ai-generated-law.html>)
 
-- **La nuova vulnerabilità di Chrome abilita la perdita di dati incrociata tramite Politica di referrer del caricatore**  
+- **La nuova vulnerabilità di Chrome abilita la perdita di dati incrociata tramite COLITICO DI RIFERIMENTO del caricatore**  
   Fonte: The Hacker News, 15 May 2025, 10:43:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html>)
 
@@ -82,21 +138,9 @@
   Fonte: The Hacker News, 15 May 2025, 10:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html>)
 
-- **Google fissa il difetto cromatico ad alta gravità con exploit pubblico**  
-  Fonte: BleepingComputer, 15 May 2025, 08:25:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-fixes-high-severity-chrome-flaw-with-public-exploit/>)
-
 - **Smashing Security Podcast #417: ciao, pervertito!- truffe di sestozione e disastri di discordia**  
   Fonte: Graham Cluley, 14 May 2025, 23:00:32 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-417/>)
-
-- **Google Chrome per bloccare i lanci del browser a livello di amministrazione per una migliore sicurezza**  
-  Fonte: BleepingComputer, 14 May 2025, 20:25:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-chrome-to-block-admin-level-browser-launches-for-better-security/>)
-
-- **Hacker dietro gli attacchi al dettaglio nel Regno Unito ora mirano alle aziende statunitensi**  
-  Fonte: BleepingComputer, 14 May 2025, 19:38:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-scattered-spider-switches-targets-to-us-retail-chains/>)
 
 - **Patch Samsung CVE-2025-4632 Utilizzato per distribuire la botnet Mirai tramite MagicInfo 9 Exploit**  
   Fonte: The Hacker News, 14 May 2025, 17:57:00 UTC  
@@ -218,45 +262,5 @@
   Fonte: The Hacker News, 10 May 2025, 06:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html>)
 
-- **Blogging di calamari del venerdì: calamari giganti video subacquei giapponesi**  
-  Fonte: Schneier on Security, 09 May 2025, 21:05:31 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-japanese-divers-video-giant-squid.html>)
 
-- **Breaking: botnet proxy da 7.000 dispositivi utilizzando IoT, sistemi EOL smantellati negli Stati Uniti - operazione olandese**  
-  Fonte: The Hacker News, 09 May 2025, 16:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/breaking-7000-device-proxy-botnet-using.html>)
-
-- **OtterCookie V4 aggiunge il rilevamento VM e le capacità di furto di credenziali Chrome, Metamask**  
-  Fonte: The Hacker News, 09 May 2025, 16:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/ottercookie-v4-adds-vm-detection-and.html>)
-
-- **Broker di accesso iniziale Target Brasile Execs tramite prove NF-E e legittimo RMM**  
-  Fonte: The Hacker News, 09 May 2025, 11:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/initial-access-brokers-target-brazil.html>)
-
-- **Lockbit Ransomware Gang Breaked, segreti esposti**  
-  Fonte: Graham Cluley, 09 May 2025, 11:16:30 UTC  
-  [Leggi](<https://www.tripwire.com/state-of-security/lockbit-ransomware-gang-breached-secrets-exposed>)
-
-- **Distribuire agenti di intelligenza artificiale?Impara a proteggerli prima che gli hacker colpiscano la tua attività**  
-  Fonte: The Hacker News, 09 May 2025, 11:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/deploying-ai-agents-learn-to-secure.html>)
-
-- **I pacchetti NPM dannosi infettano oltre 3.200 utenti del cursore con backdoor, rubano credenziali**  
-  Fonte: The Hacker News, 09 May 2025, 10:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/malicious-npm-packages-infect-3200.html>)
-
-- **Oltre la gestione della vulnerabilità - puoi cve quello che ho?**  
-  Fonte: The Hacker News, 09 May 2025, 10:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/beyond-vulnerability-management-cves.html>)
-
-- **Gli hacker colpiscono la compagnia aerea di deportazione globale, si manifesta il volo per le perdite e lasciano un messaggio insignificante per "Donnie" Trump**  
-  Fonte: Graham Cluley, 09 May 2025, 09:04:13 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-globalx-message-trump>)
-
-- **Google lancia protezioni di intelligenza artificiale in dispositivo per rilevare truffe in Chrome e Android**  
-  Fonte: The Hacker News, 09 May 2025, 07:13:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/google-rolls-out-on-device-ai.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-05-16 06:52:27 UTC -->
+<!-- Ultimo aggiornamento: 2025-05-17 06:46:32 UTC -->
