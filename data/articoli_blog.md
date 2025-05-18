@@ -2,7 +2,11 @@
 
 ## Ultimi 7 giorni
 
-- **[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern Applications**  
+- **Il nuovo strumento di "DeficeNnot" inganna Windows a disabilitare Microsoft Defender**  
+  Fonte: BleepingComputer, 17 May 2025, 14:09:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/>)
+
+- **[Webinar] Dal codice a cloud a soc: impara un modo più intelligente per difendere le applicazioni moderne**  
   Fonte: The Hacker News, 17 May 2025, 04:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html>)
 
@@ -34,11 +38,11 @@
   Fonte: Cloudflare Blog - Security, 16 May 2025, 15:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/vulnerability-transparency-strengthening-security-through-responsible/>)
 
-- **Maker di stampante Procolorato Driver offerto da malware per mesi**  
+- **Maker di stampante Procolored Driver offerto da malware per mesi**  
   Fonte: BleepingComputer, 16 May 2025, 14:56:51 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/>)
 
-- **Le bande di ransomware utilizzano sempre più malware post-sfruttamento skitnet**  
+- **Le bande di ransomware utilizzano sempre più malware post-sfruttamento Skitnet**  
   Fonte: BleepingComputer, 16 May 2025, 14:00:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-gangs-increasingly-use-skitnet-post-exploitation-malware/>)
 
@@ -46,7 +50,7 @@
   Fonte: Schneier on Security, 16 May 2025, 13:55:28 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/05/communications-backdoor-in-chinese-power-inverters.html>)
 
-- **Il nuovo Botnet HTTPBOT lancia oltre 200 attacchi DDO di precisione ai settori dei giochi e della tecnologia**  
+- **Il nuovo Botnet HTTPBOT lancia oltre 200 attacchi DDoS di precisione ai settori dei giochi e della tecnologia**  
   Fonte: The Hacker News, 16 May 2025, 11:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html>)
 
@@ -82,7 +86,7 @@
   Fonte: BleepingComputer, 15 May 2025, 23:09:40 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-soon-record-transcribe-and-summarize-your-meetings/>)
 
-- **Windows 10 KB5058379 Aggiornamento Triggers BitLocker Recovery su alcuni dispositivi**  
+- **Windows 10 KB5058379 Aggiornamento Trigger BitLocker Recovery su alcuni dispositivi**  
   Fonte: BleepingComputer, 15 May 2025, 21:38:27 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-triggering-bitlocker-recovery-after-install/>)
 
@@ -98,17 +102,9 @@
   Fonte: BleepingComputer, 15 May 2025, 19:14:39 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/government-webmail-hacked-via-xss-bugs-in-global-spy-campaign/>)
 
-- **FBI: funzionari statunitensi presi di mira negli attacchi di DeepFake da aprile**  
-  Fonte: BleepingComputer, 15 May 2025, 18:22:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/>)
-
 - **Meta per addestrare l'IA in E.U.Dati dell'utente dal 27 maggio senza consenso;Noyb minaccia la causa**  
   Fonte: The Hacker News, 15 May 2025, 16:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/meta-to-train-ai-on-eu-user-data-from.html>)
-
-- **Nova Scotia Power conferma gli hacker rubato i dati dei clienti in Cyberattack**  
-  Fonte: BleepingComputer, 15 May 2025, 16:38:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nova-scotia-power-confirms-hackers-stole-customer-data-in-cyberattack/>)
 
 - **Gli agenti di Coinbase hanno corrotto, dati di ~ 1% di utenti trapelati;Il tentativo di estorsione di $ 20 milioni fallisce**  
   Fonte: The Hacker News, 15 May 2025, 14:28:00 UTC  
@@ -122,7 +118,7 @@
   Fonte: Schneier on Security, 15 May 2025, 11:00:33 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/05/ai-generated-law.html>)
 
-- **La nuova vulnerabilità di Chrome abilita la perdita di dati incrociata tramite COLITICO DI RIFERIMENTO del caricatore**  
+- **La nuova vulnerabilità di Chrome abilita la perdita di dati incrociata tramite Politica di referrer del caricatore**  
   Fonte: The Hacker News, 15 May 2025, 10:43:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html>)
 
@@ -130,7 +126,7 @@
   Fonte: The Hacker News, 15 May 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html>)
 
-- **APT28 Russia APT28 ha sfruttato mdaemon zero-day per hackerare i server del webmail del governo**  
+- **APT28 Russia APT28 ha sfruttato Mdaemon Zero-Day per hackerare i server di webmail del governo**  
   Fonte: The Hacker News, 15 May 2025, 10:05:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html>)
 
@@ -158,7 +154,7 @@
   Fonte: The Hacker News, 14 May 2025, 15:27:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/xinbi-telegram-market-tied-to-84b-in.html>)
 
-- **CTM360 Identifica l'aumento degli attacchi di phishing rivolti agli utenti di meta imprenditoriali**  
+- **CTM360 Identifica l'aumento degli attacchi di phishing rivolti agli utenti di Meta Business**  
   Fonte: The Hacker News, 14 May 2025, 14:05:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html>)
 
@@ -206,7 +202,7 @@
   Fonte: The Hacker News, 13 May 2025, 14:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html>)
 
-- **Due anni di carcere per il suo uomo down-in-dotto che ha venduto Ransomware online**  
+- **Due anni di carcere per il suo uomo down-su-dotto che ha venduto Ransomware online**  
   Fonte: Graham Cluley, 13 May 2025, 12:38:17 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/two-years-jail-for-down-on-his-luck-man-who-sold-ransomware-online>)
 
@@ -250,17 +246,5 @@
   Fonte: The Hacker News, 12 May 2025, 07:26:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html>)
 
-- **Aggiornamento settimanale 451**  
-  Fonte: Troy Hunt, 10 May 2025, 22:28:00 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-451/>)
 
-- **Google paga $ 1,375 miliardi in Texas per monitoraggio non autorizzato e raccolta di dati biometrici**  
-  Fonte: The Hacker News, 10 May 2025, 06:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/google-pays-1375-billion-to-texas-over.html>)
-
-- **La Germania chiude a un riciclaggio di oltre 1,9 miliardi di dollari, sequestra 34 milioni di euro in cripto e 8 TB di dati**  
-  Fonte: The Hacker News, 10 May 2025, 06:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/germany-shuts-down-exch-over-19b.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-05-17 06:46:32 UTC -->
+<!-- Ultimo aggiornamento: 2025-05-18 06:50:47 UTC -->
