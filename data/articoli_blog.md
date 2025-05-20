@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **Pacchetti pypi dannosi sfruttano Instagram e tiktok API per convalidare gli account utente**  
+  Fonte: The Hacker News, 20 May 2025, 05:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html>)
+
+- **Openi prevede di combinare più modelli in GPT-5**  
+  Fonte: BleepingComputer, 19 May 2025, 22:11:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/>)
+
+- **Il manager di password Keepass falso porta all'attacco Ransomware ESXI**  
+  Fonte: BleepingComputer, 19 May 2025, 21:17:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/>)
+
+- **Sono stato Pwned 2.0 è ora in diretta!**  
+  Fonte: Troy Hunt, 19 May 2025, 20:19:29 UTC  
+  [Leggi](<https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/>)
+
+- **O2 Patch UK Bug che perde la posizione dell'utente mobile dai metadati delle chiamate**  
+  Fonte: BleepingComputer, 19 May 2025, 19:20:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/o2-uk-patches-bug-leaking-mobile-user-location-from-call-metadata/>)
+
+- **Gli aggiornamenti di emergenza di Windows 10 risolvono i problemi di recupero bitlocker**  
+  Fonte: BleepingComputer, 19 May 2025, 17:59:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-emergency-updates-fix-bitlocker-recovery-issues/>)
+
+- **Arla Foods conferma che il cyberack interrompe la produzione, provoca ritardi**  
+  Fonte: BleepingComputer, 19 May 2025, 17:53:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/arla-foods-confirms-cyberattack-disrupts-production-causes-delays/>)
+
+- **Microsoft svela Windows Ai Foundry per app per PC basato sull'intelligenza artificiale**  
+  Fonte: BleepingComputer, 19 May 2025, 16:18:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-windows-ai-foundry-for-ai-powered-pc-apps/>)
+
+- **Microsoft conferma le nuove impostazioni "avanzate" per Windows 11**  
+  Fonte: BleepingComputer, 19 May 2025, 16:06:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-advanced-settings-for-windows-11/>)
+
+- **Sottosistema Windows Microsoft Open-Sources per Linux a Build 2025**  
+  Fonte: BleepingComputer, 19 May 2025, 16:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/>)
+
+- **Sito ufficiale di Rvtools hackerato per consegnare malware bumblebee tramite installatore trojanizzato**  
+  Fonte: The Hacker News, 19 May 2025, 15:48:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html>)
+
+- **L'agenzia di assistenza legale del Regno Unito conferma i dati dei candidati rubati nella violazione dei dati**  
+  Fonte: BleepingComputer, 19 May 2025, 15:10:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/>)
+
+- **Le bande ransomware utilizzano malware skitnet per furti di dati furtivi e accesso remoto**  
+  Fonte: The Hacker News, 19 May 2025, 14:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html>)
+
+- **Mozilla fissa Firefox Zero-Days sfruttato al concorso di hacking**  
+  Fonte: BleepingComputer, 19 May 2025, 14:10:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/>)
+
+- **Gli hacker guadagnano $ 1.078.750 per 28 giorni zero a PWN2Own Berlin**  
+  Fonte: BleepingComputer, 19 May 2025, 14:03:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-earn-1-078-750-for-28-zero-days-at-pwn2own-berlin/>)
+
+- **"Cinquant'anni di crittografia matematica dell'NSA (1937-1987)"**  
+  Fonte: Schneier on Security, 19 May 2025, 11:06:23 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/05/the-nsas-fifty-years-of-mathematical-cryptanalysis-1937-1987.html>)
+
+- **L'IA Fix nominata per il Top Podcast Award.Vota ora!**  
+  Fonte: Graham Cluley, 19 May 2025, 11:02:44 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-nominated-for-top-podcast-award-vote-now/>)
+
+- **Perché CTEM è la scommessa vincente per i CISO nel 2025**  
+  Fonte: The Hacker News, 19 May 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html>)
+
+- **Patch Firefox 2 zero-days sfruttati a PWN2Own Berlin con $ 100k in premi**  
+  Fonte: The Hacker News, 19 May 2025, 10:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html>)
+
+- **⚡ Riepilogo settimanale: exploit zero-day, minacce interne, targeting appropriato, botnet e altro ancora**  
+  Fonte: The Hacker News, 19 May 2025, 10:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html>)
+
 - **Il nuovo strumento di "DeficeNnot" inganna Windows a disabilitare Microsoft Defender**  
   Fonte: BleepingComputer, 17 May 2025, 14:09:19 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/>)
@@ -18,39 +98,15 @@
   Fonte: Schneier on Security, 16 May 2025, 21:05:32 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-pet-squid-simulation.html>)
 
-- **Microsoft conferma che gli aggiornamenti di Windows 10 attivano il recupero di bitlocker**  
-  Fonte: BleepingComputer, 16 May 2025, 18:36:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/>)
-
-- **Israel arresta il nuovo sospetto dietro Nomad Bridge $ 190m Crypto Hack**  
-  Fonte: BleepingComputer, 16 May 2025, 16:25:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/israel-arrests-new-suspect-behind-nomad-bridge-190m-crypto-hack/>)
-
-- **Chatgpt lancia Codex, uno strumento AI per la programmazione del software**  
-  Fonte: BleepingComputer, 16 May 2025, 15:49:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-codex-an-ai-tool-for-software-programming/>)
-
-- **Hacker Exploit VMware ESXI, Microsoft SharePoint Zero-Days a PWN2Own**  
-  Fonte: BleepingComputer, 16 May 2025, 15:23:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-vmware-esxi-microsoft-sharepoint-zero-days-at-pwn2own/>)
-
 - **Trasparenza della vulnerabilità: rafforzare la sicurezza attraverso la divulgazione responsabile**  
   Fonte: Cloudflare Blog - Security, 16 May 2025, 15:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/vulnerability-transparency-strengthening-security-through-responsible/>)
-
-- **Maker di stampante Procolored Driver offerto da malware per mesi**  
-  Fonte: BleepingComputer, 16 May 2025, 14:56:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/printer-maker-procolored-offered-malware-laced-drivers-for-months/>)
-
-- **Le bande di ransomware utilizzano sempre più malware post-sfruttamento Skitnet**  
-  Fonte: BleepingComputer, 16 May 2025, 14:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-gangs-increasingly-use-skitnet-post-exploitation-malware/>)
 
 - **Backdoor delle comunicazioni negli inverter di potenza cinese**  
   Fonte: Schneier on Security, 16 May 2025, 13:55:28 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/05/communications-backdoor-in-chinese-power-inverters.html>)
 
-- **Il nuovo Botnet HTTPBOT lancia oltre 200 attacchi DDoS di precisione ai settori dei giochi e della tecnologia**  
+- **Il nuovo Botnet HTTPBOT lancia oltre 200 attacchi DDO di precisione ai settori dei giochi e della tecnologia**  
   Fonte: The Hacker News, 16 May 2025, 11:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html>)
 
@@ -66,29 +122,9 @@
   Fonte: The Hacker News, 16 May 2025, 09:08:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html>)
 
-- **USA addebiti altri 12 sospetti legati a $ 230 milioni di cripto**  
-  Fonte: BleepingComputer, 16 May 2025, 09:06:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-12-more-suspects-linked-to-230-million-crypto-theft/>)
-
-- **Tag CISA ha recentemente patch Chrome Bug come sfruttato attivamente**  
-  Fonte: BleepingComputer, 16 May 2025, 08:13:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-tags-recently-patched-chrome-bug-as-actively-exploited-zero-day/>)
-
 - **Rat REMCOS senza fila consegnata tramite file LNK e MSHTA in attacchi basati su PowerShell**  
   Fonte: The Hacker News, 16 May 2025, 07:56:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html>)
-
-- **Leak conferma che Openi's Chatgpt integrerà MCP**  
-  Fonte: BleepingComputer, 15 May 2025, 23:53:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openais-chatgpt-will-integrate-mcp/>)
-
-- **Chatgpt registrerà presto, trascriverà e riassumerà le riunioni**  
-  Fonte: BleepingComputer, 15 May 2025, 23:09:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-soon-record-transcribe-and-summarize-your-meetings/>)
-
-- **Windows 10 KB5058379 Aggiornamento Trigger BitLocker Recovery su alcuni dispositivi**  
-  Fonte: BleepingComputer, 15 May 2025, 21:38:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-triggering-bitlocker-recovery-after-install/>)
 
 - **Bossforums Boss per pagare $ 700k in violazione della sanità**  
   Fonte: Krebs on Security, 15 May 2025, 19:56:51 UTC  
@@ -97,10 +133,6 @@
 - **Accogliendo il governo malese per essere stato pwned**  
   Fonte: Troy Hunt, 15 May 2025, 19:30:10 UTC  
   [Leggi](<https://www.troyhunt.com/welcoming-the-malaysian-government-to-have-i-been-pwned/>)
-
-- **Webmail del governo hackerato tramite XSS Bugs in Global Spy Campaign**  
-  Fonte: BleepingComputer, 15 May 2025, 19:14:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/government-webmail-hacked-via-xss-bugs-in-global-spy-campaign/>)
 
 - **Meta per addestrare l'IA in E.U.Dati dell'utente dal 27 maggio senza consenso;Noyb minaccia la causa**  
   Fonte: The Hacker News, 15 May 2025, 16:45:00 UTC  
@@ -126,7 +158,7 @@
   Fonte: The Hacker News, 15 May 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html>)
 
-- **APT28 Russia APT28 ha sfruttato Mdaemon Zero-Day per hackerare i server di webmail del governo**  
+- **APT28 Russia APT28 ha sfruttato mdaemon zero-day per hackerare i server del webmail del governo**  
   Fonte: The Hacker News, 15 May 2025, 10:05:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html>)
 
@@ -154,7 +186,7 @@
   Fonte: The Hacker News, 14 May 2025, 15:27:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/xinbi-telegram-market-tied-to-84b-in.html>)
 
-- **CTM360 Identifica l'aumento degli attacchi di phishing rivolti agli utenti di Meta Business**  
+- **CTM360 Identifica l'aumento degli attacchi di phishing rivolti agli utenti di meta imprenditoriali**  
   Fonte: The Hacker News, 14 May 2025, 14:05:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/ctm360-identifies-surge-in-phishing.html>)
 
@@ -202,7 +234,7 @@
   Fonte: The Hacker News, 13 May 2025, 14:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html>)
 
-- **Due anni di carcere per il suo uomo down-su-dotto che ha venduto Ransomware online**  
+- **Due anni di carcere per il suo uomo down-in-dotto che ha venduto Ransomware online**  
   Fonte: Graham Cluley, 13 May 2025, 12:38:17 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/two-years-jail-for-down-on-his-luck-man-who-sold-ransomware-online>)
 
@@ -218,33 +250,5 @@
   Fonte: The Hacker News, 13 May 2025, 10:57:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/north-korean-konni-apt-targets-ukraine.html>)
 
-- **Il sospetto di arresto della polizia di Moldavan in un attacco ransomware di 4,5 milioni di euro contro l'agenzia di ricerca olandese**  
-  Fonte: The Hacker News, 13 May 2025, 06:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/moldovan-police-arrest-suspect-in-45m.html>)
 
-- **Gli hacker di Türkiye hanno sfruttato la produzione di messenger zero-day per far cadere backdoor di Golang su server curdi**  
-  Fonte: The Hacker News, 13 May 2025, 05:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/turkiye-hackers-exploited-output.html>)
-
-- **Patch asus driverhub rce difetti sfruttabile tramite http e file .ini realizzati**  
-  Fonte: The Hacker News, 12 May 2025, 14:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html>)
-
-- **⚡ Riepilogo settimanale: exploit zero-day, malware per sviluppatori, botnet IoT e truffe alimentate dall'intelligenza artificiale**  
-  Fonte: The Hacker News, 12 May 2025, 12:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits.html>)
-
-- **La fattura backdoor della Florida fallisce**  
-  Fonte: Schneier on Security, 12 May 2025, 11:01:34 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/05/florida-backdoor-bill-fails.html>)
-
-- **Il problema della persistenza: perché le credenziali esposte rimangono non fissate e come cambiarlo**  
-  Fonte: The Hacker News, 12 May 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/the-persistence-problem-why-exposed.html>)
-
-- **Strumenti AI falsi utilizzati per diffondere il malware noodlofilo, prendendo di mira 62.000+ tramite Facebook Tallares**  
-  Fonte: The Hacker News, 12 May 2025, 07:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/fake-ai-tools-used-to-spread.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-05-19 06:53:05 UTC -->
+<!-- Ultimo aggiornamento: 2025-05-20 06:53:30 UTC -->
