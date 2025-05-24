@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Openai conferma che l'agente dell'operatore è ora più accurato con O3**  
+  Fonte: BleepingComputer, 23 May 2025, 23:10:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-operator-agent-is-now-more-accurate-with-o3/>)
+
+- **Blogging di calamari del venerdì: nave navale americana attaccata da Squid nel 1978**  
+  Fonte: Schneier on Security, 23 May 2025, 21:02:10 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-us-naval-ship-attacked-by-squid-in-1978.html>)
+
+- **Dozzine di pacchetti dannosi su NPM raccolgono dati host e di rete**  
+  Fonte: BleepingComputer, 23 May 2025, 17:37:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/>)
+
+- **Gli hacker usano i video tiktok per distribuire il malware Vidar e Stealc tramite tecnica ClickFix**  
+  Fonte: The Hacker News, 23 May 2025, 17:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html>)
+
+- **Hacker ruba 223 milioni di dollari nella rapina di criptovaluta del protocollo Cetus**  
+  Fonte: BleepingComputer, 23 May 2025, 15:46:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-steals-223-million-in-cetus-protocol-cryptocurrency-heist/>)
+
+- **L'FBI avverte degli attacchi di estorsione della falena di Luna mira agli studi legali**  
+  Fonte: BleepingComputer, 23 May 2025, 15:26:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-luna-moth-extortion-attacks-targeting-law-firms/>)
+
+- **ViciousTrap utilizza Cisco Flaw per costruire honeypot globale da 5.300 dispositivi compromessi**  
+  Fonte: The Hacker News, 23 May 2025, 12:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html>)
+
+- **Il segnale blocca il richiamo di Windows**  
+  Fonte: Schneier on Security, 23 May 2025, 11:02:59 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/05/signal-blocks-windows-recall.html>)
+
+- **300 server e 3,5 milioni di euro sequestrati come Europol Strikes Ransomware Networks in tutto il mondo**  
+  Fonte: The Hacker News, 23 May 2025, 10:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html>)
+
+- **Safeline WAF: firewall dell'applicazione Web open source con rilevamento zero-day e protezione del bot**  
+  Fonte: The Hacker News, 23 May 2025, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/safeline-waf-open-source-web.html>)
+
+- **I video di Tiktok ora spingono il malware Infostealer negli attacchi ClickFix**  
+  Fonte: BleepingComputer, 23 May 2025, 09:50:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/>)
+
+- **3am Ransomware Attack pone come una chiamata dal supporto IT alle reti di compromesso**  
+  Fonte: Graham Cluley, 23 May 2025, 09:08:14 UTC  
+  [Leggi](<https://www.tripwire.com/state-of-security/3am-ransomware-attackers-pose-it-support-compromise-networks>)
+
+- **Il blocco note di Windows 11 ottiene funzionalità di scrittura di testo alimentate dall'intelligenza artificiale**  
+  Fonte: BleepingComputer, 23 May 2025, 08:26:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-gets-ai-powered-text-writing-capabilities/>)
+
+- **Network Malware Danabot degli Stati Uniti Danabot, addebita 16 in $ 50 milioni Global Crime Crime Operation**  
+  Fonte: The Hacker News, 23 May 2025, 07:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html>)
+
+- **La polizia abbassa 300 server nella repressione della catena di alimentazione ransomware**  
+  Fonte: BleepingComputer, 23 May 2025, 06:58:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-takes-down-300-servers-in-ransomware-supply-chain-crackdown/>)
+
 - **CISA avverte di sospetti attacchi SaaS più ampi che sfruttano i segreti delle app e le cattive di cloud**  
   Fonte: The Hacker News, 23 May 2025, 05:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html>)
@@ -50,10 +110,6 @@
   Fonte: The Hacker News, 22 May 2025, 12:35:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html>)
 
-- **FTC finalizza l'ordine che richiede a GoDaddy di garantire i servizi di hosting**  
-  Fonte: BleepingComputer, 22 May 2025, 12:28:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ftc-finalizes-order-requiring-godaddy-to-secure-hosting-services/>)
-
 - **Hacker cinesi Exploit Ivanti EPMM Bugs in Global Enterprise Network Attacks**  
   Fonte: The Hacker News, 22 May 2025, 12:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html>)
@@ -74,14 +130,6 @@
   Fonte: The Hacker News, 22 May 2025, 11:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html>)
 
-- **Il segnale ora blocca gli screenshot di Microsoft Richiamo su Windows 11**  
-  Fonte: BleepingComputer, 22 May 2025, 10:32:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/signal-now-blocks-microsoft-recall-screenshots-on-windows-11/>)
-
-- **Gli insetti critici non impazziti in Versa Concerto portano al bypass di autenticazione, RCE**  
-  Fonte: BleepingComputer, 22 May 2025, 09:18:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/unpatched-critical-bugs-in-versa-concerto-lead-to-auth-bypass-rce/>)
-
 - **DOJ addebita 12 in più in $ 263 milioni Crypto Frode Takedown in cui il denaro era nascosto in animali da squishmallow imbottiti**  
   Fonte: Graham Cluley, 22 May 2025, 08:29:42 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/doj-charges-12-263-million-crypto-fraud-takedown-where-money-hidden-squishmallow-stuffed-animals>)
@@ -90,25 +138,9 @@
   Fonte: The Hacker News, 22 May 2025, 08:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html>)
 
-- **Suggerimenti di configurazione web antropica su Claude Sonnet 4 e Opus 4**  
-  Fonte: BleepingComputer, 21 May 2025, 23:01:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-web-config-hints-at-claude-sonnet-4-and-opus-4/>)
-
 - **Smashing Security Podcast #418: guasti alla griglia, truffe di Instagram e perdite di assistenza legale**  
   Fonte: Graham Cluley, 21 May 2025, 23:00:32 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-418/>)
-
-- **Openi suggerisce un grande aggiornamento per l'agente dell'operatore Chatgpt**  
-  Fonte: BleepingComputer, 21 May 2025, 22:33:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hints-at-a-big-upgrade-for-chatgpt-operator-agent/>)
-
-- **Critical Samlify SSO Flaw consente agli aggressori di accedere come amministratore**  
-  Fonte: BleepingComputer, 21 May 2025, 22:11:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-samlify-sso-flaw-lets-attackers-log-in-as-admin/>)
-
-- **Gli hacker russi violano le organizzazioni per tenere traccia delle rotte degli aiuti in Ucraina**  
-  Fonte: BleepingComputer, 21 May 2025, 21:21:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-hackers-breach-orgs-to-track-aid-routes-to-ukraine/>)
 
 - **Hacker russi Exploit Email e VPN Vulnerabilità per spiare la logistica degli aiuti ucraine**  
   Fonte: The Hacker News, 21 May 2025, 18:06:00 UTC  
@@ -134,7 +166,7 @@
   Fonte: The Hacker News, 21 May 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html>)
 
-- **I ricercatori espongono l'attacco JavaScript PWA che reindirizza gli utenti alle app per truffe per adulti**  
+- **I ricercatori espongono l'attacco JavaScript PWA che reindirizza gli utenti alle app di truffa per adulti**  
   Fonte: The Hacker News, 21 May 2025, 09:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html>)
 
@@ -150,7 +182,7 @@
   Fonte: The Hacker News, 20 May 2025, 15:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html>)
 
-- **100+ estensioni cromate false trovate sessioni di dirottamento, furto di credenziali, iniettando annunci**  
+- **Oltre 100 estensioni cromate false trovate sessioni di dirottamento, furto di credenziali, iniettando annunci**  
   Fonte: The Hacker News, 20 May 2025, 15:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html>)
 
@@ -170,7 +202,7 @@
   Fonte: The Hacker News, 20 May 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html>)
 
-- **Ministeri dell'Asia meridionale colpiti da Sidewinder Apt usando i vecchi difetti degli uffici e malware personalizzato**  
+- **Ministeri dell'Asia meridionale colpiti da Sidewinder Apt usando i vecchi difetti dell'ufficio e malware personalizzato**  
   Fonte: The Hacker News, 20 May 2025, 10:57:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html>)
 
@@ -202,7 +234,7 @@
   Fonte: The Hacker News, 19 May 2025, 14:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html>)
 
-- **"Cinquant'anni di crittografia matematica dell'NSA (1937-1987)"**  
+- **"Cinquant'anni di criptanalisi matematica della NSA (1937-1987)"**  
   Fonte: Schneier on Security, 19 May 2025, 11:06:23 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/05/the-nsas-fifty-years-of-mathematical-cryptanalysis-1937-1987.html>)
 
@@ -222,45 +254,5 @@
   Fonte: The Hacker News, 19 May 2025, 10:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html>)
 
-- **[Webinar] Dal codice a cloud a soc: impara un modo più intelligente per difendere le applicazioni moderne**  
-  Fonte: The Hacker News, 17 May 2025, 04:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html>)
 
-- **Aggiornamento settimanale 452**  
-  Fonte: Troy Hunt, 16 May 2025, 21:12:07 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-452/>)
-
-- **Blogging di calamari del venerdì: simulazione di calamari per animali domestici**  
-  Fonte: Schneier on Security, 16 May 2025, 21:05:32 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-pet-squid-simulation.html>)
-
-- **Trasparenza della vulnerabilità: rafforzare la sicurezza attraverso la divulgazione responsabile**  
-  Fonte: Cloudflare Blog - Security, 16 May 2025, 15:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/vulnerability-transparency-strengthening-security-through-responsible/>)
-
-- **Backdoor delle comunicazioni negli inverter di potenza cinese**  
-  Fonte: Schneier on Security, 16 May 2025, 13:55:28 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/05/communications-backdoor-in-chinese-power-inverters.html>)
-
-- **Il nuovo Botnet HTTPBOT lancia oltre 200 attacchi DDO di precisione ai settori dei giochi e della tecnologia**  
-  Fonte: The Hacker News, 16 May 2025, 11:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html>)
-
-- **Prescrizione per il disastro: dati sensibili del paziente trapelati nella violazione dell'ascensione**  
-  Fonte: Graham Cluley, 16 May 2025, 11:25:43 UTC  
-  [Leggi](<https://www.fortra.com/blog/prescription-disaster-sensitive-patient-data-leaked-ascension-hack>)
-
-- **Le 10 migliori migliori pratiche per un'efficace protezione dei dati**  
-  Fonte: The Hacker News, 16 May 2025, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/top-10-best-practices-for-effective.html>)
-
-- **I ricercatori espongono nuovi difetti della CPU Intel che consentono perdite di memoria e attacchi di Spectre V2**  
-  Fonte: The Hacker News, 16 May 2025, 09:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html>)
-
-- **Rat REMCOS senza fila consegnata tramite file LNK e MSHTA in attacchi basati su PowerShell**  
-  Fonte: The Hacker News, 16 May 2025, 07:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/fileless-remcos-rat-delivered-via-lnk.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-05-23 06:51:20 UTC -->
+<!-- Ultimo aggiornamento: 2025-05-24 06:45:45 UTC -->
