@@ -14,11 +14,11 @@
   Fonte: BleepingComputer, 23 May 2025, 17:37:41 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/>)
 
-- **Gli hacker usano i video tiktok per distribuire il malware Vidar e Stealc tramite tecnica ClickFix**  
+- **Gli hacker usano i video tiktok per distribuire malware Vidar e Stealc tramite tecnica ClickFix**  
   Fonte: The Hacker News, 23 May 2025, 17:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html>)
 
-- **Hacker ruba 223 milioni di dollari nella rapina di criptovaluta del protocollo Cetus**  
+- **Hacker ruba $ 223 milioni nella rapina di criptovaluta del protocollo Cetus**  
   Fonte: BleepingComputer, 23 May 2025, 15:46:22 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-steals-223-million-in-cetus-protocol-cryptocurrency-heist/>)
 
@@ -42,7 +42,7 @@
   Fonte: The Hacker News, 23 May 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/safeline-waf-open-source-web.html>)
 
-- **I video di Tiktok ora spingono il malware Infostealer negli attacchi ClickFix**  
+- **I video tiktok ora spingono il malware Infostealer negli attacchi ClickFix**  
   Fonte: BleepingComputer, 23 May 2025, 09:50:34 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/>)
 
@@ -54,7 +54,7 @@
   Fonte: BleepingComputer, 23 May 2025, 08:26:55 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-gets-ai-powered-text-writing-capabilities/>)
 
-- **Network Malware Danabot degli Stati Uniti Danabot, addebita 16 in $ 50 milioni Global Crime Crime Operation**  
+- **Network Malware Danabot degli Stati Uniti Danabot, addebita 16 in $ 50 milioni di funzionamento globale di criminalità informatica**  
   Fonte: The Hacker News, 23 May 2025, 07:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html>)
 
@@ -66,7 +66,7 @@
   Fonte: The Hacker News, 23 May 2025, 05:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html>)
 
-- **La vulnerabilità del duo Gitlab ha permesso agli aggressori di dirottare le risposte AI con istruzioni nascoste**  
+- **La vulnerabilità del duo Gitlab ha permesso agli aggressori di dirottare le risposte di AI con istruzioni nascoste**  
   Fonte: The Hacker News, 23 May 2025, 04:34:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/gitlab-duo-vulnerability-enabled.html>)
 
@@ -94,7 +94,7 @@
   Fonte: The Hacker News, 22 May 2025, 15:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html>)
 
-- **Ivanti Epmm difetto sfruttato da hacker cinesi per violare le agenzie governative**  
+- **Ivanti Epmm difetto sfruttato da hacker cinesi per violare le agenzie Govt**  
   Fonte: BleepingComputer, 22 May 2025, 14:23:08 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ivanti-epmm-flaw-exploited-by-chinese-hackers-to-breach-govt-agencies/>)
 
@@ -106,7 +106,7 @@
   Fonte: Cloudflare Blog - Security, 22 May 2025, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/resolving-a-request-smuggling-vulnerability-in-pingora/>)
 
-- **Vulnerabilità DMSA di Windows Server Critical 2025 Abilita Active Directory compromesso**  
+- **La vulnerabilità DMSA di Windows Server di Windows Critical 2025 abilita il compromesso di Active Directory**  
   Fonte: The Hacker News, 22 May 2025, 12:35:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html>)
 
@@ -126,7 +126,7 @@
   Fonte: Schneier on Security, 22 May 2025, 11:06:44 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/05/the-voter-experience.html>)
 
-- **I difetti critici Versa Concerto per gli aggressori sfuggono al docker e al compromesso ospiti**  
+- **I difetti critici Versa Concerto per gli aggressori sfuggono al Docker e agli ospiti di compromesso**  
   Fonte: The Hacker News, 22 May 2025, 11:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html>)
 
@@ -146,7 +146,7 @@
   Fonte: The Hacker News, 21 May 2025, 18:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html>)
 
-- **Purerat Malware Spikes 4x nel 2025, dispiegando PureLogs per colpire le imprese russe**  
+- **Purerat Malware Spikes 4x nel 2025, dispiegando PureLogs per colpire le aziende russe**  
   Fonte: The Hacker News, 21 May 2025, 13:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html>)
 
@@ -166,11 +166,11 @@
   Fonte: The Hacker News, 21 May 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html>)
 
-- **I ricercatori espongono l'attacco JavaScript PWA che reindirizza gli utenti alle app di truffa per adulti**  
+- **I ricercatori espongono l'attacco JavaScript PWA che reindirizza gli utenti alle app per truffe per adulti**  
   Fonte: The Hacker News, 21 May 2025, 09:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html>)
 
-- **Il gestore integrato di Google Chrome consente agli utenti di aggiornare le password in violazione con un clic**  
+- **Il gestore integrato di Google Chrome consente agli utenti di aggiornare le password violate con un clic**  
   Fonte: The Hacker News, 21 May 2025, 07:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html>)
 
@@ -226,7 +226,7 @@
   Fonte: Troy Hunt, 19 May 2025, 20:19:29 UTC  
   [Leggi](<https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/>)
 
-- **Sito ufficiale di Rvtools hackerato per consegnare malware bumblebee tramite installatore trojanizzato**  
+- **Sito ufficiale di Rvtools hackerato per consegnare malware Bumblebee tramite installatore Trojanized**  
   Fonte: The Hacker News, 19 May 2025, 15:48:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html>)
 
@@ -246,7 +246,7 @@
   Fonte: The Hacker News, 19 May 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html>)
 
-- **Patch Firefox 2 zero-days sfruttati a PWN2Own Berlin con $ 100k in premi**  
+- **Patch Firefox 2 zero-days sfruttati su PWN2Own Berlin con $ 100k in premi**  
   Fonte: The Hacker News, 19 May 2025, 10:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html>)
 
@@ -255,4 +255,4 @@
   [Leggi](<https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html>)
 
 
-<!-- Ultimo aggiornamento: 2025-05-24 06:45:45 UTC -->
+<!-- Ultimo aggiornamento: 2025-05-25 06:48:20 UTC -->
