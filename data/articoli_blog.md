@@ -2,6 +2,30 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 453**  
+  Fonte: Troy Hunt, 27 May 2025, 00:26:01 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-453/>)
+
+- **Oltre 70 pacchetti maliziosi NPM e VS Code hanno trovato il furto di dati e criptovalute**  
+  Fonte: The Hacker News, 26 May 2025, 14:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html>)
+
+- **Google afferma che gli utenti trovano gli annunci nella ricerca AI "utile"**  
+  Fonte: BleepingComputer, 26 May 2025, 12:45:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-claims-users-find-ads-in-ai-search-helpful/>)
+
+- **Openi prevede di spedire un interessante prodotto chatgpt entro il 2026**  
+  Fonte: BleepingComputer, 26 May 2025, 12:02:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-ship-an-interesting-chatgpt-product-by-2026/>)
+
+- **Guida di Ciso alla convalida della privacy Web e perché è importante**  
+  Fonte: The Hacker News, 26 May 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/cisos-guide-to-web-privacy-validation.html>)
+
+- **⚡ Riepilogo settimanale: campagne APT, dirottanti del browser, malware AI, violazioni del cloud e CVE critici**  
+  Fonte: The Hacker News, 26 May 2025, 09:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/weekly-recap-apt-campaigns-browser.html>)
+
 - **La società di codifica vibrata afferma che Claude 4 ridotto di sintassi degli errori del 25%**  
   Fonte: BleepingComputer, 25 May 2025, 23:04:44 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/vibe-coding-company-says-claude-4-reduced-syntax-errors-by-25-percent/>)
@@ -70,17 +94,9 @@
   Fonte: The Hacker News, 23 May 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/safeline-waf-open-source-web.html>)
 
-- **I video di Tiktok ora spingono il malware Infostealer negli attacchi ClickFix**  
-  Fonte: BleepingComputer, 23 May 2025, 09:50:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/>)
-
 - **Le 3 del ransomware 3 del mattino si presentano come una chiamata dal supporto IT alle reti di compromesso**  
   Fonte: Graham Cluley, 23 May 2025, 09:08:14 UTC  
   [Leggi](<https://www.tripwire.com/state-of-security/3am-ransomware-attackers-pose-it-support-compromise-networks>)
-
-- **Il blocco note di Windows 11 ottiene funzionalità di scrittura di testo alimentate dall'intelligenza artificiale**  
-  Fonte: BleepingComputer, 23 May 2025, 08:26:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-gets-ai-powered-text-writing-capabilities/>)
 
 - **Network Malware Danabot degli Stati Uniti Danabot, addebita 16 in $ 50 milioni Global Crime Crime Operation**  
   Fonte: The Hacker News, 23 May 2025, 07:03:00 UTC  
@@ -218,41 +234,5 @@
   Fonte: The Hacker News, 20 May 2025, 08:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html>)
 
-- **Pacchetti pypi dannosi sfruttano Instagram e tiktok API per convalidare gli account utente**  
-  Fonte: The Hacker News, 20 May 2025, 05:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/malicious-pypi-packages-exploit.html>)
 
-- **Sono stato Pwned 2.0 è ora in diretta!**  
-  Fonte: Troy Hunt, 19 May 2025, 20:19:29 UTC  
-  [Leggi](<https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/>)
-
-- **Sito ufficiale di Rvtools hackerato per consegnare malware bumblebee tramite installatore trojanizzato**  
-  Fonte: The Hacker News, 19 May 2025, 15:48:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html>)
-
-- **Le bande ransomware utilizzano malware skitnet per furti di dati furtivi e accesso remoto**  
-  Fonte: The Hacker News, 19 May 2025, 14:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html>)
-
-- **"Cinquant'anni di crittografia matematica dell'NSA (1937-1987)"**  
-  Fonte: Schneier on Security, 19 May 2025, 11:06:23 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/05/the-nsas-fifty-years-of-mathematical-cryptanalysis-1937-1987.html>)
-
-- **L'IA Fix nominata per il Top Podcast Award.Vota ora!**  
-  Fonte: Graham Cluley, 19 May 2025, 11:02:44 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-nominated-for-top-podcast-award-vote-now/>)
-
-- **Perché CTEM è la scommessa vincente per i CISO nel 2025**  
-  Fonte: The Hacker News, 19 May 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html>)
-
-- **Patch Firefox 2 zero-days sfruttati a PWN2Own Berlin con $ 100k in premi**  
-  Fonte: The Hacker News, 19 May 2025, 10:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html>)
-
-- **⚡ Riepilogo settimanale: exploit zero-day, minacce interne, targeting appropriato, botnet e altro ancora**  
-  Fonte: The Hacker News, 19 May 2025, 10:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/weekly-recap-zero-day-exploits-insider.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-05-26 06:54:42 UTC -->
+<!-- Ultimo aggiornamento: 2025-05-27 06:52:00 UTC -->
