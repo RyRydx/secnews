@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Apple blocca $ 9 miliardi di frodi per 5 anni tra le minacce all'approvering in aumento**  
+  Fonte: The Hacker News, 28 May 2025, 06:11:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html>)
+
+- **DragonForce Ransomware abusa di SimpleHelp in MSP Supply Chain Attack**  
+  Fonte: BleepingComputer, 27 May 2025, 21:44:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/>)
+
+- **L'Iranian si dichiara colpevole di attacchi ransomware di Robbinhood, affronta 30 anni**  
+  Fonte: BleepingComputer, 27 May 2025, 19:14:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/>)
+
+- **Informazioni personali dei clienti adidas a rischio dopo violazione dei dati**  
+  Fonte: Graham Cluley, 27 May 2025, 18:34:42 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/adidas-customers-personal-information-at-risk-after-data-breach>)
+
+- **I nuovi malware autoportanti infettano contenitori Docker per estrarre la criptovaluta Dero**  
+  Fonte: The Hacker News, 27 May 2025, 16:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html>)
+
+- **Non tutti i CVE meritano un trapano antincendio: concentrati su ciò che è sfruttabile**  
+  Fonte: BleepingComputer, 27 May 2025, 14:25:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/not-every-cve-deserves-a-fire-drill-focus-on-whats-exploitable/>)
+
+- **Clone criminali clone sito antivirus per diffondere il ratto veleno e rubare i portafogli criptovaluti**  
+  Fonte: The Hacker News, 27 May 2025, 14:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html>)
+
+- **L'IA FIX #52: AI adotta le proprie norme sociali e AI DJ crea scandalo sulla diversità**  
+  Fonte: Graham Cluley, 27 May 2025, 14:03:23 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-52/>)
+
+- **Matlab Dev conferma l'attacco ransomware dietro l'interruzione del servizio**  
+  Fonte: BleepingComputer, 27 May 2025, 13:37:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mathworks-blames-ransomware-attack-for-ongoing-outages/>)
+
+- **Gli hacker russi violano 20+ ONG usando Phishing Evilginx tramite Pagine false di Microsoft Enter**  
+  Fonte: The Hacker News, 27 May 2025, 11:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html>)
+
+- **La lavanderia russa è cyberspies collegata all'hack della polizia olandese**  
+  Fonte: BleepingComputer, 27 May 2025, 11:16:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-void-blizzard-cyberspies-linked-to-dutch-police-breach/>)
+
+- **VPN di proprietà cinese**  
+  Fonte: Schneier on Security, 27 May 2025, 11:07:57 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/05/chinese-owned-vpns.html>)
+
+- **Agenti di intelligenza artificiale e la crisi dell'identità non umana: come distribuire AIMORE in sicurezza**  
+  Fonte: The Hacker News, 27 May 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html>)
+
+- **I dipendenti che cercano portali sui salari su Google hanno indotto l'invio di buste paga agli hacker**  
+  Fonte: The Hacker News, 27 May 2025, 09:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html>)
+
+- **L'aggiornamento di emergenza di Windows Server risolve i congelamenti di VM Hyper-V, problemi di riavvio**  
+  Fonte: BleepingComputer, 27 May 2025, 09:25:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-server-emergency-update-fixes-hyper-v-vm-freezes-restart-issues/>)
+
+- **Adidas avverte di violazione dei dati dopo il fornitore del servizio clienti hack**  
+  Fonte: BleepingComputer, 27 May 2025, 08:29:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/adidas-warns-of-data-breach-after-customer-service-provider-hack/>)
+
+- **Gli hacker chiamano il tuo ufficio: gli studi legali di Alerts FBI alla campagna di Phishing stealth di Luna Moth**  
+  Fonte: The Hacker News, 27 May 2025, 07:11:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/hackers-are-calling-your-office-fbi.html>)
+
+- **Gli hacker collegati alla Russia prendono di mira il governo del Tagikistan con documenti di parole armonizzate**  
+  Fonte: The Hacker News, 27 May 2025, 06:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html>)
+
 - **Aggiornamento settimanale 453**  
   Fonte: Troy Hunt, 27 May 2025, 00:26:01 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-453/>)
@@ -38,45 +110,17 @@
   Fonte: BleepingComputer, 25 May 2025, 21:09:54 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-can-now-pull-data-from-dropbox-and-box/>)
 
-- **I ricercatori affermano che GHATGPT O3 ha bypassato l'arresto nel test controllato**  
-  Fonte: BleepingComputer, 25 May 2025, 19:24:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/researchers-claim-chatgpt-o3-bypassed-shutdown-in-controlled-test/>)
-
-- **Implotch to End App Hosting e profili utente l'8 luglio**  
-  Fonte: BleepingComputer, 25 May 2025, 14:36:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/glitch-to-end-app-hosting-and-user-profiles-on-july-8/>)
-
 - **Gli hacker usano installatori NSIS falsi e browser per consegnare malware Winos 4.0**  
   Fonte: The Hacker News, 25 May 2025, 07:36:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html>)
-
-- **Falso zenmap.Siti WinMRT mira al personale IT con malware bumblebee**  
-  Fonte: BleepingComputer, 24 May 2025, 14:26:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bumblebee-malware-distributed-via-zenmap-winmrt-seo-poisoning/>)
-
-- **Openai conferma che l'agente dell'operatore è ora più accurato con O3**  
-  Fonte: BleepingComputer, 23 May 2025, 23:10:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-operator-agent-is-now-more-accurate-with-o3/>)
 
 - **Blogging di calamari del venerdì: nave navale americana attaccata da Squid nel 1978**  
   Fonte: Schneier on Security, 23 May 2025, 21:02:10 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-us-naval-ship-attacked-by-squid-in-1978.html>)
 
-- **Dozzine di pacchetti dannosi su NPM raccolgono dati host e di rete**  
-  Fonte: BleepingComputer, 23 May 2025, 17:37:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/>)
-
 - **Gli hacker usano i video tiktok per distribuire il malware Vidar e Stealc tramite tecnica ClickFix**  
   Fonte: The Hacker News, 23 May 2025, 17:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html>)
-
-- **Hacker ruba 223 milioni di dollari nella rapina di criptovaluta del protocollo Cetus**  
-  Fonte: BleepingComputer, 23 May 2025, 15:46:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-steals-223-million-in-cetus-protocol-cryptocurrency-heist/>)
-
-- **L'FBI avverte degli attacchi di estorsione della falena di Luna mira agli studi legali**  
-  Fonte: BleepingComputer, 23 May 2025, 15:26:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-luna-moth-extortion-attacks-targeting-law-firms/>)
 
 - **ViciousTrap utilizza Cisco Flaw per costruire honeypot globale da 5.300 dispositivi compromessi**  
   Fonte: The Hacker News, 23 May 2025, 12:49:00 UTC  
@@ -94,7 +138,7 @@
   Fonte: The Hacker News, 23 May 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/safeline-waf-open-source-web.html>)
 
-- **Le 3 del ransomware 3 del mattino si presentano come una chiamata dal supporto IT alle reti di compromesso**  
+- **3am Ransomware Attack pone come una chiamata dal supporto IT alle reti di compromesso**  
   Fonte: Graham Cluley, 23 May 2025, 09:08:14 UTC  
   [Leggi](<https://www.tripwire.com/state-of-security/3am-ransomware-attackers-pose-it-support-compromise-networks>)
 
@@ -182,7 +226,7 @@
   Fonte: The Hacker News, 21 May 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html>)
 
-- **I ricercatori espongono l'attacco JavaScript PWA che reindirizza gli utenti alle app di truffa per adulti**  
+- **I ricercatori espongono l'attacco JavaScript PWA che reindirizza gli utenti alle app per truffe per adulti**  
   Fonte: The Hacker News, 21 May 2025, 09:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html>)
 
@@ -190,49 +234,5 @@
   Fonte: The Hacker News, 21 May 2025, 07:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html>)
 
-- **KrebSonsecurity Hit con DDO da 6,3 Tbps quasi record**  
-  Fonte: Krebs on Security, 20 May 2025, 21:30:30 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/>)
 
-- **Hazy Hawk Exploits DNS Records a Hijack CDC, domini aziendali per la consegna di malware**  
-  Fonte: The Hacker News, 20 May 2025, 15:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html>)
-
-- **100+ estensioni cromate false trovate sessioni di dirottamento, furto di credenziali, iniettando annunci**  
-  Fonte: The Hacker News, 20 May 2025, 15:01:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html>)
-
-- **L'IA Fix #51: Divorzio tramite il caffè e perché i robot AI hanno bisogno del tuo cervello**  
-  Fonte: Graham Cluley, 20 May 2025, 14:01:24 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-51/>)
-
-- **Ruoli IAM predefiniti AWS trovati per consentire il movimento laterale e lo sfruttamento del servizio incrociato**  
-  Fonte: The Hacker News, 20 May 2025, 12:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html>)
-
-- **Doordash Hack**  
-  Fonte: Schneier on Security, 20 May 2025, 11:05:00 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/05/doordash-hack.html>)
-
-- **La battaglia affollata: intuizioni chiave dal rapporto sullo stato di pentesting del 2025**  
-  Fonte: The Hacker News, 20 May 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html>)
-
-- **Ministeri dell'Asia meridionale colpiti da Sidewinder Apt usando i vecchi difetti degli uffici e malware personalizzato**  
-  Fonte: The Hacker News, 20 May 2025, 10:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html>)
-
-- **Gli hacker cinesi distribuiscono Marssnake Backdoor in un attacco pluriennale contro l'organizzazione saudita**  
-  Fonte: The Hacker News, 20 May 2025, 09:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/chinese-hackers-deploy-marssnake.html>)
-
-- **SEC Twitter Hack: l'uomo imprigionato per il ruolo negli attacchi che ha causato la libra del prezzo di Bitcoin.**  
-  Fonte: Graham Cluley, 20 May 2025, 09:30:41 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/sec-twitter-hack-bitcoins-price>)
-
-- **Malware basato su GO distribuisce XMRIG Miner su host Linux tramite Redis Configuration Abuse**  
-  Fonte: The Hacker News, 20 May 2025, 08:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/go-based-malware-deploys-xmrig-miner-on.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-05-27 06:52:00 UTC -->
+<!-- Ultimo aggiornamento: 2025-05-28 06:53:24 UTC -->
