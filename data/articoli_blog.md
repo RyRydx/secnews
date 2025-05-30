@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **Connectwise colpito da Cyberattack;Attore dello stato-nazione sospettato in violazione mirata**  
+  Fonte: The Hacker News, 30 May 2025, 06:11:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/connectwise-hit-by-cyberattack-nation.html>)
+
+- **Meta Distupts Influence Ops bersaglio Romania, Azerbaigian e Taiwan con persone false**  
+  Fonte: The Hacker News, 30 May 2025, 04:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/meta-disrupts-influence-ops-targeting.html>)
+
+- **Il fornitore di cloud sanzioni statunitensi "Funnull" come principale fonte di truffe "macelleria di maiali"**  
+  Fonte: Krebs on Security, 30 May 2025, 01:55:16 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/>)
+
+- **Mozilla rilascia Firefox 139.0.1 Aggiornamento per fissare artefatti su GPU NVIDIA**  
+  Fonte: BleepingComputer, 29 May 2025, 23:58:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/>)
+
+- **Microsoft Authenticator ora avverte di esportare password prima del taglio di luglio**  
+  Fonte: BleepingComputer, 29 May 2025, 23:49:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/>)
+
+- **Blogging di calamari del venerdì: NGC 1068 è la "Galaxy Squid"**  
+  Fonte: Schneier on Security, 29 May 2025, 21:04:53 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-ngc-1068-is-the-squid-galaxy.html>)
+
+- **ConnectWise violata in un attacco informatico collegato agli hacker dello stato-nazione**  
+  Fonte: BleepingComputer, 29 May 2025, 19:12:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/>)
+
+- **Gli attori della minaccia abusano di sceneggiature di app Google in attacchi di phishing evasivi**  
+  Fonte: BleepingComputer, 29 May 2025, 16:25:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/>)
+
+- **Apple Safari espone gli utenti agli attacchi browser in-the-middle a schermo intero**  
+  Fonte: BleepingComputer, 29 May 2025, 16:06:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/>)
+
+- **Utenti di AI target criminali informatici con installatori caricati con malware in posa come strumenti popolari**  
+  Fonte: The Hacker News, 29 May 2025, 15:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/cybercriminals-target-ai-users-with.html>)
+
+- **Società di sanzioni statunitensi legata a truffe informatiche dietro $ 200 milioni in perdite**  
+  Fonte: BleepingComputer, 29 May 2025, 15:42:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/>)
+
+- **Cybercriminals Exploit AI Hype per diffondere ransomware, malware**  
+  Fonte: BleepingComputer, 29 May 2025, 14:25:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/>)
+
+- **Gli aggressori stanno mappando la tua superficie di attacco, sei?**  
+  Fonte: BleepingComputer, 29 May 2025, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/>)
+
+- **Nuovo ratto Windows Elimina il rilevamento per settimane utilizzando le intestazioni DOS e PE danneggiate**  
+  Fonte: The Hacker News, 29 May 2025, 13:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html>)
+
+- **Victoria’s Secret elimina il sito Web dopo l'incidente della sicurezza**  
+  Fonte: BleepingComputer, 29 May 2025, 11:30:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/>)
+
+- **Sorveglianza tramite spazzolino da denti intelligenti**  
+  Fonte: Schneier on Security, 29 May 2025, 11:06:02 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/05/surveillance-via-smart-toothbrush.html>)
+
+- **DragonForce sfrutta i difetti semplici per distribuire ransomware attraverso gli endpoint dei clienti**  
+  Fonte: The Hacker News, 29 May 2025, 10:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html>)
+
+- **Microsoft: Windows 11 potrebbe non iniziare dopo aver installato KB5058405**  
+  Fonte: BleepingComputer, 29 May 2025, 09:59:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/>)
+
+- **Broker di dati LexisNexis rivela la violazione dei dati che colpisce 364.000 persone**  
+  Fonte: BleepingComputer, 29 May 2025, 08:28:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/data-broker-lexisnexis-discloses-data-breach-affecting-364-000-people/>)
+
+- **APT41 cinese Exploits Google Calendar per le operazioni di comando e controllo malware**  
+  Fonte: The Hacker News, 29 May 2025, 05:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html>)
+
 - **Oltre 100.000 siti WordPress a rischio di vulnerabilità CVSS 10.0 nel plugin della lista dei desideri**  
   Fonte: The Hacker News, 29 May 2025, 05:34:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html>)
@@ -18,18 +98,6 @@
   Fonte: BleepingComputer, 28 May 2025, 22:19:54 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058499-update-rolls-out-new-share-and-click-to-do-features/>)
 
-- **APT41 Malware Abusi di Google Calendar per la comunicazione C2 furtiva**  
-  Fonte: BleepingComputer, 28 May 2025, 22:04:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apt41-malware-abuses-google-calendar-for-stealthy-c2-communication/>)
-
-- **Nuove Pumabot Botnet Brute Forza credenziali SSH a violare i dispositivi**  
-  Fonte: BleepingComputer, 28 May 2025, 19:59:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/>)
-
-- **La banda di ransomware interlocca distribuisce un nuovo ratto nodesnake sulle università**  
-  Fonte: BleepingComputer, 28 May 2025, 18:14:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-deploys-new-nodesnake-rat-on-universities/>)
-
 - **Pakistan Arresta 21 nel servizio di malware "Heartsender"**  
   Fonte: Krebs on Security, 28 May 2025, 17:41:47 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/>)
@@ -38,37 +106,17 @@
   Fonte: The Hacker News, 28 May 2025, 17:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html>)
 
-- **Botnet hacks 9.000 oltre router Asus per aggiungere backdoor SSH persistente**  
-  Fonte: BleepingComputer, 28 May 2025, 16:44:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/>)
-
-- **Partner oscuri crime crimine gang alimenta le criptovalute su larga scala**  
-  Fonte: BleepingComputer, 28 May 2025, 16:39:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dark-partners-cybercrime-gang-fuels-large-scale-crypto-heists/>)
-
 - **Ceca Repubblica incolpa gli hacker APT31 legati alla Cina per il 2022 Cyberack**  
   Fonte: The Hacker News, 28 May 2025, 16:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/czech-republic-blames-china-linked.html>)
-
-- **La Cechia incolpa la Cina per il Ministero degli Affari Esteri Cyberack**  
-  Fonte: BleepingComputer, 28 May 2025, 14:39:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/czechia-blames-china-for-ministry-of-foreign-affairs-cyberattack/>)
 
 - **Microsoft OneDrive File Picker Flaw Grants Apps Accesso al cloud completo - anche quando si carica solo un file**  
   Fonte: The Hacker News, 28 May 2025, 13:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html>)
 
-- **Microsoft introduce un nuovo strumento di backup Windows per le aziende**  
-  Fonte: BleepingComputer, 28 May 2025, 13:09:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/>)
-
 - **New Pumabot Botnet target dispositivi IoT Linux per rubare le credenziali SSH e il mio cripto**  
   Fonte: The Hacker News, 28 May 2025, 12:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html>)
-
-- **Microsoft vuole che Windows aggiorni tutto il software sul tuo PC**  
-  Fonte: BleepingComputer, 28 May 2025, 12:15:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/>)
 
 - **Dall'infezione all'accesso: una sequenza temporale di 24 ore di una moderna campagna di furto**  
   Fonte: The Hacker News, 28 May 2025, 11:25:00 UTC  
@@ -82,10 +130,6 @@
   Fonte: The Hacker News, 28 May 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html>)
 
-- **Apple ha bloccato oltre $ 9 miliardi in frode dell'App Store in cinque anni**  
-  Fonte: BleepingComputer, 28 May 2025, 10:18:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/>)
-
 - **In che modo gli attacchi "browser-in-the-middle" rubano sessioni in pochi secondi**  
   Fonte: The Hacker News, 28 May 2025, 09:32:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html>)
@@ -97,14 +141,6 @@
 - **Apple blocca $ 9 miliardi di frodi per 5 anni tra le minacce all'approvering in aumento**  
   Fonte: The Hacker News, 28 May 2025, 06:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html>)
-
-- **DragonForce Ransomware abusa di SimpleHelp in MSP Supply Chain Attack**  
-  Fonte: BleepingComputer, 27 May 2025, 21:44:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/>)
-
-- **L'Iranian si dichiara colpevole di attacchi ransomware di Robbinhood, affronta 30 anni**  
-  Fonte: BleepingComputer, 27 May 2025, 19:14:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/>)
 
 - **Informazioni personali dei clienti adidas a rischio dopo violazione dei dati**  
   Fonte: Graham Cluley, 27 May 2025, 18:34:42 UTC  
@@ -130,7 +166,7 @@
   Fonte: Schneier on Security, 27 May 2025, 11:07:57 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/05/chinese-owned-vpns.html>)
 
-- **Agenti di intelligenza artificiale e la crisi dell'identità non umana: come distribuire AIMORE in sicurezza**  
+- **Agenti di intelligenza artificiale e la crisi dell'identità non umana: come distribuire AIMore in sicurezza**  
   Fonte: The Hacker News, 27 May 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html>)
 
@@ -198,57 +234,5 @@
   Fonte: The Hacker News, 23 May 2025, 07:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html>)
 
-- **CISA avverte di sospetti attacchi SaaS più ampi che sfruttano i segreti delle app e le cattive di cloud**  
-  Fonte: The Hacker News, 23 May 2025, 05:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html>)
 
-- **La vulnerabilità del duo Gitlab ha permesso agli aggressori di dirottare le risposte AI con istruzioni nascoste**  
-  Fonte: The Hacker News, 23 May 2025, 04:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/gitlab-duo-vulnerability-enabled.html>)
-
-- **Oops: Danabot Malware Devs ha infettato i propri PC**  
-  Fonte: Krebs on Security, 22 May 2025, 21:53:21 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/>)
-
-- **Hacker cinesi Exploit Trimble Cityworks difetto per infiltrarsi nelle reti governative statunitensi**  
-  Fonte: The Hacker News, 22 May 2025, 15:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html>)
-
-- **Risolvere una richiesta di contrabbando di vulnerabilità a Pingora**  
-  Fonte: Cloudflare Blog - Security, 22 May 2025, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/resolving-a-request-smuggling-vulnerability-in-pingora/>)
-
-- **Vulnerabilità DMSA di Windows Server Critical 2025 Abilita Active Directory compromesso**  
-  Fonte: The Hacker News, 22 May 2025, 12:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html>)
-
-- **Hacker cinesi Exploit Ivanti EPMM Bugs in Global Enterprise Network Attacks**  
-  Fonte: The Hacker News, 22 May 2025, 12:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html>)
-
-- **Webinar: impara a costruire un programma di sicurezza informatica ragionevole e legalmente difendibile**  
-  Fonte: The Hacker News, 22 May 2025, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/webinar-learn-how-to-build-reasonable.html>)
-
-- **La sicurezza dell'identità ha un problema di automazione, ed è più grande di quanto pensi**  
-  Fonte: The Hacker News, 22 May 2025, 11:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/identity-security-has-automation.html>)
-
-- **L'esperienza degli elettori**  
-  Fonte: Schneier on Security, 22 May 2025, 11:06:44 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/05/the-voter-experience.html>)
-
-- **I difetti critici Versa Concerto per gli aggressori sfuggono al docker e al compromesso ospiti**  
-  Fonte: The Hacker News, 22 May 2025, 11:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html>)
-
-- **DOJ addebita 12 in più in $ 263 milioni Crypto Frode Takedown in cui il denaro era nascosto in animali da squishmallow imbottiti**  
-  Fonte: Graham Cluley, 22 May 2025, 08:29:42 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/doj-charges-12-263-million-crypto-fraud-takedown-where-money-hidden-squishmallow-stuffed-animals>)
-
-- **La rete di malware di Lumma Stealer Lumma FBI ed Europol Disrupt collegata a 10 milioni di infezioni**  
-  Fonte: The Hacker News, 22 May 2025, 08:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-05-29 06:54:03 UTC -->
+<!-- Ultimo aggiornamento: 2025-05-30 06:53:07 UTC -->
