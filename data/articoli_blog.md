@@ -2,6 +2,54 @@
 
 ## Ultimi 7 giorni
 
+- **Gli hacker stanno sfruttando il difetto critico nel software Vbulletin Forum**  
+  Fonte: BleepingComputer, 30 May 2025, 19:26:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/>)
+
+- **Microsoft ora testando la formattazione del testo del blocco note in Windows 11**  
+  Fonte: BleepingComputer, 30 May 2025, 18:41:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/>)
+
+- **La polizia abbassa il sito Avcheck utilizzato dai criminali informatici per scansionare malware**  
+  Fonte: BleepingComputer, 30 May 2025, 16:46:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-takes-down-avcheck-antivirus-site-used-by-cybercriminals/>)
+
+- **Germany Doxxes Conti Ransomware e Trickbot Ring Leader**  
+  Fonte: BleepingComputer, 30 May 2025, 15:57:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/germany-doxxes-conti-ransomware-and-trickbot-ring-leader/>)
+
+- **Il nuovo malware di Eddiestealer bypassa la crittografia legata all'app di Chrome per rubare i dati del browser**  
+  Fonte: The Hacker News, 30 May 2025, 14:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html>)
+
+- **Ottenere la gestione dell'esposizione giusta: approfondimenti da 500 CISO**  
+  Fonte: BleepingComputer, 30 May 2025, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/getting-exposure-management-right-insights-from-500-cisos/>)
+
+- **Damasched Peacock: gli hacker russi hanno preso di mira il Ministero della Difesa del Regno Unito**  
+  Fonte: Graham Cluley, 30 May 2025, 13:14:01 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/damascened-peacock-russian-hackers-targeted-uk-ministry-of-defence>)
+
+- **Gli hacker collegati in Cina sfruttano SAP e SQL Server difetti negli attacchi in Asia e Brasile**  
+  Fonte: The Hacker News, 30 May 2025, 11:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html>)
+
+- **Perché prendere9 non migliorerà la sicurezza informatica**  
+  Fonte: Schneier on Security, 30 May 2025, 11:05:16 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/05/why-take9-wont-improve-cybersecurity.html>)
+
+- **Dal "Dipartimento di NO" a una "cultura di sì": un viaggio di un ciso sanitario per consentire l'assistenza moderna**  
+  Fonte: The Hacker News, 30 May 2025, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html>)
+
+- **Interlock Ransomware: quello che devi sapere**  
+  Fonte: Graham Cluley, 30 May 2025, 08:23:50 UTC  
+  [Leggi](<https://www.tripwire.com/state-of-security/interlock-ransomware-what-you-need-know>)
+
+- **Sanzioni statunitensi Funnull per $ 200 milioni Romance Eastica legate alla frode crittografica**  
+  Fonte: The Hacker News, 30 May 2025, 07:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/us-sanctions-funnull-for-200m-romance.html>)
+
 - **Connectwise colpito da Cyberattack;Attore dello stato-nazione sospettato in violazione mirata**  
   Fonte: The Hacker News, 30 May 2025, 06:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/connectwise-hit-by-cyberattack-nation.html>)
@@ -50,17 +98,13 @@
   Fonte: BleepingComputer, 29 May 2025, 14:25:52 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/>)
 
-- **Gli aggressori stanno mappando la tua superficie di attacco, sei?**  
+- **Gli aggressori stanno mappando la superficie dell'attacco: sei?**  
   Fonte: BleepingComputer, 29 May 2025, 14:02:12 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/>)
 
 - **Nuovo ratto Windows Elimina il rilevamento per settimane utilizzando le intestazioni DOS e PE danneggiate**  
   Fonte: The Hacker News, 29 May 2025, 13:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html>)
-
-- **Victoria’s Secret elimina il sito Web dopo l'incidente della sicurezza**  
-  Fonte: BleepingComputer, 29 May 2025, 11:30:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/>)
 
 - **Sorveglianza tramite spazzolino da denti intelligenti**  
   Fonte: Schneier on Security, 29 May 2025, 11:06:02 UTC  
@@ -69,14 +113,6 @@
 - **DragonForce sfrutta i difetti semplici per distribuire ransomware attraverso gli endpoint dei clienti**  
   Fonte: The Hacker News, 29 May 2025, 10:34:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html>)
-
-- **Microsoft: Windows 11 potrebbe non iniziare dopo aver installato KB5058405**  
-  Fonte: BleepingComputer, 29 May 2025, 09:59:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/>)
-
-- **Broker di dati LexisNexis rivela la violazione dei dati che colpisce 364.000 persone**  
-  Fonte: BleepingComputer, 29 May 2025, 08:28:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/data-broker-lexisnexis-discloses-data-breach-affecting-364-000-people/>)
 
 - **APT41 cinese Exploits Google Calendar per le operazioni di comando e controllo malware**  
   Fonte: The Hacker News, 29 May 2025, 05:59:00 UTC  
@@ -89,14 +125,6 @@
 - **Smashing Security Podcast #419: Star Wars, la CIA e un Malware Mirage WhatsApp**  
   Fonte: Graham Cluley, 28 May 2025, 23:00:17 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-419/>)
-
-- **L'aggiornamento di Windows 10 KB5058481 riporta i secondi al calendario**  
-  Fonte: BleepingComputer, 28 May 2025, 22:57:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058481-update-brings-seconds-back-to-calendar-flyout/>)
-
-- **Windows 11 KB5058499 Aggiornamento lancia una nuova condivisione e fai clic per fare funzionalità**  
-  Fonte: BleepingComputer, 28 May 2025, 22:19:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058499-update-rolls-out-new-share-and-click-to-do-features/>)
 
 - **Pakistan Arresta 21 nel servizio di malware "Heartsender"**  
   Fonte: Krebs on Security, 28 May 2025, 17:41:47 UTC  
@@ -150,7 +178,7 @@
   Fonte: The Hacker News, 27 May 2025, 16:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html>)
 
-- **Cybercriminals Clone Clone Antivirus Site per diffondere il ratto veleno e rubare i portafogli cripto**  
+- **Clone criminali clone sito antivirus per diffondere il ratto veleno e rubare i portafogli criptovaluti**  
   Fonte: The Hacker News, 27 May 2025, 14:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html>)
 
@@ -166,7 +194,7 @@
   Fonte: Schneier on Security, 27 May 2025, 11:07:57 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/05/chinese-owned-vpns.html>)
 
-- **Agenti di intelligenza artificiale e la crisi dell'identità non umana: come distribuire AIMore in sicurezza**  
+- **Agenti di intelligenza artificiale e la crisi dell'identità non umana: come distribuire AIMORE in sicurezza**  
   Fonte: The Hacker News, 27 May 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/ai-agents-and-nonhuman-identity-crisis.html>)
 
@@ -202,37 +230,5 @@
   Fonte: The Hacker News, 25 May 2025, 07:36:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html>)
 
-- **Blogging di calamari del venerdì: nave navale americana attaccata da Squid nel 1978**  
-  Fonte: Schneier on Security, 23 May 2025, 21:02:10 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-us-naval-ship-attacked-by-squid-in-1978.html>)
 
-- **Gli hacker usano i video tiktok per distribuire il malware Vidar e Stealc tramite tecnica ClickFix**  
-  Fonte: The Hacker News, 23 May 2025, 17:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html>)
-
-- **ViciousTrap utilizza Cisco Flaw per costruire honeypot globale da 5.300 dispositivi compromessi**  
-  Fonte: The Hacker News, 23 May 2025, 12:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html>)
-
-- **Il segnale blocca il richiamo di Windows**  
-  Fonte: Schneier on Security, 23 May 2025, 11:02:59 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/05/signal-blocks-windows-recall.html>)
-
-- **300 server e 3,5 milioni di euro sequestrati come Europol Strikes Ransomware Networks in tutto il mondo**  
-  Fonte: The Hacker News, 23 May 2025, 10:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html>)
-
-- **Safeline WAF: firewall dell'applicazione Web open source con rilevamento e protezione del bot zero-day**  
-  Fonte: The Hacker News, 23 May 2025, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/safeline-waf-open-source-web.html>)
-
-- **Le 3 del ransomware 3 del mattino si presentano come una chiamata dal supporto IT alle reti di compromesso**  
-  Fonte: Graham Cluley, 23 May 2025, 09:08:14 UTC  
-  [Leggi](<https://www.tripwire.com/state-of-security/3am-ransomware-attackers-pose-it-support-compromise-networks>)
-
-- **Network Malware Danabot degli Stati Uniti Danabot, addebita 16 in $ 50 milioni Global Crime Crime Operation**  
-  Fonte: The Hacker News, 23 May 2025, 07:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-05-30 06:53:07 UTC -->
+<!-- Ultimo aggiornamento: 2025-05-31 06:47:44 UTC -->
