@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Exploit Dettagli per la gravità massima Cisco IOS XE difetto ora pubblico**  
+  Fonte: BleepingComputer, 31 May 2025, 14:09:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/>)
+
+- **I nuovi difetti Linux consentono il furto di hash password tramite dump di base in Ubuntu, Rhel, Fedora**  
+  Fonte: The Hacker News, 31 May 2025, 10:19:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html>)
+
+- **U.S. DOJ coglie 4 domini a supporto dei servizi di cristallo di criminalità informatica durante il funzionamento globale**  
+  Fonte: The Hacker News, 31 May 2025, 07:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html>)
+
 - **Gli hacker stanno sfruttando il difetto critico nel software Vbulletin Forum**  
   Fonte: BleepingComputer, 30 May 2025, 19:26:06 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/>)
@@ -94,14 +106,6 @@
   Fonte: BleepingComputer, 29 May 2025, 15:42:38 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/>)
 
-- **Cybercriminals Exploit AI Hype per diffondere ransomware, malware**  
-  Fonte: BleepingComputer, 29 May 2025, 14:25:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/>)
-
-- **Gli aggressori stanno mappando la superficie dell'attacco: sei?**  
-  Fonte: BleepingComputer, 29 May 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/>)
-
 - **Nuovo ratto Windows Elimina il rilevamento per settimane utilizzando le intestazioni DOS e PE danneggiate**  
   Fonte: The Hacker News, 29 May 2025, 13:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html>)
@@ -122,7 +126,7 @@
   Fonte: The Hacker News, 29 May 2025, 05:34:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html>)
 
-- **Smashing Security Podcast #419: Star Wars, la CIA e un Malware Mirage WhatsApp**  
+- **Smashing Security Podcast #419: Star Wars, la CIA e un miraggio malware whatsapp**  
   Fonte: Graham Cluley, 28 May 2025, 23:00:17 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-419/>)
 
@@ -178,7 +182,7 @@
   Fonte: The Hacker News, 27 May 2025, 16:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html>)
 
-- **Clone criminali clone sito antivirus per diffondere il ratto veleno e rubare i portafogli criptovaluti**  
+- **Cybercriminals Clone Clone Antivirus Site per diffondere il ratto veleno e rubare i portafogli cripto**  
   Fonte: The Hacker News, 27 May 2025, 14:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html>)
 
@@ -231,4 +235,4 @@
   [Leggi](<https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html>)
 
 
-<!-- Ultimo aggiornamento: 2025-05-31 06:47:44 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-01 06:50:50 UTC -->
