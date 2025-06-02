@@ -2,6 +2,10 @@
 
 ## Ultimi 7 giorni
 
+- **E -mail di reclutatore falsi target CFO utilizzando lo strumento Netbird legittimo in 6 regioni globali**  
+  Fonte: The Hacker News, 02 Jun 2025, 05:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html>)
+
 - **Exploit Dettagli per la gravità massima Cisco IOS XE difetto ora pubblico**  
   Fonte: BleepingComputer, 31 May 2025, 14:09:19 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/>)
@@ -50,7 +54,7 @@
   Fonte: Schneier on Security, 30 May 2025, 11:05:16 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/05/why-take9-wont-improve-cybersecurity.html>)
 
-- **Dal "Dipartimento di NO" a una "cultura di sì": un viaggio di un ciso sanitario per consentire l'assistenza moderna**  
+- **Dal "Dipartimento di NO" a una "cultura di sì": un viaggio di un Ciso sanitario per consentire l'assistenza moderna**  
   Fonte: The Hacker News, 30 May 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html>)
 
@@ -90,7 +94,7 @@
   Fonte: BleepingComputer, 29 May 2025, 19:12:12 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/>)
 
-- **Gli attori della minaccia abusano di sceneggiature di app Google in attacchi di phishing evasivi**  
+- **Gli attori delle minacce abusano di sceneggiature di app Google in attacchi di phishing evasivi**  
   Fonte: BleepingComputer, 29 May 2025, 16:25:36 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/>)
 
@@ -126,7 +130,7 @@
   Fonte: The Hacker News, 29 May 2025, 05:34:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html>)
 
-- **Smashing Security Podcast #419: Star Wars, la CIA e un miraggio malware whatsapp**  
+- **Smashing Security Podcast #419: Star Wars, la CIA e un Malware Mirage WhatsApp**  
   Fonte: Graham Cluley, 28 May 2025, 23:00:17 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-419/>)
 
@@ -178,11 +182,11 @@
   Fonte: Graham Cluley, 27 May 2025, 18:34:42 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/adidas-customers-personal-information-at-risk-after-data-breach>)
 
-- **I nuovi malware autoportanti infettano contenitori Docker per estrarre la criptovaluta Dero**  
+- **Il nuovo malware autoportante infetta i contenitori Docker per estrarre la criptovaluta Dero**  
   Fonte: The Hacker News, 27 May 2025, 16:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html>)
 
-- **Cybercriminals Clone Clone Antivirus Site per diffondere il ratto veleno e rubare i portafogli cripto**  
+- **Clone criminali clone sito antivirus per diffondere il ratto veleno e rubare i portafogli criptovaluti**  
   Fonte: The Hacker News, 27 May 2025, 14:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html>)
 
@@ -230,9 +234,5 @@
   Fonte: The Hacker News, 26 May 2025, 09:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/weekly-recap-apt-campaigns-browser.html>)
 
-- **Gli hacker usano installatori NSIS falsi e browser per consegnare malware Winos 4.0**  
-  Fonte: The Hacker News, 25 May 2025, 07:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-06-01 06:50:50 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-02 06:56:12 UTC -->
