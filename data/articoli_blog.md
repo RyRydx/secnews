@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Nuovo Chrome Zero-Day sfruttato attivamente;Google emette patch di emergenza fuori banda**  
+  Fonte: The Hacker News, 03 Jun 2025, 04:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html>)
+
+- **Cartier rivela la violazione dei dati tra gli attacchi informatici del marchio di moda**  
+  Fonte: BleepingComputer, 02 Jun 2025, 22:31:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cartier-discloses-data-breach-amid-fashion-brand-cyberattacks/>)
+
+- **Il North Face avverte i clienti dell'attacco di ripieno delle credenziali di aprile**  
+  Fonte: BleepingComputer, 02 Jun 2025, 18:37:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-north-face-warns-customers-of-april-credential-stuffing-attack/>)
+
+- **Sentinelone: ​​interruzione di 7 ore della scorsa settimana causata dal difetto del software**  
+  Fonte: BleepingComputer, 02 Jun 2025, 18:24:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/technology/sentinelone-last-weeks-7-hour-outage-caused-by-software-flaw/>)
+
+- **Google Chrome per diffidare di Chunghwa Telecom, Netlock Certificati in agosto**  
+  Fonte: BleepingComputer, 02 Jun 2025, 17:36:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-chrome-to-distrust-chunghwa-telecom-netlock-certificates-in-august/>)
+
+- **Microsoft e Crowdstrike Partner per collegare i nomi dei gruppi di hacking**  
+  Fonte: BleepingComputer, 02 Jun 2025, 16:56:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/>)
+
+- **La campagna di criptojacking sfrutta le API DevOps usando strumenti standard di GitHub**  
+  Fonte: The Hacker News, 02 Jun 2025, 16:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html>)
+
+- **App preinstallate sui telefoni Ulefone, Krüger e Matz consentono a qualsiasi dispositivo di ripristino dell'app, ruba il pin**  
+  Fonte: The Hacker News, 02 Jun 2025, 15:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/preinstalled-apps-on-ulefone-kruger.html>)
+
+- **Il "mercato russo" emerge come un negozio di riferimento per le credenziali rubate**  
+  Fonte: BleepingComputer, 02 Jun 2025, 14:28:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/>)
+
+- **Qualcomm corregge 3 zero giorni utilizzati negli attacchi Android mirati tramite Adreno GPU**  
+  Fonte: The Hacker News, 02 Jun 2025, 14:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/qualcomm-fixes-3-zero-days-used-in.html>)
+
+- **Microsoft spedisce la patch di emergenza per correggere i guasti di avvio di Windows 11**  
+  Fonte: BleepingComputer, 02 Jun 2025, 12:06:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/>)
+
+- **⚡ Riepilogo settimanale: intrusioni APT, malware AI, exploit a zero clic, hijack del browser e altro ancora**  
+  Fonte: The Hacker News, 02 Jun 2025, 11:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/weekly-recap-apt-intrusions-ai-malware.html>)
+
+- **Qualcomm corregge tre giorni zero-giorni adreno sfruttati negli attacchi**  
+  Fonte: BleepingComputer, 02 Jun 2025, 11:11:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/>)
+
+- **L'Australia richiede alle vittime di ransomware di dichiarare pagamenti**  
+  Fonte: Schneier on Security, 02 Jun 2025, 11:03:34 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/australia-requires-ransomware-victims-to-declare-payments.html>)
+
+- **La strategia di difesa segreta di quattro industrie critiche che combattono le minacce informatiche avanzate**  
+  Fonte: The Hacker News, 02 Jun 2025, 10:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/the-secret-defense-strategy-of-four.html>)
+
+- **Aggiornamento settimanale 454**  
+  Fonte: Troy Hunt, 02 Jun 2025, 10:26:35 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-454/>)
+
 - **E -mail di reclutatore falsi target CFO utilizzando lo strumento Netbird legittimo in 6 regioni globali**  
   Fonte: The Hacker News, 02 Jun 2025, 05:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html>)
@@ -30,17 +94,9 @@
   Fonte: BleepingComputer, 30 May 2025, 16:46:02 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/police-takes-down-avcheck-antivirus-site-used-by-cybercriminals/>)
 
-- **Germany Doxxes Conti Ransomware e Trickbot Ring Leader**  
-  Fonte: BleepingComputer, 30 May 2025, 15:57:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/germany-doxxes-conti-ransomware-and-trickbot-ring-leader/>)
-
 - **Il nuovo malware di Eddiestealer bypassa la crittografia legata all'app di Chrome per rubare i dati del browser**  
   Fonte: The Hacker News, 30 May 2025, 14:14:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html>)
-
-- **Ottenere la gestione dell'esposizione giusta: approfondimenti da 500 CISO**  
-  Fonte: BleepingComputer, 30 May 2025, 14:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/getting-exposure-management-right-insights-from-500-cisos/>)
 
 - **Damasched Peacock: gli hacker russi hanno preso di mira il Ministero della Difesa del Regno Unito**  
   Fonte: Graham Cluley, 30 May 2025, 13:14:01 UTC  
@@ -78,37 +134,13 @@
   Fonte: Krebs on Security, 30 May 2025, 01:55:16 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/>)
 
-- **Mozilla rilascia Firefox 139.0.1 Aggiornamento per fissare artefatti su GPU NVIDIA**  
-  Fonte: BleepingComputer, 29 May 2025, 23:58:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/>)
-
-- **Microsoft Authenticator ora avverte di esportare password prima del taglio di luglio**  
-  Fonte: BleepingComputer, 29 May 2025, 23:49:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/>)
-
 - **Blogging di calamari del venerdì: NGC 1068 è la "Galaxy Squid"**  
   Fonte: Schneier on Security, 29 May 2025, 21:04:53 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-ngc-1068-is-the-squid-galaxy.html>)
 
-- **ConnectWise violata in un attacco informatico collegato agli hacker dello stato-nazione**  
-  Fonte: BleepingComputer, 29 May 2025, 19:12:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/>)
-
-- **Gli attori delle minacce abusano di sceneggiature di app Google in attacchi di phishing evasivi**  
-  Fonte: BleepingComputer, 29 May 2025, 16:25:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/>)
-
-- **Apple Safari espone gli utenti agli attacchi browser in-the-middle a schermo intero**  
-  Fonte: BleepingComputer, 29 May 2025, 16:06:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/>)
-
 - **Utenti di AI target criminali informatici con installatori caricati con malware in posa come strumenti popolari**  
   Fonte: The Hacker News, 29 May 2025, 15:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/cybercriminals-target-ai-users-with.html>)
-
-- **Società di sanzioni statunitensi legata a truffe informatiche dietro $ 200 milioni in perdite**  
-  Fonte: BleepingComputer, 29 May 2025, 15:42:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/>)
 
 - **Nuovo ratto Windows Elimina il rilevamento per settimane utilizzando le intestazioni DOS e PE danneggiate**  
   Fonte: The Hacker News, 29 May 2025, 13:16:00 UTC  
@@ -186,7 +218,7 @@
   Fonte: The Hacker News, 27 May 2025, 16:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html>)
 
-- **Clone criminali clone sito antivirus per diffondere il ratto veleno e rubare i portafogli criptovaluti**  
+- **Cybercriminals Clone Clone Antivirus Site per diffondere il ratto veleno e rubare i portafogli cripto**  
   Fonte: The Hacker News, 27 May 2025, 14:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html>)
 
@@ -210,29 +242,9 @@
   Fonte: The Hacker News, 27 May 2025, 09:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/employees-searching-payroll-portals-on.html>)
 
-- **Gli hacker chiamano il tuo ufficio: gli studi legali di Alerts FBI alla campagna di Phishing stealth di Luna Moth**  
+- **Gli hacker chiamano il tuo ufficio: gli studi legali di Alerts FBI alla campagna di phishing stealth di Luna Moth**  
   Fonte: The Hacker News, 27 May 2025, 07:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/hackers-are-calling-your-office-fbi.html>)
 
-- **Gli hacker collegati alla Russia prendono di mira il governo del Tagikistan con documenti di parole armonizzate**  
-  Fonte: The Hacker News, 27 May 2025, 06:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/russia-linked-hackers-target-tajikistan.html>)
 
-- **Aggiornamento settimanale 453**  
-  Fonte: Troy Hunt, 27 May 2025, 00:26:01 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-453/>)
-
-- **Oltre 70 pacchetti maliziosi NPM e VS Code hanno trovato il furto di dati e criptovalute**  
-  Fonte: The Hacker News, 26 May 2025, 14:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/over-70-malicious-npm-and-vs-code.html>)
-
-- **Guida di Ciso alla convalida della privacy Web e perché è importante**  
-  Fonte: The Hacker News, 26 May 2025, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/cisos-guide-to-web-privacy-validation.html>)
-
-- **⚡ Riepilogo settimanale: campagne APT, dirottanti del browser, malware AI, violazioni del cloud e CVE critici**  
-  Fonte: The Hacker News, 26 May 2025, 09:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/weekly-recap-apt-campaigns-browser.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-02 06:56:12 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-03 06:55:48 UTC -->
