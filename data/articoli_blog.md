@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **US offre $ 10 milioni per suggerimenti sugli hacker statali legati al malware Redline**  
+  Fonte: BleepingComputer, 05 Jun 2025, 06:25:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-state-hackers-tied-to-redline-malware/>)
+
+- **Il bypass critico di cisco ise autentica influisce sulle distribuzioni di cloud su AWS, Azure e OCI**  
+  Fonte: The Hacker News, 05 Jun 2025, 05:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html>)
+
+- **Microsoft presenta un programma gratuito di sicurezza informatica dell'UE per i governi**  
+  Fonte: BleepingComputer, 04 Jun 2025, 20:36:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-free-eu-cybersecurity-program-for-governments/>)
+
+- **FBI: Gioca a ransomware violate 900 vittime, comprese le organizzazioni critiche**  
+  Fonte: BleepingComputer, 04 Jun 2025, 20:06:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/>)
+
+- **Hacker arrestato per aver violato 5.000 conti di hosting per estrarre criptovalute**  
+  Fonte: BleepingComputer, 04 Jun 2025, 19:38:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/>)
+
+- **Cisco avverte di difetti ISE e CCP con codice exploit pubblico**  
+  Fonte: BleepingComputer, 04 Jun 2025, 19:19:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/>)
+
+- **L'Ucraina afferma di aver violato Tupolev, produttore di terreni strategici della Russia**  
+  Fonte: BleepingComputer, 04 Jun 2025, 18:00:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-tupolev-russias-strategic-warplane-maker/>)
+
+- **Domini di mercato del carding bidencash sequestrati in funzionamento internazionale**  
+  Fonte: BleepingComputer, 04 Jun 2025, 17:10:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bidencash-carding-market-domains-seized-in-international-operation/>)
+
+- **L'FBI avverte di truffe NFT AIRDROP mirano a portafogli Hedera Hashgraph**  
+  Fonte: BleepingComputer, 04 Jun 2025, 16:37:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/>)
+
+- **Google espone Group Vishing UNC6040 Target Salesforce con APP FACE Data Loader**  
+  Fonte: The Hacker News, 04 Jun 2025, 15:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html>)
+
+- **Il gigante dei media Lee Enterprises afferma che la violazione dei dati colpisce 39.000 persone**  
+  Fonte: BleepingComputer, 04 Jun 2025, 14:30:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/>)
+
+- **Google: gli hacker target sugli account Salesforce negli attacchi di estorsione dei dati**  
+  Fonte: BleepingComputer, 04 Jun 2025, 14:11:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/>)
+
+- **Kerberos As Attacchi di torrefazione: quello che devi sapere**  
+  Fonte: BleepingComputer, 04 Jun 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-what-you-need-to-know/>)
+
+- **Chaos Rat Malware prende di mira Windows e Linux tramite download di strumenti di rete falsi**  
+  Fonte: The Hacker News, 04 Jun 2025, 12:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html>)
+
+- **I tuoi dati SAAS non sono sicuri: perché le soluzioni DLP tradizionali falliscono nell'era del browser**  
+  Fonte: The Hacker News, 04 Jun 2025, 12:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html>)
+
+- **Le ramificazioni dell'attacco di droni dell'Ucraina**  
+  Fonte: Schneier on Security, 04 Jun 2025, 11:00:52 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/the-ramifications-of-ukraines-drone-attack.html>)
+
+- **Pacchetti maliziosi PyPI, NPM e Ruby esposti in attacchi in corso della catena di approvvigionamento open source**  
+  Fonte: The Hacker News, 04 Jun 2025, 10:11:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html>)
+
+- **Hacker si rivolge ad altri hacker e giocatori con codice github backdoored**  
+  Fonte: BleepingComputer, 04 Jun 2025, 10:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-targets-other-hackers-and-gamers-with-backdoored-github-code/>)
+
 - **HPE emette patch di sicurezza per il bug Storeonce che consente il bypass di autenticazione remota**  
   Fonte: The Hacker News, 04 Jun 2025, 05:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html>)
@@ -10,45 +82,13 @@
   Fonte: BleepingComputer, 03 Jun 2025, 21:30:52 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-hopeful-gpt-5-will-compete-a-little-more/>)
 
-- **Chatgpt lancia l'aggiornamento della memoria per gli utenti gratuiti**  
-  Fonte: BleepingComputer, 03 Jun 2025, 20:55:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-memory-upgrade-for-free-users/>)
-
-- **Hewlett Packard Enterprise avverte del bypass critico StoreOnce Auth**  
-  Fonte: BleepingComputer, 03 Jun 2025, 20:55:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hewlett-packard-enterprise-warns-of-critical-storeonce-auth-bypass/>)
-
-- **Coinbase Breach legata agli agenti di supporto taskus corrotti in India**  
-  Fonte: BleepingComputer, 03 Jun 2025, 17:17:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/>)
-
-- **Microsoft aggiunge un rapido recupero della macchina alle impostazioni di Windows 11**  
-  Fonte: BleepingComputer, 03 Jun 2025, 15:50:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-quick-machine-recovery-to-windows-11-settings/>)
-
-- **Rubygems dannosi posano come Fastlane per rubare i dati API Telegram**  
-  Fonte: BleepingComputer, 03 Jun 2025, 15:48:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-rubygems-pose-as-fastlane-to-steal-telegram-api-data/>)
-
 - **Docusign falso, siti gitcode diffonde reti di supporto tramite attacco PowerShell a più stadi**  
   Fonte: The Hacker News, 03 Jun 2025, 15:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html>)
 
-- **Mozilla lancia un nuovo sistema per rilevare i componenti aggiuntivi di Drainer Crypto Firefox**  
-  Fonte: BleepingComputer, 03 Jun 2025, 14:29:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mozilla-launches-new-system-to-detect-firefox-crypto-drainer-add-ons/>)
-
-- **Spider sparso: tre cose che la notizia non ti dice**  
-  Fonte: BleepingComputer, 03 Jun 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/scattered-spider-three-things-the-news-doesnt-tell-you/>)
-
-- **La CISA avverte di Bug screenConnect ConnectWise sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 03 Jun 2025, 13:57:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-connectwise-screenconnect-bug-exploited-in-attacks/>)
-
-- **Il segreto di Victoria ritarda il rilascio degli utili dopo l'incidente di sicurezza**  
-  Fonte: BleepingComputer, 03 Jun 2025, 13:25:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/victorias-secret-delays-earnings-release-after-security-incident/>)
+- **L'IA FIX #53: Un'intelligenza artificiale utilizza il ricatto per salvarsi e le minacce fanno funzionare meglio AIS**  
+  Fonte: Graham Cluley, 03 Jun 2025, 14:00:43 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-53/>)
 
 - **Il bug della webmail roundcube di 10 anni critico consente agli utenti autenticati di eseguire codice dannoso**  
   Fonte: The Hacker News, 03 Jun 2025, 13:01:00 UTC  
@@ -62,17 +102,9 @@
   Fonte: The Hacker News, 03 Jun 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/scattered-spider-understanding-help.html>)
 
-- **Patch di Google Nuovo bug di Chrome Zero-Day Sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 03 Jun 2025, 10:22:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-bug-exploited-in-attacks/>)
-
 - **Android Trojan Crocodilus ora attivo in 8 paesi, prendendo di mira le banche e i portafogli di criptovalute**  
   Fonte: The Hacker News, 03 Jun 2025, 09:34:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/android-trojan-crocodilus-now-active-in.html>)
-
-- **Malware Android Crocodilus aggiunge falsi contatti ai chiamanti fidati**  
-  Fonte: BleepingComputer, 03 Jun 2025, 09:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/android-malware-crocodilus-adds-fake-contacts-to-spoof-trusted-callers/>)
 
 - **Google Chrome diffidenti di due autorità di certificazione per la conformità e condurre problemi**  
   Fonte: The Hacker News, 03 Jun 2025, 07:48:00 UTC  
@@ -85,10 +117,6 @@
 - **Nuovo Chrome Zero-Day sfruttato attivamente;Google emette patch di emergenza fuori banda**  
   Fonte: The Hacker News, 03 Jun 2025, 04:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html>)
-
-- **Cartier rivela la violazione dei dati tra gli attacchi informatici del marchio di moda**  
-  Fonte: BleepingComputer, 02 Jun 2025, 22:31:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cartier-discloses-data-breach-amid-fashion-brand-cyberattacks/>)
 
 - **La campagna di criptojacking sfrutta le API DevOps usando strumenti standard di GitHub**  
   Fonte: The Hacker News, 02 Jun 2025, 16:03:00 UTC  
@@ -146,7 +174,7 @@
   Fonte: Schneier on Security, 30 May 2025, 11:05:16 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/05/why-take9-wont-improve-cybersecurity.html>)
 
-- **Dal "Dipartimento di NO" a una "cultura di sì": un viaggio di un Ciso sanitario per consentire l'assistenza moderna**  
+- **Dal "Dipartimento di NO" a una "cultura di sì": un viaggio di un ciso sanitario per consentire l'assistenza moderna**  
   Fonte: The Hacker News, 30 May 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html>)
 
@@ -190,57 +218,5 @@
   Fonte: The Hacker News, 29 May 2025, 10:34:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html>)
 
-- **APT41 cinese Exploits Google Calendar per le operazioni di comando e controllo malware**  
-  Fonte: The Hacker News, 29 May 2025, 05:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html>)
 
-- **Oltre 100.000 siti WordPress a rischio di vulnerabilità CVSS 10.0 nel plugin della lista dei desideri**  
-  Fonte: The Hacker News, 29 May 2025, 05:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html>)
-
-- **Smashing Security Podcast #419: Star Wars, la CIA e un Malware Mirage WhatsApp**  
-  Fonte: Graham Cluley, 28 May 2025, 23:00:17 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-419/>)
-
-- **Pakistan Arresta 21 nel servizio di malware "Heartsender"**  
-  Fonte: Krebs on Security, 28 May 2025, 17:41:47 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/>)
-
-- **L'hacker iraniano si dichiara colpevole in $ 19 milioni di Ransomware Attack a Baltimora**  
-  Fonte: The Hacker News, 28 May 2025, 17:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html>)
-
-- **Ceca Repubblica incolpa gli hacker APT31 legati alla Cina per il 2022 Cyberack**  
-  Fonte: The Hacker News, 28 May 2025, 16:01:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/czech-republic-blames-china-linked.html>)
-
-- **Microsoft OneDrive File Picker Flaw Grants Apps Accesso al cloud completo - anche quando si carica solo un file**  
-  Fonte: The Hacker News, 28 May 2025, 13:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html>)
-
-- **New Pumabot Botnet target dispositivi IoT Linux per rubare le credenziali SSH e il mio cripto**  
-  Fonte: The Hacker News, 28 May 2025, 12:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html>)
-
-- **Dall'infezione all'accesso: una sequenza temporale di 24 ore di una moderna campagna di furto**  
-  Fonte: The Hacker News, 28 May 2025, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html>)
-
-- **App di tracciamento della posizione per gli stranieri a Mosca**  
-  Fonte: Schneier on Security, 28 May 2025, 11:09:26 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/05/location-tracking-app-for-foreigners-in-moscow.html>)
-
-- **MIMO hacker Exploit CVE-2025-32432 in CMS artigianale per distribuire criptomine e proxyware**  
-  Fonte: The Hacker News, 28 May 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html>)
-
-- **In che modo gli attacchi "browser-in-the-middle" rubano sessioni in pochi secondi**  
-  Fonte: The Hacker News, 28 May 2025, 09:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html>)
-
-- **251 IP ospitati da Amazon utilizzati nello scansione Exploit Target su Coldfusion, Struts ed ElaSticSearch**  
-  Fonte: The Hacker News, 28 May 2025, 09:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-04 06:53:58 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-05 06:55:52 UTC -->
