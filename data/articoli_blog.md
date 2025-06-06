@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Il prossimo Gemini Kingfall di Google è presumibilmente una bestia da codifica**  
+  Fonte: BleepingComputer, 05 Jun 2025, 23:41:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/googles-upcoming-gemini-kingfall-is-allegedly-a-coding-beast/>)
+
+- **Chatgpt prepara il modello O3-Pro per abbonati da $ 200 pro**  
+  Fonte: BleepingComputer, 05 Jun 2025, 22:45:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-prepares-o3-pro-model-for-200-pro-subscribers/>)
+
+- **Festa dei servizi per proxy sull'esodo dell'indirizzo IP dell'Ucraina**  
+  Fonte: Krebs on Security, 05 Jun 2025, 22:44:33 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/>)
+
+- **FBI: malware Android Badbox 2.0 infetta milioni di dispositivi di consumo**  
+  Fonte: BleepingComputer, 05 Jun 2025, 21:35:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/>)
+
+- **Old AT&T Data Leak ribattegata per collegare SSNS, DoB a 49m di telefono**  
+  Fonte: BleepingComputer, 05 Jun 2025, 17:21:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/>)
+
+- **Hacker che vende boschi di RoundCube Webmail Exploit come informazione Tech Information**  
+  Fonte: BleepingComputer, 05 Jun 2025, 16:55:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/>)
+
+- **Chiavi API di perdita di estensioni Chrome popolari, dati dell'utente tramite HTTP e credenziali con codice**  
+  Fonte: The Hacker News, 05 Jun 2025, 15:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html>)
+
+- **Progettazione di un servizio Windows per la sicurezza**  
+  Fonte: BleepingComputer, 05 Jun 2025, 14:20:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/>)
+
+- **I ricercatori dettagliano le tattiche in evoluzione di APT APT man mano che la sua portata geografica si espande**  
+  Fonte: The Hacker News, 05 Jun 2025, 13:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html>)
+
+- **La Germania multa vodafone $ 51 milioni per la privacy, violazioni della sicurezza**  
+  Fonte: BleepingComputer, 05 Jun 2025, 11:29:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/>)
+
+- **Ridefinire il valore informatico: perché l'impatto aziendale dovrebbe guidare la conversazione di sicurezza**  
+  Fonte: The Hacker News, 05 Jun 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html>)
+
+- **Bladedfeline legato all'Iran colpisce gli obiettivi iracheni e curdi con whisper e malware spaal**  
+  Fonte: The Hacker News, 05 Jun 2025, 10:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/iran-linked-bladedfeline-hits-iraqi-and.html>)
+
+- **DOJ sequestra 145 domini legati al marketplace carding bidencash a globale**  
+  Fonte: The Hacker News, 05 Jun 2025, 10:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html>)
+
+- **Membri della banda vile condannati per violazione del portale DEA, estorsione**  
+  Fonte: BleepingComputer, 05 Jun 2025, 09:26:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/vile-gang-members-sentenced-for-breaching-law-enforcement-portal/>)
+
+- **Interlock Ransomware afferma che la violazione della salute, perdite di dati rubati**  
+  Fonte: BleepingComputer, 05 Jun 2025, 07:31:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-kettering-health-breach-leaks-stolen-data/>)
+
 - **US offre $ 10 milioni per suggerimenti sugli hacker statali legati al malware Redline**  
   Fonte: BleepingComputer, 05 Jun 2025, 06:25:21 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-state-hackers-tied-to-redline-malware/>)
@@ -22,37 +82,9 @@
   Fonte: BleepingComputer, 04 Jun 2025, 19:38:13 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/>)
 
-- **Cisco avverte di difetti ISE e CCP con codice exploit pubblico**  
-  Fonte: BleepingComputer, 04 Jun 2025, 19:19:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/>)
-
-- **L'Ucraina afferma di aver violato Tupolev, produttore di terreni strategici della Russia**  
-  Fonte: BleepingComputer, 04 Jun 2025, 18:00:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-tupolev-russias-strategic-warplane-maker/>)
-
-- **Domini di mercato del carding bidencash sequestrati in funzionamento internazionale**  
-  Fonte: BleepingComputer, 04 Jun 2025, 17:10:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bidencash-carding-market-domains-seized-in-international-operation/>)
-
-- **L'FBI avverte di truffe NFT AIRDROP mirano a portafogli Hedera Hashgraph**  
-  Fonte: BleepingComputer, 04 Jun 2025, 16:37:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/>)
-
 - **Google espone Group Vishing UNC6040 Target Salesforce con APP FACE Data Loader**  
   Fonte: The Hacker News, 04 Jun 2025, 15:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html>)
-
-- **Il gigante dei media Lee Enterprises afferma che la violazione dei dati colpisce 39.000 persone**  
-  Fonte: BleepingComputer, 04 Jun 2025, 14:30:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/>)
-
-- **Google: gli hacker target sugli account Salesforce negli attacchi di estorsione dei dati**  
-  Fonte: BleepingComputer, 04 Jun 2025, 14:11:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/>)
-
-- **Kerberos As Attacchi di torrefazione: quello che devi sapere**  
-  Fonte: BleepingComputer, 04 Jun 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-what-you-need-to-know/>)
 
 - **Chaos Rat Malware prende di mira Windows e Linux tramite download di strumenti di rete falsi**  
   Fonte: The Hacker News, 04 Jun 2025, 12:55:00 UTC  
@@ -70,17 +102,9 @@
   Fonte: The Hacker News, 04 Jun 2025, 10:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html>)
 
-- **Hacker si rivolge ad altri hacker e giocatori con codice github backdoored**  
-  Fonte: BleepingComputer, 04 Jun 2025, 10:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-targets-other-hackers-and-gamers-with-backdoored-github-code/>)
-
 - **HPE emette patch di sicurezza per il bug Storeonce che consente il bypass di autenticazione remota**  
   Fonte: The Hacker News, 04 Jun 2025, 05:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html>)
-
-- **Openi è speranzoso GPT-5 gareggerà un po 'di più**  
-  Fonte: BleepingComputer, 03 Jun 2025, 21:30:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-hopeful-gpt-5-will-compete-a-little-more/>)
 
 - **Docusign falso, siti gitcode diffonde reti di supporto tramite attacco PowerShell a più stadi**  
   Fonte: The Hacker News, 03 Jun 2025, 15:00:00 UTC  
@@ -186,37 +210,5 @@
   Fonte: The Hacker News, 30 May 2025, 07:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/us-sanctions-funnull-for-200m-romance.html>)
 
-- **Connectwise colpito da Cyberattack;Attore dello stato-nazione sospettato in violazione mirata**  
-  Fonte: The Hacker News, 30 May 2025, 06:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/connectwise-hit-by-cyberattack-nation.html>)
 
-- **Meta Distupts Influence Ops bersaglio Romania, Azerbaigian e Taiwan con persone false**  
-  Fonte: The Hacker News, 30 May 2025, 04:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/meta-disrupts-influence-ops-targeting.html>)
-
-- **Il fornitore di cloud sanzioni statunitensi "Funnull" come principale fonte di truffe "macelleria di maiali"**  
-  Fonte: Krebs on Security, 30 May 2025, 01:55:16 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/>)
-
-- **Blogging di calamari del venerdì: NGC 1068 è la "Galaxy Squid"**  
-  Fonte: Schneier on Security, 29 May 2025, 21:04:53 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-ngc-1068-is-the-squid-galaxy.html>)
-
-- **Utenti di AI target criminali informatici con installatori caricati con malware in posa come strumenti popolari**  
-  Fonte: The Hacker News, 29 May 2025, 15:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/cybercriminals-target-ai-users-with.html>)
-
-- **Nuovo ratto Windows Elimina il rilevamento per settimane utilizzando le intestazioni DOS e PE danneggiate**  
-  Fonte: The Hacker News, 29 May 2025, 13:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html>)
-
-- **Sorveglianza tramite spazzolino da denti intelligenti**  
-  Fonte: Schneier on Security, 29 May 2025, 11:06:02 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/05/surveillance-via-smart-toothbrush.html>)
-
-- **DragonForce sfrutta i difetti semplici per distribuire ransomware attraverso gli endpoint dei clienti**  
-  Fonte: The Hacker News, 29 May 2025, 10:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-05 06:55:52 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-06 06:55:24 UTC -->
