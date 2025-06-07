@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Blogging di calamari del venerdì: Squid Run nel sud del New England**  
+  Fonte: Schneier on Security, 06 Jun 2025, 21:00:56 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-squid-run-in-southern-new-england.html>)
+
+- **Ascoltare il governo federale e l'IA**  
+  Fonte: Schneier on Security, 06 Jun 2025, 17:43:00 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/hearing-on-the-federal-government-and-ai.html>)
+
+- **Microsoft condivide lo script per ripristinare la cartella inetpub non dovresti eliminare**  
+  Fonte: BleepingComputer, 06 Jun 2025, 17:28:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/>)
+
+- **Società di risoluzione fiscale Optima sgravio fiscale colpito da ransomware, dati trapelati**  
+  Fonte: BleepingComputer, 06 Jun 2025, 17:14:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/>)
+
+- **Nuova campagna Atomic MacOS Stealer Exploits ClickFix per indirizzare gli utenti Apple**  
+  Fonte: The Hacker News, 06 Jun 2025, 16:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html>)
+
+- **Kettering Health conferma il ransomware di interblocco dietro Cyberattack**  
+  Fonte: BleepingComputer, 06 Jun 2025, 15:26:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/kettering-health-confirms-interlock-ransomware-behind-cyberattack/>)
+
+- **Rapporto sugli usi dannosi dell'IA**  
+  Fonte: Schneier on Security, 06 Jun 2025, 14:41:13 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/report-on-the-malicious-uses-of-ai.html>)
+
+- **Nuovo PathWiper Data Wiper Malware colpisce l'infrastruttura critica in Ucraina**  
+  Fonte: BleepingComputer, 06 Jun 2025, 14:40:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-pathwiper-data-wiper-malware-hits-critical-infrastructure-in-ukraine/>)
+
+- **I difetti dei fortinet critici ora sfruttati in attacchi di ransomware di Qilin**  
+  Fonte: BleepingComputer, 06 Jun 2025, 13:53:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/>)
+
+- **Ransomware Nightmare di Marks & Spencer - Maggiori dettagli emergono**  
+  Fonte: Graham Cluley, 06 Jun 2025, 13:42:21 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/marks-spencers-ransomware-nightmare-more-details-emerge>)
+
+- **Responsabilizzare gli utenti e proteggere dalla perdita di dati di Genai**  
+  Fonte: The Hacker News, 06 Jun 2025, 13:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html>)
+
+- **Microsoft aiuta la CBI a smantellare i call center indiani dietro la truffa di supporto tecnico giapponese**  
+  Fonte: The Hacker News, 06 Jun 2025, 13:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html>)
+
+- **Gli Stati Uniti offre una ricompensa da $ 10 milioni per suggerimenti sugli hacker Redline collegati allo stato**  
+  Fonte: Graham Cluley, 06 Jun 2025, 10:56:17 UTC  
+  [Leggi](<https://www.tripwire.com/state-of-security/us-offers-10-million-reward-tips-about-state-linked-redline-cybercriminals>)
+
+- **All'interno della mente dell'avversario: perché più leader di sicurezza stanno selezionando AEV**  
+  Fonte: The Hacker News, 06 Jun 2025, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/inside-mind-of-adversary-why-more.html>)
+
+- **La polizia arresta 20 sospetti per la distribuzione del contenuto di abusi sessuali su minori**  
+  Fonte: BleepingComputer, 06 Jun 2025, 08:55:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-arrests-20-suspects-for-distributing-child-sexual-abuse-content/>)
+
+- **Nuovo PathWiper Data Wiper Malware interrompe l'infrastruttura critica ucraina nell'attacco del 2025**  
+  Fonte: The Hacker News, 06 Jun 2025, 08:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html>)
+
 - **Il prossimo Gemini Kingfall di Google è presumibilmente una bestia da codifica**  
   Fonte: BleepingComputer, 05 Jun 2025, 23:41:25 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/googles-upcoming-gemini-kingfall-is-allegedly-a-coding-beast/>)
@@ -26,13 +90,13 @@
   Fonte: BleepingComputer, 05 Jun 2025, 16:55:54 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/>)
 
-- **Chiavi API di perdita di estensioni Chrome popolari, dati dell'utente tramite HTTP e credenziali con codice**  
+- **Estensioni cromate popolari chiavi API di perdita, dati utente tramite HTTP e credenziali codificate**  
   Fonte: The Hacker News, 05 Jun 2025, 15:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html>)
 
-- **Progettazione di un servizio Windows per la sicurezza**  
+- **Come creare un servizio Windows robusto per bloccare malware e ransomware**  
   Fonte: BleepingComputer, 05 Jun 2025, 14:20:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/>)
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-build-a-robust-windows-service-to-block-malware-and-ransomware/>)
 
 - **I ricercatori dettagliano le tattiche in evoluzione di APT APT man mano che la sua portata geografica si espande**  
   Fonte: The Hacker News, 05 Jun 2025, 13:53:00 UTC  
@@ -54,33 +118,13 @@
   Fonte: The Hacker News, 05 Jun 2025, 10:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html>)
 
-- **Membri della banda vile condannati per violazione del portale DEA, estorsione**  
-  Fonte: BleepingComputer, 05 Jun 2025, 09:26:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vile-gang-members-sentenced-for-breaching-law-enforcement-portal/>)
-
-- **Interlock Ransomware afferma che la violazione della salute, perdite di dati rubati**  
-  Fonte: BleepingComputer, 05 Jun 2025, 07:31:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-kettering-health-breach-leaks-stolen-data/>)
-
-- **US offre $ 10 milioni per suggerimenti sugli hacker statali legati al malware Redline**  
-  Fonte: BleepingComputer, 05 Jun 2025, 06:25:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-state-hackers-tied-to-redline-malware/>)
+- **Smashing Security Podcast #420: Susies falsi, sistemi imperfetti e correzioni fruttate per l'ansia**  
+  Fonte: Graham Cluley, 05 Jun 2025, 09:31:30 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-420/>)
 
 - **Il bypass critico di cisco ise autentica influisce sulle distribuzioni di cloud su AWS, Azure e OCI**  
   Fonte: The Hacker News, 05 Jun 2025, 05:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html>)
-
-- **Microsoft presenta un programma gratuito di sicurezza informatica dell'UE per i governi**  
-  Fonte: BleepingComputer, 04 Jun 2025, 20:36:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-free-eu-cybersecurity-program-for-governments/>)
-
-- **FBI: Gioca a ransomware violate 900 vittime, comprese le organizzazioni critiche**  
-  Fonte: BleepingComputer, 04 Jun 2025, 20:06:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/>)
-
-- **Hacker arrestato per aver violato 5.000 conti di hosting per estrarre criptovalute**  
-  Fonte: BleepingComputer, 04 Jun 2025, 19:38:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/>)
 
 - **Google espone Group Vishing UNC6040 Target Salesforce con APP FACE Data Loader**  
   Fonte: The Hacker News, 04 Jun 2025, 15:24:00 UTC  
@@ -182,33 +226,5 @@
   Fonte: The Hacker News, 31 May 2025, 07:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html>)
 
-- **Il nuovo malware di Eddiestealer bypassa la crittografia legata all'app di Chrome per rubare i dati del browser**  
-  Fonte: The Hacker News, 30 May 2025, 14:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html>)
 
-- **Damasched Peacock: gli hacker russi hanno preso di mira il Ministero della Difesa del Regno Unito**  
-  Fonte: Graham Cluley, 30 May 2025, 13:14:01 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/damascened-peacock-russian-hackers-targeted-uk-ministry-of-defence>)
-
-- **Gli hacker collegati in Cina sfruttano SAP e SQL Server difetti negli attacchi in Asia e Brasile**  
-  Fonte: The Hacker News, 30 May 2025, 11:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html>)
-
-- **Perché prendere9 non migliorerà la sicurezza informatica**  
-  Fonte: Schneier on Security, 30 May 2025, 11:05:16 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/05/why-take9-wont-improve-cybersecurity.html>)
-
-- **Dal "Dipartimento di NO" a una "cultura di sì": un viaggio di un ciso sanitario per consentire l'assistenza moderna**  
-  Fonte: The Hacker News, 30 May 2025, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/from-department-of-no-to-culture-of-yes.html>)
-
-- **Interlock Ransomware: quello che devi sapere**  
-  Fonte: Graham Cluley, 30 May 2025, 08:23:50 UTC  
-  [Leggi](<https://www.tripwire.com/state-of-security/interlock-ransomware-what-you-need-know>)
-
-- **Sanzioni statunitensi Funnull per $ 200 milioni Romance Eastica legate alla frode crittografica**  
-  Fonte: The Hacker News, 30 May 2025, 07:51:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/us-sanctions-funnull-for-200m-romance.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-06 06:55:24 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-07 06:49:25 UTC -->
