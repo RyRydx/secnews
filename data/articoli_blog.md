@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **Gli attacchi della catena di approvvigionamento colpiscono pacchetti NPM Gluestack con download settimanali 960K**  
+  Fonte: BleepingComputer, 07 Jun 2025, 19:31:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/>)
+
+- **Pacchetti NPM dannosi in posa come utility eliminano le directory del progetto**  
+  Fonte: BleepingComputer, 07 Jun 2025, 14:11:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/>)
+
 - **Blogging di calamari del venerdì: Squid Run nel sud del New England**  
   Fonte: Schneier on Security, 06 Jun 2025, 21:00:56 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-squid-run-in-southern-new-england.html>)
@@ -86,25 +94,13 @@
   Fonte: BleepingComputer, 05 Jun 2025, 17:21:25 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/>)
 
-- **Hacker che vende boschi di RoundCube Webmail Exploit come informazione Tech Information**  
-  Fonte: BleepingComputer, 05 Jun 2025, 16:55:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/>)
-
 - **Estensioni cromate popolari chiavi API di perdita, dati utente tramite HTTP e credenziali codificate**  
   Fonte: The Hacker News, 05 Jun 2025, 15:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html>)
 
-- **Come creare un servizio Windows robusto per bloccare malware e ransomware**  
-  Fonte: BleepingComputer, 05 Jun 2025, 14:20:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-build-a-robust-windows-service-to-block-malware-and-ransomware/>)
-
 - **I ricercatori dettagliano le tattiche in evoluzione di APT APT man mano che la sua portata geografica si espande**  
   Fonte: The Hacker News, 05 Jun 2025, 13:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html>)
-
-- **La Germania multa vodafone $ 51 milioni per la privacy, violazioni della sicurezza**  
-  Fonte: BleepingComputer, 05 Jun 2025, 11:29:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/>)
 
 - **Ridefinire il valore informatico: perché l'impatto aziendale dovrebbe guidare la conversazione di sicurezza**  
   Fonte: The Hacker News, 05 Jun 2025, 11:25:00 UTC  
@@ -214,17 +210,9 @@
   Fonte: Troy Hunt, 02 Jun 2025, 10:26:35 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-454/>)
 
-- **E -mail di reclutatore falsi target CFO utilizzando lo strumento Netbird legittimo in 6 regioni globali**  
+- **E -mail di reclutatore false target CFO utilizzando lo strumento Netbird legittimo in 6 regioni globali**  
   Fonte: The Hacker News, 02 Jun 2025, 05:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html>)
 
-- **I nuovi difetti Linux consentono il furto di hash password tramite dump di base in Ubuntu, Rhel, Fedora**  
-  Fonte: The Hacker News, 31 May 2025, 10:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html>)
 
-- **U.S. DOJ coglie 4 domini a supporto dei servizi di cristallo di criminalità informatica durante il funzionamento globale**  
-  Fonte: The Hacker News, 31 May 2025, 07:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-07 06:49:25 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-08 06:51:14 UTC -->
