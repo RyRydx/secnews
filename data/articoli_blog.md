@@ -2,7 +2,19 @@
 
 ## Ultimi 7 giorni
 
-- **Gli attacchi della catena di approvvigionamento colpiscono pacchetti NPM Gluestack con download settimanali 960K**  
+- **Nuovi dispositivi DVR TBK DVR infettano nuovi Mirai tramite difetto di iniezione di comando**  
+  Fonte: BleepingComputer, 08 Jun 2025, 14:17:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-mirai-botnet-infect-tbk-dvr-devices-via-command-injection-flaw/>)
+
+- **Nuovo funzionamento del malware della catena di approvvigionamento colpisce gli ecosistemi NPM e PYPI, prendendo di mira milioni a livello globale**  
+  Fonte: The Hacker News, 08 Jun 2025, 13:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html>)
+
+- **Le estensioni del browser dannose infettano oltre 700 utenti in tutta l'America Latina dall'inizio del 2025**  
+  Fonte: The Hacker News, 08 Jun 2025, 08:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html>)
+
+- **Malware trovato in pacchetti NPM con 1 milione di download settimanali**  
   Fonte: BleepingComputer, 07 Jun 2025, 19:31:21 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/>)
 
@@ -70,7 +82,7 @@
   Fonte: BleepingComputer, 06 Jun 2025, 08:55:21 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/police-arrests-20-suspects-for-distributing-child-sexual-abuse-content/>)
 
-- **Nuovo PathWiper Data Wiper Malware interrompe l'infrastruttura critica ucraina nell'attacco del 2025**  
+- **Nuovo pathwiper Data Wiper malware interrompe l'infrastruttura critica ucraina nell'attacco del 2025**  
   Fonte: The Hacker News, 06 Jun 2025, 08:35:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html>)
 
@@ -90,15 +102,11 @@
   Fonte: BleepingComputer, 05 Jun 2025, 21:35:43 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/>)
 
-- **Old AT&T Data Leak ribattegata per collegare SSNS, DoB a 49m di telefono**  
-  Fonte: BleepingComputer, 05 Jun 2025, 17:21:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/>)
-
-- **Estensioni cromate popolari chiavi API di perdita, dati utente tramite HTTP e credenziali codificate**  
+- **Estensioni cromate popolari chiavi API di perdita, dati dell'utente tramite HTTP e credenziali codificate**  
   Fonte: The Hacker News, 05 Jun 2025, 15:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html>)
 
-- **I ricercatori dettagliano le tattiche in evoluzione di APT APT man mano che la sua portata geografica si espande**  
+- **I ricercatori descrivono in dettaglio le tattiche in evoluzione di APT APT man mano che la sua portata geografica si espande**  
   Fonte: The Hacker News, 05 Jun 2025, 13:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html>)
 
@@ -142,7 +150,7 @@
   Fonte: The Hacker News, 04 Jun 2025, 10:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html>)
 
-- **HPE emette patch di sicurezza per il bug Storeonce che consente il bypass di autenticazione remota**  
+- **HPE emette patch di sicurezza per il bug StoreOnce che consente il bypass di autenticazione remota**  
   Fonte: The Hacker News, 04 Jun 2025, 05:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html>)
 
@@ -210,9 +218,5 @@
   Fonte: Troy Hunt, 02 Jun 2025, 10:26:35 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-454/>)
 
-- **E -mail di reclutatore false target CFO utilizzando lo strumento Netbird legittimo in 6 regioni globali**  
-  Fonte: The Hacker News, 02 Jun 2025, 05:51:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/fake-recruiter-emails-target-cfos-using.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-06-08 06:51:14 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-09 06:56:08 UTC -->
