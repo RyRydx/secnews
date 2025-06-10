@@ -2,11 +2,75 @@
 
 ## Ultimi 7 giorni
 
+- **CISA aggiunge Erlang SSH e Roundcube difetti al noto catalogo di vulnerabilità sfruttate**  
+  Fonte: The Hacker News, 10 Jun 2025, 05:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html>)
+
+- **Dati di Ticketmaster rubati dagli attacchi di fiocchi di neve brevemente in vendita di nuovo in vendita**  
+  Fonte: BleepingComputer, 09 Jun 2025, 22:31:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/stolen-ticketmaster-data-from-snowflake-attacks-briefly-for-sale-again/>)
+
+- **Oltre 84.000 istanze di Roundcube vulnerabili al difetto sfruttato attivamente**  
+  Fonte: BleepingComputer, 09 Jun 2025, 20:14:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-84-000-roundcube-instances-vulnerable-to-actively-exploited-flaw/>)
+
+- **Bug patch di Google che perde numeri di telefono legati agli account**  
+  Fonte: BleepingComputer, 09 Jun 2025, 19:36:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-patched-bug-leaking-phone-numbers-tied-to-accounts/>)
+
+- **Sentinelone condivide nuovi dettagli sul tentativo di violazione collegati in Cina**  
+  Fonte: BleepingComputer, 09 Jun 2025, 18:26:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sentinelone-shares-new-details-on-china-linked-breach-attempt/>)
+
+- **Linux Foundation svela il Gestione plugin WordPress decentralizzato**  
+  Fonte: BleepingComputer, 09 Jun 2025, 18:07:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/technology/linux-foundation-unveils-decentralized-wordpress-plugin-manager/>)
+
+- **Sensata Technologies afferma che i dati personali rubati da Ransomware Gang**  
+  Fonte: BleepingComputer, 09 Jun 2025, 16:09:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sensata-technologies-says-personal-data-stolen-by-ransomware-gang/>)
+
+- **Oltre 70 organizzazioni in più settori mirati dal gruppo di spionaggio informatico legato alla Cina**  
+  Fonte: The Hacker News, 09 Jun 2025, 15:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html>)
+
+- **Due botnet distinti sfruttano la vulnerabilità del server Wazuh per lanciare attacchi basati su Mirai**  
+  Fonte: The Hacker News, 09 Jun 2025, 14:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html>)
+
+- **Progettazione di book da gioco blu con Wazuh per una risposta proattiva incidente**  
+  Fonte: BleepingComputer, 09 Jun 2025, 14:27:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/>)
+
+- **Drogheria gigante all'ingrosso United Natural Foods colpito da Cyberattack**  
+  Fonte: BleepingComputer, 09 Jun 2025, 13:31:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/grocery-wholesale-giant-united-natural-foods-hit-by-cyberattack/>)
+
+- **⚡ Riepilogo settimanale: Chrome a 0 giorni, tergicristalli di dati, strumenti abusi e attacchi di iPhone a zero clic**  
+  Fonte: The Hacker News, 09 Jun 2025, 11:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html>)
+
+- **Pensi che il tuo IDP o CASB copra l'ombra?Questi 5 rischi dimostrano diversamente**  
+  Fonte: The Hacker News, 09 Jun 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html>)
+
+- **Nuovo modo per tracciare gli utenti di Android segretamente**  
+  Fonte: Schneier on Security, 09 Jun 2025, 10:54:19 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/new-way-to-track-covertly-android-users.html>)
+
+- **Aggiornamento settimanale 455**  
+  Fonte: Troy Hunt, 09 Jun 2025, 08:27:23 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-455/>)
+
+- **Openi vieta gli account Chatgpt utilizzati da gruppi di hacker russi, iraniani e cinesi**  
+  Fonte: The Hacker News, 09 Jun 2025, 06:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html>)
+
 - **Nuovi dispositivi DVR TBK DVR infettano nuovi Mirai tramite difetto di iniezione di comando**  
   Fonte: BleepingComputer, 08 Jun 2025, 14:17:27 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-mirai-botnet-infect-tbk-dvr-devices-via-command-injection-flaw/>)
 
-- **Nuovo funzionamento del malware della catena di approvvigionamento colpisce gli ecosistemi NPM e PYPI, prendendo di mira milioni a livello globale**  
+- **Nuovo funzionamento del malware della catena di approvvigionamento colpisce ecosistemi NPM e PYPI, mira a milioni a livello globale**  
   Fonte: The Hacker News, 08 Jun 2025, 13:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html>)
 
@@ -34,29 +98,13 @@
   Fonte: BleepingComputer, 06 Jun 2025, 17:28:07 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/>)
 
-- **Società di risoluzione fiscale Optima sgravio fiscale colpito da ransomware, dati trapelati**  
-  Fonte: BleepingComputer, 06 Jun 2025, 17:14:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/>)
-
 - **Nuova campagna Atomic MacOS Stealer Exploits ClickFix per indirizzare gli utenti Apple**  
   Fonte: The Hacker News, 06 Jun 2025, 16:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html>)
 
-- **Kettering Health conferma il ransomware di interblocco dietro Cyberattack**  
-  Fonte: BleepingComputer, 06 Jun 2025, 15:26:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/kettering-health-confirms-interlock-ransomware-behind-cyberattack/>)
-
 - **Rapporto sugli usi dannosi dell'IA**  
   Fonte: Schneier on Security, 06 Jun 2025, 14:41:13 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/report-on-the-malicious-uses-of-ai.html>)
-
-- **Nuovo PathWiper Data Wiper Malware colpisce l'infrastruttura critica in Ucraina**  
-  Fonte: BleepingComputer, 06 Jun 2025, 14:40:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-pathwiper-data-wiper-malware-hits-critical-infrastructure-in-ukraine/>)
-
-- **I difetti dei fortinet critici ora sfruttati in attacchi di ransomware di Qilin**  
-  Fonte: BleepingComputer, 06 Jun 2025, 13:53:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/>)
 
 - **Ransomware Nightmare di Marks & Spencer - Maggiori dettagli emergono**  
   Fonte: Graham Cluley, 06 Jun 2025, 13:42:21 UTC  
@@ -66,7 +114,7 @@
   Fonte: The Hacker News, 06 Jun 2025, 13:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html>)
 
-- **Microsoft aiuta la CBI a smantellare i call center indiani dietro la truffa di supporto tecnico giapponese**  
+- **Microsoft aiuta CBI a smantellare i call center indiani dietro la truffa di supporto tecnico giapponese**  
   Fonte: The Hacker News, 06 Jun 2025, 13:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html>)
 
@@ -78,29 +126,13 @@
   Fonte: The Hacker News, 06 Jun 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/inside-mind-of-adversary-why-more.html>)
 
-- **La polizia arresta 20 sospetti per la distribuzione del contenuto di abusi sessuali su minori**  
-  Fonte: BleepingComputer, 06 Jun 2025, 08:55:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-arrests-20-suspects-for-distributing-child-sexual-abuse-content/>)
-
 - **Nuovo pathwiper Data Wiper malware interrompe l'infrastruttura critica ucraina nell'attacco del 2025**  
   Fonte: The Hacker News, 06 Jun 2025, 08:35:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html>)
 
-- **Il prossimo Gemini Kingfall di Google è presumibilmente una bestia da codifica**  
-  Fonte: BleepingComputer, 05 Jun 2025, 23:41:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/googles-upcoming-gemini-kingfall-is-allegedly-a-coding-beast/>)
-
-- **Chatgpt prepara il modello O3-Pro per abbonati da $ 200 pro**  
-  Fonte: BleepingComputer, 05 Jun 2025, 22:45:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-prepares-o3-pro-model-for-200-pro-subscribers/>)
-
-- **Festa dei servizi per proxy sull'esodo dell'indirizzo IP dell'Ucraina**  
+- **Festa dei servizi proxy sull'esodo dell'indirizzo IP dell'Ucraina**  
   Fonte: Krebs on Security, 05 Jun 2025, 22:44:33 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/>)
-
-- **FBI: malware Android Badbox 2.0 infetta milioni di dispositivi di consumo**  
-  Fonte: BleepingComputer, 05 Jun 2025, 21:35:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/>)
 
 - **Estensioni cromate popolari chiavi API di perdita, dati dell'utente tramite HTTP e credenziali codificate**  
   Fonte: The Hacker News, 05 Jun 2025, 15:53:00 UTC  
@@ -118,7 +150,7 @@
   Fonte: The Hacker News, 05 Jun 2025, 10:59:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/iran-linked-bladedfeline-hits-iraqi-and.html>)
 
-- **DOJ sequestra 145 domini legati al marketplace carding bidencash a globale**  
+- **DOJ sequestra 145 domini legati al marketplace di Bidencash Carding a Global Takedown**  
   Fonte: The Hacker News, 05 Jun 2025, 10:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html>)
 
@@ -158,7 +190,7 @@
   Fonte: The Hacker News, 03 Jun 2025, 15:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html>)
 
-- **L'IA FIX #53: Un'intelligenza artificiale utilizza il ricatto per salvarsi e le minacce fanno funzionare meglio AIS**  
+- **L'IA Fix #53: Un'intelligenza artificiale utilizza il ricatto per salvarsi e le minacce fanno funzionare meglio AIS**  
   Fonte: Graham Cluley, 03 Jun 2025, 14:00:43 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-53/>)
 
@@ -182,41 +214,9 @@
   Fonte: The Hacker News, 03 Jun 2025, 07:48:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/google-chrome-to-distrust-two.html>)
 
-- **Microsoft e Crowdstrike Lanciano Glossario dell'attore di minaccia condivisa per tagliare la confusione dell'attribuzione**  
+- **Microsoft e Crowdstrike Lanciano l'attore di minaccia condiviso Glossario per tagliare la confusione di attribuzione**  
   Fonte: The Hacker News, 03 Jun 2025, 07:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/microsoft-and-crowdstrike-launch-shared.html>)
 
-- **Nuovo Chrome Zero-Day sfruttato attivamente;Google emette patch di emergenza fuori banda**  
-  Fonte: The Hacker News, 03 Jun 2025, 04:22:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html>)
 
-- **La campagna di criptojacking sfrutta le API DevOps usando strumenti standard di GitHub**  
-  Fonte: The Hacker News, 02 Jun 2025, 16:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html>)
-
-- **App preinstallate sui telefoni Ulefone, Krüger e Matz consentono a qualsiasi dispositivo di ripristino dell'app, ruba il pin**  
-  Fonte: The Hacker News, 02 Jun 2025, 15:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/preinstalled-apps-on-ulefone-kruger.html>)
-
-- **Qualcomm corregge 3 zero giorni utilizzati negli attacchi Android mirati tramite Adreno GPU**  
-  Fonte: The Hacker News, 02 Jun 2025, 14:22:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/qualcomm-fixes-3-zero-days-used-in.html>)
-
-- **⚡ Riepilogo settimanale: intrusioni APT, malware AI, exploit a zero clic, hijack del browser e altro ancora**  
-  Fonte: The Hacker News, 02 Jun 2025, 11:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/weekly-recap-apt-intrusions-ai-malware.html>)
-
-- **L'Australia richiede alle vittime di ransomware di dichiarare pagamenti**  
-  Fonte: Schneier on Security, 02 Jun 2025, 11:03:34 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/australia-requires-ransomware-victims-to-declare-payments.html>)
-
-- **La strategia di difesa segreta di quattro industrie critiche che combattono le minacce informatiche avanzate**  
-  Fonte: The Hacker News, 02 Jun 2025, 10:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/the-secret-defense-strategy-of-four.html>)
-
-- **Aggiornamento settimanale 454**  
-  Fonte: Troy Hunt, 02 Jun 2025, 10:26:35 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-454/>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-09 06:56:08 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-10 06:55:02 UTC -->
