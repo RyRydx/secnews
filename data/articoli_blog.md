@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Oltre 80.000 account ID Microsoft ENTRA mirati utilizzando lo strumento Teamfiltration Open-Source**  
+  Fonte: The Hacker News, 12 Jun 2025, 05:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/over-80000-microsoft-entra-id-accounts.html>)
+
+- **CHATGPT O3 API 80% Calco del prezzo non ha alcun impatto sulle prestazioni**  
+  Fonte: BleepingComputer, 12 Jun 2025, 00:06:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-o3-api-80-percent-price-drop-has-no-impact-on-performance/>)
+
+- **Smashing Security Podcast #421: flirt di stuzzicadenti, perdite di Google e truffatori di ghiaccio di ghiaccio**  
+  Fonte: Graham Cluley, 11 Jun 2025, 23:00:31 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-421/>)
+
+- **SmartAttack utilizza smartwatch per rubare i dati dai sistemi a battitura d'aria**  
+  Fonte: BleepingComputer, 11 Jun 2025, 22:08:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/smartattack-uses-smartwatches-to-steal-data-from-air-gapped-systems/>)
+
+- **Erie Insurance conferma un attacco informatico dietro le interruzioni delle attività**  
+  Fonte: BleepingComputer, 11 Jun 2025, 21:44:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/erie-insurance-confirms-cyberattack-behind-business-disruptions/>)
+
+- **Filocchi di perdita di dati AI Zero-Click scoperto nel copilota Microsoft 365**  
+  Fonte: BleepingComputer, 11 Jun 2025, 17:48:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zero-click-ai-data-leak-flaw-uncovered-in-microsoft-365-copilot/>)
+
+- **Gli ex membri di Black Basta usano Microsoft Teams e Python Scripts negli attacchi del 2025**  
+  Fonte: The Hacker News, 11 Jun 2025, 17:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/former-black-basta-members-use.html>)
+
+- **Gli hacker hanno sfruttato Windows WebDav Zero-Day per far cadere malware**  
+  Fonte: BleepingComputer, 11 Jun 2025, 15:47:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/stealth-falcon-hackers-exploited-windows-webdav-zero-day-to-drop-malware/>)
+
+- **Microsoft crea un aggiornamento separato di Windows 11 24H2 per PC incompatibili**  
+  Fonte: BleepingComputer, 11 Jun 2025, 15:35:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-creates-separate-windows-11-24h2-update-for-incompatible-pcs/>)
+
+- **Attacchi a forza bruta bersaglio Pannelli di gestione Apache Tomcat**  
+  Fonte: BleepingComputer, 11 Jun 2025, 14:27:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/brute-force-attacks-target-apache-tomcat-management-panels/>)
+
+- **Operazioni di operazione Secure interrompe le operazioni di malware Infostealer globali**  
+  Fonte: BleepingComputer, 11 Jun 2025, 13:51:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/operation-secure-disrupts-global-infostealer-malware-operations/>)
+
+- **295 Attacchi coordinati per la forza bruta del lancio di 295 IPS su Apache Tomcat Manager**  
+  Fonte: The Hacker News, 11 Jun 2025, 13:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html>)
+
+- **Microsoft fissa i controller di dominio di Windows Server irraggiungibili**  
+  Fonte: BleepingComputer, 11 Jun 2025, 13:21:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-unreachable-windows-server-domain-controllers/>)
+
+- **Microsoft risolve i problemi di autenticazione di Windows Server causati dagli aggiornamenti di aprile**  
+  Fonte: BleepingComputer, 11 Jun 2025, 12:34:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-auth-issues-caused-by-april-updates/>)
+
+- **Interpol smantella 20.000+ IP dannosi collegati a 69 varianti di malware in operazione sicura**  
+  Fonte: The Hacker News, 11 Jun 2025, 11:32:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html>)
+
+- **Perché la sicurezza DNS è la tua prima difesa contro gli attacchi informatici?**  
+  Fonte: The Hacker News, 11 Jun 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/why-dns-security-is-your-first-defense.html>)
+
+- **Dispositivi GPS Sinotrack vulnerabili al controllo remoto del veicolo tramite password predefinite**  
+  Fonte: The Hacker News, 11 Jun 2025, 10:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/sinotrack-gps-devices-vulnerable-to.html>)
+
+- **Come costruire un modello di sicurezza snella: 5 lezioni da River Island**  
+  Fonte: The Hacker News, 11 Jun 2025, 10:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/how-to-build-lean-security-model-5.html>)
+
+- **Patch Microsoft 67 Vulnerabilità tra cui WebDav Zero-Day sfruttato in natura**  
+  Fonte: The Hacker News, 11 Jun 2025, 07:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/microsoft-patches-67-vulnerabilities.html>)
+
 - **Patch martedì, edizione giugno 2025**  
   Fonte: Krebs on Security, 11 Jun 2025, 00:10:53 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/>)
@@ -26,41 +102,9 @@
   Fonte: The Hacker News, 10 Jun 2025, 18:04:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html>)
 
-- **Windows 10 KB5060533 Aggiornamento cumulativo rilasciato con 7 modifiche, correzioni**  
-  Fonte: BleepingComputer, 10 Jun 2025, 18:03:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5060533-cumulative-update-released-with-7-changes-fixes/>)
-
-- **Microsoft giugno 2025 patch martedì correzioni sfruttate zero-day, 66 difetti**  
-  Fonte: BleepingComputer, 10 Jun 2025, 17:37:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/>)
-
-- **Windows 11 KB5060842 e KB5060999 Aggiornamenti cumulativi rilasciati**  
-  Fonte: BleepingComputer, 10 Jun 2025, 17:32:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060842-and-kb5060999-cumulative-updates-released/>)
-
 - **FIN6 utilizza i curriculum falsi ospitati da AWS su LinkedIn per consegnare More_Eggs malware**  
   Fonte: The Hacker News, 10 Jun 2025, 16:46:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html>)
-
-- **Microsoft Outlook per bloccare gli allegati più rischiosi utilizzati negli attacchi**  
-  Fonte: BleepingComputer, 10 Jun 2025, 16:36:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-outlook-to-block-more-risky-attachments-used-in-attacks/>)
-
-- **Dept. del Texas of Transportation Breached, 300k Crash Records rubato**  
-  Fonte: BleepingComputer, 10 Jun 2025, 16:25:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/texas-dept-of-transportation-breached-300k-crash-records-stolen/>)
-
-- **Gli hacker Fin6 si pongono come persone in cerca di lavoro per i dispositivi dei reclutatori backdoor**  
-  Fonte: BleepingComputer, 10 Jun 2025, 15:57:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fin6-hackers-pose-as-job-seekers-to-backdoor-recruiters-devices/>)
-
-- **I difetti della chiave di controllo dell'area di lavoro ivanti espongono le credenziali SQL**  
-  Fonte: BleepingComputer, 10 Jun 2025, 15:22:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ivanti-workspace-control-hardcoded-key-flaws-expose-sql-credentials/>)
-
-- **Massiccia l'interruzione di Heroku influisce su piattaforme web in tutto il mondo**  
-  Fonte: BleepingComputer, 10 Jun 2025, 14:51:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/>)
 
 - **L'IA Fix #54: Will AI crolla sotto la sua immondizia e la beneficenza AI "Hunger Games"**  
   Fonte: Graham Cluley, 10 Jun 2025, 14:22:18 UTC  
@@ -69,18 +113,6 @@
 - **Il malware del mito a base di ruggine è diffuso tramite siti di gioco falsi bersagli Chrome, utenti Firefox**  
   Fonte: The Hacker News, 10 Jun 2025, 14:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html>)
-
-- **L'intelligenza artificiale è una bomba a orologio di urbanità dati, rivela un nuovo rapporto**  
-  Fonte: BleepingComputer, 10 Jun 2025, 14:02:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-is-a-data-breach-time-bomb-reveals-new-report/>)
-
-- **Openai lavora per correggere l'interruzione di chatgpt che colpisce gli utenti in tutto il mondo**  
-  Fonte: BleepingComputer, 10 Jun 2025, 13:22:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/openai-working-to-fix-chatgpt-outage-affecting-users-worldwide/>)
-
-- **Cinque si dichiarano colpevoli di riciclare $ 36 milioni rubati in truffe di investimento**  
-  Fonte: BleepingComputer, 10 Jun 2025, 11:59:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-laundering-36-million-stolen-in-investment-scams/>)
 
 - **La minaccia nascosta nel tuo stack: perché la gestione dell'identità non umana è la prossima frontiera della sicurezza informatica**  
   Fonte: The Hacker News, 10 Jun 2025, 11:00:00 UTC  
@@ -158,7 +190,7 @@
   Fonte: The Hacker News, 06 Jun 2025, 13:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html>)
 
-- **Microsoft aiuta CBI a smantellare i call center indiani dietro la truffa di supporto tecnico giapponese**  
+- **Microsoft aiuta la CBI a smantellare i call center indiani dietro la truffa di supporto tecnico giapponese**  
   Fonte: The Hacker News, 06 Jun 2025, 13:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html>)
 
@@ -182,7 +214,7 @@
   Fonte: The Hacker News, 05 Jun 2025, 15:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html>)
 
-- **I ricercatori descrivono in dettaglio le tattiche in evoluzione di APT APT man mano che la sua portata geografica si espande**  
+- **I ricercatori dettagliano le tattiche in evoluzione di APT APT man mano che la sua portata geografica si espande**  
   Fonte: The Hacker News, 05 Jun 2025, 13:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html>)
 
@@ -202,29 +234,5 @@
   Fonte: Graham Cluley, 05 Jun 2025, 09:31:30 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-420/>)
 
-- **Il bypass critico di cisco ise autentica influisce sulle distribuzioni di cloud su AWS, Azure e OCI**  
-  Fonte: The Hacker News, 05 Jun 2025, 05:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html>)
 
-- **Google espone Group Vishing UNC6040 Target Salesforce con APP FACE Data Loader**  
-  Fonte: The Hacker News, 04 Jun 2025, 15:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/google-exposes-vishing-group-unc6040.html>)
-
-- **Chaos Rat Malware prende di mira Windows e Linux tramite download di strumenti di rete falsi**  
-  Fonte: The Hacker News, 04 Jun 2025, 12:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html>)
-
-- **I tuoi dati SAAS non sono sicuri: perché le soluzioni DLP tradizionali falliscono nell'era del browser**  
-  Fonte: The Hacker News, 04 Jun 2025, 12:13:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html>)
-
-- **Le ramificazioni dell'attacco di droni dell'Ucraina**  
-  Fonte: Schneier on Security, 04 Jun 2025, 11:00:52 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/the-ramifications-of-ukraines-drone-attack.html>)
-
-- **Pacchetti maliziosi PyPI, NPM e Ruby esposti in attacchi in corso della catena di approvvigionamento open source**  
-  Fonte: The Hacker News, 04 Jun 2025, 10:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-11 06:54:22 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-12 06:54:30 UTC -->
