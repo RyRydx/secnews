@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **All'interno di un scuro impero adtech alimentato da falsi captchas**  
+  Fonte: Krebs on Security, 12 Jun 2025, 22:14:00 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/>)
+
+- **Trend Micro corregge le vulnerabilità critiche in più prodotti**  
+  Fonte: BleepingComputer, 12 Jun 2025, 19:31:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trend-micro-fixes-six-critical-flaws-on-apex-central-endpoint-encryption-policyserver/>)
+
+- **Google Cloud e CloudFlare colpiti da interruzioni del servizio diffuse**  
+  Fonte: BleepingComputer, 12 Jun 2025, 19:04:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/>)
+
+- **Siti WordPress Turned Weapon: How Vextrio e Affiliates gestiscono una rete di truffa globale**  
+  Fonte: The Hacker News, 12 Jun 2025, 17:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html>)
+
+- **Spyware di grafite utilizzato in Apple iOS Zero-Click Attacchi ai giornalisti**  
+  Fonte: BleepingComputer, 12 Jun 2025, 17:42:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/>)
+
+- **Le compagnie aeree vendono segretamente i dati passeggeri al governo**  
+  Fonte: Schneier on Security, 12 Jun 2025, 15:44:47 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/airlines-secretly-selling-passenger-data-to-the-government.html>)
+
+- **Attacchi di spray password target 80.000 account ID Microsoft ENTRA**  
+  Fonte: BleepingComputer, 12 Jun 2025, 14:40:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/password-spraying-attacks-target-80-000-microsoft-entra-id-accounts/>)
+
+- **Nuovo attacco di Tokenbreak bypassa la moderazione dell'intelligenza artificiale con modifiche al testo a caratteri singoli**  
+  Fonte: The Hacker News, 12 Jun 2025, 13:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html>)
+
+- **Microsoft Edge ora offre una distribuzione di password sicura per le aziende**  
+  Fonte: BleepingComputer, 12 Jun 2025, 13:20:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/>)
+
+- **Gli agenti di intelligenza artificiale vengono eseguiti su account segreti: impara a garantirli in questo webinar**  
+  Fonte: The Hacker News, 12 Jun 2025, 13:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html>)
+
+- **Gitlab patch ad alta gravità dell'acquisizione, problemi di autenticazione mancanti**  
+  Fonte: BleepingComputer, 12 Jun 2025, 12:26:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/>)
+
+- **La vulnerabilità AI a zero-clic espone Microsoft 365 Copilot It senza interazione dell'utente**  
+  Fonte: The Hacker News, 12 Jun 2025, 11:11:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html>)
+
+- **Identità non umane: come affrontare il rischio di sicurezza in espansione**  
+  Fonte: The Hacker News, 12 Jun 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/non-human-identities-how-to-address.html>)
+
+- **Windows 11 24h2 Aggiornamento di emergenza Correggi un semplice problema BSOD anti-cheat**  
+  Fonte: BleepingComputer, 12 Jun 2025, 10:43:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-emergency-update-fixes-easy-anti-cheat-bsod-issue/>)
+
+- **Celebrando 11 anni dell'impatto globale di Project Galileo**  
+  Fonte: Cloudflare Blog - Security, 12 Jun 2025, 10:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/celebrating-11-years-of-project-galileo-global-impact/>)
+
+- **Aggiornamento settimanale 456**  
+  Fonte: Troy Hunt, 12 Jun 2025, 09:51:21 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-456/>)
+
+- **L'attacco di ransomware nebbia utilizza un insolito mix di strumenti legittimi e open source**  
+  Fonte: BleepingComputer, 12 Jun 2025, 09:45:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fog-ransomware-attack-uses-unusual-mix-of-legitimate-and-open-source-tools/>)
+
+- **Scaffali vuoti dopo il più grande distributore di alimenti naturali e biologici degli Stati Uniti soffre di attacco informatico**  
+  Fonte: Graham Cluley, 12 Jun 2025, 09:09:29 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/empty-shelves-distributor-cyber-attack>)
+
+- **ConnectWise per ruotare i certificati di firma del codice screenConnect a causa dei rischi di sicurezza**  
+  Fonte: The Hacker News, 12 Jun 2025, 07:42:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html>)
+
 - **Oltre 80.000 account ID Microsoft ENTRA mirati utilizzando lo strumento Teamfiltration Open-Source**  
   Fonte: The Hacker News, 12 Jun 2025, 05:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/over-80000-microsoft-entra-id-accounts.html>)
@@ -30,33 +106,9 @@
   Fonte: The Hacker News, 11 Jun 2025, 17:44:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/former-black-basta-members-use.html>)
 
-- **Gli hacker hanno sfruttato Windows WebDav Zero-Day per far cadere malware**  
-  Fonte: BleepingComputer, 11 Jun 2025, 15:47:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/stealth-falcon-hackers-exploited-windows-webdav-zero-day-to-drop-malware/>)
-
-- **Microsoft crea un aggiornamento separato di Windows 11 24H2 per PC incompatibili**  
-  Fonte: BleepingComputer, 11 Jun 2025, 15:35:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-creates-separate-windows-11-24h2-update-for-incompatible-pcs/>)
-
-- **Attacchi a forza bruta bersaglio Pannelli di gestione Apache Tomcat**  
-  Fonte: BleepingComputer, 11 Jun 2025, 14:27:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/brute-force-attacks-target-apache-tomcat-management-panels/>)
-
-- **Operazioni di operazione Secure interrompe le operazioni di malware Infostealer globali**  
-  Fonte: BleepingComputer, 11 Jun 2025, 13:51:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/operation-secure-disrupts-global-infostealer-malware-operations/>)
-
 - **295 Attacchi coordinati per la forza bruta del lancio di 295 IPS su Apache Tomcat Manager**  
   Fonte: The Hacker News, 11 Jun 2025, 13:49:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html>)
-
-- **Microsoft fissa i controller di dominio di Windows Server irraggiungibili**  
-  Fonte: BleepingComputer, 11 Jun 2025, 13:21:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-unreachable-windows-server-domain-controllers/>)
-
-- **Microsoft risolve i problemi di autenticazione di Windows Server causati dagli aggiornamenti di aprile**  
-  Fonte: BleepingComputer, 11 Jun 2025, 12:34:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-auth-issues-caused-by-april-updates/>)
 
 - **Interpol smantella 20.000+ IP dannosi collegati a 69 varianti di malware in operazione sicura**  
   Fonte: The Hacker News, 11 Jun 2025, 11:32:00 UTC  
@@ -81,18 +133,6 @@
 - **Patch martedì, edizione giugno 2025**  
   Fonte: Krebs on Security, 11 Jun 2025, 00:10:53 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/>)
-
-- **Operatori di malware Danabot esposti tramite bug C2 aggiunto nel 2022**  
-  Fonte: BleepingComputer, 10 Jun 2025, 21:46:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/danabot-malware-operators-exposed-via-c2-bug-added-in-2022/>)
-
-- **Certificati di firma del codice a rotazione ConnectWise su problemi di sicurezza**  
-  Fonte: BleepingComputer, 10 Jun 2025, 21:17:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/connectwise-rotating-code-signing-certificates-over-security-concerns/>)
-
-- **Nuovo difetto di boot sicuro consente agli aggressori di installare malware bootkit, patch ora**  
-  Fonte: BleepingComputer, 10 Jun 2025, 20:02:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/>)
 
 - **Adobe rilascia una patch fissaggio di 254 vulnerabilità, chiusura di lacune di sicurezza ad alta seguinza**  
   Fonte: The Hacker News, 10 Jun 2025, 18:29:00 UTC  
@@ -206,33 +246,5 @@
   Fonte: The Hacker News, 06 Jun 2025, 08:35:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html>)
 
-- **Festa dei servizi per proxy sull'esodo dell'indirizzo IP dell'Ucraina**  
-  Fonte: Krebs on Security, 05 Jun 2025, 22:44:33 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/>)
 
-- **Estensioni cromate popolari chiavi API di perdita, dati utente tramite HTTP e credenziali codificate**  
-  Fonte: The Hacker News, 05 Jun 2025, 15:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html>)
-
-- **I ricercatori dettagliano le tattiche in evoluzione di APT APT man mano che la sua portata geografica si espande**  
-  Fonte: The Hacker News, 05 Jun 2025, 13:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/bitter-hacker-group-expands-cyber.html>)
-
-- **Ridefinire il valore informatico: perché l'impatto aziendale dovrebbe guidare la conversazione di sicurezza**  
-  Fonte: The Hacker News, 05 Jun 2025, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html>)
-
-- **Bladedfeline legato all'Iran colpisce gli obiettivi iracheni e curdi con whisper e malware spaal**  
-  Fonte: The Hacker News, 05 Jun 2025, 10:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/iran-linked-bladedfeline-hits-iraqi-and.html>)
-
-- **DOJ sequestra 145 domini legati al marketplace carding bidencash a globale**  
-  Fonte: The Hacker News, 05 Jun 2025, 10:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html>)
-
-- **Smashing Security Podcast #420: Susies falsi, sistemi imperfetti e correzioni fruttate per l'ansia**  
-  Fonte: Graham Cluley, 05 Jun 2025, 09:31:30 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-420/>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-12 06:54:30 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-13 06:55:02 UTC -->
