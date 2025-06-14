@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Discord Invite Link Hijacking offre asyncrat e Skuld Stealer bersaglio di portafogli cripto**  
+  Fonte: The Hacker News, 14 Jun 2025, 02:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html>)
+
+- **Blogging di calamari del venerdì: Stubby Squid**  
+  Fonte: Schneier on Security, 13 Jun 2025, 21:02:40 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-stubby-squid.html>)
+
+- **Google collega un'enorme interruzione del cloud al numero di gestione delle API**  
+  Fonte: BleepingComputer, 13 Jun 2025, 17:39:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-links-massive-cloud-outage-to-api-management-issue/>)
+
+- **La polizia olandese identifica gli utenti di un 11enne su Cracked.io Hacking Forum**  
+  Fonte: Graham Cluley, 13 Jun 2025, 16:24:04 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/dutch-police-cracked-io-hacking-forum>)
+
+- **Discord Flaw consente agli hacker di riutilizzare gli inviti scaduti nella campagna di malware**  
+  Fonte: BleepingComputer, 13 Jun 2025, 16:10:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/discord-flaw-lets-hackers-reuse-expired-invites-in-malware-campaign/>)
+
+- **Oltre 269.000 siti Web infettati da malware jsfiretruck javascript in un mese**  
+  Fonte: The Hacker News, 13 Jun 2025, 14:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/over-269000-websites-infected-with.html>)
+
+- **Microsoft: KB5060533 AGGIORNAMENTO TRIGGERS ERRORS SU SUPERFIC HUB V1**  
+  Fonte: BleepingComputer, 13 Jun 2025, 13:17:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5060533-update-triggers-boot-errors-on-surface-hub-v1-devices/>)
+
+- **Microsoft conferma i problemi di autenticazione che colpiscono gli utenti Microsoft 365**  
+  Fonte: BleepingComputer, 13 Jun 2025, 12:37:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-auth-issues-affecting-microsoft-365-users/>)
+
+- **Bert Ransomware: quello che devi sapere**  
+  Fonte: Graham Cluley, 13 Jun 2025, 12:36:06 UTC  
+  [Leggi](<https://www.fortra.com/blog/bert-ransomware-what-you-need-know>)
+
+- **Victoria's Secret ripristina i sistemi critici dopo il cerotto**  
+  Fonte: BleepingComputer, 13 Jun 2025, 11:56:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/victorias-secret-restores-critical-systems-after-cyberattack/>)
+
+- **Perché la Danimarca si sta rompendo con Microsoft**  
+  Fonte: Graham Cluley, 13 Jun 2025, 11:49:25 UTC  
+  [Leggi](<https://grahamcluley.com/why-denmark-is-breaking-up-with-microsoft/>)
+
+- **Bande ransomware sfruttano i difetti di simplehelp non impacciati per colpire le vittime con doppia estorsione**  
+  Fonte: The Hacker News, 13 Jun 2025, 11:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html>)
+
+- **CTEM è il nuovo SOC: spostamento dal monitoraggio degli avvisi per misurare il rischio**  
+  Fonte: The Hacker News, 13 Jun 2025, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/ctem-is-new-soc-shifting-from.html>)
+
+- **Paragon Spyware usato per spiare i giornalisti europei**  
+  Fonte: Schneier on Security, 13 Jun 2025, 10:17:42 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/paragon-spyware-used-to-spy-on-european-journalists.html>)
+
+- **CloudFlare: interruzione non causata da incidenti di sicurezza, i dati sono sicuri**  
+  Fonte: BleepingComputer, 13 Jun 2025, 10:09:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-outage-not-caused-by-security-incident-data-is-safe/>)
+
+- **L'uomo sudafricano è stato imprigionato dopo la richiesta di riscatto contro il suo ex datore di lavoro**  
+  Fonte: Graham Cluley, 13 Jun 2025, 07:24:01 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/south-african-man-imprisoned-after-ransom-demand-against-his-former-employer>)
+
+- **Apple Zero-Click Flaw nei messaggi sfruttati per spiare i giornalisti usando Paragon Spyware**  
+  Fonte: The Hacker News, 13 Jun 2025, 07:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html>)
+
 - **All'interno di un scuro impero adtech alimentato da falsi captchas**  
   Fonte: Krebs on Security, 12 Jun 2025, 22:14:00 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/>)
@@ -25,6 +93,10 @@
 - **Le compagnie aeree vendono segretamente i dati passeggeri al governo**  
   Fonte: Schneier on Security, 12 Jun 2025, 15:44:47 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/airlines-secretly-selling-passenger-data-to-the-government.html>)
+
+- **La Svezia dice che è sotto l'attacco informatico**  
+  Fonte: Graham Cluley, 12 Jun 2025, 15:40:04 UTC  
+  [Leggi](<https://grahamcluley.com/sweden-says-it-is-under-cyber-attack/>)
 
 - **Attacchi di spray password target 80.000 account ID Microsoft ENTRA**  
   Fonte: BleepingComputer, 12 Jun 2025, 14:40:25 UTC  
@@ -54,10 +126,6 @@
   Fonte: The Hacker News, 12 Jun 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/non-human-identities-how-to-address.html>)
 
-- **Windows 11 24h2 Aggiornamento di emergenza Correggi un semplice problema BSOD anti-cheat**  
-  Fonte: BleepingComputer, 12 Jun 2025, 10:43:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-emergency-update-fixes-easy-anti-cheat-bsod-issue/>)
-
 - **Celebrando 11 anni dell'impatto globale di Project Galileo**  
   Fonte: Cloudflare Blog - Security, 12 Jun 2025, 10:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/celebrating-11-years-of-project-galileo-global-impact/>)
@@ -66,9 +134,9 @@
   Fonte: Troy Hunt, 12 Jun 2025, 09:51:21 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-456/>)
 
-- **L'attacco di ransomware nebbia utilizza un insolito mix di strumenti legittimi e open source**  
-  Fonte: BleepingComputer, 12 Jun 2025, 09:45:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fog-ransomware-attack-uses-unusual-mix-of-legitimate-and-open-source-tools/>)
+- **L'attacco di malware si maschera come DeepSeek Installer**  
+  Fonte: Graham Cluley, 12 Jun 2025, 09:47:43 UTC  
+  [Leggi](<https://grahamcluley.com/malware-attack-disguises-itself-as-deepseek-installer/>)
 
 - **Scaffali vuoti dopo il più grande distributore di alimenti naturali e biologici degli Stati Uniti soffre di attacco informatico**  
   Fonte: Graham Cluley, 12 Jun 2025, 09:09:29 UTC  
@@ -82,25 +150,9 @@
   Fonte: The Hacker News, 12 Jun 2025, 05:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/over-80000-microsoft-entra-id-accounts.html>)
 
-- **CHATGPT O3 API 80% Calco del prezzo non ha alcun impatto sulle prestazioni**  
-  Fonte: BleepingComputer, 12 Jun 2025, 00:06:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-o3-api-80-percent-price-drop-has-no-impact-on-performance/>)
-
 - **Smashing Security Podcast #421: flirt di stuzzicadenti, perdite di Google e truffatori di ghiaccio di ghiaccio**  
   Fonte: Graham Cluley, 11 Jun 2025, 23:00:31 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-421/>)
-
-- **SmartAttack utilizza smartwatch per rubare i dati dai sistemi a battitura d'aria**  
-  Fonte: BleepingComputer, 11 Jun 2025, 22:08:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/smartattack-uses-smartwatches-to-steal-data-from-air-gapped-systems/>)
-
-- **Erie Insurance conferma un attacco informatico dietro le interruzioni delle attività**  
-  Fonte: BleepingComputer, 11 Jun 2025, 21:44:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/erie-insurance-confirms-cyberattack-behind-business-disruptions/>)
-
-- **Filocchi di perdita di dati AI Zero-Click scoperto nel copilota Microsoft 365**  
-  Fonte: BleepingComputer, 11 Jun 2025, 17:48:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zero-click-ai-data-leak-flaw-uncovered-in-microsoft-365-copilot/>)
 
 - **Gli ex membri di Black Basta usano Microsoft Teams e Python Scripts negli attacchi del 2025**  
   Fonte: The Hacker News, 11 Jun 2025, 17:44:00 UTC  
@@ -154,6 +206,10 @@
   Fonte: The Hacker News, 10 Jun 2025, 14:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html>)
 
+- **Ofcom indaga su 4chan per non proteggere gli utenti dai contenuti illegali**  
+  Fonte: Graham Cluley, 10 Jun 2025, 11:25:25 UTC  
+  [Leggi](<https://grahamcluley.com/ofcom-investigates-4chan-for-not-protecting-users-from-illegal-content/>)
+
 - **La minaccia nascosta nel tuo stack: perché la gestione dell'identità non umana è la prossima frontiera della sicurezza informatica**  
   Fonte: The Hacker News, 10 Jun 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/the-hidden-threat-in-your-stack-why-non.html>)
@@ -206,45 +262,5 @@
   Fonte: The Hacker News, 08 Jun 2025, 08:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html>)
 
-- **Blogging di calamari del venerdì: Squid Run nel sud del New England**  
-  Fonte: Schneier on Security, 06 Jun 2025, 21:00:56 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-squid-run-in-southern-new-england.html>)
 
-- **Ascoltare il governo federale e l'IA**  
-  Fonte: Schneier on Security, 06 Jun 2025, 17:43:00 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/hearing-on-the-federal-government-and-ai.html>)
-
-- **Nuova campagna Atomic MacOS Stealer Exploits ClickFix per indirizzare gli utenti Apple**  
-  Fonte: The Hacker News, 06 Jun 2025, 16:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html>)
-
-- **Rapporto sugli usi dannosi dell'IA**  
-  Fonte: Schneier on Security, 06 Jun 2025, 14:41:13 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/report-on-the-malicious-uses-of-ai.html>)
-
-- **Ransomware Nightmare di Marks & Spencer - Maggiori dettagli emergono**  
-  Fonte: Graham Cluley, 06 Jun 2025, 13:42:21 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/marks-spencers-ransomware-nightmare-more-details-emerge>)
-
-- **Responsabilizzare gli utenti e proteggere dalla perdita di dati di Genai**  
-  Fonte: The Hacker News, 06 Jun 2025, 13:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/empower-users-and-protect-against-genai.html>)
-
-- **Microsoft aiuta la CBI a smantellare i call center indiani dietro la truffa di supporto tecnico giapponese**  
-  Fonte: The Hacker News, 06 Jun 2025, 13:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html>)
-
-- **Gli Stati Uniti offre una ricompensa da $ 10 milioni per suggerimenti sugli hacker Redline collegati allo stato**  
-  Fonte: Graham Cluley, 06 Jun 2025, 10:56:17 UTC  
-  [Leggi](<https://www.tripwire.com/state-of-security/us-offers-10-million-reward-tips-about-state-linked-redline-cybercriminals>)
-
-- **All'interno della mente dell'avversario: perché più leader di sicurezza stanno selezionando AEV**  
-  Fonte: The Hacker News, 06 Jun 2025, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/inside-mind-of-adversary-why-more.html>)
-
-- **Nuovo PathWiper Data Wiper Malware interrompe l'infrastruttura critica ucraina nell'attacco del 2025**  
-  Fonte: The Hacker News, 06 Jun 2025, 08:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-13 06:55:02 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-14 06:16:05 UTC -->
