@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Imminenti impegni di lingua**  
+  Fonte: Schneier on Security, 15 Jun 2025, 01:07:56 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/upcoming-speaking-engagements-47.html>)
+
+- **Westjet indaga sugli attacchi informatici che interrompe i sistemi interni**  
+  Fonte: BleepingComputer, 14 Jun 2025, 17:34:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/>)
+
+- **Anubis Ransomware aggiunge Wiper per distruggere i file oltre il recupero**  
+  Fonte: BleepingComputer, 14 Jun 2025, 14:29:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/>)
+
+- **Gli utenti di Windows 11 vogliono indietro queste cinque funzionalità**  
+  Fonte: BleepingComputer, 14 Jun 2025, 14:12:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/>)
+
 - **Discord Invite Link Hijacking offre asyncrat e Skuld Stealer bersaglio di portafogli cripto**  
   Fonte: The Hacker News, 14 Jun 2025, 02:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html>)
@@ -98,25 +114,13 @@
   Fonte: Graham Cluley, 12 Jun 2025, 15:40:04 UTC  
   [Leggi](<https://grahamcluley.com/sweden-says-it-is-under-cyber-attack/>)
 
-- **Attacchi di spray password target 80.000 account ID Microsoft ENTRA**  
-  Fonte: BleepingComputer, 12 Jun 2025, 14:40:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/password-spraying-attacks-target-80-000-microsoft-entra-id-accounts/>)
-
 - **Nuovo attacco di Tokenbreak bypassa la moderazione dell'intelligenza artificiale con modifiche al testo a caratteri singoli**  
   Fonte: The Hacker News, 12 Jun 2025, 13:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html>)
 
-- **Microsoft Edge ora offre una distribuzione di password sicura per le aziende**  
-  Fonte: BleepingComputer, 12 Jun 2025, 13:20:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/>)
-
 - **Gli agenti di intelligenza artificiale vengono eseguiti su account segreti: impara a garantirli in questo webinar**  
   Fonte: The Hacker News, 12 Jun 2025, 13:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html>)
-
-- **Gitlab patch ad alta gravità dell'acquisizione, problemi di autenticazione mancanti**  
-  Fonte: BleepingComputer, 12 Jun 2025, 12:26:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/>)
 
 - **La vulnerabilità AI a zero-clic espone Microsoft 365 Copilot It senza interazione dell'utente**  
   Fonte: The Hacker News, 12 Jun 2025, 11:11:00 UTC  
@@ -242,7 +246,7 @@
   Fonte: The Hacker News, 09 Jun 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html>)
 
-- **Nuovo modo per tracciare gli utenti di Android segretamente**  
+- **Nuovo modo per tracciare segretamente gli utenti Android**  
   Fonte: Schneier on Security, 09 Jun 2025, 10:54:19 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/new-way-to-track-covertly-android-users.html>)
 
@@ -263,4 +267,4 @@
   [Leggi](<https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html>)
 
 
-<!-- Ultimo aggiornamento: 2025-06-14 06:16:05 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-15 06:15:29 UTC -->
