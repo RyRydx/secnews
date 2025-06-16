@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Il codice del codice AI di Chatgpt ora ti consente di scegliere la soluzione migliore**  
+  Fonte: BleepingComputer, 15 Jun 2025, 19:59:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/>)
+
+- **La ricerca di chatgpt ottiene un aggiornamento poiché Openi prende a mira Google**  
+  Fonte: BleepingComputer, 15 Jun 2025, 15:53:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/>)
+
+- **Oltre 46.000 istanze di Grafana esposte al bug di acquisizione dell'account**  
+  Fonte: BleepingComputer, 15 Jun 2025, 14:07:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/>)
+
 - **Imminenti impegni di lingua**  
   Fonte: Schneier on Security, 15 Jun 2025, 01:07:56 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/upcoming-speaking-engagements-47.html>)
@@ -42,7 +54,7 @@
   Fonte: The Hacker News, 13 Jun 2025, 14:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/over-269000-websites-infected-with.html>)
 
-- **Microsoft: KB5060533 AGGIORNAMENTO TRIGGERS ERRORS SU SUPERFIC HUB V1**  
+- **Microsoft: KB5060533 AGGIORNAMENTO TRIGGERS ERRORI DI ATTENZIONE SUPERFICH HUB V1**  
   Fonte: BleepingComputer, 13 Jun 2025, 13:17:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5060533-update-triggers-boot-errors-on-surface-hub-v1-devices/>)
 
@@ -90,21 +102,9 @@
   Fonte: Krebs on Security, 12 Jun 2025, 22:14:00 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/>)
 
-- **Trend Micro corregge le vulnerabilità critiche in più prodotti**  
-  Fonte: BleepingComputer, 12 Jun 2025, 19:31:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trend-micro-fixes-six-critical-flaws-on-apex-central-endpoint-encryption-policyserver/>)
-
-- **Google Cloud e CloudFlare colpiti da interruzioni del servizio diffuse**  
-  Fonte: BleepingComputer, 12 Jun 2025, 19:04:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/>)
-
 - **Siti WordPress Turned Weapon: How Vextrio e Affiliates gestiscono una rete di truffa globale**  
   Fonte: The Hacker News, 12 Jun 2025, 17:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html>)
-
-- **Spyware di grafite utilizzato in Apple iOS Zero-Click Attacchi ai giornalisti**  
-  Fonte: BleepingComputer, 12 Jun 2025, 17:42:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/>)
 
 - **Le compagnie aeree vendono segretamente i dati passeggeri al governo**  
   Fonte: Schneier on Security, 12 Jun 2025, 15:44:47 UTC  
@@ -114,7 +114,7 @@
   Fonte: Graham Cluley, 12 Jun 2025, 15:40:04 UTC  
   [Leggi](<https://grahamcluley.com/sweden-says-it-is-under-cyber-attack/>)
 
-- **Nuovo attacco di Tokenbreak bypassa la moderazione dell'intelligenza artificiale con modifiche al testo a caratteri singoli**  
+- **Nuovo attacco di tokenbreak bypassing della moderazione dell'intelligenza artificiale con modifiche al testo a caratteri singoli**  
   Fonte: The Hacker News, 12 Jun 2025, 13:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html>)
 
@@ -258,13 +258,5 @@
   Fonte: The Hacker News, 09 Jun 2025, 06:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html>)
 
-- **Nuovo funzionamento del malware della catena di approvvigionamento colpisce gli ecosistemi NPM e PYPI, prendendo di mira milioni a livello globale**  
-  Fonte: The Hacker News, 08 Jun 2025, 13:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html>)
 
-- **Le estensioni del browser dannose infettano oltre 700 utenti in tutta l'America Latina dall'inizio del 2025**  
-  Fonte: The Hacker News, 08 Jun 2025, 08:01:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-15 06:15:29 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-16 06:19:35 UTC -->
