@@ -2,6 +2,62 @@
 
 ## Ultimi 7 giorni
 
+- **Meta inizia a mostrare annunci su WhatsApp dopo un ritardo di 6 anni dall'annuncio del 2018**  
+  Fonte: The Hacker News, 17 Jun 2025, 04:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html>)
+
+- **Gli hacker passano al targeting delle compagnie assicurative statunitensi**  
+  Fonte: BleepingComputer, 16 Jun 2025, 20:43:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/>)
+
+- **ASUS ARMARY CRATE BUG consente agli aggressori di ottenere privilegi di amministrazione di Windows**  
+  Fonte: BleepingComputer, 16 Jun 2025, 18:08:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/asus-armoury-crate-bug-lets-attackers-get-windows-admin-privileges/>)
+
+- **Gli Stati Uniti afferrano $ 7,74 milioni in criptovalute legate alla rete globale dei lavoratori IT falsi della Corea del Nord**  
+  Fonte: The Hacker News, 16 Jun 2025, 17:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html>)
+
+- **Sistema e -mail di Washington Post hackerato, account dei giornalisti compromessi**  
+  Fonte: BleepingComputer, 16 Jun 2025, 15:08:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/>)
+
+- **Il ransomware di Anubis crittografa e si asciuga i file, rendendo impossibile il recupero anche dopo il pagamento**  
+  Fonte: The Hacker News, 16 Jun 2025, 14:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html>)
+
+- **Kali Linux 2025.2 Rilasciato con 13 nuovi strumenti, aggiornamenti di hacking per auto**  
+  Fonte: BleepingComputer, 16 Jun 2025, 14:18:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/kali-linux-20252-released-with-13-new-tools-car-hacking-updates/>)
+
+- **Zoomcar rivela la violazione della sicurezza che colpisce 8,4 milioni di utenti**  
+  Fonte: BleepingComputer, 16 Jun 2025, 14:13:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zoomcar-discloses-security-breach-impacting-84-million-users/>)
+
+- **Microsoft condivide la correzione temporanea per gli arresti anomali di Outlook all'apertura delle e -mail**  
+  Fonte: BleepingComputer, 16 Jun 2025, 12:23:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-classic-outlook-crashes/>)
+
+- **⚡ Riepilogo settimanale: spyware per iPhone, Microsoft 0-Day, Tokenbreak Hack, perdite di dati AI e altro ancora**  
+  Fonte: The Hacker News, 16 Jun 2025, 11:29:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html>)
+
+- **Playbook: trasformare la tua pratica di sicurezza informatica in una macchina MRR**  
+  Fonte: The Hacker News, 16 Jun 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/playbook-transforming-your.html>)
+
+- **La polizia coglie il mercato dei farmaci per il mercato degli archetipi, arresta l'amministratore**  
+  Fonte: BleepingComputer, 16 Jun 2025, 11:15:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-seizes-archetyp-market-drug-marketplace-arrests-admin/>)
+
+- **Microsoft: gli aggiornamenti di sicurezza di Windows Server di giugno causano problemi di DHCP**  
+  Fonte: BleepingComputer, 16 Jun 2025, 09:35:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-security-updates-cause-dhcp-issues/>)
+
+- **Strumenti PyPI, NPM e AI sfruttati in Malware Surge Target DevOps e Cloud Environments**  
+  Fonte: The Hacker News, 16 Jun 2025, 06:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html>)
+
 - **Il codice del codice AI di Chatgpt ora ti consente di scegliere la soluzione migliore**  
   Fonte: BleepingComputer, 15 Jun 2025, 19:59:41 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/>)
@@ -26,10 +82,6 @@
   Fonte: BleepingComputer, 14 Jun 2025, 14:29:38 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/>)
 
-- **Gli utenti di Windows 11 vogliono indietro queste cinque funzionalità**  
-  Fonte: BleepingComputer, 14 Jun 2025, 14:12:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/>)
-
 - **Discord Invite Link Hijacking offre asyncrat e Skuld Stealer bersaglio di portafogli cripto**  
   Fonte: The Hacker News, 14 Jun 2025, 02:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html>)
@@ -38,37 +90,17 @@
   Fonte: Schneier on Security, 13 Jun 2025, 21:02:40 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-stubby-squid.html>)
 
-- **Google collega un'enorme interruzione del cloud al numero di gestione delle API**  
-  Fonte: BleepingComputer, 13 Jun 2025, 17:39:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-links-massive-cloud-outage-to-api-management-issue/>)
-
 - **La polizia olandese identifica gli utenti di un 11enne su Cracked.io Hacking Forum**  
   Fonte: Graham Cluley, 13 Jun 2025, 16:24:04 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/dutch-police-cracked-io-hacking-forum>)
-
-- **Discord Flaw consente agli hacker di riutilizzare gli inviti scaduti nella campagna di malware**  
-  Fonte: BleepingComputer, 13 Jun 2025, 16:10:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/discord-flaw-lets-hackers-reuse-expired-invites-in-malware-campaign/>)
 
 - **Oltre 269.000 siti Web infettati da malware jsfiretruck javascript in un mese**  
   Fonte: The Hacker News, 13 Jun 2025, 14:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/over-269000-websites-infected-with.html>)
 
-- **Microsoft: KB5060533 AGGIORNAMENTO TRIGGERS ERRORI DI ATTENZIONE SUPERFICH HUB V1**  
-  Fonte: BleepingComputer, 13 Jun 2025, 13:17:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5060533-update-triggers-boot-errors-on-surface-hub-v1-devices/>)
-
-- **Microsoft conferma i problemi di autenticazione che colpiscono gli utenti Microsoft 365**  
-  Fonte: BleepingComputer, 13 Jun 2025, 12:37:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-auth-issues-affecting-microsoft-365-users/>)
-
 - **Bert Ransomware: quello che devi sapere**  
   Fonte: Graham Cluley, 13 Jun 2025, 12:36:06 UTC  
   [Leggi](<https://www.fortra.com/blog/bert-ransomware-what-you-need-know>)
-
-- **Victoria's Secret ripristina i sistemi critici dopo il cerotto**  
-  Fonte: BleepingComputer, 13 Jun 2025, 11:56:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/victorias-secret-restores-critical-systems-after-cyberattack/>)
 
 - **Perché la Danimarca si sta rompendo con Microsoft**  
   Fonte: Graham Cluley, 13 Jun 2025, 11:49:25 UTC  
@@ -85,10 +117,6 @@
 - **Paragon Spyware usato per spiare i giornalisti europei**  
   Fonte: Schneier on Security, 13 Jun 2025, 10:17:42 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/paragon-spyware-used-to-spy-on-european-journalists.html>)
-
-- **CloudFlare: interruzione non causata da incidenti di sicurezza, i dati sono sicuri**  
-  Fonte: BleepingComputer, 13 Jun 2025, 10:09:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-outage-not-caused-by-security-incident-data-is-safe/>)
 
 - **L'uomo sudafricano è stato imprigionato dopo la richiesta di riscatto contro il suo ex datore di lavoro**  
   Fonte: Graham Cluley, 13 Jun 2025, 07:24:01 UTC  
@@ -226,37 +254,5 @@
   Fonte: The Hacker News, 10 Jun 2025, 07:48:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html>)
 
-- **CISA aggiunge Erlang SSH e Roundcube difetti al noto catalogo di vulnerabilità sfruttate**  
-  Fonte: The Hacker News, 10 Jun 2025, 05:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html>)
 
-- **Oltre 70 organizzazioni in più settori mirati dal gruppo di spionaggio informatico legato alla Cina**  
-  Fonte: The Hacker News, 09 Jun 2025, 15:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html>)
-
-- **Due botnet distinti sfruttano la vulnerabilità del server Wazuh per lanciare attacchi basati su Mirai**  
-  Fonte: The Hacker News, 09 Jun 2025, 14:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html>)
-
-- **⚡ Riepilogo settimanale: Chrome a 0 giorni, tergicristalli di dati, strumenti abusi e attacchi di iPhone a zero clic**  
-  Fonte: The Hacker News, 09 Jun 2025, 11:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html>)
-
-- **Pensi che il tuo IDP o CASB copra l'ombra?Questi 5 rischi dimostrano diversamente**  
-  Fonte: The Hacker News, 09 Jun 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html>)
-
-- **Nuovo modo per tracciare segretamente gli utenti Android**  
-  Fonte: Schneier on Security, 09 Jun 2025, 10:54:19 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/new-way-to-track-covertly-android-users.html>)
-
-- **Aggiornamento settimanale 455**  
-  Fonte: Troy Hunt, 09 Jun 2025, 08:27:23 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-455/>)
-
-- **Openi vieta gli account Chatgpt utilizzati da gruppi di hacker russi, iraniani e cinesi**  
-  Fonte: The Hacker News, 09 Jun 2025, 06:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-16 06:19:35 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-17 06:17:20 UTC -->
