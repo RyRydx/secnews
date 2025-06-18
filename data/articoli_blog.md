@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **Paddle si stabilisce per $ 5 milioni oltre a facilitare le truffe di supporto tecnico**  
+  Fonte: BleepingComputer, 17 Jun 2025, 21:14:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/paddle-settles-for-5-million-over-facilitating-tech-support-scams/>)
+
+- **Google Chrome Zero-Day CVE-2025-2783 Sfruttato da Taxoff per distribuire Trinper Backdoor**  
+  Fonte: The Hacker News, 17 Jun 2025, 19:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html>)
+
+- **Scania conferma la violazione dei dati di reclamo assicurativo nel tentativo di estorsione**  
+  Fonte: BleepingComputer, 17 Jun 2025, 19:04:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/scania-confirms-insurance-claim-data-breach-in-extortion-attempt/>)
+
+- **Il bug Langsmith potrebbe esporre chiavi aperte e dati utente tramite agenti dannosi**  
+  Fonte: The Hacker News, 17 Jun 2025, 17:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html>)
+
+- **Gli annunci di Instagram "BMO" usano AI DeepFakes per truffare i clienti bancari**  
+  Fonte: BleepingComputer, 17 Jun 2025, 16:52:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/>)
+
+- **New Veeam RCE Flaw consente agli utenti di dominio hacker server di backup**  
+  Fonte: BleepingComputer, 17 Jun 2025, 15:42:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-veeam-rce-flaw-lets-domain-users-hack-backup-servers/>)
+
+- **Sitecore CMS Exploit Chain inizia con la password "B" hardcoded**  
+  Fonte: BleepingComputer, 17 Jun 2025, 15:10:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sitecore-cms-exploit-chain-starts-with-hardcoded-b-password/>)
+
+- **L'IA Fix #55: Atari batte il chatgpt a Chess e Apple dice che il "pensiero" è un'illusione**  
+  Fonte: Graham Cluley, 17 Jun 2025, 15:06:59 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-55-atari-beats-chatgpt-at-chess-and-apple-says-ai-thinking-is-an-illusion/>)
+
+- **UK multe 23andme per violazione "profondamente dannosa" Esposizione dei dati genetici**  
+  Fonte: BleepingComputer, 17 Jun 2025, 14:59:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-fines-23andme-for-profoundly-damaging-breach-exposing-genetics-data/>)
+
+- **Microsoft risolve i problemi di avvio dell'hub di superficie con aggiornamento di emergenza**  
+  Fonte: BleepingComputer, 17 Jun 2025, 14:06:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-surface-hub-boot-issues-with-emergency-update/>)
+
+- **Come automatizzarla la gestione dei biglietti con AI e Tines**  
+  Fonte: BleepingComputer, 17 Jun 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-automate-it-ticket-handling-with-ai-and-tines/>)
+
+- **Hacker ruba 1 milione di record utente Cock.li nella violazione dei dati del webmail**  
+  Fonte: BleepingComputer, 17 Jun 2025, 13:50:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-steals-1-million-cockli-user-records-in-webmail-data-breach/>)
+
+- **Silver Fox Apt prende di mira Taiwan con complesso gh0stcringe e holdhands malware di ratto**  
+  Fonte: The Hacker News, 17 Jun 2025, 13:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/silver-fox-apt-targets-taiwan-with.html>)
+
+- **Google avverte di attacchi di ragno sparsi che mirano a team di supporto IT nelle compagnie assicurative statunitensi**  
+  Fonte: The Hacker News, 17 Jun 2025, 12:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html>)
+
+- **I conti del servizio pubblicitario dimenticati ti lasciano a rischio?**  
+  Fonte: The Hacker News, 17 Jun 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html>)
+
+- **Dove l'intelligenza artificiale fornisce valore**  
+  Fonte: Schneier on Security, 17 Jun 2025, 11:08:33 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/where-ai-provides-value.html>)
+
+- **La password 'B' con codifica dura in Sitecore XP sparca il rischio RCE principale nelle distribuzioni aziendali**  
+  Fonte: The Hacker News, 17 Jun 2025, 10:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html>)
+
+- **I backup sono sotto attacco: come proteggere i tuoi backup**  
+  Fonte: The Hacker News, 17 Jun 2025, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/how-to-protect-your-backups-from-ransomware-attacks.html>)
+
+- **Nuovo variante flodrix botnet exploit Langflow AI Server RCE Bug per avviare gli attacchi DDoS**  
+  Fonte: The Hacker News, 17 Jun 2025, 09:32:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html>)
+
+- **TP-Link Router Flaw CVE-2023-33538 sotto exploit attivo, CISA emette un avviso immediato**  
+  Fonte: The Hacker News, 17 Jun 2025, 08:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html>)
+
 - **Meta inizia a mostrare annunci su WhatsApp dopo un ritardo di 6 anni dall'annuncio del 2018**  
   Fonte: The Hacker News, 17 Jun 2025, 04:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html>)
@@ -30,14 +110,6 @@
   Fonte: BleepingComputer, 16 Jun 2025, 14:18:09 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/kali-linux-20252-released-with-13-new-tools-car-hacking-updates/>)
 
-- **Zoomcar rivela la violazione della sicurezza che colpisce 8,4 milioni di utenti**  
-  Fonte: BleepingComputer, 16 Jun 2025, 14:13:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zoomcar-discloses-security-breach-impacting-84-million-users/>)
-
-- **Microsoft condivide la correzione temporanea per gli arresti anomali di Outlook all'apertura delle e -mail**  
-  Fonte: BleepingComputer, 16 Jun 2025, 12:23:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-classic-outlook-crashes/>)
-
 - **⚡ Riepilogo settimanale: spyware per iPhone, Microsoft 0-Day, Tokenbreak Hack, perdite di dati AI e altro ancora**  
   Fonte: The Hacker News, 16 Jun 2025, 11:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html>)
@@ -46,41 +118,13 @@
   Fonte: The Hacker News, 16 Jun 2025, 11:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/playbook-transforming-your.html>)
 
-- **La polizia coglie il mercato dei farmaci per il mercato degli archetipi, arresta l'amministratore**  
-  Fonte: BleepingComputer, 16 Jun 2025, 11:15:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-seizes-archetyp-market-drug-marketplace-arrests-admin/>)
-
-- **Microsoft: gli aggiornamenti di sicurezza di Windows Server di giugno causano problemi di DHCP**  
-  Fonte: BleepingComputer, 16 Jun 2025, 09:35:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-security-updates-cause-dhcp-issues/>)
-
 - **Strumenti PyPI, NPM e AI sfruttati in Malware Surge Target DevOps e Cloud Environments**  
   Fonte: The Hacker News, 16 Jun 2025, 06:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html>)
 
-- **Il codice del codice AI di Chatgpt ora ti consente di scegliere la soluzione migliore**  
-  Fonte: BleepingComputer, 15 Jun 2025, 19:59:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/>)
-
-- **La ricerca di chatgpt ottiene un aggiornamento poiché Openi prende a mira Google**  
-  Fonte: BleepingComputer, 15 Jun 2025, 15:53:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/>)
-
-- **Oltre 46.000 istanze di Grafana esposte al bug di acquisizione dell'account**  
-  Fonte: BleepingComputer, 15 Jun 2025, 14:07:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/>)
-
 - **Imminenti impegni di lingua**  
   Fonte: Schneier on Security, 15 Jun 2025, 01:07:56 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/upcoming-speaking-engagements-47.html>)
-
-- **Westjet indaga sugli attacchi informatici che interrompe i sistemi interni**  
-  Fonte: BleepingComputer, 14 Jun 2025, 17:34:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/>)
-
-- **Anubis Ransomware aggiunge Wiper per distruggere i file oltre il recupero**  
-  Fonte: BleepingComputer, 14 Jun 2025, 14:29:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/>)
 
 - **Discord Invite Link Hijacking offre asyncrat e Skuld Stealer bersaglio di portafogli cripto**  
   Fonte: The Hacker News, 14 Jun 2025, 02:45:00 UTC  
@@ -142,7 +186,7 @@
   Fonte: Graham Cluley, 12 Jun 2025, 15:40:04 UTC  
   [Leggi](<https://grahamcluley.com/sweden-says-it-is-under-cyber-attack/>)
 
-- **Nuovo attacco di tokenbreak bypassing della moderazione dell'intelligenza artificiale con modifiche al testo a caratteri singoli**  
+- **Nuovo attacco di Tokenbreak bypassa la moderazione dell'intelligenza artificiale con modifiche al testo a caratteri singoli**  
   Fonte: The Hacker News, 12 Jun 2025, 13:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html>)
 
@@ -214,45 +258,5 @@
   Fonte: The Hacker News, 11 Jun 2025, 07:46:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/microsoft-patches-67-vulnerabilities.html>)
 
-- **Patch martedì, edizione giugno 2025**  
-  Fonte: Krebs on Security, 11 Jun 2025, 00:10:53 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/>)
 
-- **Adobe rilascia una patch fissaggio di 254 vulnerabilità, chiusura di lacune di sicurezza ad alta seguinza**  
-  Fonte: The Hacker News, 10 Jun 2025, 18:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html>)
-
-- **I ricercatori scoprono oltre 20 rischi di configurazione, inclusi cinque CVE, nel cloud del settore Salesforce**  
-  Fonte: The Hacker News, 10 Jun 2025, 18:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html>)
-
-- **FIN6 utilizza i curriculum falsi ospitati da AWS su LinkedIn per consegnare More_Eggs malware**  
-  Fonte: The Hacker News, 10 Jun 2025, 16:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html>)
-
-- **L'IA Fix #54: Will AI crolla sotto la sua immondizia e la beneficenza AI "Hunger Games"**  
-  Fonte: Graham Cluley, 10 Jun 2025, 14:22:18 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-54/>)
-
-- **Il malware del mito a base di ruggine è diffuso tramite siti di gioco falsi bersagli Chrome, utenti Firefox**  
-  Fonte: The Hacker News, 10 Jun 2025, 14:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html>)
-
-- **Ofcom indaga su 4chan per non proteggere gli utenti dai contenuti illegali**  
-  Fonte: Graham Cluley, 10 Jun 2025, 11:25:25 UTC  
-  [Leggi](<https://grahamcluley.com/ofcom-investigates-4chan-for-not-protecting-users-from-illegal-content/>)
-
-- **La minaccia nascosta nel tuo stack: perché la gestione dell'identità non umana è la prossima frontiera della sicurezza informatica**  
-  Fonte: The Hacker News, 10 Jun 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/the-hidden-threat-in-your-stack-why-non.html>)
-
-- **Il ricercatore ha trovato difetto per scoprire i numeri di telefono collegati a qualsiasi account Google**  
-  Fonte: The Hacker News, 10 Jun 2025, 10:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html>)
-
-- **Rare Werewolf Apt utilizza software legittimo in attacchi a centinaia di imprese russe**  
-  Fonte: The Hacker News, 10 Jun 2025, 07:48:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/rare-werewolf-apt-uses-legitimate.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-17 06:17:20 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-18 06:18:37 UTC -->
