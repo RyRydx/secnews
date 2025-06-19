@@ -2,6 +2,102 @@
 
 ## Ultimi 7 giorni
 
+- **L'esperto di accesso iniziale di Ryuk Ransomware estradato negli Stati Uniti**  
+  Fonte: BleepingComputer, 19 Jun 2025, 06:05:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ryuk-ransomwares-initial-access-expert-extradited-to-the-us/>)
+
+- **I nuovi difetti Linux consentono l'accesso completo alla radice tramite PAM e UDISKS tra le principali distribuzioni**  
+  Fonte: The Hacker News, 19 Jun 2025, 03:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html>)
+
+- **Smashing Security Podcast #422: The Curious Case of the Code Copier**  
+  Fonte: Graham Cluley, 18 Jun 2025, 23:00:46 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-422/>)
+
+- **Gli hacker pro-israeliani hanno colpito lo scambio di Nobitex iraniano, bruciano $ 90 milioni in cripto**  
+  Fonte: BleepingComputer, 18 Jun 2025, 21:56:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pro-israel-hackers-hit-irans-nobitex-exchange-burn-90m-in-crypto/>)
+
+- **Hacker nordcoreani Execs DeepFake in zoom Call per diffondere MAC Malware**  
+  Fonte: BleepingComputer, 18 Jun 2025, 20:37:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/>)
+
+- **Gang di ransomware Bust in Thailand Hotel Raid**  
+  Fonte: Graham Cluley, 18 Jun 2025, 20:36:06 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-gang-busted-in-thailand-hotel-raid>)
+
+- **La nuova campagna di malware utilizza tunnel cloudflare per consegnare i ratti tramite catene di phishing**  
+  Fonte: The Hacker News, 18 Jun 2025, 15:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html>)
+
+- **Microsoft 365 per bloccare l'accesso al file tramite protocolli di autenticazione legacy per impostazione predefinita**  
+  Fonte: BleepingComputer, 18 Jun 2025, 15:14:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-365-to-block-file-access-via-legacy-auth-protocols-by-default/>)
+
+- **"Stargazers" usa le modine Minecraft false per rubare le password del giocatore**  
+  Fonte: BleepingComputer, 18 Jun 2025, 15:09:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/stargazers-use-fake-minecraft-mods-to-steal-player-passwords/>)
+
+- **Scam di Ghostwriting**  
+  Fonte: Schneier on Security, 18 Jun 2025, 14:37:27 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/ghostwriting-scam.html>)
+
+- **1.500+ giocatori di Minecraft infettati da malware Java mascherato da mod di gioco su GitHub**  
+  Fonte: The Hacker News, 18 Jun 2025, 14:18:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html>)
+
+- **ChainLink Phishing: come i domini fidati diventano vettori di minaccia**  
+  Fonte: BleepingComputer, 18 Jun 2025, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chainlink-phishing-how-trusted-domains-become-threat-vectors/>)
+
+- **CISA avverte di aggressori che sfruttano il difetto di Linux con Exploit POC**  
+  Fonte: BleepingComputer, 18 Jun 2025, 13:54:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-attackers-exploiting-linux-flaw-with-poc-exploit/>)
+
+- **La società SaaS sanitaria afferma che la violazione dei dati influisce 5,4 milioni di pazienti**  
+  Fonte: BleepingComputer, 18 Jun 2025, 13:44:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/episource-says-data-breach-impacts-54-million-patients/>)
+
+- **CloudFlare Log Explorer è ora GA, fornendo osservabilità e forense nativi**  
+  Fonte: Cloudflare Blog - Security, 18 Jun 2025, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/logexplorer-ga/>)
+
+- **Fedramp a velocità di avvio: lezioni apprese**  
+  Fonte: The Hacker News, 18 Jun 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html>)
+
+- **Water Curse impiega 76 account GitHub per consegnare la campagna di malware in più stadi**  
+  Fonte: The Hacker News, 18 Jun 2025, 10:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html>)
+
+- **Beyondtrust avverte di pre-outh RCE nel software di supporto remoto**  
+  Fonte: BleepingComputer, 18 Jun 2025, 10:10:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-pre-auth-rce-in-remote-support-software/>)
+
+- **Nuovi Udisks di Linux Flaw consente agli aggressori di ottenere radici su importanti distro Linux**  
+  Fonte: BleepingComputer, 18 Jun 2025, 08:45:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/>)
+
+- **Asana avverte la funzione MCP AI esposta Dati dei clienti ad altre organizzazioni**  
+  Fonte: BleepingComputer, 18 Jun 2025, 07:16:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/asana-warns-mcp-ai-feature-exposed-customer-data-to-other-orgs/>)
+
+- **La CISA avverte di sfruttamento attivo del privilegio del kernel Linux Vulnerabilità**  
+  Fonte: The Hacker News, 18 Jun 2025, 06:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html>)
+
+- **Ex analista della CIA condannato a 37 mesi per perdite di documenti di difesa nazionale top secret**  
+  Fonte: The Hacker News, 18 Jun 2025, 06:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html>)
+
+- **Patch Veeam CVE-2025-23121: Bug RCE critico valutato 9,9 CVS in backup e replica**  
+  Fonte: The Hacker News, 18 Jun 2025, 05:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/veeam-patches-cve-2025-23121-critical.html>)
+
+- **L'Iran rallenta Internet per prevenire attacchi informatici tra il crescente conflitto regionale**  
+  Fonte: The Hacker News, 18 Jun 2025, 05:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html>)
+
 - **Paddle si stabilisce per $ 5 milioni oltre a facilitare le truffe di supporto tecnico**  
   Fonte: BleepingComputer, 17 Jun 2025, 21:14:18 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/paddle-settles-for-5-million-over-facilitating-tech-support-scams/>)
@@ -18,37 +114,9 @@
   Fonte: The Hacker News, 17 Jun 2025, 17:33:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html>)
 
-- **Gli annunci di Instagram "BMO" usano AI DeepFakes per truffare i clienti bancari**  
-  Fonte: BleepingComputer, 17 Jun 2025, 16:52:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/>)
-
-- **New Veeam RCE Flaw consente agli utenti di dominio hacker server di backup**  
-  Fonte: BleepingComputer, 17 Jun 2025, 15:42:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-veeam-rce-flaw-lets-domain-users-hack-backup-servers/>)
-
-- **Sitecore CMS Exploit Chain inizia con la password "B" hardcoded**  
-  Fonte: BleepingComputer, 17 Jun 2025, 15:10:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sitecore-cms-exploit-chain-starts-with-hardcoded-b-password/>)
-
 - **L'IA Fix #55: Atari batte il chatgpt a Chess e Apple dice che il "pensiero" è un'illusione**  
   Fonte: Graham Cluley, 17 Jun 2025, 15:06:59 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-55-atari-beats-chatgpt-at-chess-and-apple-says-ai-thinking-is-an-illusion/>)
-
-- **UK multe 23andme per violazione "profondamente dannosa" Esposizione dei dati genetici**  
-  Fonte: BleepingComputer, 17 Jun 2025, 14:59:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-fines-23andme-for-profoundly-damaging-breach-exposing-genetics-data/>)
-
-- **Microsoft risolve i problemi di avvio dell'hub di superficie con aggiornamento di emergenza**  
-  Fonte: BleepingComputer, 17 Jun 2025, 14:06:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-surface-hub-boot-issues-with-emergency-update/>)
-
-- **Come automatizzarla la gestione dei biglietti con AI e Tines**  
-  Fonte: BleepingComputer, 17 Jun 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-automate-it-ticket-handling-with-ai-and-tines/>)
-
-- **Hacker ruba 1 milione di record utente Cock.li nella violazione dei dati del webmail**  
-  Fonte: BleepingComputer, 17 Jun 2025, 13:50:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-steals-1-million-cockli-user-records-in-webmail-data-breach/>)
 
 - **Silver Fox Apt prende di mira Taiwan con complesso gh0stcringe e holdhands malware di ratto**  
   Fonte: The Hacker News, 17 Jun 2025, 13:28:00 UTC  
@@ -86,29 +154,13 @@
   Fonte: The Hacker News, 17 Jun 2025, 04:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html>)
 
-- **Gli hacker passano al targeting delle compagnie assicurative statunitensi**  
-  Fonte: BleepingComputer, 16 Jun 2025, 20:43:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/>)
-
-- **ASUS ARMARY CRATE BUG consente agli aggressori di ottenere privilegi di amministrazione di Windows**  
-  Fonte: BleepingComputer, 16 Jun 2025, 18:08:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/asus-armoury-crate-bug-lets-attackers-get-windows-admin-privileges/>)
-
 - **Gli Stati Uniti afferrano $ 7,74 milioni in criptovalute legate alla rete globale dei lavoratori IT falsi della Corea del Nord**  
   Fonte: The Hacker News, 16 Jun 2025, 17:49:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html>)
 
-- **Sistema e -mail di Washington Post hackerato, account dei giornalisti compromessi**  
-  Fonte: BleepingComputer, 16 Jun 2025, 15:08:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/>)
-
 - **Il ransomware di Anubis crittografa e si asciuga i file, rendendo impossibile il recupero anche dopo il pagamento**  
   Fonte: The Hacker News, 16 Jun 2025, 14:21:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html>)
-
-- **Kali Linux 2025.2 Rilasciato con 13 nuovi strumenti, aggiornamenti di hacking per auto**  
-  Fonte: BleepingComputer, 16 Jun 2025, 14:18:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/kali-linux-20252-released-with-13-new-tools-car-hacking-updates/>)
 
 - **⚡ Riepilogo settimanale: spyware per iPhone, Microsoft 0-Day, Tokenbreak Hack, perdite di dati AI e altro ancora**  
   Fonte: The Hacker News, 16 Jun 2025, 11:29:00 UTC  
@@ -174,7 +226,7 @@
   Fonte: Krebs on Security, 12 Jun 2025, 22:14:00 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/>)
 
-- **Siti WordPress Turned Weapon: How Vextrio e Affiliates gestiscono una rete di truffa globale**  
+- **Siti WordPress Turn Turned: How Vextrio e Affiliates gestiscono una rete di truffa globale**  
   Fonte: The Hacker News, 12 Jun 2025, 17:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html>)
 
@@ -222,41 +274,5 @@
   Fonte: The Hacker News, 12 Jun 2025, 07:42:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html>)
 
-- **Oltre 80.000 account ID Microsoft ENTRA mirati utilizzando lo strumento Teamfiltration Open-Source**  
-  Fonte: The Hacker News, 12 Jun 2025, 05:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/over-80000-microsoft-entra-id-accounts.html>)
 
-- **Smashing Security Podcast #421: flirt di stuzzicadenti, perdite di Google e truffatori di ghiaccio di ghiaccio**  
-  Fonte: Graham Cluley, 11 Jun 2025, 23:00:31 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-421/>)
-
-- **Gli ex membri di Black Basta usano Microsoft Teams e Python Scripts negli attacchi del 2025**  
-  Fonte: The Hacker News, 11 Jun 2025, 17:44:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/former-black-basta-members-use.html>)
-
-- **295 Attacchi coordinati per la forza bruta del lancio di 295 IPS su Apache Tomcat Manager**  
-  Fonte: The Hacker News, 11 Jun 2025, 13:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html>)
-
-- **Interpol smantella 20.000+ IP dannosi collegati a 69 varianti di malware in operazione sicura**  
-  Fonte: The Hacker News, 11 Jun 2025, 11:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html>)
-
-- **Perché la sicurezza DNS è la tua prima difesa contro gli attacchi informatici?**  
-  Fonte: The Hacker News, 11 Jun 2025, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/why-dns-security-is-your-first-defense.html>)
-
-- **Dispositivi GPS Sinotrack vulnerabili al controllo remoto del veicolo tramite password predefinite**  
-  Fonte: The Hacker News, 11 Jun 2025, 10:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/sinotrack-gps-devices-vulnerable-to.html>)
-
-- **Come costruire un modello di sicurezza snella: 5 lezioni da River Island**  
-  Fonte: The Hacker News, 11 Jun 2025, 10:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/how-to-build-lean-security-model-5.html>)
-
-- **Patch Microsoft 67 Vulnerabilità tra cui WebDav Zero-Day sfruttato in natura**  
-  Fonte: The Hacker News, 11 Jun 2025, 07:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/microsoft-patches-67-vulnerabilities.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-18 06:18:37 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-19 06:18:39 UTC -->
