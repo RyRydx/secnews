@@ -2,9 +2,85 @@
 
 ## Ultimi 7 giorni
 
+- **No, la perdita di credenziali di 16 miliardi non è una nuova violazione dei dati**  
+  Fonte: BleepingComputer, 19 Jun 2025, 21:51:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/>)
+
+- **Godfather Android Malware ora usa la virtualizzazione per dirottare le app bancarie**  
+  Fonte: BleepingComputer, 19 Jun 2025, 19:54:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/>)
+
+- **Nuovi dispositivi di aumento del malware Android tramite sovrapposizioni, frode di virtualizzazione e furto di NFC**  
+  Fonte: The Hacker News, 19 Jun 2025, 17:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html>)
+
+- **Webinar: le credenziali rubate sono la nuova porta d'ingresso della tua rete**  
+  Fonte: BleepingComputer, 19 Jun 2025, 16:33:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/>)
+
+- **Sam Altman di Openai discute la data di uscita GPT-5**  
+  Fonte: BleepingComputer, 19 Jun 2025, 15:43:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openais-sam-altman-discusses-gpt-5-release-date/>)
+
+- **Gli Stati Uniti recupera $ 225 milioni di criptovalute rubate nelle truffe di investimento**  
+  Fonte: BleepingComputer, 19 Jun 2025, 14:33:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/>)
+
+- **Webinar speciale: approfondimenti chiave dal DBIR 2025 di Verizon**  
+  Fonte: BleepingComputer, 19 Jun 2025, 14:04:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/special-webinar-key-insights-from-verizons-2025-dbir/>)
+
+- **Microsoft svela nuovi impostazioni predefinite di sicurezza per Windows 365 Cloud PCS**  
+  Fonte: BleepingComputer, 19 Jun 2025, 13:55:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/>)
+
+- **CHATGPT analizzerà le e -mail di Gmail, gestisce la pianificazione su Google Calendar**  
+  Fonte: BleepingComputer, 19 Jun 2025, 13:29:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-analyze-gmail-emails-manage-schedule-on-google-calendar/>)
+
+- **Tutto ciò che devi sapere sulla nuova guida del NIST in "SP 1800-35: Implementazione di un'architettura di fiducia zero"**  
+  Fonte: Cloudflare Blog - Security, 19 Jun 2025, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/nist-sp-1300-85/>)
+
+- **DuckDuckgo rafforza la difesa della truffa per bloccare i negozi falsi, i siti di criptovalute**  
+  Fonte: BleepingComputer, 19 Jun 2025, 12:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/duckduckgo-beefs-up-scam-defense-to-block-fake-stores-crypto-sites/>)
+
+- **Il gigante delle telecomunicazioni Viasat violata dagli hacker del tifone salato cinese**  
+  Fonte: BleepingComputer, 19 Jun 2025, 11:54:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/telecom-giant-viasat-breached-by-chinas-salt-typhoon-hackers/>)
+
+- **Bluenoroff DeepFake Zoom Scam colpisce un dipendente crittografico con malware Backdoor MacOS**  
+  Fonte: The Hacker News, 19 Jun 2025, 11:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/bluenoroff-deepfake-zoom-scam-hits.html>)
+
+- **Codice atmosfera sicura: la nuova guida completa**  
+  Fonte: The Hacker News, 19 Jun 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/secure-vibe-coding-complete-new-guide.html>)
+
+- **Filmati video a guida autonoma**  
+  Fonte: Schneier on Security, 19 Jun 2025, 11:06:52 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/self-driving-car-video-footage.html>)
+
+- **Scopri molti attacchi nascosti in strumenti di fiducia: scopri come in questa sessione di esperti gratuiti**  
+  Fonte: The Hacker News, 19 Jun 2025, 10:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/uncover-lots-attacks-hiding-in-trusted.html>)
+
+- **Krispy Kreme afferma che la violazione dei dati di novembre ha un impatto su oltre 160.000 persone**  
+  Fonte: BleepingComputer, 19 Jun 2025, 09:59:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/krispy-kreme-says-november-data-breach-impacts-over-160-000-people/>)
+
+- **Russian Apt29 Explaits Gmail App Passwords per bypass 2FA nella campagna di phishing mirata**  
+  Fonte: The Hacker News, 19 Jun 2025, 08:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/russian-apt29-exploits-gmail-app.html>)
+
 - **L'esperto di accesso iniziale di Ryuk Ransomware estradato negli Stati Uniti**  
   Fonte: BleepingComputer, 19 Jun 2025, 06:05:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ryuk-ransomwares-initial-access-expert-extradited-to-the-us/>)
+
+- **Meta aggiunge il supporto di accesso Passkey a Facebook per utenti Android e iOS**  
+  Fonte: The Hacker News, 19 Jun 2025, 06:04:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/meta-adds-passkey-login-support-to.html>)
 
 - **I nuovi difetti Linux consentono l'accesso completo alla radice tramite PAM e UDISKS tra le principali distribuzioni**  
   Fonte: The Hacker News, 19 Jun 2025, 03:33:00 UTC  
@@ -18,25 +94,13 @@
   Fonte: BleepingComputer, 18 Jun 2025, 21:56:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/pro-israel-hackers-hit-irans-nobitex-exchange-burn-90m-in-crypto/>)
 
-- **Hacker nordcoreani Execs DeepFake in zoom Call per diffondere MAC Malware**  
-  Fonte: BleepingComputer, 18 Jun 2025, 20:37:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/>)
-
-- **Gang di ransomware Bust in Thailand Hotel Raid**  
+- **Gang di ransomware Busted in Thailand Hotel Raid**  
   Fonte: Graham Cluley, 18 Jun 2025, 20:36:06 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-gang-busted-in-thailand-hotel-raid>)
 
 - **La nuova campagna di malware utilizza tunnel cloudflare per consegnare i ratti tramite catene di phishing**  
   Fonte: The Hacker News, 18 Jun 2025, 15:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html>)
-
-- **Microsoft 365 per bloccare l'accesso al file tramite protocolli di autenticazione legacy per impostazione predefinita**  
-  Fonte: BleepingComputer, 18 Jun 2025, 15:14:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-365-to-block-file-access-via-legacy-auth-protocols-by-default/>)
-
-- **"Stargazers" usa le modine Minecraft false per rubare le password del giocatore**  
-  Fonte: BleepingComputer, 18 Jun 2025, 15:09:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/stargazers-use-fake-minecraft-mods-to-steal-player-passwords/>)
 
 - **Scam di Ghostwriting**  
   Fonte: Schneier on Security, 18 Jun 2025, 14:37:27 UTC  
@@ -45,18 +109,6 @@
 - **1.500+ giocatori di Minecraft infettati da malware Java mascherato da mod di gioco su GitHub**  
   Fonte: The Hacker News, 18 Jun 2025, 14:18:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html>)
-
-- **ChainLink Phishing: come i domini fidati diventano vettori di minaccia**  
-  Fonte: BleepingComputer, 18 Jun 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chainlink-phishing-how-trusted-domains-become-threat-vectors/>)
-
-- **CISA avverte di aggressori che sfruttano il difetto di Linux con Exploit POC**  
-  Fonte: BleepingComputer, 18 Jun 2025, 13:54:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-attackers-exploiting-linux-flaw-with-poc-exploit/>)
-
-- **La società SaaS sanitaria afferma che la violazione dei dati influisce 5,4 milioni di pazienti**  
-  Fonte: BleepingComputer, 18 Jun 2025, 13:44:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/episource-says-data-breach-impacts-54-million-patients/>)
 
 - **CloudFlare Log Explorer è ora GA, fornendo osservabilità e forense nativi**  
   Fonte: Cloudflare Blog - Security, 18 Jun 2025, 13:00:00 UTC  
@@ -70,23 +122,11 @@
   Fonte: The Hacker News, 18 Jun 2025, 10:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html>)
 
-- **Beyondtrust avverte di pre-outh RCE nel software di supporto remoto**  
-  Fonte: BleepingComputer, 18 Jun 2025, 10:10:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-pre-auth-rce-in-remote-support-software/>)
-
-- **Nuovi Udisks di Linux Flaw consente agli aggressori di ottenere radici su importanti distro Linux**  
-  Fonte: BleepingComputer, 18 Jun 2025, 08:45:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/>)
-
-- **Asana avverte la funzione MCP AI esposta Dati dei clienti ad altre organizzazioni**  
-  Fonte: BleepingComputer, 18 Jun 2025, 07:16:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/asana-warns-mcp-ai-feature-exposed-customer-data-to-other-orgs/>)
-
 - **La CISA avverte di sfruttamento attivo del privilegio del kernel Linux Vulnerabilità**  
   Fonte: The Hacker News, 18 Jun 2025, 06:43:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html>)
 
-- **Ex analista della CIA condannato a 37 mesi per perdite di documenti di difesa nazionale top secret**  
+- **Ex analista di CIA condannato a 37 mesi per perdite di documenti di difesa nazionale top secret**  
   Fonte: The Hacker News, 18 Jun 2025, 06:43:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html>)
 
@@ -98,17 +138,9 @@
   Fonte: The Hacker News, 18 Jun 2025, 05:35:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html>)
 
-- **Paddle si stabilisce per $ 5 milioni oltre a facilitare le truffe di supporto tecnico**  
-  Fonte: BleepingComputer, 17 Jun 2025, 21:14:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/paddle-settles-for-5-million-over-facilitating-tech-support-scams/>)
-
 - **Google Chrome Zero-Day CVE-2025-2783 Sfruttato da Taxoff per distribuire Trinper Backdoor**  
   Fonte: The Hacker News, 17 Jun 2025, 19:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html>)
-
-- **Scania conferma la violazione dei dati di reclamo assicurativo nel tentativo di estorsione**  
-  Fonte: BleepingComputer, 17 Jun 2025, 19:04:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/scania-confirms-insurance-claim-data-breach-in-extortion-attempt/>)
 
 - **Il bug Langsmith potrebbe esporre chiavi aperte e dati utente tramite agenti dannosi**  
   Fonte: The Hacker News, 17 Jun 2025, 17:33:00 UTC  
@@ -222,57 +254,5 @@
   Fonte: The Hacker News, 13 Jun 2025, 07:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html>)
 
-- **All'interno di un scuro impero adtech alimentato da falsi captchas**  
-  Fonte: Krebs on Security, 12 Jun 2025, 22:14:00 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/>)
 
-- **Siti WordPress Turn Turned: How Vextrio e Affiliates gestiscono una rete di truffa globale**  
-  Fonte: The Hacker News, 12 Jun 2025, 17:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/wordpress-sites-turned-weapon-how.html>)
-
-- **Le compagnie aeree vendono segretamente i dati passeggeri al governo**  
-  Fonte: Schneier on Security, 12 Jun 2025, 15:44:47 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/airlines-secretly-selling-passenger-data-to-the-government.html>)
-
-- **La Svezia dice che è sotto l'attacco informatico**  
-  Fonte: Graham Cluley, 12 Jun 2025, 15:40:04 UTC  
-  [Leggi](<https://grahamcluley.com/sweden-says-it-is-under-cyber-attack/>)
-
-- **Nuovo attacco di Tokenbreak bypassa la moderazione dell'intelligenza artificiale con modifiche al testo a caratteri singoli**  
-  Fonte: The Hacker News, 12 Jun 2025, 13:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/new-tokenbreak-attack-bypasses-ai.html>)
-
-- **Gli agenti di intelligenza artificiale vengono eseguiti su account segreti: impara a garantirli in questo webinar**  
-  Fonte: The Hacker News, 12 Jun 2025, 13:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/ai-agents-run-on-secret-accounts-learn.html>)
-
-- **La vulnerabilità AI a zero-clic espone Microsoft 365 Copilot It senza interazione dell'utente**  
-  Fonte: The Hacker News, 12 Jun 2025, 11:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html>)
-
-- **Identità non umane: come affrontare il rischio di sicurezza in espansione**  
-  Fonte: The Hacker News, 12 Jun 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/non-human-identities-how-to-address.html>)
-
-- **Celebrando 11 anni dell'impatto globale di Project Galileo**  
-  Fonte: Cloudflare Blog - Security, 12 Jun 2025, 10:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/celebrating-11-years-of-project-galileo-global-impact/>)
-
-- **Aggiornamento settimanale 456**  
-  Fonte: Troy Hunt, 12 Jun 2025, 09:51:21 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-456/>)
-
-- **L'attacco di malware si maschera come DeepSeek Installer**  
-  Fonte: Graham Cluley, 12 Jun 2025, 09:47:43 UTC  
-  [Leggi](<https://grahamcluley.com/malware-attack-disguises-itself-as-deepseek-installer/>)
-
-- **Scaffali vuoti dopo il più grande distributore di alimenti naturali e biologici degli Stati Uniti soffre di attacco informatico**  
-  Fonte: Graham Cluley, 12 Jun 2025, 09:09:29 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/empty-shelves-distributor-cyber-attack>)
-
-- **ConnectWise per ruotare i certificati di firma del codice screenConnect a causa dei rischi di sicurezza**  
-  Fonte: The Hacker News, 12 Jun 2025, 07:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-19 06:18:39 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-20 06:17:42 UTC -->
