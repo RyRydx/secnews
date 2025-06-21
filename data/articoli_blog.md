@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Blogging di calamari del venerdì: video di calamari Gonate**  
+  Fonte: Schneier on Security, 20 Jun 2025, 21:04:03 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-gonate-squid-video.html>)
+
+- **Bitopro Exchange Links Lazarus hacker a $ 11 milioni di criptola**  
+  Fonte: BleepingComputer, 20 Jun 2025, 17:54:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bitopro-exchange-links-lazarus-hackers-to-11-million-crypto-heist/>)
+
+- **Microsoft indaga un bug OneDrive che rompe la ricerca dei file**  
+  Fonte: BleepingComputer, 20 Jun 2025, 16:39:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/>)
+
+- **Qilin Ransomware aggiunge la funzione "Call Lawyer" alle vittime di pressioni per il più grande riscatto**  
+  Fonte: The Hacker News, 20 Jun 2025, 16:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html>)
+
+- **Cloudflare blocca l'attacco DDOS di record 7,3 Tbps contro l'hosting Provider**  
+  Fonte: BleepingComputer, 20 Jun 2025, 15:54:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-73-tbps-ddos-attack-against-hosting-provider/>)
+
+- **AFLAC rivela violazione di attacchi assicurativi ragno sparsi**  
+  Fonte: BleepingComputer, 20 Jun 2025, 14:52:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/aflac-discloses-breach-amidst-scattered-spider-insurance-attacks/>)
+
+- **Krispy Kreme Hack ha esposto dati sensibili di oltre 160.000 persone**  
+  Fonte: Graham Cluley, 20 Jun 2025, 14:13:38 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/krispy-kreme-hack-exposed-sensitive-data-of-over-160-000-people>)
+
+- **Gli utenti possono ripristinare le proprie password senza sacrificare la sicurezza?**  
+  Fonte: BleepingComputer, 20 Jun 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/can-users-reset-their-own-passwords-without-sacrificing-security/>)
+
+- **Microsoft per rimuovere i driver legacy da Windows Update per Boost Security**  
+  Fonte: BleepingComputer, 20 Jun 2025, 13:05:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-legacy-drivers-from-windows-update-for-security-boost/>)
+
+- **Irann's State TV dirottata a medio marmo tra le tensioni geopolitiche;90 milioni di dollari rubati in rapina crittografica**  
+  Fonte: The Hacker News, 20 Jun 2025, 11:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/irans-state-tv-hijacked-mid-broadcast.html>)
+
+- **Sorveglianza negli Stati Uniti**  
+  Fonte: Schneier on Security, 20 Jun 2025, 11:00:43 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/surveillance-in-the-us.html>)
+
+- **Qilin offre il pulsante "Chiama un avvocato" per gli affiliati che tentano di estorcere il riscatto dalle vittime che non pagheranno**  
+  Fonte: Graham Cluley, 20 Jun 2025, 10:11:44 UTC  
+  [Leggi](<https://www.tripwire.com/state-of-security/qilin-offers-call-lawyer-button-affiliates-attempting-extort-ransoms-victims>)
+
+- **6 passaggi a 24/7 Soc Soc Success**  
+  Fonte: The Hacker News, 20 Jun 2025, 10:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/6-steps-to-247-in-house-soc-success.html>)
+
+- **L'attacco DDOS da 7,3 tbps massiccio offre 37,4 TB in 45 secondi, prendendo di mira il provider di hosting**  
+  Fonte: The Hacker News, 20 Jun 2025, 09:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/massive-73-tbps-ddos-attack-delivers.html>)
+
+- **Oltre 200 repository di GitHub trojanizzati trovati nei giocatori e agli sviluppatori di campagne**  
+  Fonte: The Hacker News, 20 Jun 2025, 07:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html>)
+
 - **No, la perdita di credenziali di 16 miliardi non è una nuova violazione dei dati**  
   Fonte: BleepingComputer, 19 Jun 2025, 21:51:41 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/>)
@@ -34,21 +94,9 @@
   Fonte: BleepingComputer, 19 Jun 2025, 13:55:26 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/>)
 
-- **CHATGPT analizzerà le e -mail di Gmail, gestisce la pianificazione su Google Calendar**  
-  Fonte: BleepingComputer, 19 Jun 2025, 13:29:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-analyze-gmail-emails-manage-schedule-on-google-calendar/>)
-
 - **Tutto ciò che devi sapere sulla nuova guida del NIST in "SP 1800-35: Implementazione di un'architettura di fiducia zero"**  
   Fonte: Cloudflare Blog - Security, 19 Jun 2025, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/nist-sp-1300-85/>)
-
-- **DuckDuckgo rafforza la difesa della truffa per bloccare i negozi falsi, i siti di criptovalute**  
-  Fonte: BleepingComputer, 19 Jun 2025, 12:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/duckduckgo-beefs-up-scam-defense-to-block-fake-stores-crypto-sites/>)
-
-- **Il gigante delle telecomunicazioni Viasat violata dagli hacker del tifone salato cinese**  
-  Fonte: BleepingComputer, 19 Jun 2025, 11:54:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/telecom-giant-viasat-breached-by-chinas-salt-typhoon-hackers/>)
 
 - **Bluenoroff DeepFake Zoom Scam colpisce un dipendente crittografico con malware Backdoor MacOS**  
   Fonte: The Hacker News, 19 Jun 2025, 11:38:00 UTC  
@@ -66,17 +114,9 @@
   Fonte: The Hacker News, 19 Jun 2025, 10:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/uncover-lots-attacks-hiding-in-trusted.html>)
 
-- **Krispy Kreme afferma che la violazione dei dati di novembre ha un impatto su oltre 160.000 persone**  
-  Fonte: BleepingComputer, 19 Jun 2025, 09:59:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/krispy-kreme-says-november-data-breach-impacts-over-160-000-people/>)
-
 - **Russian Apt29 Explaits Gmail App Passwords per bypass 2FA nella campagna di phishing mirata**  
   Fonte: The Hacker News, 19 Jun 2025, 08:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/russian-apt29-exploits-gmail-app.html>)
-
-- **L'esperto di accesso iniziale di Ryuk Ransomware estradato negli Stati Uniti**  
-  Fonte: BleepingComputer, 19 Jun 2025, 06:05:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ryuk-ransomwares-initial-access-expert-extradited-to-the-us/>)
 
 - **Meta aggiunge il supporto di accesso Passkey a Facebook per utenti Android e iOS**  
   Fonte: The Hacker News, 19 Jun 2025, 06:04:00 UTC  
@@ -89,10 +129,6 @@
 - **Smashing Security Podcast #422: The Curious Case of the Code Copier**  
   Fonte: Graham Cluley, 18 Jun 2025, 23:00:46 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-422/>)
-
-- **Gli hacker pro-israeliani hanno colpito lo scambio di Nobitex iraniano, bruciano $ 90 milioni in cripto**  
-  Fonte: BleepingComputer, 18 Jun 2025, 21:56:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pro-israel-hackers-hit-irans-nobitex-exchange-burn-90m-in-crypto/>)
 
 - **Gang di ransomware Busted in Thailand Hotel Raid**  
   Fonte: Graham Cluley, 18 Jun 2025, 20:36:06 UTC  
@@ -210,49 +246,5 @@
   Fonte: Schneier on Security, 15 Jun 2025, 01:07:56 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/upcoming-speaking-engagements-47.html>)
 
-- **Discord Invite Link Hijacking offre asyncrat e Skuld Stealer bersaglio di portafogli cripto**  
-  Fonte: The Hacker News, 14 Jun 2025, 02:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html>)
 
-- **Blogging di calamari del venerdì: Stubby Squid**  
-  Fonte: Schneier on Security, 13 Jun 2025, 21:02:40 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-stubby-squid.html>)
-
-- **La polizia olandese identifica gli utenti di un 11enne su Cracked.io Hacking Forum**  
-  Fonte: Graham Cluley, 13 Jun 2025, 16:24:04 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/dutch-police-cracked-io-hacking-forum>)
-
-- **Oltre 269.000 siti Web infettati da malware jsfiretruck javascript in un mese**  
-  Fonte: The Hacker News, 13 Jun 2025, 14:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/over-269000-websites-infected-with.html>)
-
-- **Bert Ransomware: quello che devi sapere**  
-  Fonte: Graham Cluley, 13 Jun 2025, 12:36:06 UTC  
-  [Leggi](<https://www.fortra.com/blog/bert-ransomware-what-you-need-know>)
-
-- **Perché la Danimarca si sta rompendo con Microsoft**  
-  Fonte: Graham Cluley, 13 Jun 2025, 11:49:25 UTC  
-  [Leggi](<https://grahamcluley.com/why-denmark-is-breaking-up-with-microsoft/>)
-
-- **Bande ransomware sfruttano i difetti di simplehelp non impacciati per colpire le vittime con doppia estorsione**  
-  Fonte: The Hacker News, 13 Jun 2025, 11:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html>)
-
-- **CTEM è il nuovo SOC: spostamento dal monitoraggio degli avvisi per misurare il rischio**  
-  Fonte: The Hacker News, 13 Jun 2025, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/ctem-is-new-soc-shifting-from.html>)
-
-- **Paragon Spyware usato per spiare i giornalisti europei**  
-  Fonte: Schneier on Security, 13 Jun 2025, 10:17:42 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/paragon-spyware-used-to-spy-on-european-journalists.html>)
-
-- **L'uomo sudafricano è stato imprigionato dopo la richiesta di riscatto contro il suo ex datore di lavoro**  
-  Fonte: Graham Cluley, 13 Jun 2025, 07:24:01 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/south-african-man-imprisoned-after-ransom-demand-against-his-former-employer>)
-
-- **Apple Zero-Click Flaw nei messaggi sfruttati per spiare i giornalisti usando Paragon Spyware**  
-  Fonte: The Hacker News, 13 Jun 2025, 07:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/apple-zero-click-flaw-in-messages.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-20 06:17:42 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-21 06:15:22 UTC -->
