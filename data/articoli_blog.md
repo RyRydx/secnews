@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 457**  
+  Fonte: Troy Hunt, 21 Jun 2025, 17:36:24 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-457/>)
+
+- **Spider sparso dietro attacchi informatici su M&S e cooperativa, causando danni fino a $ 592 milioni**  
+  Fonte: The Hacker News, 21 Jun 2025, 09:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html>)
+
 - **Blogging di calamari del venerdì: video di calamari Gonate**  
   Fonte: Schneier on Security, 20 Jun 2025, 21:04:03 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-gonate-squid-video.html>)
@@ -134,7 +142,7 @@
   Fonte: Graham Cluley, 18 Jun 2025, 20:36:06 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-gang-busted-in-thailand-hotel-raid>)
 
-- **La nuova campagna di malware utilizza tunnel cloudflare per consegnare i ratti tramite catene di phishing**  
+- **La nuova campagna di malware utilizza tunnel cloudflare per consegnare i topi tramite catene di phishing**  
   Fonte: The Hacker News, 18 Jun 2025, 15:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html>)
 
@@ -154,7 +162,7 @@
   Fonte: The Hacker News, 18 Jun 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html>)
 
-- **Water Curse impiega 76 account GitHub per consegnare la campagna di malware in più stadi**  
+- **Water Curse impiega 76 account GitHub per consegnare la campagna di malware multi-stage**  
   Fonte: The Hacker News, 18 Jun 2025, 10:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html>)
 
@@ -242,9 +250,5 @@
   Fonte: The Hacker News, 16 Jun 2025, 06:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html>)
 
-- **Imminenti impegni di lingua**  
-  Fonte: Schneier on Security, 15 Jun 2025, 01:07:56 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/upcoming-speaking-engagements-47.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-06-21 06:15:22 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-22 06:16:15 UTC -->
