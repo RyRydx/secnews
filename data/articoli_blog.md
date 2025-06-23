@@ -2,9 +2,29 @@
 
 ## Ultimi 7 giorni
 
+- **CoinMarketCap brevemente hackerato per prosciugare i portafogli cripto tramite popup Fake Web3**  
+  Fonte: BleepingComputer, 22 Jun 2025, 21:47:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/>)
+
+- **Il consiglio comunale di Oxford soffre di violazione che espone due decenni di dati**  
+  Fonte: BleepingComputer, 22 Jun 2025, 15:17:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/>)
+
+- **Lo strumento Snipping di Windows ora ti consente di creare registrazioni GIF animate**  
+  Fonte: BleepingComputer, 22 Jun 2025, 14:11:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/>)
+
 - **Aggiornamento settimanale 457**  
   Fonte: Troy Hunt, 21 Jun 2025, 17:36:24 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-457/>)
+
+- **Hacker russi Bypass Gmail MFA utilizzando le password dell'app rubata**  
+  Fonte: BleepingComputer, 21 Jun 2025, 15:13:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-hackers-bypass-gmail-mfa-using-stolen-app-passwords/>)
+
+- **Tema di WordPress Motors Flaw Mess sfruttati per i conti di amministrazione di hijack**  
+  Fonte: BleepingComputer, 21 Jun 2025, 14:09:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-motors-theme-flaw-mass-exploited-to-hijack-admin-accounts/>)
 
 - **Spider sparso dietro attacchi informatici su M&S e cooperativa, causando danni fino a $ 592 milioni**  
   Fonte: The Hacker News, 21 Jun 2025, 09:44:00 UTC  
@@ -14,7 +34,7 @@
   Fonte: Schneier on Security, 20 Jun 2025, 21:04:03 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-gonate-squid-video.html>)
 
-- **Bitopro Exchange Links Lazarus hacker a $ 11 milioni di criptola**  
+- **Bitopro Exchange Links Lazarus hacker a $ 11 milioni di criptola rapina**  
   Fonte: BleepingComputer, 20 Jun 2025, 17:54:41 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/bitopro-exchange-links-lazarus-hackers-to-11-million-crypto-heist/>)
 
@@ -74,33 +94,9 @@
   Fonte: BleepingComputer, 19 Jun 2025, 21:51:41 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/>)
 
-- **Godfather Android Malware ora usa la virtualizzazione per dirottare le app bancarie**  
-  Fonte: BleepingComputer, 19 Jun 2025, 19:54:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/>)
-
 - **Nuovi dispositivi di aumento del malware Android tramite sovrapposizioni, frode di virtualizzazione e furto di NFC**  
   Fonte: The Hacker News, 19 Jun 2025, 17:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-android-malware-surge-hits-devices.html>)
-
-- **Webinar: le credenziali rubate sono la nuova porta d'ingresso della tua rete**  
-  Fonte: BleepingComputer, 19 Jun 2025, 16:33:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/>)
-
-- **Sam Altman di Openai discute la data di uscita GPT-5**  
-  Fonte: BleepingComputer, 19 Jun 2025, 15:43:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openais-sam-altman-discusses-gpt-5-release-date/>)
-
-- **Gli Stati Uniti recupera $ 225 milioni di criptovalute rubate nelle truffe di investimento**  
-  Fonte: BleepingComputer, 19 Jun 2025, 14:33:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/>)
-
-- **Webinar speciale: approfondimenti chiave dal DBIR 2025 di Verizon**  
-  Fonte: BleepingComputer, 19 Jun 2025, 14:04:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/special-webinar-key-insights-from-verizons-2025-dbir/>)
-
-- **Microsoft svela nuovi impostazioni predefinite di sicurezza per Windows 365 Cloud PCS**  
-  Fonte: BleepingComputer, 19 Jun 2025, 13:55:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/>)
 
 - **Tutto ciò che devi sapere sulla nuova guida del NIST in "SP 1800-35: Implementazione di un'architettura di fiducia zero"**  
   Fonte: Cloudflare Blog - Security, 19 Jun 2025, 13:00:00 UTC  
@@ -122,11 +118,11 @@
   Fonte: The Hacker News, 19 Jun 2025, 10:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/uncover-lots-attacks-hiding-in-trusted.html>)
 
-- **Russian Apt29 Explaits Gmail App Passwords per bypass 2FA nella campagna di phishing mirata**  
+- **Russian APT29 Explaits Gmail App Passwords per bypass 2FA nella campagna di phishing mirata**  
   Fonte: The Hacker News, 19 Jun 2025, 08:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/russian-apt29-exploits-gmail-app.html>)
 
-- **Meta aggiunge il supporto di accesso Passkey a Facebook per utenti Android e iOS**  
+- **Meta aggiunge il supporto di accesso Passkey a Facebook per gli utenti Android e iOS**  
   Fonte: The Hacker News, 19 Jun 2025, 06:04:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/meta-adds-passkey-login-support-to.html>)
 
@@ -138,11 +134,11 @@
   Fonte: Graham Cluley, 18 Jun 2025, 23:00:46 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-422/>)
 
-- **Gang di ransomware Busted in Thailand Hotel Raid**  
+- **Gang di ransomware Bust in Thailand Hotel Raid**  
   Fonte: Graham Cluley, 18 Jun 2025, 20:36:06 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-gang-busted-in-thailand-hotel-raid>)
 
-- **La nuova campagna di malware utilizza tunnel cloudflare per consegnare i topi tramite catene di phishing**  
+- **La nuova campagna di malware utilizza tunnel cloudflare per consegnare i ratti tramite catene di phishing**  
   Fonte: The Hacker News, 18 Jun 2025, 15:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html>)
 
@@ -162,7 +158,7 @@
   Fonte: The Hacker News, 18 Jun 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html>)
 
-- **Water Curse impiega 76 account GitHub per consegnare la campagna di malware multi-stage**  
+- **Water Curse impiega 76 account GitHub per consegnare la campagna di malware in più stadi**  
   Fonte: The Hacker News, 18 Jun 2025, 10:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html>)
 
@@ -170,7 +166,7 @@
   Fonte: The Hacker News, 18 Jun 2025, 06:43:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html>)
 
-- **Ex analista di CIA condannato a 37 mesi per perdite di documenti di difesa nazionale top secret**  
+- **Ex analista della CIA condannato a 37 mesi per perdite di documenti di difesa nazionale top secret**  
   Fonte: The Hacker News, 18 Jun 2025, 06:43:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html>)
 
@@ -251,4 +247,4 @@
   [Leggi](<https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html>)
 
 
-<!-- Ultimo aggiornamento: 2025-06-22 06:16:15 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-23 06:19:29 UTC -->
