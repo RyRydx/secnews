@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Il tifone salato collegato in Cina sfrutta la vulnerabilità critica di Cisco per colpire la telecomunicazione canadese**  
+  Fonte: The Hacker News, 24 Jun 2025, 03:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html>)
+
+- **Gli hacker APT28 usano chat di segnale per lanciare nuovi attacchi di malware in Ucraina**  
+  Fonte: BleepingComputer, 23 Jun 2025, 22:14:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/>)
+
+- **Malware su Google Play, Apple App Store ha rubato le tue foto e crittografia**  
+  Fonte: BleepingComputer, 23 Jun 2025, 16:44:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malware-on-google-play-app-store-stole-your-photos-and-crypto/>)
+
+- **La sicurezza della patria americana avverte di crescere rischi di attacchi informatici iraniani**  
+  Fonte: BleepingComputer, 23 Jun 2025, 16:22:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-homeland-security-warns-of-escalating-iranian-cyberattack-risks/>)
+
+- **Echo Chamber Jailbreak Tricks LLMS come Openai e Google nel generare contenuti dannosi**  
+  Fonte: The Hacker News, 23 Jun 2025, 15:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html>)
+
+- **Il Canada dice che Salt Typhoon ha violato le telecomunicazioni tramite Cisco Flaw**  
+  Fonte: BleepingComputer, 23 Jun 2025, 15:23:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/canada-says-salt-typhoon-hacked-telecom-firm-via-cisco-flaw/>)
+
+- **DHS avverte gli hacker filo-iraniani che probabilmente colpiranno le reti statunitensi dopo gli scioperi nucleari iraniani**  
+  Fonte: The Hacker News, 23 Jun 2025, 15:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/dhs-warns-pro-iranian-hackers-likely-to.html>)
+
+- **I membri del ransomware di recitazione rilasciati dopo il tempo sono stati accusati di carding**  
+  Fonte: BleepingComputer, 23 Jun 2025, 15:12:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/revil-hackers-released-after-time-served-on-carding-charges/>)
+
+- **McLaren Health Care afferma che la violazione dei dati influisce su 743.000 pazienti**  
+  Fonte: BleepingComputer, 23 Jun 2025, 14:28:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mclaren-health-care-says-data-breach-impacts-743-000-patients/>)
+
+- **XDIGO Malware sfrutta le finestre LNK difetto negli attacchi del governo dell'Europa orientale**  
+  Fonte: The Hacker News, 23 Jun 2025, 13:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html>)
+
+- **Il gigante di acciaio Nucor conferma gli hacker rubato i dati in recente violazione**  
+  Fonte: BleepingComputer, 23 Jun 2025, 12:28:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/steel-giant-nucor-confirms-hackers-stole-data-in-recent-breach/>)
+
+- **In che modo l'automazione del flusso di lavoro abilitato può aiutare i SoC a ridurre il burnout**  
+  Fonte: The Hacker News, 23 Jun 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/how-ai-enabled-workflow-automation-can.html>)
+
+- **Fino ad oggi il più grande attacco DDoS**  
+  Fonte: Schneier on Security, 23 Jun 2025, 11:04:52 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/largest-ddos-attack-to-date.html>)
+
+- **Google aggiunge difese a più livelli per proteggere Genai da rapidi attacchi di iniezione**  
+  Fonte: The Hacker News, 23 Jun 2025, 10:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/google-adds-multi-layered-defenses-to.html>)
+
+- **⚡ Riepilogo settimanale: Chrome 0-Day, 7,3 Tbps DDoS, trucchi di bypass MFA, Trojan bancario e altro ancora**  
+  Fonte: The Hacker News, 23 Jun 2025, 09:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html>)
+
 - **CoinMarketCap brevemente hackerato per prosciugare i portafogli cripto tramite popup Fake Web3**  
   Fonte: BleepingComputer, 22 Jun 2025, 21:47:05 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/>)
@@ -34,37 +94,13 @@
   Fonte: Schneier on Security, 20 Jun 2025, 21:04:03 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-gonate-squid-video.html>)
 
-- **Bitopro Exchange Links Lazarus hacker a $ 11 milioni di criptola rapina**  
-  Fonte: BleepingComputer, 20 Jun 2025, 17:54:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bitopro-exchange-links-lazarus-hackers-to-11-million-crypto-heist/>)
-
-- **Microsoft indaga un bug OneDrive che rompe la ricerca dei file**  
-  Fonte: BleepingComputer, 20 Jun 2025, 16:39:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-bug-that-breaks-file-search/>)
-
 - **Qilin Ransomware aggiunge la funzione "Call Lawyer" alle vittime di pressioni per il più grande riscatto**  
   Fonte: The Hacker News, 20 Jun 2025, 16:35:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html>)
 
-- **Cloudflare blocca l'attacco DDOS di record 7,3 Tbps contro l'hosting Provider**  
-  Fonte: BleepingComputer, 20 Jun 2025, 15:54:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-73-tbps-ddos-attack-against-hosting-provider/>)
-
-- **AFLAC rivela violazione di attacchi assicurativi ragno sparsi**  
-  Fonte: BleepingComputer, 20 Jun 2025, 14:52:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/aflac-discloses-breach-amidst-scattered-spider-insurance-attacks/>)
-
 - **Krispy Kreme Hack ha esposto dati sensibili di oltre 160.000 persone**  
   Fonte: Graham Cluley, 20 Jun 2025, 14:13:38 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/krispy-kreme-hack-exposed-sensitive-data-of-over-160-000-people>)
-
-- **Gli utenti possono ripristinare le proprie password senza sacrificare la sicurezza?**  
-  Fonte: BleepingComputer, 20 Jun 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/can-users-reset-their-own-passwords-without-sacrificing-security/>)
-
-- **Microsoft per rimuovere i driver legacy da Windows Update per Boost Security**  
-  Fonte: BleepingComputer, 20 Jun 2025, 13:05:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-legacy-drivers-from-windows-update-for-security-boost/>)
 
 - **Irann's State TV dirottata a medio marmo tra le tensioni geopolitiche;90 milioni di dollari rubati in rapina crittografica**  
   Fonte: The Hacker News, 20 Jun 2025, 11:54:00 UTC  
@@ -89,10 +125,6 @@
 - **Oltre 200 repository di GitHub trojanizzati trovati nei giocatori e agli sviluppatori di campagne**  
   Fonte: The Hacker News, 20 Jun 2025, 07:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html>)
-
-- **No, la perdita di credenziali di 16 miliardi non è una nuova violazione dei dati**  
-  Fonte: BleepingComputer, 19 Jun 2025, 21:51:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/>)
 
 - **Nuovi dispositivi di aumento del malware Android tramite sovrapposizioni, frode di virtualizzazione e furto di NFC**  
   Fonte: The Hacker News, 19 Jun 2025, 17:23:00 UTC  
@@ -222,29 +254,5 @@
   Fonte: The Hacker News, 17 Jun 2025, 08:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html>)
 
-- **Meta inizia a mostrare annunci su WhatsApp dopo un ritardo di 6 anni dall'annuncio del 2018**  
-  Fonte: The Hacker News, 17 Jun 2025, 04:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/meta-starts-showing-ads-on-whatsapp.html>)
 
-- **Gli Stati Uniti afferrano $ 7,74 milioni in criptovalute legate alla rete globale dei lavoratori IT falsi della Corea del Nord**  
-  Fonte: The Hacker News, 16 Jun 2025, 17:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/us-seizes-774m-in-crypto-tied-to-north.html>)
-
-- **Il ransomware di Anubis crittografa e si asciuga i file, rendendo impossibile il recupero anche dopo il pagamento**  
-  Fonte: The Hacker News, 16 Jun 2025, 14:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/anubis-ransomware-encrypts-and-wipes.html>)
-
-- **⚡ Riepilogo settimanale: spyware per iPhone, Microsoft 0-Day, Tokenbreak Hack, perdite di dati AI e altro ancora**  
-  Fonte: The Hacker News, 16 Jun 2025, 11:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/weekly-recap-iphone-spyware-microsoft-0.html>)
-
-- **Playbook: trasformare la tua pratica di sicurezza informatica in una macchina MRR**  
-  Fonte: The Hacker News, 16 Jun 2025, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/playbook-transforming-your.html>)
-
-- **Strumenti PyPI, NPM e AI sfruttati in Malware Surge Target DevOps e Cloud Environments**  
-  Fonte: The Hacker News, 16 Jun 2025, 06:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-23 06:19:29 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-24 06:18:59 UTC -->
