@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft estende gli aggiornamenti di sicurezza di Windows 10 per un anno con nuove opzioni di iscrizione**  
+  Fonte: The Hacker News, 25 Jun 2025, 05:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html>)
+
+- **Google lancia il modello text-to-immagine Imagen 4 gratuitamente**  
+  Fonte: BleepingComputer, 24 Jun 2025, 22:36:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-text-to-image-model-imagen-4-for-free/>)
+
+- **Claude raggiunge il chatgpt con il supporto di memoria integrato**  
+  Fonte: BleepingComputer, 24 Jun 2025, 21:52:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/claude-catches-up-to-chatgpt-with-built-in-memory-support/>)
+
+- **Google Cloud dona il protocollo AI A2a alla Fondazione Linux**  
+  Fonte: BleepingComputer, 24 Jun 2025, 21:34:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-cloud-donates-a2a-ai-protocol-to-the-linux-foundation/>)
+
+- **Sonicwall avverte di netextender trojanizzato che ruba gli accessi VPN**  
+  Fonte: BleepingComputer, 24 Jun 2025, 20:36:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-trojanized-netextender-stealing-vpn-logins/>)
+
+- **La nuova regola del visto degli Stati Uniti richiede ai candidati di impostare la privacy dell'account di social media al pubblico**  
+  Fonte: The Hacker News, 24 Jun 2025, 18:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/new-us-visa-rule-requires-applicants-to.html>)
+
+- **Aggiornamento di Windows 10 KB5061087 rilasciato con 13 modifiche e correzioni**  
+  Fonte: BleepingComputer, 24 Jun 2025, 18:07:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5061087-update-released-with-13-changes-and-fixes/>)
+
+- **Microsoft risolve il problema noto che rompe gli aggiornamenti di Windows 11**  
+  Fonte: BleepingComputer, 24 Jun 2025, 17:13:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-that-breaks-windows-11-updates/>)
+
+- **Gli utenti di Windows 10 possono ottenere aggiornamenti di sicurezza estesi utilizzando Microsoft Points**  
+  Fonte: BleepingComputer, 24 Jun 2025, 17:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-extended-security-updates-available-using-reward-points/>)
+
+- **La piattaforma di supporto di Trezor abusata negli attacchi di phishing del furto di criptovalute**  
+  Fonte: BleepingComputer, 24 Jun 2025, 16:54:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trezors-support-platform-abused-in-crypto-theft-phishing-attacks/>)
+
+- **Il nuovo attacco FileFix arma di Windows File Explorer per comandi furtivi**  
+  Fonte: BleepingComputer, 24 Jun 2025, 15:00:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/>)
+
+- **L'IA Fix #56: Chatgpt Traps Man in un culto di uno, e AI è in realtà stupido**  
+  Fonte: Graham Cluley, 24 Jun 2025, 14:56:17 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-56/>)
+
+- **I ricercatori trovano il modo di chiudere le campagne criptominer usando azioni cattive e xmrogue**  
+  Fonte: The Hacker News, 24 Jun 2025, 14:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html>)
+
+- **Come si confrontano i modelli più pendenti di oggi e perché le vittorie continue**  
+  Fonte: BleepingComputer, 24 Jun 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/>)
+
+- **US House Bans Whatsapp sui dispositivi del personale per problemi di sicurezza**  
+  Fonte: BleepingComputer, 24 Jun 2025, 13:43:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/>)
+
+- **Hacker target oltre 70 server Microsoft Exchange per rubare le credenziali tramite keyloggers**  
+  Fonte: The Hacker News, 24 Jun 2025, 13:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html>)
+
+- **Aflac, uno dei maggiori assicuratori degli Stati Uniti, è l'ultimo a cadere "sotto assedio" agli hacker**  
+  Fonte: Graham Cluley, 24 Jun 2025, 13:08:11 UTC  
+  [Leggi](<https://grahamcluley.com/aflac-one-of-the-usas-largest-insurers-is-the-latest-to-fall-under-siege-to-hackers/>)
+
+- **Ecco un canale subliminale che non hai mai considerato prima**  
+  Fonte: Schneier on Security, 24 Jun 2025, 11:09:17 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/heres-a-subliminal-channel-you-havent-considered-before.html>)
+
+- **Tra ronzio e realtà: la conversazione CTEM di cui tutti abbiamo bisogno**  
+  Fonte: The Hacker News, 24 Jun 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/between-buzz-and-reality-ctem.html>)
+
+- **Gli hacker sfruttano le API Docker errate figurate per estrarre la criptovaluta tramite Tor Network**  
+  Fonte: The Hacker News, 24 Jun 2025, 09:57:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/hackers-exploit-misconfigured-docker.html>)
+
+- **La Camera degli Stati Uniti vieta WhatsApp su dispositivi ufficiali su problemi di sicurezza e protezione dei dati**  
+  Fonte: The Hacker News, 24 Jun 2025, 09:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/us-house-bans-whatsapp-on-official.html>)
+
+- **APT28 utilizza la chat del segnale per distribuire malware e alleanza Beardshell in Ucraina**  
+  Fonte: The Hacker News, 24 Jun 2025, 09:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/apt28-uses-signal-chat-to-deploy.html>)
+
 - **Il tifone salato collegato in Cina sfrutta la vulnerabilità critica di Cisco per colpire la telecomunicazione canadese**  
   Fonte: The Hacker News, 24 Jun 2025, 03:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html>)
@@ -10,41 +98,29 @@
   Fonte: BleepingComputer, 23 Jun 2025, 22:14:59 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/>)
 
+- **Marks & Spencer Ransomware Attack è stata una buona notizia per altri rivenditori**  
+  Fonte: Graham Cluley, 23 Jun 2025, 20:45:32 UTC  
+  [Leggi](<https://grahamcluley.com/marks-spencer-ransomware-attack-was-good-news-for-other-retailers/>)
+
 - **Malware su Google Play, Apple App Store ha rubato le tue foto e crittografia**  
   Fonte: BleepingComputer, 23 Jun 2025, 16:44:56 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/malware-on-google-play-app-store-stole-your-photos-and-crypto/>)
-
-- **La sicurezza della patria americana avverte di crescere rischi di attacchi informatici iraniani**  
-  Fonte: BleepingComputer, 23 Jun 2025, 16:22:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-homeland-security-warns-of-escalating-iranian-cyberattack-risks/>)
 
 - **Echo Chamber Jailbreak Tricks LLMS come Openai e Google nel generare contenuti dannosi**  
   Fonte: The Hacker News, 23 Jun 2025, 15:58:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html>)
 
-- **Il Canada dice che Salt Typhoon ha violato le telecomunicazioni tramite Cisco Flaw**  
-  Fonte: BleepingComputer, 23 Jun 2025, 15:23:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/canada-says-salt-typhoon-hacked-telecom-firm-via-cisco-flaw/>)
-
 - **DHS avverte gli hacker filo-iraniani che probabilmente colpiranno le reti statunitensi dopo gli scioperi nucleari iraniani**  
   Fonte: The Hacker News, 23 Jun 2025, 15:14:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/dhs-warns-pro-iranian-hackers-likely-to.html>)
-
-- **I membri del ransomware di recitazione rilasciati dopo il tempo sono stati accusati di carding**  
-  Fonte: BleepingComputer, 23 Jun 2025, 15:12:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/revil-hackers-released-after-time-served-on-carding-charges/>)
-
-- **McLaren Health Care afferma che la violazione dei dati influisce su 743.000 pazienti**  
-  Fonte: BleepingComputer, 23 Jun 2025, 14:28:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mclaren-health-care-says-data-breach-impacts-743-000-patients/>)
 
 - **XDIGO Malware sfrutta le finestre LNK difetto negli attacchi del governo dell'Europa orientale**  
   Fonte: The Hacker News, 23 Jun 2025, 13:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html>)
 
-- **Il gigante di acciaio Nucor conferma gli hacker rubato i dati in recente violazione**  
-  Fonte: BleepingComputer, 23 Jun 2025, 12:28:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/steel-giant-nucor-confirms-hackers-stole-data-in-recent-breach/>)
+- **Twitter rifiuta di spiegare cosa sta facendo sul discorso dell'odio e sulla disinformazione, fa causa allo stato di New York per aver chiesto**  
+  Fonte: Graham Cluley, 23 Jun 2025, 11:39:08 UTC  
+  [Leggi](<https://grahamcluley.com/twitter-refuses-to-explain-what-its-doing-about-hate-speech-and-misinformation-sues-new-york-state-for-asking/>)
 
 - **In che modo l'automazione del flusso di lavoro abilitato può aiutare i SoC a ridurre il burnout**  
   Fonte: The Hacker News, 23 Jun 2025, 11:25:00 UTC  
@@ -62,29 +138,9 @@
   Fonte: The Hacker News, 23 Jun 2025, 09:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html>)
 
-- **CoinMarketCap brevemente hackerato per prosciugare i portafogli cripto tramite popup Fake Web3**  
-  Fonte: BleepingComputer, 22 Jun 2025, 21:47:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/>)
-
-- **Il consiglio comunale di Oxford soffre di violazione che espone due decenni di dati**  
-  Fonte: BleepingComputer, 22 Jun 2025, 15:17:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/>)
-
-- **Lo strumento Snipping di Windows ora ti consente di creare registrazioni GIF animate**  
-  Fonte: BleepingComputer, 22 Jun 2025, 14:11:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/>)
-
 - **Aggiornamento settimanale 457**  
   Fonte: Troy Hunt, 21 Jun 2025, 17:36:24 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-457/>)
-
-- **Hacker russi Bypass Gmail MFA utilizzando le password dell'app rubata**  
-  Fonte: BleepingComputer, 21 Jun 2025, 15:13:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-hackers-bypass-gmail-mfa-using-stolen-app-passwords/>)
-
-- **Tema di WordPress Motors Flaw Mess sfruttati per i conti di amministrazione di hijack**  
-  Fonte: BleepingComputer, 21 Jun 2025, 14:09:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-motors-theme-flaw-mass-exploited-to-hijack-admin-accounts/>)
 
 - **Spider sparso dietro attacchi informatici su M&S e cooperativa, causando danni fino a $ 592 milioni**  
   Fonte: The Hacker News, 21 Jun 2025, 09:44:00 UTC  
@@ -105,6 +161,10 @@
 - **Irann's State TV dirottata a medio marmo tra le tensioni geopolitiche;90 milioni di dollari rubati in rapina crittografica**  
   Fonte: The Hacker News, 20 Jun 2025, 11:54:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/irans-state-tv-hijacked-mid-broadcast.html>)
+
+- **Iranian State TV hackerato, e questa è la guerra moderna**  
+  Fonte: Graham Cluley, 20 Jun 2025, 11:21:43 UTC  
+  [Leggi](<https://grahamcluley.com/iranian-state-tv-hacked-and-thats-modern-warfare/>)
 
 - **Sorveglianza negli Stati Uniti**  
   Fonte: Schneier on Security, 20 Jun 2025, 11:00:43 UTC  
@@ -190,6 +250,10 @@
   Fonte: The Hacker News, 18 Jun 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html>)
 
+- **Sì, la cooperativa ha perso i dati.Avere un buono di shopping da £ 10**  
+  Fonte: Graham Cluley, 18 Jun 2025, 10:59:46 UTC  
+  [Leggi](<https://grahamcluley.com/yes-the-co-op-lost-your-data-have-a-10-shopping-voucher/>)
+
 - **Water Curse impiega 76 account GitHub per consegnare la campagna di malware in più stadi**  
   Fonte: The Hacker News, 18 Jun 2025, 10:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html>)
@@ -202,57 +266,5 @@
   Fonte: The Hacker News, 18 Jun 2025, 06:43:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html>)
 
-- **Patch Veeam CVE-2025-23121: Bug RCE critico valutato 9,9 CVS in backup e replica**  
-  Fonte: The Hacker News, 18 Jun 2025, 05:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/veeam-patches-cve-2025-23121-critical.html>)
 
-- **L'Iran rallenta Internet per prevenire attacchi informatici tra il crescente conflitto regionale**  
-  Fonte: The Hacker News, 18 Jun 2025, 05:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/iran-restricts-internet-access-to.html>)
-
-- **Google Chrome Zero-Day CVE-2025-2783 Sfruttato da Taxoff per distribuire Trinper Backdoor**  
-  Fonte: The Hacker News, 17 Jun 2025, 19:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html>)
-
-- **Il bug Langsmith potrebbe esporre chiavi aperte e dati utente tramite agenti dannosi**  
-  Fonte: The Hacker News, 17 Jun 2025, 17:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html>)
-
-- **L'IA Fix #55: Atari batte il chatgpt a Chess e Apple dice che il "pensiero" è un'illusione**  
-  Fonte: Graham Cluley, 17 Jun 2025, 15:06:59 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-55-atari-beats-chatgpt-at-chess-and-apple-says-ai-thinking-is-an-illusion/>)
-
-- **Silver Fox Apt prende di mira Taiwan con complesso gh0stcringe e holdhands malware di ratto**  
-  Fonte: The Hacker News, 17 Jun 2025, 13:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/silver-fox-apt-targets-taiwan-with.html>)
-
-- **Google avverte di attacchi di ragno sparsi che mirano a team di supporto IT nelle compagnie assicurative statunitensi**  
-  Fonte: The Hacker News, 17 Jun 2025, 12:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html>)
-
-- **I conti del servizio pubblicitario dimenticati ti lasciano a rischio?**  
-  Fonte: The Hacker News, 17 Jun 2025, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html>)
-
-- **Dove l'intelligenza artificiale fornisce valore**  
-  Fonte: Schneier on Security, 17 Jun 2025, 11:08:33 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/where-ai-provides-value.html>)
-
-- **La password 'B' con codifica dura in Sitecore XP sparca il rischio RCE principale nelle distribuzioni aziendali**  
-  Fonte: The Hacker News, 17 Jun 2025, 10:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html>)
-
-- **I backup sono sotto attacco: come proteggere i tuoi backup**  
-  Fonte: The Hacker News, 17 Jun 2025, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/how-to-protect-your-backups-from-ransomware-attacks.html>)
-
-- **Nuovo variante flodrix botnet exploit Langflow AI Server RCE Bug per avviare gli attacchi DDoS**  
-  Fonte: The Hacker News, 17 Jun 2025, 09:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html>)
-
-- **TP-Link Router Flaw CVE-2023-33538 sotto exploit attivo, CISA emette un avviso immediato**  
-  Fonte: The Hacker News, 17 Jun 2025, 08:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-24 06:18:59 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-25 06:19:21 UTC -->
