@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **WhatsApp aggiunge riassunti dei messaggi alimentati dall'intelligenza artificiale per anteprime della chat più veloci**  
+  Fonte: The Hacker News, 26 Jun 2025, 04:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html>)
+
+- **Hacker 'IntelBroker' accusato negli Stati Uniti per violazioni del furto di dati globali**  
+  Fonte: BleepingComputer, 25 Jun 2025, 23:54:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/>)
+
+- **Smashing Security Podcast #423: Operation Endgame, DeepFakes e Dead Slugs**  
+  Fonte: Graham Cluley, 25 Jun 2025, 23:00:41 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-423/>)
+
+- **Gli hacker trasformano screenConnect in malware utilizzando Authenticode Pimborsing**  
+  Fonte: BleepingComputer, 25 Jun 2025, 21:51:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/>)
+
+- **Gli hacker abusano di servizi Microsoft Clickonce e AWS per attacchi furtivi**  
+  Fonte: BleepingComputer, 25 Jun 2025, 20:34:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/oneclik-attacks-use-microsoft-clickonce-and-aws-to-target-energy-sector/>)
+
+- **Nuova ondata di "interviste false" utilizza pacchetti da 35 npm per diffondere malware**  
+  Fonte: BleepingComputer, 25 Jun 2025, 19:24:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/>)
+
+- **Google rilascia la CLI GEMINI con GRATUITA GEMINI 2.5 PRO**  
+  Fonte: BleepingComputer, 25 Jun 2025, 17:53:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/>)
+
+- **Citrix avverte di vulnerabilità Netscaler sfruttata negli attacchi DOS**  
+  Fonte: BleepingComputer, 25 Jun 2025, 17:35:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/>)
+
+- **La vulnerabilità di Noauth influisce ancora al 9% delle app Microsoft ENTRA SaaS due anni dopo la scoperta**  
+  Fonte: The Hacker News, 25 Jun 2025, 16:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html>)
+
+- **Patch winrar bug che consente al malware di lanciare da archivi estratti**  
+  Fonte: BleepingComputer, 25 Jun 2025, 16:55:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/>)
+
+- **Nuove sessioni di hijack di Netscaler di "Citrixbleed 2" netcaler let hacker**  
+  Fonte: BleepingComputer, 25 Jun 2025, 16:10:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/>)
+
+- **Citrix rilascia patch di emergenza per sfruttamento attivamente CVE-2025-6543 in Netscaler ADC**  
+  Fonte: The Hacker News, 25 Jun 2025, 14:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html>)
+
+- **BreachForums Hacking Forum Operatori arrestati in Francia**  
+  Fonte: BleepingComputer, 25 Jun 2025, 14:25:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-operators-reportedly-arrested-in-france/>)
+
+- **Citrix Bleed 2 difetto abilita il furto di token;SAP GUI difetti Esposizione ai dati sensibili al rischio**  
+  Fonte: The Hacker News, 25 Jun 2025, 13:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html>)
+
+- **Cosa sanno LLMS sui loro utenti**  
+  Fonte: Schneier on Security, 25 Jun 2025, 11:04:09 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/what-llms-know-about-their-users.html>)
+
+- **Gruppo di hacktivisti pro-iraniani perde record personali dai giochi sauditi del 2024**  
+  Fonte: The Hacker News, 25 Jun 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/pro-iranian-hacktivist-group-leaks.html>)
+
+- **Fai attenzione al rischio nascosto nel tuo ambiente ENTRA**  
+  Fonte: The Hacker News, 25 Jun 2025, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/beware-hidden-risk-in-your-entra.html>)
+
+- **Il crimine informatico è in aumento in tutta l'Africa**  
+  Fonte: Graham Cluley, 25 Jun 2025, 09:22:59 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/cybercrime-surging-across-africa>)
+
+- **Sonicwall Netextender Trojan e Exploit Connectwise utilizzati negli attacchi di accesso remoto**  
+  Fonte: The Hacker News, 25 Jun 2025, 08:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/sonicwall-netextender-trojan-and.html>)
+
+- **L'attacco della catena di approvvigionamento collegata alla Corea del Nord prende di mira gli sviluppatori con 35 pacchetti NPM dannosi**  
+  Fonte: The Hacker News, 25 Jun 2025, 08:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html>)
+
 - **Microsoft estende gli aggiornamenti di sicurezza di Windows 10 per un anno con nuove opzioni di iscrizione**  
   Fonte: The Hacker News, 25 Jun 2025, 05:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html>)
@@ -26,26 +106,6 @@
   Fonte: The Hacker News, 24 Jun 2025, 18:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-us-visa-rule-requires-applicants-to.html>)
 
-- **Aggiornamento di Windows 10 KB5061087 rilasciato con 13 modifiche e correzioni**  
-  Fonte: BleepingComputer, 24 Jun 2025, 18:07:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5061087-update-released-with-13-changes-and-fixes/>)
-
-- **Microsoft risolve il problema noto che rompe gli aggiornamenti di Windows 11**  
-  Fonte: BleepingComputer, 24 Jun 2025, 17:13:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-that-breaks-windows-11-updates/>)
-
-- **Gli utenti di Windows 10 possono ottenere aggiornamenti di sicurezza estesi utilizzando Microsoft Points**  
-  Fonte: BleepingComputer, 24 Jun 2025, 17:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-extended-security-updates-available-using-reward-points/>)
-
-- **La piattaforma di supporto di Trezor abusata negli attacchi di phishing del furto di criptovalute**  
-  Fonte: BleepingComputer, 24 Jun 2025, 16:54:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trezors-support-platform-abused-in-crypto-theft-phishing-attacks/>)
-
-- **Il nuovo attacco FileFix arma di Windows File Explorer per comandi furtivi**  
-  Fonte: BleepingComputer, 24 Jun 2025, 15:00:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/>)
-
 - **L'IA Fix #56: Chatgpt Traps Man in un culto di uno, e AI è in realtà stupido**  
   Fonte: Graham Cluley, 24 Jun 2025, 14:56:17 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-56/>)
@@ -53,14 +113,6 @@
 - **I ricercatori trovano il modo di chiudere le campagne criptominer usando azioni cattive e xmrogue**  
   Fonte: The Hacker News, 24 Jun 2025, 14:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html>)
-
-- **Come si confrontano i modelli più pendenti di oggi e perché le vittorie continue**  
-  Fonte: BleepingComputer, 24 Jun 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/>)
-
-- **US House Bans Whatsapp sui dispositivi del personale per problemi di sicurezza**  
-  Fonte: BleepingComputer, 24 Jun 2025, 13:43:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/>)
 
 - **Hacker target oltre 70 server Microsoft Exchange per rubare le credenziali tramite keyloggers**  
   Fonte: The Hacker News, 24 Jun 2025, 13:26:00 UTC  
@@ -94,17 +146,9 @@
   Fonte: The Hacker News, 24 Jun 2025, 03:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html>)
 
-- **Gli hacker APT28 usano chat di segnale per lanciare nuovi attacchi di malware in Ucraina**  
-  Fonte: BleepingComputer, 23 Jun 2025, 22:14:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/>)
-
 - **Marks & Spencer Ransomware Attack è stata una buona notizia per altri rivenditori**  
   Fonte: Graham Cluley, 23 Jun 2025, 20:45:32 UTC  
   [Leggi](<https://grahamcluley.com/marks-spencer-ransomware-attack-was-good-news-for-other-retailers/>)
-
-- **Malware su Google Play, Apple App Store ha rubato le tue foto e crittografia**  
-  Fonte: BleepingComputer, 23 Jun 2025, 16:44:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malware-on-google-play-app-store-stole-your-photos-and-crypto/>)
 
 - **Echo Chamber Jailbreak Tricks LLMS come Openai e Google nel generare contenuti dannosi**  
   Fonte: The Hacker News, 23 Jun 2025, 15:58:00 UTC  
@@ -214,57 +258,5 @@
   Fonte: The Hacker News, 19 Jun 2025, 08:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/russian-apt29-exploits-gmail-app.html>)
 
-- **Meta aggiunge il supporto di accesso Passkey a Facebook per gli utenti Android e iOS**  
-  Fonte: The Hacker News, 19 Jun 2025, 06:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/meta-adds-passkey-login-support-to.html>)
 
-- **I nuovi difetti Linux consentono l'accesso completo alla radice tramite PAM e UDISKS tra le principali distribuzioni**  
-  Fonte: The Hacker News, 19 Jun 2025, 03:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html>)
-
-- **Smashing Security Podcast #422: The Curious Case of the Code Copier**  
-  Fonte: Graham Cluley, 18 Jun 2025, 23:00:46 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-422/>)
-
-- **Gang di ransomware Bust in Thailand Hotel Raid**  
-  Fonte: Graham Cluley, 18 Jun 2025, 20:36:06 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-gang-busted-in-thailand-hotel-raid>)
-
-- **La nuova campagna di malware utilizza tunnel cloudflare per consegnare i ratti tramite catene di phishing**  
-  Fonte: The Hacker News, 18 Jun 2025, 15:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html>)
-
-- **Scam di Ghostwriting**  
-  Fonte: Schneier on Security, 18 Jun 2025, 14:37:27 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/ghostwriting-scam.html>)
-
-- **1.500+ giocatori di Minecraft infettati da malware Java mascherato da mod di gioco su GitHub**  
-  Fonte: The Hacker News, 18 Jun 2025, 14:18:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html>)
-
-- **CloudFlare Log Explorer è ora GA, fornendo osservabilità e forense nativi**  
-  Fonte: Cloudflare Blog - Security, 18 Jun 2025, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/logexplorer-ga/>)
-
-- **Fedramp a velocità di avvio: lezioni apprese**  
-  Fonte: The Hacker News, 18 Jun 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/fedramp-at-startup-speed-lessons-learned.html>)
-
-- **Sì, la cooperativa ha perso i dati.Avere un buono di shopping da £ 10**  
-  Fonte: Graham Cluley, 18 Jun 2025, 10:59:46 UTC  
-  [Leggi](<https://grahamcluley.com/yes-the-co-op-lost-your-data-have-a-10-shopping-voucher/>)
-
-- **Water Curse impiega 76 account GitHub per consegnare la campagna di malware in più stadi**  
-  Fonte: The Hacker News, 18 Jun 2025, 10:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/water-curse-hijacks-76-github-accounts.html>)
-
-- **La CISA avverte di sfruttamento attivo del privilegio del kernel Linux Vulnerabilità**  
-  Fonte: The Hacker News, 18 Jun 2025, 06:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html>)
-
-- **Ex analista della CIA condannato a 37 mesi per perdite di documenti di difesa nazionale top secret**  
-  Fonte: The Hacker News, 18 Jun 2025, 06:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-25 06:19:21 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-26 06:18:53 UTC -->
