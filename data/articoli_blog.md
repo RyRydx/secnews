@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Blogging di calamari del venerdì: cosa fare quando trovi una "scopa di uova"**  
+  Fonte: Schneier on Security, 27 Jun 2025, 21:04:46 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-what-to-do-when-you-find-a-squid-egg-mop.html>)
+
+- **Gli hacker di ragno sparsi spostano l'attenzione sull'aviazione, le società di trasporto**  
+  Fonte: BleepingComputer, 27 Jun 2025, 18:20:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/scattered-spider-hackers-shift-focus-to-aviation-transportation-firms/>)
+
+- **Oltre 1.000 dispositivi SOHO hanno violato nella campagna cyber spionage cyber spionage collegata alla Cina**  
+  Fonte: The Hacker News, 27 Jun 2025, 15:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/over-1000-soho-devices-hacked-in-china.html>)
+
+- **La limitazione della Russia di CloudFlare rende inaccessibili i siti**  
+  Fonte: BleepingComputer, 27 Jun 2025, 15:47:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/technology/russias-throttling-of-cloudflare-makes-sites-inaccessible/>)
+
+- **Citrix Bleed 2 difetto ora ritenuto sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 27 Jun 2025, 14:18:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-bleed-2-flaw-now-believed-to-be-exploited-in-attacks/>)
+
+- **Celebra il micro-piccolo e le imprese di medie dimensioni con CloudFlare**  
+  Fonte: Cloudflare Blog - Security, 27 Jun 2025, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/celebrate-micro-small-and-medium-sized-enterprises-day-with-cloudflare/>)
+
+- **Malware di pubblicazione e pubshell utilizzato nell'attacco specifico del Tibet Mustang Panda**  
+  Fonte: The Hacker News, 27 Jun 2025, 13:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html>)
+
+- **L'era dell'integrità**  
+  Fonte: Schneier on Security, 27 Jun 2025, 11:02:54 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/the-age-of-integrity.html>)
+
+- **Case aziendale per analisti agenti di AI SOC**  
+  Fonte: The Hacker News, 27 Jun 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html>)
+
+- **SafePay Ransomware: cosa devi sapere**  
+  Fonte: Graham Cluley, 27 Jun 2025, 10:56:54 UTC  
+  [Leggi](<https://www.fortra.com/blog/safepay-ransomware-what-you-need-know>)
+
+- **Gruppo cinese Silver Fox utilizza siti Web falsi per consegnare Sainbox Rat e Hidden Rootkit**  
+  Fonte: The Hacker News, 27 Jun 2025, 10:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html>)
+
+- **Il gigante della vendita al dettaglio Ahold Delhaize afferma che la violazione dei dati colpisce 2,2 milioni di persone**  
+  Fonte: BleepingComputer, 27 Jun 2025, 09:12:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-says-data-breach-affects-22-million-people/>)
+
+- **Il trasferimento di mosse si affaccia a maggiori minacce quando sono prese di mira le once di scansione e i difetti del CVE**  
+  Fonte: The Hacker News, 27 Jun 2025, 07:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html>)
+
+- **Aggiornamento di Windows 11 KB5060829 rilasciato con 38 nuove modifiche, correzioni**  
+  Fonte: BleepingComputer, 27 Jun 2025, 07:28:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/>)
+
+- **Il malware OneClik prende di mira il settore energetico utilizzando Microsoft ClickOnce e Golang Backdoors**  
+  Fonte: The Hacker News, 27 Jun 2025, 06:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html>)
+
+- **Whole Foods Fornitore UNI ripristina i sistemi fondamentali dopo l'attacco informatico**  
+  Fonte: BleepingComputer, 27 Jun 2025, 06:21:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/whole-foods-supplier-unfi-restores-core-systems-after-cyberattack/>)
+
 - **Le compagnie aeree hawaiane rivelano un attacco informatico, voli non interessati**  
   Fonte: BleepingComputer, 27 Jun 2025, 05:37:04 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/>)
@@ -18,7 +82,7 @@
   Fonte: The Hacker News, 26 Jun 2025, 16:46:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html>)
 
-- **Ex-studente addebitato sull'Università di hacking per un parcheggio economico, violazioni dei dati**  
+- **Ex-studente addebitato all'Università di hacking per un parcheggio economico, violazioni dei dati**  
   Fonte: BleepingComputer, 26 Jun 2025, 16:24:59 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ex-student-charged-over-hacking-university-for-cheap-parking-data-breaches/>)
 
@@ -38,13 +102,9 @@
   Fonte: The Hacker News, 26 Jun 2025, 13:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html>)
 
-- **Il nuovo metodo filefix emerge come una minaccia a seguito del 517% di aumento degli attacchi ClickFix**  
+- **Il nuovo metodo FileFix emerge come una minaccia a seguito del 517% di aumento degli attacchi ClickFix**  
   Fonte: The Hacker News, 26 Jun 2025, 13:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/new-filefix-method-emerges-as-threat.html>)
-
-- **Microsoft 365 'Direct Send' abusato per inviare phishing come utenti interni**  
-  Fonte: BleepingComputer, 26 Jun 2025, 13:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-365-direct-send-abused-to-send-phishing-as-internal-users/>)
 
 - **La Casa Bianca vieta WhatsApp**  
   Fonte: Schneier on Security, 26 Jun 2025, 11:00:49 UTC  
@@ -54,21 +114,9 @@
   Fonte: The Hacker News, 26 Jun 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/the-hidden-risks-of-saas-why-built-in.html>)
 
-- **Microsoft fissa il bug Outlook causando arresti anomali durante l'apertura delle e -mail**  
-  Fonte: BleepingComputer, 26 Jun 2025, 10:26:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-causing-crashes-when-opening-emails/>)
-
-- **Microsoft conferma la sicurezza familiare blocca Google Chrome dal lancio**  
-  Fonte: BleepingComputer, 26 Jun 2025, 09:50:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-family-safety-blocks-google-chrome-from-launching/>)
-
 - **Hacker iraniani APT35 rivolti a esperti di tecnologia israeliana con attacchi di phishing alimentato dall'intelligenza artificiale**  
   Fonte: The Hacker News, 26 Jun 2025, 08:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/iranian-apt35-hackers-targeting-israeli.html>)
-
-- **CISA: hijacks del server Ami Megarac Bug sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 26 Jun 2025, 08:38:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-ami-megarac-bug-that-lets-hackers-brick-servers-now-actively-exploited/>)
 
 - **I criminali informatici sfruttano gli strumenti open source per compromettere gli istituti finanziari in tutta l'Africa**  
   Fonte: The Hacker News, 26 Jun 2025, 07:19:00 UTC  
@@ -82,17 +130,9 @@
   Fonte: The Hacker News, 26 Jun 2025, 04:36:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html>)
 
-- **Hacker 'IntelBroker' accusato negli Stati Uniti per violazioni del furto di dati globali**  
-  Fonte: BleepingComputer, 25 Jun 2025, 23:54:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/>)
-
 - **Smashing Security Podcast #423: Operation Endgame, DeepFakes e Dead Slugs**  
   Fonte: Graham Cluley, 25 Jun 2025, 23:00:41 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-423/>)
-
-- **Gli hacker trasformano screenConnect in malware utilizzando Authenticode Pimborsing**  
-  Fonte: BleepingComputer, 25 Jun 2025, 21:51:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/>)
 
 - **La vulnerabilità di Noauth influisce ancora al 9% delle app Microsoft ENTRA SaaS due anni dopo la scoperta**  
   Fonte: The Hacker News, 25 Jun 2025, 16:56:00 UTC  
@@ -210,7 +250,7 @@
   Fonte: The Hacker News, 23 Jun 2025, 10:46:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/google-adds-multi-layered-defenses-to.html>)
 
-- **⚡ Riepilogo settimanale: Chrome 0-Day, 7,3 Tbps DDO, trucchi di bypass MFA, Trojan bancario e altro ancora**  
+- **⚡ Riepilogo settimanale: Chrome 0-Day, 7,3 Tbps DDoS, trucchi di bypass MFA, Trojan bancario e altro ancora**  
   Fonte: The Hacker News, 23 Jun 2025, 09:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html>)
 
@@ -222,45 +262,5 @@
   Fonte: The Hacker News, 21 Jun 2025, 09:44:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html>)
 
-- **Blogging di calamari del venerdì: video di calamari Gonate**  
-  Fonte: Schneier on Security, 20 Jun 2025, 21:04:03 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-gonate-squid-video.html>)
 
-- **Qilin Ransomware aggiunge la funzione "Call Lawyer" alle vittime di pressioni per il più grande riscatto**  
-  Fonte: The Hacker News, 20 Jun 2025, 16:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html>)
-
-- **Krispy Kreme Hack ha esposto dati sensibili di oltre 160.000 persone**  
-  Fonte: Graham Cluley, 20 Jun 2025, 14:13:38 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/krispy-kreme-hack-exposed-sensitive-data-of-over-160-000-people>)
-
-- **Irann's State TV dirottata a medio marmo tra le tensioni geopolitiche;90 milioni di dollari rubati in rapina crittografica**  
-  Fonte: The Hacker News, 20 Jun 2025, 11:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/irans-state-tv-hijacked-mid-broadcast.html>)
-
-- **Iranian State TV hackerato, e questa è la guerra moderna**  
-  Fonte: Graham Cluley, 20 Jun 2025, 11:21:43 UTC  
-  [Leggi](<https://grahamcluley.com/iranian-state-tv-hacked-and-thats-modern-warfare/>)
-
-- **Sorveglianza negli Stati Uniti**  
-  Fonte: Schneier on Security, 20 Jun 2025, 11:00:43 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/surveillance-in-the-us.html>)
-
-- **Qilin offre il pulsante "Chiama un avvocato" per gli affiliati che tentano di estorcere il riscatto dalle vittime che non pagheranno**  
-  Fonte: Graham Cluley, 20 Jun 2025, 10:11:44 UTC  
-  [Leggi](<https://www.tripwire.com/state-of-security/qilin-offers-call-lawyer-button-affiliates-attempting-extort-ransoms-victims>)
-
-- **6 passaggi a 24/7 Soc Soc Success**  
-  Fonte: The Hacker News, 20 Jun 2025, 10:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/6-steps-to-247-in-house-soc-success.html>)
-
-- **L'attacco DDOS da 7,3 tbps massiccio offre 37,4 TB in 45 secondi, prendendo di mira il provider di hosting**  
-  Fonte: The Hacker News, 20 Jun 2025, 09:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/massive-73-tbps-ddos-attack-delivers.html>)
-
-- **Oltre 200 repository di GitHub trojanizzati trovati nei giocatori e agli sviluppatori di campagne**  
-  Fonte: The Hacker News, 20 Jun 2025, 07:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-27 06:19:12 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-28 06:16:28 UTC -->
