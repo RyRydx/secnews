@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **L'FBI avverte degli attacchi in espansione di Spider sparsi alle compagnie aeree usando l'ingegneria sociale**  
+  Fonte: The Hacker News, 28 Jun 2025, 09:48:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html>)
+
+- **Brea di violazione rotta?La polizia francese arresto cinque membri del famigerato sito di criminalità informatica**  
+  Fonte: Graham Cluley, 28 Jun 2025, 07:58:44 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/breachforums-broken-up-french-police-arrest-five-members-of-notorious-cybercrime-site>)
+
+- **Il malware di GiftedCrook si evolve: dal browser Stealer allo strumento di raccolta dell'intelligence**  
+  Fonte: The Hacker News, 28 Jun 2025, 07:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html>)
+
+- **Il nuovo strumento AI di Facebook chiede di caricare le tue foto per idee per la storia, suscitando problemi di privacy**  
+  Fonte: The Hacker News, 28 Jun 2025, 07:19:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html>)
+
 - **Blogging di calamari del venerdì: cosa fare quando trovi una "scopa di uova"**  
   Fonte: Schneier on Security, 27 Jun 2025, 21:04:46 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-what-to-do-when-you-find-a-squid-egg-mop.html>)
@@ -254,13 +270,5 @@
   Fonte: The Hacker News, 23 Jun 2025, 09:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html>)
 
-- **Aggiornamento settimanale 457**  
-  Fonte: Troy Hunt, 21 Jun 2025, 17:36:24 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-457/>)
 
-- **Spider sparso dietro attacchi informatici su M&S e cooperativa, causando danni fino a $ 592 milioni**  
-  Fonte: The Hacker News, 21 Jun 2025, 09:44:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-28 06:16:28 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-29 06:17:01 UTC -->
