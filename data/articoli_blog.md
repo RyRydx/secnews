@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Google lancia il generatore di video Veo 3, provalo gratuitamente usando i crediti**  
+  Fonte: BleepingComputer, 29 Jun 2025, 23:38:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/>)
+
+- **I difetti Bluetooth potrebbero permettere agli hacker di spiare il microfono**  
+  Fonte: BleepingComputer, 29 Jun 2025, 16:03:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/>)
+
+- **Cloudflare Open-Sources Orange incontra la crittografia end-to-end**  
+  Fonte: BleepingComputer, 29 Jun 2025, 14:11:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/>)
+
+- **Crittiamo le e -mail di scadenza del certificato per tagliare i costi, aumentare la privacy**  
+  Fonte: BleepingComputer, 28 Jun 2025, 14:09:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/lets-encrypt-ends-certificate-expiry-emails-to-cut-costs-boost-privacy/>)
+
 - **L'FBI avverte degli attacchi in espansione di Spider sparsi alle compagnie aeree usando l'ingegneria sociale**  
   Fonte: The Hacker News, 28 Jun 2025, 09:48:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html>)
@@ -22,7 +38,7 @@
   Fonte: Schneier on Security, 27 Jun 2025, 21:04:46 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-what-to-do-when-you-find-a-squid-egg-mop.html>)
 
-- **Gli hacker di ragno sparsi spostano l'attenzione sull'aviazione, le società di trasporto**  
+- **Gli hacker di ragno sparsi spostano l'attenzione per l'aviazione, le società di trasporto**  
   Fonte: BleepingComputer, 27 Jun 2025, 18:20:58 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/scattered-spider-hackers-shift-focus-to-aviation-transportation-firms/>)
 
@@ -78,7 +94,7 @@
   Fonte: The Hacker News, 27 Jun 2025, 06:31:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html>)
 
-- **Whole Foods Fornitore UNI ripristina i sistemi fondamentali dopo l'attacco informatico**  
+- **Whole Foods Fornitore UNI Resta Resta i sistemi centrali dopo l'attacco informatico**  
   Fonte: BleepingComputer, 27 Jun 2025, 06:21:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/whole-foods-supplier-unfi-restores-core-systems-after-cyberattack/>)
 
@@ -90,29 +106,9 @@
   Fonte: BleepingComputer, 26 Jun 2025, 20:27:08 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/>)
 
-- **Il bug della stampante fratello in 689 modelli espone le password di amministrazione predefinite**  
-  Fonte: BleepingComputer, 26 Jun 2025, 18:10:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/brother-printer-bug-in-689-models-exposes-default-admin-passwords/>)
-
 - **Il difetto del registro VSX Open Critical espone milioni di sviluppatori agli attacchi della catena di approvvigionamento**  
   Fonte: The Hacker News, 26 Jun 2025, 16:46:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html>)
-
-- **Ex-studente addebitato all'Università di hacking per un parcheggio economico, violazioni dei dati**  
-  Fonte: BleepingComputer, 26 Jun 2025, 16:24:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ex-student-charged-over-hacking-university-for-cheap-parking-data-breaches/>)
-
-- **Cisco avverte di gravità massima RCE difetti nel motore dei servizi di identità**  
-  Fonte: BleepingComputer, 26 Jun 2025, 15:20:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-rce-flaws-in-identity-services-engine/>)
-
-- **L'uomo si dichiara colpevole di hackerare le reti di presentare servizi di sicurezza**  
-  Fonte: BleepingComputer, 26 Jun 2025, 14:03:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-networks-to-pitch-security-services/>)
-
-- **3 takeaway chiave dagli attacchi di ragno sparsi alle compagnie assicurative**  
-  Fonte: BleepingComputer, 26 Jun 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/3-key-takeaways-from-the-scattered-spider-attacks-on-insurance-firms/>)
 
 - **I difetti RCE critici in Cisco ISE e ISE-PIC consentono agli aggressori non autenticati di ottenere l'accesso alla radice**  
   Fonte: The Hacker News, 26 Jun 2025, 13:24:00 UTC  
@@ -271,4 +267,4 @@
   [Leggi](<https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html>)
 
 
-<!-- Ultimo aggiornamento: 2025-06-29 06:17:01 UTC -->
+<!-- Ultimo aggiornamento: 2025-06-30 06:19:29 UTC -->
