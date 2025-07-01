@@ -2,11 +2,79 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft rimuove la gestione delle password dall'app Authenticator a partire dall'agosto 2025**  
+  Fonte: The Hacker News, 01 Jul 2025, 04:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/microsoft-removes-password-management.html>)
+
+- **Gli Stati Uniti avvertono delle minacce informatiche iraniane sulle infrastrutture critiche**  
+  Fonte: BleepingComputer, 30 Jun 2025, 22:24:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-cyber-threats-on-critical-infrastructure/>)
+
+- **La Germania chiede a Google, Apple di rimuovere Deepseek Ai dagli app store**  
+  Fonte: BleepingComputer, 30 Jun 2025, 18:03:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/germany-asks-google-apple-remove-deepseek-ai-from-app-stores/>)
+
+- **Il senatore si abbassa l'FBI per consigli deboli sulla sicurezza mobile**  
+  Fonte: Krebs on Security, 30 Jun 2025, 17:33:59 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/>)
+
+- **Le agenzie statunitensi avvertono di attacchi informatici iraniani in difesa, reti OT e infrastrutture critiche**  
+  Fonte: The Hacker News, 30 Jun 2025, 16:29:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html>)
+
+- **Microsoft Defender per Office 365 ora blocca gli attacchi di bombardamento e -mail**  
+  Fonte: BleepingComputer, 30 Jun 2025, 16:04:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-defender-for-office-365-now-blocks-email-bombing-attacks/>)
+
+- **La Svizzera afferma che i dati del governo sono stati rubati in Attack Ransomware**  
+  Fonte: BleepingComputer, 30 Jun 2025, 15:39:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/switzerland-says-government-data-stolen-in-ransomware-attack/>)
+
+- **Europol smantella $ 540 milioni di criptovaluta Rete di frode, arresta cinque sospetti**  
+  Fonte: The Hacker News, 30 Jun 2025, 15:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/europol-dismantles-540-million.html>)
+
+- **Hikvision Canada ha ordinato di cessare le operazioni sui rischi per la sicurezza**  
+  Fonte: BleepingComputer, 30 Jun 2025, 14:11:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hikvision-canada-ordered-to-cease-operations-over-security-risks/>)
+
+- **Microsoft avverte di Windows Update ritardi a causa di un timestamp errata**  
+  Fonte: BleepingComputer, 30 Jun 2025, 13:48:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-Windows-security-update-delays-due-to-incorrect-metadata-timestamp/>)
+
+- **Blind Eagle utilizza l'hosting Proton66 per phishing, implementazione di ratti su banche colombiane**  
+  Fonte: The Hacker News, 30 Jun 2025, 13:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html>)
+
+- **Europol aiuta a interrompere l'anello di frode degli investimenti da 540 milioni di dollari**  
+  Fonte: BleepingComputer, 30 Jun 2025, 13:20:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/europol-helps-disrupt-540-million-crypto-investment-fraud-ring/>)
+
+- **FBI: i criminali informatici rubano dati sanitari in posa come investigatori di frode**  
+  Fonte: BleepingComputer, 30 Jun 2025, 12:42:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-cybercriminals-steal-health-data-posing-as-fraud-investigators/>)
+
+- **Oltre 1.200 server Citrix non patch contro il difetto di bypass di autori critici**  
+  Fonte: BleepingComputer, 30 Jun 2025, 11:47:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-1-200-citrix-servers-unpatched-against-critical-auth-bypass-flaw/>)
+
+- **In che modo i timori di sicurezza informatica influenzano la fiducia nei sistemi di voto**  
+  Fonte: Schneier on Security, 30 Jun 2025, 11:05:36 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/06/cyberattacks-shake-voters-trust-in-elections.html>)
+
+- **Sfruttare le credenziali come identificatori unici: un approccio pragmatico agli inventari NHI**  
+  Fonte: The Hacker News, 30 Jun 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html>)
+
+- **⚡ Riepilogo settimanale: hack di compagnie aeree, Citrix 0-Day, Outlook Malware, Trojan bancari e altro ancora**  
+  Fonte: The Hacker News, 30 Jun 2025, 10:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html>)
+
 - **Google lancia il generatore di video Veo 3, provalo gratuitamente usando i crediti**  
   Fonte: BleepingComputer, 29 Jun 2025, 23:38:30 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/>)
 
-- **I difetti Bluetooth potrebbero permettere agli hacker di spiare il microfono**  
+- **I difetti Bluetooth potrebbero consentire agli hacker di spiare il microfono**  
   Fonte: BleepingComputer, 29 Jun 2025, 16:03:19 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/>)
 
@@ -38,21 +106,9 @@
   Fonte: Schneier on Security, 27 Jun 2025, 21:04:46 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-what-to-do-when-you-find-a-squid-egg-mop.html>)
 
-- **Gli hacker di ragno sparsi spostano l'attenzione per l'aviazione, le società di trasporto**  
-  Fonte: BleepingComputer, 27 Jun 2025, 18:20:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/scattered-spider-hackers-shift-focus-to-aviation-transportation-firms/>)
-
 - **Oltre 1.000 dispositivi SOHO hanno violato nella campagna cyber spionage cyber spionage collegata alla Cina**  
   Fonte: The Hacker News, 27 Jun 2025, 15:58:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/over-1000-soho-devices-hacked-in-china.html>)
-
-- **La limitazione della Russia di CloudFlare rende inaccessibili i siti**  
-  Fonte: BleepingComputer, 27 Jun 2025, 15:47:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/russias-throttling-of-cloudflare-makes-sites-inaccessible/>)
-
-- **Citrix Bleed 2 difetto ora ritenuto sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 27 Jun 2025, 14:18:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-bleed-2-flaw-now-believed-to-be-exploited-in-attacks/>)
 
 - **Celebra il micro-piccolo e le imprese di medie dimensioni con CloudFlare**  
   Fonte: Cloudflare Blog - Security, 27 Jun 2025, 14:00:00 UTC  
@@ -78,33 +134,13 @@
   Fonte: The Hacker News, 27 Jun 2025, 10:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html>)
 
-- **Il gigante della vendita al dettaglio Ahold Delhaize afferma che la violazione dei dati colpisce 2,2 milioni di persone**  
-  Fonte: BleepingComputer, 27 Jun 2025, 09:12:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-says-data-breach-affects-22-million-people/>)
-
 - **Il trasferimento di mosse si affaccia a maggiori minacce quando sono prese di mira le once di scansione e i difetti del CVE**  
   Fonte: The Hacker News, 27 Jun 2025, 07:43:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html>)
 
-- **Aggiornamento di Windows 11 KB5060829 rilasciato con 38 nuove modifiche, correzioni**  
-  Fonte: BleepingComputer, 27 Jun 2025, 07:28:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/>)
-
 - **Il malware OneClik prende di mira il settore energetico utilizzando Microsoft ClickOnce e Golang Backdoors**  
   Fonte: The Hacker News, 27 Jun 2025, 06:31:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html>)
-
-- **Whole Foods Fornitore UNI Resta Resta i sistemi centrali dopo l'attacco informatico**  
-  Fonte: BleepingComputer, 27 Jun 2025, 06:21:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/whole-foods-supplier-unfi-restores-core-systems-after-cyberattack/>)
-
-- **Le compagnie aeree hawaiane rivelano un attacco informatico, voli non interessati**  
-  Fonte: BleepingComputer, 27 Jun 2025, 05:37:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/>)
-
-- **FTC approva $ 126 milioni in rimborsi di Fortnite su "Dark Patterns"**  
-  Fonte: BleepingComputer, 26 Jun 2025, 20:27:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/>)
 
 - **Il difetto del registro VSX Open Critical espone milioni di sviluppatori agli attacchi della catena di approvvigionamento**  
   Fonte: The Hacker News, 26 Jun 2025, 16:46:00 UTC  
@@ -226,45 +262,5 @@
   Fonte: The Hacker News, 24 Jun 2025, 09:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/apt28-uses-signal-chat-to-deploy.html>)
 
-- **Il tifone salato collegato in Cina sfrutta la vulnerabilità critica di Cisco per colpire la telecomunicazione canadese**  
-  Fonte: The Hacker News, 24 Jun 2025, 03:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html>)
 
-- **Marks & Spencer Ransomware Attack è stata una buona notizia per altri rivenditori**  
-  Fonte: Graham Cluley, 23 Jun 2025, 20:45:32 UTC  
-  [Leggi](<https://grahamcluley.com/marks-spencer-ransomware-attack-was-good-news-for-other-retailers/>)
-
-- **Echo Chamber Jailbreak Tricks LLMS come Openai e Google nel generare contenuti dannosi**  
-  Fonte: The Hacker News, 23 Jun 2025, 15:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html>)
-
-- **DHS avverte gli hacker filo-iraniani che probabilmente colpiranno le reti statunitensi dopo gli scioperi nucleari iraniani**  
-  Fonte: The Hacker News, 23 Jun 2025, 15:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/dhs-warns-pro-iranian-hackers-likely-to.html>)
-
-- **XDIGO Malware sfrutta le finestre LNK difetto negli attacchi del governo dell'Europa orientale**  
-  Fonte: The Hacker News, 23 Jun 2025, 13:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/xdigo-malware-exploits-windows-lnk-flaw.html>)
-
-- **Twitter rifiuta di spiegare cosa sta facendo sul discorso dell'odio e sulla disinformazione, fa causa allo stato di New York per aver chiesto**  
-  Fonte: Graham Cluley, 23 Jun 2025, 11:39:08 UTC  
-  [Leggi](<https://grahamcluley.com/twitter-refuses-to-explain-what-its-doing-about-hate-speech-and-misinformation-sues-new-york-state-for-asking/>)
-
-- **In che modo l'automazione del flusso di lavoro abilitato può aiutare i SoC a ridurre il burnout**  
-  Fonte: The Hacker News, 23 Jun 2025, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/how-ai-enabled-workflow-automation-can.html>)
-
-- **Fino ad oggi il più grande attacco DDoS**  
-  Fonte: Schneier on Security, 23 Jun 2025, 11:04:52 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/largest-ddos-attack-to-date.html>)
-
-- **Google aggiunge difese a più livelli per proteggere Genai da rapidi attacchi di iniezione**  
-  Fonte: The Hacker News, 23 Jun 2025, 10:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/google-adds-multi-layered-defenses-to.html>)
-
-- **⚡ Riepilogo settimanale: Chrome 0-Day, 7,3 Tbps DDoS, trucchi di bypass MFA, Trojan bancario e altro ancora**  
-  Fonte: The Hacker News, 23 Jun 2025, 09:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-73-tbps-ddos.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-06-30 06:19:29 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-01 06:19:09 UTC -->
