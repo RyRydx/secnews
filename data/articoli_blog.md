@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Le perdite suggeriscono uno strumento simile all'operatore in Chatgpt prima del lancio di GPT-5**  
+  Fonte: BleepingComputer, 03 Jul 2025, 23:22:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/>)
+
+- **Xai prepara il codice Grok 4 in quanto prevede di assumere Claude e Gemini**  
+  Fonte: BleepingComputer, 03 Jul 2025, 19:00:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/xai-prepares-grok-4-code-as-it-plans-to-take-on-claude-and-gemini/>)
+
+- **La polizia smantella l'anello di frode degli investimenti che ruba 10 milioni di euro**  
+  Fonte: BleepingComputer, 03 Jul 2025, 17:53:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/legal/police-dismantles-investment-fraud-ring-stealing-10-million/>)
+
+- **Grafana rilascia l'aggiornamento critico per la sicurezza per il plug -in di rendering di immagini**  
+  Fonte: BleepingComputer, 03 Jul 2025, 16:16:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/>)
+
+- **La risposta mista di Big Tech alle sanzioni del Tesoro degli Stati Uniti**  
+  Fonte: Krebs on Security, 03 Jul 2025, 16:06:05 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/>)
+
+- **Operazioni di frode Android enormi scoperte: iconade, caleidoscopio, malware SMS, truffe NFC**  
+  Fonte: The Hacker News, 03 Jul 2025, 16:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html>)
+
+- **IdealAb conferma i dati rubati in attacco ransomware l'anno scorso**  
+  Fonte: BleepingComputer, 03 Jul 2025, 15:14:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/>)
+
+- **Microsoft indaga sui problemi di accesso online in corso di SharePoint**  
+  Fonte: BleepingComputer, 03 Jul 2025, 14:53:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-ongoing-sharepoint-online-access-issues/>)
+
+- **Microsoft: Exchange Server Server Edition ora disponibile**  
+  Fonte: BleepingComputer, 03 Jul 2025, 12:03:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-server-subscription-edition-now-available/>)
+
+- **Sorveglianza usata da un cartello della droga**  
+  Fonte: Schneier on Security, 03 Jul 2025, 11:06:42 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/surveillance-used-by-a-drug-cartel.html>)
+
+- **Hunters International Ransomware si spegne, rilascia decrittori gratuiti**  
+  Fonte: BleepingComputer, 03 Jul 2025, 10:53:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/>)
+
+- **Oltre 40 estensioni di Firefox dannose target portafogli di criptovaluta, rubando le risorse degli utenti**  
+  Fonte: The Hacker News, 03 Jul 2025, 10:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html>)
+
+- **Le debolezze nascoste negli strumenti di AI SOC di cui nessuno parla**  
+  Fonte: The Hacker News, 03 Jul 2025, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html>)
+
+- **Microsoft chiede agli utenti di ignorare gli errori di configurazione di Windows Firewall**  
+  Fonte: BleepingComputer, 03 Jul 2025, 10:02:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-windows-firewall-config-errors/>)
+
+- **Hacker cinesi Exploit Ivanti CSA Zero-giorni negli attacchi al governo francese, Telecom**  
+  Fonte: The Hacker News, 03 Jul 2025, 09:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html>)
+
 - **La vulnerabilità critica di Cisco in Unified CM concede l'accesso alla radice tramite credenziali statiche**  
   Fonte: The Hacker News, 03 Jul 2025, 04:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html>)
@@ -30,37 +90,9 @@
   Fonte: The Hacker News, 02 Jul 2025, 17:09:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html>)
 
-- **Cisco avverte che Unified CM ha credenziali SSH di root codificata**  
-  Fonte: BleepingComputer, 02 Jul 2025, 17:08:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-removes-unified-cm-callManager-backdoor-root-account/>)
-
-- **Citrix avverte i problemi di accesso dopo la patch di bypass di Netscaler Auth**  
-  Fonte: BleepingComputer, 02 Jul 2025, 16:19:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-warns-of-login-issues-after-netscaler-auth-bypass-patch/>)
-
-- **Il plug -in del forminatori di difetto espone siti WordPress agli attacchi di acquisizione**  
-  Fonte: BleepingComputer, 02 Jul 2025, 15:38:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/forminator-plugin-flaw-exposes-wordpress-sites-to-takeover-attacks/>)
-
 - **Il governo svizzero avverte gli aggressori hanno rubato dati sensibili, dopo l'attacco ransomware a Radix**  
   Fonte: Graham Cluley, 02 Jul 2025, 15:31:15 UTC  
   [Leggi](<https://www.fortra.com/blog/government-attackers-stolen-sensitive-data-ransomware-attack>)
-
-- **Microsoft corregge la funzione "Stampa su PDF" rotta da Windows Update**  
-  Fonte: BleepingComputer, 02 Jul 2025, 13:52:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-print-to-pdf-feature-broken-by-windows-update/>)
-
-- **Dozzine di componenti aggiuntivi finti Firefox Firefox per drenare la criptovaluta**  
-  Fonte: BleepingComputer, 02 Jul 2025, 13:16:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/>)
-
-- **Grok 4 individuato prima del lancio con funzionalità di codifica speciali**  
-  Fonte: BleepingComputer, 02 Jul 2025, 12:22:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/>)
-
-- **Microsoft: DNS Emissione blocca la consegna di Codici OTP online Exchange**  
-  Fonte: BleepingComputer, 02 Jul 2025, 12:21:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-links-dns-issue-to-exchange-online-otp-delivery-failures/>)
 
 - **Ubuntu disabilita le protezioni Spectre/Meltdown**  
   Fonte: Schneier on Security, 02 Jul 2025, 11:02:22 UTC  
@@ -86,18 +118,6 @@
   Fonte: The Hacker News, 02 Jul 2025, 05:48:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html>)
 
-- **Qantas rivela un attacco informatico tra violazioni dell'aviazione ragno sparse**  
-  Fonte: BleepingComputer, 02 Jul 2025, 00:54:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/>)
-
-- **AT&T lancia la funzione "Wireless Lock" per bloccare gli attacchi di scambio SIM**  
-  Fonte: BleepingComputer, 01 Jul 2025, 20:23:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/atandt-rolls-out-wireless-lock-feature-to-block-sim-swap-attacks/>)
-
-- **Microsoft Open-Sources vs Code Copilot Chat Extension su GitHub**  
-  Fonte: BleepingComputer, 01 Jul 2025, 19:11:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-open-sources-vs-code-copilot-chat-extension-on-github/>)
-
 - **La vulnerabilità critica nel MCP antropico espone le macchine per sviluppatori a exploit remoti**  
   Fonte: The Hacker News, 01 Jul 2025, 18:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html>)
@@ -118,7 +138,7 @@
   Fonte: Graham Cluley, 01 Jul 2025, 11:36:05 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/50-customers-of-french-bank-hit-after-insider-helped-sim-swap-scammers>)
 
-- **Il blackout iraniano ha influenzato le campagne di disinformazione**  
+- **Il blackout iraniano ha influenzato campagne di disinformazione**  
   Fonte: Schneier on Security, 01 Jul 2025, 11:07:51 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/07/iranian-blackout-affected-misinformation-campaigns.html>)
 
@@ -226,33 +246,5 @@
   Fonte: The Hacker News, 27 Jun 2025, 06:31:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html>)
 
-- **Il difetto del registro VSX Open Critical espone milioni di sviluppatori agli attacchi della catena di approvvigionamento**  
-  Fonte: The Hacker News, 26 Jun 2025, 16:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html>)
 
-- **I difetti RCE critici in Cisco ISE e ISE-PIC consentono agli aggressori non autenticati di ottenere l'accesso alla radice**  
-  Fonte: The Hacker News, 26 Jun 2025, 13:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html>)
-
-- **Il nuovo metodo FileFix emerge come una minaccia a seguito del 517% di aumento degli attacchi ClickFix**  
-  Fonte: The Hacker News, 26 Jun 2025, 13:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/new-filefix-method-emerges-as-threat.html>)
-
-- **La Casa Bianca vieta WhatsApp**  
-  Fonte: Schneier on Security, 26 Jun 2025, 11:00:49 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/white-house-bans-whatsapp.html>)
-
-- **I rischi nascosti di SaaS: perché le protezioni integrate non sono sufficienti per la moderna resilienza dei dati**  
-  Fonte: The Hacker News, 26 Jun 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/the-hidden-risks-of-saas-why-built-in.html>)
-
-- **Hacker iraniani APT35 rivolti a esperti di tecnologia israeliana con attacchi di phishing alimentato dall'intelligenza artificiale**  
-  Fonte: The Hacker News, 26 Jun 2025, 08:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/iranian-apt35-hackers-targeting-israeli.html>)
-
-- **I criminali informatici sfruttano gli strumenti open source per compromettere gli istituti finanziari in tutta l'Africa**  
-  Fonte: The Hacker News, 26 Jun 2025, 07:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-03 06:18:56 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-04 06:18:47 UTC -->
