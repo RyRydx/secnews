@@ -2,6 +2,54 @@
 
 ## Ultimi 7 giorni
 
+- **Il produttore di video AI di Google Veo 3 è ora disponibile tramite $ 20 gemelli**  
+  Fonte: BleepingComputer, 04 Jul 2025, 23:17:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/>)
+
+- **CHATGPT Deep Research testa nuovi connettori per un maggiore contesto**  
+  Fonte: BleepingComputer, 04 Jul 2025, 22:20:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/>)
+
+- **Blogging di calamari del venerdì: come la pelle di calamari distorce la luce**  
+  Fonte: Schneier on Security, 04 Jul 2025, 21:01:56 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-how-squid-skin-distorts-light.html>)
+
+- **Difficoltà tecniche o attacco informatico?Il sito Web di Ingram Micro va giù appena in tempo per il fine settimana di vacanza**  
+  Fonte: Graham Cluley, 04 Jul 2025, 15:43:19 UTC  
+  [Leggi](<https://grahamcluley.com/technical-difficulties-or-cyber-attack-ingram-micros-website-goes-down-just-in-time-for-the-holiday-weekend/>)
+
+- **L'app di stalkerware di gatto versa i segreti di 62.000 utenti, incluso il proprio amministratore**  
+  Fonte: Graham Cluley, 04 Jul 2025, 15:37:59 UTC  
+  [Leggi](<https://grahamcluley.com/catwatchful-stalkerware-app-spills-secrets-of-62000-users-including-its-own-admin/>)
+
+- **Ingram Micro subisce l'interruzione globale come sistemi interni inaccessibili**  
+  Fonte: BleepingComputer, 04 Jul 2025, 15:14:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ingram-micro-suffers-global-outage-as-internal-systems-inaccessible/>)
+
+- **Hacker Fleaks Telefónica Dati presumibilmente rubati in una nuova violazione**  
+  Fonte: BleepingComputer, 04 Jul 2025, 15:11:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-leaks-telef-nica-data-allegedly-stolen-in-a-new-breach/>)
+
+- **NightEagle Apt sfrutta Microsoft Exchange Flaw per colpire i settori militari e tecnologici cinesi**  
+  Fonte: The Hacker News, 04 Jul 2025, 12:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html>)
+
+- **Hunters International Ransomware Group si spegne, ma si raggrupperà con una nuova veste?**  
+  Fonte: Graham Cluley, 04 Jul 2025, 10:27:15 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hunters-international-ransomware-group-shuts-down-but-will-it-regroup-under-a-new-guise>)
+
+- **I tuoi agenti di intelligenza artificiale potrebbero perdite di dati: guarda questo webinar per imparare a fermarlo**  
+  Fonte: The Hacker News, 04 Jul 2025, 09:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html>)
+
+- **Le vulnerabilità critiche sudo consentono agli utenti locali di ottenere l'accesso alla root su Linux, influendo sulle principali distro**  
+  Fonte: The Hacker News, 04 Jul 2025, 09:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html>)
+
+- **Google ha ordinato di pagare $ 314 milioni per abusare dei dati cellulari degli utenti Android senza autorizzazione**  
+  Fonte: The Hacker News, 04 Jul 2025, 07:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html>)
+
 - **Le perdite suggeriscono uno strumento simile all'operatore in Chatgpt prima del lancio di GPT-5**  
   Fonte: BleepingComputer, 03 Jul 2025, 23:22:31 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/>)
@@ -54,10 +102,6 @@
   Fonte: The Hacker News, 03 Jul 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/the-hidden-weaknesses-in-ai-soc-tools.html>)
 
-- **Microsoft chiede agli utenti di ignorare gli errori di configurazione di Windows Firewall**  
-  Fonte: BleepingComputer, 03 Jul 2025, 10:02:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-windows-firewall-config-errors/>)
-
 - **Hacker cinesi Exploit Ivanti CSA Zero-giorni negli attacchi al governo francese, Telecom**  
   Fonte: The Hacker News, 03 Jul 2025, 09:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html>)
@@ -73,18 +117,6 @@
 - **Smashing Security Podcast #424: sorveglianza, spyware e snafus a guida autonoma**  
   Fonte: Graham Cluley, 02 Jul 2025, 23:03:04 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-424/>)
-
-- **Malware macos di nimdoor a furto di criptoor si rivive quando è ucciso**  
-  Fonte: BleepingComputer, 02 Jul 2025, 19:36:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nimdoor-crypto-theft-macos-malware-revives-itself-when-killed/>)
-
-- **DOJ indaga sull'ex negoziatore di ransomware su kickback di estorsione**  
-  Fonte: BleepingComputer, 02 Jul 2025, 19:14:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/doj-investigates-ex-ransomware-negotiator-over-extortion-kickbacks/>)
-
-- **La Spagna arresta gli hacker che hanno preso di mira politici e giornalisti**  
-  Fonte: BleepingComputer, 02 Jul 2025, 17:30:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/spain-arrests-hackers-who-targeted-politicians-and-journalists/>)
 
 - **Hacker nordcoreani target Web3 con malware NIM e utilizzare ClickFix nella campagna Babyshark**  
   Fonte: The Hacker News, 02 Jul 2025, 17:09:00 UTC  
@@ -138,7 +170,7 @@
   Fonte: Graham Cluley, 01 Jul 2025, 11:36:05 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/50-customers-of-french-bank-hit-after-insider-helped-sim-swap-scammers>)
 
-- **Il blackout iraniano ha influenzato campagne di disinformazione**  
+- **Il blackout iraniano ha influenzato le campagne di disinformazione**  
   Fonte: Schneier on Security, 01 Jul 2025, 11:07:51 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/07/iranian-blackout-affected-misinformation-campaigns.html>)
 
@@ -206,45 +238,5 @@
   Fonte: The Hacker News, 28 Jun 2025, 07:19:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html>)
 
-- **Blogging di calamari del venerdì: cosa fare quando trovi una "scopa di uova"**  
-  Fonte: Schneier on Security, 27 Jun 2025, 21:04:46 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-what-to-do-when-you-find-a-squid-egg-mop.html>)
 
-- **Oltre 1.000 dispositivi SOHO hanno violato nella campagna cyber spionage cyber spionage collegata alla Cina**  
-  Fonte: The Hacker News, 27 Jun 2025, 15:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/over-1000-soho-devices-hacked-in-china.html>)
-
-- **Celebra il micro-piccolo e le imprese di medie dimensioni con CloudFlare**  
-  Fonte: Cloudflare Blog - Security, 27 Jun 2025, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/celebrate-micro-small-and-medium-sized-enterprises-day-with-cloudflare/>)
-
-- **Malware di pubblicazione e pubshell utilizzato nell'attacco specifico del Tibet Mustang Panda**  
-  Fonte: The Hacker News, 27 Jun 2025, 13:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/pubload-and-pubshell-malware-used-in.html>)
-
-- **L'era dell'integrità**  
-  Fonte: Schneier on Security, 27 Jun 2025, 11:02:54 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/the-age-of-integrity.html>)
-
-- **Case aziendale per analisti agenti di AI SOC**  
-  Fonte: The Hacker News, 27 Jun 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/business-case-for-agentic-ai-soc.html>)
-
-- **SafePay Ransomware: cosa devi sapere**  
-  Fonte: Graham Cluley, 27 Jun 2025, 10:56:54 UTC  
-  [Leggi](<https://www.fortra.com/blog/safepay-ransomware-what-you-need-know>)
-
-- **Gruppo cinese Silver Fox utilizza siti Web falsi per consegnare Sainbox Rat e Hidden Rootkit**  
-  Fonte: The Hacker News, 27 Jun 2025, 10:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/chinese-group-silver-fox-uses-fake.html>)
-
-- **Il trasferimento di mosse si affaccia a maggiori minacce quando sono prese di mira le once di scansione e i difetti del CVE**  
-  Fonte: The Hacker News, 27 Jun 2025, 07:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html>)
-
-- **La campagna di OneClik Red Team prende di mira il settore energetico utilizzando Microsoft ClickOnce e Golang Backdoors**  
-  Fonte: The Hacker News, 27 Jun 2025, 06:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/oneclik-malware-targets-energy-sector.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-04 06:18:47 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-05 06:16:12 UTC -->
