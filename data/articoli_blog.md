@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Ingram Micro Interruzione causata da SafePay Ransomware Attack**  
+  Fonte: BleepingComputer, 05 Jul 2025, 15:58:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/>)
+
+- **Taiwan NSB avvisa pubblici sui rischi di dati da Tiktok, Weibo e Rednote Over China Ties**  
+  Fonte: The Hacker News, 05 Jul 2025, 06:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html>)
+
+- **Avviso: le interfacce JDWP esposte conducono al mining di cripto**  
+  Fonte: The Hacker News, 05 Jul 2025, 05:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html>)
+
 - **Il produttore di video AI di Google Veo 3 è ora disponibile tramite $ 20 gemelli**  
   Fonte: BleepingComputer, 04 Jul 2025, 23:17:02 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/>)
@@ -89,10 +101,6 @@
 - **Sorveglianza usata da un cartello della droga**  
   Fonte: Schneier on Security, 03 Jul 2025, 11:06:42 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/07/surveillance-used-by-a-drug-cartel.html>)
-
-- **Hunters International Ransomware si spegne, rilascia decrittori gratuiti**  
-  Fonte: BleepingComputer, 03 Jul 2025, 10:53:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/>)
 
 - **Oltre 40 estensioni di Firefox dannose target portafogli di criptovaluta, rubando le risorse degli utenti**  
   Fonte: The Hacker News, 03 Jul 2025, 10:53:00 UTC  
@@ -222,21 +230,5 @@
   Fonte: Graham Cluley, 29 Jun 2025, 20:36:15 UTC  
   [Leggi](<https://grahamcluley.com/when-hackers-become-hitmen/>)
 
-- **L'FBI avverte degli attacchi in espansione di Spider sparsi alle compagnie aeree usando l'ingegneria sociale**  
-  Fonte: The Hacker News, 28 Jun 2025, 09:48:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/fbi-warns-of-scattered-spiders.html>)
 
-- **Brea di violazione rotta?La polizia francese arresto cinque membri del famigerato sito di criminalità informatica**  
-  Fonte: Graham Cluley, 28 Jun 2025, 07:58:44 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/breachforums-broken-up-french-police-arrest-five-members-of-notorious-cybercrime-site>)
-
-- **Il malware di GiftedCrook si evolve: dal browser Stealer allo strumento di raccolta dell'intelligence**  
-  Fonte: The Hacker News, 28 Jun 2025, 07:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/giftedcrook-malware-evolves-from.html>)
-
-- **Il nuovo strumento AI di Facebook chiede di caricare le tue foto per idee per la storia, suscitando problemi di privacy**  
-  Fonte: The Hacker News, 28 Jun 2025, 07:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/facebooks-new-ai-tool-requests-photo.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-05 06:16:12 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-06 06:15:58 UTC -->
