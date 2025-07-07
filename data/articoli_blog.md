@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **TAG-140 dispiega il ratto Drat V2, prendendo di mira i settori del governo indiano, della difesa e delle ferrovie**  
+  Fonte: The Hacker News, 07 Jul 2025, 04:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html>)
+
+- **Openi afferma che GPT-5 unifierà le scoperte da diversi modelli**  
+  Fonte: BleepingComputer, 07 Jul 2025, 00:22:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-5-will-unify-breakthroughs-from-different-models/>)
+
+- **Hands On con il nuovo supporto di Markdown di Windows 11 Notepad**  
+  Fonte: BleepingComputer, 06 Jul 2025, 23:55:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11-notepads-new-markdown-support/>)
+
+- **Chatgpt sta testando la funzione di studio dirompente insieme**  
+  Fonte: BleepingComputer, 06 Jul 2025, 23:07:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-testing-disruptive-study-together-feature/>)
+
 - **Ingram Micro Interruzione causata da SafePay Ransomware Attack**  
   Fonte: BleepingComputer, 05 Jul 2025, 15:58:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/>)
@@ -13,10 +29,6 @@
 - **Avviso: le interfacce JDWP esposte conducono al mining di cripto**  
   Fonte: The Hacker News, 05 Jul 2025, 05:44:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html>)
-
-- **Il produttore di video AI di Google Veo 3 è ora disponibile tramite $ 20 gemelli**  
-  Fonte: BleepingComputer, 04 Jul 2025, 23:17:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/>)
 
 - **CHATGPT Deep Research testa nuovi connettori per un maggiore contesto**  
   Fonte: BleepingComputer, 04 Jul 2025, 22:20:14 UTC  
@@ -85,18 +97,6 @@
 - **Operazioni di frode Android enormi scoperte: iconade, caleidoscopio, malware SMS, truffe NFC**  
   Fonte: The Hacker News, 03 Jul 2025, 16:02:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html>)
-
-- **IdealAb conferma i dati rubati in attacco ransomware l'anno scorso**  
-  Fonte: BleepingComputer, 03 Jul 2025, 15:14:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/>)
-
-- **Microsoft indaga sui problemi di accesso online in corso di SharePoint**  
-  Fonte: BleepingComputer, 03 Jul 2025, 14:53:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-ongoing-sharepoint-online-access-issues/>)
-
-- **Microsoft: Exchange Server Server Edition ora disponibile**  
-  Fonte: BleepingComputer, 03 Jul 2025, 12:03:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-server-subscription-edition-now-available/>)
 
 - **Sorveglianza usata da un cartello della droga**  
   Fonte: Schneier on Security, 03 Jul 2025, 11:06:42 UTC  
@@ -226,9 +226,5 @@
   Fonte: The Hacker News, 30 Jun 2025, 10:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html>)
 
-- **Quando gli hacker diventano hitmen**  
-  Fonte: Graham Cluley, 29 Jun 2025, 20:36:15 UTC  
-  [Leggi](<https://grahamcluley.com/when-hackers-become-hitmen/>)
 
-
-<!-- Ultimo aggiornamento: 2025-07-06 06:15:58 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-07 06:19:25 UTC -->
