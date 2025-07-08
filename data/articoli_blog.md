@@ -2,6 +2,58 @@
 
 ## Ultimi 7 giorni
 
+- **CISA aggiunge quattro vulnerabilità critiche al catalogo KEV a causa dello sfruttamento attivo**  
+  Fonte: The Hacker News, 08 Jul 2025, 05:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html>)
+
+- **Presunto hacker cinese legato al tifone di seta arrestato per cyberespionage**  
+  Fonte: BleepingComputer, 08 Jul 2025, 01:39:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/alleged-chinese-hacker-tied-to-silk-typhoon-arrested-for-cyberespionage/>)
+
+- **Exploit pubblici rilasciati per Citrix Bleed 2 Netscaler Flaw, Patch Now**  
+  Fonte: BleepingComputer, 07 Jul 2025, 22:57:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/public-exploits-released-for-citrixbleed-2-netscaler-flaw-patch-now/>)
+
+- **Il dipendente ottiene $ 920 per le credenziali utilizzate in una rapina bancaria da $ 140 milioni**  
+  Fonte: BleepingComputer, 07 Jul 2025, 19:10:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/>)
+
+- **Atomic MacOS Infostealer aggiunge backdoor per attacchi persistenti**  
+  Fonte: BleepingComputer, 07 Jul 2025, 18:24:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/>)
+
+- **La campagna di avvelenamento SEO si rivolge a 8.500+ utenti SMB con malware mascherato come strumenti AI**  
+  Fonte: The Hacker News, 07 Jul 2025, 17:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html>)
+
+- **Qantas viene estorto nel recente cyberack cyberack di dati di dati**  
+  Fonte: BleepingComputer, 07 Jul 2025, 17:02:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/>)
+
+- **La campagna di spyware di "Batavia" di Windows è destinato a dozzine di organi russe**  
+  Fonte: BleepingComputer, 07 Jul 2025, 16:48:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/>)
+
+- **Dipendente arrestato dopo il fornitore di servizi della banca centrale del Brasile hackerato per US $ 140 milioni**  
+  Fonte: Graham Cluley, 07 Jul 2025, 15:25:52 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/employee-arrested-after-brazils-central-bank-service-provider-hacked-for-us-140-million>)
+
+- **Gli hacker abusano hanno fatto trapelare lo strumento di team di Shellter Red per distribuire Infostealers**  
+  Fonte: BleepingComputer, 07 Jul 2025, 14:49:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/>)
+
+- **⚡ Riepilogo settimanale: Chrome 0-Day, Ivanti Exploit, MacOS REEALS, Crypto Heists e altro ancora**  
+  Fonte: The Hacker News, 07 Jul 2025, 11:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html>)
+
+- **Nascondere iniezioni prompt nei documenti accademici**  
+  Fonte: Schneier on Security, 07 Jul 2025, 11:20:46 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/hiding-prompt-injections-in-academic-papers.html>)
+
+- **Sicurezza della produzione: perché le password predefinite devono andare**  
+  Fonte: The Hacker News, 07 Jul 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/manufacturing-security-why-default.html>)
+
 - **TAG-140 dispiega il ratto Drat V2, prendendo di mira i settori del governo indiano, della difesa e delle ferrovie**  
   Fonte: The Hacker News, 07 Jul 2025, 04:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html>)
@@ -46,14 +98,6 @@
   Fonte: Graham Cluley, 04 Jul 2025, 15:37:59 UTC  
   [Leggi](<https://grahamcluley.com/catwatchful-stalkerware-app-spills-secrets-of-62000-users-including-its-own-admin/>)
 
-- **Ingram Micro subisce l'interruzione globale come sistemi interni inaccessibili**  
-  Fonte: BleepingComputer, 04 Jul 2025, 15:14:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ingram-micro-suffers-global-outage-as-internal-systems-inaccessible/>)
-
-- **Hacker Fleaks Telefónica Dati presumibilmente rubati in una nuova violazione**  
-  Fonte: BleepingComputer, 04 Jul 2025, 15:11:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-leaks-telef-nica-data-allegedly-stolen-in-a-new-breach/>)
-
 - **NightEagle Apt sfrutta Microsoft Exchange Flaw per colpire i settori militari e tecnologici cinesi**  
   Fonte: The Hacker News, 04 Jul 2025, 12:59:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html>)
@@ -73,22 +117,6 @@
 - **Google ha ordinato di pagare $ 314 milioni per abusare dei dati cellulari degli utenti Android senza autorizzazione**  
   Fonte: The Hacker News, 04 Jul 2025, 07:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html>)
-
-- **Le perdite suggeriscono uno strumento simile all'operatore in Chatgpt prima del lancio di GPT-5**  
-  Fonte: BleepingComputer, 03 Jul 2025, 23:22:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/>)
-
-- **Xai prepara il codice Grok 4 in quanto prevede di assumere Claude e Gemini**  
-  Fonte: BleepingComputer, 03 Jul 2025, 19:00:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/xai-prepares-grok-4-code-as-it-plans-to-take-on-claude-and-gemini/>)
-
-- **La polizia smantella l'anello di frode degli investimenti che ruba 10 milioni di euro**  
-  Fonte: BleepingComputer, 03 Jul 2025, 17:53:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/police-dismantles-investment-fraud-ring-stealing-10-million/>)
-
-- **Grafana rilascia l'aggiornamento critico per la sicurezza per il plug -in di rendering di immagini**  
-  Fonte: BleepingComputer, 03 Jul 2025, 16:16:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/>)
 
 - **La risposta mista di Big Tech alle sanzioni del Tesoro degli Stati Uniti**  
   Fonte: Krebs on Security, 03 Jul 2025, 16:06:05 UTC  
@@ -194,37 +222,5 @@
   Fonte: The Hacker News, 01 Jul 2025, 07:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html>)
 
-- **Microsoft rimuove la gestione delle password dall'app Authenticator a partire dall'agosto 2025**  
-  Fonte: The Hacker News, 01 Jul 2025, 04:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/microsoft-removes-password-management.html>)
 
-- **Il senatore si abbassa l'FBI per consigli deboli sulla sicurezza mobile**  
-  Fonte: Krebs on Security, 30 Jun 2025, 17:33:59 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/>)
-
-- **Le agenzie statunitensi avvertono di crescenti attacchi informatici iraniani alla difesa, alle reti OT e alle infrastrutture critiche**  
-  Fonte: The Hacker News, 30 Jun 2025, 16:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html>)
-
-- **Europol smantella $ 540 milioni di criptovaluta Rete di frode, arresta cinque sospetti**  
-  Fonte: The Hacker News, 30 Jun 2025, 15:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/europol-dismantles-540-million.html>)
-
-- **Blind Eagle utilizza l'hosting Proton66 per phishing, implementazione di ratti su banche colombiane**  
-  Fonte: The Hacker News, 30 Jun 2025, 13:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/blind-eagle-uses-proton66-hosting-for.html>)
-
-- **In che modo i timori di sicurezza informatica influenzano la fiducia nei sistemi di voto**  
-  Fonte: Schneier on Security, 30 Jun 2025, 11:05:36 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/06/cyberattacks-shake-voters-trust-in-elections.html>)
-
-- **Sfruttare le credenziali come identificatori unici: un approccio pragmatico agli inventari NHI**  
-  Fonte: The Hacker News, 30 Jun 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/leveraging-credentials-as-unique.html>)
-
-- **⚡ Riepilogo settimanale: hack di compagnie aeree, Citrix 0-Day, Outlook Malware, Trojan bancari e altro ancora**  
-  Fonte: The Hacker News, 30 Jun 2025, 10:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-07 06:19:25 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-08 06:18:47 UTC -->
