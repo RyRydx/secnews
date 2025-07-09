@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft Patch Martedì, edizione di luglio 2025**  
+  Fonte: Krebs on Security, 09 Jul 2025, 00:53:33 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/07/microsoft-patch-tuesday-july-2025-edition/>)
+
+- **Samsung annuncia i principali miglioramenti della sicurezza che arrivano a una UI 8**  
+  Fonte: BleepingComputer, 08 Jul 2025, 20:43:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/samsung-announces-major-security-enhancements-coming-to-one-ui-8/>)
+
+- **M&S conferma l'ingegneria sociale portata a un enorme attacco ransomware**  
+  Fonte: BleepingComputer, 08 Jul 2025, 20:39:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/>)
+
+- **Nuovo attacco di taptrap Android Fools utenti con invisibile trucco dell'interfaccia utente**  
+  Fonte: BleepingComputer, 08 Jul 2025, 19:39:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-android-taptrap-attack-fools-users-with-invisible-ui-trick/>)
+
+- **Windows 10 KB5062554 Aggiornamento cumulativo rilasciato con 13 modifiche, correzioni**  
+  Fonte: BleepingComputer, 08 Jul 2025, 17:44:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-cumulative-update-released-with-13-changes-fixes/>)
+
+- **Gli hacker usano la licenza per lo strumento Shellter trapelato per diffondere Lumma Stealer e Sectoprat malware**  
+  Fonte: The Hacker News, 08 Jul 2025, 17:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/hackers-use-leaked-shellter-tool.html>)
+
+- **Windows 11 KB5062553 e KB5062552 Aggiornamenti cumulativi rilasciati**  
+  Fonte: BleepingComputer, 08 Jul 2025, 17:32:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062553-and-kb5062552-cumulative-updates-released/>)
+
+- **Microsoft Luglio 2025 Patch martedì fissa un giorno zero, 137 difetti**  
+  Fonte: BleepingComputer, 08 Jul 2025, 17:30:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2025-patch-tuesday-fixes-one-zero-day-137-flaws/>)
+
+- **AnatSA Android Banking Trojan colpisce 90.000 utenti con l'app PDF falsa su Google Play**  
+  Fonte: The Hacker News, 08 Jul 2025, 16:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/anatsa-android-banking-trojan-hits.html>)
+
+- **Malware Android AnatSA infiltra su Google Play per indirizzare le banche statunitensi**  
+  Fonte: BleepingComputer, 08 Jul 2025, 15:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/android-malware-anatsa-infiltrates-google-play-to-target-us-banks/>)
+
+- **L'IA Fix #58: Un AI gestisce un negozio nel terreno e l'ossessione di AI per il numero 27**  
+  Fonte: Graham Cluley, 08 Jul 2025, 14:16:30 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-58/>)
+
+- **Superamento di barriere tecniche nella virtualizzazione desktop e applicazioni**  
+  Fonte: BleepingComputer, 08 Jul 2025, 14:09:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/overcoming-technical-barriers-in-desktop-and-application-virtualization/>)
+
+- **Estensioni cromate dannose con installazioni di 1,7 milioni trovate nel Web Store**  
+  Fonte: BleepingComputer, 08 Jul 2025, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-17m-installs-found-on-web-store/>)
+
+- **Richiesta di pull dannosa mira a oltre 6.000 sviluppatori tramite estensione ethcode vs code vulnerabile**  
+  Fonte: The Hacker News, 08 Jul 2025, 13:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/malicious-pull-request-infects-6000.html>)
+
+- **5 modi in cui gli attacchi basati sull'identità stanno violando la vendita al dettaglio**  
+  Fonte: The Hacker News, 08 Jul 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html>)
+
+- **Rondodox Botnet sfrutta i difetti in TBK DVR e router a quattro fedeli per lanciare attacchi DDoS**  
+  Fonte: The Hacker News, 08 Jul 2025, 11:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/rondodox-botnet-exploits-flaws-in-tbk.html>)
+
+- **Baittrap: oltre 17.000 siti Web di notizie false catturate alimentando le frodi degli investimenti a livello globale**  
+  Fonte: The Hacker News, 08 Jul 2025, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/baittrap-over-17000-fake-news-websites.html>)
+
+- **I ricercatori scoprono Batavia Windows Spyware che ruba i documenti dalle aziende russe**  
+  Fonte: The Hacker News, 08 Jul 2025, 08:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/researchers-uncover-batavia-windows.html>)
+
+- **Aggiornamento settimanale 459**  
+  Fonte: Troy Hunt, 08 Jul 2025, 07:59:20 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-459/>)
+
 - **CISA aggiunge quattro vulnerabilità critiche al catalogo KEV a causa dello sfruttamento attivo**  
   Fonte: The Hacker News, 08 Jul 2025, 05:08:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html>)
@@ -26,21 +102,9 @@
   Fonte: The Hacker News, 07 Jul 2025, 17:26:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html>)
 
-- **Qantas viene estorto nel recente cyberack cyberack di dati di dati**  
-  Fonte: BleepingComputer, 07 Jul 2025, 17:02:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/>)
-
-- **La campagna di spyware di "Batavia" di Windows è destinato a dozzine di organi russe**  
-  Fonte: BleepingComputer, 07 Jul 2025, 16:48:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/>)
-
 - **Dipendente arrestato dopo il fornitore di servizi della banca centrale del Brasile hackerato per US $ 140 milioni**  
   Fonte: Graham Cluley, 07 Jul 2025, 15:25:52 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/employee-arrested-after-brazils-central-bank-service-provider-hacked-for-us-140-million>)
-
-- **Gli hacker abusano hanno fatto trapelare lo strumento di team di Shellter Red per distribuire Infostealers**  
-  Fonte: BleepingComputer, 07 Jul 2025, 14:49:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/>)
 
 - **⚡ Riepilogo settimanale: Chrome 0-Day, Ivanti Exploit, MacOS REEALS, Crypto Heists e altro ancora**  
   Fonte: The Hacker News, 07 Jul 2025, 11:26:00 UTC  
@@ -58,22 +122,6 @@
   Fonte: The Hacker News, 07 Jul 2025, 04:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html>)
 
-- **Openi afferma che GPT-5 unifierà le scoperte da diversi modelli**  
-  Fonte: BleepingComputer, 07 Jul 2025, 00:22:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-5-will-unify-breakthroughs-from-different-models/>)
-
-- **Hands On con il nuovo supporto di Markdown di Windows 11 Notepad**  
-  Fonte: BleepingComputer, 06 Jul 2025, 23:55:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11-notepads-new-markdown-support/>)
-
-- **Chatgpt sta testando la funzione di studio dirompente insieme**  
-  Fonte: BleepingComputer, 06 Jul 2025, 23:07:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-testing-disruptive-study-together-feature/>)
-
-- **Ingram Micro Interruzione causata da SafePay Ransomware Attack**  
-  Fonte: BleepingComputer, 05 Jul 2025, 15:58:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/>)
-
 - **Taiwan NSB avvisa pubblici sui rischi di dati da Tiktok, Weibo e Rednote Over China Ties**  
   Fonte: The Hacker News, 05 Jul 2025, 06:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html>)
@@ -81,10 +129,6 @@
 - **Avviso: le interfacce JDWP esposte conducono al mining di cripto**  
   Fonte: The Hacker News, 05 Jul 2025, 05:44:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html>)
-
-- **CHATGPT Deep Research testa nuovi connettori per un maggiore contesto**  
-  Fonte: BleepingComputer, 04 Jul 2025, 22:20:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/>)
 
 - **Blogging di calamari del venerdì: come la pelle di calamari distorce la luce**  
   Fonte: Schneier on Security, 04 Jul 2025, 21:01:56 UTC  
@@ -182,45 +226,5 @@
   Fonte: Troy Hunt, 02 Jul 2025, 08:08:12 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-458/>)
 
-- **Lo strumento V0 AI di Vercel è armato dai criminali informatici per creare rapidamente pagine di accesso false su scala**  
-  Fonte: The Hacker News, 02 Jul 2025, 05:48:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html>)
 
-- **La vulnerabilità critica nel MCP antropico espone le macchine per sviluppatori a exploit remoti**  
-  Fonte: The Hacker News, 01 Jul 2025, 18:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/critical-vulnerability-in-anthropics.html>)
-
-- **TA829 e UNK_GREENSEC Condividi tattiche e infrastrutture nelle campagne di malware in corso**  
-  Fonte: The Hacker News, 01 Jul 2025, 16:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html>)
-
-- **L'IA Fix #57: AI è il miglior hacker negli Stati Uniti e AI di autoapprendimento**  
-  Fonte: Graham Cluley, 01 Jul 2025, 14:05:04 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-57/>)
-
-- **Nuovo difetto in IDE come il codice Visual Studio consente alle estensioni dannose di bypassare lo stato verificato**  
-  Fonte: The Hacker News, 01 Jul 2025, 13:51:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html>)
-
-- **50 clienti della banca francese hanno colpito dopo che l'insider ha aiutato SIM scammer**  
-  Fonte: Graham Cluley, 01 Jul 2025, 11:36:05 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/50-customers-of-french-bank-hit-after-insider-helped-sim-swap-scammers>)
-
-- **Il blackout iraniano ha influenzato le campagne di disinformazione**  
-  Fonte: Schneier on Security, 01 Jul 2025, 11:07:51 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/iranian-blackout-affected-misinformation-campaigns.html>)
-
-- **Un nuovo modello di maturità per la sicurezza del browser: chiusura del rischio dell'ultimo miglio**  
-  Fonte: The Hacker News, 01 Jul 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html>)
-
-- **Chrome Zero-Day CVE-2025-6554 In Active Attack-Google Imblast Security Update**  
-  Fonte: The Hacker News, 01 Jul 2025, 08:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html>)
-
-- **Facilitatore degli arresti statunitensi nel regime dei lavoratori IT nordcoreani;Sequestra 29 domini e incursioni 21 fattorie per laptop**  
-  Fonte: The Hacker News, 01 Jul 2025, 07:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-08 06:18:47 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-09 06:18:21 UTC -->
