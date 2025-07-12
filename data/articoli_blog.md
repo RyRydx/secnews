@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **I calamari hanno dominato gli oceani nel tardo cretaceo**  
+  Fonte: Schneier on Security, 11 Jul 2025, 21:04:17 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/squid-dominated-the-oceans-in-the-late-cretaceous.html>)
+
+- **CHATTURE APPOSSIMENTE DELLA password "123456" per 64 milioni di candidati al lavoro di McDonald**  
+  Fonte: BleepingComputer, 11 Jul 2025, 20:26:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/>)
+
+- **Exploit per pre-outh Fortinet Fortiweb RCE Flaw Release, Patch Now**  
+  Fonte: BleepingComputer, 11 Jul 2025, 19:41:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/>)
+
+- **WordPress Gravity Forms Developer hackerato per spingere i plugin backdoored**  
+  Fonte: BleepingComputer, 11 Jul 2025, 19:30:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/>)
+
+- **Tradecraft nell'era dell'informazione**  
+  Fonte: Schneier on Security, 11 Jul 2025, 16:06:26 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/tradecraft-in-the-information-age.html>)
+
+- **NVIDIA condivide la guida per difendere GDDR6 GPU contro gli attacchi di Rowhammer**  
+  Fonte: BleepingComputer, 11 Jul 2025, 15:39:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/>)
+
+- **Il giorno zero che avrebbe potuto compromettere ogni cursore e utente di Windsurf**  
+  Fonte: BleepingComputer, 11 Jul 2025, 15:03:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/>)
+
+- **CISA Tags Citrix Bleed 2 come sfruttato, dà alle agenzie un giorno per patch**  
+  Fonte: BleepingComputer, 11 Jul 2025, 14:45:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/>)
+
+- **Fortinet rilascia patch per il difetto di iniezione di SQL critica in FortiWeb (CVE-2025-25257)**  
+  Fonte: The Hacker News, 11 Jul 2025, 14:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html>)
+
+- **Il giocatore di basket russo arrestato nel caso ransomware nonostante sia "inutile con i computer"**  
+  Fonte: Graham Cluley, 11 Jul 2025, 13:42:58 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/russian-basketball-player-arrested-in-ransomware-case-despite-being-useless-with-computers>)
+
+- **Le vulnerabilità Bluetooth di perfektblue espongono milioni di veicoli all'esecuzione del codice remoto**  
+  Fonte: The Hacker News, 11 Jul 2025, 12:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/perfektblue-bluetooth-vulnerabilities.html>)
+
+- **Paddy Power e Betfair hanno subito una violazione dei dati**  
+  Fonte: Graham Cluley, 11 Jul 2025, 11:02:38 UTC  
+  [Leggi](<https://grahamcluley.com/paddy-power-and-betfair-have-suffered-a-data-breach/>)
+
+- **Proteggere i dati nell'era AI**  
+  Fonte: The Hacker News, 11 Jul 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/securing-data-in-ai-era.html>)
+
+- **Vulnerabilità del server FTP ala critica (CVE-2025-47812) viene attivamente sfruttata in natura**  
+  Fonte: The Hacker News, 11 Jul 2025, 10:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/critical-wing-ftp-server-vulnerability.html>)
+
+- **Ransomware Pay2Key sostenuto dall'Iran con una quota di profitto dell'80% per i criminali informatici**  
+  Fonte: The Hacker News, 11 Jul 2025, 10:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/iranian-backed-pay2key-ransomware.html>)
+
 - **CISA aggiunge Citrix Netscaler CVE-2025-5777 al catalogo KEV come Exploit attivi Enterprises Target**  
   Fonte: The Hacker News, 11 Jul 2025, 04:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html>)
@@ -34,9 +94,9 @@
   Fonte: BleepingComputer, 10 Jul 2025, 14:02:12 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fbis-cjis-demystified-best-practices-for-passwords-mfa-and-access-control/>)
 
-- **Quattro arrestati nel Regno Unito per M&S, Cooperativa, Harrod Cyberacks**  
+- **Quattro arrestati nel Regno Unito per M&S, Co-op, Harrods Cyberacks**  
   Fonte: BleepingComputer, 10 Jul 2025, 13:46:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrod-cyberattacks/>)
+  [Leggi](<https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrods-cyberattacks/>)
 
 - **Quattro arrestati in un attacco informatico da £ 440 milioni su Marks & Spencer, Co-op e Harrods**  
   Fonte: The Hacker News, 10 Jul 2025, 12:13:00 UTC  
@@ -74,33 +134,9 @@
   Fonte: BleepingComputer, 09 Jul 2025, 22:37:27 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-on-ios-moves-backups-fully-to-icloud/>)
 
-- **Microsoft conferma che la sincronizzazione di Windows Server Update Services (WSUS) è ​​rotta**  
-  Fonte: BleepingComputer, 09 Jul 2025, 20:58:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/>)
-
-- **Qantas conferma che la violazione dei dati influisce su 5,7 milioni di clienti**  
-  Fonte: BleepingComputer, 09 Jul 2025, 20:14:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/>)
-
-- **Google rivela i dettagli sulla protezione avanzata di Android per Chrome**  
-  Fonte: BleepingComputer, 09 Jul 2025, 19:31:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-reveals-details-on-androids-advanced-protection-for-chrome/>)
-
-- **La violazione del deposito bitcoin espone i dati di quasi 27.000 utenti crittografici**  
-  Fonte: BleepingComputer, 09 Jul 2025, 17:33:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bitcoin-depot-breach-exposes-data-of-nearly-27-000-crypto-users/>)
-
 - **Gold Melody IAB Exploit Exposed ASP.NET Machine Keys per l'accesso non autorizzato agli obiettivi**  
   Fonte: The Hacker News, 09 Jul 2025, 16:26:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html>)
-
-- **Ruckus Networks lascia gravi difetti senza patch nei dispositivi di gestione**  
-  Fonte: BleepingComputer, 09 Jul 2025, 15:42:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ruckus-networks-leaves-severe-flaws-unpatched-in-management-devices/>)
-
-- **Ingram Micro inizia a ripristinare i sistemi dopo l'attacco ransomware**  
-  Fonte: BleepingComputer, 09 Jul 2025, 15:13:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ingram-micro-starts-restoring-systems-after-ransomware-attack/>)
 
 - **Mentre le inondazioni del Texas, anche Internet - con bugie pericolose**  
   Fonte: Graham Cluley, 09 Jul 2025, 14:25:38 UTC  
@@ -206,45 +242,5 @@
   Fonte: Graham Cluley, 06 Jul 2025, 03:45:00 UTC  
   [Leggi](<https://grahamcluley.com/ingram-micro-confirms-it-has-been-hit-by-ransomware/>)
 
-- **Taiwan NSB avvisa pubblici sui rischi di dati da Tiktok, Weibo e Rednote Over China Ties**  
-  Fonte: The Hacker News, 05 Jul 2025, 06:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html>)
 
-- **Avviso: le interfacce JDWP esposte conducono al mining di cripto**  
-  Fonte: The Hacker News, 05 Jul 2025, 05:44:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html>)
-
-- **Blogging di calamari del venerdì: come la pelle di calamari distorce la luce**  
-  Fonte: Schneier on Security, 04 Jul 2025, 21:01:56 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-how-squid-skin-distorts-light.html>)
-
-- **Difficoltà tecniche o attacco informatico?Il sito Web di Ingram Micro va giù appena in tempo per il fine settimana di vacanza**  
-  Fonte: Graham Cluley, 04 Jul 2025, 15:43:19 UTC  
-  [Leggi](<https://grahamcluley.com/technical-difficulties-or-cyber-attack-ingram-micros-website-goes-down-just-in-time-for-the-holiday-weekend/>)
-
-- **L'app di stalkerware di gatto versa i segreti di 62.000 utenti, incluso il proprio amministratore**  
-  Fonte: Graham Cluley, 04 Jul 2025, 15:37:59 UTC  
-  [Leggi](<https://grahamcluley.com/catwatchful-stalkerware-app-spills-secrets-of-62000-users-including-its-own-admin/>)
-
-- **NightEagle Apt sfrutta Microsoft Exchange Flaw per colpire i settori militari e tecnologici cinesi**  
-  Fonte: The Hacker News, 04 Jul 2025, 12:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html>)
-
-- **Hunters International Ransomware Group si spegne, ma si raggrupperà con una nuova veste?**  
-  Fonte: Graham Cluley, 04 Jul 2025, 10:27:15 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hunters-international-ransomware-group-shuts-down-but-will-it-regroup-under-a-new-guise>)
-
-- **I tuoi agenti di intelligenza artificiale potrebbero perdite di dati: guarda questo webinar per imparare a fermarlo**  
-  Fonte: The Hacker News, 04 Jul 2025, 09:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html>)
-
-- **Le vulnerabilità critiche sudo consentono agli utenti locali di ottenere l'accesso alla root su Linux, influendo sulle principali distro**  
-  Fonte: The Hacker News, 04 Jul 2025, 09:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html>)
-
-- **Google ha ordinato di pagare $ 314 milioni per abusare dei dati cellulari degli utenti Android senza autorizzazione**  
-  Fonte: The Hacker News, 04 Jul 2025, 07:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-11 06:18:53 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-12 06:16:44 UTC -->
