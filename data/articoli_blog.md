@@ -2,13 +2,29 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 460**  
+  Fonte: Troy Hunt, 13 Jul 2025, 02:32:08 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-460/>)
+
+- **Gpuhammer: la nuova variante di attacco di Rowhammer degrada i modelli AI su NVIDIA GPUS**  
+  Fonte: The Hacker News, 12 Jul 2025, 17:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html>)
+
+- **Gli hacker stanno sfruttando il difetto RCE critico nel server FTP ala**  
+  Fonte: BleepingComputer, 12 Jul 2025, 14:13:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-rce-flaw-in-wing-ftp-server/>)
+
+- **Oltre 600 app Laravel esposte all'esecuzione del codice remoto a causa di app_keys trapelati su GitHub**  
+  Fonte: The Hacker News, 12 Jul 2025, 12:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html>)
+
 - **I calamari hanno dominato gli oceani nel tardo cretaceo**  
   Fonte: Schneier on Security, 11 Jul 2025, 21:04:17 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/07/squid-dominated-the-oceans-in-the-late-cretaceous.html>)
 
-- **CHATTURE APPOSSIMENTE DELLA password "123456" per 64 milioni di candidati al lavoro di McDonald**  
+- **CHATTURE APPOSE DELLA password "123456" per 64 milioni di applicazioni di chatbot di McDonald's Job**  
   Fonte: BleepingComputer, 11 Jul 2025, 20:26:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/>)
+  [Leggi](<https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-chatbot-applications/>)
 
 - **Exploit per pre-outh Fortinet Fortiweb RCE Flaw Release, Patch Now**  
   Fonte: BleepingComputer, 11 Jul 2025, 19:41:39 UTC  
@@ -24,7 +40,7 @@
 
 - **NVIDIA condivide la guida per difendere GDDR6 GPU contro gli attacchi di Rowhammer**  
   Fonte: BleepingComputer, 11 Jul 2025, 15:39:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nvidia-issues-guidance-to-defend-gddr6-gpus-against-rowhammer/>)
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nvidia-shares-guidance-to-defend-gddr6-gpus-against-rowhammer-attacks/>)
 
 - **Il giorno zero che avrebbe potuto compromettere ogni cursore e utente di Windsurf**  
   Fonte: BleepingComputer, 11 Jul 2025, 15:03:14 UTC  
@@ -130,10 +146,6 @@
   Fonte: Troy Hunt, 09 Jul 2025, 22:50:20 UTC  
   [Leggi](<https://www.troyhunt.com/welcoming-push-security-to-have-i-been-pwneds-partner-program/>)
 
-- **Microsoft Authenticator su iOS sposta completamente i backup su iCloud**  
-  Fonte: BleepingComputer, 09 Jul 2025, 22:37:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-on-ios-moves-backups-fully-to-icloud/>)
-
 - **Gold Melody IAB Exploit Exposed ASP.NET Machine Keys per l'accesso non autorizzato agli obiettivi**  
   Fonte: The Hacker News, 09 Jul 2025, 16:26:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html>)
@@ -238,9 +250,5 @@
   Fonte: The Hacker News, 07 Jul 2025, 04:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html>)
 
-- **Ingram Micro conferma che è stato colpito da ransomware**  
-  Fonte: Graham Cluley, 06 Jul 2025, 03:45:00 UTC  
-  [Leggi](<https://grahamcluley.com/ingram-micro-confirms-it-has-been-hit-by-ransomware/>)
 
-
-<!-- Ultimo aggiornamento: 2025-07-12 06:16:44 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-13 06:17:02 UTC -->
