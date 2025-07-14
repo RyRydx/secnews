@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **La vulnerabilità dell'ESIM nelle carte EUICC di Kigen espone miliardi di dispositivi IoT ad attacchi dannosi**  
+  Fonte: The Hacker News, 14 Jul 2025, 05:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html>)
+
+- **Windows 10 KB5062554 Aggiornamento Breaks Funzione di ricerca del pannello emoji**  
+  Fonte: BleepingComputer, 13 Jul 2025, 18:15:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/>)
+
+- **Google Gemini Flaw Hijacks Email Riepilogo per il phishing**  
+  Fonte: BleepingComputer, 13 Jul 2025, 14:38:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/>)
+
 - **Aggiornamento settimanale 460**  
   Fonte: Troy Hunt, 13 Jul 2025, 02:32:08 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-460/>)
@@ -98,21 +110,9 @@
   Fonte: BleepingComputer, 10 Jul 2025, 16:26:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/>)
 
-- **Perfektblue Bluetooth difetti Impatto Mercedes, Volkswagen, Skoda Cars**  
-  Fonte: BleepingComputer, 10 Jul 2025, 16:01:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/perfektblue-bluetooth-flaws-impact-mercedes-volkswagen-skoda-cars/>)
-
 - **Le aziende di giochi falsi e AI spingono malware su utenti di criptovaluta tramite telegramma e discordia**  
   Fonte: The Hacker News, 10 Jul 2025, 14:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html>)
-
-- **CJIS di FBI Demystified: Best Practices for Passwords, MFA e Access Control**  
-  Fonte: BleepingComputer, 10 Jul 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbis-cjis-demystified-best-practices-for-passwords-mfa-and-access-control/>)
-
-- **Quattro arrestati nel Regno Unito per M&S, Co-op, Harrods Cyberacks**  
-  Fonte: BleepingComputer, 10 Jul 2025, 13:46:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrods-cyberattacks/>)
 
 - **Quattro arrestati in un attacco informatico da £ 440 milioni su Marks & Spencer, Co-op e Harrods**  
   Fonte: The Hacker News, 10 Jul 2025, 12:13:00 UTC  
@@ -246,9 +246,5 @@
   Fonte: The Hacker News, 07 Jul 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/manufacturing-security-why-default.html>)
 
-- **TAG-140 dispiega il ratto Drat V2, prendendo di mira i settori del governo indiano, della difesa e delle ferrovie**  
-  Fonte: The Hacker News, 07 Jul 2025, 04:51:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/tag-140-deploys-drat-v2-rat-targeting.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-07-13 06:17:02 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-14 06:20:04 UTC -->
