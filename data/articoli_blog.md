@@ -2,6 +2,50 @@
 
 ## Ultimi 7 giorni
 
+- **Doge Denizen Marko Elez Chiave API trapelata per XAI**  
+  Fonte: Krebs on Security, 15 Jul 2025, 01:23:43 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/>)
+
+- **Il Regno Unito lancia un programma di ricerca di vulnerabilità per esperti esterni**  
+  Fonte: BleepingComputer, 14 Jul 2025, 20:21:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-launches-vulnerability-research-program-for-external-experts/>)
+
+- **Rapporto della Conferenza di criminalità informatica di Cambridge**  
+  Fonte: Schneier on Security, 14 Jul 2025, 18:46:05 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/report-from-the-cambridge-cybercrime-conference.html>)
+
+- **Interlock Ransomware adotta il metodo FileFix per fornire malware**  
+  Fonte: BleepingComputer, 14 Jul 2025, 18:36:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/interlock-ransomware-adopts-filefix-method-to-deliver-malware/>)
+
+- **Il sospetto insolito: Git Repos**  
+  Fonte: The Hacker News, 14 Jul 2025, 17:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html>)
+
+- **La nuova variante di ratto interlock basato su PHP utilizza il meccanismo di consegna FileFix per target più settori**  
+  Fonte: The Hacker News, 14 Jul 2025, 16:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html>)
+
+- **Madelle gigabyte vulnerabili al malware UEFI bypassing di avvio sicuro**  
+  Fonte: BleepingComputer, 14 Jul 2025, 16:30:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/gigabyte-motherboards-vulnerable-to-uefi-malware-bypassing-secure-boot/>)
+
+- **⚡ Riepilogo settimanale: arresti di ragno sparsi, exploit per auto, malware MacOS, Fortinet RCE e altro ancora**  
+  Fonte: The Hacker News, 14 Jul 2025, 12:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html>)
+
+- **L'estensione VScode dannosa nel cursore IDE ha portato a un furto di criptovalute da $ 500k**  
+  Fonte: BleepingComputer, 14 Jul 2025, 12:26:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-vscode-extension-in-cursor-ide-led-to-500k-crypto-theft/>)
+
+- **Elmo è stato violato, afferma che Trump è nei file Epstein, chiede che gli ebrei vengano sterminati**  
+  Fonte: Graham Cluley, 14 Jul 2025, 09:33:54 UTC  
+  [Leggi](<https://grahamcluley.com/elmo-has-been-hacked-claims-trump-is-in-epstein-files-calls-for-jews-to-be-exterminated/>)
+
+- **CBI spegne £ 390k U.K. Support Tech Support Scam, arresta gli agenti chiave nel call center Noida**  
+  Fonte: The Hacker News, 14 Jul 2025, 08:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html>)
+
 - **La vulnerabilità dell'ESIM nelle carte EUICC di Kigen espone miliardi di dispositivi IoT ad attacchi dannosi**  
   Fonte: The Hacker News, 14 Jul 2025, 05:27:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html>)
@@ -58,10 +102,6 @@
   Fonte: BleepingComputer, 11 Jul 2025, 15:03:14 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/>)
 
-- **CISA Tags Citrix Bleed 2 come sfruttato, dà alle agenzie un giorno per patch**  
-  Fonte: BleepingComputer, 11 Jul 2025, 14:45:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/>)
-
 - **Fortinet rilascia patch per il difetto di iniezione di SQL critica in FortiWeb (CVE-2025-25257)**  
   Fonte: The Hacker News, 11 Jul 2025, 14:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html>)
@@ -94,10 +134,6 @@
   Fonte: The Hacker News, 11 Jul 2025, 04:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html>)
 
-- **Windows 11 ora utilizza il motore JScript9Legacy per una migliore sicurezza**  
-  Fonte: BleepingComputer, 10 Jul 2025, 20:46:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/windows-11-now-uses-jscript9legacy-engine-for-improved-security/>)
-
 - **Gli arresti del Regno Unito quattro nel gruppo Ransom "Spesed Spider"**  
   Fonte: Krebs on Security, 10 Jul 2025, 17:31:10 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/>)
@@ -105,10 +141,6 @@
 - **La vulnerabilità critica MCP-Remote abilita l'esecuzione del codice remoto, influendo su oltre 437.000 download**  
   Fonte: The Hacker News, 10 Jul 2025, 17:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html>)
-
-- **Russian Pro Basketball Player arrestato per presunto ruolo negli attacchi ransomware**  
-  Fonte: BleepingComputer, 10 Jul 2025, 16:26:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/>)
 
 - **Le aziende di giochi falsi e AI spingono malware su utenti di criptovaluta tramite telegramma e discordia**  
   Fonte: The Hacker News, 10 Jul 2025, 14:41:00 UTC  
@@ -162,7 +194,7 @@
   Fonte: The Hacker News, 09 Jul 2025, 13:28:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html>)
 
-- **Le sanzioni statunitensi dell'Andariel nordcoreano dietro il regime di lavoratori IT fraudolenti**  
+- **Le sanzioni statunitensi hacker di Andariel nordcoreano dietro il regime di lavoratori IT fraudolenti**  
   Fonte: The Hacker News, 09 Jul 2025, 11:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/us-sanctions-north-korean-andariel.html>)
 
@@ -222,29 +254,5 @@
   Fonte: Troy Hunt, 08 Jul 2025, 07:59:20 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-459/>)
 
-- **CISA aggiunge quattro vulnerabilità critiche al catalogo KEV a causa dello sfruttamento attivo**  
-  Fonte: The Hacker News, 08 Jul 2025, 05:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/cisa-adds-four-critical-vulnerabilities.html>)
 
-- **La campagna di avvelenamento SEO si rivolge a 8.500+ utenti SMB con malware mascherato come strumenti AI**  
-  Fonte: The Hacker News, 07 Jul 2025, 17:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html>)
-
-- **Dipendente arrestato dopo il fornitore di servizi della banca centrale del Brasile hackerato per US $ 140 milioni**  
-  Fonte: Graham Cluley, 07 Jul 2025, 15:25:52 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/employee-arrested-after-brazils-central-bank-service-provider-hacked-for-us-140-million>)
-
-- **⚡ Riepilogo settimanale: Chrome 0-Day, Ivanti Exploit, MacOS REEALS, Crypto Heists e altro ancora**  
-  Fonte: The Hacker News, 07 Jul 2025, 11:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html>)
-
-- **Nascondere iniezioni prompt nei documenti accademici**  
-  Fonte: Schneier on Security, 07 Jul 2025, 11:20:46 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/hiding-prompt-injections-in-academic-papers.html>)
-
-- **Sicurezza della produzione: perché le password predefinite devono andare**  
-  Fonte: The Hacker News, 07 Jul 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/manufacturing-security-why-default.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-14 06:20:04 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-15 06:19:58 UTC -->
