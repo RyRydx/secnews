@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Password scadenti TATTLE ON AI ASSAGGIO IL CAKER BOT PARADOX.AI**  
+  Fonte: Krebs on Security, 18 Jul 2025, 01:23:20 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/>)
+
+- **Citrix sanguina 2 settimane sfruttate prima dei POC mentre Citrix negò gli attacchi**  
+  Fonte: BleepingComputer, 17 Jul 2025, 23:37:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-bleed-2-exploited-weeks-before-pocs-as-citrix-denied-attacks/>)
+
+- **VMware corregge quattro bug ESXI Zero-Day sfruttati su PWN2Own Berlin**  
+  Fonte: BleepingComputer, 17 Jul 2025, 21:36:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/>)
+
+- **Chiamate vocali di Microsoft Teams Abuse per spingere il malware Matanbuchus**  
+  Fonte: BleepingComputer, 17 Jul 2025, 21:28:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-teams-voice-calls-abused-to-push-matanbuchus-malware/>)
+
+- **Google fa causa per interrompere il botnet Badbox 2.0 che infetta 10 milioni di dispositivi**  
+  Fonte: BleepingComputer, 17 Jul 2025, 19:59:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-sues-to-disrupt-badbox-20-botnet-infecting-10-million-devices/>)
+
+- **Malware Lamehug utilizza Ai LLM per creare comandi di dati di dati Windows in tempo reale**  
+  Fonte: BleepingComputer, 17 Jul 2025, 18:57:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/>)
+
+- **Gli hacker usano i repository GitHub per ospitare malware AMADEY e deti di dati, bypassing Filters**  
+  Fonte: The Hacker News, 17 Jul 2025, 17:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html>)
+
+- **Hacker ruba $ 27 milioni in Bigone Exchange Crypto Breach**  
+  Fonte: BleepingComputer, 17 Jul 2025, 16:54:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-steals-27-million-in-bigone-exchange-crypto-breach/>)
+
+- **Gli hacker cinesi hanno violato la guardia nazionale per rubare configurazioni di rete**  
+  Fonte: BleepingComputer, 17 Jul 2025, 16:02:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-national-guard-to-steal-network-configurations/>)
+
+- **BUG CISCO ISE di gravità massima consente l'esecuzione del comando pre-auth, patch ora**  
+  Fonte: BleepingComputer, 17 Jul 2025, 15:53:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-cisco-ise-bug-allows-pre-auth-command-execution-patch-now/>)
+
+- **Hacker Exploit Apache HTTP Server Flaw Per distribuire il minatore di criptovaluta Linuxsys**  
+  Fonte: The Hacker News, 17 Jul 2025, 14:11:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html>)
+
+- **Smashing Security Podcast #426: Choo Choo Scegli di ignorare la vulnerabilità**  
+  Fonte: Graham Cluley, 17 Jul 2025, 11:46:19 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-426/>)
+
+- **Europol interrompe il gruppo di hacktivisti non AME057 (16) collegato agli attacchi DDOS contro l'Ucraina**  
+  Fonte: The Hacker News, 17 Jul 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html>)
+
+- **Vulnerabilità di sicurezza in Iceblock**  
+  Fonte: Schneier on Security, 17 Jul 2025, 11:06:51 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/security-vulnerabilities-in-iceblock.html>)
+
+- **CTEM vs ASM vs Vulnerability Management: cosa devono sapere i leader della sicurezza nel 2025**  
+  Fonte: The Hacker News, 17 Jul 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html>)
+
+- **Gli hacker cinesi prendono di mira il settore dei semiconduttori di Taiwan con cobalt strike, backdoor personalizzati**  
+  Fonte: The Hacker News, 17 Jul 2025, 07:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html>)
+
 - **Cisco avverte del difetto ISE critico che consente agli aggressori non autenticati di eseguire il codice root**  
   Fonte: The Hacker News, 17 Jul 2025, 05:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html>)
@@ -34,21 +98,9 @@
   Fonte: BleepingComputer, 16 Jul 2025, 16:49:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-says-1111-outage-not-caused-by-attack-or-bgp-hijack/>)
 
-- **Dispositivi Sonicwall SMA hackerati con il ransomware di ransomware di Ovastep Rootkit**  
-  Fonte: BleepingComputer, 16 Jul 2025, 15:33:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-sma-devices-hacked-with-overstep-rootkit-tied-to-ransomware/>)
-
-- **Nuovi hack di Fortinet Fortiweb probabilmente collegati a exploit RCE pubblici**  
-  Fonte: BleepingComputer, 16 Jul 2025, 14:58:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-fortinet-fortiweb-hacks-likely-linked-to-public-rce-exploits/>)
-
 - **POLICE SMANTLE Diskstation Ransomware Gang Target Dispositivi NAS, Arresto sospettato Ringleader**  
   Fonte: Graham Cluley, 16 Jul 2025, 14:15:30 UTC  
   [Leggi](<https://www.fortra.com/blog/police-dismantle-diskstation-ransomware-gang>)
-
-- **Europol interrompe il gruppo di hacktivisti DDOS Pro-Russia None057 (16)**  
-  Fonte: BleepingComputer, 16 Jul 2025, 14:07:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/europol-disrupts-pro-russian-noname05716-ddos-hacktivist-group/>)
 
 - **UNC6148 Backdoors I dispositivi Sonicwall SMA 100 Series a Outstep Rootkit**  
   Fonte: The Hacker News, 16 Jul 2025, 14:00:00 UTC  
@@ -61,14 +113,6 @@
 - **Gli agenti AI si comportano come dipendenti con accesso alle root: ecco come riguadagnare il controllo**  
   Fonte: The Hacker News, 16 Jul 2025, 11:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html>)
-
-- **Risultati di riferimento Grok 4: top matematica, al secondo posto nella codifica**  
-  Fonte: BleepingComputer, 16 Jul 2025, 10:35:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-benchmark-results-tops-math-ranks-second-in-coding/>)
-
-- **Google corregge attivamente Sandbox Escape Zero Day in Chrome**  
-  Fonte: BleepingComputer, 16 Jul 2025, 09:47:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-sandbox-escape-zero-day-in-chrome/>)
 
 - **La nuova variante di malware konfety evadisce il rilevamento manipolando gli APK e il codice dinamico**  
   Fonte: The Hacker News, 16 Jul 2025, 09:13:00 UTC  
@@ -85,22 +129,6 @@
 - **Google AI "Big Sleep" smette lo sfruttamento della vulnerabilità critica di Sqlite prima degli hacker Act**  
   Fonte: The Hacker News, 16 Jul 2025, 07:44:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html>)
-
-- **Il modello di immagine di Openai ottiene la funzione in stile integrato su chatgpt**  
-  Fonte: BleepingComputer, 15 Jul 2025, 20:12:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openais-image-model-gets-built-in-style-feature-on-chatgpt/>)
-
-- **Abacus Dark Web Drug Market è offline nella sospetta truffa di uscita**  
-  Fonte: BleepingComputer, 15 Jul 2025, 19:58:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/abacus-dark-web-drug-market-goes-offline-in-suspected-exit-scam/>)
-
-- **Windows KB5064489 Aggiornamento di emergenza risolve i problemi di lancio di Azure VM**  
-  Fonte: BleepingComputer, 15 Jul 2025, 18:47:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-kb5064489-emergency-update-fixes-azure-vm-launch-issues/>)
-
-- **Malware Xorindex nordcoreano nascosto in 67 pacchetti NPM dannosi**  
-  Fonte: BleepingComputer, 15 Jul 2025, 17:47:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/>)
 
 - **Gli attacchi DDoS iper-volumetrici raggiungono il record di 7,3 Tbps, prendendo di mira i settori globali chiave**  
   Fonte: The Hacker News, 15 Jul 2025, 16:30:00 UTC  
@@ -182,7 +210,7 @@
   Fonte: The Hacker News, 12 Jul 2025, 12:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html>)
 
-- **I calamari hanno dominato gli oceani nel tardo Cretaceo**  
+- **I calamari hanno dominato gli oceani nel tardo cretaceo**  
   Fonte: Schneier on Security, 11 Jul 2025, 21:04:17 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/07/squid-dominated-the-oceans-in-the-late-cretaceous.html>)
 
@@ -218,45 +246,5 @@
   Fonte: The Hacker News, 11 Jul 2025, 10:46:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/iranian-backed-pay2key-ransomware.html>)
 
-- **CISA aggiunge Citrix Netscaler CVE-2025-5777 al catalogo KEV come Exploit attivi Enterprises Target**  
-  Fonte: The Hacker News, 11 Jul 2025, 04:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html>)
 
-- **Gli arresti del Regno Unito quattro nel gruppo Ransom "Spesed Spider"**  
-  Fonte: Krebs on Security, 10 Jul 2025, 17:31:10 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/>)
-
-- **La vulnerabilità critica MCP-Remote abilita l'esecuzione del codice remoto, influendo su oltre 437.000 download**  
-  Fonte: The Hacker News, 10 Jul 2025, 17:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html>)
-
-- **Le aziende di giochi falsi e AI spingono malware su utenti di criptovaluta tramite telegramma e discordia**  
-  Fonte: The Hacker News, 10 Jul 2025, 14:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html>)
-
-- **Quattro arrestati in un attacco informatico da £ 440 milioni su Marks & Spencer, Co-op e Harrods**  
-  Fonte: The Hacker News, 10 Jul 2025, 12:13:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html>)
-
-- **Usando gruppi di segnale per l'attivismo**  
-  Fonte: Schneier on Security, 10 Jul 2025, 11:08:53 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/using-signal-groups-for-activism.html>)
-
-- **Ciò che i leader della sicurezza devono sapere sulla governance dell'IA per SaaS**  
-  Fonte: The Hacker News, 10 Jul 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html>)
-
-- **Nuova variante di malware Zuru Target per gli sviluppatori tramite app Terjanized Tamius MacOS**  
-  Fonte: The Hacker News, 10 Jul 2025, 10:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/new-macos-malware-zuru-targeting.html>)
-
-- **AMD avverte di nuovi attacchi di programmazione transitorio che incidono su una vasta gamma di CPU**  
-  Fonte: The Hacker News, 10 Jul 2025, 10:44:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html>)
-
-- **ServiceNow Flaw CVE-2025-3648 potrebbe portare all'esposizione ai dati tramite ACL non configurati male**  
-  Fonte: The Hacker News, 10 Jul 2025, 07:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/servicenow-flaw-cve-2025-3648-could.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-17 06:19:22 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-18 06:19:27 UTC -->
