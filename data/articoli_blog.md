@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Attori minacci che downgrade fido2 mfa autentica**  
+  Fonte: BleepingComputer, 19 Jul 2025, 17:41:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/>)
+
+- **Popolari pacchetti NPM Linter dirottati tramite phishing per far cadere malware**  
+  Fonte: BleepingComputer, 19 Jul 2025, 12:51:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/>)
+
+- **CHATGPT "S GPT-5-RASASING-ALPHA Modello notato prima del lancio**  
+  Fonte: BleepingComputer, 19 Jul 2025, 12:07:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/>)
+
+- **Openi, antropico, Google può interrompere il mercato dell'istruzione con nuovi strumenti di intelligenza artificiale**  
+  Fonte: BleepingComputer, 19 Jul 2025, 06:30:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/>)
+
 - **Nuovo CrushftP Zero-Day sfruttato negli attacchi ai server di hijack**  
   Fonte: BleepingComputer, 18 Jul 2025, 22:24:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-crushftp-zero-day-exploited-in-attacks-to-hijack-servers/>)
@@ -74,29 +90,9 @@
   Fonte: The Hacker News, 18 Jul 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html>)
 
-- **Openai: GPT-5 sta arrivando, "vedremo" se crea un shockwave**  
-  Fonte: BleepingComputer, 18 Jul 2025, 09:47:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-gpt-5-is-coming-well-see-if-it-creates-a-shockwave/>)
-
 - **Password scadenti TATTLE ON AI ASSAGGIO IL CAKER BOT PARADOX.AI**  
   Fonte: Krebs on Security, 18 Jul 2025, 01:23:20 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/>)
-
-- **Citrix sanguina 2 settimane sfruttate prima dei POC mentre Citrix negò gli attacchi**  
-  Fonte: BleepingComputer, 17 Jul 2025, 23:37:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-bleed-2-exploited-weeks-before-pocs-as-citrix-denied-attacks/>)
-
-- **VMware corregge quattro bug ESXI Zero-Day sfruttati su PWN2Own Berlin**  
-  Fonte: BleepingComputer, 17 Jul 2025, 21:36:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/>)
-
-- **Chiamate vocali di Microsoft Teams Abuse per spingere il malware Matanbuchus**  
-  Fonte: BleepingComputer, 17 Jul 2025, 21:28:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-teams-voice-calls-abused-to-push-matanbuchus-malware/>)
-
-- **Google fa causa per interrompere il botnet Badbox 2.0 che infetta 10 milioni di dispositivi**  
-  Fonte: BleepingComputer, 17 Jul 2025, 19:59:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-sues-to-disrupt-badbox-20-botnet-infecting-10-million-devices/>)
 
 - **Gli hacker usano i repository GitHub per ospitare malware AMADEY e deti di dati, bypassing Filters**  
   Fonte: The Hacker News, 17 Jul 2025, 17:40:00 UTC  
@@ -242,17 +238,5 @@
   Fonte: The Hacker News, 14 Jul 2025, 05:27:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html>)
 
-- **Aggiornamento settimanale 460**  
-  Fonte: Troy Hunt, 13 Jul 2025, 02:32:08 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-460/>)
 
-- **Gpuhammer: la nuova variante di attacco di Rowhammer degrada i modelli AI su NVIDIA GPUS**  
-  Fonte: The Hacker News, 12 Jul 2025, 17:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html>)
-
-- **Oltre 600 app Laravel esposte all'esecuzione del codice remoto a causa di app_keys trapelati su GitHub**  
-  Fonte: The Hacker News, 12 Jul 2025, 12:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-19 06:17:26 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-20 06:17:21 UTC -->
