@@ -2,6 +2,50 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft rilascia patch di emergenza per i difetti di SharePoint RCE sfruttati negli attacchi**  
+  Fonte: BleepingComputer, 21 Jul 2025, 04:41:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-patches-for-sharepoint-rce-flaws-exploited-in-attacks/>)
+
+- **Microsoft rilascia una patch urgente per SharePoint RCE Flaw sfruttato in attacchi informatici in corso**  
+  Fonte: The Hacker News, 21 Jul 2025, 03:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html>)
+
+- **Le credenziali codificate con codifica trovate nell'istante HPE sui dispositivi consentono l'accesso all'amministratore**  
+  Fonte: The Hacker News, 21 Jul 2025, 03:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html>)
+
+- **3.500 siti Web dirottati per estrarre segretamente Crypto usando Stealth JavaScript e WebSocket Tactics**  
+  Fonte: The Hacker News, 21 Jul 2025, 03:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html>)
+
+- **CRYPTHUB target gli sviluppatori Web3 che utilizzano piattaforme AI false per distribuire malware per furti**  
+  Fonte: The Hacker News, 20 Jul 2025, 16:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html>)
+
+- **Microsoft SharePoint Zero-Day sfruttato in attacchi RCE, nessuna patch disponibile**  
+  Fonte: BleepingComputer, 20 Jul 2025, 15:40:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-sharepoint-zero-day-exploited-in-rce-attacks-no-patch-available/>)
+
+- **HPE avverte di password con codice hard nei punti di accesso Aruba**  
+  Fonte: BleepingComputer, 20 Jul 2025, 14:09:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/>)
+
+- **Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers**  
+  Fonte: The Hacker News, 20 Jul 2025, 09:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html>)
+
+- **Malware iniettato in pacchetti da 5 npm dopo i token di manutenzione rubati in attacco di phishing**  
+  Fonte: The Hacker News, 20 Jul 2025, 09:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html>)
+
+- **Gli hacker sfruttano il difetto critico di CrushftP per ottenere l'accesso amministrativo su server non patch**  
+  Fonte: The Hacker News, 20 Jul 2025, 07:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html>)
+
+- **Aggiornamento settimanale 461**  
+  Fonte: Troy Hunt, 20 Jul 2025, 07:04:25 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-461/>)
+
 - **Attori minacci che downgrade fido2 mfa autentica**  
   Fonte: BleepingComputer, 19 Jul 2025, 17:41:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/>)
@@ -38,7 +82,7 @@
   Fonte: BleepingComputer, 18 Jul 2025, 19:34:59 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-mistakenly-tags-windows-firewall-error-log-bug-as-fixed/>)
 
-- **Nuovo modello GATGPT O3-Alpha suggerisce l'aggiornamento della codifica**  
+- **New ChatGPT o3-alpha model hints at coding upgrade**  
   Fonte: BleepingComputer, 18 Jul 2025, 19:01:51 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/new-chatgpt-o3-alpha-model-hints-at-coding-upgrade/>)
 
@@ -58,21 +102,13 @@
   Fonte: The Hacker News, 18 Jul 2025, 18:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html>)
 
-- **New Phobos e 8Base Ransomware Decryptor Recover Files gratuitamente**  
-  Fonte: BleepingComputer, 18 Jul 2025, 15:56:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-phobos-ransomware-decryptor-lets-victims-recover-files-for-free/>)
-
-- **Hacker Scansione per il clone del segnale Telemessage Flaw Exping Passwords**  
-  Fonte: BleepingComputer, 18 Jul 2025, 15:06:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-scanning-for-telemessage-signal-clone-flaw-exposing-passwords/>)
+- **Cert-UA scopre malware Lamehug collegato ad APT28, utilizzando LLM per la campagna di phishing**  
+  Fonte: The Hacker News, 18 Jul 2025, 11:32:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html>)
 
 - **Il difetto di toolkit di contenitori nvidia critico consente un'escalation dei privilegi sui servizi cloud AI**  
   Fonte: The Hacker News, 18 Jul 2025, 11:32:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html>)
-
-- **Cert-UA scopre malware Lamehug collegato ad APT28, utilizzando LLM per la campagna di phishing**  
-  Fonte: The Hacker News, 18 Jul 2025, 11:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html>)
 
 - **Pagnotta e ordine: la polizia belga lancia la campagna di sicurezza informatica a base di pane**  
   Fonte: Graham Cluley, 18 Jul 2025, 11:30:31 UTC  
@@ -150,7 +186,7 @@
   Fonte: The Hacker News, 16 Jul 2025, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html>)
 
-- **Gli agenti AI si comportano come dipendenti con accesso alle root: ecco come riguadagnare il controllo**  
+- **Gli agenti di intelligenza artificiale si comportano come dipendenti con accesso alle root: ecco come riguadagnare il controllo**  
   Fonte: The Hacker News, 16 Jul 2025, 11:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html>)
 
@@ -190,7 +226,7 @@
   Fonte: Graham Cluley, 15 Jul 2025, 13:32:42 UTC  
   [Leggi](<https://grahamcluley.com/quelle-surprise-twitter-faces-criminal-probe-in-france/>)
 
-- **Il malware Hazybeacon appoggiato dallo stato utilizza AWS Lambda per rubare i dati dai governi asiatici della SE**  
+- **Il malware Hazybeacon appoggiato dallo stato utilizza AWS Lambda per rubare i dati dai governi asiatici della SI**  
   Fonte: The Hacker News, 15 Jul 2025, 11:08:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html>)
 
@@ -202,7 +238,7 @@
   Fonte: The Hacker News, 15 Jul 2025, 10:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html>)
 
-- **Gli hacker nordcoreani alludono il registro NPM con malware Xorindex nella campagna di attacco in corso**  
+- **Gli hacker nordcoreani alluiscono il registro NPM con malware Xorindex nella campagna di attacco in corso**  
   Fonte: The Hacker News, 15 Jul 2025, 07:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html>)
 
@@ -234,9 +270,5 @@
   Fonte: The Hacker News, 14 Jul 2025, 08:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html>)
 
-- **La vulnerabilità dell'ESIM nelle carte EUICC di Kigen espone miliardi di dispositivi IoT ad attacchi dannosi**  
-  Fonte: The Hacker News, 14 Jul 2025, 05:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/esim-vulnerability-in-kigens-euicc.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-07-20 06:17:21 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-21 06:20:36 UTC -->
