@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Intel annuncia la fine del progetto Clear Linux OS, Archives Github Repos**  
+  Fonte: BleepingComputer, 21 Jul 2025, 21:25:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/intel-announces-end-of-clear-linux-os-project-archives-github-repos/>)
+
+- **Ring nega la violazione dopo che gli utenti segnalano accessi sospetti**  
+  Fonte: BleepingComputer, 21 Jul 2025, 19:33:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ring-denies-breach-after-users-report-suspicious-logins/>)
+
+- **Malware Android DCHSPY legato all'Iran Maschera come app VPN per spia**  
+  Fonte: The Hacker News, 21 Jul 2025, 17:18:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html>)
+
+- **Gli hacker collegati in Cina lanciano una campagna di spionaggio mirata sull'infrastruttura IT africana**  
+  Fonte: The Hacker News, 21 Jul 2025, 16:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/china-linked-hackers-launch-targeted.html>)
+
+- **BUG EXPRESSVPN trapelato IPS utente nelle sessioni desktop remote**  
+  Fonte: BleepingComputer, 21 Jul 2025, 16:06:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/expressvpn-bug-leaked-user-ips-in-remote-desktop-sessions/>)
+
+- **Gli utenti di Orchestrator di Recovery Veeam sono stati bloccati dopo il lancio di MFA**  
+  Fonte: BleepingComputer, 21 Jul 2025, 15:26:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/technology/veeam-recovery-orchestrator-users-locked-out-after-mfa-rollout/>)
+
+- **Microsoft Fix prende di mira gli attacchi su SharePoint Zero-Day**  
+  Fonte: Krebs on Security, 21 Jul 2025, 14:45:46 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/>)
+
+- **Dior inizia a inviare notifiche di violazione dei dati ai clienti statunitensi**  
+  Fonte: BleepingComputer, 21 Jul 2025, 14:31:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dior-begins-sending-data-breach-notifications-to-us-customers/>)
+
+- **⚡ Riepilogo settimanale: SharePoint 0-Day, Chrome Exploit, MacOS Spyware, Nvidia Toolkit RCE e altro ancora**  
+  Fonte: The Hacker News, 21 Jul 2025, 11:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html>)
+
+- **Oltre 1.000 server CrushftP esposti agli attacchi di hijack in corso**  
+  Fonte: BleepingComputer, 21 Jul 2025, 11:34:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-1-000-crushftp-servers-exposed-to-ongoing-hijack-attacks/>)
+
+- **Valutare il ruolo dell'IA in zero fiducia**  
+  Fonte: The Hacker News, 21 Jul 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html>)
+
+- **Impara 14 lingue da Babbel con questo accordo di stacksocial esclusivo**  
+  Fonte: BleepingComputer, 21 Jul 2025, 11:07:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/learn-14-languages-from-babbel-with-this-exclusive-stacksocial-deal/>)
+
+- **Un'altra vulnerabilità della catena di approvvigionamento**  
+  Fonte: Schneier on Security, 21 Jul 2025, 11:04:59 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/another-supply-chain-vulnerability.html>)
+
+- **Dell conferma la violazione della piattaforma di laboratorio di test da parte del gruppo di estorsioni per le perdite mondiali**  
+  Fonte: BleepingComputer, 21 Jul 2025, 11:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dell-confirms-breach-of-test-lab-platform-by-world-leaks-extortion-group/>)
+
+- **Europol prende di mira la banda di criminalità informatica sostenuta dal Cremlino NONAME057 (16)**  
+  Fonte: Graham Cluley, 21 Jul 2025, 10:47:14 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/europol-targets-kremlin-backed-cybercrime-gang-noname057-16>)
+
+- **Buona Riddance Teespring, ciao Quarthwall**  
+  Fonte: Troy Hunt, 21 Jul 2025, 08:24:46 UTC  
+  [Leggi](<https://www.troyhunt.com/good-riddance-teespring-hello-fourthwall/>)
+
+- **Hacker velenici bypass tasti fido usando phishing QR e abuso di accesso incrociato**  
+  Fonte: The Hacker News, 21 Jul 2025, 06:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html>)
+
 - **Microsoft rilascia patch di emergenza per i difetti di SharePoint RCE sfruttati negli attacchi**  
   Fonte: BleepingComputer, 21 Jul 2025, 04:41:46 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-patches-for-sharepoint-rce-flaws-exploited-in-attacks/>)
@@ -30,7 +98,7 @@
   Fonte: BleepingComputer, 20 Jul 2025, 14:09:19 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/>)
 
-- **Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers**  
+- **Critical senza patch sharepoint zero-day sfruttato attivamente, viola 75+ server dell'azienda**  
   Fonte: The Hacker News, 20 Jul 2025, 09:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html>)
 
@@ -54,37 +122,9 @@
   Fonte: BleepingComputer, 19 Jul 2025, 12:51:22 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/>)
 
-- **CHATGPT "S GPT-5-RASASING-ALPHA Modello notato prima del lancio**  
-  Fonte: BleepingComputer, 19 Jul 2025, 12:07:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/>)
-
-- **Openi, antropico, Google può interrompere il mercato dell'istruzione con nuovi strumenti di intelligenza artificiale**  
-  Fonte: BleepingComputer, 19 Jul 2025, 06:30:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/>)
-
-- **Nuovo CrushftP Zero-Day sfruttato negli attacchi ai server di hijack**  
-  Fonte: BleepingComputer, 18 Jul 2025, 22:24:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-crushftp-zero-day-exploited-in-attacks-to-hijack-servers/>)
-
-- **Arch Linux tira pacchetti AUR che hanno installato malware di ratto caos**  
-  Fonte: BleepingComputer, 18 Jul 2025, 21:12:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/>)
-
 - **Blogging di calamari del venerdì: The Giant Squid Nebula**  
   Fonte: Schneier on Security, 18 Jul 2025, 21:06:43 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-the-giant-squid-nebula.html>)
-
-- **UK Ties GRU con malware furtivo Microsoft 365 a furto di credenziali**  
-  Fonte: BleepingComputer, 18 Jul 2025, 19:39:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-ties-russian-gru-to-authentic-antics-credential-stealing-malware/>)
-
-- **Microsoft tagga erroneamente il bug del log di errore di Windows Firewall come fisso**  
-  Fonte: BleepingComputer, 18 Jul 2025, 19:34:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-mistakenly-tags-windows-firewall-error-log-bug-as-fixed/>)
-
-- **New ChatGPT o3-alpha model hints at coding upgrade**  
-  Fonte: BleepingComputer, 18 Jul 2025, 19:01:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/new-chatgpt-o3-alpha-model-hints-at-coding-upgrade/>)
 
 - **Lo strumento di massa della Cina estrae segretamente SMS, dati GPS e immagini da telefoni confiscati**  
   Fonte: The Hacker News, 18 Jul 2025, 18:42:00 UTC  
@@ -93,10 +133,6 @@
 - **Il gruppo UNG0002 colpisce la Cina, Hong Kong, il Pakistan usando file LNK e ratti in campagne gemelle**  
   Fonte: The Hacker News, 18 Jul 2025, 18:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html>)
-
-- **Il rivenditore di alcol russo Winelab chiude i negozi dopo l'attacco di ransomware**  
-  Fonte: BleepingComputer, 18 Jul 2025, 18:20:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-alcohol-retailer-winelab-closes-stores-after-ransomware-attack/>)
 
 - **Ivanti Zero-Days sfruttato per eliminare Mdifyloader e lanciare attacchi di sciopero Cobalt in memoria**  
   Fonte: The Hacker News, 18 Jul 2025, 18:13:00 UTC  
@@ -186,7 +222,7 @@
   Fonte: The Hacker News, 16 Jul 2025, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html>)
 
-- **Gli agenti di intelligenza artificiale si comportano come dipendenti con accesso alle root: ecco come riguadagnare il controllo**  
+- **Gli agenti AI si comportano come dipendenti con accesso alle root: ecco come riguadagnare il controllo**  
   Fonte: The Hacker News, 16 Jul 2025, 11:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html>)
 
@@ -226,7 +262,7 @@
   Fonte: Graham Cluley, 15 Jul 2025, 13:32:42 UTC  
   [Leggi](<https://grahamcluley.com/quelle-surprise-twitter-faces-criminal-probe-in-france/>)
 
-- **Il malware Hazybeacon appoggiato dallo stato utilizza AWS Lambda per rubare i dati dai governi asiatici della SI**  
+- **Il malware Hazybeacon appoggiato dallo stato utilizza AWS Lambda per rubare i dati dai governi asiatici della SE**  
   Fonte: The Hacker News, 15 Jul 2025, 11:08:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html>)
 
@@ -242,33 +278,5 @@
   Fonte: The Hacker News, 15 Jul 2025, 07:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html>)
 
-- **Doge Denizen Marko Elez Chiave API trapelata per XAI**  
-  Fonte: Krebs on Security, 15 Jul 2025, 01:23:43 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/>)
 
-- **Rapporto della Conferenza di criminalità informatica di Cambridge**  
-  Fonte: Schneier on Security, 14 Jul 2025, 18:46:05 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/report-from-the-cambridge-cybercrime-conference.html>)
-
-- **Il sospetto insolito: Git Repos**  
-  Fonte: The Hacker News, 14 Jul 2025, 17:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html>)
-
-- **La nuova variante di ratto interlock basato su PHP utilizza il meccanismo di consegna FileFix per target più settori**  
-  Fonte: The Hacker News, 14 Jul 2025, 16:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html>)
-
-- **⚡ Riepilogo settimanale: arresti di ragno sparsi, exploit per auto, malware MacOS, Fortinet RCE e altro ancora**  
-  Fonte: The Hacker News, 14 Jul 2025, 12:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html>)
-
-- **Elmo è stato violato, afferma che Trump è nei file Epstein, chiede che gli ebrei vengano sterminati**  
-  Fonte: Graham Cluley, 14 Jul 2025, 09:33:54 UTC  
-  [Leggi](<https://grahamcluley.com/elmo-has-been-hacked-claims-trump-is-in-epstein-files-calls-for-jews-to-be-exterminated/>)
-
-- **CBI spegne £ 390k U.K. Support Tech Support Scam, arresta gli agenti chiave nel call center Noida**  
-  Fonte: The Hacker News, 14 Jul 2025, 08:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/cbi-shuts-down-390k-uk-tech-support.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-21 06:20:36 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-22 06:19:46 UTC -->
