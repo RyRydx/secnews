@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **CISA ordina un patch urgente dopo che hacker cinesi sfruttano i difetti di SharePoint in attacchi dal vivo**  
+  Fonte: The Hacker News, 23 Jul 2025, 04:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html>)
+
+- **Lumma Infostealer Malware Restituisce dopo l'interruzione delle forze dell'ordine**  
+  Fonte: BleepingComputer, 22 Jul 2025, 21:34:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-returns-after-law-enforcement-disruption/>)
+
+- **L'aggiornamento di Windows 11 KB5062660 offre nuove funzionalità di "resilienza di Windows"**  
+  Fonte: BleepingComputer, 22 Jul 2025, 20:36:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062660-update-brings-new-windows-resilience-features/>)
+
+- **Windows 11 ottiene un nuovo schermo nero di morte, strumento di recupero automatico**  
+  Fonte: BleepingComputer, 22 Jul 2025, 19:30:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-black-screen-of-death-auto-recovery-tool/>)
+
+- **Coyote malware abusa Framework di accessibilità Windows per furto di dati**  
+  Fonte: BleepingComputer, 22 Jul 2025, 17:54:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/coyote-malware-abuses-windows-accessibility-framework-for-data-theft/>)
+
+- **CISA e FBI avvertono di crescenti attacchi di ransomware di interblocco**  
+  Fonte: BleepingComputer, 22 Jul 2025, 17:36:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-and-fbi-warn-of-escalating-interlock-ransomware-attacks/>)
+
+- **La grande rete europea sanitaria rivela la violazione della sicurezza**  
+  Fonte: BleepingComputer, 22 Jul 2025, 17:27:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/major-european-healthcare-network-discloses-security-breach/>)
+
+- **Microsoft Links in corso Exploit di SharePoint a tre gruppi di hacker cinesi**  
+  Fonte: The Hacker News, 22 Jul 2025, 15:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html>)
+
+- **Cisco: i difetti di massima precisione ISE ora sfruttati negli attacchi**  
+  Fonte: BleepingComputer, 22 Jul 2025, 14:40:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-maximum-severity-ise-rce-flaws-now-exploited-in-attacks/>)
+
+- **L'IA Fix #60: Elon’s Ai Girlfriend, The incenziale Red Panda e l'IA che ti ucciderà**  
+  Fonte: Graham Cluley, 22 Jul 2025, 14:05:41 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-60/>)
+
+- **Cisco conferma gli exploit attivi che mirano ai difetti ISE che consentono l'accesso alla radice non autenticato**  
+  Fonte: The Hacker News, 22 Jul 2025, 13:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/cisco-confirms-active-exploits.html>)
+
+- **Regno Unito per vietare le organizzazioni del settore pubblico dal pagamento di bande di ransomware**  
+  Fonte: BleepingComputer, 22 Jul 2025, 13:01:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-to-ban-public-sector-orgs-from-paying-ransomware-gangs/>)
+
+- **Il furto di credenziali e l'accesso remoto si proliferano**  
+  Fonte: The Hacker News, 22 Jul 2025, 13:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/credential-theft-and-remote-access.html>)
+
+- **Microsoft Links SharePoint Toolshell Attacchi agli hacker cinesi**  
+  Fonte: BleepingComputer, 22 Jul 2025, 11:26:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-toolshell-attacks-linked-to-chinese-hackers/>)
+
+- **"Backdoors di crittografia e il quarto emendamento"**  
+  Fonte: Schneier on Security, 22 Jul 2025, 11:05:47 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/encryption-backdoors-and-the-fourth-amendment.html>)
+
+- **Come avanzare da Soc Manager a CISO?**  
+  Fonte: The Hacker News, 22 Jul 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/how-to-advance-from-soc-manager-to-ciso.html>)
+
+- **Microsoft: Windows Server KB5062557 Causa cluster, Problemi VM**  
+  Fonte: BleepingComputer, 22 Jul 2025, 10:24:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-kb5062557-causes-cluster-vm-issues/>)
+
+- **11 anni di direttore regionale di Microsoft e 15 anni di MVP**  
+  Fonte: Troy Hunt, 22 Jul 2025, 09:58:19 UTC  
+  [Leggi](<https://www.troyhunt.com/11-years-of-microsoft-regional-director-and-15-years-of-mvp/>)
+
+- **Gli hacker sfruttano SharePoint Zero-Day dal 7 luglio per rubare le chiavi, mantenere l'accesso persistente**  
+  Fonte: The Hacker News, 22 Jul 2025, 07:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/hackers-exploit-sharepoint-zero-day.html>)
+
 - **Intel annuncia la fine del progetto Clear Linux OS, Archives Github Repos**  
   Fonte: BleepingComputer, 21 Jul 2025, 21:25:07 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/intel-announces-end-of-clear-linux-os-project-archives-github-repos/>)
@@ -22,41 +98,21 @@
   Fonte: BleepingComputer, 21 Jul 2025, 16:06:08 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/expressvpn-bug-leaked-user-ips-in-remote-desktop-sessions/>)
 
-- **Gli utenti di Orchestrator di Recovery Veeam sono stati bloccati dopo il lancio di MFA**  
-  Fonte: BleepingComputer, 21 Jul 2025, 15:26:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/veeam-recovery-orchestrator-users-locked-out-after-mfa-rollout/>)
-
 - **Microsoft Fix prende di mira gli attacchi su SharePoint Zero-Day**  
   Fonte: Krebs on Security, 21 Jul 2025, 14:45:46 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/>)
-
-- **Dior inizia a inviare notifiche di violazione dei dati ai clienti statunitensi**  
-  Fonte: BleepingComputer, 21 Jul 2025, 14:31:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dior-begins-sending-data-breach-notifications-to-us-customers/>)
 
 - **⚡ Riepilogo settimanale: SharePoint 0-Day, Chrome Exploit, MacOS Spyware, Nvidia Toolkit RCE e altro ancora**  
   Fonte: The Hacker News, 21 Jul 2025, 11:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html>)
 
-- **Oltre 1.000 server CrushftP esposti agli attacchi di hijack in corso**  
-  Fonte: BleepingComputer, 21 Jul 2025, 11:34:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-1-000-crushftp-servers-exposed-to-ongoing-hijack-attacks/>)
-
 - **Valutare il ruolo dell'IA in zero fiducia**  
   Fonte: The Hacker News, 21 Jul 2025, 11:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html>)
 
-- **Impara 14 lingue da Babbel con questo accordo di stacksocial esclusivo**  
-  Fonte: BleepingComputer, 21 Jul 2025, 11:07:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/learn-14-languages-from-babbel-with-this-exclusive-stacksocial-deal/>)
-
 - **Un'altra vulnerabilità della catena di approvvigionamento**  
   Fonte: Schneier on Security, 21 Jul 2025, 11:04:59 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/07/another-supply-chain-vulnerability.html>)
-
-- **Dell conferma la violazione della piattaforma di laboratorio di test da parte del gruppo di estorsioni per le perdite mondiali**  
-  Fonte: BleepingComputer, 21 Jul 2025, 11:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dell-confirms-breach-of-test-lab-platform-by-world-leaks-extortion-group/>)
 
 - **Europol prende di mira la banda di criminalità informatica sostenuta dal Cremlino NONAME057 (16)**  
   Fonte: Graham Cluley, 21 Jul 2025, 10:47:14 UTC  
@@ -70,15 +126,11 @@
   Fonte: The Hacker News, 21 Jul 2025, 06:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html>)
 
-- **Microsoft rilascia patch di emergenza per i difetti di SharePoint RCE sfruttati negli attacchi**  
-  Fonte: BleepingComputer, 21 Jul 2025, 04:41:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-patches-for-sharepoint-rce-flaws-exploited-in-attacks/>)
-
 - **Microsoft rilascia una patch urgente per SharePoint RCE Flaw sfruttato in attacchi informatici in corso**  
   Fonte: The Hacker News, 21 Jul 2025, 03:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html>)
 
-- **Le credenziali codificate con codifica trovate nell'istante HPE sui dispositivi consentono l'accesso all'amministratore**  
+- **Le credenziali con codice duro che si trovano nell'istante HPE sui dispositivi consentono l'accesso all'amministratore**  
   Fonte: The Hacker News, 21 Jul 2025, 03:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html>)
 
@@ -86,17 +138,9 @@
   Fonte: The Hacker News, 21 Jul 2025, 03:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html>)
 
-- **CRYPTHUB target gli sviluppatori Web3 che utilizzano piattaforme AI false per distribuire malware per furti**  
+- **EncrypThub target gli sviluppatori Web3 che utilizzano piattaforme AI false per distribuire malware per furto di furto**  
   Fonte: The Hacker News, 20 Jul 2025, 16:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html>)
-
-- **Microsoft SharePoint Zero-Day sfruttato in attacchi RCE, nessuna patch disponibile**  
-  Fonte: BleepingComputer, 20 Jul 2025, 15:40:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-sharepoint-zero-day-exploited-in-rce-attacks-no-patch-available/>)
-
-- **HPE avverte di password con codice hard nei punti di accesso Aruba**  
-  Fonte: BleepingComputer, 20 Jul 2025, 14:09:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/>)
 
 - **Critical senza patch sharepoint zero-day sfruttato attivamente, viola 75+ server dell'azienda**  
   Fonte: The Hacker News, 20 Jul 2025, 09:52:00 UTC  
@@ -114,14 +158,6 @@
   Fonte: Troy Hunt, 20 Jul 2025, 07:04:25 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-461/>)
 
-- **Attori minacci che downgrade fido2 mfa autentica**  
-  Fonte: BleepingComputer, 19 Jul 2025, 17:41:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/>)
-
-- **Popolari pacchetti NPM Linter dirottati tramite phishing per far cadere malware**  
-  Fonte: BleepingComputer, 19 Jul 2025, 12:51:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/>)
-
 - **Blogging di calamari del venerdì: The Giant Squid Nebula**  
   Fonte: Schneier on Security, 18 Jul 2025, 21:06:43 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-the-giant-squid-nebula.html>)
@@ -134,7 +170,7 @@
   Fonte: The Hacker News, 18 Jul 2025, 18:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html>)
 
-- **Ivanti Zero-Days sfruttato per eliminare Mdifyloader e lanciare attacchi di sciopero Cobalt in memoria**  
+- **I difetti di Ivanti sfruttati per abbandonare Mdifyloader e lanciare attacchi di sciopero Cobalt in memoria**  
   Fonte: The Hacker News, 18 Jul 2025, 18:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html>)
 
@@ -194,7 +230,7 @@
   Fonte: The Hacker News, 17 Jul 2025, 07:56:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html>)
 
-- **Cisco avverte del difetto ISE critico che consente agli aggressori non autenticati di eseguire il codice root**  
+- **Cisco avverte del difetto ISE critico che consente agli aggressori non autenticati di eseguire il codice radice**  
   Fonte: The Hacker News, 17 Jul 2025, 05:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html>)
 
@@ -242,41 +278,5 @@
   Fonte: The Hacker News, 16 Jul 2025, 07:44:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html>)
 
-- **Gli attacchi DDoS iper-volumetrici raggiungono il record di 7,3 Tbps, prendendo di mira i settori globali chiave**  
-  Fonte: The Hacker News, 15 Jul 2025, 16:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/hyper-volumetric-ddos-attacks-reach.html>)
 
-- **Il gruppo globale di recente emerso Raas espande le operazioni con strumenti di negoziazione guidati dall'IA**  
-  Fonte: The Hacker News, 15 Jul 2025, 15:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/newly-emerged-global-group-raas-expands.html>)
-
-- **L'IA Fix #59: Grok pensa che sia Mecha Hitler e AIS può pensare strategicamente**  
-  Fonte: Graham Cluley, 15 Jul 2025, 14:09:08 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-59/>)
-
-- **La sentenza di Sim Scammer è aumentata a 12 anni, dopo non aver rimborsato la vittima di $ 20 milioni**  
-  Fonte: Graham Cluley, 15 Jul 2025, 14:00:26 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/sim-scammers-sentence-increased-to-12-years-after-failing-to-pay-back-victim-20-million>)
-
-- **Quelle sorpresa!Twitter affronta una sonda criminale in Francia**  
-  Fonte: Graham Cluley, 15 Jul 2025, 13:32:42 UTC  
-  [Leggi](<https://grahamcluley.com/quelle-surprise-twitter-faces-criminal-probe-in-france/>)
-
-- **Il malware Hazybeacon appoggiato dallo stato utilizza AWS Lambda per rubare i dati dai governi asiatici della SE**  
-  Fonte: The Hacker News, 15 Jul 2025, 11:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html>)
-
-- **Ai di assicurazione AI: come proteggere l'accesso all'identità invisibile**  
-  Fonte: The Hacker News, 15 Jul 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/securing-agentic-ai-how-to-protect.html>)
-
-- **Il codice open source di Asyncrat Sparks aumenta in pericolose varianti di malware in tutto il mondo**  
-  Fonte: The Hacker News, 15 Jul 2025, 10:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/asyncrats-open-source-code-sparks-surge.html>)
-
-- **Gli hacker nordcoreani alluiscono il registro NPM con malware Xorindex nella campagna di attacco in corso**  
-  Fonte: The Hacker News, 15 Jul 2025, 07:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/north-korean-hackers-flood-npm-registry.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-22 06:19:46 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-23 06:20:32 UTC -->
