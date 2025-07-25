@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **Siti di estorsione ransomware di neri sequestrati in Operation CheckMate**  
+  Fonte: BleepingComputer, 24 Jul 2025, 21:34:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/>)
+
+- **Openai conferma che l'agente chatgpt ora sta lanciando per $ 20 più utenti**  
+  Fonte: BleepingComputer, 24 Jul 2025, 20:59:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-agent-is-now-rolling-out-for-20-plus-users/>)
+
+- **Nuove pelli di malware Koske Linux in immagini di panda carine**  
+  Fonte: BleepingComputer, 24 Jul 2025, 20:54:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-koske-linux-malware-hides-in-cute-panda-images/>)
+
+- **Phishers si prendono di mira ai dirigenti dell'aviazione ai clienti SCAM**  
+  Fonte: Krebs on Security, 24 Jul 2025, 17:57:06 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/>)
+
+- **Critical Mitel Flaw consente agli hacker di bypassare l'accesso, ottenere pieno accesso ai sistemi MX-One Mivoice**  
+  Fonte: The Hacker News, 24 Jul 2025, 17:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/critical-mitel-flaw-lets-hackers-bypass.html>)
+
+- **Fire Ant Explots VMware difetti per compromettere gli host ESXI e gli ambienti vCenter**  
+  Fonte: The Hacker News, 24 Jul 2025, 17:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/fire-ant-exploits-vmware-flaw-to.html>)
+
+- **Hacker sgattaiolare malware Infostealer nel gioco Steam Access Early**  
+  Fonte: BleepingComputer, 24 Jul 2025, 16:49:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-sneaks-infostealer-malware-into-early-access-steam-game/>)
+
+- **Mitel avverte del difetto critico di Bypass di autenticazione MX-One**  
+  Fonte: BleepingComputer, 24 Jul 2025, 15:17:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mitel-warns-of-critical-mivoice-mx-one-authentication-bypass-flaw/>)
+
+- **Malware CastleLoader infetta 469 dispositivi utilizzando Repos di GitHub falsi e Phishing ClickFix**  
+  Fonte: The Hacker News, 24 Jul 2025, 15:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/castleloader-malware-infects-469.html>)
+
+- **Sophos e Sonicwall Patch Critical RCE difetti che colpiscono firewall e dispositivi SMA 100**  
+  Fonte: The Hacker News, 24 Jul 2025, 14:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/sophos-and-sonicwall-patch-critical-rce.html>)
+
+- **Hacker Breach Toptal GitHub Account, Pubblica pacchetti NPM dannosi**  
+  Fonte: BleepingComputer, 24 Jul 2025, 13:26:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-toptal-github-account-publish-malicious-npm-packages/>)
+
+- **Guarda questo webinar per scoprire difetti nascosti in Login, AI e Digital Trust - e risolverli**  
+  Fonte: The Hacker News, 24 Jul 2025, 11:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/watch-this-webinar-to-uncover-hidden.html>)
+
+- **Sonicwall esorta gli amministratori a patch difettosi critici nei dispositivi SMA 100**  
+  Fonte: BleepingComputer, 24 Jul 2025, 11:17:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-rce-flaw-in-sma-100-VPN-appliances/>)
+
+- **Come il protocollo solido ripristina l'agenzia digitale**  
+  Fonte: Schneier on Security, 24 Jul 2025, 11:04:48 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html>)
+
+- **Pentest una volta all'anno?No.È tempo di costruire un SoC offensivo**  
+  Fonte: The Hacker News, 24 Jul 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/pentests-once-year-nope-its-time-to.html>)
+
+- **Gli APT con sede in Cina distribuiscono app false dalai lama per spiare la comunità tibetana**  
+  Fonte: The Hacker News, 24 Jul 2025, 10:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/china-based-apts-deploy-fake-dalai-lama.html>)
+
+- **Storm-2603 sfrutta i difetti di SharePoint per distribuire il ransomware di Warlock su sistemi senza pattui**  
+  Fonte: The Hacker News, 24 Jul 2025, 10:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/storm-2603-exploits-sharepoint-flaws-to.html>)
+
+- **Microsoft: SharePoint difetti sfruttati negli attacchi di ransomware di Warlock**  
+  Fonte: BleepingComputer, 24 Jul 2025, 09:53:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-servers-also-targeted-in-ransomware-attacks/>)
+
+- **Decrittore gratuito per le vittime di Phobos Ransomware rilasciato**  
+  Fonte: Graham Cluley, 24 Jul 2025, 09:23:33 UTC  
+  [Leggi](<https://www.fortra.com/blog/free-decryptor-victims-phobos-ransomware-released>)
+
+- **Europol arresta l'amministratore del forum XSS a Kyiv dopo il marketplace operativo di criminalità operativa di 12 anni**  
+  Fonte: The Hacker News, 24 Jul 2025, 06:48:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/europol-arrests-xss-forum-admin-in-kyiv.html>)
+
 - **Gli hacker distribuiscono backdoor invisibile in plugin MU WordPress per mantenere l'accesso all'amministratore**  
   Fonte: The Hacker News, 24 Jul 2025, 05:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/hackers-deploy-stealth-backdoor-in.html>)
@@ -30,49 +110,13 @@
   Fonte: BleepingComputer, 23 Jul 2025, 17:07:48 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-rolling-out-personality-toggles-to-become-your-assistant/>)
 
-- **Il pacchetto NPM "è" con download settimanali di 2,8 m di dev con malware**  
-  Fonte: BleepingComputer, 23 Jul 2025, 15:57:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/npm-package-is-with-28m-weekly-downloads-infected-devs-with-malware/>)
-
 - **Regno Unito per vietare il settore pubblico dal pagare le richieste di ransomware**  
   Fonte: Graham Cluley, 23 Jul 2025, 15:47:20 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/uk-to-ban-public-sector-from-paying-ransomware-demands>)
 
-- **Agenzia di armi nucleari statunitensi ha violato gli attacchi di Microsoft SharePoint**  
-  Fonte: BleepingComputer, 23 Jul 2025, 15:14:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-nuclear-weapons-agency-hacked-in-microsoft-sharepoint-attacks/>)
-
-- **Openai conferma la nuova funzione di studio di Chatgpt, aiuta con gli esami**  
-  Fonte: BleepingComputer, 23 Jul 2025, 14:08:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpts-new-study-feature-helps-with-exams/>)
-
-- **Come indurire la tua Active Directory contro il Kerberoasting**  
-  Fonte: BleepingComputer, 23 Jul 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-harden-your-active-directory-against-kerberoasting/>)
-
-- **Openai prepara Sora 2 ad affrontare il Veo 3 di Google**  
-  Fonte: BleepingComputer, 23 Jul 2025, 13:44:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-sora-2-to-take-on-googles-veo-3/>)
-
-- **L'Ucraina arresta sospetta amministratore del forum di hacking russo XSS**  
-  Fonte: BleepingComputer, 23 Jul 2025, 13:41:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ukraine-arrests-suspected-admin-of-xss-russian-hacking-forum/>)
-
-- **La CISA avverte di hacker che sfruttano le vulnerabilità dello sysaid negli attacchi**  
-  Fonte: BleepingComputer, 23 Jul 2025, 13:30:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-sysaid-vulnerabilities-in-attacks/>)
-
-- **NPM "accidentalmente" rimuove lo stilo pacchetto, rompe build e condutture**  
-  Fonte: BleepingComputer, 23 Jul 2025, 13:21:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/>)
-
 - **La nuova variante di malware Coyote sfrutta l'automazione dell'interfaccia utente di Windows per rubare le credenziali bancarie**  
   Fonte: The Hacker News, 23 Jul 2025, 12:58:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/new-coyote-malware-variant-exploits.html>)
-
-- **L'operatore del servizio di streaming illegale di Jetflicks ottiene 7 anni di prigione**  
-  Fonte: BleepingComputer, 23 Jul 2025, 11:13:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/operator-of-jetflix-illegal-streaming-service-gets-7-years-in-prison/>)
 
 - **Google fa causa agli operatori di botnet Badbox**  
   Fonte: Schneier on Security, 23 Jul 2025, 11:04:53 UTC  
@@ -166,7 +210,7 @@
   Fonte: The Hacker News, 21 Jul 2025, 03:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html>)
 
-- **Le credenziali con codice duro che si trovano nell'istante HPE sui dispositivi consentono l'accesso all'amministratore**  
+- **Le credenziali codificate con codifica trovate nell'istante HPE sui dispositivi consentono l'accesso all'amministratore**  
   Fonte: The Hacker News, 21 Jul 2025, 03:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html>)
 
@@ -174,7 +218,7 @@
   Fonte: The Hacker News, 21 Jul 2025, 03:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html>)
 
-- **EncrypThub target gli sviluppatori Web3 che utilizzano piattaforme AI false per distribuire malware per furto di furto**  
+- **CRYPTHUB target gli sviluppatori Web3 che utilizzano piattaforme AI false per distribuire malware per furti**  
   Fonte: The Hacker News, 20 Jul 2025, 16:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html>)
 
@@ -234,37 +278,5 @@
   Fonte: The Hacker News, 18 Jul 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html>)
 
-- **Password scadenti TATTLE ON AI ASSAGGIO IL CAKER BOT PARADOX.AI**  
-  Fonte: Krebs on Security, 18 Jul 2025, 01:23:20 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/>)
 
-- **Gli hacker usano i repository GitHub per ospitare malware AMADEY e deti di dati, bypassing Filters**  
-  Fonte: The Hacker News, 17 Jul 2025, 17:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html>)
-
-- **Hacker Exploit Apache HTTP Server Flaw Per distribuire il minatore di criptovaluta Linuxsys**  
-  Fonte: The Hacker News, 17 Jul 2025, 14:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html>)
-
-- **Smashing Security Podcast #426: Choo Choo Scegli di ignorare la vulnerabilità**  
-  Fonte: Graham Cluley, 17 Jul 2025, 11:46:19 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-426/>)
-
-- **Europol interrompe il gruppo di hacktivisti non AME057 (16) collegato agli attacchi DDOS contro l'Ucraina**  
-  Fonte: The Hacker News, 17 Jul 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html>)
-
-- **Vulnerabilità di sicurezza in Iceblock**  
-  Fonte: Schneier on Security, 17 Jul 2025, 11:06:51 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/security-vulnerabilities-in-iceblock.html>)
-
-- **CTEM vs ASM vs Vulnerability Management: cosa devono sapere i leader della sicurezza nel 2025**  
-  Fonte: The Hacker News, 17 Jul 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html>)
-
-- **Gli hacker cinesi prendono di mira il settore dei semiconduttori di Taiwan con cobalt strike, backdoor personalizzati**  
-  Fonte: The Hacker News, 17 Jul 2025, 07:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-24 06:19:42 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-25 06:20:02 UTC -->
