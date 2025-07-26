@@ -2,6 +2,58 @@
 
 ## Ultimi 7 giorni
 
+- **Blogging di calamari del venerdì: disegni quasi iso-isodinamici stabili**  
+  Fonte: Schneier on Security, 25 Jul 2025, 21:00:38 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-stable-quasi-isodynamic-designs.html>)
+
+- **Amazon AI Coding Agent hackerato per iniettare i comandi di asciugatura dei dati**  
+  Fonte: BleepingComputer, 25 Jul 2025, 20:43:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/>)
+
+- **Microsoft indaga l'interruzione che colpisce Microsoft 365 Admin Center**  
+  Fonte: BleepingComputer, 25 Jul 2025, 18:49:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-admin-center/>)
+
+- **Firmante delle sanzioni statunitensi dietro il regime IT N. coreano;Donna dell'Arizona incarcerata per la gestione del laptop**  
+  Fonte: The Hacker News, 25 Jul 2025, 15:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/us-sanctions-firm-behind-n-korean-it.html>)
+
+- **Patchwork si rivolge alle società di difesa turca con phishing di lancia utilizzando file LNK dannosi**  
+  Fonte: The Hacker News, 25 Jul 2025, 14:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/patchwork-targets-turkish-defense-firms.html>)
+
+- **Il ruolo del PM di sicurezza informatica nello sviluppo guidato dagli incidenti**  
+  Fonte: BleepingComputer, 25 Jul 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-role-of-the-cybersecurity-pm-in-incident-driven-development/>)
+
+- **La campagna Cyber Expionage colpisce il settore aerospaziale russo usando il backdoor aquiletto**  
+  Fonte: The Hacker News, 25 Jul 2025, 13:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/cyber-espionage-campaign-hits-russian.html>)
+
+- **Sancenti statunitensi Azienda nordcoreana, cittadini dietro IT Schemi di lavoro**  
+  Fonte: BleepingComputer, 25 Jul 2025, 12:40:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-sanctions-north-korean-firm-nationals-behind-it-worker-schemes/>)
+
+- **La donna ottiene 8 anni per aiutare i nordcoreani infiltrati a 300 imprese statunitensi**  
+  Fonte: BleepingComputer, 25 Jul 2025, 11:41:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-woman-sentenced-to-8-years-in-prison-for-running-laptop-farm-helping-north-koreans-infiltrate-300-firms/>)
+
+- **Apprendimento subliminale in AIS**  
+  Fonte: Schneier on Security, 25 Jul 2025, 11:10:10 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/subliminal-learning-in-ais.html>)
+
+- **SOCO404 e Koske Malware Target Cloud Services con attacchi di criptominazione multipiattaforma**  
+  Fonte: The Hacker News, 25 Jul 2025, 10:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/soco404-and-koske-malware-target-cloud.html>)
+
+- **Superamento dei rischi dall'uso dello strumento cinese Genai**  
+  Fonte: The Hacker News, 25 Jul 2025, 10:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/overcoming-risks-from-chinese-genai.html>)
+
+- **Microsoft solleva il blocco di aggiornamento di Windows 11 per utenti anti-cheat facili**  
+  Fonte: BleepingComputer, 25 Jul 2025, 10:11:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-update-block-for-easy-anti-cheat-users/>)
+
 - **Siti di estorsione ransomware di neri sequestrati in Operation CheckMate**  
   Fonte: BleepingComputer, 24 Jul 2025, 21:34:13 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/>)
@@ -70,10 +122,6 @@
   Fonte: The Hacker News, 24 Jul 2025, 10:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/storm-2603-exploits-sharepoint-flaws-to.html>)
 
-- **Microsoft: SharePoint difetti sfruttati negli attacchi di ransomware di Warlock**  
-  Fonte: BleepingComputer, 24 Jul 2025, 09:53:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-servers-also-targeted-in-ransomware-attacks/>)
-
 - **Decrittore gratuito per le vittime di Phobos Ransomware rilasciato**  
   Fonte: Graham Cluley, 24 Jul 2025, 09:23:33 UTC  
   [Leggi](<https://www.fortra.com/blog/free-decryptor-victims-phobos-ransomware-released>)
@@ -90,25 +138,9 @@
   Fonte: Graham Cluley, 23 Jul 2025, 23:00:28 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-427/>)
 
-- **Brave blocca il richiamo di Windows dallo screenshoting L'attività di navigazione**  
-  Fonte: BleepingComputer, 23 Jul 2025, 22:42:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/brave-blocks-windows-recall-from-screenshotting-your-browsing-activity/>)
-
-- **Proton lancia l'assistente AI crittografato rispetto alla privacy Lumo**  
-  Fonte: BleepingComputer, 23 Jul 2025, 17:41:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/proton-launches-privacy-respecting-encrypted-ai-assistant-lumo/>)
-
-- **Gli hacker hanno ingannato l'help desk cognizant, afferma Clorox in una causa da $ 380 milioni di attacchi informatici**  
-  Fonte: BleepingComputer, 23 Jul 2025, 17:20:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-fooled-cognizant-help-desk-says-clorox-in-380m-cyberattack-lawsuit/>)
-
 - **L'attore della minaccia MIMO si rivolge a Magento e Docker per distribuire mineri di criptovalute e proxyware**  
   Fonte: The Hacker News, 23 Jul 2025, 17:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/threat-actor-mimo-targets-magento-and.html>)
-
-- **Chatgpt sta lanciando "personalità" a disattivare per diventare il tuo assistente**  
-  Fonte: BleepingComputer, 23 Jul 2025, 17:07:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-rolling-out-personality-toggles-to-become-your-assistant/>)
 
 - **Regno Unito per vietare il settore pubblico dal pagare le richieste di ransomware**  
   Fonte: Graham Cluley, 23 Jul 2025, 15:47:20 UTC  
@@ -238,45 +270,5 @@
   Fonte: Troy Hunt, 20 Jul 2025, 07:04:25 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-461/>)
 
-- **Blogging di calamari del venerdì: The Giant Squid Nebula**  
-  Fonte: Schneier on Security, 18 Jul 2025, 21:06:43 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-the-giant-squid-nebula.html>)
 
-- **Lo strumento di massa della Cina estrae segretamente SMS, dati GPS e immagini da telefoni confiscati**  
-  Fonte: The Hacker News, 18 Jul 2025, 18:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html>)
-
-- **Il gruppo UNG0002 colpisce la Cina, Hong Kong, il Pakistan usando file LNK e ratti in campagne gemelle**  
-  Fonte: The Hacker News, 18 Jul 2025, 18:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html>)
-
-- **I difetti di Ivanti sfruttati per abbandonare Mdifyloader e lanciare attacchi di sciopero Cobalt in memoria**  
-  Fonte: The Hacker News, 18 Jul 2025, 18:13:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html>)
-
-- **Cert-UA scopre malware Lamehug collegato ad APT28, utilizzando LLM per la campagna di phishing**  
-  Fonte: The Hacker News, 18 Jul 2025, 11:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html>)
-
-- **Il difetto di toolkit di contenitori nvidia critico consente un'escalation dei privilegi sui servizi cloud AI**  
-  Fonte: The Hacker News, 18 Jul 2025, 11:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html>)
-
-- **Pagnotta e ordine: la polizia belga lancia la campagna di sicurezza informatica a base di pane**  
-  Fonte: Graham Cluley, 18 Jul 2025, 11:30:31 UTC  
-  [Leggi](<https://grahamcluley.com/loaf-and-order-belgian-police-launch-bread-based-cybersecurity-campaign/>)
-
-- **Nuovo strumento forense per telefoni cellulari**  
-  Fonte: Schneier on Security, 18 Jul 2025, 11:07:34 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/new-mobile-phone-forensics-tool.html>)
-
-- **Google fa causa a 25 entità cinesi su botnet Badbox 2.0 che colpiscono dispositivi Android 10M**  
-  Fonte: The Hacker News, 18 Jul 2025, 11:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html>)
-
-- **Dal backup alla resilienza informatica: perché i leader IT devono ripensare il backup nell'era del ransomware**  
-  Fonte: The Hacker News, 18 Jul 2025, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-25 06:20:02 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-26 06:17:42 UTC -->
