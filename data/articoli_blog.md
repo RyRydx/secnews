@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **Allianz Life conferma la violazione dei dati influisce sulla maggior parte di 1,4 milioni di clienti**  
+  Fonte: BleepingComputer, 26 Jul 2025, 18:00:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/>)
+
+- **Il plugin post SMTP espone 200k siti WordPress agli attacchi di dirottamento**  
+  Fonte: BleepingComputer, 26 Jul 2025, 14:17:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/>)
+
 - **Blogging di calamari del venerdì: disegni quasi iso-isodinamici stabili**  
   Fonte: Schneier on Security, 25 Jul 2025, 21:00:38 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-stable-quasi-isodynamic-designs.html>)
@@ -82,10 +90,6 @@
   Fonte: BleepingComputer, 24 Jul 2025, 16:49:47 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-sneaks-infostealer-malware-into-early-access-steam-game/>)
 
-- **Mitel avverte del difetto critico di Bypass di autenticazione MX-One**  
-  Fonte: BleepingComputer, 24 Jul 2025, 15:17:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mitel-warns-of-critical-mivoice-mx-one-authentication-bypass-flaw/>)
-
 - **Malware CastleLoader infetta 469 dispositivi utilizzando Repos di GitHub falsi e Phishing ClickFix**  
   Fonte: The Hacker News, 24 Jul 2025, 15:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/castleloader-malware-infects-469.html>)
@@ -94,17 +98,9 @@
   Fonte: The Hacker News, 24 Jul 2025, 14:14:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/sophos-and-sonicwall-patch-critical-rce.html>)
 
-- **Hacker Breach Toptal GitHub Account, Pubblica pacchetti NPM dannosi**  
-  Fonte: BleepingComputer, 24 Jul 2025, 13:26:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-toptal-github-account-publish-malicious-npm-packages/>)
-
 - **Guarda questo webinar per scoprire difetti nascosti in Login, AI e Digital Trust - e risolverli**  
   Fonte: The Hacker News, 24 Jul 2025, 11:36:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/watch-this-webinar-to-uncover-hidden.html>)
-
-- **Sonicwall esorta gli amministratori a patch difettosi critici nei dispositivi SMA 100**  
-  Fonte: BleepingComputer, 24 Jul 2025, 11:17:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-rce-flaw-in-sma-100-VPN-appliances/>)
 
 - **Come il protocollo solido ripristina l'agenzia digitale**  
   Fonte: Schneier on Security, 24 Jul 2025, 11:04:48 UTC  
@@ -230,11 +226,11 @@
   Fonte: Graham Cluley, 21 Jul 2025, 10:47:14 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/europol-targets-kremlin-backed-cybercrime-gang-noname057-16>)
 
-- **Buona Riddance Teespring, ciao Quarthwall**  
+- **Buona Riddance Teespring, ciao quarto**  
   Fonte: Troy Hunt, 21 Jul 2025, 08:24:46 UTC  
   [Leggi](<https://www.troyhunt.com/good-riddance-teespring-hello-fourthwall/>)
 
-- **Hacker velenici bypass tasti fido usando phishing QR e abuso di accesso incrociato**  
+- **L'attacco di semi di veleno risulta non essere un bypass di Fido dopo tutto**  
   Fonte: The Hacker News, 21 Jul 2025, 06:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html>)
 
@@ -271,4 +267,4 @@
   [Leggi](<https://www.troyhunt.com/weekly-update-461/>)
 
 
-<!-- Ultimo aggiornamento: 2025-07-26 06:17:42 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-27 06:18:12 UTC -->
