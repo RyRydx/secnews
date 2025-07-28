@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **I difetti critici nel quadro del Niagara minacciano edifici intelligenti e sistemi industriali in tutto il mondo**  
+  Fonte: The Hacker News, 28 Jul 2025, 04:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html>)
+
+- **Sparse Spider sta eseguendo una follia di hacking VMware ESXI**  
+  Fonte: BleepingComputer, 27 Jul 2025, 15:05:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/>)
+
 - **Allianz Life conferma la violazione dei dati influisce sulla maggior parte di 1,4 milioni di clienti**  
   Fonte: BleepingComputer, 26 Jul 2025, 18:00:55 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/>)
@@ -85,10 +93,6 @@
 - **Fire Ant Explots VMware difetti per compromettere gli host ESXI e gli ambienti vCenter**  
   Fonte: The Hacker News, 24 Jul 2025, 17:05:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/fire-ant-exploits-vmware-flaw-to.html>)
-
-- **Hacker sgattaiolare malware Infostealer nel gioco Steam Access Early**  
-  Fonte: BleepingComputer, 24 Jul 2025, 16:49:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-sneaks-infostealer-malware-into-early-access-steam-game/>)
 
 - **Malware CastleLoader infetta 469 dispositivi utilizzando Repos di GitHub falsi e Phishing ClickFix**  
   Fonte: The Hacker News, 24 Jul 2025, 15:13:00 UTC  
@@ -226,45 +230,9 @@
   Fonte: Graham Cluley, 21 Jul 2025, 10:47:14 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/europol-targets-kremlin-backed-cybercrime-gang-noname057-16>)
 
-- **Buona Riddance Teespring, ciao quarto**  
+- **Buona Riddance Teespring, ciao Quarthwall**  
   Fonte: Troy Hunt, 21 Jul 2025, 08:24:46 UTC  
   [Leggi](<https://www.troyhunt.com/good-riddance-teespring-hello-fourthwall/>)
 
-- **L'attacco di semi di veleno risulta non essere un bypass di Fido dopo tutto**  
-  Fonte: The Hacker News, 21 Jul 2025, 06:13:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html>)
 
-- **Microsoft rilascia una patch urgente per SharePoint RCE Flaw sfruttato in attacchi informatici in corso**  
-  Fonte: The Hacker News, 21 Jul 2025, 03:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html>)
-
-- **Le credenziali codificate con codifica trovate nell'istante HPE sui dispositivi consentono l'accesso all'amministratore**  
-  Fonte: The Hacker News, 21 Jul 2025, 03:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html>)
-
-- **3.500 siti Web dirottati per estrarre segretamente Crypto usando Stealth JavaScript e WebSocket Tactics**  
-  Fonte: The Hacker News, 21 Jul 2025, 03:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html>)
-
-- **CRYPTHUB target gli sviluppatori Web3 che utilizzano piattaforme AI false per distribuire malware per furti**  
-  Fonte: The Hacker News, 20 Jul 2025, 16:13:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html>)
-
-- **Critical senza patch sharepoint zero-day sfruttato attivamente, viola 75+ server dell'azienda**  
-  Fonte: The Hacker News, 20 Jul 2025, 09:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html>)
-
-- **Malware iniettato in pacchetti da 7 npm dopo i token di manutenzione rubati in attacco di phishing**  
-  Fonte: The Hacker News, 20 Jul 2025, 09:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html>)
-
-- **Gli hacker sfruttano il difetto critico di CrushftP per ottenere l'accesso amministrativo su server non patch**  
-  Fonte: The Hacker News, 20 Jul 2025, 07:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html>)
-
-- **Aggiornamento settimanale 461**  
-  Fonte: Troy Hunt, 20 Jul 2025, 07:04:25 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-461/>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-27 06:18:12 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-28 06:21:39 UTC -->
