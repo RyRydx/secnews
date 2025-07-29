@@ -2,6 +2,98 @@
 
 ## Ultimi 7 giorni
 
+- **CISA aggiunge la vulnerabilità CSRF NG/MF di Papercut al catalogo KEV in mezzo a uno sfruttamento attivo**  
+  Fonte: The Hacker News, 29 Jul 2025, 04:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/cisa-adds-papercut-ngmf-csrf.html>)
+
+- **Applese per le perdite e -mail dell'utente privato per perdite di difetti per utenti.**  
+  Fonte: BleepingComputer, 29 Jul 2025, 02:39:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/>)
+
+- **La perdita di app di tè peggiora con il secondo database che espone le chat utente**  
+  Fonte: BleepingComputer, 28 Jul 2025, 20:55:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/tea-app-leak-worsens-with-second-database-exposing-user-chats/>)
+
+- **Flaw in Gemini Cli Ai Coding Assistant ha consentito l'esecuzione del codice furtivo**  
+  Fonte: BleepingComputer, 28 Jul 2025, 19:40:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/flaw-in-gemini-cli-ai-coding-assistant-allowed-stealthy-code-execution/>)
+
+- **Quella volta Tom Lehrer ha scherzato l'NSA**  
+  Fonte: Schneier on Security, 28 Jul 2025, 19:00:22 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/that-time-tom-lehrer-pranked-the-nsa.html>)
+
+- **Strumento di configurazione del mouse endgame utenti infetti con malware**  
+  Fonte: BleepingComputer, 28 Jul 2025, 18:48:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/endgame-gear-mouse-config-tool-infected-users-with-malware/>)
+
+- **Microsoft: MacOS Sploitlight Flaw perde i dati di Intelligence Apple**  
+  Fonte: BleepingComputer, 28 Jul 2025, 18:03:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-macos-sploitlight-flaw-leaks-apple-intelligence-data/>)
+
+- **Hacker Breach Toptal GitHub, pubblica 10 pacchetti NPM dannosi con 5.000 download**  
+  Fonte: The Hacker News, 28 Jul 2025, 17:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/hackers-breach-toptal-github-publish-10.html>)
+
+- **Exploit disponibile per il bug Cisco ISE critico sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 28 Jul 2025, 17:29:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-cisco-ise-bug-exploited-in-attacks/>)
+
+- **CISA Flags PaperCut RCE Bug come sfruttato negli attacchi, patch ora**  
+  Fonte: BleepingComputer, 28 Jul 2025, 16:59:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-papercut-rce-bug-as-exploited-in-attacks-patch-now/>)
+
+- **Microsoft smetterà di supportare Windows 11 22h2 in ottobre**  
+  Fonte: BleepingComputer, 28 Jul 2025, 15:52:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-will-stop-supporting-windows-11-22h2-in-october/>)
+
+- **Openi prepara GPT-5 per il lancio**  
+  Fonte: BleepingComputer, 28 Jul 2025, 15:43:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-gpt-5-for-roll-out/>)
+
+- **Il gruppo navale del costruttore di navi da guerra francese indaga una violazione dei dati 1 TB**  
+  Fonte: BleepingComputer, 28 Jul 2025, 15:31:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/frances-warship-builder-naval-group-investigates-1tb-data-breach/>)
+
+- **Openi potrebbe competere con Google Shopping con il negozio di chatgpt**  
+  Fonte: BleepingComputer, 28 Jul 2025, 15:25:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-could-rival-google-shopping-with-chatgpt-shop/>)
+
+- **Internet Archive è ora una biblioteca di deposito federale degli Stati Uniti**  
+  Fonte: BleepingComputer, 28 Jul 2025, 15:19:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/technology/internet-archive-is-now-a-us-federal-depository-library/>)
+
+- **Segreti sottomarini francesi superficie dopo l'attacco informatico**  
+  Fonte: Graham Cluley, 28 Jul 2025, 14:19:24 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/french-submarine-secrets-surface-after-cyber-attack>)
+
+- **Lo strumento di autoswagger gratuito trova gli aggressori di difetti API spera che ti perda**  
+  Fonte: BleepingComputer, 28 Jul 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/free-tool-autoswagger-finds-the-api-flaws-attackers-hope-you-miss/>)
+
+- **Allianz Life colpita da hacker, dati personali dei clienti e del personale rubato**  
+  Fonte: Graham Cluley, 28 Jul 2025, 13:23:48 UTC  
+  [Leggi](<https://grahamcluley.com/allianz-life-hit-by-hackers-customer-and-staff-personal-data-stolen/>)
+
+- **⚡ Riepilogo settimanale: violazione di SharePoint, spyware, hijacks IoT, frode DPRK, drenaggi di criptovalute e altro ancora**  
+  Fonte: The Hacker News, 28 Jul 2025, 12:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/weekly-recap-sharepoint-breach-spyware.html>)
+
+- **La sicurezza e -mail è bloccata nell'era antivirus: perché ha bisogno di un approccio moderno**  
+  Fonte: The Hacker News, 28 Jul 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/email-security-is-stuck-in-antivirus.html>)
+
+- **Microsoft SharePoint Zero-Day**  
+  Fonte: Schneier on Security, 28 Jul 2025, 11:09:22 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/microsoft-sharepoint-zero-day.html>)
+
+- **Aggiornamento settimanale 462**  
+  Fonte: Troy Hunt, 28 Jul 2025, 10:37:36 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-462/>)
+
+- **Spider Spesed Hijacks VMware ESXI per distribuire ransomware sull'infrastruttura statunitense critica**  
+  Fonte: The Hacker News, 28 Jul 2025, 06:19:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/scattered-spider-hijacks-vmware-esxi-to.html>)
+
 - **I difetti critici nel quadro del Niagara minacciano edifici intelligenti e sistemi industriali in tutto il mondo**  
   Fonte: The Hacker News, 28 Jul 2025, 04:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html>)
@@ -10,25 +102,13 @@
   Fonte: BleepingComputer, 27 Jul 2025, 15:05:50 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/>)
 
-- **Allianz Life conferma la violazione dei dati influisce sulla maggior parte di 1,4 milioni di clienti**  
-  Fonte: BleepingComputer, 26 Jul 2025, 18:00:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/>)
-
-- **Il plugin post SMTP espone 200k siti WordPress agli attacchi di dirottamento**  
-  Fonte: BleepingComputer, 26 Jul 2025, 14:17:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/>)
+- **L'app di consulenza per gli appuntamenti del tè versa dati sensibili**  
+  Fonte: Graham Cluley, 27 Jul 2025, 08:10:09 UTC  
+  [Leggi](<https://grahamcluley.com/tea-dating-advice-app-spills-sensitive-data/>)
 
 - **Blogging di calamari del venerdì: disegni quasi iso-isodinamici stabili**  
   Fonte: Schneier on Security, 25 Jul 2025, 21:00:38 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-stable-quasi-isodynamic-designs.html>)
-
-- **Amazon AI Coding Agent hackerato per iniettare i comandi di asciugatura dei dati**  
-  Fonte: BleepingComputer, 25 Jul 2025, 20:43:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/>)
-
-- **Microsoft indaga l'interruzione che colpisce Microsoft 365 Admin Center**  
-  Fonte: BleepingComputer, 25 Jul 2025, 18:49:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-admin-center/>)
 
 - **Firmante delle sanzioni statunitensi dietro il regime IT N. coreano;Donna dell'Arizona incarcerata per la gestione del laptop**  
   Fonte: The Hacker News, 25 Jul 2025, 15:05:00 UTC  
@@ -38,21 +118,9 @@
   Fonte: The Hacker News, 25 Jul 2025, 14:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/patchwork-targets-turkish-defense-firms.html>)
 
-- **Il ruolo del PM di sicurezza informatica nello sviluppo guidato dagli incidenti**  
-  Fonte: BleepingComputer, 25 Jul 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-role-of-the-cybersecurity-pm-in-incident-driven-development/>)
-
 - **La campagna Cyber Expionage colpisce il settore aerospaziale russo usando il backdoor aquiletto**  
   Fonte: The Hacker News, 25 Jul 2025, 13:14:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/cyber-espionage-campaign-hits-russian.html>)
-
-- **Sancenti statunitensi Azienda nordcoreana, cittadini dietro IT Schemi di lavoro**  
-  Fonte: BleepingComputer, 25 Jul 2025, 12:40:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-sanctions-north-korean-firm-nationals-behind-it-worker-schemes/>)
-
-- **La donna ottiene 8 anni per aiutare i nordcoreani infiltrati a 300 imprese statunitensi**  
-  Fonte: BleepingComputer, 25 Jul 2025, 11:41:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-woman-sentenced-to-8-years-in-prison-for-running-laptop-farm-helping-north-koreans-infiltrate-300-firms/>)
 
 - **Apprendimento subliminale in AIS**  
   Fonte: Schneier on Security, 25 Jul 2025, 11:10:10 UTC  
@@ -65,22 +133,6 @@
 - **Superamento dei rischi dall'uso dello strumento cinese Genai**  
   Fonte: The Hacker News, 25 Jul 2025, 10:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/overcoming-risks-from-chinese-genai.html>)
-
-- **Microsoft solleva il blocco di aggiornamento di Windows 11 per utenti anti-cheat facili**  
-  Fonte: BleepingComputer, 25 Jul 2025, 10:11:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-update-block-for-easy-anti-cheat-users/>)
-
-- **Siti di estorsione ransomware di neri sequestrati in Operation CheckMate**  
-  Fonte: BleepingComputer, 24 Jul 2025, 21:34:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/>)
-
-- **Openai conferma che l'agente chatgpt ora sta lanciando per $ 20 più utenti**  
-  Fonte: BleepingComputer, 24 Jul 2025, 20:59:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-agent-is-now-rolling-out-for-20-plus-users/>)
-
-- **Nuove pelli di malware Koske Linux in immagini di panda carine**  
-  Fonte: BleepingComputer, 24 Jul 2025, 20:54:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-koske-linux-malware-hides-in-cute-panda-images/>)
 
 - **Phishers si prendono di mira ai dirigenti dell'aviazione ai clienti SCAM**  
   Fonte: Krebs on Security, 24 Jul 2025, 17:57:06 UTC  
@@ -202,37 +254,5 @@
   Fonte: The Hacker News, 22 Jul 2025, 07:59:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/hackers-exploit-sharepoint-zero-day.html>)
 
-- **Malware Android DCHSPY legato all'Iran Maschera come app VPN per spia**  
-  Fonte: The Hacker News, 21 Jul 2025, 17:18:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html>)
 
-- **Gli hacker collegati in Cina lanciano una campagna di spionaggio mirata sull'infrastruttura IT africana**  
-  Fonte: The Hacker News, 21 Jul 2025, 16:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/china-linked-hackers-launch-targeted.html>)
-
-- **Microsoft Fix prende di mira gli attacchi su SharePoint Zero-Day**  
-  Fonte: Krebs on Security, 21 Jul 2025, 14:45:46 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/>)
-
-- **⚡ Riepilogo settimanale: SharePoint 0-Day, Chrome Exploit, MacOS Spyware, Nvidia Toolkit RCE e altro ancora**  
-  Fonte: The Hacker News, 21 Jul 2025, 11:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html>)
-
-- **Valutare il ruolo dell'IA in zero fiducia**  
-  Fonte: The Hacker News, 21 Jul 2025, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html>)
-
-- **Un'altra vulnerabilità della catena di approvvigionamento**  
-  Fonte: Schneier on Security, 21 Jul 2025, 11:04:59 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/another-supply-chain-vulnerability.html>)
-
-- **Europol prende di mira la banda di criminalità informatica sostenuta dal Cremlino NONAME057 (16)**  
-  Fonte: Graham Cluley, 21 Jul 2025, 10:47:14 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/europol-targets-kremlin-backed-cybercrime-gang-noname057-16>)
-
-- **Buona Riddance Teespring, ciao Quarthwall**  
-  Fonte: Troy Hunt, 21 Jul 2025, 08:24:46 UTC  
-  [Leggi](<https://www.troyhunt.com/good-riddance-teespring-hello-fourthwall/>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-28 06:21:39 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-29 06:20:01 UTC -->
