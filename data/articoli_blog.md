@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Il Minnesota attiva la Guardia Nazionale dopo St. Paul Cyberack**  
+  Fonte: BleepingComputer, 29 Jul 2025, 18:58:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/minnesota-activates-national-guard-after-st-paul-cyberattack/>)
+
+- **Aeroflot Aeroflot Grounds russo Dozzine di voli dopo attacchi informatici**  
+  Fonte: BleepingComputer, 29 Jul 2025, 17:51:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-airline-aeroflot-grounds-dozens-of-flights-after-cyberattack/>)
+
+- **Hacker Exploit SAP NetWeaver Bug per distribuire malware Linux Auto-Color**  
+  Fonte: BleepingComputer, 29 Jul 2025, 16:10:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-sap-netweaver-bug-to-deploy-linux-auto-color-malware/>)
+
+- **Wiz scopre l'accesso critico di bypass di bypass nella piattaforma di codifica vibrante basata sull'intelligenza artificiale Base44**  
+  Fonte: The Hacker News, 29 Jul 2025, 15:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/wiz-uncovers-critical-access-bypass.html>)
+
+- **Microsoft Edge ora un browser "alimentato dall'IA" con modalità copilota**  
+  Fonte: BleepingComputer, 29 Jul 2025, 15:02:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-an-ai-powered-browser-with-copilot-mode/>)
+
+- **Il gigante di telecomunicazione francese arancione rivela il cyberack cyberack**  
+  Fonte: BleepingComputer, 29 Jul 2025, 14:28:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/french-telecommunications-giant-orange-discloses-cyberattack/>)
+
+- **PyPI avverte della campagna di phishing in corso utilizzando e -mail di verifica falsa e dominio Lookalike**  
+  Fonte: The Hacker News, 29 Jul 2025, 14:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/pypi-warns-of-ongoing-phishing-campaign.html>)
+
+- **L'IA Fix #61: Replit Panics, elimina il progetto $ 1 milione;Ai ottiene l'oro alle olimpiadi matematiche**  
+  Fonte: Graham Cluley, 29 Jul 2025, 14:05:24 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-61/>)
+
+- **L'FBI prende $ 2,4 milioni in Bitcoin dal nuovo funzionamento di ransomware del caos**  
+  Fonte: BleepingComputer, 29 Jul 2025, 13:52:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-seizes-24m-in-bitcoin-from-new-chaos-ransomware-operation/>)
+
+- **Come gli aggressori sono ancora autenticazione "resistente al phishing"**  
+  Fonte: BleepingComputer, 29 Jul 2025, 13:50:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-attackers-are-still-phishing-phishing-resistant-authentication/>)
+
+- **200.000 siti Web WordPress a rischio di essere dirottati a causa del plug -in vulnerabile post SMTP**  
+  Fonte: Graham Cluley, 29 Jul 2025, 13:40:49 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/200-000-wordpress-websites-at-risk-of-being-hijacked-due-to-vulnerable-post-smtp-plugin>)
+
+- **Chaos Raas emerge dopo il takedown di blacksuit, chiedendo $ 300k dalle vittime degli Stati Uniti**  
+  Fonte: The Hacker News, 29 Jul 2025, 13:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/chaos-raas-emerges-after-blacksuit.html>)
+
+- **Come il browser è diventato il principale campo di battaglia informatica**  
+  Fonte: The Hacker News, 29 Jul 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/how-browser-became-main-cyber.html>)
+
+- **I criminali informatici utilizzano app false per rubare i dati e ricattare gli utenti attraverso le reti mobili dell'Asia**  
+  Fonte: The Hacker News, 29 Jul 2025, 11:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/cybercriminals-use-fake-apps-to-steal.html>)
+
+- **Aeroflot hackerato**  
+  Fonte: Schneier on Security, 29 Jul 2025, 11:02:50 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/aeroflot-hacked.html>)
+
+- **Why React non ha ucciso XSS: il nuovo Playbook di Iniezione JavaScript**  
+  Fonte: The Hacker News, 29 Jul 2025, 10:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html>)
+
 - **CISA aggiunge la vulnerabilità CSRF NG/MF di Papercut al catalogo KEV in mezzo a uno sfruttamento attivo**  
   Fonte: The Hacker News, 29 Jul 2025, 04:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/cisa-adds-papercut-ngmf-csrf.html>)
@@ -38,37 +102,9 @@
   Fonte: BleepingComputer, 28 Jul 2025, 17:29:23 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-cisco-ise-bug-exploited-in-attacks/>)
 
-- **CISA Flags PaperCut RCE Bug come sfruttato negli attacchi, patch ora**  
-  Fonte: BleepingComputer, 28 Jul 2025, 16:59:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-papercut-rce-bug-as-exploited-in-attacks-patch-now/>)
-
-- **Microsoft smetterà di supportare Windows 11 22h2 in ottobre**  
-  Fonte: BleepingComputer, 28 Jul 2025, 15:52:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-will-stop-supporting-windows-11-22h2-in-october/>)
-
-- **Openi prepara GPT-5 per il lancio**  
-  Fonte: BleepingComputer, 28 Jul 2025, 15:43:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-gpt-5-for-roll-out/>)
-
-- **Il gruppo navale del costruttore di navi da guerra francese indaga una violazione dei dati 1 TB**  
-  Fonte: BleepingComputer, 28 Jul 2025, 15:31:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/frances-warship-builder-naval-group-investigates-1tb-data-breach/>)
-
-- **Openi potrebbe competere con Google Shopping con il negozio di chatgpt**  
-  Fonte: BleepingComputer, 28 Jul 2025, 15:25:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-could-rival-google-shopping-with-chatgpt-shop/>)
-
-- **Internet Archive è ora una biblioteca di deposito federale degli Stati Uniti**  
-  Fonte: BleepingComputer, 28 Jul 2025, 15:19:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/internet-archive-is-now-a-us-federal-depository-library/>)
-
 - **Segreti sottomarini francesi superficie dopo l'attacco informatico**  
   Fonte: Graham Cluley, 28 Jul 2025, 14:19:24 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/french-submarine-secrets-surface-after-cyber-attack>)
-
-- **Lo strumento di autoswagger gratuito trova gli aggressori di difetti API spera che ti perda**  
-  Fonte: BleepingComputer, 28 Jul 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/free-tool-autoswagger-finds-the-api-flaws-attackers-hope-you-miss/>)
 
 - **Allianz Life colpita da hacker, dati personali dei clienti e del personale rubato**  
   Fonte: Graham Cluley, 28 Jul 2025, 13:23:48 UTC  
@@ -97,10 +133,6 @@
 - **I difetti critici nel quadro del Niagara minacciano edifici intelligenti e sistemi industriali in tutto il mondo**  
   Fonte: The Hacker News, 28 Jul 2025, 04:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html>)
-
-- **Sparse Spider sta eseguendo una follia di hacking VMware ESXI**  
-  Fonte: BleepingComputer, 27 Jul 2025, 15:05:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/>)
 
 - **L'app di consulenza per gli appuntamenti del tè versa dati sensibili**  
   Fonte: Graham Cluley, 27 Jul 2025, 08:10:09 UTC  
@@ -222,37 +254,5 @@
   Fonte: The Hacker News, 23 Jul 2025, 06:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html>)
 
-- **Microsoft Links in corso Exploit di SharePoint a tre gruppi di hacker cinesi**  
-  Fonte: The Hacker News, 22 Jul 2025, 15:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html>)
 
-- **L'IA Fix #60: Elon’s Ai Girlfriend, The incenziale Red Panda e l'IA che ti ucciderà**  
-  Fonte: Graham Cluley, 22 Jul 2025, 14:05:41 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-60/>)
-
-- **Cisco conferma gli exploit attivi che mirano ai difetti ISE che consentono l'accesso alla radice non autenticato**  
-  Fonte: The Hacker News, 22 Jul 2025, 13:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/cisco-confirms-active-exploits.html>)
-
-- **Il furto di credenziali e l'accesso remoto si proliferano**  
-  Fonte: The Hacker News, 22 Jul 2025, 13:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/credential-theft-and-remote-access.html>)
-
-- **"Backdoors di crittografia e il quarto emendamento"**  
-  Fonte: Schneier on Security, 22 Jul 2025, 11:05:47 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/encryption-backdoors-and-the-fourth-amendment.html>)
-
-- **Come avanzare da Soc Manager a CISO?**  
-  Fonte: The Hacker News, 22 Jul 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/how-to-advance-from-soc-manager-to-ciso.html>)
-
-- **11 anni di direttore regionale di Microsoft e 15 anni di MVP**  
-  Fonte: Troy Hunt, 22 Jul 2025, 09:58:19 UTC  
-  [Leggi](<https://www.troyhunt.com/11-years-of-microsoft-regional-director-and-15-years-of-mvp/>)
-
-- **Gli hacker sfruttano SharePoint Zero-Day dal 7 luglio per rubare le chiavi, mantenere l'accesso persistente**  
-  Fonte: The Hacker News, 22 Jul 2025, 07:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/hackers-exploit-sharepoint-zero-day.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-29 06:20:01 UTC -->
+<!-- Ultimo aggiornamento: 2025-07-30 06:21:42 UTC -->
