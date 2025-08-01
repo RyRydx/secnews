@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Kali Linux può ora funzionare in contenitori Apple su sistemi macOS**  
+  Fonte: BleepingComputer, 31 Jul 2025, 18:46:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/kali-linux-can-now-run-in-apple-containers-on-macos-systems/>)
+
+- **Microsoft per disabilitare i collegamenti della cartella di lavoro Excel a tipi di file bloccati**  
+  Fonte: BleepingComputer, 31 Jul 2025, 18:26:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-external-workbook-links-to-blocked-file-types/>)
+
+- **Microsoft ora paga fino a $ 40.000 per alcune vulnerabilità .net**  
+  Fonte: BleepingComputer, 31 Jul 2025, 17:23:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-now-pays-up-to-40-000-for-some-net-vulnerabilities/>)
+
+- **Blizzard segreto distribuisce malware in attacchi AITM a livello ISP alle ambasciate di Mosca**  
+  Fonte: The Hacker News, 31 Jul 2025, 17:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/secret-blizzard-deploys-malware-in-isp.html>)
+
+- **Piattaforma Thorium Open-Sources CISA per malware, analisi forense**  
+  Fonte: BleepingComputer, 31 Jul 2025, 16:43:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-open-sources-thorium-platform-for-malware-forensic-analysis/>)
+
+- **Microsoft: gli hacker russi usano l'accesso ISP alle ambasciate di hacking negli attacchi AITM**  
+  Fonte: BleepingComputer, 31 Jul 2025, 16:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-russian-hackers-use-isp-access-to-hack-embassies-in-aitm-attacks/>)
+
+- **Gli esperti rilevano la tattica di reindirizzamento multistrato utilizzato per rubare le credenziali di accesso Microsoft 365**  
+  Fonte: The Hacker News, 31 Jul 2025, 15:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/experts-detect-multi-layer-redirect.html>)
+
+- **All'interno di un vero attacco ClickFix: come si svolge questo hack di ingegneria sociale**  
+  Fonte: BleepingComputer, 31 Jul 2025, 14:05:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-a-real-clickfix-attack-how-this-social-engineering-hack-unfolds/>)
+
+- **N. Hacker coreani usavano esche di lavoro, accesso all'account cloud e malware per rubare milioni in criptovalute**  
+  Fonte: The Hacker News, 31 Jul 2025, 13:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/n-korean-hackers-used-job-lures-cloud.html>)
+
+- **I picchi in attività dannosa precedono nuovi difetti di sicurezza nell'80% dei casi**  
+  Fonte: BleepingComputer, 31 Jul 2025, 13:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spikes-in-malicious-activity-precede-new-cves-in-80-percent-of-cases/>)
+
+- **Tendenze guidate dall'IA nella sicurezza endpoint: What the 2025 Gartner® Magic Quadrant ™**  
+  Fonte: The Hacker News, 31 Jul 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html>)
+
+- **Tradire i benchmark di calcolo quantistico**  
+  Fonte: Schneier on Security, 31 Jul 2025, 11:00:37 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/07/cheating-on-quantum-computing-benchmarks.html>)
+
+- **UNC2891 viola la rete ATM tramite 4G Raspberry Pi, prova Caketap Rootkit per frode**  
+  Fonte: The Hacker News, 31 Jul 2025, 10:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/unc2891-breaches-atm-network-via-4g.html>)
+
+- **Avviso affaticamento, sovraccarico di dati e caduta dei SIEM tradizionali**  
+  Fonte: The Hacker News, 31 Jul 2025, 10:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/alert-fatigue-data-overload-and-fall-of.html>)
+
+- **Proton lancia un'app di autenticatore multipiattaforma standalone gratuita**  
+  Fonte: BleepingComputer, 31 Jul 2025, 10:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/proton-launches-free-standalone-cross-platform-authenticator-app/>)
+
+- **Hacker Exploit Critical WordPress Tema difetto ai siti di hijack tramite l'installazione del plug -in remoto**  
+  Fonte: The Hacker News, 31 Jul 2025, 06:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/hackers-exploit-critical-wordpress.html>)
+
 - **Smashing Security Podcast #428: bandiere rosse, chat trapelate e un addio finale**  
   Fonte: Graham Cluley, 30 Jul 2025, 23:05:08 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-428/>)
@@ -42,10 +106,6 @@
   Fonte: BleepingComputer, 30 Jul 2025, 16:10:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/apple-patches-security-flaw-exploited-in-chrome-zero-day-attacks/>)
 
-- **Nuovi aggiornamenti del firmware di Lenovo UEFI correggi i difetti di bypass di avvio sicuro**  
-  Fonte: BleepingComputer, 30 Jul 2025, 14:52:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-lenovo-uefi-firmware-updates-fix-secure-boot-bypass-flaws/>)
-
 - **Product Walkthrough: uno sguardo all'interno della piattaforma di sicurezza AI di Pillar**  
   Fonte: The Hacker News, 30 Jul 2025, 13:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/product-walkthrough-look-inside-pillars.html>)
@@ -53,10 +113,6 @@
 - **Patch Apple Safari Vulnerabilità è anche sfruttata come zero-day in Google Chrome**  
   Fonte: The Hacker News, 30 Jul 2025, 13:02:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/apple-patches-safari-vulnerability-also.html>)
-
-- **AI taglia il carico di lavoro VCISO del 68% come Skyrockets di domanda, nuovo rapporto scopre**  
-  Fonte: BleepingComputer, 30 Jul 2025, 13:01:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-cuts-vciso-workload-by-68-percent-as-demand-skyrockets-new-report-finds/>)
 
 - **I difetti della telecamera Dahua critici abilitano il dirottamento remoto tramite Onvif e Exploit di caricamento di file**  
   Fonte: The Hacker News, 30 Jul 2025, 13:01:00 UTC  
@@ -82,29 +138,9 @@
   Fonte: The Hacker News, 30 Jul 2025, 06:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/scattered-spider-hacker-arrests-halt.html>)
 
-- **Il Minnesota attiva la Guardia Nazionale dopo St. Paul Cyberack**  
-  Fonte: BleepingComputer, 29 Jul 2025, 18:58:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/minnesota-activates-national-guard-after-st-paul-cyberattack/>)
-
-- **Aeroflot Aeroflot Grounds russo Dozzine di voli dopo attacchi informatici**  
-  Fonte: BleepingComputer, 29 Jul 2025, 17:51:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-airline-aeroflot-grounds-dozens-of-flights-after-cyberattack/>)
-
-- **Hacker Exploit SAP NetWeaver Bug per distribuire malware Linux Auto-Color**  
-  Fonte: BleepingComputer, 29 Jul 2025, 16:10:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-sap-netweaver-bug-to-deploy-linux-auto-color-malware/>)
-
 - **Wiz scopre l'accesso critico di bypass di bypass nella piattaforma di codifica vibrante basata sull'intelligenza artificiale Base44**  
   Fonte: The Hacker News, 29 Jul 2025, 15:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/wiz-uncovers-critical-access-bypass.html>)
-
-- **Microsoft Edge ora un browser "alimentato dall'IA" con modalità copilota**  
-  Fonte: BleepingComputer, 29 Jul 2025, 15:02:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-an-ai-powered-browser-with-copilot-mode/>)
-
-- **Il gigante di telecomunicazione francese arancione rivela il cyberack cyberack**  
-  Fonte: BleepingComputer, 29 Jul 2025, 14:28:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/french-telecommunications-giant-orange-discloses-cyberattack/>)
 
 - **PyPI avverte della campagna di phishing in corso utilizzando e -mail di verifica falsa e dominio Lookalike**  
   Fonte: The Hacker News, 29 Jul 2025, 14:27:00 UTC  
@@ -214,53 +250,5 @@
   Fonte: The Hacker News, 25 Jul 2025, 10:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/overcoming-risks-from-chinese-genai.html>)
 
-- **Phishers si prendono di mira ai dirigenti dell'aviazione ai clienti SCAM**  
-  Fonte: Krebs on Security, 24 Jul 2025, 17:57:06 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/>)
 
-- **Critical Mitel Flaw consente agli hacker di bypassare l'accesso, ottenere pieno accesso ai sistemi MX-One Mivoice**  
-  Fonte: The Hacker News, 24 Jul 2025, 17:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/critical-mitel-flaw-lets-hackers-bypass.html>)
-
-- **Fire Ant Exploits VMware Flaws per compromettere gli host ESXI e gli ambienti vCenter**  
-  Fonte: The Hacker News, 24 Jul 2025, 17:05:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/fire-ant-exploits-vmware-flaw-to.html>)
-
-- **Malware CastleLoader infetta 469 dispositivi utilizzando Repos di GitHub falsi e Phishing ClickFix**  
-  Fonte: The Hacker News, 24 Jul 2025, 15:13:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/castleloader-malware-infects-469.html>)
-
-- **Sophos e Sonicwall Patch Critical RCE difetti che colpiscono firewall e dispositivi SMA 100**  
-  Fonte: The Hacker News, 24 Jul 2025, 14:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/sophos-and-sonicwall-patch-critical-rce.html>)
-
-- **Guarda questo webinar per scoprire difetti nascosti in Login, AI e Digital Trust - e risolverli**  
-  Fonte: The Hacker News, 24 Jul 2025, 11:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/watch-this-webinar-to-uncover-hidden.html>)
-
-- **Come il protocollo solido ripristina l'agenzia digitale**  
-  Fonte: Schneier on Security, 24 Jul 2025, 11:04:48 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html>)
-
-- **Pentest una volta all'anno?No.È tempo di costruire un SoC offensivo**  
-  Fonte: The Hacker News, 24 Jul 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/pentests-once-year-nope-its-time-to.html>)
-
-- **Gli APT con sede in Cina distribuiscono app false dalai lama per spiare la comunità tibetana**  
-  Fonte: The Hacker News, 24 Jul 2025, 10:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/china-based-apts-deploy-fake-dalai-lama.html>)
-
-- **Storm-2603 sfrutta i difetti di SharePoint per distribuire il ransomware di Warlock su sistemi senza pattui**  
-  Fonte: The Hacker News, 24 Jul 2025, 10:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/storm-2603-exploits-sharepoint-flaws-to.html>)
-
-- **Decrittore gratuito per le vittime di Phobos Ransomware rilasciato**  
-  Fonte: Graham Cluley, 24 Jul 2025, 09:23:33 UTC  
-  [Leggi](<https://www.fortra.com/blog/free-decryptor-victims-phobos-ransomware-released>)
-
-- **Europol arresta l'amministratore del forum XSS a Kyiv dopo il marketplace operativo di criminalità operativa di 12 anni**  
-  Fonte: The Hacker News, 24 Jul 2025, 06:48:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/europol-arrests-xss-forum-admin-in-kyiv.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-07-31 06:19:42 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-01 06:21:59 UTC -->
