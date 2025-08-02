@@ -2,6 +2,58 @@
 
 ## Ultimi 7 giorni
 
+- **Blogging di calamari del venerdì: un caso di errata identificazione fossile di calamari**  
+  Fonte: Schneier on Security, 01 Aug 2025, 21:01:54 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-a-case-of-squid-fossil-misidentification.html>)
+
+- **Openai potrebbe testare un piano a pagamento più economico per Chatgpt**  
+  Fonte: BleepingComputer, 01 Aug 2025, 20:16:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-may-be-testing-a-cheaper-paid-plan-for-chatgpt/>)
+
+- **Dispositivi di Sonicwall Firewall colpiti in aumento degli attacchi di ransomware di Akira**  
+  Fonte: BleepingComputer, 01 Aug 2025, 17:28:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/surge-of-akira-ransomware-attacks-hits-sonicwall-firewall-devices/>)
+
+- **PI-Hole rivela la violazione dei dati attivati dal difetto del plug-in WordPress**  
+  Fonte: BleepingComputer, 01 Aug 2025, 16:13:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pi-hole-discloses-data-breach-via-givewp-wordpress-plugin-flaw/>)
+
+- **Editor di codice AI Cursore Firme fisso per consentire agli aggressori di eseguire comandi tramite iniezione prompt**  
+  Fonte: The Hacker News, 01 Aug 2025, 15:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/cursor-ai-code-editor-fixed-flaw.html>)
+
+- **Gli aggressori usano false app OAuth con kit magnate per violare gli account Microsoft 365**  
+  Fonte: The Hacker News, 01 Aug 2025, 13:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/attackers-use-fake-oauth-apps-with.html>)
+
+- **Cursore alimentato con AI IDE vulnerabile agli attacchi di iniezione rapida**  
+  Fonte: BleepingComputer, 01 Aug 2025, 13:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-powered-cursor-ide-vulnerable-to-prompt-injection-attacks/>)
+
+- **Divulgazione di vulnerabilità su SSL per SaaS V1 (CNAME GESTED)**  
+  Fonte: Cloudflare Blog - Security, 01 Aug 2025, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/vulnerability-disclosure-on-ssl-for-saas-v1-managed-cname/>)
+
+- **Il pacchetto NPM dannoso generato dall'IA drena i fondi di Solana da 1.500+ prima di Takedown**  
+  Fonte: The Hacker News, 01 Aug 2025, 12:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/ai-generated-malicious-npm-package.html>)
+
+- **Spiando le persone attraverso il servizio di consegna dei bagagli dell'aeroporto**  
+  Fonte: Schneier on Security, 01 Aug 2025, 11:07:28 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/spying-on-people-through-airportr-luggage-delivery-service.html>)
+
+- **Sei quello che mangi: perché i tuoi strumenti di sicurezza AI sono forti solo come i dati che li dà da mangiare**  
+  Fonte: The Hacker News, 01 Aug 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/you-are-what-you-eat-why-your-ai.html>)
+
+- **PWN2Own Hacking Contest paga $ 1 milione per WhatsApp Exploit**  
+  Fonte: BleepingComputer, 01 Aug 2025, 10:40:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pwn2own-hacking-contest-pays-1-million-for-whatsapp-exploit/>)
+
+- **Storm-2603 distribuisce backdoor controllato da DNS in Warlock e Lockbit Ransomware Attacks**  
+  Fonte: The Hacker News, 01 Aug 2025, 08:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/storm-2603-exploits-sharepoint-flaws-to.html>)
+
 - **Kali Linux può ora funzionare in contenitori Apple su sistemi macOS**  
   Fonte: BleepingComputer, 31 Jul 2025, 18:46:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/kali-linux-can-now-run-in-apple-containers-on-macos-systems/>)
@@ -70,29 +122,9 @@
   Fonte: Graham Cluley, 30 Jul 2025, 23:05:08 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-428/>)
 
-- **Shinyhunters dietro gli attacchi di furto di dati di Salesforce a Qantas, Allianz Life e LVMH**  
-  Fonte: BleepingComputer, 30 Jul 2025, 19:52:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-behind-salesforce-data-theft-attacks-at-qantas-allianz-life-and-lvmh/>)
-
-- **Gli hacker target Python Devs negli attacchi di phishing usando il sito PyPI falso**  
-  Fonte: BleepingComputer, 30 Jul 2025, 18:57:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-target-python-devs-in-phishing-attacks-using-fake-pypi-site/>)
-
 - **I truffatori scatenano l'inondazione di siti di gioco online slick**  
   Fonte: Krebs on Security, 30 Jul 2025, 18:46:34 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/>)
-
-- **SafePay Ransomware minaccia di perdere 3,5 TB di Micro Data Ingram**  
-  Fonte: BleepingComputer, 30 Jul 2025, 18:00:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/safepay-ransomware-threatens-to-leak-35tb-of-ingram-micro-data/>)
-
-- **Gli hacker sfruttano attivamente RCE critico nel solo tema WordPress**  
-  Fonte: BleepingComputer, 30 Jul 2025, 17:40:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-actively-exploit-critical-rce-in-wordpress-alone-theme/>)
-
-- **Hacker pianta 4g Raspberry Pi su Bank Network in fallimento di bancomat Heist**  
-  Fonte: BleepingComputer, 30 Jul 2025, 16:47:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-plant-4g-raspberry-pi-on-bank-network-in-failed-atm-heist/>)
 
 - **Gli hacker usano gli annunci di Facebook per diffondere il malware JSCEAL tramite app di trading di criptovaluta false**  
   Fonte: The Hacker News, 30 Jul 2025, 16:21:00 UTC  
@@ -101,10 +133,6 @@
 - **Decryptor Ransomware Funksec Rilasciato gratuitamente al pubblico dopo che il gruppo diventa dormiente**  
   Fonte: The Hacker News, 30 Jul 2025, 16:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/funksec-ransomware-decryptor-released.html>)
-
-- **Patches Apple Security Flaw Sfruttata negli attacchi di Chrome Zero-Day**  
-  Fonte: BleepingComputer, 30 Jul 2025, 16:10:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-patches-security-flaw-exploited-in-chrome-zero-day-attacks/>)
 
 - **Product Walkthrough: uno sguardo all'interno della piattaforma di sicurezza AI di Pillar**  
   Fonte: The Hacker News, 30 Jul 2025, 13:03:00 UTC  
@@ -150,9 +178,9 @@
   Fonte: Graham Cluley, 29 Jul 2025, 14:05:24 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-61/>)
 
-- **200.000 siti Web WordPress a rischio di essere dirottati a causa del plug -in vulnerabile post SMTP**  
+- **40.000 siti Web WordPress a rischio di essere dirottati a causa del plug -in vulnerabile post SMTP**  
   Fonte: Graham Cluley, 29 Jul 2025, 13:40:49 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/200-000-wordpress-websites-at-risk-of-being-hijacked-due-to-vulnerable-post-smtp-plugin>)
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/40-000-wordpress-websites-at-risk-of-being-hijacked-due-to-vulnerable-post-smtp-plugin>)
 
 - **Chaos Raas emerge dopo il takedown di blacksuit, chiedendo $ 300k dalle vittime degli Stati Uniti**  
   Fonte: The Hacker News, 29 Jul 2025, 13:25:00 UTC  
@@ -222,33 +250,5 @@
   Fonte: Graham Cluley, 27 Jul 2025, 08:10:09 UTC  
   [Leggi](<https://grahamcluley.com/tea-dating-advice-app-spills-sensitive-data/>)
 
-- **Blogging di calamari del venerdì: disegni quasi iso-isodinamici stabili**  
-  Fonte: Schneier on Security, 25 Jul 2025, 21:00:38 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-stable-quasi-isodynamic-designs.html>)
 
-- **Firmante delle sanzioni statunitensi dietro il regime IT N. coreano;Donna dell'Arizona incarcerata per la gestione del laptop**  
-  Fonte: The Hacker News, 25 Jul 2025, 15:05:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/us-sanctions-firm-behind-n-korean-it.html>)
-
-- **Patchwork si rivolge alle società di difesa turca con phishing di lancia utilizzando file LNK dannosi**  
-  Fonte: The Hacker News, 25 Jul 2025, 14:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/patchwork-targets-turkish-defense-firms.html>)
-
-- **La campagna Cyber Expionage colpisce il settore aerospaziale russo usando il backdoor aquiletto**  
-  Fonte: The Hacker News, 25 Jul 2025, 13:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/cyber-espionage-campaign-hits-russian.html>)
-
-- **Apprendimento subliminale in AIS**  
-  Fonte: Schneier on Security, 25 Jul 2025, 11:10:10 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/subliminal-learning-in-ais.html>)
-
-- **SOCO404 e Koske Malware Target Cloud Services con attacchi di criptominazione multipiattaforma**  
-  Fonte: The Hacker News, 25 Jul 2025, 10:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/soco404-and-koske-malware-target-cloud.html>)
-
-- **Superamento dei rischi dall'uso dello strumento cinese Genai**  
-  Fonte: The Hacker News, 25 Jul 2025, 10:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/overcoming-risks-from-chinese-genai.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-01 06:21:59 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-02 06:17:41 UTC -->
