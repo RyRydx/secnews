@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **CL-STA-0969 installa malware nascosto in reti di telecomunicazioni durante la campagna di spionaggio di 10 mesi**  
+  Fonte: The Hacker News, 02 Aug 2025, 16:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/cl-sta-0969-installs-covert-malware-in.html>)
+
+- **Il nuovo backdoor PAM "Plague" espone i sistemi Linux critici al furto di credenziali silenzioso**  
+  Fonte: The Hacker News, 02 Aug 2025, 13:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html>)
+
+- **Openi prepara nuovi modelli a peso aperto insieme a GPT-5**  
+  Fonte: BleepingComputer, 02 Aug 2025, 10:01:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-new-open-weight-models-along-with-gpt-5/>)
+
+- **Antropico afferma che gli ingegneri di Openai utilizzano Claude Code prima del lancio di GPT-5**  
+  Fonte: BleepingComputer, 02 Aug 2025, 09:08:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-says-openai-engineers-using-claude-code-ahead-of-gpt-5-launch/>)
+
+- **Akira Ransomware sfrutta VPN Sonicwall in probabile attacco a zero giorni su dispositivi a pieno titolo**  
+  Fonte: The Hacker News, 02 Aug 2025, 06:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/akira-ransomware-exploits-sonicwall.html>)
+
 - **Blogging di calamari del venerdì: un caso di errata identificazione fossile di calamari**  
   Fonte: Schneier on Security, 01 Aug 2025, 21:01:54 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-a-case-of-squid-fossil-misidentification.html>)
@@ -110,10 +130,6 @@
   Fonte: The Hacker News, 31 Jul 2025, 10:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/alert-fatigue-data-overload-and-fall-of.html>)
 
-- **Proton lancia un'app di autenticatore multipiattaforma standalone gratuita**  
-  Fonte: BleepingComputer, 31 Jul 2025, 10:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/proton-launches-free-standalone-cross-platform-authenticator-app/>)
-
 - **Hacker Exploit Critical WordPress Tema difetto ai siti di hijack tramite l'installazione del plug -in remoto**  
   Fonte: The Hacker News, 31 Jul 2025, 06:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/hackers-exploit-critical-wordpress.html>)
@@ -121,10 +137,6 @@
 - **Smashing Security Podcast #428: bandiere rosse, chat trapelate e un addio finale**  
   Fonte: Graham Cluley, 30 Jul 2025, 23:05:08 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-428/>)
-
-- **I truffatori scatenano l'inondazione di siti di gioco online slick**  
-  Fonte: Krebs on Security, 30 Jul 2025, 18:46:34 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/>)
 
 - **Gli hacker usano gli annunci di Facebook per diffondere il malware JSCEAL tramite app di trading di criptovaluta false**  
   Fonte: The Hacker News, 30 Jul 2025, 16:21:00 UTC  
@@ -142,7 +154,7 @@
   Fonte: The Hacker News, 30 Jul 2025, 13:02:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/apple-patches-safari-vulnerability-also.html>)
 
-- **I difetti della telecamera Dahua critici abilitano il dirottamento remoto tramite Onvif e Exploit di caricamento di file**  
+- **I difetti della telecamera Dahua critici abilitano il dirottamento remoto tramite Onvif e Exploit di caricamento file**  
   Fonte: The Hacker News, 30 Jul 2025, 13:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/critical-dahua-camera-flaws-enable.html>)
 
@@ -251,4 +263,4 @@
   [Leggi](<https://grahamcluley.com/tea-dating-advice-app-spills-sensitive-data/>)
 
 
-<!-- Ultimo aggiornamento: 2025-08-02 06:17:41 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-03 06:18:11 UTC -->
