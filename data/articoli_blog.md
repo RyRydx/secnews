@@ -2,9 +2,17 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 463**  
+  Fonte: Troy Hunt, 03 Aug 2025, 07:12:24 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-463/>)
+
 - **CL-STA-0969 installa malware nascosto in reti di telecomunicazioni durante la campagna di spionaggio di 10 mesi**  
   Fonte: The Hacker News, 02 Aug 2025, 16:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/cl-sta-0969-installs-covert-malware-in.html>)
+
+- **Gli aggressori sfruttano i servizi di avversari di collegamento per rubare l'accesso Microsoft 365**  
+  Fonte: BleepingComputer, 02 Aug 2025, 14:24:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/attackers-exploit-link-wrapping-services-to-steal-microsoft-365-logins/>)
 
 - **Il nuovo backdoor PAM "Plague" espone i sistemi Linux critici al furto di credenziali silenzioso**  
   Fonte: The Hacker News, 02 Aug 2025, 13:33:00 UTC  
@@ -18,7 +26,7 @@
   Fonte: BleepingComputer, 02 Aug 2025, 09:08:03 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-says-openai-engineers-using-claude-code-ahead-of-gpt-5-launch/>)
 
-- **Akira Ransomware sfrutta VPN Sonicwall in probabile attacco a zero giorni su dispositivi a pieno titolo**  
+- **Akira Ransomware sfrutta le vpn di Sonicwall in probabile attacco a zero giorni su dispositivi a pieno titolo**  
   Fonte: The Hacker News, 02 Aug 2025, 06:56:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/akira-ransomware-exploits-sonicwall.html>)
 
@@ -58,7 +66,7 @@
   Fonte: The Hacker News, 01 Aug 2025, 12:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/ai-generated-malicious-npm-package.html>)
 
-- **Spiando le persone attraverso il servizio di consegna dei bagagli dell'aeroporto**  
+- **Spiare le persone attraverso il servizio di consegna dei bagagli aeroportuali**  
   Fonte: Schneier on Security, 01 Aug 2025, 11:07:28 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/08/spying-on-people-through-airportr-luggage-delivery-service.html>)
 
@@ -94,25 +102,13 @@
   Fonte: BleepingComputer, 31 Jul 2025, 16:43:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-open-sources-thorium-platform-for-malware-forensic-analysis/>)
 
-- **Microsoft: gli hacker russi usano l'accesso ISP alle ambasciate di hacking negli attacchi AITM**  
-  Fonte: BleepingComputer, 31 Jul 2025, 16:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-russian-hackers-use-isp-access-to-hack-embassies-in-aitm-attacks/>)
-
 - **Gli esperti rilevano la tattica di reindirizzamento multistrato utilizzato per rubare le credenziali di accesso Microsoft 365**  
   Fonte: The Hacker News, 31 Jul 2025, 15:49:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/experts-detect-multi-layer-redirect.html>)
 
-- **All'interno di un vero attacco ClickFix: come si svolge questo hack di ingegneria sociale**  
-  Fonte: BleepingComputer, 31 Jul 2025, 14:05:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-a-real-clickfix-attack-how-this-social-engineering-hack-unfolds/>)
-
 - **N. Hacker coreani usavano esche di lavoro, accesso all'account cloud e malware per rubare milioni in criptovalute**  
   Fonte: The Hacker News, 31 Jul 2025, 13:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/n-korean-hackers-used-job-lures-cloud.html>)
-
-- **I picchi in attività dannosa precedono nuovi difetti di sicurezza nell'80% dei casi**  
-  Fonte: BleepingComputer, 31 Jul 2025, 13:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/spikes-in-malicious-activity-precede-new-cves-in-80-percent-of-cases/>)
 
 - **Tendenze guidate dall'IA nella sicurezza endpoint: What the 2025 Gartner® Magic Quadrant ™**  
   Fonte: The Hacker News, 31 Jul 2025, 11:25:00 UTC  
@@ -137,6 +133,10 @@
 - **Smashing Security Podcast #428: bandiere rosse, chat trapelate e un addio finale**  
   Fonte: Graham Cluley, 30 Jul 2025, 23:05:08 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-428/>)
+
+- **I truffatori scatenano l'inondazione di siti di gioco online slick**  
+  Fonte: Krebs on Security, 30 Jul 2025, 18:46:34 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/>)
 
 - **Gli hacker usano gli annunci di Facebook per diffondere il malware JSCEAL tramite app di trading di criptovaluta false**  
   Fonte: The Hacker News, 30 Jul 2025, 16:21:00 UTC  
@@ -174,7 +174,7 @@
   Fonte: The Hacker News, 30 Jul 2025, 07:50:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/hackers-exploit-sap-vulnerability-to.html>)
 
-- **L'hacker di ragno sparso arresta gli attacchi di arresto, ma le minacce di copia sostengono la pressione di sicurezza**  
+- **L'hacker di ragno sparso arresta gli attacchi di arresto, ma le minacce a copia sostengono la pressione di sicurezza**  
   Fonte: The Hacker News, 30 Jul 2025, 06:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/scattered-spider-hacker-arrests-halt.html>)
 
@@ -250,17 +250,5 @@
   Fonte: Troy Hunt, 28 Jul 2025, 10:37:36 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-462/>)
 
-- **Spider Spesed Hijacks VMware ESXI per distribuire ransomware sull'infrastruttura statunitense critica**  
-  Fonte: The Hacker News, 28 Jul 2025, 06:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/scattered-spider-hijacks-vmware-esxi-to.html>)
 
-- **I difetti critici nel quadro del Niagara minacciano edifici intelligenti e sistemi industriali in tutto il mondo**  
-  Fonte: The Hacker News, 28 Jul 2025, 04:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html>)
-
-- **L'app di consulenza per gli appuntamenti del tè versa dati sensibili**  
-  Fonte: Graham Cluley, 27 Jul 2025, 08:10:09 UTC  
-  [Leggi](<https://grahamcluley.com/tea-dating-advice-app-spills-sensitive-data/>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-03 06:18:11 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-04 06:25:54 UTC -->
