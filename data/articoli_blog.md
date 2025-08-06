@@ -2,6 +2,90 @@
 
 ## Ultimi 7 giorni
 
+- **AI sta trasformando i test avversari della sicurezza informatica - Visione del fondatore di Pentera**  
+  Fonte: The Hacker News, 06 Aug 2025, 05:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/ai-is-transforming-cybersecurity.html>)
+
+- **CISA aggiunge 3 difetti del router D-Link al catalogo KEV dopo report di sfruttamento attivo**  
+  Fonte: The Hacker News, 06 Aug 2025, 04:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/cisa-adds-3-d-link-router-flaws-to-kev.html>)
+
+- **L'industria dei semiconduttori e la conformità normativa**  
+  Fonte: Schneier on Security, 06 Aug 2025, 04:35:28 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/its-time-for-the-semiconductor-industry-to-step-up.html>)
+
+- **Pandora conferma la violazione dei dati tra gli attacchi di furto di dati Salesforce in corso**  
+  Fonte: BleepingComputer, 05 Aug 2025, 22:16:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pandora-confirms-data-breach-amid-ongoing-salesforce-data-theft-attacks/>)
+
+- **PBS confirms data breach after employee info leaked on Discord servers**  
+  Fonte: BleepingComputer, 05 Aug 2025, 21:06:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pbs-confirms-data-breach-after-employee-info-leaked-on-discord-servers/>)
+
+- **Accogliendo Guardio per essere stato un programma partner Pwned**  
+  Fonte: Troy Hunt, 05 Aug 2025, 19:55:34 UTC  
+  [Leggi](<https://www.troyhunt.com/welcoming-guardio-to-have-i-been-pwneds-partner-program/>)
+
+- **Adobe emette correzioni di emergenza per i moduli AEM zero-giorni dopo il rilasciato POCS**  
+  Fonte: BleepingComputer, 05 Aug 2025, 19:02:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/adobe-issues-emergency-fixes-for-aem-forms-zero-days-after-pocs-released/>)
+
+- **ClickFix Malware La campagna sfrutta i captchas per diffondere infezioni a piattaforma multipla**  
+  Fonte: The Hacker News, 05 Aug 2025, 16:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/clickfix-malware-campaign-exploits.html>)
+
+- **L'IA FIX #62: I robot AI ora possono passare i captcha e colpirti in faccia**  
+  Fonte: Graham Cluley, 05 Aug 2025, 14:03:50 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-62/>)
+
+- **Il caldo non era appena fuori: gli attacchi informatici aumentati nell'estate 2025**  
+  Fonte: BleepingComputer, 05 Aug 2025, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-heat-wasnt-just-outside-cyber-attacks-spiked-in-summer-2025/>)
+
+- **La patch di agosto di Google corregge due vulnerabilità Qualcomm sfruttate in natura**  
+  Fonte: The Hacker News, 05 Aug 2025, 13:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/google-fixes-3-android-vulnerabilities.html>)
+
+- **Cursore Editor di codice AI Vulnerabilità Abilita RCE tramite l'approvazione del file MCP dannoso**  
+  Fonte: The Hacker News, 05 Aug 2025, 13:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/cursor-ai-code-editor-vulnerability.html>)
+
+- **Cisco divulga la violazione dei dati che colpisce gli account utente Cisco.com**  
+  Fonte: BleepingComputer, 05 Aug 2025, 12:17:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-discloses-data-breach-impacting-ciscocom-user-accounts/>)
+
+- **Sonicwall esorta gli amministratori a disabilitare SSLVPN tra gli attacchi in aumento**  
+  Fonte: BleepingComputer, 05 Aug 2025, 11:28:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-disable-sslvpn-amid-rising-attacks/>)
+
+- **Le errate configurazioni non sono vulnerabilità: la costosa confusione dietro i rischi per la sicurezza**  
+  Fonte: The Hacker News, 05 Aug 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/misconfigurations-are-not.html>)
+
+- **Truendo i tuoi bambini con airtag**  
+  Fonte: Schneier on Security, 05 Aug 2025, 11:06:21 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/surveilling-your-children-with-airtags.html>)
+
+- **Android ottiene patch per i difetti Qualcomm sfruttati negli attacchi**  
+  Fonte: BleepingComputer, 05 Aug 2025, 10:31:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/android-gets-patches-for-qualcomm-flaws-exploited-in-attacks/>)
+
+- **In che modo i migliori cisos salvano i loro SoC dal caos di allerta per non perdere mai incidenti reali**  
+  Fonte: The Hacker News, 05 Aug 2025, 10:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/how-top-cisos-save-their-socs-from.html>)
+
+- **Microsoft aumenta il montante del premio di zero day a $ 5 milioni**  
+  Fonte: BleepingComputer, 05 Aug 2025, 09:46:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-5-million-prize-pool-for-zero-day-quest-hacking-contest/>)
+
+- **15.000 domini di negozi tiktok falsi offrono malware, rubano cripto**  
+  Fonte: The Hacker News, 05 Aug 2025, 07:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/15000-fake-tiktok-shop-domains-deliver.html>)
+
+- **Sonicwall che studia potenziale SSL VPN Zero-Day dopo 20+ attacchi mirati segnalati**  
+  Fonte: The Hacker News, 05 Aug 2025, 05:18:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/sonicwall-investigating-potential-ssl.html>)
+
 - **Il gigante della moda Chanel ha colpito l'ondata di attacchi di furto di dati Salesforce**  
   Fonte: BleepingComputer, 04 Aug 2025, 20:54:17 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fashion-giant-chanel-hit-in-wave-of-salesforce-data-theft-attacks/>)
@@ -18,9 +102,9 @@
   Fonte: The Hacker News, 04 Aug 2025, 16:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html>)
 
-- **CTM360 PRIMI CAMPAGNA MALIGUILA "Clicktok" Target per gli utenti di tiktok**  
+- **CTM360 Indipende la campagna maliziosa "Fraudontok" rivolta agli utenti di tiktok shop**  
   Fonte: BleepingComputer, 04 Aug 2025, 15:25:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ctm360-spots-malicious-clicktok-campaign-targeting-tiktok-shop-users/>)
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ctm360-spots-malicious-fraudontok-campaign-targeting-tiktok-shop-users/>)
 
 - **Il nuovo malware Linux di Plague mantiene furtivamente l'accesso SSH**  
   Fonte: BleepingComputer, 04 Aug 2025, 14:42:06 UTC  
@@ -38,10 +122,6 @@
   Fonte: The Hacker News, 04 Aug 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/weekly-recap-vpn-0-day-encryption.html>)
 
-- **Le bande di ransomware si uniscono agli attacchi destinati ai server Microsoft SharePoint**  
-  Fonte: BleepingComputer, 04 Aug 2025, 11:26:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-gangs-join-attacks-targeting-microsoft-sharepoint-servers/>)
-
 - **Prima condanna nel programma per aiutare le società statunitensi dei nordcoreani**  
   Fonte: Schneier on Security, 04 Aug 2025, 11:01:27 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/08/first-sentencing-in-scheme-to-help-north-koreans-infiltrate-us-companies.html>)
@@ -53,10 +133,6 @@
 - **Il nuovo backdoor PAM "Plague" espone i sistemi Linux critici al furto di credenziali silenzioso**  
   Fonte: The Hacker News, 04 Aug 2025, 10:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html>)
-
-- **Mozilla avverte di attacchi di phishing mirano agli sviluppatori aggiuntivi**  
-  Fonte: BleepingComputer, 04 Aug 2025, 10:00:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mozilla-warns-of-phishing-attacks-targeting-add-on-developers/>)
 
 - **Il selvaggio ovest dell'ombra**  
   Fonte: The Hacker News, 04 Aug 2025, 09:30:00 UTC  
@@ -74,18 +150,6 @@
   Fonte: The Hacker News, 02 Aug 2025, 16:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/cl-sta-0969-installs-covert-malware-in.html>)
 
-- **Gli aggressori sfruttano i servizi di avversari di collegamento per rubare l'accesso Microsoft 365**  
-  Fonte: BleepingComputer, 02 Aug 2025, 14:24:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/attackers-exploit-link-wrapping-services-to-steal-microsoft-365-logins/>)
-
-- **Openi prepara nuovi modelli a peso aperto insieme a GPT-5**  
-  Fonte: BleepingComputer, 02 Aug 2025, 10:01:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-new-open-weight-models-along-with-gpt-5/>)
-
-- **Antropico afferma che gli ingegneri di Openai utilizzano Claude Code prima del lancio di GPT-5**  
-  Fonte: BleepingComputer, 02 Aug 2025, 09:08:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-says-openai-engineers-using-claude-code-ahead-of-gpt-5-launch/>)
-
 - **Akira Ransomware sfrutta VPN Sonicwall in probabile attacco a zero giorni su dispositivi a pieno titolo**  
   Fonte: The Hacker News, 02 Aug 2025, 06:56:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/akira-ransomware-exploits-sonicwall.html>)
@@ -93,14 +157,6 @@
 - **Blogging di calamari del venerdì: un caso di errata identificazione fossile di calamari**  
   Fonte: Schneier on Security, 01 Aug 2025, 21:01:54 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-a-case-of-squid-fossil-misidentification.html>)
-
-- **Openai potrebbe testare un piano a pagamento più economico per Chatgpt**  
-  Fonte: BleepingComputer, 01 Aug 2025, 20:16:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-may-be-testing-a-cheaper-paid-plan-for-chatgpt/>)
-
-- **Dispositivi di Sonicwall Firewall colpiti in aumento degli attacchi di ransomware di Akira**  
-  Fonte: BleepingComputer, 01 Aug 2025, 17:28:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/surge-of-akira-ransomware-attacks-hits-sonicwall-firewall-devices/>)
 
 - **Editor di codice AI Cursore Firme fisso per consentire agli aggressori di eseguire comandi tramite iniezione prompt**  
   Fonte: The Hacker News, 01 Aug 2025, 15:31:00 UTC  
@@ -206,45 +262,5 @@
   Fonte: The Hacker News, 30 Jul 2025, 07:50:00 UTC  
   [Leggi](<https://thehackernews.com/2025/07/hackers-exploit-sap-vulnerability-to.html>)
 
-- **L'hacker di ragno sparso arresta gli attacchi di arresto, ma le minacce a copia sostengono la pressione di sicurezza**  
-  Fonte: The Hacker News, 30 Jul 2025, 06:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/scattered-spider-hacker-arrests-halt.html>)
 
-- **Wiz scopre l'accesso critico di bypass di bypass nella piattaforma di codifica vibrante basata sull'intelligenza artificiale Base44**  
-  Fonte: The Hacker News, 29 Jul 2025, 15:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/wiz-uncovers-critical-access-bypass.html>)
-
-- **PyPI avverte della campagna di phishing in corso utilizzando e -mail di verifica falsa e dominio Lookalike**  
-  Fonte: The Hacker News, 29 Jul 2025, 14:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/pypi-warns-of-ongoing-phishing-campaign.html>)
-
-- **L'IA Fix #61: Replit Panics, elimina il progetto $ 1 milione;Ai ottiene l'oro alle olimpiadi matematiche**  
-  Fonte: Graham Cluley, 29 Jul 2025, 14:05:24 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-61/>)
-
-- **40.000 siti Web WordPress a rischio di essere dirottati a causa del plug -in vulnerabile post SMTP**  
-  Fonte: Graham Cluley, 29 Jul 2025, 13:40:49 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/40-000-wordpress-websites-at-risk-of-being-hijacked-due-to-vulnerable-post-smtp-plugin>)
-
-- **Chaos Raas emerge dopo il takedown di blacksuit, chiedendo $ 300k dalle vittime degli Stati Uniti**  
-  Fonte: The Hacker News, 29 Jul 2025, 13:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/chaos-raas-emerges-after-blacksuit.html>)
-
-- **Come il browser è diventato il principale campo di battaglia informatica**  
-  Fonte: The Hacker News, 29 Jul 2025, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/how-browser-became-main-cyber.html>)
-
-- **I criminali informatici utilizzano app false per rubare i dati e ricattare gli utenti attraverso le reti mobili dell'Asia**  
-  Fonte: The Hacker News, 29 Jul 2025, 11:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/cybercriminals-use-fake-apps-to-steal.html>)
-
-- **Aeroflot hackerato**  
-  Fonte: Schneier on Security, 29 Jul 2025, 11:02:50 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/aeroflot-hacked.html>)
-
-- **Why React non ha ucciso XSS: il nuovo Playbook di Iniezione JavaScript**  
-  Fonte: The Hacker News, 29 Jul 2025, 10:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-05 06:21:55 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-06 06:22:16 UTC -->
