@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **Le biblioteche degli sviluppatori di WhatsApp falsi nascondono il codice distruttivo dei dati**  
+  Fonte: BleepingComputer, 07 Aug 2025, 21:42:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-whatsapp-developer-libraries-hide-destructive-data-wiping-code/>)
+
+- **La CISA ordina alle agenzie federali di patch di nuovo difetto di scambio entro lunedì**  
+  Fonte: BleepingComputer, 07 Aug 2025, 20:14:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-fed-agencies-to-patch-new-cve-2025-53786-exchange-flaw/>)
+
+- **Modelli GPT-5 di Chatgpt rilasciati: tutto ciò che devi sapere**  
+  Fonte: BleepingComputer, 07 Aug 2025, 19:03:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-models-released-everything-you-need-to-know/>)
+
+- **Malware socgholish diffuso tramite strumenti di annunci;Offre accesso a Lockbit, Evil Corp e altri**  
+  Fonte: The Hacker News, 07 Aug 2025, 18:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/socgholish-malware-spread-via-ad-tools.html>)
+
+- **Nuovo strumento EDR Killer utilizzato da otto diversi gruppi di ransomware**  
+  Fonte: BleepingComputer, 07 Aug 2025, 17:58:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-edr-killer-tool-used-by-eight-different-ransomware-groups/>)
+
+- **Bouygues Telecom conferma la violazione dei dati che influisce su 6,4 milioni di clienti**  
+  Fonte: BleepingComputer, 07 Aug 2025, 17:23:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bouygues-telecom-confirms-data-breach-impacting-64-million-customers/>)
+
+- **Webinar: come fermare gli attacchi della catena di approvvigionamento di Python e gli strumenti di esperti di cui hai bisogno**  
+  Fonte: The Hacker News, 07 Aug 2025, 15:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html>)
+
+- **Sonicwall non trova sslvpn zero-day, collega attacchi ransomware a 2024 difetti**  
+  Fonte: BleepingComputer, 07 Aug 2025, 15:27:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-finds-no-sslvpn-zero-day-links-ransomware-attacks-to-2024-flaw/>)
+
+- **Wave di 150 estensioni drenate cripto colpite Firefox aggiuntivo**  
+  Fonte: BleepingComputer, 07 Aug 2025, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/wave-of-150-crypto-draining-extensions-hits-firefox-add-on-store/>)
+
+- **Malicious Go, pacchetti NPM forniscono malware multipiattaforma, trigger salviette dati remote**  
+  Fonte: The Hacker News, 07 Aug 2025, 13:19:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html>)
+
+- **I fondatori di Cryptomixer si sono dichiarati colpevoli di riciclare denaro per i criminali informatici**  
+  Fonte: BleepingComputer, 07 Aug 2025, 11:45:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-pled-guilty-to-laundering-money-for-cybercriminals/>)
+
+- **La Cina accusa Nvidia di aver messo le backdoor nelle loro patatine**  
+  Fonte: Schneier on Security, 07 Aug 2025, 11:05:39 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/china-accuses-nvidia-of-putting-backdoors-into-their-chips.html>)
+
+- **Il turno di sicurezza basato sull'intelligenza artificiale: cosa 2025 ci sta insegnando sulla difesa del cloud**  
+  Fonte: The Hacker News, 07 Aug 2025, 10:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/the-ai-powered-security-shift-what-2025.html>)
+
+- **Microsoft divulga Exchange Server Flaw abilitando l'accesso al cloud silenzioso nelle configurazioni ibride**  
+  Fonte: The Hacker News, 07 Aug 2025, 10:42:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/microsoft-discloses-exchange-server.html>)
+
+- **I server di 6.500 assi espongono il protocollo remoto;4.000 negli Stati Uniti vulnerabili agli exploit**  
+  Fonte: The Hacker News, 07 Aug 2025, 10:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/6500-axis-servers-expose-remoting.html>)
+
+- **Sonicwall conferma la vulnerabilità patchat dietro i recenti attacchi VPN, non un giorno zero**  
+  Fonte: The Hacker News, 07 Aug 2025, 10:32:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/sonicwall-confirms-patched.html>)
+
+- **MASSIVO servizio di pirateria IPTV con 28.000 canali presi offline**  
+  Fonte: BleepingComputer, 07 Aug 2025, 10:13:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/technology/massive-illegal-iptv-service-provider-rare-breed-tv-taken-offline/>)
+
+- **Air France e KLM divulgano violazioni dei dati che incidono sui clienti**  
+  Fonte: BleepingComputer, 07 Aug 2025, 08:41:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/air-france-and-klm-disclose-data-breaches-impacting-customers/>)
+
+- **Microsoft avverte di difetti ad alta severe nelle distribuzioni di scambi ibridi**  
+  Fonte: BleepingComputer, 07 Aug 2025, 07:50:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-high-severity-flaw-in-hybrid-exchange-deployments/>)
+
+- **Microsoft conferma accidentalmente GPT-5, GPT-5-Mini, GPT-5-Nano prima del lancio**  
+  Fonte: BleepingComputer, 07 Aug 2025, 06:49:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/microsoft-accidentally-confirms-gpt-5-gpt-5-mini-gpt-5-nano-ahead-of-launch/>)
+
 - **I ricercatori scoprono il difetto ECSCAPE in Amazon ECS che consente un furto di credenziali a task incrociato**  
   Fonte: The Hacker News, 06 Aug 2025, 20:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html>)
@@ -14,49 +94,21 @@
   Fonte: The Hacker News, 06 Aug 2025, 20:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html>)
 
-- **New Ghost Calls tactic Abuse Team Zoom e Microsoft per le operazioni C2**  
-  Fonte: BleepingComputer, 06 Aug 2025, 16:36:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-ghost-calls-tactic-abuses-zoom-and-microsoft-teams-for-c2-operations/>)
-
 - **Ransomware immerge la compagnia assicurativa in bancarotta**  
   Fonte: Graham Cluley, 06 Aug 2025, 16:27:11 UTC  
   [Leggi](<https://www.fortra.com/blog/ransomware-plunges-insurance-company-bankruptcy>)
-
-- **Hacker estradato per noi per aver rubato 3,3 milioni di dollari dai contribuenti**  
-  Fonte: BleepingComputer, 06 Aug 2025, 16:09:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-extradited-to-us-for-stealing-33-million-from-taxpayers/>)
-
-- **MFA conta ... ma non è abbastanza da solo**  
-  Fonte: BleepingComputer, 06 Aug 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mfa-matters-but-it-isnt-enough-on-its-own/>)
-
-- **Google suffers data breach in ongoing Salesforce data theft attacks**  
-  Fonte: BleepingComputer, 06 Aug 2025, 13:51:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/>)
 
 - **L'Ucraina afferma di aver violato i segreti dal nuovo sottomarino nucleare russo**  
   Fonte: Graham Cluley, 06 Aug 2025, 13:44:43 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ukraine-claims-to-have-hacked-secrets-from-russias-newest-nuclear-submarine>)
 
-- **Sistemi online della National Bank of Canada A causa della "questione tecnica"**  
-  Fonte: BleepingComputer, 06 Aug 2025, 13:19:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/national-bank-of-canada-online-systems-down-due-to-technical-issue/>)
-
 - **Chi è stato arrestato nel raid sul forum del crimine XSS?**  
   Fonte: Krebs on Security, 06 Aug 2025, 12:12:37 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/>)
 
-- **Revault difetti consentono agli hacker di bypass di Windows Accedi sui laptop Dell**  
-  Fonte: BleepingComputer, 06 Aug 2025, 11:58:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/revault-flaws-let-hackers-bypass-windows-login-on-dell-laptops/>)
-
 - **AI taglia i carichi di lavoro per VCISOS del 68% man mano che le PMI richiedono di più - rivela il nuovo rapporto**  
   Fonte: The Hacker News, 06 Aug 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/ai-slashes-workloads-for-vcisos-by-68.html>)
-
-- **WhatsApp aggiunge una nuova funzione di sicurezza per proteggere dalle truffe**  
-  Fonte: BleepingComputer, 06 Aug 2025, 10:53:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-adds-new-security-feature-to-protect-against-scams/>)
 
 - **Microsoft lancia il progetto IRE per classificare autonomamente malware usando strumenti AI**  
   Fonte: The Hacker News, 06 Aug 2025, 10:36:00 UTC  
@@ -65,14 +117,6 @@
 - **L'ospedale ha multato dopo i dati dei pazienti trovati negli involucri di cibo di strada**  
   Fonte: Graham Cluley, 06 Aug 2025, 10:08:48 UTC  
   [Leggi](<https://grahamcluley.com/hospital-fined-after-patient-data-found-in-street-food-wrappers/>)
-
-- **Trend Micro Warns of Apex One Zero-Day sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 06 Aug 2025, 10:06:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-endpoint-protection-zero-day-exploited-in-attacks/>)
-
-- **Microsoft paga un record di $ 17 milioni in doni negli ultimi 12 mesi**  
-  Fonte: BleepingComputer, 06 Aug 2025, 09:18:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-record-17-million-in-bounties-over-the-last-12-months/>)
 
 - **Trend Micro conferma lo sfruttamento attivo dell'apice critico uno difetti nei sistemi on-premise**  
   Fonte: The Hacker News, 06 Aug 2025, 08:57:00 UTC  
@@ -94,21 +138,9 @@
   Fonte: Schneier on Security, 06 Aug 2025, 04:35:28 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/08/its-time-for-the-semiconductor-industry-to-step-up.html>)
 
-- **Pandora conferma la violazione dei dati tra gli attacchi di furto di dati Salesforce in corso**  
-  Fonte: BleepingComputer, 05 Aug 2025, 22:16:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pandora-confirms-data-breach-amid-ongoing-salesforce-data-theft-attacks/>)
-
-- **PBS conferma la violazione dei dati dopo che le informazioni sui dipendenti sono trapelate sui server Discord**  
-  Fonte: BleepingComputer, 05 Aug 2025, 21:06:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pbs-confirms-data-breach-after-employee-info-leaked-on-discord-servers/>)
-
 - **Accogliendo Guardio per essere stato un programma partner Pwned**  
   Fonte: Troy Hunt, 05 Aug 2025, 19:55:34 UTC  
   [Leggi](<https://www.troyhunt.com/welcoming-guardio-to-have-i-been-pwneds-partner-program/>)
-
-- **Adobe emette correzioni di emergenza per i moduli AEM zero-giorni dopo il rilasciato POCS**  
-  Fonte: BleepingComputer, 05 Aug 2025, 19:02:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/adobe-issues-emergency-fixes-for-aem-forms-zero-days-after-pocs-released/>)
 
 - **ClickFix Malware La campagna sfrutta i captchas per diffondere infezioni a piattaforma multipla**  
   Fonte: The Hacker News, 05 Aug 2025, 16:26:00 UTC  
@@ -226,37 +258,5 @@
   Fonte: The Hacker News, 01 Aug 2025, 08:44:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/storm-2603-exploits-sharepoint-flaws-to.html>)
 
-- **Blizzard segreto distribuisce malware in attacchi AITM a livello ISP alle ambasciate di Mosca**  
-  Fonte: The Hacker News, 31 Jul 2025, 17:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/secret-blizzard-deploys-malware-in-isp.html>)
 
-- **Gli esperti rilevano la tattica di reindirizzamento multistrato utilizzato per rubare le credenziali di accesso Microsoft 365**  
-  Fonte: The Hacker News, 31 Jul 2025, 15:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/experts-detect-multi-layer-redirect.html>)
-
-- **N. Hacker coreani usavano esche di lavoro, accesso all'account cloud e malware per rubare milioni in criptovalute**  
-  Fonte: The Hacker News, 31 Jul 2025, 13:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/n-korean-hackers-used-job-lures-cloud.html>)
-
-- **Tendenze guidate dall'IA nella sicurezza endpoint: What the 2025 Gartner® Magic Quadrant ™**  
-  Fonte: The Hacker News, 31 Jul 2025, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html>)
-
-- **Tradire i benchmark di calcolo quantistico**  
-  Fonte: Schneier on Security, 31 Jul 2025, 11:00:37 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/07/cheating-on-quantum-computing-benchmarks.html>)
-
-- **UNC2891 viola la rete ATM tramite 4G Raspberry Pi, prova Caketap Rootkit per frode**  
-  Fonte: The Hacker News, 31 Jul 2025, 10:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/unc2891-breaches-atm-network-via-4g.html>)
-
-- **Avviso affaticamento, sovraccarico di dati e caduta dei SIEM tradizionali**  
-  Fonte: The Hacker News, 31 Jul 2025, 10:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/alert-fatigue-data-overload-and-fall-of.html>)
-
-- **Hacker Exploit tema WordPress Critical Flaw ai siti di hijack tramite installazione del plug -in remoto**  
-  Fonte: The Hacker News, 31 Jul 2025, 06:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/hackers-exploit-critical-wordpress.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-07 06:20:49 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-08 06:20:59 UTC -->
