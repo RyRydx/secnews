@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **I difetti di Cyberark e Hashicorp consentono l'acquisizione di caveau remoti senza credenziali**  
+  Fonte: The Hacker News, 09 Aug 2025, 05:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html>)
+
+- **Blogging di calamari del venerdì: nuova vulnerabilità nel server proxy HTTP di calamari**  
+  Fonte: Schneier on Security, 08 Aug 2025, 23:22:02 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-new-vulnerability-in-squid-http-proxy-server.html>)
+
+- **KrebSonsecurity in New "Most Wanted" HBO Max Series**  
+  Fonte: Krebs on Security, 08 Aug 2025, 21:38:01 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/>)
+
+- **Openai per risolvere i problemi GPT-5, doppio limite di tariffa per gli utenti a pagamento dopo l'indignazione**  
+  Fonte: BleepingComputer, 08 Aug 2025, 21:23:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-to-fix-gpt-5-issues-double-rate-limits-for-paid-users-after-outrage/>)
+
+- **Winrar Zero-Day sfruttato per piantare malware sull'estrazione dell'archivio**  
+  Fonte: BleepingComputer, 08 Aug 2025, 20:42:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/winrar-zero-day-flaw-exploited-by-romcom-hackers-in-phishing-attacks/>)
+
+- **FTC: gli adulti più anziani hanno perso un record di $ 700 milioni per i truffatori nel 2024**  
+  Fonte: BleepingComputer, 08 Aug 2025, 17:55:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ftc-older-adults-lost-record-700-million-to-scammers-in-2024/>)
+
+- **AI STRUENI FUBILE SCAM BRASILIO Phishing mentre Efimer Trojan ruba la criptola da 5.000 vittime**  
+  Fonte: The Hacker News, 08 Aug 2025, 16:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/ai-tools-fuel-brazilian-phishing-scam.html>)
+
+- **La magistratura degli Stati Uniti conferma la violazione del servizio di documenti elettronici del tribunale**  
+  Fonte: BleepingComputer, 08 Aug 2025, 15:30:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-judiciary-confirms-breach-of-court-electronic-records-service/>)
+
+- **Google Project Zero Cambia la sua politica di divulgazione**  
+  Fonte: Schneier on Security, 08 Aug 2025, 11:01:14 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/google-project-zero-changes-its-disclosure-policy.html>)
+
+- **Credenziali trapelate in aumento del 160%: cosa stanno facendo gli aggressori**  
+  Fonte: The Hacker News, 08 Aug 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/leaked-credentials-up-160-what.html>)
+
+- **Rubygems, PyPI colpito da pacchetti dannosi che rubano credenziali, crittografo, forzando i cambiamenti di sicurezza**  
+  Fonte: The Hacker News, 08 Aug 2025, 10:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/rubygems-pypi-hit-by-malicious-packages.html>)
+
+- **App Microsoft 365 per bloccare presto l'accesso al file tramite FPRPC per impostazione predefinita**  
+  Fonte: BleepingComputer, 08 Aug 2025, 10:52:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-365-apps-to-soon-block-file-access-via-insecure-fprpc-legacy-auth-protocol-by-default/>)
+
+- **Microsoft ucciderà l'app scanner PDF per iOS, Android**  
+  Fonte: BleepingComputer, 08 Aug 2025, 09:59:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-will-kill-the-microsoft-lens-pdf-scanner-app-for-ios-android-in-september/>)
+
+- **Teaonher copia di tutto dal tè - comprese le violazioni dei dati**  
+  Fonte: Graham Cluley, 08 Aug 2025, 09:00:40 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/teaonher-copies-everything-from-tea-including-the-data-breaches>)
+
+- **La violazione dei dati della Columbia University ha un impatto su quasi 870.000 persone**  
+  Fonte: BleepingComputer, 08 Aug 2025, 08:43:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/columbia-university-data-breach-impacts-nearly-870-000-students-applicants-employees/>)
+
+- **Le bande di ransomware reali e neri hanno colpito oltre 450 compagnie statunitensi**  
+  Fonte: BleepingComputer, 08 Aug 2025, 07:36:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/royal-and-blacksuit-ransomware-gangs-hit-over-450-us-companies/>)
+
+- **Greatbebear ruba $ 1 milione in cripto**  
+  Fonte: The Hacker News, 08 Aug 2025, 07:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/greedybear-steals-1m-in-crypto-using.html>)
+
 - **Le biblioteche degli sviluppatori di WhatsApp falsi nascondono il codice distruttivo dei dati**  
   Fonte: BleepingComputer, 07 Aug 2025, 21:42:30 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fake-whatsapp-developer-libraries-hide-destructive-data-wiping-code/>)
@@ -30,21 +98,9 @@
   Fonte: The Hacker News, 07 Aug 2025, 15:33:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html>)
 
-- **Sonicwall non trova sslvpn zero-day, collega attacchi ransomware a 2024 difetti**  
-  Fonte: BleepingComputer, 07 Aug 2025, 15:27:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-finds-no-sslvpn-zero-day-links-ransomware-attacks-to-2024-flaw/>)
-
-- **Wave di 150 estensioni drenate cripto colpite Firefox aggiuntivo**  
-  Fonte: BleepingComputer, 07 Aug 2025, 14:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/wave-of-150-crypto-draining-extensions-hits-firefox-add-on-store/>)
-
 - **Malicious Go, pacchetti NPM forniscono malware multipiattaforma, trigger salviette dati remote**  
   Fonte: The Hacker News, 07 Aug 2025, 13:19:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html>)
-
-- **I fondatori di Cryptomixer si sono dichiarati colpevoli di riciclare denaro per i criminali informatici**  
-  Fonte: BleepingComputer, 07 Aug 2025, 11:45:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-pled-guilty-to-laundering-money-for-cybercriminals/>)
 
 - **La Cina accusa Nvidia di aver messo le backdoor nelle loro patatine**  
   Fonte: Schneier on Security, 07 Aug 2025, 11:05:39 UTC  
@@ -66,29 +122,9 @@
   Fonte: The Hacker News, 07 Aug 2025, 10:32:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/sonicwall-confirms-patched.html>)
 
-- **MASSIVO servizio di pirateria IPTV con 28.000 canali presi offline**  
-  Fonte: BleepingComputer, 07 Aug 2025, 10:13:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/massive-illegal-iptv-service-provider-rare-breed-tv-taken-offline/>)
-
-- **Air France e KLM divulgano violazioni dei dati che incidono sui clienti**  
-  Fonte: BleepingComputer, 07 Aug 2025, 08:41:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/air-france-and-klm-disclose-data-breaches-impacting-customers/>)
-
-- **Microsoft avverte di difetti ad alta severe nelle distribuzioni di scambi ibridi**  
-  Fonte: BleepingComputer, 07 Aug 2025, 07:50:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-high-severity-flaw-in-hybrid-exchange-deployments/>)
-
-- **Microsoft conferma accidentalmente GPT-5, GPT-5-Mini, GPT-5-Nano prima del lancio**  
-  Fonte: BleepingComputer, 07 Aug 2025, 06:49:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/microsoft-accidentally-confirms-gpt-5-gpt-5-mini-gpt-5-nano-ahead-of-launch/>)
-
 - **I ricercatori scoprono il difetto ECSCAPE in Amazon ECS che consente un furto di credenziali a task incrociato**  
   Fonte: The Hacker News, 06 Aug 2025, 20:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html>)
-
-- **Akira Ransomware Abuse Strumento di accordatura della CPU per disabilitare Microsoft Defender**  
-  Fonte: BleepingComputer, 06 Aug 2025, 20:15:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/akira-ransomware-abuses-cpu-tuning-tool-to-disable-microsoft-defender/>)
 
 - **APP FINE VPN e SPAM Blocker legate a Vextrio utilizzato in frode AD, truffe di abbonamento**  
   Fonte: The Hacker News, 06 Aug 2025, 20:00:00 UTC  
@@ -226,37 +262,5 @@
   Fonte: The Hacker News, 02 Aug 2025, 06:56:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/akira-ransomware-exploits-sonicwall.html>)
 
-- **Blogging di calamari del venerdì: un caso di errata identificazione fossile di calamari**  
-  Fonte: Schneier on Security, 01 Aug 2025, 21:01:54 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-a-case-of-squid-fossil-misidentification.html>)
 
-- **Editor di codice AI Cursore Firme fisso per consentire agli aggressori di eseguire comandi tramite iniezione prompt**  
-  Fonte: The Hacker News, 01 Aug 2025, 15:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/cursor-ai-code-editor-fixed-flaw.html>)
-
-- **Gli aggressori usano false app OAuth con kit magnate per violare gli account Microsoft 365**  
-  Fonte: The Hacker News, 01 Aug 2025, 13:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/attackers-use-fake-oauth-apps-with.html>)
-
-- **Divulgazione di vulnerabilità su SSL per SaaS V1 (CNAME GESTED)**  
-  Fonte: Cloudflare Blog - Security, 01 Aug 2025, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/vulnerability-disclosure-on-ssl-for-saas-v1-managed-cname/>)
-
-- **Il pacchetto NPM dannoso generato dall'IA drena i fondi di Solana da 1.500+ prima di Takedown**  
-  Fonte: The Hacker News, 01 Aug 2025, 12:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/ai-generated-malicious-npm-package.html>)
-
-- **Spiando le persone attraverso il servizio di consegna dei bagagli dell'aeroporto**  
-  Fonte: Schneier on Security, 01 Aug 2025, 11:07:28 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/spying-on-people-through-airportr-luggage-delivery-service.html>)
-
-- **Sei quello che mangi: perché i tuoi strumenti di sicurezza AI sono forti solo come i dati che li dà da mangiare**  
-  Fonte: The Hacker News, 01 Aug 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/you-are-what-you-eat-why-your-ai.html>)
-
-- **Storm-2603 distribuisce backdoor controllato da DNS in Warlock e Lockbit Ransomware Attacks**  
-  Fonte: The Hacker News, 01 Aug 2025, 08:44:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/storm-2603-exploits-sharepoint-flaws-to.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-08 06:20:59 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-09 06:17:26 UTC -->
