@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Google conferma la violazione dei dati Exposed Potenziale Informazioni sui clienti di Google Ads**  
+  Fonte: BleepingComputer, 09 Aug 2025, 19:15:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-confirms-data-breach-exposed-potential-google-ads-customers-info/>)
+
+- **Il difetto delle webcam di Lenovo basato su Linux può essere sfruttato a distanza per gli attacchi BadUSB**  
+  Fonte: The Hacker News, 09 Aug 2025, 19:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html>)
+
+- **I ricercatori scoprono il jailbreak GPT-5 e gli attacchi di agente AI a clic zero esponendo i sistemi di cloud e IoT**  
+  Fonte: The Hacker News, 09 Aug 2025, 15:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html>)
+
+- **60 gemme di rubino dannose scaricate 275.000 volte rubano credenziali**  
+  Fonte: BleepingComputer, 09 Aug 2025, 14:11:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/60-malicious-ruby-gems-downloaded-275-000-times-steal-credentials/>)
+
 - **I difetti di Cyberark e Hashicorp consentono l'acquisizione di caveau remoti senza credenziali**  
   Fonte: The Hacker News, 09 Aug 2025, 05:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html>)
@@ -70,7 +86,7 @@
   Fonte: The Hacker News, 08 Aug 2025, 07:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/greedybear-steals-1m-in-crypto-using.html>)
 
-- **Le biblioteche degli sviluppatori di WhatsApp falsi nascondono il codice distruttivo dei dati**  
+- **Le biblioteche degli sviluppatori di WhatsApp falsi nascondono il codice di risanamento dei dati distruttivi**  
   Fonte: BleepingComputer, 07 Aug 2025, 21:42:30 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fake-whatsapp-developer-libraries-hide-destructive-data-wiping-code/>)
 
@@ -85,14 +101,6 @@
 - **Malware socgholish diffuso tramite strumenti di annunci;Offre accesso a Lockbit, Evil Corp e altri**  
   Fonte: The Hacker News, 07 Aug 2025, 18:26:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/socgholish-malware-spread-via-ad-tools.html>)
-
-- **Nuovo strumento EDR Killer utilizzato da otto diversi gruppi di ransomware**  
-  Fonte: BleepingComputer, 07 Aug 2025, 17:58:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-edr-killer-tool-used-by-eight-different-ransomware-groups/>)
-
-- **Bouygues Telecom conferma la violazione dei dati che influisce su 6,4 milioni di clienti**  
-  Fonte: BleepingComputer, 07 Aug 2025, 17:23:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bouygues-telecom-confirms-data-breach-impacting-64-million-customers/>)
 
 - **Webinar: come fermare gli attacchi della catena di approvvigionamento di Python e gli strumenti di esperti di cui hai bisogno**  
   Fonte: The Hacker News, 07 Aug 2025, 15:33:00 UTC  
@@ -254,13 +262,5 @@
   Fonte: Troy Hunt, 03 Aug 2025, 07:12:24 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-463/>)
 
-- **CL-STA-0969 installa malware nascosto in reti di telecomunicazioni durante la campagna di spionaggio di 10 mesi**  
-  Fonte: The Hacker News, 02 Aug 2025, 16:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/cl-sta-0969-installs-covert-malware-in.html>)
 
-- **Akira Ransomware sfrutta VPN Sonicwall in probabile attacco a zero giorni su dispositivi a pieno titolo**  
-  Fonte: The Hacker News, 02 Aug 2025, 06:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/akira-ransomware-exploits-sonicwall.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-09 06:17:26 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-10 06:18:10 UTC -->
