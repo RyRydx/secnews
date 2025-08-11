@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **I nuovi difetti Win-DDOS consentono agli aggressori di trasformare i controller di dominio pubblico in botnet DDOS tramite RPC, LDAP**  
+  Fonte: The Hacker News, 10 Aug 2025, 19:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html>)
+
+- **I ricercatori dettagliano la catena di exploit di avvelenamento EPM di Windows che porta all'escalation dei privilegi del dominio**  
+  Fonte: The Hacker News, 10 Aug 2025, 12:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/researchers-detail-windows-epm.html>)
+
 - **Google conferma la violazione dei dati Exposed Potenziale Informazioni sui clienti di Google Ads**  
   Fonte: BleepingComputer, 09 Aug 2025, 19:15:59 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/google-confirms-data-breach-exposed-potential-google-ads-customers-info/>)
@@ -9,6 +17,10 @@
 - **Il difetto delle webcam di Lenovo basato su Linux può essere sfruttato a distanza per gli attacchi BadUSB**  
   Fonte: The Hacker News, 09 Aug 2025, 19:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html>)
+
+- **I ricercatori rivelano l'attacco di Revault che mirano al firmware Dell ControlVault3 in più modelli di laptop**  
+  Fonte: The Hacker News, 09 Aug 2025, 18:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/researchers-reveal-revault-attack.html>)
 
 - **I ricercatori scoprono il jailbreak GPT-5 e gli attacchi di agente AI a clic zero esponendo i sistemi di cloud e IoT**  
   Fonte: The Hacker News, 09 Aug 2025, 15:06:00 UTC  
@@ -254,13 +266,5 @@
   Fonte: The Hacker News, 04 Aug 2025, 09:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/the-wild-west-of-shadow-it.html>)
 
-- **Playpraer Android Trojan infetta 11.000 dispositivi tramite fake pagine di gioco Google e meta**  
-  Fonte: The Hacker News, 04 Aug 2025, 06:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/playpraetor-android-trojan-infects.html>)
 
-- **Aggiornamento settimanale 463**  
-  Fonte: Troy Hunt, 03 Aug 2025, 07:12:24 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-463/>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-10 06:18:10 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-11 06:20:08 UTC -->
