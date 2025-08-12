@@ -2,17 +2,101 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 464**  
+  Fonte: Troy Hunt, 12 Aug 2025, 03:26:47 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-464/>)
+
+- **Allineare i nostri prezzi e l'imballaggio con i problemi che aiutiamo i clienti a risolvere**  
+  Fonte: Cloudflare Blog - Security, 11 Aug 2025, 23:03:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/aligning-our-prices-and-packaging-with-the-problems-we-help-customers-solve/>)
+
+- **Hacker Kimsuky nordcoreani esposti in presunte violazione dei dati**  
+  Fonte: BleepingComputer, 11 Aug 2025, 20:42:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-kimsuky-hackers-exposed-in-alleged-data-breach/>)
+
+- **Paesi Bassi: Citrix Netscaler Flaw CVE-2025-6543 sfruttato per violare le organizzazioni**  
+  Fonte: BleepingComputer, 11 Aug 2025, 19:19:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/netherlands-citrix-netscaler-flaw-cve-2025-6543-exploited-to-breach-orgs/>)
+
+- **I dettagli emergono sugli attacchi zero-day di Winrar che hanno infettato PCS con malware**  
+  Fonte: BleepingComputer, 11 Aug 2025, 18:05:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/details-emerge-on-winrar-zero-day-attacks-that-infected-pcs-with-malware/>)
+
+- **Microsoft testa PC di recupero Disaster Windows 365 basato su cloud**  
+  Fonte: BleepingComputer, 11 Aug 2025, 16:50:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-cloud-based-windows-365-disaster-recovery-pcs/>)
+
+- **Openai sta testando un limite di 3000 per la settimana per il pensiero GPT-5**  
+  Fonte: BleepingComputer, 11 Aug 2025, 16:49:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-3-000-per-week-limit-for-gpt-5-thinking/>)
+
+- **I nuovi difetti di crittografia della radio Tetra espongono le forze dell'ordine**  
+  Fonte: The Hacker News, 11 Aug 2025, 16:32:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/new-tetra-radio-encryption-flaws-expose.html>)
+
+- **Onenote finalmente ottiene la funzione "incolla solo testo" su Windows e Mac**  
+  Fonte: BleepingComputer, 11 Aug 2025, 16:10:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/onenote-finally-gets-paste-text-only-feature-on-windows-and-mac/>)
+
+- **Xai sta testando Grok 4.20 per assumere GPT-5, può essere lanciato questo mese**  
+  Fonte: BleepingComputer, 11 Aug 2025, 15:34:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/xai-is-testing-grok-420-to-take-on-gpt-5-may-launch-this-month/>)
+
+- **L'ascesa del phishing nativo: app Microsoft 365 abusato negli attacchi**  
+  Fonte: BleepingComputer, 11 Aug 2025, 15:17:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-rise-of-native-phishing-microsoft-365-apps-abused-in-attacks/>)
+
+- **I ricercatori hanno un aumento di Erlang/OTP SSH RCE Exploit, 70% target OT Firewalls**  
+  Fonte: The Hacker News, 11 Aug 2025, 15:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/researchers-spot-surge-in-erlangotp-ssh.html>)
+
+- **Ransomware Darkbit di Muddywater Cracking per il recupero dei dati gratuito**  
+  Fonte: BleepingComputer, 11 Aug 2025, 14:31:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/muddywaters-darkbit-ransomware-cracked-for-free-data-recovery/>)
+
+- **"Presidente" di $ 100 milioni di operazioni di truffa estradarci**  
+  Fonte: BleepingComputer, 11 Aug 2025, 12:03:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-ghanaians-linked-to-theft-of-100-million-in-romance-scams-bec-attacks/>)
+
+- **⚡ Riepilogo settimanale: BadCam Attack, Winrar 0-Day, EDR Killer, Nvidia Flaws, Ransomware Attacks & More**  
+  Fonte: The Hacker News, 11 Aug 2025, 11:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/weekly-recap-badcam-attack-winrar-0-day.html>)
+
+- **6 Lezioni apprese: focalizzare la sicurezza in cui il valore aziendale vive**  
+  Fonte: The Hacker News, 11 Aug 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/6-lessons-learned-focusing-security.html>)
+
+- **I lettori automatici di targa stanno arrivando alle scuole**  
+  Fonte: Schneier on Security, 11 Aug 2025, 11:05:32 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/automatic-license-plate-readers-are-coming-to-schools.html>)
+
+- **Oltre 29.000 server di scambio non sono patch contro difetti ad alta seguinza**  
+  Fonte: BleepingComputer, 11 Aug 2025, 09:35:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-29-000-exchange-servers-unpatched-against-high-severity-flaw/>)
+
+- **Connex Credit Union Data Breach Impacts 172.000 membri**  
+  Fonte: BleepingComputer, 11 Aug 2025, 08:18:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/connex-credit-union-discloses-data-breach-impacting-172-000-people/>)
+
+- **Come ripristinare GPT-4o quando hai GPT-5**  
+  Fonte: BleepingComputer, 11 Aug 2025, 06:40:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/how-to-restore-gpt-4o-when-youve-gpt-5/>)
+
+- **Winrar zero-day in sfruttamento attivo-aggiornamento immediatamente dell'ultima versione**  
+  Fonte: The Hacker News, 11 Aug 2025, 05:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/winrar-zero-day-under-active.html>)
+
 - **I nuovi difetti Win-DDOS consentono agli aggressori di trasformare i controller di dominio pubblico in botnet DDOS tramite RPC, LDAP**  
   Fonte: The Hacker News, 10 Aug 2025, 19:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html>)
 
+- **Il calendario di Google invita a consentire ai ricercatori di hijack gemini a perdite dei dati degli utenti**  
+  Fonte: BleepingComputer, 10 Aug 2025, 14:12:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-calendar-invites-let-researchers-hijack-gemini-to-leak-user-data/>)
+
 - **I ricercatori dettagliano la catena di exploit di avvelenamento EPM di Windows che porta all'escalation dei privilegi del dominio**  
   Fonte: The Hacker News, 10 Aug 2025, 12:31:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/researchers-detail-windows-epm.html>)
-
-- **Google conferma la violazione dei dati Exposed Potenziale Informazioni sui clienti di Google Ads**  
-  Fonte: BleepingComputer, 09 Aug 2025, 19:15:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-confirms-data-breach-exposed-potential-google-ads-customers-info/>)
 
 - **Il difetto delle webcam di Lenovo basato su Linux può essere sfruttato a distanza per gli attacchi BadUSB**  
   Fonte: The Hacker News, 09 Aug 2025, 19:00:00 UTC  
@@ -26,10 +110,6 @@
   Fonte: The Hacker News, 09 Aug 2025, 15:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html>)
 
-- **60 gemme di rubino dannose scaricate 275.000 volte rubano credenziali**  
-  Fonte: BleepingComputer, 09 Aug 2025, 14:11:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/60-malicious-ruby-gems-downloaded-275-000-times-steal-credentials/>)
-
 - **I difetti di Cyberark e Hashicorp consentono l'acquisizione di caveau remoti senza credenziali**  
   Fonte: The Hacker News, 09 Aug 2025, 05:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html>)
@@ -42,25 +122,9 @@
   Fonte: Krebs on Security, 08 Aug 2025, 21:38:01 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/>)
 
-- **Openai per risolvere i problemi GPT-5, doppio limite di tariffa per gli utenti a pagamento dopo l'indignazione**  
-  Fonte: BleepingComputer, 08 Aug 2025, 21:23:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-to-fix-gpt-5-issues-double-rate-limits-for-paid-users-after-outrage/>)
-
-- **Winrar Zero-Day sfruttato per piantare malware sull'estrazione dell'archivio**  
-  Fonte: BleepingComputer, 08 Aug 2025, 20:42:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/winrar-zero-day-flaw-exploited-by-romcom-hackers-in-phishing-attacks/>)
-
-- **FTC: gli adulti più anziani hanno perso un record di $ 700 milioni per i truffatori nel 2024**  
-  Fonte: BleepingComputer, 08 Aug 2025, 17:55:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ftc-older-adults-lost-record-700-million-to-scammers-in-2024/>)
-
 - **AI STRUENI FUBILE SCAM BRASILIO Phishing mentre Efimer Trojan ruba la criptola da 5.000 vittime**  
   Fonte: The Hacker News, 08 Aug 2025, 16:14:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/ai-tools-fuel-brazilian-phishing-scam.html>)
-
-- **La magistratura degli Stati Uniti conferma la violazione del servizio di documenti elettronici del tribunale**  
-  Fonte: BleepingComputer, 08 Aug 2025, 15:30:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-judiciary-confirms-breach-of-court-electronic-records-service/>)
 
 - **Google Project Zero Cambia la sua politica di divulgazione**  
   Fonte: Schneier on Security, 08 Aug 2025, 11:01:14 UTC  
@@ -74,41 +138,13 @@
   Fonte: The Hacker News, 08 Aug 2025, 10:58:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/rubygems-pypi-hit-by-malicious-packages.html>)
 
-- **App Microsoft 365 per bloccare presto l'accesso al file tramite FPRPC per impostazione predefinita**  
-  Fonte: BleepingComputer, 08 Aug 2025, 10:52:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-365-apps-to-soon-block-file-access-via-insecure-fprpc-legacy-auth-protocol-by-default/>)
-
-- **Microsoft ucciderà l'app scanner PDF per iOS, Android**  
-  Fonte: BleepingComputer, 08 Aug 2025, 09:59:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-will-kill-the-microsoft-lens-pdf-scanner-app-for-ios-android-in-september/>)
-
 - **Teaonher copia di tutto dal tè - comprese le violazioni dei dati**  
   Fonte: Graham Cluley, 08 Aug 2025, 09:00:40 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/teaonher-copies-everything-from-tea-including-the-data-breaches>)
 
-- **La violazione dei dati della Columbia University ha un impatto su quasi 870.000 persone**  
-  Fonte: BleepingComputer, 08 Aug 2025, 08:43:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/columbia-university-data-breach-impacts-nearly-870-000-students-applicants-employees/>)
-
-- **Le bande di ransomware reali e neri hanno colpito oltre 450 compagnie statunitensi**  
-  Fonte: BleepingComputer, 08 Aug 2025, 07:36:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/royal-and-blacksuit-ransomware-gangs-hit-over-450-us-companies/>)
-
 - **Greatbebear ruba $ 1 milione in cripto**  
   Fonte: The Hacker News, 08 Aug 2025, 07:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/greedybear-steals-1m-in-crypto-using.html>)
-
-- **Le biblioteche degli sviluppatori di WhatsApp falsi nascondono il codice di risanamento dei dati distruttivi**  
-  Fonte: BleepingComputer, 07 Aug 2025, 21:42:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-whatsapp-developer-libraries-hide-destructive-data-wiping-code/>)
-
-- **La CISA ordina alle agenzie federali di patch di nuovo difetto di scambio entro lunedì**  
-  Fonte: BleepingComputer, 07 Aug 2025, 20:14:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-fed-agencies-to-patch-new-cve-2025-53786-exchange-flaw/>)
-
-- **Modelli GPT-5 di Chatgpt rilasciati: tutto ciò che devi sapere**  
-  Fonte: BleepingComputer, 07 Aug 2025, 19:03:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-models-released-everything-you-need-to-know/>)
 
 - **Malware socgholish diffuso tramite strumenti di annunci;Offre accesso a Lockbit, Evil Corp e altri**  
   Fonte: The Hacker News, 07 Aug 2025, 18:26:00 UTC  
@@ -230,41 +266,5 @@
   Fonte: The Hacker News, 05 Aug 2025, 07:27:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/15000-fake-tiktok-shop-domains-deliver.html>)
 
-- **Sonicwall che studia potenziale SSL VPN Zero-Day dopo 20+ attacchi mirati segnalati**  
-  Fonte: The Hacker News, 05 Aug 2025, 05:18:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/sonicwall-investigating-potential-ssl.html>)
 
-- **I bug Nvidia Triton consentono agli aggressori non autenticati di eseguire codice e server di altezza.**  
-  Fonte: The Hacker News, 04 Aug 2025, 16:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html>)
-
-- **Gli hacker vietnamiti usano il furto PXA, colpiscono 4.000 IP e rubano 200.000 password a livello globale**  
-  Fonte: The Hacker News, 04 Aug 2025, 13:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/vietnamese-hackers-use-pxa-stealer-hit.html>)
-
-- **La perplessità utilizza crawler invisibili e non dichiarati per eludere le direttive senza crawl**  
-  Fonte: Cloudflare Blog - Security, 04 Aug 2025, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/>)
-
-- **⚡ Riepilogo settimanale: VPN 0 giorni, backdoor di crittografia, malware AI, difetti macOS, ATM hack e altro ancora**  
-  Fonte: The Hacker News, 04 Aug 2025, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/weekly-recap-vpn-0-day-encryption.html>)
-
-- **Prima condanna nel programma per aiutare le società statunitensi dei nordcoreani**  
-  Fonte: Schneier on Security, 04 Aug 2025, 11:01:27 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/first-sentencing-in-scheme-to-help-north-koreans-infiltrate-us-companies.html>)
-
-- **Guida alla prevenzione degli attacchi man-in-the-middle**  
-  Fonte: The Hacker News, 04 Aug 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/man-in-middle-attack-prevention-guide.html>)
-
-- **Il nuovo backdoor PAM "Plague" espone i sistemi Linux critici al furto di credenziali silenzioso**  
-  Fonte: The Hacker News, 04 Aug 2025, 10:51:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html>)
-
-- **Il selvaggio ovest dell'ombra**  
-  Fonte: The Hacker News, 04 Aug 2025, 09:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/the-wild-west-of-shadow-it.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-11 06:20:08 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-12 06:19:48 UTC -->
