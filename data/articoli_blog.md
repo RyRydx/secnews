@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **CISA aggiunge due difetti N-Central N-inble al catalogo di vulnerabilità sfruttate note**  
+  Fonte: The Hacker News, 14 Aug 2025, 04:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/cisa-adds-two-n-able-n-central-flaws-to.html>)
+
+- **La profonda ricerca di Google Gemini sta finalmente arrivando all'API**  
+  Fonte: BleepingComputer, 14 Aug 2025, 01:01:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-geminis-deep-research-is-finally-coming-to-api/>)
+
+- **Smashing Security Podcast #430: Calendario avvelenato Inviti, Chatgpt e Bromide**  
+  Fonte: Graham Cluley, 13 Aug 2025, 23:00:11 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-430-poisoned-calendar-invites-chatgpt-and-bromide/>)
+
+- **Openi rilassa il limite di tasso GPT-5, promette di migliorare la personalità**  
+  Fonte: BleepingComputer, 13 Aug 2025, 22:22:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-relaxes-gpt-5-rate-limit-promises-to-improve-the-personality/>)
+
+- **Fortinet avverte di Fortisiem pre-outh rce difetto con exploit in natura**  
+  Fonte: BleepingComputer, 13 Aug 2025, 20:23:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-warns-of-fortisiem-pre-auth-rce-flaw-with-exploit-in-the-wild/>)
+
+- **Quella storia di 16 miliardi di password (alias "Data Troll")**  
+  Fonte: Troy Hunt, 13 Aug 2025, 19:46:03 UTC  
+  [Leggi](<https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/>)
+
+- **Windows 11 24h2 aggiorna nuovamente con 0x80240069 errori**  
+  Fonte: BleepingComputer, 13 Aug 2025, 19:41:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-updates-failing-again-with-0x80240069-errors/>)
+
+- **Nuovo attacco di downgrade può bypassare l'auth fido in Microsoft ENTra ID**  
+  Fonte: BleepingComputer, 13 Aug 2025, 19:14:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/>)
+
+- **Spike in Fortinet VPN Brute-Force Attacks solleva preoccupazioni zero-day**  
+  Fonte: BleepingComputer, 13 Aug 2025, 16:42:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spike-in-fortinet-vpn-brute-force-attacks-raises-zero-day-concerns/>)
+
+- **Applicazioni di intelligenza artificiale in sicurezza informatica**  
+  Fonte: Schneier on Security, 13 Aug 2025, 16:28:35 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/ai-applications-in-cybersecurity.html>)
+
+- **Email del procuratore generale della Pennsylvania, sito dopo il cerotto**  
+  Fonte: BleepingComputer, 13 Aug 2025, 16:25:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pennsylvania-attorney-generals-email-site-down-after-cyberattack/>)
+
+- **La nuova campagna di malware PS1BOT utilizza la malverting per distribuire attacchi in memoria in più stadi**  
+  Fonte: The Hacker News, 13 Aug 2025, 15:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/new-ps1bot-malware-campaign-uses.html>)
+
+- **La banda di ransomware Medusalocker sta assumendo tester di penetrazione**  
+  Fonte: Graham Cluley, 13 Aug 2025, 14:17:45 UTC  
+  [Leggi](<https://www.fortra.com/blog/medusalocker-ransomware-gang-hiring-penetration-testers>)
+
+- **Microsoft rimuove PowerShell 2.0 da Windows 11, Windows Server**  
+  Fonte: BleepingComputer, 13 Aug 2025, 13:35:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-powershell-20-from-windows-11-windows-server/>)
+
+- **Zoom e xerox Rilascio aggiornamenti di sicurezza critici fissati all'escalation dei privilegi e ai difetti RCE**  
+  Fonte: The Hacker News, 13 Aug 2025, 13:19:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html>)
+
+- **Microsoft chiede agli utenti di ignorare gli errori di iscrizione del certificato**  
+  Fonte: BleepingComputer, 13 Aug 2025, 12:24:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-certificate-enrollment-errors/>)
+
+- **Fortinet avverte della vulnerabilità Fortisiem (CVE-2025-25256) con codice exploit in The Wild**  
+  Fonte: The Hacker News, 13 Aug 2025, 11:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html>)
+
+- **AI SOC 101: I leader della sicurezza delle capacità chiave devono sapere**  
+  Fonte: The Hacker News, 13 Aug 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html>)
+
+- **Openi aggiunge nuovi modelli GPT-5, ripristina O3, O4-Mini ed è di nuovo un disastro**  
+  Fonte: BleepingComputer, 13 Aug 2025, 11:24:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-adds-new-gpt-5-models-restores-o3-o4-mini-and-its-a-mess-all-over-again/>)
+
+- **Sigint durante la seconda guerra mondiale**  
+  Fonte: Schneier on Security, 13 Aug 2025, 11:08:00 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/sigint-during-world-war-ii.html>)
+
+- **Webinar: come sarà la prossima ondata di attacchi informatici di intelligenza artificiale - e come sopravvivere**  
+  Fonte: The Hacker News, 13 Aug 2025, 09:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/webinar-what-next-wave-of-ai.html>)
+
+- **Microsoft Agosto 2025 Patch martedì fissa Kerberos Zero-Day tra 111 nuovi difetti totali**  
+  Fonte: The Hacker News, 13 Aug 2025, 08:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/microsoft-august-2025-patch-tuesday.html>)
+
 - **Charon Ransomware colpisce i settori del Medio Oriente usando tattiche di evasione a livello APT**  
   Fonte: The Hacker News, 13 Aug 2025, 05:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html>)
@@ -26,29 +114,9 @@
   Fonte: BleepingComputer, 12 Aug 2025, 21:12:39 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gmail-calendar-and-contacts-integration-in-chatgpt/>)
 
-- **Il nuovo abbonamento di Chatgpt costa meno di $ 5, ma non è per tutti**  
-  Fonte: BleepingComputer, 12 Aug 2025, 21:01:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-subscription-costs-less-than-5-but-its-not-for-everyone/>)
-
-- **Docker Hub ospita ancora dozzine di immagini Linux con il backdoor XZ**  
-  Fonte: BleepingComputer, 12 Aug 2025, 18:43:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/docker-hub-still-hosts-dozens-of-linux-images-with-the-xz-backdoor/>)
-
 - **I ricercatori individuano XZ Utils Backdoor in dozzine di immagini di mozzo Docker, alimentando i rischi della catena di approvvigionamento**  
   Fonte: The Hacker News, 12 Aug 2025, 18:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/researchers-spot-xz-utils-backdoor-in.html>)
-
-- **Microsoft Agosto 2025 Patch martedì fissa un giorno zero, 107 difetti**  
-  Fonte: BleepingComputer, 12 Aug 2025, 17:43:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2025-patch-tuesday-fixes-one-zero-day-107-flaws/>)
-
-- **Windows 11 KB5063878 e KB5063875 Aggiornamenti cumulativi rilasciati**  
-  Fonte: BleepingComputer, 12 Aug 2025, 17:34:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5063878-and-kb5063875-cumulative-updates-released/>)
-
-- **Windows 10 KB5063709 AGGIORNAMENTO FISSA AGGIORNAMENTO ESTREDE AGGIORNAMENTO**  
-  Fonte: BleepingComputer, 12 Aug 2025, 17:15:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5063709-update-fixes-extended-security-updates-enrollment/>)
 
 - **Fortinet SSL VPNs colpito da Global Brute-Force Wave prima che gli aggressori si spostano a Fortimanager**  
   Fonte: The Hacker News, 12 Aug 2025, 17:05:00 UTC  
@@ -58,37 +126,13 @@
   Fonte: The Hacker News, 12 Aug 2025, 16:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/cybercrime-groups-shinyhunters.html>)
 
-- **US Govt coglie $ 1 milione in criptovalute dalla banda di ransomware di neri**  
-  Fonte: BleepingComputer, 12 Aug 2025, 16:18:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-govt-seizes-1-million-in-crypto-from-blacksuit-ransomware-gang/>)
-
-- **Hypervisor PKVM di Android guadagna la certificazione di sicurezza di livello 5**  
-  Fonte: BleepingComputer, 12 Aug 2025, 16:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/androids-pkvm-hypervisor-earns-sesip-level-5-security-certification/>)
-
-- **Curly Comproades CybersPies ha colpito gli organi Govt con malware personalizzato**  
-  Fonte: BleepingComputer, 12 Aug 2025, 14:43:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/curly-comrades-cyberspies-hit-govt-orgs-with-custom-malware/>)
-
-- **Oltre 3.000 dispositivi Netscaler lasciati senza patch contro Citrixbleed 2 Bug**  
-  Fonte: BleepingComputer, 12 Aug 2025, 14:31:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-3-000-netscaler-devices-left-unpatched-against-actively-exploited-citrixbleed-2-flaw/>)
-
 - **L'IA Fix #63: GPT-5 è la migliore AI di sempre e Jim Acosta intervista l'avatar di un adolescente assassinato**  
   Fonte: Graham Cluley, 12 Aug 2025, 14:00:37 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-63/>)
 
-- **275m Record di pazienti in violazione: come soddisfare i requisiti del gestore delle password HIPAA**  
-  Fonte: BleepingComputer, 12 Aug 2025, 13:57:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/275m-patient-records-breached-how-to-meet-hipaa-password-manager-requirements/>)
-
 - **Us rivela che ha sequestrato $ 1 milione di bitcoin dalla banda di ransomware russa di neri**  
   Fonte: Graham Cluley, 12 Aug 2025, 13:53:15 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/us-reveals-it-seized-1-million-worth-of-bitcoin-from-russian-blacksuit-ransomware-gang>)
-
-- **Windows 11 23H2 Home e Pro Reach Fine del supporto a novembre**  
-  Fonte: BleepingComputer, 12 Aug 2025, 13:13:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-november/>)
 
 - **Nuovi "Compagni Curly" Apt usando Ngen Com Hijacking in Georgia, Attacchi della Moldavia**  
   Fonte: The Hacker News, 12 Aug 2025, 13:00:00 UTC  
@@ -226,45 +270,5 @@
   Fonte: The Hacker News, 07 Aug 2025, 10:32:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/sonicwall-confirms-patched.html>)
 
-- **I ricercatori scoprono il difetto ECSCAPE in Amazon ECS che consente un furto di credenziali a task incrociato**  
-  Fonte: The Hacker News, 06 Aug 2025, 20:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html>)
 
-- **APP FINE VPN e SPAM Blocker legate a Vextrio utilizzato in frode AD, truffe di abbonamento**  
-  Fonte: The Hacker News, 06 Aug 2025, 20:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html>)
-
-- **Ransomware immerge la compagnia assicurativa in bancarotta**  
-  Fonte: Graham Cluley, 06 Aug 2025, 16:27:11 UTC  
-  [Leggi](<https://www.fortra.com/blog/ransomware-plunges-insurance-company-bankruptcy>)
-
-- **L'Ucraina afferma di aver violato i segreti dal nuovo sottomarino nucleare russo**  
-  Fonte: Graham Cluley, 06 Aug 2025, 13:44:43 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ukraine-claims-to-have-hacked-secrets-from-russias-newest-nuclear-submarine>)
-
-- **Chi è stato arrestato nel raid sul forum del crimine XSS?**  
-  Fonte: Krebs on Security, 06 Aug 2025, 12:12:37 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/>)
-
-- **AI taglia i carichi di lavoro per VCISOS del 68% man mano che le PMI richiedono di più - rivela il nuovo rapporto**  
-  Fonte: The Hacker News, 06 Aug 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/ai-slashes-workloads-for-vcisos-by-68.html>)
-
-- **Microsoft lancia il progetto IRE per classificare autonomamente malware usando strumenti AI**  
-  Fonte: The Hacker News, 06 Aug 2025, 10:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/microsoft-launches-project-ire-to.html>)
-
-- **L'ospedale ha multato dopo i dati dei pazienti trovati negli involucri di cibo di strada**  
-  Fonte: Graham Cluley, 06 Aug 2025, 10:08:48 UTC  
-  [Leggi](<https://grahamcluley.com/hospital-fined-after-patient-data-found-in-street-food-wrappers/>)
-
-- **Trend Micro conferma lo sfruttamento attivo dell'apice critico uno difetti nei sistemi on-premise**  
-  Fonte: The Hacker News, 06 Aug 2025, 08:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/trend-micro-confirms-active.html>)
-
-- **Cert-ua avverte di attacchi di malware C# de-consegnati da HTA utilizzando le esche di convocazione del tribunale**  
-  Fonte: The Hacker News, 06 Aug 2025, 07:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/cert-ua-warns-of-hta-delivered-c.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-13 06:19:38 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-14 06:19:20 UTC -->
