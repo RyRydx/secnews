@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Madeyoureset: una vulnerabilità HTTP/2 contrastata da mitigazioni di ripristino rapido**  
+  Fonte: Cloudflare Blog - Security, 14 Aug 2025, 22:03:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/madeyoureset-an-http-2-vulnerability-thwarted-by-rapid-reset-mitigations/>)
+
+- **Oltre $ 300 milioni in cripto crimine criminali sequestrati nello sforzo antifrode**  
+  Fonte: BleepingComputer, 14 Aug 2025, 20:15:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-300-million-in-cybercrime-crypto-seized-in-anti-fraud-effort/>)
+
+- **Crypto24 Ransomware colpisce grandi organi con strumento di evasione EDR personalizzata**  
+  Fonte: BleepingComputer, 14 Aug 2025, 17:53:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/crypto24-ransomware-hits-large-orgs-with-custom-edr-evasion-tool/>)
+
+- **Hacker filo-russi incolpati per il sabotaggio della diga d'acqua in Norvegia**  
+  Fonte: BleepingComputer, 14 Aug 2025, 16:01:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/>)
+
+- **La nuova vulnerabilità HTTP/2 "MadeYoureSet" consente attacchi DOS su larga scala**  
+  Fonte: The Hacker News, 14 Aug 2025, 15:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html>)
+
+- **Microsoft fissa il bug di Windows Server che causa cluster, VM Problemi**  
+  Fonte: BleepingComputer, 14 Aug 2025, 15:05:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-cluster-vm-issues/>)
+
+- **La campagna di phishing di Booking.com utilizza un personaggio "ん '" per ingannarti**  
+  Fonte: BleepingComputer, 14 Aug 2025, 14:23:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/>)
+
+- **Quando il furto sostituisce la crittografia: report blu 2025 su ransomware e infostealer**  
+  Fonte: BleepingComputer, 14 Aug 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/when-theft-replaces-encryption-blue-report-2025-on-ransomware-and-infostealers/>)
+
+- **Gli hacker hanno trovato l'uso di Crossc2 per espandere la portata di Cobalt Strike Beacon a Linux e MacOS**  
+  Fonte: The Hacker News, 14 Aug 2025, 13:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html>)
+
+- **Canada della Camera dei Comuni che indagano sulla violazione dei dati dopo l'attacco informatico**  
+  Fonte: BleepingComputer, 14 Aug 2025, 13:06:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/>)
+
+- **Hai spento il tuo forno virtuale?**  
+  Fonte: The Hacker News, 14 Aug 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html>)
+
+- **LLM Coding Integrity Breach**  
+  Fonte: Schneier on Security, 14 Aug 2025, 11:08:52 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/llm-coding-integrity-breach.html>)
+
+- **Nuova onda di malware Android colpisce banking tramite frode di relè NFC, chiamate di ioli e exploit di root**  
+  Fonte: The Hacker News, 14 Aug 2025, 11:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html>)
+
+- **Perdita: il browser di Openi utilizzerà CHATGPT Agent per controllare il browser**  
+  Fonte: BleepingComputer, 14 Aug 2025, 10:45:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leak-openais-browser-will-use-chatgpt-agent-to-control-the-browser/>)
+
+- **Semplici passaggi per la riduzione della superficie di attacco**  
+  Fonte: The Hacker News, 14 Aug 2025, 09:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html>)
+
+- **CISA avverte di difetti N-Central N-Able sfruttati in attacchi a zero giorni**  
+  Fonte: BleepingComputer, 14 Aug 2025, 09:15:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-n-able-n-central-flaws-exploited-in-zero-day-attacks/>)
+
+- **Microsoft fissa Windows 11 24H2 Aggiornamenti di fallimento con 0x80240069 Errore**  
+  Fonte: BleepingComputer, 14 Aug 2025, 07:41:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-24h2-updates-failing-with-0x80240069-error/>)
+
+- **Google richiede licenze di app cripto in 15 regioni poiché l'FBI avverte di perdite di truffa da $ 9,9 milioni**  
+  Fonte: The Hacker News, 14 Aug 2025, 06:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/google-requires-crypto-app-licenses-in.html>)
+
 - **CISA aggiunge due difetti N-Central N-inble al catalogo di vulnerabilità sfruttate note**  
   Fonte: The Hacker News, 14 Aug 2025, 04:02:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/cisa-adds-two-n-able-n-central-flaws-to.html>)
@@ -26,25 +98,9 @@
   Fonte: Troy Hunt, 13 Aug 2025, 19:46:03 UTC  
   [Leggi](<https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/>)
 
-- **Windows 11 24h2 aggiorna nuovamente con 0x80240069 errori**  
-  Fonte: BleepingComputer, 13 Aug 2025, 19:41:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-updates-failing-again-with-0x80240069-errors/>)
-
-- **Nuovo attacco di downgrade può bypassare l'auth fido in Microsoft ENTra ID**  
-  Fonte: BleepingComputer, 13 Aug 2025, 19:14:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/>)
-
-- **Spike in Fortinet VPN Brute-Force Attacks solleva preoccupazioni zero-day**  
-  Fonte: BleepingComputer, 13 Aug 2025, 16:42:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/spike-in-fortinet-vpn-brute-force-attacks-raises-zero-day-concerns/>)
-
 - **Applicazioni di intelligenza artificiale in sicurezza informatica**  
   Fonte: Schneier on Security, 13 Aug 2025, 16:28:35 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/08/ai-applications-in-cybersecurity.html>)
-
-- **Email del procuratore generale della Pennsylvania, sito dopo il cerotto**  
-  Fonte: BleepingComputer, 13 Aug 2025, 16:25:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pennsylvania-attorney-generals-email-site-down-after-cyberattack/>)
 
 - **La nuova campagna di malware PS1BOT utilizza la malverting per distribuire attacchi in memoria in più stadi**  
   Fonte: The Hacker News, 13 Aug 2025, 15:46:00 UTC  
@@ -54,17 +110,9 @@
   Fonte: Graham Cluley, 13 Aug 2025, 14:17:45 UTC  
   [Leggi](<https://www.fortra.com/blog/medusalocker-ransomware-gang-hiring-penetration-testers>)
 
-- **Microsoft rimuove PowerShell 2.0 da Windows 11, Windows Server**  
-  Fonte: BleepingComputer, 13 Aug 2025, 13:35:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-powershell-20-from-windows-11-windows-server/>)
-
 - **Zoom e xerox Rilascio aggiornamenti di sicurezza critici fissati all'escalation dei privilegi e ai difetti RCE**  
   Fonte: The Hacker News, 13 Aug 2025, 13:19:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html>)
-
-- **Microsoft chiede agli utenti di ignorare gli errori di iscrizione del certificato**  
-  Fonte: BleepingComputer, 13 Aug 2025, 12:24:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-certificate-enrollment-errors/>)
 
 - **Fortinet avverte della vulnerabilità Fortisiem (CVE-2025-25256) con codice exploit in The Wild**  
   Fonte: The Hacker News, 13 Aug 2025, 11:37:00 UTC  
@@ -73,10 +121,6 @@
 - **AI SOC 101: I leader della sicurezza delle capacità chiave devono sapere**  
   Fonte: The Hacker News, 13 Aug 2025, 11:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html>)
-
-- **Openi aggiunge nuovi modelli GPT-5, ripristina O3, O4-Mini ed è di nuovo un disastro**  
-  Fonte: BleepingComputer, 13 Aug 2025, 11:24:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-adds-new-gpt-5-models-restores-o3-o4-mini-and-its-a-mess-all-over-again/>)
 
 - **Sigint durante la seconda guerra mondiale**  
   Fonte: Schneier on Security, 13 Aug 2025, 11:08:00 UTC  
@@ -94,25 +138,13 @@
   Fonte: The Hacker News, 13 Aug 2025, 05:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html>)
 
-- **Ottieni PWNED, ottieni una consulenza locale da una fonte Gov di fiducia**  
+- **Ottieni Pwned, ottieni consulenza locale da una fonte di Gov di fiducia**  
   Fonte: Troy Hunt, 13 Aug 2025, 02:37:14 UTC  
   [Leggi](<https://www.troyhunt.com/get-pwned-get-local-advice-from-a-trusted-gov-source/>)
 
 - **Microsoft Patch Tuesday, Edizione agosto 2025**  
   Fonte: Krebs on Security, 12 Aug 2025, 22:14:41 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/>)
-
-- **Claude ottiene il supporto di 1 m di token tramite API per assumere Gemini 2.5 Pro**  
-  Fonte: BleepingComputer, 12 Aug 2025, 22:13:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/claude-gets-1m-tokens-support-via-api-to-take-on-gemini-25-pro/>)
-
-- **Gli hacker perdono Allianz Life Data rubati negli attacchi di Salesforce**  
-  Fonte: BleepingComputer, 12 Aug 2025, 22:03:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-leak-allianz-life-data-stolen-in-salesforce-attacks/>)
-
-- **Openi lancia Gmail, Calendar e Contatti Integrazione in Chatgpt**  
-  Fonte: BleepingComputer, 12 Aug 2025, 21:12:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gmail-calendar-and-contacts-integration-in-chatgpt/>)
 
 - **I ricercatori individuano XZ Utils Backdoor in dozzine di immagini di mozzo Docker, alimentando i rischi della catena di approvvigionamento**  
   Fonte: The Hacker News, 12 Aug 2025, 18:17:00 UTC  
@@ -238,37 +270,5 @@
   Fonte: The Hacker News, 08 Aug 2025, 07:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/greedybear-steals-1m-in-crypto-using.html>)
 
-- **Malware socgholish diffuso tramite strumenti di annunci;Offre accesso a Lockbit, Evil Corp e altri**  
-  Fonte: The Hacker News, 07 Aug 2025, 18:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/socgholish-malware-spread-via-ad-tools.html>)
 
-- **Webinar: come fermare gli attacchi della catena di approvvigionamento di Python e gli strumenti di esperti di cui hai bisogno**  
-  Fonte: The Hacker News, 07 Aug 2025, 15:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html>)
-
-- **Malicious Go, pacchetti NPM forniscono malware multipiattaforma, trigger salviette dati remote**  
-  Fonte: The Hacker News, 07 Aug 2025, 13:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html>)
-
-- **La Cina accusa Nvidia di aver messo le backdoor nelle loro patatine**  
-  Fonte: Schneier on Security, 07 Aug 2025, 11:05:39 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/china-accuses-nvidia-of-putting-backdoors-into-their-chips.html>)
-
-- **Il turno di sicurezza basato sull'intelligenza artificiale: cosa 2025 ci sta insegnando sulla difesa del cloud**  
-  Fonte: The Hacker News, 07 Aug 2025, 10:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/the-ai-powered-security-shift-what-2025.html>)
-
-- **Microsoft divulga Exchange Server Flaw abilitando l'accesso al cloud silenzioso nelle configurazioni ibride**  
-  Fonte: The Hacker News, 07 Aug 2025, 10:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/microsoft-discloses-exchange-server.html>)
-
-- **I server di 6.500 assi espongono il protocollo remoto;4.000 negli Stati Uniti vulnerabili agli exploit**  
-  Fonte: The Hacker News, 07 Aug 2025, 10:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/6500-axis-servers-expose-remoting.html>)
-
-- **Sonicwall conferma la vulnerabilità patchat dietro i recenti attacchi VPN, non un giorno zero**  
-  Fonte: The Hacker News, 07 Aug 2025, 10:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/sonicwall-confirms-patched.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-14 06:19:20 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-15 06:19:27 UTC -->
