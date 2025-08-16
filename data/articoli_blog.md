@@ -2,6 +2,58 @@
 
 ## Ultimi 7 giorni
 
+- **Gruppo russo CryptHub Exploits MSC EVILTWIN Vulnerabilità per distribuire malware per furti**  
+  Fonte: The Hacker News, 16 Aug 2025, 05:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html>)
+
+- **Blogging di calamari del venerdì: UFO a forma di calamari individuato sul Texas**  
+  Fonte: Schneier on Security, 15 Aug 2025, 21:07:23 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-squid-shaped-ufo-spotted-over-texas.html>)
+
+- **Account di intermediazione target di mobili Phishers in schema di cassa "rampa e dump"**  
+  Fonte: Krebs on Security, 15 Aug 2025, 18:27:05 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/>)
+
+- **I server Web di Taiwan violati da UAT-7237 utilizzando strumenti di hacking open source personalizzati**  
+  Fonte: The Hacker News, 15 Aug 2025, 16:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html>)
+
+- **Colt Telecom Attack rivendicato da Warlock Ransomware, dati in vendita**  
+  Fonte: BleepingComputer, 15 Aug 2025, 15:25:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/>)
+
+- **Cisco avverte di difetto di gravità massima nel centro di gestione del firewall**  
+  Fonte: BleepingComputer, 15 Aug 2025, 13:57:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-flaw-in-firewall-management-center/>)
+
+- **Microsoft ricorda il supporto di Windows 10 che termina tra due mesi**  
+  Fonte: BleepingComputer, 15 Aug 2025, 13:09:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-of-windows-10-retirement-in-october/>)
+
+- **Plex avverte immediatamente gli utenti di patch di sicurezza**  
+  Fonte: BleepingComputer, 15 Aug 2025, 11:41:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerability-immediately/>)
+
+- **Sanzioni statunitensi Garantex e Grinex oltre $ 100 milioni in transazioni illecite legnate a ransomware**  
+  Fonte: The Hacker News, 15 Aug 2025, 11:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html>)
+
+- **Trojan incorporati nei file .svg**  
+  Fonte: Schneier on Security, 15 Aug 2025, 11:07:51 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/trojans-embedded-in-svg-files.html>)
+
+- **Zero Trust + AI: Privacy in the Age of Agenic AI**  
+  Fonte: The Hacker News, 15 Aug 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html>)
+
+- **Sanzioni statunitensi Grinex Crypto-Exchange, successore di GarantEx**  
+  Fonte: BleepingComputer, 15 Aug 2025, 08:46:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-sanctions-grinex-crypto-exchange-garantexs-successor/>)
+
+- **Cisco avverte di CVSS 10.0 FMC RADIUS difetto che consente l'esecuzione del codice remoto**  
+  Fonte: The Hacker News, 15 Aug 2025, 06:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html>)
+
 - **Madeyoureset: una vulnerabilità HTTP/2 contrastata da mitigazioni di ripristino rapido**  
   Fonte: Cloudflare Blog - Security, 14 Aug 2025, 22:03:00 UTC  
   [Leggi](<https://blog.cloudflare.com/madeyoureset-an-http-2-vulnerability-thwarted-by-rapid-reset-mitigations/>)
@@ -54,21 +106,9 @@
   Fonte: The Hacker News, 14 Aug 2025, 11:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html>)
 
-- **Perdita: il browser di Openi utilizzerà CHATGPT Agent per controllare il browser**  
-  Fonte: BleepingComputer, 14 Aug 2025, 10:45:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leak-openais-browser-will-use-chatgpt-agent-to-control-the-browser/>)
-
 - **Semplici passaggi per la riduzione della superficie di attacco**  
   Fonte: The Hacker News, 14 Aug 2025, 09:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html>)
-
-- **CISA avverte di difetti N-Central N-Able sfruttati in attacchi a zero giorni**  
-  Fonte: BleepingComputer, 14 Aug 2025, 09:15:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-n-able-n-central-flaws-exploited-in-zero-day-attacks/>)
-
-- **Microsoft fissa Windows 11 24H2 Aggiornamenti di fallimento con 0x80240069 Errore**  
-  Fonte: BleepingComputer, 14 Aug 2025, 07:41:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-24h2-updates-failing-with-0x80240069-error/>)
 
 - **Google richiede licenze di app cripto in 15 regioni poiché l'FBI avverte di perdite di truffa da $ 9,9 milioni**  
   Fonte: The Hacker News, 14 Aug 2025, 06:46:00 UTC  
@@ -78,21 +118,9 @@
   Fonte: The Hacker News, 14 Aug 2025, 04:02:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/cisa-adds-two-n-able-n-central-flaws-to.html>)
 
-- **La profonda ricerca di Google Gemini sta finalmente arrivando all'API**  
-  Fonte: BleepingComputer, 14 Aug 2025, 01:01:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-geminis-deep-research-is-finally-coming-to-api/>)
-
 - **Smashing Security Podcast #430: Calendario avvelenato Inviti, Chatgpt e Bromide**  
   Fonte: Graham Cluley, 13 Aug 2025, 23:00:11 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-430-poisoned-calendar-invites-chatgpt-and-bromide/>)
-
-- **Openi rilassa il limite di tasso GPT-5, promette di migliorare la personalità**  
-  Fonte: BleepingComputer, 13 Aug 2025, 22:22:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-relaxes-gpt-5-rate-limit-promises-to-improve-the-personality/>)
-
-- **Fortinet avverte di Fortisiem pre-outh rce difetto con exploit in natura**  
-  Fonte: BleepingComputer, 13 Aug 2025, 20:23:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-warns-of-fortisiem-pre-auth-rce-flaw-with-exploit-in-the-wild/>)
 
 - **Quella storia di 16 miliardi di password (alias "Data Troll")**  
   Fonte: Troy Hunt, 13 Aug 2025, 19:46:03 UTC  
@@ -234,41 +262,5 @@
   Fonte: The Hacker News, 09 Aug 2025, 15:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html>)
 
-- **I difetti di Cyberark e Hashicorp consentono l'acquisizione di caveau remoti senza credenziali**  
-  Fonte: The Hacker News, 09 Aug 2025, 05:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html>)
 
-- **Blogging di calamari del venerdì: nuova vulnerabilità nel server proxy HTTP di calamari**  
-  Fonte: Schneier on Security, 08 Aug 2025, 23:22:02 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-new-vulnerability-in-squid-http-proxy-server.html>)
-
-- **KrebSonsecurity in New "Most Wanted" HBO Max Series**  
-  Fonte: Krebs on Security, 08 Aug 2025, 21:38:01 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/>)
-
-- **AI STRUENI FUBILE SCAM BRASILIO Phishing mentre Efimer Trojan ruba la criptola da 5.000 vittime**  
-  Fonte: The Hacker News, 08 Aug 2025, 16:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/ai-tools-fuel-brazilian-phishing-scam.html>)
-
-- **Google Project Zero Cambia la sua politica di divulgazione**  
-  Fonte: Schneier on Security, 08 Aug 2025, 11:01:14 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/google-project-zero-changes-its-disclosure-policy.html>)
-
-- **Credenziali trapelate in aumento del 160%: cosa stanno facendo gli aggressori**  
-  Fonte: The Hacker News, 08 Aug 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/leaked-credentials-up-160-what.html>)
-
-- **Rubygems, PyPI colpito da pacchetti dannosi che rubano credenziali, crittografo, forzando i cambiamenti di sicurezza**  
-  Fonte: The Hacker News, 08 Aug 2025, 10:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/rubygems-pypi-hit-by-malicious-packages.html>)
-
-- **Teaonher copia di tutto dal tè - comprese le violazioni dei dati**  
-  Fonte: Graham Cluley, 08 Aug 2025, 09:00:40 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/teaonher-copies-everything-from-tea-including-the-data-breaches>)
-
-- **Greatbebear ruba $ 1 milione in cripto**  
-  Fonte: The Hacker News, 08 Aug 2025, 07:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/greedybear-steals-1m-in-crypto-using.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-15 06:19:27 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-16 06:17:08 UTC -->
