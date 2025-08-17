@@ -2,6 +2,34 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 465**  
+  Fonte: Troy Hunt, 16 Aug 2025, 22:06:35 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-465/>)
+
+- **Openai prepara il browser AI a base di cromo ad affrontare Google**  
+  Fonte: BleepingComputer, 16 Aug 2025, 21:23:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-chromium-based-ai-browser-to-take-on-google/>)
+
+- **Perdita: il piano più economico del chatgpt costa $ 4 o £ 3,50, potrebbe rilasciare ovunque**  
+  Fonte: BleepingComputer, 16 Aug 2025, 20:44:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leak-chatgpt-cheaper-plan-costs-4-or-350-might-release-everywhere/>)
+
+- **Openi sta migliorando la modalità vocale chatgpt**  
+  Fonte: BleepingComputer, 16 Aug 2025, 20:15:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-improving-chatgpt-voice-mode/>)
+
+- **Ricercatore di pubblicare exploit per il bypass completo dell'autenticazione su fortiweb**  
+  Fonte: BleepingComputer, 16 Aug 2025, 14:24:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/researcher-to-release-exploit-for-full-auth-bypass-on-fortiweb/>)
+
+- **Microsoft Teams da proteggere da URL dannosi, tipi di file pericolosi**  
+  Fonte: BleepingComputer, 16 Aug 2025, 14:20:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-teams-to-protect-against-malicious-urls-dangerous-file-types/>)
+
+- **ERMAC V3.0 Banking Trojan Codice sorgente Le perdite espone l'infrastruttura completa di malware**  
+  Fonte: The Hacker News, 16 Aug 2025, 10:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html>)
+
 - **Gruppo russo CryptHub Exploits MSC EVILTWIN Vulnerabilità per distribuire malware per furti**  
   Fonte: The Hacker News, 16 Aug 2025, 05:34:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html>)
@@ -66,33 +94,13 @@
   Fonte: BleepingComputer, 14 Aug 2025, 17:53:58 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/crypto24-ransomware-hits-large-orgs-with-custom-edr-evasion-tool/>)
 
-- **Hacker filo-russi incolpati per il sabotaggio della diga d'acqua in Norvegia**  
-  Fonte: BleepingComputer, 14 Aug 2025, 16:01:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/>)
-
 - **La nuova vulnerabilità HTTP/2 "MadeYoureSet" consente attacchi DOS su larga scala**  
   Fonte: The Hacker News, 14 Aug 2025, 15:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html>)
 
-- **Microsoft fissa il bug di Windows Server che causa cluster, VM Problemi**  
-  Fonte: BleepingComputer, 14 Aug 2025, 15:05:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-cluster-vm-issues/>)
-
-- **La campagna di phishing di Booking.com utilizza un personaggio "ん '" per ingannarti**  
-  Fonte: BleepingComputer, 14 Aug 2025, 14:23:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/>)
-
-- **Quando il furto sostituisce la crittografia: report blu 2025 su ransomware e infostealer**  
-  Fonte: BleepingComputer, 14 Aug 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/when-theft-replaces-encryption-blue-report-2025-on-ransomware-and-infostealers/>)
-
 - **Gli hacker hanno trovato l'uso di Crossc2 per espandere la portata di Cobalt Strike Beacon a Linux e MacOS**  
   Fonte: The Hacker News, 14 Aug 2025, 13:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html>)
-
-- **Canada della Camera dei Comuni che indagano sulla violazione dei dati dopo l'attacco informatico**  
-  Fonte: BleepingComputer, 14 Aug 2025, 13:06:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/>)
 
 - **Hai spento il tuo forno virtuale?**  
   Fonte: The Hacker News, 14 Aug 2025, 11:25:00 UTC  
@@ -142,7 +150,7 @@
   Fonte: The Hacker News, 13 Aug 2025, 13:19:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html>)
 
-- **Fortinet avverte della vulnerabilità Fortisiem (CVE-2025-25256) con codice exploit in The Wild**  
+- **Fortinet mette in guardia sulla vulnerabilità Fortisiem (CVE-2025-25256) con codice exploit in tutto il mondo**  
   Fonte: The Hacker News, 13 Aug 2025, 11:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html>)
 
@@ -174,7 +182,7 @@
   Fonte: Krebs on Security, 12 Aug 2025, 22:14:41 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/>)
 
-- **I ricercatori individuano XZ Utils Backdoor in dozzine di immagini di mozzo Docker, alimentando i rischi della catena di approvvigionamento**  
+- **I ricercatori individuano XZ Utils Backdoor in dozzine di immagini di Docker Hub, alimentando i rischi della catena di approvvigionamento**  
   Fonte: The Hacker News, 12 Aug 2025, 18:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/researchers-spot-xz-utils-backdoor-in.html>)
 
@@ -190,7 +198,7 @@
   Fonte: Graham Cluley, 12 Aug 2025, 14:00:37 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-63/>)
 
-- **Us rivela che ha sequestrato $ 1 milione di bitcoin dalla banda di ransomware russa di neri**  
+- **Us rivela che ha sequestrato $ 1 milione di bitcoin dalla banda di ransomware russa**  
   Fonte: Graham Cluley, 12 Aug 2025, 13:53:15 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/us-reveals-it-seized-1-million-worth-of-bitcoin-from-russian-blacksuit-ransomware-gang>)
 
@@ -250,17 +258,5 @@
   Fonte: The Hacker News, 10 Aug 2025, 12:31:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/researchers-detail-windows-epm.html>)
 
-- **Il difetto delle webcam di Lenovo basato su Linux può essere sfruttato a distanza per gli attacchi BadUSB**  
-  Fonte: The Hacker News, 09 Aug 2025, 19:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html>)
 
-- **I ricercatori rivelano l'attacco di Revault che mirano al firmware Dell ControlVault3 in più modelli di laptop**  
-  Fonte: The Hacker News, 09 Aug 2025, 18:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/researchers-reveal-revault-attack.html>)
-
-- **I ricercatori scoprono il jailbreak GPT-5 e gli attacchi di agente AI a clic zero esponendo i sistemi di cloud e IoT**  
-  Fonte: The Hacker News, 09 Aug 2025, 15:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-16 06:17:08 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-17 06:17:04 UTC -->
