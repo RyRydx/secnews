@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Google sta aggiungendo la funzione "progetti" a Gemini per eseguire attività di ricerca**  
+  Fonte: BleepingComputer, 17 Aug 2025, 14:38:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-is-adding-projects-feature-to-gemini-to-run-research-tasks/>)
+
+- **Gli Stati Uniti sequestra $ 2,8 milioni in criptovalute da zeppelin Ransomware Operator**  
+  Fonte: BleepingComputer, 17 Aug 2025, 14:36:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-seizes-28-million-in-crypto-from-zeppelin-ransomware-operator/>)
+
+- **Antropico: Claude ora può porre fine alle conversazioni per prevenire usi dannosi**  
+  Fonte: BleepingComputer, 17 Aug 2025, 14:24:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-claude-can-now-end-conversations-to-prevent-harmful-uses/>)
+
 - **Aggiornamento settimanale 465**  
   Fonte: Troy Hunt, 16 Aug 2025, 22:06:35 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-465/>)
@@ -74,10 +86,6 @@
   Fonte: The Hacker News, 15 Aug 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html>)
 
-- **Sanzioni statunitensi Grinex Crypto-Exchange, successore di GarantEx**  
-  Fonte: BleepingComputer, 15 Aug 2025, 08:46:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-sanctions-grinex-crypto-exchange-garantexs-successor/>)
-
 - **Cisco avverte di CVSS 10.0 FMC RADIUS difetto che consente l'esecuzione del codice remoto**  
   Fonte: The Hacker News, 15 Aug 2025, 06:49:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html>)
@@ -85,14 +93,6 @@
 - **Madeyoureset: una vulnerabilità HTTP/2 contrastata da mitigazioni di ripristino rapido**  
   Fonte: Cloudflare Blog - Security, 14 Aug 2025, 22:03:00 UTC  
   [Leggi](<https://blog.cloudflare.com/madeyoureset-an-http-2-vulnerability-thwarted-by-rapid-reset-mitigations/>)
-
-- **Oltre $ 300 milioni in cripto crimine criminali sequestrati nello sforzo antifrode**  
-  Fonte: BleepingComputer, 14 Aug 2025, 20:15:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-300-million-in-cybercrime-crypto-seized-in-anti-fraud-effort/>)
-
-- **Crypto24 Ransomware colpisce grandi organi con strumento di evasione EDR personalizzata**  
-  Fonte: BleepingComputer, 14 Aug 2025, 17:53:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/crypto24-ransomware-hits-large-orgs-with-custom-edr-evasion-tool/>)
 
 - **La nuova vulnerabilità HTTP/2 "MadeYoureSet" consente attacchi DOS su larga scala**  
   Fonte: The Hacker News, 14 Aug 2025, 15:20:00 UTC  
@@ -246,17 +246,5 @@
   Fonte: Schneier on Security, 11 Aug 2025, 11:05:32 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/08/automatic-license-plate-readers-are-coming-to-schools.html>)
 
-- **Winrar zero-day in sfruttamento attivo-aggiornamento immediatamente dell'ultima versione**  
-  Fonte: The Hacker News, 11 Aug 2025, 05:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/winrar-zero-day-under-active.html>)
 
-- **I nuovi difetti Win-DDOS consentono agli aggressori di trasformare i controller di dominio pubblico in botnet DDOS tramite RPC, LDAP**  
-  Fonte: The Hacker News, 10 Aug 2025, 19:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html>)
-
-- **I ricercatori dettagliano la catena di exploit di avvelenamento EPM di Windows che porta all'escalation dei privilegi del dominio**  
-  Fonte: The Hacker News, 10 Aug 2025, 12:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/researchers-detail-windows-epm.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-17 06:17:04 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-18 06:19:59 UTC -->
