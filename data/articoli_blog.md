@@ -2,6 +2,62 @@
 
 ## Ultimi 7 giorni
 
+- **La campagna di malware noodlofile espande la portata globale con esche di phishing del copyright**  
+  Fonte: The Hacker News, 18 Aug 2025, 19:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/noodlophile-malware-campaign-expands.html>)
+
+- **Le perdite sorgente di malware Android ERMAC espone l'infrastruttura di Trojan bancaria**  
+  Fonte: BleepingComputer, 18 Aug 2025, 18:12:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ermac-android-malware-source-code-leak-exposes-banking-trojan-infrastructure/>)
+
+- **Frasi del Regno Unito "hacker seriale" di 3.000 siti a 20 mesi di prigione**  
+  Fonte: BleepingComputer, 18 Aug 2025, 16:36:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/legal/uk-sentences-serial-hacker-of-3-000-sites-to-20-months-in-prison/>)
+
+- **Oltre 800 server N-abili sono rimasti senza patch contro i difetti critici**  
+  Fonte: BleepingComputer, 18 Aug 2025, 16:06:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-800-n-able-servers-left-unpatched-against-critical-flaws/>)
+
+- **Vulnerabilità di Microsoft Windows sfruttata per distribuire malware Ransomexx PipeMagic**  
+  Fonte: The Hacker News, 18 Aug 2025, 16:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html>)
+
+- **Mozilla avverte che la Germania potrebbe presto dichiarare i bloccanti illegali**  
+  Fonte: BleepingComputer, 18 Aug 2025, 15:39:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/legal/mozilla-warns-germany-could-soon-declare-ad-blockers-illegal/>)
+
+- **Annuncio del programma di sviluppatori di browser cloudflare**  
+  Fonte: Cloudflare Blog - Security, 18 Aug 2025, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/announcing-the-cloudflare-browser-developer-program/>)
+
+- **⚡ Riepilogo settimanale: frode NFC, compagni ricci, exploit N-able, backdoor di Docker e altro ancora**  
+  Fonte: The Hacker News, 18 Aug 2025, 12:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html>)
+
+- **Microsoft: i recenti aggiornamenti di Windows potrebbero non essere installati tramite WUSA**  
+  Fonte: BleepingComputer, 18 Aug 2025, 11:07:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/>)
+
+- **Intercettare le conversazioni telefoniche attraverso vibrazioni**  
+  Fonte: Schneier on Security, 18 Aug 2025, 11:02:55 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/eavesdropping-on-phone-conversations-through-vibrations.html>)
+
+- **Pacchetti PyPI e NPM dannosi hanno scoperto che sfruttano le dipendenze negli attacchi della catena di approvvigionamento**  
+  Fonte: The Hacker News, 18 Aug 2025, 10:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html>)
+
+- **Wazuh per conformità normativa**  
+  Fonte: The Hacker News, 18 Aug 2025, 10:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html>)
+
+- **Giant Workday Giant HR rivela la violazione dei dati dopo l'attacco di Salesforce**  
+  Fonte: BleepingComputer, 18 Aug 2025, 07:53:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hr-giant-workday-discloses-data-breach-amid-salesforce-attacks/>)
+
+- **Openi rilascia una personalità GPT-5 più calda, ma solo per il modello non pensante**  
+  Fonte: BleepingComputer, 17 Aug 2025, 16:20:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-warmer-gpt-5-personality-but-only-for-non-thinking-model/>)
+
 - **Google sta aggiungendo la funzione "progetti" a Gemini per eseguire attività di ricerca**  
   Fonte: BleepingComputer, 17 Aug 2025, 14:38:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-is-adding-projects-feature-to-gemini-to-run-research-tasks/>)
@@ -22,21 +78,13 @@
   Fonte: BleepingComputer, 16 Aug 2025, 21:23:03 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-chromium-based-ai-browser-to-take-on-google/>)
 
-- **Perdita: il piano più economico del chatgpt costa $ 4 o £ 3,50, potrebbe rilasciare ovunque**  
+- **Perdita: il piano più economico di Chatgpt costa $ 4 o £ 3,50, potrebbe rilasciare ovunque**  
   Fonte: BleepingComputer, 16 Aug 2025, 20:44:30 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leak-chatgpt-cheaper-plan-costs-4-or-350-might-release-everywhere/>)
 
 - **Openi sta migliorando la modalità vocale chatgpt**  
   Fonte: BleepingComputer, 16 Aug 2025, 20:15:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-improving-chatgpt-voice-mode/>)
-
-- **Ricercatore di pubblicare exploit per il bypass completo dell'autenticazione su fortiweb**  
-  Fonte: BleepingComputer, 16 Aug 2025, 14:24:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/researcher-to-release-exploit-for-full-auth-bypass-on-fortiweb/>)
-
-- **Microsoft Teams da proteggere da URL dannosi, tipi di file pericolosi**  
-  Fonte: BleepingComputer, 16 Aug 2025, 14:20:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-teams-to-protect-against-malicious-urls-dangerous-file-types/>)
 
 - **ERMAC V3.0 Banking Trojan Codice sorgente Le perdite espone l'infrastruttura completa di malware**  
   Fonte: The Hacker News, 16 Aug 2025, 10:41:00 UTC  
@@ -57,22 +105,6 @@
 - **I server Web di Taiwan violati da UAT-7237 utilizzando strumenti di hacking open source personalizzati**  
   Fonte: The Hacker News, 15 Aug 2025, 16:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html>)
-
-- **Colt Telecom Attack rivendicato da Warlock Ransomware, dati in vendita**  
-  Fonte: BleepingComputer, 15 Aug 2025, 15:25:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/>)
-
-- **Cisco avverte di difetto di gravità massima nel centro di gestione del firewall**  
-  Fonte: BleepingComputer, 15 Aug 2025, 13:57:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-flaw-in-firewall-management-center/>)
-
-- **Microsoft ricorda il supporto di Windows 10 che termina tra due mesi**  
-  Fonte: BleepingComputer, 15 Aug 2025, 13:09:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-of-windows-10-retirement-in-october/>)
-
-- **Plex avverte immediatamente gli utenti di patch di sicurezza**  
-  Fonte: BleepingComputer, 15 Aug 2025, 11:41:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerability-immediately/>)
 
 - **Sanzioni statunitensi Garantex e Grinex oltre $ 100 milioni in transazioni illecite legnate a ransomware**  
   Fonte: The Hacker News, 15 Aug 2025, 11:27:00 UTC  
@@ -146,11 +178,11 @@
   Fonte: Graham Cluley, 13 Aug 2025, 14:17:45 UTC  
   [Leggi](<https://www.fortra.com/blog/medusalocker-ransomware-gang-hiring-penetration-testers>)
 
-- **Zoom e xerox Rilascio aggiornamenti di sicurezza critici fissati all'escalation dei privilegi e ai difetti RCE**  
+- **Zoom e xerox Rilascio di aggiornamenti di sicurezza critici fissati all'escalation dei privilegi e ai difetti RCE**  
   Fonte: The Hacker News, 13 Aug 2025, 13:19:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html>)
 
-- **Fortinet mette in guardia sulla vulnerabilità Fortisiem (CVE-2025-25256) con codice exploit in tutto il mondo**  
+- **Fortinet avverte della vulnerabilità Fortisiem (CVE-2025-25256) con codice exploit in The Wild**  
   Fonte: The Hacker News, 13 Aug 2025, 11:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html>)
 
@@ -182,7 +214,7 @@
   Fonte: Krebs on Security, 12 Aug 2025, 22:14:41 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/>)
 
-- **I ricercatori individuano XZ Utils Backdoor in dozzine di immagini di Docker Hub, alimentando i rischi della catena di approvvigionamento**  
+- **I ricercatori individuano XZ Utils Backdoor in dozzine di immagini di mozzo Docker, alimentando i rischi della catena di approvvigionamento**  
   Fonte: The Hacker News, 12 Aug 2025, 18:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/researchers-spot-xz-utils-backdoor-in.html>)
 
@@ -218,33 +250,5 @@
   Fonte: The Hacker News, 12 Aug 2025, 08:36:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/dutch-ncsc-confirms-active-exploitation.html>)
 
-- **Aggiornamento settimanale 464**  
-  Fonte: Troy Hunt, 12 Aug 2025, 03:26:47 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-464/>)
 
-- **Allineare i nostri prezzi e l'imballaggio con i problemi che aiutiamo i clienti a risolvere**  
-  Fonte: Cloudflare Blog - Security, 11 Aug 2025, 23:03:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/aligning-our-prices-and-packaging-with-the-problems-we-help-customers-solve/>)
-
-- **I nuovi difetti di crittografia della radio Tetra espongono le forze dell'ordine**  
-  Fonte: The Hacker News, 11 Aug 2025, 16:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/new-tetra-radio-encryption-flaws-expose.html>)
-
-- **I ricercatori hanno un aumento di Erlang/OTP SSH RCE Exploit, 70% target OT Firewalls**  
-  Fonte: The Hacker News, 11 Aug 2025, 15:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/researchers-spot-surge-in-erlangotp-ssh.html>)
-
-- **⚡ Riepilogo settimanale: BadCam Attack, Winrar 0-Day, EDR Killer, Nvidia Flaws, Ransomware Attacks & More**  
-  Fonte: The Hacker News, 11 Aug 2025, 11:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/weekly-recap-badcam-attack-winrar-0-day.html>)
-
-- **6 Lezioni apprese: focalizzare la sicurezza in cui il valore aziendale vive**  
-  Fonte: The Hacker News, 11 Aug 2025, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/6-lessons-learned-focusing-security.html>)
-
-- **I lettori automatici di targa stanno arrivando alle scuole**  
-  Fonte: Schneier on Security, 11 Aug 2025, 11:05:32 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/automatic-license-plate-readers-are-coming-to-schools.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-18 06:19:59 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-19 06:19:02 UTC -->
