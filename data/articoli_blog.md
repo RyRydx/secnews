@@ -2,6 +2,62 @@
 
 ## Ultimi 7 giorni
 
+- **Dev ottiene 4 anni per la creazione di kill switch sui sistemi di ex datore di lavoro**  
+  Fonte: BleepingComputer, 21 Aug 2025, 23:46:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dev-gets-4-years-for-creating-kill-switch-on-ex-employers-systems/>)
+
+- **Colt conferma i dati dei clienti rubati come file di aste di ransomware di Warlock**  
+  Fonte: BleepingComputer, 21 Aug 2025, 20:41:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/colt-confirms-customer-data-stolen-as-warlock-ransomware-auctions-files/>)
+
+- **Le catene di exploit pre-Auth trovate in Commvault potrebbero abilitare gli attacchi di esecuzione del codice remoto**  
+  Fonte: The Hacker News, 21 Aug 2025, 16:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html>)
+
+- **Europol conferma $ 50.000 Qilin Ransomware Ricompensa è falso**  
+  Fonte: BleepingComputer, 21 Aug 2025, 16:25:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/europol-confirms-that-qilin-ransomware-reward-is-fake/>)
+
+- **Cybercriminals distribuisce cornflake.v3 backdoor tramite tattica Clickfix e finte pagine captcha**  
+  Fonte: The Hacker News, 21 Aug 2025, 16:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html>)
+
+- **Microsoft chiede ai clienti feedback sui guasti SSD segnalati**  
+  Fonte: BleepingComputer, 21 Aug 2025, 14:48:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-customers-for-feedback-on-ssd-failure-issues/>)
+
+- **Perché i professionisti certificati vmware ne stanno guidando il futuro**  
+  Fonte: BleepingComputer, 21 Aug 2025, 13:53:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/why-certified-vmware-pros-are-driving-the-future-of-it/>)
+
+- **L'FBI avverte di hacker russi che sfruttano il difetto di 7 anni Cisco**  
+  Fonte: BleepingComputer, 21 Aug 2025, 12:04:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-russian-hackers-exploiting-cisco-flaw-in-critical-infrastructure-attacks/>)
+
+- **Jim Sanborn sta mettendo all'asta la soluzione alla quarta parte della scultura di Kryptos**  
+  Fonte: Schneier on Security, 21 Aug 2025, 11:02:28 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/jim-sanborn-is-auctioning-off-the-solution-to-part-four-of-the-kryptos-sculpture.html>)
+
+- **Password deboli e account compromessi: risultati chiave dal rapporto blu 2025**  
+  Fonte: The Hacker News, 21 Aug 2025, 10:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html>)
+
+- **Hacker che utilizzano il nuovo malware Quirkyloader per diffondere l'agente Tesla, Asyncrat e Snake Keylogger**  
+  Fonte: The Hacker News, 21 Aug 2025, 10:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html>)
+
+- **L'hacker di ragno sparso viene condannato a 10 anni di prigione**  
+  Fonte: BleepingComputer, 21 Aug 2025, 08:34:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/scattered-spider-hacker-gets-sentenced-to-10-years-in-prison/>)
+
+- **Orange Belgium rivela la violazione dei dati che colpisce 850.000 clienti**  
+  Fonte: BleepingComputer, 21 Aug 2025, 07:07:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/orange-belgium-discloses-data-breach-impacting-850-000-customers/>)
+
+- **Spersted Spider Hacker ottiene 10 anni, restituzione di $ 13 milioni per il furto di cripto**  
+  Fonte: The Hacker News, 21 Aug 2025, 06:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html>)
+
 - **Patch Apple CVE-2025-43300 Zero-Day in iOS, iPados e MacOS sfruttati in attacchi mirati**  
   Fonte: The Hacker News, 21 Aug 2025, 04:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html>)
@@ -38,10 +94,6 @@
   Fonte: The Hacker News, 20 Aug 2025, 17:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html>)
 
-- **Il browser AI della cometa di perplessità è stato ingannato nell'acquisto di articoli falsi online**  
-  Fonte: BleepingComputer, 20 Aug 2025, 16:31:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/perplexitys-comet-ai-browser-tricked-into-buying-fake-items-online/>)
-
 - **Warlock Ransomware: cosa devi sapere**  
   Fonte: Graham Cluley, 20 Aug 2025, 16:03:33 UTC  
   [Leggi](<https://www.fortra.com/blog/warlock-ransomware-what-you-need-know>)
@@ -50,29 +102,9 @@
   Fonte: The Hacker News, 20 Aug 2025, 15:59:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/fbi-warns-russian-fsb-linked-hackers.html>)
 
-- **Gli hacker rubano l'accesso Microsoft utilizzando i reindirizzamenti ADF legittimi**  
-  Fonte: BleepingComputer, 20 Aug 2025, 15:33:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-steal-microsoft-logins-using-legitimate-adfs-redirects/>)
-
-- **I principali gestori di password possono perdere l'accesso negli attacchi di clickjacking**  
-  Fonte: BleepingComputer, 20 Aug 2025, 14:49:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/major-password-managers-can-leak-logins-in-clickjacking-attacks/>)
-
-- **Microsoft indaga l'interruzione che ha un impatto su Copilot, Office.com**  
-  Fonte: BleepingComputer, 20 Aug 2025, 14:17:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-impacting-copilot-officecom/>)
-
-- **Perché la sicurezza e -mail ha bisogno del suo momento EDR per andare oltre la prevenzione**  
-  Fonte: BleepingComputer, 20 Aug 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-email-security-needs-its-edr-moment-to-move-beyond-prevention/>)
-
 - **Gli esperti trovano che i browser AI possono essere ingannati da PromptFix Exploit per eseguire istruzioni nascoste dannose**  
   Fonte: The Hacker News, 20 Aug 2025, 13:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html>)
-
-- **Secondo quanto riferito, Microsoft fissa gli errori di SSD causati dagli aggiornamenti di Windows**  
-  Fonte: BleepingComputer, 20 Aug 2025, 11:26:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-reportedly-fixing-ssd-failures-caused-by-windows-updates/>)
 
 - **Sovvertendo i sistemi AIOPS attraverso dati di input avvelenati**  
   Fonte: Schneier on Security, 20 Aug 2025, 11:02:27 UTC  
@@ -86,14 +118,6 @@
   Fonte: The Hacker News, 20 Aug 2025, 09:18:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/north-korea-uses-github-in-diplomat.html>)
 
-- **Microsoft fissa gli aggiornamenti di Windows non riusciti con errore 0x8007007f**  
-  Fonte: BleepingComputer, 20 Aug 2025, 08:21:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-upgrades-failing-with-0x8007007f-error/>)
-
-- **Microsoft rilascia aggiornamenti di emergenza per correggere Windows Recovery**  
-  Fonte: BleepingComputer, 20 Aug 2025, 06:46:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-recovery/>)
-
 - **DOJ addebita il 22enne per la gestione di Rapperbot Botnet dietro 370.000 attacchi DDoS**  
   Fonte: The Hacker News, 20 Aug 2025, 04:19:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html>)
@@ -101,10 +125,6 @@
 - **Oregon Man accusato nel servizio ddos ​​"rapper bot"**  
   Fonte: Krebs on Security, 19 Aug 2025, 20:51:06 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/>)
-
-- **PyPI ora blocca gli attacchi di risurrezione del dominio utilizzati per gli account di dirottamento**  
-  Fonte: BleepingComputer, 19 Aug 2025, 20:08:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pypi-now-blocks-domain-resurrection-attacks-used-for-hijacking-accounts/>)
 
 - **Apache ActiveMQ difetto sfruttato per distribuire malware Dripdropper su Cloud Linux Systems**  
   Fonte: The Hacker News, 19 Aug 2025, 17:37:00 UTC  
@@ -210,37 +230,5 @@
   Fonte: The Hacker News, 15 Aug 2025, 06:49:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html>)
 
-- **Madeyoureset: una vulnerabilità HTTP/2 contrastata da mitigazioni di ripristino rapido**  
-  Fonte: Cloudflare Blog - Security, 14 Aug 2025, 22:03:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/madeyoureset-an-http-2-vulnerability-thwarted-by-rapid-reset-mitigations/>)
 
-- **La nuova vulnerabilità HTTP/2 "MadeYoureSet" consente attacchi DOS su larga scala**  
-  Fonte: The Hacker News, 14 Aug 2025, 15:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html>)
-
-- **Gli hacker hanno trovato l'uso di Crossc2 per espandere la portata di Cobalt Strike Beacon a Linux e MacOS**  
-  Fonte: The Hacker News, 14 Aug 2025, 13:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html>)
-
-- **Hai spento il tuo forno virtuale?**  
-  Fonte: The Hacker News, 14 Aug 2025, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html>)
-
-- **LLM Coding Integrity Breach**  
-  Fonte: Schneier on Security, 14 Aug 2025, 11:08:52 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/llm-coding-integrity-breach.html>)
-
-- **Nuova onda di malware Android colpisce banking tramite frode di relè NFC, chiamate di ioli e exploit di root**  
-  Fonte: The Hacker News, 14 Aug 2025, 11:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html>)
-
-- **Semplici passaggi per la riduzione della superficie di attacco**  
-  Fonte: The Hacker News, 14 Aug 2025, 09:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html>)
-
-- **Google richiede licenze di app cripto in 15 regioni poiché l'FBI avverte di perdite di truffa da $ 9,9 milioni**  
-  Fonte: The Hacker News, 14 Aug 2025, 06:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/google-requires-crypto-app-licenses-in.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-21 06:27:10 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-22 06:17:56 UTC -->
