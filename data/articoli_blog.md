@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Hacker Panda oscuri Exploit Cloud Trust per hackerare i clienti a valle**  
+  Fonte: BleepingComputer, 22 Aug 2025, 21:56:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/>)
+
+- **Blogging di calamari del venerdì: bobtail squid**  
+  Fonte: Schneier on Security, 22 Aug 2025, 21:02:39 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-bobtail-squid.html>)
+
+- **Sto trascorrendo l'anno alla Munk School**  
+  Fonte: Schneier on Security, 22 Aug 2025, 19:00:37 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/im-spending-the-year-at-the-munk-school.html>)
+
+- **APT36 hacker abusano di file Linux .Desktop per installare malware in nuovi attacchi**  
+  Fonte: BleepingComputer, 22 Aug 2025, 18:35:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apt36-hackers-abuse-linux-desktop-files-to-install-malware/>)
+
+- **Il falso Mac fissa gli utenti in cui l'installazione di Shamos Infostealer**  
+  Fonte: BleepingComputer, 22 Aug 2025, 15:44:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-mac-fixes-trick-users-into-installing-new-shamos-infostealer/>)
+
+- **Europol afferma che Telegram Post circa 50.000 Qilin Ransomware Award è falso**  
+  Fonte: Graham Cluley, 22 Aug 2025, 15:01:03 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/europol-says-telegram-post-about-50-000-qilin-ransomware-award-is-fake>)
+
+- **Malware Linux erogato tramite filazioni rar dannose sfuggire il rilevamento degli antivirus**  
+  Fonte: The Hacker News, 22 Aug 2025, 14:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html>)
+
+- **Microsoft: gli aggiornamenti di August Windows causano gravi problemi di streaming**  
+  Fonte: BleepingComputer, 22 Aug 2025, 12:25:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-cause-severe-ndi-streaming-issues/>)
+
+- **Hacker cinesi oscuri, genesi e panda glaciale intensifica la nuvola e lo spionaggio delle telecomunicazioni**  
+  Fonte: The Hacker News, 22 Aug 2025, 11:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/chinese-hackers-murky-genesis-and.html>)
+
+- **L'automazione sta ridefinendo la consegna più pente**  
+  Fonte: The Hacker News, 22 Aug 2025, 11:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/automation-is-redefining-pentest.html>)
+
+- **L'Interpol arresta 1.209 criminali informatici attraverso 18 nazioni africane nella repressione globale**  
+  Fonte: The Hacker News, 22 Aug 2025, 11:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/interpol-arrests-1209-cybercriminals.html>)
+
+- **Gli agenti AI hanno bisogno di integrità dei dati**  
+  Fonte: Schneier on Security, 22 Aug 2025, 11:04:19 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/ai-agents-need-data-integrity.html>)
+
+- **Il massiccio operazione di criminalità anti-cyberding porta a oltre 1.200 arresti in Africa**  
+  Fonte: BleepingComputer, 22 Aug 2025, 10:08:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/massive-anti-cybercrime-operation-leads-to-over-1-200-arrests-in-africa/>)
+
+- **Davita afferma che la banda ransomware ha rubato i dati di quasi 2,7 milioni di persone**  
+  Fonte: BleepingComputer, 22 Aug 2025, 09:38:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/davita-ransomware-attack-exposed-data-of-nearly-27-million-people/>)
+
+- **L'ex sviluppatore è stato incarcerato per quattro anni per sabotare il datore di lavoro dell'Ohio con malware per uccidere**  
+  Fonte: The Hacker News, 22 Aug 2025, 06:04:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html>)
+
 - **Dev ottiene 4 anni per la creazione di kill switch sui sistemi di ex datore di lavoro**  
   Fonte: BleepingComputer, 21 Aug 2025, 23:46:26 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/dev-gets-4-years-for-creating-kill-switch-on-ex-employers-systems/>)
@@ -46,14 +106,6 @@
   Fonte: The Hacker News, 21 Aug 2025, 10:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html>)
 
-- **L'hacker di ragno sparso viene condannato a 10 anni di prigione**  
-  Fonte: BleepingComputer, 21 Aug 2025, 08:34:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/scattered-spider-hacker-gets-sentenced-to-10-years-in-prison/>)
-
-- **Orange Belgium rivela la violazione dei dati che colpisce 850.000 clienti**  
-  Fonte: BleepingComputer, 21 Aug 2025, 07:07:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/orange-belgium-discloses-data-breach-impacting-850-000-customers/>)
-
 - **Spersted Spider Hacker ottiene 10 anni, restituzione di $ 13 milioni per il furto di cripto**  
   Fonte: The Hacker News, 21 Aug 2025, 06:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html>)
@@ -66,29 +118,13 @@
   Fonte: Krebs on Security, 21 Aug 2025, 01:47:22 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/>)
 
-- **Openi dice che GPT-6 sta arrivando e sarà meglio di GPT-5 (ovviamente)**  
-  Fonte: BleepingComputer, 20 Aug 2025, 23:56:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-is-coming-and-itll-be-better-than-gpt-5-obviously/>)
-
 - **Smashing Security Podcast #431: come estrarre milioni senza pagare il conto**  
   Fonte: Graham Cluley, 20 Aug 2025, 23:03:26 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-431/>)
 
-- **BUILDER WEB Web AI adorabile sempre più abusato per attività maliziose**  
-  Fonte: BleepingComputer, 20 Aug 2025, 22:11:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-website-builder-lovable-increasingly-abused-for-malicious-activity/>)
-
-- **Apple fissa i nuovi difetti a zero giorni sfruttati in attacchi mirati**  
-  Fonte: BleepingComputer, 20 Aug 2025, 18:44:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/apple/apple-emergency-updates-fix-new-actively-exploited-zero-day/>)
-
-- **L'estensione basata su DOM ClickJacking espone i popolari gestori di password a un furto di credenziali e dati**  
+- **L'estensione basata su DOM ClickJacking espone gestori di password popolari a un furto di credenziali e dati**  
   Fonte: The Hacker News, 20 Aug 2025, 17:54:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html>)
-
-- **Malware "Rapper Bot" sequestrato, presunto sviluppatore identificato e accusato**  
-  Fonte: BleepingComputer, 20 Aug 2025, 17:40:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/rapper-bot-malware-seized-alleged-developer-identified-and-charged/>)
 
 - **🕵️ Webinar: scopri e controlla gli agenti di AI Shadow nella tua azienda prima di fare gli hacker**  
   Fonte: The Hacker News, 20 Aug 2025, 17:25:00 UTC  
@@ -198,37 +234,5 @@
   Fonte: The Hacker News, 16 Aug 2025, 10:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html>)
 
-- **Gruppo russo CryptHub Exploits MSC EVILTWIN Vulnerabilità per distribuire malware per furti**  
-  Fonte: The Hacker News, 16 Aug 2025, 05:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html>)
 
-- **Blogging di calamari del venerdì: UFO a forma di calamari individuato sul Texas**  
-  Fonte: Schneier on Security, 15 Aug 2025, 21:07:23 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-squid-shaped-ufo-spotted-over-texas.html>)
-
-- **Account di intermediazione target di mobili Phishers in schema di cassa "rampa e dump"**  
-  Fonte: Krebs on Security, 15 Aug 2025, 18:27:05 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/>)
-
-- **I server Web di Taiwan violati da UAT-7237 utilizzando strumenti di hacking open source personalizzati**  
-  Fonte: The Hacker News, 15 Aug 2025, 16:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html>)
-
-- **Sanzioni statunitensi Garantex e Grinex oltre $ 100 milioni in transazioni illecite legnate a ransomware**  
-  Fonte: The Hacker News, 15 Aug 2025, 11:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html>)
-
-- **Trojan incorporati nei file .svg**  
-  Fonte: Schneier on Security, 15 Aug 2025, 11:07:51 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/trojans-embedded-in-svg-files.html>)
-
-- **Zero Trust + AI: Privacy in the Age of Agenic AI**  
-  Fonte: The Hacker News, 15 Aug 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html>)
-
-- **Cisco avverte di CVSS 10.0 FMC RADIUS difetto che consente l'esecuzione del codice remoto**  
-  Fonte: The Hacker News, 15 Aug 2025, 06:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-22 06:17:56 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-23 06:16:05 UTC -->
