@@ -2,6 +2,10 @@
 
 ## Ultimi 7 giorni
 
+- **Geoserver Exploit, Polaredge e Gayfemboy Push Cybercrime oltre a tradizionali botnet**  
+  Fonte: The Hacker News, 23 Aug 2025, 07:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html>)
+
 - **Hacker Panda oscuri Exploit Cloud Trust per hackerare i clienti a valle**  
   Fonte: BleepingComputer, 22 Aug 2025, 21:56:16 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/>)
@@ -57,6 +61,10 @@
 - **Davita afferma che la banda ransomware ha rubato i dati di quasi 2,7 milioni di persone**  
   Fonte: BleepingComputer, 22 Aug 2025, 09:38:14 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/davita-ransomware-attack-exposed-data-of-nearly-27-million-people/>)
+
+- **Blue Locker Ransomware colpisce l'infrastruttura critica: la tua organizzazione è pronta?**  
+  Fonte: Graham Cluley, 22 Aug 2025, 07:07:13 UTC  
+  [Leggi](<https://www.exponential-e.com/blog/blue-locker-ransomware-hits-critical-infrastructure-is-your-organisation-ready>)
 
 - **L'ex sviluppatore è stato incarcerato per quattro anni per sabotare il datore di lavoro dell'Ohio con malware per uccidere**  
   Fonte: The Hacker News, 22 Aug 2025, 06:04:00 UTC  
@@ -226,13 +234,5 @@
   Fonte: The Hacker News, 18 Aug 2025, 10:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html>)
 
-- **Aggiornamento settimanale 465**  
-  Fonte: Troy Hunt, 16 Aug 2025, 22:06:35 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-465/>)
 
-- **ERMAC V3.0 Banking Trojan Codice sorgente Le perdite espone l'infrastruttura completa di malware**  
-  Fonte: The Hacker News, 16 Aug 2025, 10:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-23 06:16:05 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-24 06:16:20 UTC -->
