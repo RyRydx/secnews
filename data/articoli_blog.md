@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 466**  
+  Fonte: Troy Hunt, 25 Aug 2025, 06:12:57 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-466/>)
+
+- **Il modulo Go Malicio**  
+  Fonte: The Hacker News, 24 Aug 2025, 13:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html>)
+
 - **Geoserver Exploit, Polaredge e Gayfemboy Push Cybercrime oltre a tradizionali botnet**  
   Fonte: The Hacker News, 23 Aug 2025, 07:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html>)
@@ -114,7 +122,7 @@
   Fonte: The Hacker News, 21 Aug 2025, 10:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html>)
 
-- **Spersted Spider Hacker ottiene 10 anni, restituzione di $ 13 milioni per il furto di cripto**  
+- **Sparse Spider Hacker ottiene 10 anni, restituzione di $ 13 milioni per il furto di cripto**  
   Fonte: The Hacker News, 21 Aug 2025, 06:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html>)
 
@@ -235,4 +243,4 @@
   [Leggi](<https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html>)
 
 
-<!-- Ultimo aggiornamento: 2025-08-24 06:16:20 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-25 06:19:27 UTC -->
