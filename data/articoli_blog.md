@@ -2,6 +2,90 @@
 
 ## Ultimi 7 giorni
 
+- **Google per verificare tutti gli sviluppatori Android per bloccare il malware su Google Play**  
+  Fonte: BleepingComputer, 26 Aug 2025, 22:23:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-to-verify-all-android-devs-to-block-malware-on-google-play/>)
+
+- **Citrix fissa il netcaler critico RCE difetto sfruttato in attacchi a zero giorni**  
+  Fonte: BleepingComputer, 26 Aug 2025, 21:37:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-fixes-critical-netscaler-rce-flaw-exploited-in-zero-day-attacks/>)
+
+- **Silk Typhoon Hackers Hijack Network Captive Portals in Diplomat Attacks**  
+  Fonte: BleepingComputer, 26 Aug 2025, 21:33:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/silk-typhoon-hackers-hijack-network-captive-portals-in-diplomat-attacks/>)
+
+- **Salesloft ha violato per rubare token OAuth per gli attacchi di fusione di dati Salesforce**  
+  Fonte: BleepingComputer, 26 Aug 2025, 19:12:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/salesloft-breached-to-steal-oauth-tokens-for-salesforce-data-theft-attacks/>)
+
+- **Il Nevada chiude gli uffici statali mentre gli attacchi informatici interrompe i sistemi IT**  
+  Fonte: BleepingComputer, 26 Aug 2025, 17:33:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nevada-closes-state-offices-as-cyberattack-disrupts-it-systems/>)
+
+- **Patch Citrix Tre difetti Netscaler, conferma lo sfruttamento attivo di CVE-2025-7775**  
+  Fonte: The Hacker News, 26 Aug 2025, 17:29:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html>)
+
+- **Il nuovo attacco SNI5Gect si schianta i telefoni e declasse da 5G a 4G senza stazione base Rogue**  
+  Fonte: The Hacker News, 26 Aug 2025, 17:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html>)
+
+- **CISA avverte di difetto di esecuzione del codice GIT attivamente sfruttato**  
+  Fonte: BleepingComputer, 26 Aug 2025, 14:57:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-git-code-execution-flaw/>)
+
+- **L'IA FIX #65: Excel Copilot distruggerà i tuoi dati e potrà correggere i social media?**  
+  Fonte: Graham Cluley, 26 Aug 2025, 14:10:19 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-65/>)
+
+- **Dslroot, proxy e minaccia di "botnet legali"**  
+  Fonte: Krebs on Security, 26 Aug 2025, 14:05:12 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/>)
+
+- **Oltre la formazione per la sicurezza del GDPR: trasformare la regolamentazione in opportunità**  
+  Fonte: BleepingComputer, 26 Aug 2025, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/beyond-gdpr-security-training-turning-regulation-into-opportunity/>)
+
+- **Blocca i suggerimenti non sicuri di mira per gli endpoint LLM con firewall per AI**  
+  Fonte: Cloudflare Blog - Security, 26 Aug 2025, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/block-unsafe-llm-prompts-with-firewall-for-ai/>)
+
+- **Nissan conferma la violazione dei dati di Design Studio rivendicata da Qilin Ransomware**  
+  Fonte: BleepingComputer, 26 Aug 2025, 13:48:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nissan-confirms-design-studio-data-breach-claimed-by-qilin-ransomware/>)
+
+- **Malware MixShell erogato tramite moduli di contatto Presentare i produttori della catena di approvvigionamento statunitense**  
+  Fonte: The Hacker News, 26 Aug 2025, 13:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html>)
+
+- **Presunta mente dietro le celebrità K-pop rapina estradata in Corea del Sud**  
+  Fonte: Graham Cluley, 26 Aug 2025, 11:31:08 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-mastermind-behind-k-pop-celebrity-stock-heist-extradited-to-south-korea>)
+
+- **Backdoor di crittografia nelle radio militari/di polizia**  
+  Fonte: Schneier on Security, 26 Aug 2025, 11:06:23 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/encryption-backdoor-in-military-police-radios.html>)
+
+- **Tendenze guidate dall'IA nella sicurezza endpoint: What the 2025 Gartner® Magic Quadrant ™**  
+  Fonte: The Hacker News, 26 Aug 2025, 10:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html>)
+
+- **Shadowcaptcha sfrutta i siti WordPress per diffondere ransomware, furti di informazioni e minatori di criptovalute**  
+  Fonte: The Hacker News, 26 Aug 2025, 10:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/shadowcaptcha-exploits-wordpress-sites.html>)
+
+- **Hook Android Trojan aggiunge sovrapposizioni ransomware, si espande a 107 comandi remoti**  
+  Fonte: The Hacker News, 26 Aug 2025, 09:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html>)
+
+- **Google per verificare tutti gli sviluppatori Android in 4 paesi per bloccare le app dannose**  
+  Fonte: The Hacker News, 26 Aug 2025, 06:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html>)
+
+- **CISA aggiunge tre vulnerabilità sfruttate al catalogo KEV che colpiscono Citrix e Git**  
+  Fonte: The Hacker News, 26 Aug 2025, 05:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/cisa-adds-three-exploited.html>)
+
 - **Surge in scans coordinati bersagli server di autenticazione Microsoft RDP**  
   Fonte: BleepingComputer, 25 Aug 2025, 23:43:16 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/surge-in-coordinated-scans-targets-microsoft-rdp-auth-servers/>)
@@ -42,10 +126,6 @@
   Fonte: Cloudflare Blog - Security, 25 Aug 2025, 14:05:00 UTC  
   [Leggi](<https://blog.cloudflare.com/shadow-AI-analytics/>)
 
-- **Difendere contro le tecniche di persistenza di malware con Wazuh**  
-  Fonte: BleepingComputer, 25 Aug 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/defending-against-malware-persistence-techniques-with-wazuh/>)
-
 - **⚡ Riepilogo settimanale: Password Manager difetti, Apple 0-Day, istruzioni di intelligenza artificiale nascoste, exploit in tutto il mondo e altro ancora**  
   Fonte: The Hacker News, 25 Aug 2025, 12:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/weekly-recap-password-manager-flaws.html>)
@@ -62,33 +142,21 @@
   Fonte: The Hacker News, 25 Aug 2025, 08:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html>)
 
+- **Hacker dell'esercito cyber dello Yemen incarcerato dopo aver rubato milioni di dati di persone**  
+  Fonte: Graham Cluley, 25 Aug 2025, 07:46:39 UTC  
+  [Leggi](<https://grahamcluley.com/yemen-cyber-army-hacker-jailed-after-stealing-millions-of-peoples-data/>)
+
 - **Aggiornamento settimanale 466**  
   Fonte: Troy Hunt, 25 Aug 2025, 06:12:57 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-466/>)
-
-- **Il nuovo malware Android si pone come antivirus della Russia Intelligence Agency**  
-  Fonte: BleepingComputer, 24 Aug 2025, 14:08:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-android-malware-poses-as-antivirus-from-russian-intelligence-agency/>)
 
 - **Il modulo Go Malicio**  
   Fonte: The Hacker News, 24 Aug 2025, 13:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html>)
 
-- **FTC avverte i giganti della tecnologia di non inchinarsi alla pressione estera sulla crittografia**  
-  Fonte: BleepingComputer, 23 Aug 2025, 15:21:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ftc-warns-tech-giants-not-to-bow-to-foreign-pressure-on-encryption/>)
-
-- **Microsoft che lavora su Fix per i problemi di email di Outlook in corso**  
-  Fonte: BleepingComputer, 23 Aug 2025, 14:15:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-fix-for-ongoing-outlook-email-issues/>)
-
 - **Geoserver Exploit, Polaredge e Gayfemboy Push Cybercrime oltre a tradizionali botnet**  
   Fonte: The Hacker News, 23 Aug 2025, 07:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html>)
-
-- **Hacker Panda oscuri Exploit Cloud Trust per hackerare i clienti a valle**  
-  Fonte: BleepingComputer, 22 Aug 2025, 21:56:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/>)
 
 - **Blogging di calamari del venerdì: bobtail squid**  
   Fonte: Schneier on Security, 22 Aug 2025, 21:02:39 UTC  
@@ -178,7 +246,7 @@
   Fonte: Graham Cluley, 20 Aug 2025, 16:03:33 UTC  
   [Leggi](<https://www.fortra.com/blog/warlock-ransomware-what-you-need-know>)
 
-- **L'FBI avverte gli hacker collegati a FSB che sfruttano dispositivi Cisco non preparati per lo spionaggio informatico**  
+- **L'FBI avverte gli hacker collegati a FSB che sfruttano dispositivi Cisco non impacciati per lo spionaggio informatico**  
   Fonte: The Hacker News, 20 Aug 2025, 15:59:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/fbi-warns-russian-fsb-linked-hackers.html>)
 
@@ -198,49 +266,5 @@
   Fonte: The Hacker News, 20 Aug 2025, 09:18:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/north-korea-uses-github-in-diplomat.html>)
 
-- **DOJ addebita il 22enne per la gestione di Rapperbot Botnet dietro 370.000 attacchi DDoS**  
-  Fonte: The Hacker News, 20 Aug 2025, 04:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html>)
 
-- **Oregon Man accusato nel servizio ddos ​​"rapper bot"**  
-  Fonte: Krebs on Security, 19 Aug 2025, 20:51:06 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/>)
-
-- **Apache ActiveMQ difetto sfruttato per distribuire malware Dripdropper su Cloud Linux Systems**  
-  Fonte: The Hacker News, 19 Aug 2025, 17:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/apache-activemq-flaw-exploited-to.html>)
-
-- **Le telecamere degli speed sono state eliminate dopo l'attacco informatico**  
-  Fonte: Graham Cluley, 19 Aug 2025, 15:40:54 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/speed-cameras-knocked-out-after-cyber-attack>)
-
-- **Il nuovo Godrat Trojan prende di mira le aziende commerciali che utilizzano il codice di steganografia e GH0st Rat**  
-  Fonte: The Hacker News, 19 Aug 2025, 14:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/new-godrat-trojan-targets-trading-firms.html>)
-
-- **L'IA Fix #64: L'IA può essere vaccinata contro il male e il "rumble nella giungla del silicio"**  
-  Fonte: Graham Cluley, 19 Aug 2025, 14:00:39 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-64/>)
-
-- **Exploit pubblico per i difetti SAP incatenati espone i sistemi non impacciati all'esecuzione del codice remoto**  
-  Fonte: The Hacker News, 19 Aug 2025, 13:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html>)
-
-- **Il governo del Regno Unito lascia cadere l'ordine di backdoor di crittografia di Apple dopo il respingimento delle libertà civili statunitensi**  
-  Fonte: The Hacker News, 19 Aug 2025, 11:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/uk-government-drops-apple-encryption.html>)
-
-- **Perché la tua cultura della sicurezza è fondamentale per mitigare il rischio informatico**  
-  Fonte: The Hacker News, 19 Aug 2025, 11:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/why-your-security-culture-is-critical.html>)
-
-- **Exploit zero-day nel file Winrar**  
-  Fonte: Schneier on Security, 19 Aug 2025, 11:07:28 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/zero-day-exploit-in-winrar-file.html>)
-
-- **PyPI blocca 1.800 e-mail di dominio scaduto per prevenire l'acquisizione di account e gli attacchi della catena di approvvigionamento**  
-  Fonte: The Hacker News, 19 Aug 2025, 06:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/pypi-blocks-1800-expired-domain-emails.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-26 06:18:41 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-27 06:18:00 UTC -->
