@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **Malware Tamperedchef mascherato da falsi redattori PDF ruba credenziali e cookie**  
+  Fonte: The Hacker News, 29 Aug 2025, 04:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/tamperedchef-malware-disguised-as-fake.html>)
+
+- **Google Warns Salesloft Breach ha influito su alcuni account dell'area di lavoro**  
+  Fonte: BleepingComputer, 28 Aug 2025, 22:09:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-warns-salesloft-breach-impacted-some-workspace-accounts/>)
+
+- **Gli Stati Uniti si rivolge all'esercito di lavoratori IT nordcoreani con nuove sanzioni**  
+  Fonte: BleepingComputer, 28 Aug 2025, 19:11:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/legal/us-targets-north-korean-it-worker-army-with-new-sanctions/>)
+
+- **Google condivide soluzioni alternative per i fallimenti di autori sui dispositivi Chromeos**  
+  Fonte: BleepingComputer, 28 Aug 2025, 18:30:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-shares-chromeos-workarounds-for-clever-classlink-auth-failures/>)
+
+- **Affiliate il gregge alla macchina da gioco "senz'anima"**  
+  Fonte: Krebs on Security, 28 Aug 2025, 17:21:32 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/>)
+
+- **I ricercatori trovano il difetto del codice che consentono agli aggressori di ripubblicare le estensioni cancellate con gli stessi nomi**  
+  Fonte: The Hacker News, 28 Aug 2025, 17:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/researchers-find-vs-code-flaw-allowing.html>)
+
+- **Malware Devs Abuse Claude Ai di Antropic per costruire ransomware**  
+  Fonte: BleepingComputer, 28 Aug 2025, 17:08:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malware-devs-abuse-anthropics-claude-ai-to-build-ransomware/>)
+
+- **Microsoft Word salverà i tuoi file nel cloud per impostazione predefinita**  
+  Fonte: BleepingComputer, 28 Aug 2025, 17:00:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-word-will-save-your-files-to-the-cloud-by-default/>)
+
+- **DEV di passwordState esorta gli utenti a patch di bypass dell'autenticazione**  
+  Fonte: BleepingComputer, 28 Aug 2025, 16:16:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/passwordstate-dev-urges-users-to-patch-auth-bypass-vulnerability-as-soon-as-possible/>)
+
+- **La polizia coglie i server del mercato ID falso Veriftools, domini**  
+  Fonte: BleepingComputer, 28 Aug 2025, 16:00:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-seize-veriftools-fake-id-marketplace-servers-domains/>)
+
+- **Matlab Dev afferma che la banda ransomware ha rubato i dati di 10.000 persone**  
+  Fonte: BleepingComputer, 28 Aug 2025, 15:00:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/matlab-dev-says-ransomware-gang-stole-data-of-over-10-000-people/>)
+
+- **Ombra sta espandendo la superficie di attacco.Ecco la prova**  
+  Fonte: BleepingComputer, 28 Aug 2025, 14:15:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shadow-it-is-expanding-your-attack-surface-heres-proof/>)
+
+- **Transunion subisce una violazione dei dati che colpisce oltre 4,4 milioni di persone**  
+  Fonte: BleepingComputer, 28 Aug 2025, 14:10:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/transunion-suffers-data-breach-impacting-over-44-million-people/>)
+
+- **Salt Typhoon Exploits Cisco, Ivanti, Palo Alto difetti per violare 600 organizzazioni in tutto il mondo**  
+  Fonte: The Hacker News, 28 Aug 2025, 14:04:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/salt-typhoon-exploits-cisco-ivanti-palo.html>)
+
+- **L'età degli agenti: riconoscere crittograficamente il traffico degli agenti**  
+  Fonte: Cloudflare Blog - Security, 28 Aug 2025, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/signed-agents/>)
+
+- **Webinar: perché i migliori team stanno dando la priorità alla mappatura da codice a nuvola nel nostro AppSec 2025**  
+  Fonte: The Hacker News, 28 Aug 2025, 11:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html>)
+
+- **Il Regno Unito potrebbe far cadere il suo mandato di backdoor**  
+  Fonte: Schneier on Security, 28 Aug 2025, 11:00:34 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/08/the-uk-may-be-dropping-its-backdoor-mandate.html>)
+
+- **Vulnerabilità nascoste degli strumenti di gestione dei progetti e come il backup FluentPro li protegge**  
+  Fonte: The Hacker News, 28 Aug 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/hidden-vulnerabilities-of-project.html>)
+
+- **Pacchetti NX dannosi in attacco "S1ngularity" trapelavano 2.349 credenziali GitHub, Cloud e AI**  
+  Fonte: The Hacker News, 28 Aug 2025, 10:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/malicious-nx-packages-in-s1ngularity.html>)
+
+- **Schere di sanzioni del Tesoro degli Stati Uniti DPRK IT-Worker Scheme, esponendo trasferimenti di criptovalute da $ 600k e $ 1 milione+ profitti**  
+  Fonte: The Hacker News, 28 Aug 2025, 08:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/us-treasury-sanctions-dprk-it-worker.html>)
+
 - **Smashing Security Podcast #432: Oops!Ho riempito automaticamente la mia password in un banner di cookie**  
   Fonte: Graham Cluley, 27 Aug 2025, 23:05:04 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-432/>)
@@ -26,17 +106,9 @@
   Fonte: BleepingComputer, 27 Aug 2025, 18:23:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/it-system-supplier-cyberattack-impacts-200-municipalities-in-sweden/>)
 
-- **Campagne di hacking del tifone salato globale collegate alle aziende tecnologiche cinesi**  
-  Fonte: BleepingComputer, 27 Aug 2025, 17:34:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/global-salt-typhoon-hacking-campaigns-linked-to-chinese-tech-firms/>)
-
 - **Qualcuno ha creato il primo ransomware alimentato dall'intelligenza artificiale utilizzando il modello GPT-OS: 20B di Openai**  
   Fonte: The Hacker News, 27 Aug 2025, 17:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/someone-created-first-ai-powered.html>)
-
-- **Oltre 28.000 dispositivi Citrix vulnerabili al nuovo difetto RCE sfruttato**  
-  Fonte: BleepingComputer, 27 Aug 2025, 16:48:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-28-200-citrix-instances-vulnerable-to-actively-exploited-rce-bug/>)
 
 - **Cephalus Ransomware: quello che devi sapere**  
   Fonte: Graham Cluley, 27 Aug 2025, 16:08:41 UTC  
@@ -46,17 +118,9 @@
   Fonte: The Hacker News, 27 Aug 2025, 15:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html>)
 
-- **Perché zero fiducia non è mai "fatto" ed è un processo in continua evoluzione**  
-  Fonte: BleepingComputer, 27 Aug 2025, 14:15:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-zero-trust-is-never-done-and-is-an-ever-evolving-process/>)
-
 - **Shadowsilk colpisce 35 organizzazioni in Asia centrale e APAC usando robot di telegrammi**  
   Fonte: The Hacker News, 27 Aug 2025, 13:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html>)
-
-- **I dati del gruppo di servizi sanitari influiscono sulla violazione di 624.000 persone**  
-  Fonte: BleepingComputer, 27 Aug 2025, 13:27:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/healthcare-services-group-data-breach-impacts-624-000-people/>)
 
 - **Le 5 regole d'oro dell'adozione di AI Safe**  
   Fonte: The Hacker News, 27 Aug 2025, 11:30:00 UTC  
@@ -77,26 +141,6 @@
 - **Home Assistant + Ubiquiti + Ai = Magia di automazione domestica**  
   Fonte: Troy Hunt, 27 Aug 2025, 07:37:51 UTC  
   [Leggi](<https://www.troyhunt.com/home-assistant-ubiquiti-ai-home-automation-magic/>)
-
-- **Google per verificare tutti gli sviluppatori Android per proteggere gli utenti dal malware**  
-  Fonte: BleepingComputer, 26 Aug 2025, 22:23:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-to-verify-all-android-devs-to-protect-users-from-malware/>)
-
-- **Citrix fissa il netcaler critico RCE difetto sfruttato in attacchi a zero giorni**  
-  Fonte: BleepingComputer, 26 Aug 2025, 21:37:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-fixes-critical-netscaler-rce-flaw-exploited-in-zero-day-attacks/>)
-
-- **Silk Typhoon Hackers Hijack Network Captive Portals in Diplomat Attacks**  
-  Fonte: BleepingComputer, 26 Aug 2025, 21:33:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/silk-typhoon-hackers-hijack-network-captive-portals-in-diplomat-attacks/>)
-
-- **Salesloft ha violato per rubare token OAuth per gli attacchi di fusione di dati Salesforce**  
-  Fonte: BleepingComputer, 26 Aug 2025, 19:12:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/salesloft-breached-to-steal-oauth-tokens-for-salesforce-data-theft-attacks/>)
-
-- **Il Nevada chiude gli uffici statali mentre gli attacchi informatici interrompe i sistemi IT**  
-  Fonte: BleepingComputer, 26 Aug 2025, 17:33:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nevada-closes-state-offices-as-cyberattack-disrupts-it-systems/>)
 
 - **Patch Citrix Tre difetti Netscaler, conferma lo sfruttamento attivo di CVE-2025-7775**  
   Fonte: The Hacker News, 26 Aug 2025, 17:29:00 UTC  
@@ -234,33 +278,5 @@
   Fonte: Graham Cluley, 22 Aug 2025, 07:07:13 UTC  
   [Leggi](<https://www.exponential-e.com/blog/blue-locker-ransomware-hits-critical-infrastructure-is-your-organisation-ready>)
 
-- **L'ex sviluppatore è stato incarcerato per quattro anni per sabotare il datore di lavoro dell'Ohio con malware per uccidere**  
-  Fonte: The Hacker News, 22 Aug 2025, 06:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html>)
 
-- **Le catene di exploit pre-Auth trovate in Commvault potrebbero abilitare gli attacchi di esecuzione del codice remoto**  
-  Fonte: The Hacker News, 21 Aug 2025, 16:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html>)
-
-- **Cybercriminals distribuisce cornflake.v3 backdoor tramite tattica Clickfix e finte pagine captcha**  
-  Fonte: The Hacker News, 21 Aug 2025, 16:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html>)
-
-- **Jim Sanborn sta mettendo all'asta la soluzione alla quarta parte della scultura di Kryptos**  
-  Fonte: Schneier on Security, 21 Aug 2025, 11:02:28 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/jim-sanborn-is-auctioning-off-the-solution-to-part-four-of-the-kryptos-sculpture.html>)
-
-- **Password deboli e account compromessi: risultati chiave dal rapporto blu 2025**  
-  Fonte: The Hacker News, 21 Aug 2025, 10:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html>)
-
-- **Hacker che utilizzano il nuovo malware Quirkyloader per diffondere l'agente Tesla, Asyncrat e Snake Keylogger**  
-  Fonte: The Hacker News, 21 Aug 2025, 10:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html>)
-
-- **Spersted Spider Hacker ottiene 10 anni, restituzione di $ 13 milioni per il furto di cripto**  
-  Fonte: The Hacker News, 21 Aug 2025, 06:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-28 06:17:57 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-29 06:17:42 UTC -->
