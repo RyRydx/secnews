@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **Tamperedchef Infostealer consegnato tramite redattore di PDF fraudolento**  
+  Fonte: BleepingComputer, 30 Aug 2025, 16:22:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/>)
+
+- **Gli aggressori abusano dello strumento forense velociraptor per distribuire il codice Visual Studio per il tunneling C2**  
+  Fonte: The Hacker News, 30 Aug 2025, 12:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html>)
+
 - **WhatsApp Probles Aggiornamento di emergenza per Exploit a zero clic per i dispositivi iOS e MacOS**  
   Fonte: The Hacker News, 30 Aug 2025, 04:36:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html>)
@@ -21,10 +29,6 @@
 - **I ricercatori avvertono della catena di exploit Sitecore che collega l'avvelenamento della cache e l'esecuzione del codice remoto**  
   Fonte: The Hacker News, 29 Aug 2025, 17:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/researchers-warn-of-sitecore-exploit.html>)
-
-- **La Svezia si arrampica dopo l'attacco di ransomware mette a rischio dati dei lavoratori sensibili**  
-  Fonte: Graham Cluley, 29 Aug 2025, 16:53:51 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/sweden-scrambles-after-ransomware-attack-puts-sensitive-worker-data-at-risk>)
 
 - **Patch di whatsapp vulnerabilità sfruttata negli attacchi a zero giorni**  
   Fonte: BleepingComputer, 29 Aug 2025, 16:31:23 UTC  
@@ -114,14 +118,6 @@
   Fonte: BleepingComputer, 28 Aug 2025, 16:16:20 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/passwordstate-dev-urges-users-to-patch-auth-bypass-vulnerability-as-soon-as-possible/>)
 
-- **La polizia coglie i server del mercato ID falso Veriftools, domini**  
-  Fonte: BleepingComputer, 28 Aug 2025, 16:00:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-seize-veriftools-fake-id-marketplace-servers-domains/>)
-
-- **Matlab Dev afferma che la banda ransomware ha rubato i dati di 10.000 persone**  
-  Fonte: BleepingComputer, 28 Aug 2025, 15:00:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/matlab-dev-says-ransomware-gang-stole-data-of-over-10-000-people/>)
-
 - **Salt tifone sfrutta i difetti in dispositivi di rete per violazione di 600 organizzazioni in tutto il mondo**  
   Fonte: The Hacker News, 28 Aug 2025, 14:04:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/salt-typhoon-exploits-cisco-ivanti-palo.html>)
@@ -146,10 +142,6 @@
   Fonte: The Hacker News, 28 Aug 2025, 08:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/us-treasury-sanctions-dprk-it-worker.html>)
 
-- **Smashing Security Podcast #432: Oops!Ho riempito automaticamente la mia password in un banner di cookie**  
-  Fonte: Graham Cluley, 27 Aug 2025, 23:05:04 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-432/>)
-
 - **Storm-0501 Exploits ENTRA ID per exfiltrate ed eliminare i dati di Azure in attacchi cloud ibridi**  
   Fonte: The Hacker News, 27 Aug 2025, 19:04:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html>)
@@ -157,10 +149,6 @@
 - **Qualcuno ha creato il primo ransomware alimentato dall'intelligenza artificiale utilizzando il modello GPT-OS: 20B di Openai**  
   Fonte: The Hacker News, 27 Aug 2025, 17:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/someone-created-first-ai-powered.html>)
-
-- **Cephalus Ransomware: quello che devi sapere**  
-  Fonte: Graham Cluley, 27 Aug 2025, 16:08:41 UTC  
-  [Leggi](<https://www.fortra.com/blog/cephalus-ransomware-what-you-need-know>)
 
 - **Antropico interrompe gli attacchi informatici alimentati dall'IA che automatizzano il furto e l'estorsione tra i settori critici**  
   Fonte: The Hacker News, 27 Aug 2025, 15:10:00 UTC  
@@ -198,10 +186,6 @@
   Fonte: The Hacker News, 26 Aug 2025, 17:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html>)
 
-- **L'IA FIX #65: Excel Copilot distruggerà i tuoi dati e potrà correggere i social media?**  
-  Fonte: Graham Cluley, 26 Aug 2025, 14:10:19 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-65/>)
-
 - **Dslroot, proxy e minaccia di "botnet legali"**  
   Fonte: Krebs on Security, 26 Aug 2025, 14:05:12 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/>)
@@ -213,10 +197,6 @@
 - **Malware MixShell erogato tramite moduli di contatto Presentare i produttori della catena di approvvigionamento statunitense**  
   Fonte: The Hacker News, 26 Aug 2025, 13:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html>)
-
-- **Presunta mente dietro le celebrità K-pop rapina estradata in Corea del Sud**  
-  Fonte: Graham Cluley, 26 Aug 2025, 11:31:08 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-mastermind-behind-k-pop-celebrity-stock-heist-extradited-to-south-korea>)
 
 - **Backdoor di crittografia nelle radio militari/di polizia**  
   Fonte: Schneier on Security, 26 Aug 2025, 11:06:23 UTC  
@@ -274,10 +254,6 @@
   Fonte: The Hacker News, 25 Aug 2025, 08:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html>)
 
-- **Hacker dell'esercito cyber dello Yemen incarcerato dopo aver rubato milioni di dati di persone**  
-  Fonte: Graham Cluley, 25 Aug 2025, 07:46:39 UTC  
-  [Leggi](<https://grahamcluley.com/yemen-cyber-army-hacker-jailed-after-stealing-millions-of-peoples-data/>)
-
 - **Aggiornamento settimanale 466**  
   Fonte: Troy Hunt, 25 Aug 2025, 06:12:57 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-466/>)
@@ -286,9 +262,5 @@
   Fonte: The Hacker News, 24 Aug 2025, 13:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html>)
 
-- **Geoserver Exploit, Polaredge e Gayfemboy Push Cybercrime oltre a tradizionali botnet**  
-  Fonte: The Hacker News, 23 Aug 2025, 07:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-08-30 06:15:15 UTC -->
+<!-- Ultimo aggiornamento: 2025-08-31 06:14:49 UTC -->
