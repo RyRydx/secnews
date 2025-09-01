@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **Openai sta testando lo "sforzo di pensiero" per Chatgpt**  
+  Fonte: BleepingComputer, 31 Aug 2025, 11:26:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/>)
+
+- **Aggiornamento settimanale 467**  
+  Fonte: Troy Hunt, 31 Aug 2025, 10:28:10 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-467/>)
+
 - **Tamperedchef Infostealer consegnato tramite redattore di PDF fraudolento**  
   Fonte: BleepingComputer, 30 Aug 2025, 16:22:51 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/>)
@@ -10,7 +18,7 @@
   Fonte: The Hacker News, 30 Aug 2025, 12:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html>)
 
-- **WhatsApp Probles Aggiornamento di emergenza per Exploit a zero clic per i dispositivi iOS e MacOS**  
+- **Patch whatsapp zero-click exploit target per dispositivi iOS e macOS**  
   Fonte: The Hacker News, 30 Aug 2025, 04:36:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html>)
 
@@ -113,10 +121,6 @@
 - **Microsoft Word salverà i tuoi file nel cloud per impostazione predefinita**  
   Fonte: BleepingComputer, 28 Aug 2025, 17:00:28 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-word-will-save-your-files-to-the-cloud-by-default/>)
-
-- **DEV di passwordState esorta gli utenti a patch di bypass dell'autenticazione**  
-  Fonte: BleepingComputer, 28 Aug 2025, 16:16:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/passwordstate-dev-urges-users-to-patch-auth-bypass-vulnerability-as-soon-as-possible/>)
 
 - **Salt tifone sfrutta i difetti in dispositivi di rete per violazione di 600 organizzazioni in tutto il mondo**  
   Fonte: The Hacker News, 28 Aug 2025, 14:04:00 UTC  
@@ -254,13 +258,5 @@
   Fonte: The Hacker News, 25 Aug 2025, 08:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html>)
 
-- **Aggiornamento settimanale 466**  
-  Fonte: Troy Hunt, 25 Aug 2025, 06:12:57 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-466/>)
 
-- **Il modulo Go Malicio**  
-  Fonte: The Hacker News, 24 Aug 2025, 13:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-08-31 06:14:49 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-01 06:19:59 UTC -->
