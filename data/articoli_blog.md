@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **CISA aggiunge i difetti TP-Link e WhatsApp al catalogo KEV in mezzo a uno sfruttamento attivo**  
+  Fonte: The Hacker News, 03 Sep 2025, 05:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/cisa-adds-tp-link-and-whatsapp-flaws-to.html>)
+
+- **Salesloft prende la deriva offline dopo che il furto di token OAuth ha colpito centinaia di organizzazioni**  
+  Fonte: The Hacker News, 03 Sep 2025, 03:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/salesloft-takes-drift-offline-after.html>)
+
+- **Gli hacker violano la ditta fintech in una fuga bancaria da $ 130 milioni**  
+  Fonte: BleepingComputer, 02 Sep 2025, 22:33:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-fintech-firm-in-attempted-130m-bank-heist/>)
+
+- **Cloudflare colpito dalla violazione dei dati in Salesloft Drift Supply Chain Attack**  
+  Fonte: BleepingComputer, 02 Sep 2025, 19:54:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-hit-by-data-breach-in-salesloft-drift-supply-chain-attack/>)
+
+- **Il gruppo Lazarus espande il malware Arsenal con Pondrat, ThemeForestrat e Remotepe**  
+  Fonte: The Hacker News, 02 Sep 2025, 16:39:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html>)
+
+- **CloudFlare blocca l'attacco DDoS registrato più grande a 11,5 tbps**  
+  Fonte: BleepingComputer, 02 Sep 2025, 15:52:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-breaking-115-tbps-ddos-attack/>)
+
+- **No, Google non ha avvertito 2,5 miliardi di utenti Gmail di reimpostare le password**  
+  Fonte: BleepingComputer, 02 Sep 2025, 14:57:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/technology/no-google-did-not-warn-25-billion-gmail-users-to-reset-passwords/>)
+
+- **I ricercatori avvertono di Mystrodx Backdoor usando DNS e ICMP trigger per il controllo furtivo**  
+  Fonte: The Hacker News, 02 Sep 2025, 14:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/researchers-warn-of-mystrodx-backdoor.html>)
+
+- **Jaguar Land Rover afferma che la produzione "gravemente interrotta"**  
+  Fonte: BleepingComputer, 02 Sep 2025, 14:23:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/jaguar-land-rover-says-cyberattack-severely-disrupted-production/>)
+
+- **L'IA FIX #66: OpenAI e antropici si testlizzano e tutti falliscono il test di Apocalypse**  
+  Fonte: Graham Cluley, 02 Sep 2025, 14:00:11 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-66/>)
+
+- **L'ufficio della Pennsylvania AG afferma che l'attacco ransomware dietro le recenti interruzioni**  
+  Fonte: BleepingComputer, 02 Sep 2025, 13:20:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pennsylvania-ag-office-says-ransomware-attack-behind-recent-outage/>)
+
+- **La violazione dei dati di Palo Alto Networks espone le informazioni sui clienti, i casi di supporto**  
+  Fonte: BleepingComputer, 02 Sep 2025, 12:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/palo-alto-networks-data-breach-exposes-customer-info-support-cases/>)
+
+- **Shadow AI Discovery: una parte critica della governance AI Enterprise**  
+  Fonte: The Hacker News, 02 Sep 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/shadow-ai-discovery-critical-part-of.html>)
+
+- **665 Workbook di formazione di criptanalisi rilasciata dalla NSA**  
+  Fonte: Schneier on Security, 02 Sep 2025, 11:08:48 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/1965-cryptanalysis-training-workbook-released-by-the-nsa.html>)
+
+- **Network ucraino FDN3 lancia enormi attacchi di forza bruta su dispositivi SSL VPN e RDP**  
+  Fonte: The Hacker News, 02 Sep 2025, 10:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html>)
+
+- **Silver Fox sfrutta il driver del cane da guardia con firma microsoft per distribuire malware Valleyrat**  
+  Fonte: The Hacker News, 02 Sep 2025, 08:39:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/silver-fox-exploits-microsoft-signed.html>)
+
 - **Pacchetto npm dannoso nodejs-smtp imita Nodemailer, bersagli un portafogli atomici ed esodo**  
   Fonte: The Hacker News, 02 Sep 2025, 04:40:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html>)
@@ -50,21 +114,9 @@
   Fonte: BleepingComputer, 31 Aug 2025, 15:00:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-gpt-codex-like-claude-code-web-app/>)
 
-- **Chatgpt ora può creare quiz FlashCards su qualsiasi argomento**  
-  Fonte: BleepingComputer, 31 Aug 2025, 12:30:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-create-flashcards-quiz-on-any-topic/>)
-
-- **Openai sta testando lo "sforzo di pensiero" per Chatgpt**  
-  Fonte: BleepingComputer, 31 Aug 2025, 11:26:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/>)
-
 - **Aggiornamento settimanale 467**  
   Fonte: Troy Hunt, 31 Aug 2025, 10:28:10 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-467/>)
-
-- **Tamperedchef Infostealer consegnato tramite redattore di PDF fraudolento**  
-  Fonte: BleepingComputer, 30 Aug 2025, 16:22:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/>)
 
 - **Gli aggressori abusano dello strumento forense velociraptor per distribuire il codice Visual Studio per il tunneling C2**  
   Fonte: The Hacker News, 30 Aug 2025, 12:06:00 UTC  
@@ -78,14 +130,6 @@
   Fonte: Schneier on Security, 29 Aug 2025, 21:04:09 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-catching-humboldt-squid.html>)
 
-- **Windows 11 KB5064081 Aggiornamento cancella le metriche di utilizzo della CPU in Task Manager**  
-  Fonte: BleepingComputer, 29 Aug 2025, 18:57:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5064081-update-clears-up-cpu-usage-metrics-in-task-manager/>)
-
-- **Microsoft fissa il bug dietro gli errori di iscrizione del certificato di Windows**  
-  Fonte: BleepingComputer, 29 Aug 2025, 18:02:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-certificate-enrollment-errors/>)
-
 - **I ricercatori avvertono della catena di exploit Sitecore che collega l'avvelenamento della cache e l'esecuzione del codice remoto**  
   Fonte: The Hacker News, 29 Aug 2025, 17:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/researchers-warn-of-sitecore-exploit.html>)
@@ -93,10 +137,6 @@
 - **La Svezia si arrampica dopo l'attacco di ransomware mette a rischio dati dei lavoratori sensibili**  
   Fonte: Graham Cluley, 29 Aug 2025, 16:53:51 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/sweden-scrambles-after-ransomware-attack-puts-sensitive-worker-data-at-risk>)
-
-- **Patch di whatsapp vulnerabilità sfruttata negli attacchi a zero giorni**  
-  Fonte: BleepingComputer, 29 Aug 2025, 16:31:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-patches-vulnerability-exploited-in-zero-day-attacks/>)
 
 - **Webinar: impara a unire le squadre Dev, SEC e OPS con un playbook condiviso**  
   Fonte: The Hacker News, 29 Aug 2025, 15:42:00 UTC  
@@ -106,7 +146,7 @@
   Fonte: Cloudflare Blog - Security, 29 Aug 2025, 14:05:00 UTC  
   [Leggi](<https://blog.cloudflare.com/automating-threat-analysis-and-response-with-cloudy/>)
 
-- **Amazon interrompe la campagna APT29 Watering Hole Abuso dell'autenticazione del codice del dispositivo Microsoft**  
+- **Amazon interrompe APT29 Wiring Hole Campaign che abusa dell'autenticazione del codice del dispositivo Microsoft**  
   Fonte: The Hacker News, 29 Aug 2025, 13:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/amazon-disrupts-apt29-watering-hole.html>)
 
@@ -218,53 +258,5 @@
   Fonte: Troy Hunt, 27 Aug 2025, 07:37:51 UTC  
   [Leggi](<https://www.troyhunt.com/home-assistant-ubiquiti-ai-home-automation-magic/>)
 
-- **Patch Citrix Tre difetti Netscaler, conferma lo sfruttamento attivo di CVE-2025-7775**  
-  Fonte: The Hacker News, 26 Aug 2025, 17:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html>)
 
-- **Il nuovo attacco SNI5Gect si schianta i telefoni e declasse da 5G a 4G senza stazione base Rogue**  
-  Fonte: The Hacker News, 26 Aug 2025, 17:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html>)
-
-- **L'IA FIX #65: Excel Copilot distruggerà i tuoi dati e potrà correggere i social media?**  
-  Fonte: Graham Cluley, 26 Aug 2025, 14:10:19 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-65/>)
-
-- **Dslroot, proxy e minaccia di "botnet legali"**  
-  Fonte: Krebs on Security, 26 Aug 2025, 14:05:12 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/>)
-
-- **Blocca i suggerimenti non sicuri di mira per gli endpoint LLM con firewall per AI**  
-  Fonte: Cloudflare Blog - Security, 26 Aug 2025, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/block-unsafe-llm-prompts-with-firewall-for-ai/>)
-
-- **Malware MixShell erogato tramite moduli di contatto Presentare i produttori della catena di approvvigionamento statunitense**  
-  Fonte: The Hacker News, 26 Aug 2025, 13:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html>)
-
-- **Presunta mente dietro le celebrità K-pop rapina estradata in Corea del Sud**  
-  Fonte: Graham Cluley, 26 Aug 2025, 11:31:08 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-mastermind-behind-k-pop-celebrity-stock-heist-extradited-to-south-korea>)
-
-- **Backdoor di crittografia nelle radio militari/di polizia**  
-  Fonte: Schneier on Security, 26 Aug 2025, 11:06:23 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/encryption-backdoor-in-military-police-radios.html>)
-
-- **Tendenze guidate dall'IA nella sicurezza endpoint: What the 2025 Gartner® Magic Quadrant ™**  
-  Fonte: The Hacker News, 26 Aug 2025, 10:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html>)
-
-- **Shadowcaptcha sfrutta i siti WordPress per diffondere ransomware, furti di informazioni e minatori di criptovalute**  
-  Fonte: The Hacker News, 26 Aug 2025, 10:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/shadowcaptcha-exploits-wordpress-sites.html>)
-
-- **Hook Android Trojan aggiunge sovrapposizioni ransomware, si espande a 107 comandi remoti**  
-  Fonte: The Hacker News, 26 Aug 2025, 09:01:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html>)
-
-- **Google per verificare tutti gli sviluppatori Android in 4 paesi per bloccare le app dannose**  
-  Fonte: The Hacker News, 26 Aug 2025, 06:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-02 06:18:14 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-03 06:17:10 UTC -->
