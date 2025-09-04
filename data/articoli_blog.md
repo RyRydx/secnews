@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Smashing Security Podcast #433: come gli hacker hanno trasformato l'intelligenza artificiale nel loro nuovo scagnozzo**  
+  Fonte: Graham Cluley, 03 Sep 2025, 23:10:13 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-433/>)
+
+- **Gli attori della minaccia abusano di Ai Grok di X per diffondere collegamenti dannosi**  
+  Fonte: BleepingComputer, 03 Sep 2025, 22:01:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/threat-actors-abuse-xs-grok-ai-to-spread-malicious-links/>)
+
+- **Pacchetti NPM dannosi sfruttano Ethereum Contratti intelligenti per indirizzare gli sviluppatori di criptovalute**  
+  Fonte: The Hacker News, 03 Sep 2025, 19:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html>)
+
+- **Gli Stati Uniti offre una taglia da 10 milioni di dollari per informazioni sugli hacker FSB russi**  
+  Fonte: BleepingComputer, 03 Sep 2025, 19:01:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-offers-10-million-bounty-for-info-on-russian-fsb-hackers/>)
+
+- **Gli hacker usano un nuovo strumento Hexstrike-Ai per sfruttare rapidamente i difetti n-day**  
+  Fonte: BleepingComputer, 03 Sep 2025, 18:03:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-use-new-hexstrike-ai-tool-to-rapidly-exploit-n-day-flaws/>)
+
+- **US fa causa al produttore di giocattoli robot per esporre i dati dei bambini agli sviluppatori cinesi**  
+  Fonte: BleepingComputer, 03 Sep 2025, 17:53:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-sues-robot-toy-maker-for-exposing-childrens-data-to-chinese-devs/>)
+
+- **La polizia interrompe StreamEast, la più grande rete di streaming sportivo piratato**  
+  Fonte: BleepingComputer, 03 Sep 2025, 16:45:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/streameast-the-largest-pirated-sports-platform-disrupted-by-police/>)
+
+- **SaaS Giant Workiva rivela la violazione dei dati dopo l'attacco di Salesforce**  
+  Fonte: BleepingComputer, 03 Sep 2025, 16:40:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/saas-giant-workiva-discloses-data-breach-after-salesforce-attack/>)
+
+- **L'FBI avverte che gli anziani vengono presi di mira in truffe di hacker fantasma trifase**  
+  Fonte: Graham Cluley, 03 Sep 2025, 14:34:35 UTC  
+  [Leggi](<https://www.fortra.com/blog/fbi-warns-seniors-targeted-three-phase-phantom-hacker-scams>)
+
+- **Google corregge attivamente i difetti di Android in Aggiornamento di settembre**  
+  Fonte: BleepingComputer, 03 Sep 2025, 14:14:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-flaws-in-september-update/>)
+
+- **Disney paga $ 10 milioni per risolvere i reclami che ha raccolto i dati per bambini su YouTube**  
+  Fonte: BleepingComputer, 03 Sep 2025, 14:13:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/disney-to-pay-10m-to-settle-claims-it-collected-kids-data-on-youtube/>)
+
+- **Sanno dove sei: la sicurezza informatica e il mondo ombra della geolocalizzazione**  
+  Fonte: BleepingComputer, 03 Sep 2025, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/they-know-where-you-are-cybersecurity-and-the-shadow-world-of-geolocation/>)
+
+- **Gli attori della minaccia vogliono l'intelligenza artificiale per sfruttare i difetti Citrix entro una settimana dalla divulgazione**  
+  Fonte: The Hacker News, 03 Sep 2025, 12:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/threat-actors-weaponize-hexstrike-ai-to.html>)
+
+- **Rilevare le perdite di dati prima del disastro**  
+  Fonte: The Hacker News, 03 Sep 2025, 11:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/detecting-data-leaks-before-disaster.html>)
+
+- **Avviso di sicurezza Android: patch di Google 120 difetti, inclusi due giorni zero sotto attacco**  
+  Fonte: The Hacker News, 03 Sep 2025, 11:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/android-security-alert-google-patches.html>)
+
+- **Attacchi di iniezione tempestivi indiretti contro gli assistenti LLM**  
+  Fonte: Schneier on Security, 03 Sep 2025, 11:00:47 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/indirect-prompt-injection-attacks-against-llm-assistants.html>)
+
+- **Hacker iraniani sfruttano 100+ account di e -mail di ambasciata nei diplomatici di targeting globale**  
+  Fonte: The Hacker News, 03 Sep 2025, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/iranian-hackers-exploit-100-embassy.html>)
+
+- **Tendenze guidate dall'IA nella sicurezza endpoint: What the 2025 Gartner® Magic Quadrant ™**  
+  Fonte: The Hacker News, 03 Sep 2025, 10:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html>)
+
+- **Cloudflare blocca l'attacco DDOS da 11,5 tbps da record**  
+  Fonte: The Hacker News, 03 Sep 2025, 07:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/cloudflare-blocks-record-breaking-115.html>)
+
 - **CISA aggiunge i difetti TP-Link e WhatsApp al catalogo KEV in mezzo a uno sfruttamento attivo**  
   Fonte: The Hacker News, 03 Sep 2025, 05:09:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/cisa-adds-tp-link-and-whatsapp-flaws-to.html>)
@@ -26,29 +102,13 @@
   Fonte: BleepingComputer, 02 Sep 2025, 15:52:30 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-breaking-115-tbps-ddos-attack/>)
 
-- **No, Google non ha avvertito 2,5 miliardi di utenti Gmail di reimpostare le password**  
-  Fonte: BleepingComputer, 02 Sep 2025, 14:57:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/no-google-did-not-warn-25-billion-gmail-users-to-reset-passwords/>)
-
 - **I ricercatori avvertono di Mystrodx Backdoor usando DNS e ICMP trigger per il controllo furtivo**  
   Fonte: The Hacker News, 02 Sep 2025, 14:56:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/researchers-warn-of-mystrodx-backdoor.html>)
 
-- **Jaguar Land Rover afferma che la produzione "gravemente interrotta"**  
-  Fonte: BleepingComputer, 02 Sep 2025, 14:23:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/jaguar-land-rover-says-cyberattack-severely-disrupted-production/>)
-
 - **L'IA FIX #66: OpenAI e antropici si testlizzano e tutti falliscono il test di Apocalypse**  
   Fonte: Graham Cluley, 02 Sep 2025, 14:00:11 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-66/>)
-
-- **L'ufficio della Pennsylvania AG afferma che l'attacco ransomware dietro le recenti interruzioni**  
-  Fonte: BleepingComputer, 02 Sep 2025, 13:20:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pennsylvania-ag-office-says-ransomware-attack-behind-recent-outage/>)
-
-- **La violazione dei dati di Palo Alto Networks espone le informazioni sui clienti, i casi di supporto**  
-  Fonte: BleepingComputer, 02 Sep 2025, 12:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/palo-alto-networks-data-breach-exposes-customer-info-support-cases/>)
 
 - **Shadow AI Discovery: una parte critica della governance AI Enterprise**  
   Fonte: The Hacker News, 02 Sep 2025, 11:30:00 UTC  
@@ -78,14 +138,6 @@
   Fonte: The Hacker News, 01 Sep 2025, 17:28:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/android-droppers-now-deliver-sms.html>)
 
-- **Zscaler Data Breach espone le informazioni sui clienti dopo il compromesso della deriva di Salesloft**  
-  Fonte: BleepingComputer, 01 Sep 2025, 17:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zscaler-data-breach-exposes-customer-info-after-salesloft-drift-compromise/>)
-
-- **Amazon interrompe gli hacker APT29 russi rivolti a Microsoft 365**  
-  Fonte: BleepingComputer, 01 Sep 2025, 15:35:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-apt29-hackers-targeting-microsoft-365/>)
-
 - **⚡ Riepilogo settimanale: WhatsApp 0-Day, Docker Bug, Salesforce Breach, false Captchas, Spyware App & altro**  
   Fonte: The Hacker News, 01 Sep 2025, 13:02:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/weekly-recap-whatsapp-0-day-docker-bug.html>)
@@ -101,18 +153,6 @@
 - **L'hacker sospettato di provare a tradire l'università viene arrestato in Spagna**  
   Fonte: Graham Cluley, 01 Sep 2025, 07:22:06 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-suspected-of-trying-to-cheat-his-way-into-university-is-arrested-in-spain>)
-
-- **Brokewell Android Malware consegnato tramite annunci tradingview falsi**  
-  Fonte: BleepingComputer, 31 Aug 2025, 18:35:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/brokewell-android-malware-delivered-through-fake-tradingview-ads/>)
-
-- **Openai rilascia un grande aggiornamento per il Codice CHATGPT per la codifica agente**  
-  Fonte: BleepingComputer, 31 Aug 2025, 17:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-big-upgrade-for-chatgpt-codex-for-agentic-coding/>)
-
-- **Antropico sta testando l'app Web Claude Code simile al codice GPT**  
-  Fonte: BleepingComputer, 31 Aug 2025, 15:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-gpt-codex-like-claude-code-web-app/>)
 
 - **Aggiornamento settimanale 467**  
   Fonte: Troy Hunt, 31 Aug 2025, 10:28:10 UTC  
@@ -146,7 +186,7 @@
   Fonte: Cloudflare Blog - Security, 29 Aug 2025, 14:05:00 UTC  
   [Leggi](<https://blog.cloudflare.com/automating-threat-analysis-and-response-with-cloudy/>)
 
-- **Amazon interrompe APT29 Wiring Hole Campaign che abusa dell'autenticazione del codice del dispositivo Microsoft**  
+- **Amazon interrompe la campagna APT29 Watering Hole Abuso dell'autenticazione del codice del dispositivo Microsoft**  
   Fonte: The Hacker News, 29 Aug 2025, 13:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/amazon-disrupts-apt29-watering-hole.html>)
 
@@ -214,49 +254,5 @@
   Fonte: The Hacker News, 28 Aug 2025, 08:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/us-treasury-sanctions-dprk-it-worker.html>)
 
-- **Smashing Security Podcast #432: Oops!Ho riempito automaticamente la mia password in un banner di cookie**  
-  Fonte: Graham Cluley, 27 Aug 2025, 23:05:04 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-432/>)
 
-- **Storm-0501 Exploits ENTRA ID per exfiltrate ed eliminare i dati di Azure in attacchi cloud ibridi**  
-  Fonte: The Hacker News, 27 Aug 2025, 19:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html>)
-
-- **Qualcuno ha creato il primo ransomware alimentato dall'intelligenza artificiale utilizzando il modello GPT-OS: 20B di Openai**  
-  Fonte: The Hacker News, 27 Aug 2025, 17:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/someone-created-first-ai-powered.html>)
-
-- **Cephalus Ransomware: quello che devi sapere**  
-  Fonte: Graham Cluley, 27 Aug 2025, 16:08:41 UTC  
-  [Leggi](<https://www.fortra.com/blog/cephalus-ransomware-what-you-need-know>)
-
-- **Antropico interrompe gli attacchi informatici alimentati dall'IA che automatizzano il furto e l'estorsione tra i settori critici**  
-  Fonte: The Hacker News, 27 Aug 2025, 15:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html>)
-
-- **Shadowsilk colpisce 35 organizzazioni in Asia centrale e APAC usando robot di telegrammi**  
-  Fonte: The Hacker News, 27 Aug 2025, 13:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html>)
-
-- **Le 5 regole d'oro dell'adozione di AI Safe**  
-  Fonte: The Hacker News, 27 Aug 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/the-5-golden-rules-of-safe-ai-adoption.html>)
-
-- **Non siamo ancora in grado di proteggere LLM da input dannosi**  
-  Fonte: Schneier on Security, 27 Aug 2025, 11:07:59 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/we-are-still-unable-to-secure-llms-from-malicious-inputs.html>)
-
-- **Salesloft OAuth Breach tramite Drift AI Chat Agent espone Salesforce Data dei clienti**  
-  Fonte: The Hacker News, 27 Aug 2025, 09:39:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html>)
-
-- **I cinque cluster di Blind Eagle colpiscono la Colombia usando ratti, esche di phishing e DNS DNS infra**  
-  Fonte: The Hacker News, 27 Aug 2025, 09:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/blind-eagles-five-clusters-target.html>)
-
-- **Home Assistant + Ubiquiti + Ai = Magia di automazione domestica**  
-  Fonte: Troy Hunt, 27 Aug 2025, 07:37:51 UTC  
-  [Leggi](<https://www.troyhunt.com/home-assistant-ubiquiti-ai-home-automation-magic/>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-03 06:17:10 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-04 06:17:43 UTC -->
