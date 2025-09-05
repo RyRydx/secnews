@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Gli hacker hanno sfruttato il difetto zero-day di Sitecore per distribuire backdoors**  
+  Fonte: BleepingComputer, 04 Sep 2025, 18:51:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploited-sitecore-zero-day-flaw-to-deploy-backdoors/>)
+
+- **Russian APT28 dispiega prospettive "Notdoor" Backdoor contro le compagnie nei paesi della NATO**  
+  Fonte: The Hacker News, 04 Sep 2025, 18:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/russian-apt28-deploys-notdoor-outlook.html>)
+
+- **Texas fa causa a Powerschool per violazione che espone 62 milioni di studenti, 880k texani**  
+  Fonte: BleepingComputer, 04 Sep 2025, 18:01:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/texas-sues-powerschool-after-massive-data-breach-hit-62-million-students/>)
+
+- **GhostreDirector hacks 65 server Windows utilizzando Rungan Backdoor e Gamshen IIS Module**  
+  Fonte: The Hacker News, 04 Sep 2025, 17:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/ghostredirector-hacks-65-windows.html>)
+
+- **Chess.com rivela la recente violazione dei dati tramite l'app di trasferimento di file**  
+  Fonte: BleepingComputer, 04 Sep 2025, 17:51:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chesscom-discloses-recent-data-breach-via-file-transfer-app/>)
+
+- **Affrontare l'emissione non autorizzata di più certificati TLS per 1.1.1.1**  
+  Fonte: Cloudflare Blog - Security, 04 Sep 2025, 17:30:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/>)
+
+- **Nuove superfici zero-day TP-Link mentre la CISA avverte altri difetti vengono sfruttati**  
+  Fonte: BleepingComputer, 04 Sep 2025, 16:21:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-tp-link-zero-day-surfaces-as-cisa-warns-other-flaws-are-exploited/>)
+
+- **La Francia schiaffeggia Google con una multa di € 325 milioni per violazione delle normative sui cookie**  
+  Fonte: BleepingComputer, 04 Sep 2025, 15:58:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/france-slaps-google-with-325m-fine-for-violating-cookie-regulations/>)
+
+- **6 attacchi basati su browser Tutti i team di sicurezza dovrebbero essere pronti per il 2025**  
+  Fonte: BleepingComputer, 04 Sep 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/6-browser-based-attacks-all-security-teams-should-be-ready-for-in-2025/>)
+
+- **Il gigante del pneumatico Bridgestone conferma la produzione di attacchi informatici**  
+  Fonte: BleepingComputer, 04 Sep 2025, 13:46:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/tire-giant-bridgestone-confirms-cyberattack-impacts-manufacturing/>)
+
+- **Microsoft afferma che i recenti aggiornamenti di Windows causano problemi di installazione dell'app**  
+  Fonte: BleepingComputer, 04 Sep 2025, 11:57:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-updates-cause-app-install-issues-due-to-unexpected-admin-UAC-prompts/>)
+
+- **Ai generativo come assistente di criminalità informatica**  
+  Fonte: Schneier on Security, 04 Sep 2025, 11:06:25 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/generative-ai-as-a-cybercrime-assistant.html>)
+
+- **I criminali informatici sfruttano l'intelligenza artificiale di X per bypassare le protezioni degli annunci e diffondere malware a milioni**  
+  Fonte: The Hacker News, 04 Sep 2025, 10:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/cybercriminals-exploit-xs-grok-ai-to.html>)
+
+- **Semplici passaggi per la riduzione della superficie di attacco**  
+  Fonte: The Hacker News, 04 Sep 2025, 10:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html>)
+
+- **Google ha multato $ 379 milioni dal regolatore francese per violazioni del consenso dei cookie**  
+  Fonte: The Hacker News, 04 Sep 2025, 10:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/google-fined-379-million-by-french.html>)
+
+- **FLAGS CISA TP-Link Router difetti CVE-2023-50224 e CVE-2025-9377 come sfruttato attivamente**  
+  Fonte: The Hacker News, 04 Sep 2025, 10:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/cisa-flags-tp-link-router-flaws-cve.html>)
+
 - **Smashing Security Podcast #433: come gli hacker hanno trasformato l'intelligenza artificiale nel loro nuovo scagnozzo**  
   Fonte: Graham Cluley, 03 Sep 2025, 23:10:13 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-433/>)
@@ -26,29 +90,9 @@
   Fonte: BleepingComputer, 03 Sep 2025, 17:53:32 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/us-sues-robot-toy-maker-for-exposing-childrens-data-to-chinese-devs/>)
 
-- **La polizia interrompe StreamEast, la più grande rete di streaming sportivo piratato**  
-  Fonte: BleepingComputer, 03 Sep 2025, 16:45:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/streameast-the-largest-pirated-sports-platform-disrupted-by-police/>)
-
-- **SaaS Giant Workiva rivela la violazione dei dati dopo l'attacco di Salesforce**  
-  Fonte: BleepingComputer, 03 Sep 2025, 16:40:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/saas-giant-workiva-discloses-data-breach-after-salesforce-attack/>)
-
 - **L'FBI avverte che gli anziani vengono presi di mira in truffe di hacker fantasma trifase**  
   Fonte: Graham Cluley, 03 Sep 2025, 14:34:35 UTC  
   [Leggi](<https://www.fortra.com/blog/fbi-warns-seniors-targeted-three-phase-phantom-hacker-scams>)
-
-- **Google corregge attivamente i difetti di Android in Aggiornamento di settembre**  
-  Fonte: BleepingComputer, 03 Sep 2025, 14:14:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-flaws-in-september-update/>)
-
-- **Disney paga $ 10 milioni per risolvere i reclami che ha raccolto i dati per bambini su YouTube**  
-  Fonte: BleepingComputer, 03 Sep 2025, 14:13:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/disney-to-pay-10m-to-settle-claims-it-collected-kids-data-on-youtube/>)
-
-- **Sanno dove sei: la sicurezza informatica e il mondo ombra della geolocalizzazione**  
-  Fonte: BleepingComputer, 03 Sep 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/they-know-where-you-are-cybersecurity-and-the-shadow-world-of-geolocation/>)
 
 - **Gli attori della minaccia vogliono l'intelligenza artificiale per sfruttare i difetti Citrix entro una settimana dalla divulgazione**  
   Fonte: The Hacker News, 03 Sep 2025, 12:20:00 UTC  
@@ -86,21 +130,9 @@
   Fonte: The Hacker News, 03 Sep 2025, 03:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/salesloft-takes-drift-offline-after.html>)
 
-- **Gli hacker violano la ditta fintech in una fuga bancaria da $ 130 milioni**  
-  Fonte: BleepingComputer, 02 Sep 2025, 22:33:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-fintech-firm-in-attempted-130m-bank-heist/>)
-
-- **Cloudflare colpito dalla violazione dei dati in Salesloft Drift Supply Chain Attack**  
-  Fonte: BleepingComputer, 02 Sep 2025, 19:54:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-hit-by-data-breach-in-salesloft-drift-supply-chain-attack/>)
-
 - **Il gruppo Lazarus espande il malware Arsenal con Pondrat, ThemeForestrat e Remotepe**  
   Fonte: The Hacker News, 02 Sep 2025, 16:39:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html>)
-
-- **CloudFlare blocca l'attacco DDoS registrato più grande a 11,5 tbps**  
-  Fonte: BleepingComputer, 02 Sep 2025, 15:52:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-breaking-115-tbps-ddos-attack/>)
 
 - **I ricercatori avvertono di Mystrodx Backdoor usando DNS e ICMP trigger per il controllo furtivo**  
   Fonte: The Hacker News, 02 Sep 2025, 14:56:00 UTC  
@@ -186,7 +218,7 @@
   Fonte: Cloudflare Blog - Security, 29 Aug 2025, 14:05:00 UTC  
   [Leggi](<https://blog.cloudflare.com/automating-threat-analysis-and-response-with-cloudy/>)
 
-- **Amazon interrompe la campagna APT29 Watering Hole Abuso dell'autenticazione del codice del dispositivo Microsoft**  
+- **Amazon interrompe APT29 Wiring Hole Campaign che abusa di Autenticazione del codice del dispositivo Microsoft**  
   Fonte: The Hacker News, 29 Aug 2025, 13:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/amazon-disrupts-apt29-watering-hole.html>)
 
@@ -218,41 +250,5 @@
   Fonte: The Hacker News, 29 Aug 2025, 07:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/08/google-warns-salesloft-oauth-breach.html>)
 
-- **Malware Tamperedchef mascherato da falsi redattori PDF ruba credenziali e cookie**  
-  Fonte: The Hacker News, 29 Aug 2025, 04:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/tamperedchef-malware-disguised-as-fake.html>)
 
-- **Affiliate il gregge alla macchina da gioco "senz'anima"**  
-  Fonte: Krebs on Security, 28 Aug 2025, 17:21:32 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/>)
-
-- **I ricercatori trovano il difetto del codice che consentono agli aggressori di ripubblicare le estensioni cancellate con gli stessi nomi**  
-  Fonte: The Hacker News, 28 Aug 2025, 17:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/researchers-find-vs-code-flaw-allowing.html>)
-
-- **Salt tifone sfrutta i difetti in dispositivi di rete per violazione di 600 organizzazioni in tutto il mondo**  
-  Fonte: The Hacker News, 28 Aug 2025, 14:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/salt-typhoon-exploits-cisco-ivanti-palo.html>)
-
-- **L'età degli agenti: riconoscere crittograficamente il traffico degli agenti**  
-  Fonte: Cloudflare Blog - Security, 28 Aug 2025, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/signed-agents/>)
-
-- **Il Regno Unito potrebbe far cadere il suo mandato di backdoor**  
-  Fonte: Schneier on Security, 28 Aug 2025, 11:00:34 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/08/the-uk-may-be-dropping-its-backdoor-mandate.html>)
-
-- **Vulnerabilità nascoste degli strumenti di gestione dei progetti e come il backup FluentPro li protegge**  
-  Fonte: The Hacker News, 28 Aug 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/hidden-vulnerabilities-of-project.html>)
-
-- **Pacchetti NX dannosi in attacco "S1ngularity" trapelavano 2.349 credenziali GitHub, Cloud e AI**  
-  Fonte: The Hacker News, 28 Aug 2025, 10:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/malicious-nx-packages-in-s1ngularity.html>)
-
-- **Schere di sanzioni del Tesoro degli Stati Uniti DPRK IT-Worker Scheme, esponendo trasferimenti di criptovalute da $ 600k e $ 1 milione+ profitti**  
-  Fonte: The Hacker News, 28 Aug 2025, 08:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/us-treasury-sanctions-dprk-it-worker.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-04 06:17:43 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-05 06:17:55 UTC -->
