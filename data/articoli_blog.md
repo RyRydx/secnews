@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Virustotal trova campagna di phishing malware nascosto nei file SVG**  
+  Fonte: BleepingComputer, 06 Sep 2025, 18:58:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/>)
+
+- **Orso rumoroso bersaglio il settore energetico del Kazakistan con campagna di phishing Barrelfire**  
+  Fonte: The Hacker News, 06 Sep 2025, 15:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html>)
+
+- **Malware alimentato dall'intelligenza artificiale ha colpito 2.180 account github in attacco "s1ngularity"**  
+  Fonte: BleepingComputer, 06 Sep 2025, 14:11:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/>)
+
+- **Pacchetti npm dannosi impersonano flashbot, ruba i tasti del portafoglio Ethereum**  
+  Fonte: The Hacker News, 06 Sep 2025, 06:42:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html>)
+
 - **GOP grida la censura sui filtri spam che funzionano**  
   Fonte: Krebs on Security, 06 Sep 2025, 03:23:35 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/>)
@@ -90,21 +106,9 @@
   Fonte: The Hacker News, 04 Sep 2025, 17:58:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/ghostredirector-hacks-65-windows.html>)
 
-- **Chess.com rivela la recente violazione dei dati tramite l'app di trasferimento di file**  
-  Fonte: BleepingComputer, 04 Sep 2025, 17:51:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chesscom-discloses-recent-data-breach-via-file-transfer-app/>)
-
 - **Affrontare l'emissione non autorizzata di più certificati TLS per 1.1.1.1**  
   Fonte: Cloudflare Blog - Security, 04 Sep 2025, 17:30:00 UTC  
   [Leggi](<https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/>)
-
-- **Nuove superfici zero-day TP-Link mentre la CISA avverte altri difetti vengono sfruttati**  
-  Fonte: BleepingComputer, 04 Sep 2025, 16:21:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-tp-link-zero-day-surfaces-as-cisa-warns-other-flaws-are-exploited/>)
-
-- **La Francia schiaffeggia Google con una multa di € 325 milioni per violazione delle normative sui cookie**  
-  Fonte: BleepingComputer, 04 Sep 2025, 15:58:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/france-slaps-google-with-325m-fine-for-violating-cookie-regulations/>)
 
 - **Ai generativo come assistente di criminalità informatica**  
   Fonte: Schneier on Security, 04 Sep 2025, 11:06:25 UTC  
@@ -234,9 +238,5 @@
   Fonte: Troy Hunt, 31 Aug 2025, 10:28:10 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-467/>)
 
-- **Gli aggressori abusano dello strumento forense velociraptor per distribuire il codice Visual Studio per il tunneling C2**  
-  Fonte: The Hacker News, 30 Aug 2025, 12:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-09-06 06:15:01 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-07 06:15:16 UTC -->
