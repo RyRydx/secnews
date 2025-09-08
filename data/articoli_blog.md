@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **Google per semplificare l'accesso alla modalità AI come predefinito**  
+  Fonte: BleepingComputer, 08 Sep 2025, 00:07:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-to-make-it-easier-to-access-ai-mode-as-default/>)
+
+- **CHATGPT rende gratuiti i progetti, aggiunge un interruttore per la chat divisa**  
+  Fonte: BleepingComputer, 07 Sep 2025, 23:33:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-makes-projects-feature-free-adds-a-toggle-to-split-chat/>)
+
+- **Il calendario iCloud ha abuso per inviare e -mail di phishing dai server di Apple**  
+  Fonte: BleepingComputer, 07 Sep 2025, 17:10:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/>)
+
+- **L'agenzia cibernetica ceca mette in guardia contro la tecnologia cinese nelle infrastrutture critiche**  
+  Fonte: BleepingComputer, 07 Sep 2025, 14:09:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/czech-cyber-agency-warns-against-chinese-tech-in-critical-infrastructure/>)
+
+- **Aggiornamento settimanale 468**  
+  Fonte: Troy Hunt, 07 Sep 2025, 08:08:09 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-468/>)
+
 - **Virustotal trova campagna di phishing malware nascosto nei file SVG**  
   Fonte: BleepingComputer, 06 Sep 2025, 18:58:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/>)
@@ -18,7 +38,7 @@
   Fonte: The Hacker News, 06 Sep 2025, 06:42:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html>)
 
-- **GOP grida la censura sui filtri spam che funzionano**  
+- **GOP grida la censura su filtri spam che funzionano**  
   Fonte: Krebs on Security, 06 Sep 2025, 03:23:35 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/>)
 
@@ -70,10 +90,6 @@
   Fonte: BleepingComputer, 05 Sep 2025, 14:02:12 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/dont-let-outdated-iga-hold-back-your-security-compliance-and-growth/>)
 
-- **Vulnerabilità critica SAP S/4HANA ora sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 05 Sep 2025, 13:36:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-sap-s-4hana-vulnerability-now-exploited-in-attacks/>)
-
 - **GPT-4o-Mini si innamora della manipolazione psicologica**  
   Fonte: Schneier on Security, 05 Sep 2025, 11:03:56 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/gpt-4o-mini-falls-for-psychological-manipulation.html>)
@@ -90,17 +106,9 @@
   Fonte: The Hacker News, 05 Sep 2025, 06:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html>)
 
-- **Gli hacker hanno sfruttato il difetto zero-day di Sitecore per distribuire backdoors**  
-  Fonte: BleepingComputer, 04 Sep 2025, 18:51:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploited-sitecore-zero-day-flaw-to-deploy-backdoors/>)
-
 - **Russian APT28 dispiega prospettive "Notdoor" Backdoor contro le compagnie nei paesi della NATO**  
   Fonte: The Hacker News, 04 Sep 2025, 18:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/russian-apt28-deploys-notdoor-outlook.html>)
-
-- **Texas fa causa a Powerschool per violazione che espone 62 milioni di studenti, 880k texani**  
-  Fonte: BleepingComputer, 04 Sep 2025, 18:01:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/texas-sues-powerschool-after-massive-data-breach-hit-62-million-students/>)
 
 - **GhostreDirector hacks 65 server Windows utilizzando Rungan Backdoor e Gamshen IIS Module**  
   Fonte: The Hacker News, 04 Sep 2025, 17:58:00 UTC  
@@ -186,7 +194,7 @@
   Fonte: The Hacker News, 02 Sep 2025, 14:56:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/researchers-warn-of-mystrodx-backdoor.html>)
 
-- **L'IA FIX #66: OpenAI e antropici si testlizzano e tutti falliscono il test di Apocalypse**  
+- **L'IA Fix #66: OpenAI e antropici si testlizzano e tutti falliscono il test di Apocalypse**  
   Fonte: Graham Cluley, 02 Sep 2025, 14:00:11 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-66/>)
 
@@ -234,9 +242,5 @@
   Fonte: Graham Cluley, 01 Sep 2025, 07:22:06 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-suspected-of-trying-to-cheat-his-way-into-university-is-arrested-in-spain>)
 
-- **Aggiornamento settimanale 467**  
-  Fonte: Troy Hunt, 31 Aug 2025, 10:28:10 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-467/>)
 
-
-<!-- Ultimo aggiornamento: 2025-09-07 06:15:16 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-08 06:19:17 UTC -->
