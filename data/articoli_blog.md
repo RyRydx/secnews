@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Plex dice agli utenti di reimpostare le password dopo la violazione di nuovi dati**  
+  Fonte: BleepingComputer, 09 Sep 2025, 01:03:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/>)
+
+- **45 domini precedentemente non segnalati espongono il cyber spionaggio cyber di lunga data di lunga data**  
+  Fonte: The Hacker News, 09 Sep 2025, 00:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html>)
+
+- **18 pacchetti di codice popolari hackerati, truccati per rubare criptovalute**  
+  Fonte: Krebs on Security, 08 Sep 2025, 22:53:41 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/>)
+
+- **Surge in Networks Scansioni destinate ai dispositivi Cisco ASA sollevare preoccupazioni**  
+  Fonte: BleepingComputer, 08 Sep 2025, 21:44:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/surge-in-networks-scans-targeting-cisco-asa-devices-raise-concerns/>)
+
+- **Gli hacker rubano 3.325 segreti nell'attacco della catena di approvvigionamento github GhostAction**  
+  Fonte: BleepingComputer, 08 Sep 2025, 19:53:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-steal-3-325-secrets-in-ghostaction-github-supply-chain-attack/>)
+
+- **Il segnale aggiunge backup di cloud sicuri per salvare e ripristinare le chat**  
+  Fonte: BleepingComputer, 08 Sep 2025, 19:17:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/signal-adds-secure-cloud-backups-to-save-and-restore-chats/>)
+
+- **Copie firmate della democrazia ridotta**  
+  Fonte: Schneier on Security, 08 Sep 2025, 18:37:54 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/signed-copies-of-rewiring-democracy.html>)
+
+- **Lovesac conferma la violazione dei dati dopo le rivendicazioni di attacco di ransomware**  
+  Fonte: BleepingComputer, 08 Sep 2025, 18:24:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/lovesac-confirms-data-breach-after-ransomware-attack-claims/>)
+
+- **Servizio di pirateria in streaming sportivo con 123 m di visite annuali**  
+  Fonte: BleepingComputer, 08 Sep 2025, 18:12:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/massive-calcio-sports-streaming-piracy-service-with-123m-yearly-visits-shut-down/>)
+
+- **Hacker pacchetti NPM HIJACK con 2 miliardi di download settimanali in attacco a catena di approvvigionamento**  
+  Fonte: BleepingComputer, 08 Sep 2025, 16:47:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-hijack-npm-packages-with-2-billion-weekly-downloads-in-supply-chain-attack/>)
+
+- **Salesloft: la violazione del Repo GitHub di marzo ha portato ad attacchi di furto di dati di Salesforce**  
+  Fonte: BleepingComputer, 08 Sep 2025, 15:43:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/salesloft-march-github-repo-breach-led-to-salesforce-data-theft-attacks/>)
+
+- **Il compromesso dell'account GitHub ha portato a Salesloft Drift Breach che ha colpito 22 aziende**  
+  Fonte: The Hacker News, 08 Sep 2025, 15:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/github-account-compromise-led-to.html>)
+
+- **Malware Gpugate utilizza gli annunci Google e il falso Github commetti per targeting le aziende IT**  
+  Fonte: The Hacker News, 08 Sep 2025, 15:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/gpugate-malware-uses-google-ads-and.html>)
+
+- **Action1 vs. Microsoft WSUS: un approccio migliore alla moderna gestione delle patch**  
+  Fonte: BleepingComputer, 08 Sep 2025, 13:35:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/action1-vs-microsoft-wsus-a-better-approach-to-modern-patch-management/>)
+
+- **AI al governo**  
+  Fonte: Schneier on Security, 08 Sep 2025, 11:05:31 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/ai-in-government.html>)
+
+- **⚡ Riepilogo settimanale: cavo di violazione della deriva, zero giorni attivi, avvisi di patch, minacce più intelligenti e altro ancora**  
+  Fonte: The Hacker News, 08 Sep 2025, 10:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/weekly-recap-drift-breach-chaos-zero.html>)
+
+- **Non ti sei fatto phished - hai bordo dell'attaccante**  
+  Fonte: The Hacker News, 08 Sep 2025, 09:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html>)
+
 - **Google per semplificare l'accesso alla modalità AI come predefinito**  
   Fonte: BleepingComputer, 08 Sep 2025, 00:07:54 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/google/google-to-make-it-easier-to-access-ai-mode-as-default/>)
@@ -22,23 +90,15 @@
   Fonte: Troy Hunt, 07 Sep 2025, 08:08:09 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-468/>)
 
-- **Virustotal trova campagna di phishing malware nascosto nei file SVG**  
-  Fonte: BleepingComputer, 06 Sep 2025, 18:58:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/>)
-
-- **Orso rumoroso bersaglio il settore energetico del Kazakistan con campagna di phishing Barrelfire**  
+- **Campagna rumorosa di orso rivolto al settore dell'energia del Kazakistan fuori come test di phishing pianificato**  
   Fonte: The Hacker News, 06 Sep 2025, 15:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html>)
-
-- **Malware alimentato dall'intelligenza artificiale ha colpito 2.180 account github in attacco "s1ngularity"**  
-  Fonte: BleepingComputer, 06 Sep 2025, 14:11:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/>)
 
 - **Pacchetti npm dannosi impersonano flashbot, ruba i tasti del portafoglio Ethereum**  
   Fonte: The Hacker News, 06 Sep 2025, 06:42:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html>)
 
-- **GOP grida la censura su filtri spam che funzionano**  
+- **GOP grida la censura sui filtri spam che funzionano**  
   Fonte: Krebs on Security, 06 Sep 2025, 03:23:35 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/>)
 
@@ -46,33 +106,13 @@
   Fonte: Schneier on Security, 06 Sep 2025, 00:05:27 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-the-origin-and-propagation-of-squid.html>)
 
-- **Microsoft ora applica MFA sugli insegne del portale di Azure per tutti gli inquilini**  
-  Fonte: BleepingComputer, 05 Sep 2025, 19:32:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-now-enforces-mfa-on-azure-portal-sign-ins-for-all-tenants/>)
-
 - **Il mio ultimo libro: Recablar Democracy**  
   Fonte: Schneier on Security, 05 Sep 2025, 19:00:22 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/my-latest-book-rewiring-democracy.html>)
 
-- **Multe dell'UE Google $ 3,5 miliardi per pratiche pubblicitarie anticoncorrenziali**  
-  Fonte: BleepingComputer, 05 Sep 2025, 16:36:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/eu-fines-google-35-billion-for-anti-competitive-ad-practices/>)
-
 - **La CISA ordina una patch immediata di vulnerabilità del Sitecore critico sotto sfruttamento attivo**  
   Fonte: The Hacker News, 05 Sep 2025, 16:08:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html>)
-
-- **La società di servizi finanziari WealthSimple rivela la violazione dei dati**  
-  Fonte: BleepingComputer, 05 Sep 2025, 15:36:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/financial-services-firm-wealthsimple-discloses-data-breach/>)
-
-- **Max Severità Argo CD API Flaw Fleaks Credentials Repository**  
-  Fonte: BleepingComputer, 05 Sep 2025, 15:30:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-argo-cd-api-flaw-leaks-repository-credentials/>)
-
-- **Microsoft ci dà agli studenti un anno libero di Microsoft 365 Personal**  
-  Fonte: BleepingComputer, 05 Sep 2025, 14:31:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-gives-us-students-a-free-year-of-microsoft-365-personal/>)
 
 - **Germania accusa hacker con Rosneft Cyberack nell'ultima sveglia per infrastrutture critiche**  
   Fonte: Graham Cluley, 05 Sep 2025, 14:07:01 UTC  
@@ -85,10 +125,6 @@
 - **I genitori hanno avvertito che i giocattoli robot hanno spiato sulla posizione dei bambini senza consenso**  
   Fonte: Graham Cluley, 05 Sep 2025, 14:02:34 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/parents-warned-that-robot-toys-spied-on-childrens-location-without-consent>)
-
-- **Non lasciare che l'IGA obsoleta trattenga la tua sicurezza, conformità e crescita**  
-  Fonte: BleepingComputer, 05 Sep 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dont-let-outdated-iga-hold-back-your-security-compliance-and-growth/>)
 
 - **GPT-4o-Mini si innamora della manipolazione psicologica**  
   Fonte: Schneier on Security, 05 Sep 2025, 11:03:56 UTC  
@@ -194,7 +230,7 @@
   Fonte: The Hacker News, 02 Sep 2025, 14:56:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/researchers-warn-of-mystrodx-backdoor.html>)
 
-- **L'IA Fix #66: OpenAI e antropici si testlizzano e tutti falliscono il test di Apocalypse**  
+- **L'IA FIX #66: OpenAI e antropici si testlizzano e tutti falliscono il test di Apocalypse**  
   Fonte: Graham Cluley, 02 Sep 2025, 14:00:11 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-66/>)
 
@@ -214,33 +250,5 @@
   Fonte: The Hacker News, 02 Sep 2025, 08:39:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/silver-fox-exploits-microsoft-signed.html>)
 
-- **Pacchetto npm dannoso nodejs-smtp imita Nodemailer, bersagli un portafogli atomici ed esodo**  
-  Fonte: The Hacker News, 02 Sep 2025, 04:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html>)
 
-- **La ricaduta in corso da una violazione del produttore di chatbot AI Salesloft**  
-  Fonte: Krebs on Security, 01 Sep 2025, 21:55:04 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/>)
-
-- **I gocce di Android ora forniscono rubati e spyware SMS, non solo bandiera di Trojans**  
-  Fonte: The Hacker News, 01 Sep 2025, 17:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/android-droppers-now-deliver-sms.html>)
-
-- **⚡ Riepilogo settimanale: WhatsApp 0-Day, Docker Bug, Salesforce Breach, false Captchas, Spyware App & altro**  
-  Fonte: The Hacker News, 01 Sep 2025, 13:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/weekly-recap-whatsapp-0-day-docker-bug.html>)
-
-- **Quando i browser diventano la superficie dell'attacco: ripensare la sicurezza per il ragno sparso**  
-  Fonte: The Hacker News, 01 Sep 2025, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/when-browsers-become-attack-surface.html>)
-
-- **Scarcruft utilizza il malware Rokrat nell'operazione Hankook Phantom prendendo di mira gli accademici sudcoreani**  
-  Fonte: The Hacker News, 01 Sep 2025, 08:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html>)
-
-- **L'hacker sospettato di provare a tradire l'università viene arrestato in Spagna**  
-  Fonte: Graham Cluley, 01 Sep 2025, 07:22:06 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-suspected-of-trying-to-cheat-his-way-into-university-is-arrested-in-spain>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-08 06:19:17 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-09 06:18:36 UTC -->
