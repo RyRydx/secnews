@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Cursor AI Code Editor Flaw Abilita l'esecuzione del codice silenzioso tramite repository dannosi**  
+  Fonte: The Hacker News, 12 Sep 2025, 04:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html>)
+
+- **Microsoft indaga sull'interruzione online in Nord America**  
+  Fonte: BleepingComputer, 11 Sep 2025, 19:43:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-exchange-online-outage-in-north-america/>)
+
+- **Il senatore degli Stati Uniti accusa Microsoft di "negligenza lorda di sicurezza informatica"**  
+  Fonte: BleepingComputer, 11 Sep 2025, 19:23:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-senator-accuses-microsoft-of-gross-cybersecurity-negligence/>)
+
+- **Apple avverte i clienti presi di mira in recenti attacchi di spyware**  
+  Fonte: BleepingComputer, 11 Sep 2025, 19:02:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-warns-customers-targeted-in-recent-spyware-attacks/>)
+
+- **Panama Ministero dell'economia rivela la violazione rivendicata da INC Ransomware**  
+  Fonte: BleepingComputer, 11 Sep 2025, 18:26:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/panama-ministry-of-economy-discloses-breach-claimed-by-inc-ransomware/>)
+
+- **Stark Industries, ospite a prova di proiettile, sfugge alle sanzioni dell'UE**  
+  Fonte: Krebs on Security, 11 Sep 2025, 17:40:22 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/>)
+
+- **Microsoft aggiunge avvertimenti di link dannosi alle chat private dei team**  
+  Fonte: BleepingComputer, 11 Sep 2025, 17:21:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-adds-malicious-link-warnings-to-teams-private-chats/>)
+
+- **Akira Ransomware che sfrutta nuovamente il bug critico SonicWall SSLVPN**  
+  Fonte: BleepingComputer, 11 Sep 2025, 16:32:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/akira-ransomware-exploiting-critical-sonicwall-sslvpn-bug-again/>)
+
+- **Il nuovo attacco VMScape rompe l'isolamento ospite su AMD, CPU Intel**  
+  Fonte: BleepingComputer, 11 Sep 2025, 15:05:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-vmscape-attack-breaks-guest-host-isolation-on-amd-intel-cpus/>)
+
+- **Google Pixel 10 aggiunge il supporto C2PA per verificare l'autenticità dei media generati dall'AI**  
+  Fonte: The Hacker News, 11 Sep 2025, 15:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/google-pixel-10-adds-c2pa-support-to.html>)
+
+- **Il senatore Wyden esorta FTC a sondare Microsoft per negligenza di sicurezza informatica legata al ransomware**  
+  Fonte: The Hacker News, 11 Sep 2025, 14:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/senator-wyden-urges-ftc-to-probe.html>)
+
+- **La Guida dell'acquirente alla gestione dell'estensione del browser**  
+  Fonte: BleepingComputer, 11 Sep 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-buyers-guide-to-browser-extension-management/>)
+
+- **Cracking del codice della sala del consiglio: aiutare i CISO a parlare la lingua degli affari**  
+  Fonte: The Hacker News, 11 Sep 2025, 10:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/cracking-boardroom-code-helping-cisos.html>)
+
+- **Sonicwall SSL VPN Flaw e Mutconfigurazioni sfruttate attivamente da Akira Ransomware Hackers**  
+  Fonte: The Hacker News, 11 Sep 2025, 10:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/sonicwall-ssl-vpn-flaw-and.html>)
+
+- **Le estensioni false di madgicx plus e socialmetrics stanno dirottando i conti meta business**  
+  Fonte: The Hacker News, 11 Sep 2025, 09:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/fake-madgicx-plus-and-socialmetrics.html>)
+
+- **Asyncrat exploit Connectwise screenConnect per rubare credenziali e criptovalute**  
+  Fonte: The Hacker News, 11 Sep 2025, 06:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/asyncrat-exploits-connectwise.html>)
+
 - **Difensore DDOS preso di mira in un attacco di negazione del servizio di 1,5 bpps**  
   Fonte: BleepingComputer, 10 Sep 2025, 22:09:41 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ddos-defender-targeted-in-15-bpps-denial-of-service-attack/>)
@@ -18,33 +82,13 @@
   Fonte: BleepingComputer, 10 Sep 2025, 16:00:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/pixel-10-fights-ai-fakes-with-new-android-photo-verification-tech/>)
 
-- **Cursore AI Editor consente di repositare il codice dannoso "Autorun" sui dispositivi**  
-  Fonte: BleepingComputer, 10 Sep 2025, 15:46:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cursor-ai-editor-lets-repos-autorun-malicious-code-on-devices/>)
-
 - **APT cinese dispiega malware senza filamento egg per violare i sistemi militari filippini**  
   Fonte: The Hacker News, 10 Sep 2025, 15:46:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/chinese-apt-deploys-eggstreme-fileless.html>)
 
-- **Jaguar Land Rover conferma il furto di dati dopo il recente attacco informatico**  
-  Fonte: BleepingComputer, 10 Sep 2025, 15:29:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/jaguar-land-rover-jlr-confirms-data-theft-after-recent-cyberattack/>)
-
-- **Posso avere una nuova password, per favore?La domanda da $ 400 milioni.**  
-  Fonte: BleepingComputer, 10 Sep 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/can-i-have-a-new-password-please-the-400m-question/>)
-
 - **CHILLYHELL MACOS Backdoor e Zynorrat Rat minacciano MacOS, Windows e Linux**  
   Fonte: The Hacker News, 10 Sep 2025, 13:04:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/chillyhell-macos-backdoor-and-zynorrat.html>)
-
-- **Microsoft risolve i problemi di streaming attivati ​​dagli aggiornamenti di Windows**  
-  Fonte: BleepingComputer, 10 Sep 2025, 13:02:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-streaming-issues-triggered-by-windows-updates/>)
-
-- **Microsoft fissa i problemi di installazione dell'app causati dagli aggiornamenti di August Windows**  
-  Fonte: BleepingComputer, 10 Sep 2025, 12:02:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-app-install-issues-caused-by-august-windows-updates/>)
 
 - **Microsoft fissa 80 difetti - tra cui bug PRIVEC e Azure CVSS 10.0 Azure**  
   Fonte: The Hacker News, 10 Sep 2025, 11:14:00 UTC  
@@ -77,18 +121,6 @@
 - **Microsoft Patch Martedì, settembre 2025 Edizione**  
   Fonte: Krebs on Security, 09 Sep 2025, 21:21:14 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/>)
-
-- **Le sanzioni statunitensi truffatori informatici che hanno rubato miliardi dagli americani**  
-  Fonte: BleepingComputer, 09 Sep 2025, 20:25:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-sanctions-cyber-scammers-who-stole-billions-from-americans/>)
-
-- **Gli hacker si nascondono dietro Tor in violazioni dell'API Docker esposte**  
-  Fonte: BleepingComputer, 09 Sep 2025, 19:16:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-hide-behind-tor-in-exposed-docker-api-breaches/>)
-
-- **L'aggiornamento di Windows 10 KB5065429 include 14 modifiche e correzioni**  
-  Fonte: BleepingComputer, 09 Sep 2025, 17:57:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/windows-10-kb5065429-update-includes-14-changes-and-fixes/>)
 
 - **Abuso Axios e kit 2FA Salty Fuel Advanced Microsoft 365 Phishing Attacks**  
   Fonte: The Hacker News, 09 Sep 2025, 14:14:00 UTC  
@@ -198,41 +230,5 @@
   Fonte: The Hacker News, 05 Sep 2025, 08:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/automation-is-redefining-pentest.html>)
 
-- **Virustotal trova 44 file SVG non rilevati utilizzati per distribuire pagine di phishing codificate da base64**  
-  Fonte: The Hacker News, 05 Sep 2025, 06:13:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html>)
 
-- **Russian APT28 dispiega prospettive "Notdoor" Backdoor contro le compagnie nei paesi della NATO**  
-  Fonte: The Hacker News, 04 Sep 2025, 18:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/russian-apt28-deploys-notdoor-outlook.html>)
-
-- **GhostreDirector hacks 65 server Windows utilizzando Rungan Backdoor e Gamshen IIS Module**  
-  Fonte: The Hacker News, 04 Sep 2025, 17:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/ghostredirector-hacks-65-windows.html>)
-
-- **Affrontare l'emissione non autorizzata di più certificati TLS per 1.1.1.1**  
-  Fonte: Cloudflare Blog - Security, 04 Sep 2025, 17:30:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/>)
-
-- **Ai generativo come assistente di criminalità informatica**  
-  Fonte: Schneier on Security, 04 Sep 2025, 11:06:25 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/generative-ai-as-a-cybercrime-assistant.html>)
-
-- **I criminali informatici sfruttano l'intelligenza artificiale di X per bypassare le protezioni degli annunci e diffondere malware a milioni**  
-  Fonte: The Hacker News, 04 Sep 2025, 10:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/cybercriminals-exploit-xs-grok-ai-to.html>)
-
-- **Semplici passaggi per la riduzione della superficie di attacco**  
-  Fonte: The Hacker News, 04 Sep 2025, 10:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html>)
-
-- **Google ha multato $ 379 milioni dal regolatore francese per violazioni del consenso dei cookie**  
-  Fonte: The Hacker News, 04 Sep 2025, 10:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/google-fined-379-million-by-french.html>)
-
-- **FLAGS CISA TP-Link Router difetti CVE-2023-50224 e CVE-2025-9377 come sfruttato attivamente**  
-  Fonte: The Hacker News, 04 Sep 2025, 10:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/cisa-flags-tp-link-router-flaws-cve.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-11 06:17:48 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-12 06:17:13 UTC -->
