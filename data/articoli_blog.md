@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **L'FBI avverte di UNC6040 e UNC6395 prendendo di mira le piattaforme Salesforce negli attacchi di furto di dati**  
+  Fonte: The Hacker News, 13 Sep 2025, 09:04:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html>)
+
+- **Aggiornamento settimanale 469**  
+  Fonte: Troy Hunt, 13 Sep 2025, 07:42:33 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-469/>)
+
 - **Valutare la qualità dei calamari secchi**  
   Fonte: Schneier on Security, 12 Sep 2025, 21:05:12 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/assessing-the-quality-of-dried-squid.html>)
@@ -222,13 +230,5 @@
   Fonte: Troy Hunt, 07 Sep 2025, 08:08:09 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-468/>)
 
-- **Campagna rumorosa orso rivolto al settore dell'energia del Kazakistan è uscito come un test di phishing pianificato**  
-  Fonte: The Hacker News, 06 Sep 2025, 15:13:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html>)
 
-- **Pacchetti npm dannosi impersonano flashbot, ruba i tasti del portafoglio Ethereum**  
-  Fonte: The Hacker News, 06 Sep 2025, 06:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-13 06:15:03 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-14 06:15:29 UTC -->
