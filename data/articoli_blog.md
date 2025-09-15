@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **L'FBI avverte di UNC6040, UNC6395 hacker che rubano i dati Salesforce**  
+  Fonte: BleepingComputer, 14 Sep 2025, 21:56:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-unc6040-unc6395-hackers-stealing-salesforce-data/>)
+
+- **Imminenti impegni di lingua**  
+  Fonte: Schneier on Security, 14 Sep 2025, 16:02:45 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/upcoming-speaking-engagements-48.html>)
+
+- **Il nuovo servizio di phishing voidproxy mira a Microsoft 365, Account Google**  
+  Fonte: BleepingComputer, 14 Sep 2025, 14:23:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-voidproxy-phishing-service-targets-microsoft-365-google-accounts/>)
+
+- **Microsoft ricorda il supporto di Windows 10 che termina tra 30 giorni**  
+  Fonte: BleepingComputer, 13 Sep 2025, 16:20:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-of-windows-10-support-ending-in-30-days/>)
+
+- **"Whitecobra" alluvi il mercato VScode con estensioni di criptovalute**  
+  Fonte: BleepingComputer, 13 Sep 2025, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/whitecobra-floods-vscode-market-with-crypto-stealing-extensions/>)
+
 - **L'FBI avverte di UNC6040 e UNC6395 prendendo di mira le piattaforme Salesforce negli attacchi di furto di dati**  
   Fonte: The Hacker News, 13 Sep 2025, 09:04:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html>)
@@ -37,6 +57,10 @@
 - **Apple avverte gli utenti francesi della quarta campagna spyware nel 2025, CERT-FR conferma**  
   Fonte: The Hacker News, 12 Sep 2025, 14:49:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/apple-warns-french-users-of-fourth.html>)
+
+- **I passeggeri della ferrovia britannica hanno invitato a rimanere in guardia dopo il fallimento dei segnali di hacking**  
+  Fonte: Graham Cluley, 12 Sep 2025, 14:42:02 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/british-rail-passengers-hack-signals-failure>)
 
 - **Le prime tre cose che vorrai durante un attacco informatico**  
   Fonte: BleepingComputer, 12 Sep 2025, 14:02:12 UTC  
@@ -74,29 +98,9 @@
   Fonte: BleepingComputer, 11 Sep 2025, 19:23:41 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/us-senator-accuses-microsoft-of-gross-cybersecurity-negligence/>)
 
-- **Apple avverte i clienti presi di mira in recenti attacchi di spyware**  
-  Fonte: BleepingComputer, 11 Sep 2025, 19:02:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-warns-customers-targeted-in-recent-spyware-attacks/>)
-
-- **Panama Ministero dell'economia rivela la violazione rivendicata da INC Ransomware**  
-  Fonte: BleepingComputer, 11 Sep 2025, 18:26:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/panama-ministry-of-economy-discloses-breach-claimed-by-inc-ransomware/>)
-
 - **Stark Industries, ospite a prova di proiettile, sfugge alle sanzioni dell'UE**  
   Fonte: Krebs on Security, 11 Sep 2025, 17:40:22 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/>)
-
-- **Microsoft aggiunge avvertimenti di link dannosi alle chat private dei team**  
-  Fonte: BleepingComputer, 11 Sep 2025, 17:21:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-adds-malicious-link-warnings-to-teams-private-chats/>)
-
-- **Akira Ransomware che sfrutta nuovamente il bug critico SonicWall SSLVPN**  
-  Fonte: BleepingComputer, 11 Sep 2025, 16:32:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/akira-ransomware-exploiting-critical-sonicwall-sslvpn-bug-again/>)
-
-- **Il nuovo attacco VMScape rompe l'isolamento ospite su AMD, CPU Intel**  
-  Fonte: BleepingComputer, 11 Sep 2025, 15:05:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-vmscape-attack-breaks-guest-host-isolation-on-amd-intel-cpus/>)
 
 - **Google Pixel 10 aggiunge il supporto C2PA per verificare l'autenticità dei media generati dall'AI**  
   Fonte: The Hacker News, 11 Sep 2025, 15:03:00 UTC  
@@ -106,13 +110,13 @@
   Fonte: The Hacker News, 11 Sep 2025, 14:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/senator-wyden-urges-ftc-to-probe.html>)
 
+- **Sonicwall SSL VPN Flaw e Mutconfigurazioni sfruttate attivamente da Akira Ransomware Hackers**  
+  Fonte: The Hacker News, 11 Sep 2025, 10:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/sonicwall-ssl-vpn-flaw-and.html>)
+
 - **Cracking del codice della sala del consiglio: aiutare i CISO a parlare la lingua degli affari**  
   Fonte: The Hacker News, 11 Sep 2025, 10:33:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/cracking-boardroom-code-helping-cisos.html>)
-
-- **Sonicwall SSL VPN Flaw e Mutconfigurations sfruttati attivamente da Akira Ransomware Hackers**  
-  Fonte: The Hacker News, 11 Sep 2025, 10:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/sonicwall-ssl-vpn-flaw-and.html>)
 
 - **Le estensioni false di madgicx plus e socialmetrics stanno dirottando i conti meta business**  
   Fonte: The Hacker News, 11 Sep 2025, 09:05:00 UTC  
@@ -121,6 +125,14 @@
 - **Asyncrat exploit Connectwise screenConnect per rubare credenziali e criptovalute**  
   Fonte: The Hacker News, 11 Sep 2025, 06:02:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/asyncrat-exploits-connectwise.html>)
+
+- **Smashing Security Podcast #434: Whopper Hackers e AI Whoppers**  
+  Fonte: Graham Cluley, 10 Sep 2025, 23:05:59 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-434/>)
+
+- **Accusa statunitensi sospettati di Kingpin Ransomware e offre una tagella da 10 milioni di dollari per la sua cattura**  
+  Fonte: Graham Cluley, 10 Sep 2025, 21:24:02 UTC  
+  [Leggi](<https://www.fortra.com/blog/us-charges-suspected-ransomware-kingpin-offers-10-million-bounty>)
 
 - **APT cinese dispiega malware senza filamento egg per violare i sistemi militari filippini**  
   Fonte: The Hacker News, 10 Sep 2025, 15:46:00 UTC  
@@ -142,7 +154,11 @@
   Fonte: The Hacker News, 10 Sep 2025, 09:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/the-time-saving-guide-for-service.html>)
 
-- **Fai attenzione a Salty2FA: nuovo kit di phishing rivolto a noi e alle imprese dell'UE**  
+- **Lovesac avverte i clienti i loro dati sono stati violati dopo sospetti attacchi di ransomhub sei mesi fa**  
+  Fonte: Graham Cluley, 10 Sep 2025, 08:35:42 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/lovesac-warns-customers-their-data-was-breached-after-suspected-ransomhub-attack-six-months-ago>)
+
+- **Fai attenzione a Salty2FA: nuovo kit di phishing che si rivolge a US e UE Enterprises**  
   Fonte: The Hacker News, 10 Sep 2025, 08:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/watch-out-for-salty2fa-new-phishing-kit.html>)
 
@@ -165,6 +181,10 @@
 - **Abuso Axios e kit 2FA Salty Fuel Advanced Microsoft 365 Phishing Attacks**  
   Fonte: The Hacker News, 09 Sep 2025, 14:14:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/axios-abuse-and-salty-2fa-kits-fuel.html>)
+
+- **L'IA Fix #67: lo scandalo della folla di AI di Will Smith e gli agenti creduloni si innamorano delle truffe**  
+  Fonte: Graham Cluley, 09 Sep 2025, 14:04:36 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-67/>)
 
 - **Raton Android Malware rilevato con funzionalità di frode bancaria NFC e ATS Banking**  
   Fonte: The Hacker News, 09 Sep 2025, 11:53:00 UTC  
@@ -226,9 +246,5 @@
   Fonte: The Hacker News, 08 Sep 2025, 09:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html>)
 
-- **Aggiornamento settimanale 468**  
-  Fonte: Troy Hunt, 07 Sep 2025, 08:08:09 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-468/>)
 
-
-<!-- Ultimo aggiornamento: 2025-09-14 06:15:29 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-15 06:19:06 UTC -->
