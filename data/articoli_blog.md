@@ -2,7 +2,83 @@
 
 ## Ultimi 7 giorni
 
-- **40 pacchetti npm compromessi nell'attacco della catena di approvvigionamento usando bundle.js per rubare le credenziali**  
+- **Network di phishing Raccoono365 Sh -down dopo che Microsoft e CloudFlare interrompono 338 domini**  
+  Fonte: The Hacker News, 17 Sep 2025, 04:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html>)
+
+- **BreachForums Hacking Forum Administrato si risente per tre anni di prigione**  
+  Fonte: BleepingComputer, 16 Sep 2025, 21:38:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-admin-resentenced-to-three-years-in-prison/>)
+
+- **Microsoft lancia la chat di Copilot con le app Office Microsoft 365**  
+  Fonte: BleepingComputer, 16 Sep 2025, 18:01:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-copilot-chat-to-microsoft-365-office-apps/>)
+
+- **Google Nukes 224 App di malware Android dietro enorme campagna per frode pubblicitarie**  
+  Fonte: BleepingComputer, 16 Sep 2025, 17:20:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-nukes-224-android-malware-apps-behind-massive-ad-fraud-campaign/>)
+
+- **Attacco di catena di approvvigionamento autopropagante colpisce 187 pacchetti NPM**  
+  Fonte: BleepingComputer, 16 Sep 2025, 16:46:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/self-propagating-supply-chain-attack-hits-187-npm-packages/>)
+
+- **CHAOS MESH Critical Graphql Flaws Abilita RCE e Full Kubernetes Cluster Takeover**  
+  Fonte: The Hacker News, 16 Sep 2025, 16:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/chaos-mesh-critical-graphql-flaws.html>)
+
+- **Microsoft: WMIC verrà rimosso dopo l'aggiornamento di Windows 11 25h2**  
+  Fonte: BleepingComputer, 16 Sep 2025, 15:58:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-wmic-will-be-removed-after-windows-11-25h2-upgrade/>)
+
+- **Slopads Fraud Ring Exploits 224 app Android per guidare 2,3 miliardi di offerte pubblicitarie giornaliere**  
+  Fonte: The Hacker News, 16 Sep 2025, 14:19:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/slopads-fraud-ring-exploits-224-android.html>)
+
+- **I worm autoreplicanti colpiscono 180+ pacchetti software**  
+  Fonte: Krebs on Security, 16 Sep 2025, 14:08:02 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/>)
+
+- **Certificazione VMware a livello di squadra: la tua arma segreta per la sicurezza**  
+  Fonte: BleepingComputer, 16 Sep 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/team-wide-vmware-certification-your-secret-weapon-for-security/>)
+
+- **Jaguar Land Rover estende l'arresto dopo l'attacco informatico di un'altra settimana**  
+  Fonte: BleepingComputer, 16 Sep 2025, 13:08:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/jaguar-land-rover-extends-shutdown-after-cyberattack-by-another-week/>)
+
+- **La nuova variante FileFix offre malware STEALC tramite sito multilingue di phishing**  
+  Fonte: The Hacker News, 16 Sep 2025, 12:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html>)
+
+- **Patch zero-day di Apple Backports a iPhone e iPad più vecchi**  
+  Fonte: BleepingComputer, 16 Sep 2025, 12:16:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-backports-zero-day-patches-to-older-iphones-and-ipads/>)
+
+- **Il nuovo attacco FileFix utilizza la steganografia per far cadere il malware Stealc**  
+  Fonte: BleepingComputer, 16 Sep 2025, 12:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-steganography-to-drop-stealc-malware/>)
+
+- **Microsoft utilizza ancora RC4**  
+  Fonte: Schneier on Security, 16 Sep 2025, 11:06:44 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/microsoft-still-uses-rc4.html>)
+
+- **Fissa di Apple Backports per CVE-2025-43300 sfruttato in sofisticato attacco di spyware**  
+  Fonte: The Hacker News, 16 Sep 2025, 11:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/apple-backports-fix-for-cve-2025-43300.html>)
+
+- **Webinar: il tuo browser è la violazione: proteggere il moderno Web Edge**  
+  Fonte: BleepingComputer, 16 Sep 2025, 11:01:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-your-browser-is-the-breach-securing-the-modern-web-edge/>)
+
+- **Assicurare l'era agente: introdurre il piano di controllo dell'agente AI di Astrix**  
+  Fonte: The Hacker News, 16 Sep 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/securing-agentic-era-introducing.html>)
+
+- **L'attacco di Phoenix Rowhammer bypassa le protezioni di memoria avanzate DDR5 in 109 secondi**  
+  Fonte: The Hacker News, 16 Sep 2025, 07:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html>)
+
+- **Il worm autoreplicante colpisce pacchetti NPM 180+ per rubare le credenziali nell'ultimo attacco della catena di approvvigionamento**  
   Fonte: The Hacker News, 16 Sep 2025, 05:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html>)
 
@@ -21,30 +97,6 @@
 - **Finwise Insider Breach Impacts 689k American First Finance Clienti**  
   Fonte: BleepingComputer, 15 Sep 2025, 18:18:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/finwise-insider-breach-impacts-689k-american-first-finance-customers/>)
-
-- **Il nuovo attacco di Phoenix bypassa le difese di Rowhammer nella memoria DDR5**  
-  Fonte: BleepingComputer, 15 Sep 2025, 18:01:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/>)
-
-- **Microsoft: Exchange 2016 e 2019 raggiungono il supporto in 30 giorni**  
-  Fonte: BleepingComputer, 15 Sep 2025, 17:04:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-reach-end-of-support-in-30-days/>)
-
-- **Microsoft per forzare l'installazione dell'app Microsoft 365 Copilot in ottobre**  
-  Fonte: BleepingComputer, 15 Sep 2025, 15:59:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/>)
-
-- **Smetti di aspettare su NVD-Ottieni ora avvisi di vulnerabilità in tempo reale**  
-  Fonte: BleepingComputer, 15 Sep 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/stop-waiting-on-nvd-get-real-time-vulnerability-alerts-now/>)
-
-- **Microsoft risolve i problemi audio di Windows 11 confermati a dicembre**  
-  Fonte: BleepingComputer, 15 Sep 2025, 13:48:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-audio-issues-confirmed-in-december/>)
-
-- **Microsoft afferma che gli aggiornamenti di Windows settembre interrompono le azioni SMBV1**  
-  Fonte: BleepingComputer, 15 Sep 2025, 12:48:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-september-updates-break-smbv1-shares/>)
 
 - **6 Le squadre di sicurezza degli attacchi basati su browser devono prepararsi in questo momento**  
   Fonte: The Hacker News, 15 Sep 2025, 11:55:00 UTC  
@@ -66,25 +118,9 @@
   Fonte: The Hacker News, 15 Sep 2025, 05:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/hiddengh0st-winos-and-kkrat-exploit-seo.html>)
 
-- **L'FBI avverte di UNC6040, UNC6395 hacker che rubano i dati Salesforce**  
-  Fonte: BleepingComputer, 14 Sep 2025, 21:56:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-unc6040-unc6395-hackers-stealing-salesforce-data/>)
-
 - **Imminenti impegni di lingua**  
   Fonte: Schneier on Security, 14 Sep 2025, 16:02:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/upcoming-speaking-engagements-48.html>)
-
-- **Il nuovo servizio di phishing voidproxy mira a Microsoft 365, Account Google**  
-  Fonte: BleepingComputer, 14 Sep 2025, 14:23:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-voidproxy-phishing-service-targets-microsoft-365-google-accounts/>)
-
-- **Microsoft ricorda il supporto di Windows 10 che termina tra 30 giorni**  
-  Fonte: BleepingComputer, 13 Sep 2025, 16:20:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-of-windows-10-support-ending-in-30-days/>)
-
-- **"Whitecobra" alluvi il mercato VScode con estensioni di criptovalute**  
-  Fonte: BleepingComputer, 13 Sep 2025, 14:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/whitecobra-floods-vscode-market-with-crypto-stealing-extensions/>)
 
 - **L'FBI avverte di UNC6040 e UNC6395 prendendo di mira le piattaforme Salesforce negli attacchi di furto di dati**  
   Fonte: The Hacker News, 13 Sep 2025, 09:04:00 UTC  
@@ -182,45 +218,5 @@
   Fonte: The Hacker News, 10 Sep 2025, 07:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/china-linked-apt41-hackers-target-us.html>)
 
-- **Adobe Commerce Flaw CVE-2025-54236 consente agli hacker di rilevare gli account dei clienti**  
-  Fonte: The Hacker News, 10 Sep 2025, 01:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/adobe-commerce-flaw-cve-2025-54236-lets.html>)
 
-- **Patch SAP Netweaver critico (CVSS fino a 10,0) e difetti S/4HANA**  
-  Fonte: The Hacker News, 10 Sep 2025, 01:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html>)
-
-- **Microsoft Patch Martedì, settembre 2025 Edizione**  
-  Fonte: Krebs on Security, 09 Sep 2025, 21:21:14 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/>)
-
-- **Abuso Axios e kit 2FA Salty Fuel Advanced Microsoft 365 Phishing Attacks**  
-  Fonte: The Hacker News, 09 Sep 2025, 14:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/axios-abuse-and-salty-2fa-kits-fuel.html>)
-
-- **Raton Android Malware rilevato con funzionalità di frode bancaria NFC e ATS Banking**  
-  Fonte: The Hacker News, 09 Sep 2025, 11:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/raton-android-malware-detected-with-nfc.html>)
-
-- **Nuova crittanalisi del protocollo Fiat-Shamir**  
-  Fonte: Schneier on Security, 09 Sep 2025, 11:02:00 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/new-cryptanalysis-of-the-fiat-shamir-protocol.html>)
-
-- **[Webinar] Shadow AI Agents si moltiplicano velocemente: impara a rilevarli e controllarli**  
-  Fonte: The Hacker News, 09 Sep 2025, 10:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html>)
-
-- **Da Mostererat a ClickFix: nuove campagne di malware evidenziano l'IA in aumento e i rischi di phishing**  
-  Fonte: The Hacker News, 09 Sep 2025, 10:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/from-mostererat-to-clickfix-new-malware.html>)
-
-- **In che modo le principali CISO stanno ottenendo l'approvazione del budget**  
-  Fonte: The Hacker News, 09 Sep 2025, 10:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html>)
-
-- **L'attacco di criptojacking basato su TOR si espande attraverso le API Docker errate figurate**  
-  Fonte: The Hacker News, 09 Sep 2025, 10:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/tor-based-cryptojacking-attack-expands.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-16 06:17:55 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-17 06:18:10 UTC -->
