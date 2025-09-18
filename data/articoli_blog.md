@@ -2,7 +2,59 @@
 
 ## Ultimi 7 giorni
 
-- **Network di phishing Raccoono365 Sh -down dopo che Microsoft e CloudFlare interrompono 338 domini**  
+- **Shinyhunters rivendica 1,5 miliardi di registri Salesforce rubati in hacks alla deriva**  
+  Fonte: BleepingComputer, 17 Sep 2025, 21:11:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-claims-15-billion-salesforce-records-stolen-in-drift-hacks/>)
+
+- **TA558 usa script generati dall'IA per distribuire Venom Rat in Brasile Hotel Attacks**  
+  Fonte: The Hacker News, 17 Sep 2025, 18:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html>)
+
+- **VC Giant Insight Partners avverte migliaia dopo la violazione del ransomware**  
+  Fonte: BleepingComputer, 17 Sep 2025, 17:50:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-warns-thousands-after-ransomware-breach/>)
+
+- **Sonicwall avverte i clienti di ripristinare le credenziali dopo la violazione**  
+  Fonte: BleepingComputer, 17 Sep 2025, 16:23:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-warns-customers-to-reset-credentials-after-MySonicWall-breach/>)
+
+- **Microsoft: Office 2016 e Office 2019 Reach Fine of Support il mese prossimo**  
+  Fonte: BleepingComputer, 17 Sep 2025, 14:57:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-reach-end-of-support-next-month/>)
+
+- **Da ClickFix a MetaStealer: dissezionando le tecniche di attori delle minacce in evoluzione**  
+  Fonte: BleepingComputer, 17 Sep 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/from-clickfix-to-metastealer-dissecting-evolving-threat-actor-techniques/>)
+
+- **Microsoft e CloudFlare interrompono il servizio di phishing Raccoono365 Microso**  
+  Fonte: BleepingComputer, 17 Sep 2025, 13:20:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-and-cloudflare-disrupt-massive-raccoono365-phishing-service/>)
+
+- **Cinese TA415 usa i tunnel remoti del codice per spiare gli esperti di politica economica degli Stati Uniti**  
+  Fonte: The Hacker News, 17 Sep 2025, 12:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html>)
+
+- **Dagli hack quantistici alle difese di intelligenza artificiale - Guida esperta alla costruzione di resilienza informatica infrangibile**  
+  Fonte: The Hacker News, 17 Sep 2025, 12:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html>)
+
+- **Hacking di casse elettroniche**  
+  Fonte: Schneier on Security, 17 Sep 2025, 11:05:59 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/hacking-electronic-safes.html>)
+
+- **Ripensare la sicurezza dei dati AI: una guida per l'acquirente**  
+  Fonte: The Hacker News, 17 Sep 2025, 11:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html>)
+
+- **Spider sparso si ripresenta con attacchi del settore finanziario nonostante le richieste di pensionamento**  
+  Fonte: The Hacker News, 17 Sep 2025, 08:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html>)
+
+- **DOJ Resentlences BreachForums Fondatore a 3 anni per criminalità informatica e possesso di CSAM**  
+  Fonte: The Hacker News, 17 Sep 2025, 06:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html>)
+
+- **Network di phishing Raccoono365 smantellata da Microsoft, CloudFlare abbatte 338 domini**  
   Fonte: The Hacker News, 17 Sep 2025, 04:31:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html>)
 
@@ -42,21 +94,9 @@
   Fonte: BleepingComputer, 16 Sep 2025, 14:01:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/team-wide-vmware-certification-your-secret-weapon-for-security/>)
 
-- **Jaguar Land Rover estende l'arresto dopo l'attacco informatico di un'altra settimana**  
-  Fonte: BleepingComputer, 16 Sep 2025, 13:08:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/jaguar-land-rover-extends-shutdown-after-cyberattack-by-another-week/>)
-
 - **La nuova variante FileFix offre malware STEALC tramite sito multilingue di phishing**  
   Fonte: The Hacker News, 16 Sep 2025, 12:33:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html>)
-
-- **Patch zero-day di Apple Backports a iPhone e iPad più vecchi**  
-  Fonte: BleepingComputer, 16 Sep 2025, 12:16:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-backports-zero-day-patches-to-older-iphones-and-ipads/>)
-
-- **Il nuovo attacco FileFix utilizza la steganografia per far cadere il malware Stealc**  
-  Fonte: BleepingComputer, 16 Sep 2025, 12:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-steganography-to-drop-stealc-malware/>)
 
 - **Microsoft utilizza ancora RC4**  
   Fonte: Schneier on Security, 16 Sep 2025, 11:06:44 UTC  
@@ -65,10 +105,6 @@
 - **Fissa di Apple Backports per CVE-2025-43300 sfruttato in sofisticato attacco di spyware**  
   Fonte: The Hacker News, 16 Sep 2025, 11:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/apple-backports-fix-for-cve-2025-43300.html>)
-
-- **Webinar: il tuo browser è la violazione: proteggere il moderno Web Edge**  
-  Fonte: BleepingComputer, 16 Sep 2025, 11:01:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-your-browser-is-the-breach-securing-the-modern-web-edge/>)
 
 - **Assicurare l'era agente: introdurre il piano di controllo dell'agente AI di Astrix**  
   Fonte: The Hacker News, 16 Sep 2025, 11:00:00 UTC  
@@ -82,21 +118,9 @@
   Fonte: The Hacker News, 16 Sep 2025, 05:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html>)
 
-- **Il nuovo modello di Codice GPT-5 di Openai assume Claude Code**  
-  Fonte: BleepingComputer, 16 Sep 2025, 00:51:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openais-new-gpt-5-codex-model-takes-on-claude-code/>)
-
-- **Google conferma l'account fraudolento creato nel portale delle forze dell'ordine**  
-  Fonte: BleepingComputer, 15 Sep 2025, 20:12:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-confirms-fraudulent-account-created-in-law-enforcement-portal/>)
-
 - **Mustang Panda schiera Snakekisk USB Worm per consegnare Yokai Backdoor su Thailandia IPS**  
   Fonte: The Hacker News, 15 Sep 2025, 18:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/mustang-panda-deploys-snakedisk-usb.html>)
-
-- **Finwise Insider Breach Impacts 689k American First Finance Clienti**  
-  Fonte: BleepingComputer, 15 Sep 2025, 18:18:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/finwise-insider-breach-impacts-689k-american-first-finance-customers/>)
 
 - **6 Le squadre di sicurezza degli attacchi basati su browser devono prepararsi in questo momento**  
   Fonte: The Hacker News, 15 Sep 2025, 11:55:00 UTC  
@@ -138,7 +162,7 @@
   Fonte: Schneier on Security, 12 Sep 2025, 21:04:34 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/a-cyberattack-victim-notification-framework.html>)
 
-- **Samsung corregge la critica CVE-2025-21043 Critical-Day sfruttata in attacchi Android**  
+- **Samsung corregge la critica CVE-2025-21043 Critical-Day sfruttata negli attacchi Android**  
   Fonte: The Hacker News, 12 Sep 2025, 15:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/samsung-fixes-critical-zero-day-cve.html>)
 
@@ -174,7 +198,7 @@
   Fonte: The Hacker News, 11 Sep 2025, 14:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/senator-wyden-urges-ftc-to-probe.html>)
 
-- **Sonicwall SSL VPN Flaw e Mutconfigurazioni sfruttate attivamente da Akira Ransomware Hackers**  
+- **Sonicwall SSL VPN Flaw e Mutconfigurations sfruttati attivamente da Akira Ransomware Hackers**  
   Fonte: The Hacker News, 11 Sep 2025, 10:33:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/sonicwall-ssl-vpn-flaw-and.html>)
 
@@ -186,37 +210,5 @@
   Fonte: The Hacker News, 11 Sep 2025, 09:05:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/fake-madgicx-plus-and-socialmetrics.html>)
 
-- **Asyncrat exploit Connectwise screenConnect per rubare credenziali e criptovalute**  
-  Fonte: The Hacker News, 11 Sep 2025, 06:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/asyncrat-exploits-connectwise.html>)
 
-- **APT cinese dispiega malware senza filamento egg per violare i sistemi militari filippini**  
-  Fonte: The Hacker News, 10 Sep 2025, 15:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/chinese-apt-deploys-eggstreme-fileless.html>)
-
-- **CHILLYHELL MACOS Backdoor e Zynorrat Rat minacciano MacOS, Windows e Linux**  
-  Fonte: The Hacker News, 10 Sep 2025, 13:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/chillyhell-macos-backdoor-and-zynorrat.html>)
-
-- **Microsoft fissa 80 difetti - tra cui bug PRIVEC e Azure CVSS 10.0 Azure**  
-  Fonte: The Hacker News, 10 Sep 2025, 11:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/microsoft-fixes-80-flaws-including-smb.html>)
-
-- **Apple iPhone Air e iPhone 17 Funzionalità A19 Chips con sicurezza della memoria resistente allo spyware**  
-  Fonte: The Hacker News, 10 Sep 2025, 10:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/apple-iphone-air-and-iphone-17-feature.html>)
-
-- **La guida per il risparmio di tempo per i fornitori di servizi: automatizzare VCISO e servizi di conformità**  
-  Fonte: The Hacker News, 10 Sep 2025, 09:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/the-time-saving-guide-for-service.html>)
-
-- **Fai attenzione a Salty2FA: nuovo kit di phishing che si rivolge a US e UE Enterprises**  
-  Fonte: The Hacker News, 10 Sep 2025, 08:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/watch-out-for-salty2fa-new-phishing-kit.html>)
-
-- **Gli hacker APT41 collegati in Cina mirano ai funzionari commerciali statunitensi tra 2025 negoziati**  
-  Fonte: The Hacker News, 10 Sep 2025, 07:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/china-linked-apt41-hackers-target-us.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-17 06:18:10 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-18 06:17:42 UTC -->
