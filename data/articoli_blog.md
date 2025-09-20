@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Shadowleak Zero-Click Flaw Fleaks Gmail Data tramite Openai Chatgpt Deep Research Agent**  
+  Fonte: The Hacker News, 20 Sep 2025, 05:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html>)
+
+- **Blogging di calamari del venerdì: calamari giganti contro balene blu**  
+  Fonte: Schneier on Security, 19 Sep 2025, 21:06:15 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-giant-squid-vs-blue-whale.html>)
+
+- **Microsoft inizia a lanciare il copilota da gioco su Windows 11 PC**  
+  Fonte: BleepingComputer, 19 Sep 2025, 18:46:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-gaming-copilot-on-windows-11-pcs/>)
+
+- **L'FBI avverte di criminali informatici che utilizzano falsi portali di segnalazione del crimine dell'FBI**  
+  Fonte: BleepingComputer, 19 Sep 2025, 16:43:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fbi-crime-complaint-portals-used-for-cybercrime/>)
+
+- **UNC1549 hacks 34 dispositivi in ​​11 aziende di telecomunicazioni tramite esca di lavoro LinkedIn e malware in minibike**  
+  Fonte: The Hacker News, 19 Sep 2025, 16:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/unc1549-hacks-34-devices-in-11-telecom.html>)
+
+- **CISA espone kit di malware distribuiti in attacchi IVanti EPM**  
+  Fonte: BleepingComputer, 19 Sep 2025, 15:46:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-exposes-malware-kits-deployed-in-ivanti-epmm-attacks/>)
+
+- **Systembc alimenta il proxy REM con 1.500 vittime di VPS su 80 server C2**  
+  Fonte: The Hacker News, 19 Sep 2025, 14:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/systembc-powers-rem-proxy-with-1500.html>)
+
+- **Fortra avverte di difetto di gravità massimo nel servlet della licenza di Goanywhere MFT**  
+  Fonte: BleepingComputer, 19 Sep 2025, 14:20:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fortra-warns-of-max-severity-flaw-in-goanywhere-mfts-license-servlet/>)
+
+- **Fortra rilascia patch critici per CVSS 10.0 Goanywhere MFT Vulnerability**  
+  Fonte: The Hacker News, 19 Sep 2025, 14:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/fortra-releases-critical-patch-for-cvss.html>)
+
+- **17.500 domini di phishing target 316 marchi in 74 paesi in phaas globale Surge**  
+  Fonte: The Hacker News, 19 Sep 2025, 14:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/17500-phishing-domains-target-316.html>)
+
+- **Conosciuto.Emergente.Inarrestabile?Gli attacchi di ransomware eliminano ancora le difese**  
+  Fonte: BleepingComputer, 19 Sep 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/known-emerging-unstoppable-ransomware-attacks-still-evade-defenses/>)
+
+- **Non hai bisogno di hardware quantistico per la sicurezza post-quantum**  
+  Fonte: Cloudflare Blog - Security, 19 Sep 2025, 13:44:40 UTC  
+  [Leggi](<https://blog.cloudflare.com/you-dont-need-quantum-hardware/>)
+
+- **Steam smetterà di funzionare su Windows 32 bit nel gennaio 2026**  
+  Fonte: BleepingComputer, 19 Sep 2025, 12:14:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/software/steam-will-stop-running-on-windows-32-bit-in-january-2026/>)
+
+- **Esaminare il mercato dello spyware globale**  
+  Fonte: Schneier on Security, 19 Sep 2025, 11:01:02 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/surveying-the-global-spyware-market.html>)
+
+- **Come automatizzare il triage di allerta con agenti di intelligenza artificiale e SOPs Confluence Using Tines**  
+  Fonte: The Hacker News, 19 Sep 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/how-to-automate-alert-triage-with-ai.html>)
+
+- **Gli hacker russi Gamaredon e Turla collaborano per distribuire backdoor kazuar in Ucraina**  
+  Fonte: The Hacker News, 19 Sep 2025, 08:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/russian-hackers-gamaredon-and-turla.html>)
+
+- **Vastaamo Psychotherapy Hack: US Citizen accusato nell'ultima svolta della famigerata violazione dei dati**  
+  Fonte: Graham Cluley, 19 Sep 2025, 07:23:19 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/vastaamo-psychotherapy-hack-us-citizen-charged-in-latest-twist-of-notorious-data-breach>)
+
+- **Il Regno Unito arresta due hacker di ragno sparsi per adolescenti collegati all'attacco informatico TFL del 2024 agosto**  
+  Fonte: The Hacker News, 19 Sep 2025, 07:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/uk-arrest-two-teen-scattered-spider.html>)
+
 - **Sono stato Pwned Demo ora sono in diretta!**  
   Fonte: Troy Hunt, 19 Sep 2025, 05:49:55 UTC  
   [Leggi](<https://www.troyhunt.com/have-i-been-pwned-demos-are-now-live/>)
@@ -9,6 +81,14 @@
 - **CISA avverte di due ceppi di malware che sfruttano IVANTI EPMC CVE-2025-4427 e CVE-2025-4428**  
   Fonte: The Hacker News, 19 Sep 2025, 04:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/cisa-warns-of-two-malware-strains.html>)
+
+- **Il piano GP GPT da $ 4 di Openai potrebbe espandersi in più regioni**  
+  Fonte: BleepingComputer, 19 Sep 2025, 00:30:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openais-4-gpt-go-plan-may-expand-to-more-regions/>)
+
+- **La ricerca di chatgpt è ora più intelligente mentre OpenAI prende Google Search**  
+  Fonte: BleepingComputer, 18 Sep 2025, 23:10:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-is-now-smarter-as-openai-takes-on-google-search/>)
 
 - **Chatgpt ora ti dà un maggiore controllo sul modello di pensiero GPT-5**  
   Fonte: BleepingComputer, 18 Sep 2025, 22:20:56 UTC  
@@ -34,10 +114,6 @@
   Fonte: BleepingComputer, 18 Sep 2025, 13:50:04 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/notepad-gets-free-ai-features-on-copilot-plus-pcs-with-windows-11/>)
 
-- **PyPI invalida i token rubati in Attacco della catena di approvvigionamento di GhostAction**  
-  Fonte: BleepingComputer, 18 Sep 2025, 13:09:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pypi-invalidates-tokens-stolen-in-ghostaction-supply-chain-attack/>)
-
 - **CountLoader amplia le operazioni di ransomware russo con caricatore di malware multi-inversione**  
   Fonte: The Hacker News, 18 Sep 2025, 12:56:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/countloader-broadens-russian-ransomware.html>)
@@ -54,17 +130,9 @@
   Fonte: Schneier on Security, 18 Sep 2025, 11:06:38 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/time-of-check-time-of-use-attacks-against-llms.html>)
 
-- **WatchGuard avverte di vulnerabilità critica nei firewall Firebox**  
-  Fonte: BleepingComputer, 18 Sep 2025, 08:23:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/watchguard-warns-of-critical-vulnerability-in-firebox-firewalls/>)
-
 - **"Pompompurin" risenta: BreachForums Creator si dirige indietro dietro le sbarre**  
   Fonte: Graham Cluley, 18 Sep 2025, 07:57:12 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/pompompurin-resentenced-breachforums-creator-heads-back-behind-bars>)
-
-- **Google patch se il sesto Chrome Zero-Day ha sfruttato negli attacchi quest'anno**  
-  Fonte: BleepingComputer, 18 Sep 2025, 07:23:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-patches-sixth-chrome-zero-day-exploited-in-attacks-this-year/>)
 
 - **Patch di Google Chrome Zero-Day CVE-2025-10585 come Exploit V8 attivo minaccia milioni**  
   Fonte: The Hacker News, 18 Sep 2025, 05:49:00 UTC  
@@ -74,29 +142,13 @@
   Fonte: Graham Cluley, 17 Sep 2025, 23:00:51 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-435/>)
 
-- **Shinyhunters rivendica 1,5 miliardi di registri Salesforce rubati in hacks alla deriva**  
-  Fonte: BleepingComputer, 17 Sep 2025, 21:11:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-claims-15-billion-salesforce-records-stolen-in-drift-hacks/>)
-
 - **TA558 usa script generati dall'IA per distribuire Venom Rat in Brasile Hotel Attacks**  
   Fonte: The Hacker News, 17 Sep 2025, 18:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html>)
 
-- **VC Giant Insight Partners avverte migliaia dopo la violazione del ransomware**  
-  Fonte: BleepingComputer, 17 Sep 2025, 17:50:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-warns-thousands-after-ransomware-breach/>)
-
 - **Dal malizia al malware: ICO avverte le scuole sugli hacker degli studenti**  
   Fonte: Graham Cluley, 17 Sep 2025, 16:25:44 UTC  
   [Leggi](<https://www.fortra.com/blog/mischief-malware-ico-warns-schools-about-student-hackers>)
-
-- **Sonicwall avverte i clienti di ripristinare le credenziali dopo la violazione**  
-  Fonte: BleepingComputer, 17 Sep 2025, 16:23:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-warns-customers-to-reset-credentials-after-MySonicWall-breach/>)
-
-- **Microsoft: Office 2016 e Office 2019 Reach Fine of Support il mese prossimo**  
-  Fonte: BleepingComputer, 17 Sep 2025, 14:57:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-reach-end-of-support-next-month/>)
 
 - **Cinese TA415 usa i tunnel remoti del codice per spiare gli esperti di politica economica degli Stati Uniti**  
   Fonte: The Hacker News, 17 Sep 2025, 12:56:00 UTC  
@@ -206,37 +258,5 @@
   Fonte: Troy Hunt, 13 Sep 2025, 07:42:33 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-469/>)
 
-- **Valutare la qualità dei calamari secchi**  
-  Fonte: Schneier on Security, 12 Sep 2025, 21:05:12 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/assessing-the-quality-of-dried-squid.html>)
 
-- **Un quadro di notifica della vittima di attacchi informatici**  
-  Fonte: Schneier on Security, 12 Sep 2025, 21:04:34 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/a-cyberattack-victim-notification-framework.html>)
-
-- **Samsung corregge la critica CVE-2025-21043 Critical-Day sfruttata in attacchi Android**  
-  Fonte: The Hacker News, 12 Sep 2025, 15:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/samsung-fixes-critical-zero-day-cve.html>)
-
-- **Apple avverte gli utenti francesi della quarta campagna spyware nel 2025, CERT-FR conferma**  
-  Fonte: The Hacker News, 12 Sep 2025, 14:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/apple-warns-french-users-of-fourth.html>)
-
-- **I passeggeri della ferrovia britannica hanno invitato a rimanere in guardia dopo il fallimento dei segnali di hacking**  
-  Fonte: Graham Cluley, 12 Sep 2025, 14:42:02 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/british-rail-passengers-hack-signals-failure>)
-
-- **Nuovo HybridPetya Ransomware bypass Woot Secure UEFI con Exploit CVE-2024-7344**  
-  Fonte: The Hacker News, 12 Sep 2025, 11:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/new-hybridpetya-ransomware-bypasses.html>)
-
-- **Critical CVE-2025-5086 a Delmia Apriso sfruttato attivamente, la CISA emette un avvertimento**  
-  Fonte: The Hacker News, 12 Sep 2025, 11:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/critical-cve-2025-5086-in-delmia-apriso.html>)
-
-- **Sicurezza nativa sul cloud nel 2025: perché la visibilità di runtime deve essere al centro della scena**  
-  Fonte: The Hacker News, 12 Sep 2025, 08:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/cloud-native-security-in-2025-why.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-19 06:18:11 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-20 06:15:42 UTC -->
