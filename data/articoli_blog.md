@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Canada Smanteles TradeGre Exchange, coglie $ 40 milioni in criptovaluta**  
+  Fonte: BleepingComputer, 20 Sep 2025, 17:11:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/>)
+
+- **LastPass avverte di falsi repository che infettano i macos con l'infostealer atomico**  
+  Fonte: The Hacker News, 20 Sep 2025, 07:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html>)
+
+- **I ricercatori scoprono malware malterminali alimentati da GPT-4 creando ransomware, shell inversa**  
+  Fonte: The Hacker News, 20 Sep 2025, 05:48:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html>)
+
 - **Shadowleak Zero-Click Flaw Fleaks Gmail Data tramite Openai Chatgpt Deep Research Agent**  
   Fonte: The Hacker News, 20 Sep 2025, 05:31:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html>)
@@ -105,14 +117,6 @@
 - **Sonicwall sollecita i ripristinati della password dopo la violazione del backup del cloud che ha colpito meno del 5% dei clienti**  
   Fonte: The Hacker News, 18 Sep 2025, 14:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/sonicwall-urges-password-resets-after.html>)
-
-- **Ambiente ricco di target: perché Microsoft 365 è diventato il rischio maggiore**  
-  Fonte: BleepingComputer, 18 Sep 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/target-rich-environment-why-microsoft-365-has-become-the-biggest-risk/>)
-
-- **Notepad ottiene funzionalità AI gratuite su Copilot+ PC con Windows 11**  
-  Fonte: BleepingComputer, 18 Sep 2025, 13:50:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/notepad-gets-free-ai-features-on-copilot-plus-pcs-with-windows-11/>)
 
 - **CountLoader amplia le operazioni di ransomware russo con caricatore di malware multi-inversione**  
   Fonte: The Hacker News, 18 Sep 2025, 12:56:00 UTC  
@@ -250,13 +254,5 @@
   Fonte: Schneier on Security, 14 Sep 2025, 16:02:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/upcoming-speaking-engagements-48.html>)
 
-- **L'FBI avverte di UNC6040 e UNC6395 prendendo di mira le piattaforme Salesforce negli attacchi di furto di dati**  
-  Fonte: The Hacker News, 13 Sep 2025, 09:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html>)
 
-- **Aggiornamento settimanale 469**  
-  Fonte: Troy Hunt, 13 Sep 2025, 07:42:33 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-469/>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-20 06:15:42 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-21 06:15:31 UTC -->
