@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Patch Microsoft Critical ENTRA ID difetto che consente la rappresentazione dell'amministratore globale tra gli inquilini**  
+  Fonte: The Hacker News, 22 Sep 2025, 05:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html>)
+
+- **Microsoft Enter ID Flaw ha permesso di dirottare il locatario di qualsiasi azienda**  
+  Fonte: BleepingComputer, 21 Sep 2025, 17:30:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/>)
+
+- **Gli hacker DPRK utilizzano clickFix per consegnare malware di Beavertail in Crypto Job Scams**  
+  Fonte: The Hacker News, 21 Sep 2025, 10:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html>)
+
+- **Aggiornamento settimanale 470**  
+  Fonte: Troy Hunt, 21 Sep 2025, 08:35:20 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-470/>)
+
 - **Canada Smanteles TradeGre Exchange, coglie $ 40 milioni in criptovaluta**  
   Fonte: BleepingComputer, 20 Sep 2025, 17:11:40 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/>)
@@ -38,7 +54,7 @@
   Fonte: BleepingComputer, 19 Sep 2025, 15:46:44 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-exposes-malware-kits-deployed-in-ivanti-epmm-attacks/>)
 
-- **Systembc alimenta il proxy REM con 1.500 vittime di VPS su 80 server C2**  
+- **Systembc alimenta il proxy REM con 1.500 vittime di VPS giornaliere su server da 80 C2**  
   Fonte: The Hacker News, 19 Sep 2025, 14:26:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/systembc-powers-rem-proxy-with-1500.html>)
 
@@ -105,14 +121,6 @@
 - **Chatgpt ora ti dà un maggiore controllo sul modello di pensiero GPT-5**  
   Fonte: BleepingComputer, 18 Sep 2025, 22:20:56 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-now-gives-you-greater-control-over-gpt-5-thinking-model/>)
-
-- **Arresti adolescenti "Spider sparsi" del Regno Unito collegati al trasporto per London Hack**  
-  Fonte: BleepingComputer, 18 Sep 2025, 14:37:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-arrests-scattered-spider-teens-linked-to-transport-for-london-hack/>)
-
-- **SystemBC malware trasforma i sistemi VPS infetti in autostrada proxy**  
-  Fonte: BleepingComputer, 18 Sep 2025, 14:35:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/systembc-malware-turns-infected-vps-systems-into-proxy-highway/>)
 
 - **Sonicwall sollecita i ripristinati della password dopo la violazione del backup del cloud che ha colpito meno del 5% dei clienti**  
   Fonte: The Hacker News, 18 Sep 2025, 14:12:00 UTC  
@@ -246,13 +254,5 @@
   Fonte: The Hacker News, 15 Sep 2025, 07:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html>)
 
-- **HiddenGh0st, Winos e Kkrat Exploit SEO, GitHub Pages in attacchi di malware cinesi**  
-  Fonte: The Hacker News, 15 Sep 2025, 05:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/hiddengh0st-winos-and-kkrat-exploit-seo.html>)
 
-- **Imminenti impegni di lingua**  
-  Fonte: Schneier on Security, 14 Sep 2025, 16:02:45 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/upcoming-speaking-engagements-48.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-21 06:15:31 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-22 06:19:16 UTC -->
