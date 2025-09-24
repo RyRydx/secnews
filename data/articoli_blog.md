@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **Demo HIBP: interrogazione dell'API e la chiave di test gratuita!**  
+  Fonte: Troy Hunt, 23 Sep 2025, 23:24:08 UTC  
+  [Leggi](<https://www.troyhunt.com/hibp-demo-querying-the-api-and-the-free-test-key/>)
+
+- **Boyd Gaming rivela la violazione dei dati dopo aver subito un attacco informatico**  
+  Fonte: BleepingComputer, 23 Sep 2025, 22:25:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/boyd-gaming-discloses-data-breach-after-suffering-a-cyberattack/>)
+
+- **Due nuovi bug Supermicro BMC consentono al firmware dannoso di eludere la root of Trust Security**  
+  Fonte: The Hacker News, 23 Sep 2025, 18:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html>)
+
+- **Libraesva ESG emette una soluzione di emergenza per bug sfruttati dagli hacker statali**  
+  Fonte: BleepingComputer, 23 Sep 2025, 17:51:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/libraesva-esg-issues-emergency-fix-for-bug-exploited-by-state-hackers/>)
+
+- **Eurojust Arresti 5 in € 100 milioni di criptovaluta Investimento Frode che dura 23 paesi**  
+  Fonte: The Hacker News, 23 Sep 2025, 17:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/eurojust-arrests-5-in-100m.html>)
+
+- **WhatsApp aggiunge la traduzione dei messaggi alle app per iPhone e Android**  
+  Fonte: BleepingComputer, 23 Sep 2025, 17:11:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-adds-message-translation-to-iphone-and-android-apps/>)
+
+- **CloudFlare mitiga il nuovo attacco DDOS da 22,2 Tbps da record**  
+  Fonte: BleepingComputer, 23 Sep 2025, 15:58:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-new-record-breaking-222-tbps-ddos-attack/>)
+
+- **Il servizio segreto degli Stati Uniti sequestra 300 server SIM, 100k carte che minacciano funzionari statunitensi vicino alle un**  
+  Fonte: The Hacker News, 23 Sep 2025, 15:48:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/us-secret-service-seizes-300-sim.html>)
+
+- **CISA afferma che gli hacker hanno violato l'agenzia federale usando Geoserver Exploit**  
+  Fonte: BleepingComputer, 23 Sep 2025, 15:07:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-says-hackers-breached-federal-agency-using-geoserver-exploit/>)
+
+- **La polizia smantella l'anello di frode crittografo legata a € 100 milioni in perdite**  
+  Fonte: BleepingComputer, 23 Sep 2025, 14:16:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantles-crypto-fraud-ring-linked-to-100-million-in-losses/>)
+
+- **5 modi per semplificare la governance dell'identità con questo strumento gratuito**  
+  Fonte: BleepingComputer, 23 Sep 2025, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/5-ways-to-streamline-identity-governance-with-this-free-tool/>)
+
+- **L'IA Fix #69: come usiamo davvero GATGPT e gli agenti di intelligenza artificiali si schianteranno l'economia?**  
+  Fonte: Graham Cluley, 23 Sep 2025, 14:00:42 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-69/>)
+
+- **SolarWinds rilascia la terza patch per correggere il bug RCE dell'help desk web**  
+  Fonte: BleepingComputer, 23 Sep 2025, 13:41:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/solarwinds-releases-third-patch-to-fix-web-help-desk-rce-bug/>)
+
+- **Sonicwall rilascia l'aggiornamento del firmware SMA100 per pulire il malware rootkit**  
+  Fonte: BleepingComputer, 23 Sep 2025, 13:15:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-releases-sma100-firmware-update-to-wipe-rootkit-malware/>)
+
+- **SolarWinds rilascia HotFix per il difetto di esecuzione del codice remoto CVE-2025-26399 critico CVE-2025-26399**  
+  Fonte: The Hacker News, 23 Sep 2025, 12:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/solarwinds-releases-hotfix-for-critical.html>)
+
+- **GitHub stringe la sicurezza NPM con 2FA obbligatori, token di accesso**  
+  Fonte: BleepingComputer, 23 Sep 2025, 12:05:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/github-tightens-npm-security-with-mandatory-2fa-access-tokens/>)
+
+- **Squadre snelle, pali più alte: perché i CISO devono ripensare la bonifica degli incidenti**  
+  Fonte: The Hacker News, 23 Sep 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/lean-teams-higher-stakes-why-cisos-must.html>)
+
+- **Shadowv2 Botnet Exploit Contenitori Docker AWS non configurati per il servizio DDOS-For Hire**  
+  Fonte: The Hacker News, 23 Sep 2025, 11:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/shadowv2-botnet-exploits-misconfigured.html>)
+
+- **La nuova applicazione di integrità della memoria di Apple**  
+  Fonte: Schneier on Security, 23 Sep 2025, 11:07:17 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/apples-new-memory-integrity-enforcement.html>)
+
+- **Pacchetto NPM catturato utilizzando il codice QR per recuperare malware a furto di cookie**  
+  Fonte: BleepingComputer, 23 Sep 2025, 10:42:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/npm-package-caught-using-qr-code-to-fetch-cookie-stealing-malware/>)
+
+- **GitHub impone 2FA e token di breve durata per rafforzare la sicurezza della catena di approvvigionamento NPM**  
+  Fonte: The Hacker News, 23 Sep 2025, 09:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/github-mandates-2fa-and-short-lived.html>)
+
+- **Il malware Badiis si diffonde tramite avvelenamento SEO: reindirizza il traffico, shell di piante**  
+  Fonte: The Hacker News, 23 Sep 2025, 08:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/badiis-malware-spreads-via-seo.html>)
+
 - **Interruzioni dell'aeroporto in Europa causate da un attacco ransomware**  
   Fonte: BleepingComputer, 22 Sep 2025, 21:24:19 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/airport-disruptions-in-europe-caused-by-a-ransomware-attack/>)
@@ -10,37 +98,9 @@
   Fonte: BleepingComputer, 22 Sep 2025, 20:25:07 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/american-archive-of-public-broadcasting-fixes-bug-exposing-restricted-media/>)
 
-- **Il gigante della casa automobilistica Stellantide conferma la violazione dei dati dopo il Salesforce Hack**  
-  Fonte: BleepingComputer, 22 Sep 2025, 18:01:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/automaker-giant-stellantis-confirms-data-breach-after-salesforce-hack/>)
-
-- **Il nuovo strumento EDR Freeze utilizza Windows Wer per sospendere il software di sicurezza**  
-  Fonte: BleepingComputer, 22 Sep 2025, 17:07:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-edr-freeze-tool-uses-windows-wer-to-suspend-security-software/>)
-
-- **Microsoft solleva il blocco di aggiornamento di Windows 11 dopo la correzione del rilevamento facciale**  
-  Fonte: BleepingComputer, 22 Sep 2025, 16:56:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-windows-11-safeguard-hold-after-fixing-face-detection-bug/>)
-
-- **Mozilla ora consente agli sviluppatori aggiuntivi di Firefox di roll back Bad Aggiornamenti**  
-  Fonte: BleepingComputer, 22 Sep 2025, 15:53:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/software/mozilla-now-lets-firefox-add-on-devs-roll-back-bad-updates/>)
-
 - **Hacker Comicform e SectorJ149 distribuiscono malware di formbook inttati informatici eurasiatici**  
   Fonte: The Hacker News, 22 Sep 2025, 15:40:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/comicform-and-sectorj149-hackers-deploy.html>)
-
-- **LastPass: gestori di password false infettano gli utenti Mac con malware**  
-  Fonte: BleepingComputer, 22 Sep 2025, 15:36:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/lastpass-fake-password-managers-infect-mac-users-with-malware/>)
-
-- **Perché gli aggressori stanno andando oltre gli attacchi di phishing basati su e-mail**  
-  Fonte: BleepingComputer, 22 Sep 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-attackers-are-moving-beyond-email-based-phishing-attacks/>)
-
-- **Microsoft afferma che i recenti aggiornamenti causano problemi di riproduzione video DRM**  
-  Fonte: BleepingComputer, 22 Sep 2025, 13:55:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-updates-cause-drm-video-playback-issues/>)
 
 - **⚡ Riepilogo settimanale: Chrome 0-Day, AI Hacking Strumenti, DDR5 Bit-Flips, NPM WORM e altro ancora**  
   Fonte: The Hacker News, 22 Sep 2025, 11:47:00 UTC  
@@ -54,17 +114,9 @@
   Fonte: The Hacker News, 22 Sep 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/how-to-gain-control-of-ai-agents-and.html>)
 
-- **Il gioco a vapore verificato ruba le donazioni di trattamento del cancro dello streamer**  
-  Fonte: BleepingComputer, 22 Sep 2025, 09:28:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/verified-steam-game-steals-streamers-cancer-treatment-donations/>)
-
 - **Patch Microsoft Critical ENTRA ID difetto che consente la rappresentazione dell'amministratore globale tra gli inquilini**  
   Fonte: The Hacker News, 22 Sep 2025, 05:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html>)
-
-- **Microsoft Enter ID difetto ha permesso di dirottare il locatario di qualsiasi azienda**  
-  Fonte: BleepingComputer, 21 Sep 2025, 17:30:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/>)
 
 - **Gli hacker DPRK utilizzano clickFix per consegnare malware di Beavertail in Crypto Job Scams**  
   Fonte: The Hacker News, 21 Sep 2025, 10:56:00 UTC  
@@ -73,10 +125,6 @@
 - **Aggiornamento settimanale 470**  
   Fonte: Troy Hunt, 21 Sep 2025, 08:35:20 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-470/>)
-
-- **Canada Smanteles TradeGre Exchange, coglie $ 40 milioni in criptovaluta**  
-  Fonte: BleepingComputer, 20 Sep 2025, 17:11:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/>)
 
 - **LastPass avverte di falsi repository che infettano i macos con l'infostealer atomico**  
   Fonte: The Hacker News, 20 Sep 2025, 07:07:00 UTC  
@@ -206,49 +254,5 @@
   Fonte: The Hacker News, 17 Sep 2025, 06:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html>)
 
-- **Network di phishing Raccoono365 smantellata da Microsoft, CloudFlare abbatte 338 domini**  
-  Fonte: The Hacker News, 17 Sep 2025, 04:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html>)
 
-- **CHAOS MESH Critical Graphql Flaws Abilita RCE e Full Kubernetes Cluster Takeover**  
-  Fonte: The Hacker News, 16 Sep 2025, 16:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/chaos-mesh-critical-graphql-flaws.html>)
-
-- **Slopads Fraud Ring Exploits 224 app Android per guidare 2,3 miliardi di offerte pubblicitarie giornaliere**  
-  Fonte: The Hacker News, 16 Sep 2025, 14:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/slopads-fraud-ring-exploits-224-android.html>)
-
-- **I worm autoreplicanti colpiscono 180+ pacchetti software**  
-  Fonte: Krebs on Security, 16 Sep 2025, 14:08:02 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/>)
-
-- **Marchi di moda di lusso Gucci, Balenciaga e Alexander McQueen hackerato - Dati dei clienti rubati**  
-  Fonte: Graham Cluley, 16 Sep 2025, 14:03:02 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/luxury-fashion-brands-gucci-balenciaga-and-alexander-mcqueen-hacked-customer-data-stolen>)
-
-- **L'IA Fix #68: AI Telepathy e Rights for Robots**  
-  Fonte: Graham Cluley, 16 Sep 2025, 14:00:40 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-68/>)
-
-- **La nuova variante FileFix offre malware STEALC tramite sito multilingue di phishing**  
-  Fonte: The Hacker News, 16 Sep 2025, 12:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html>)
-
-- **Microsoft utilizza ancora RC4**  
-  Fonte: Schneier on Security, 16 Sep 2025, 11:06:44 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/microsoft-still-uses-rc4.html>)
-
-- **Fissa di Apple Backports per CVE-2025-43300 sfruttato in sofisticato attacco di spyware**  
-  Fonte: The Hacker News, 16 Sep 2025, 11:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/apple-backports-fix-for-cve-2025-43300.html>)
-
-- **Assicurare l'era agente: introdurre il piano di controllo dell'agente AI di Astrix**  
-  Fonte: The Hacker News, 16 Sep 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/securing-agentic-era-introducing.html>)
-
-- **L'attacco di Phoenix Rowhammer bypassa le protezioni di memoria avanzate DDR5 in 109 secondi**  
-  Fonte: The Hacker News, 16 Sep 2025, 07:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-23 06:18:42 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-24 06:18:22 UTC -->
