@@ -2,6 +2,102 @@
 
 ## Ultimi 7 giorni
 
+- **Smashing Security Podcast #436: la rapina d'oro da € 600.000, alimentata da Ransomware**  
+  Fonte: Graham Cluley, 24 Sep 2025, 23:00:47 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-436/>)
+
+- **I nuovi difetti di Supermicro BMC possono creare backdoor persistenti**  
+  Fonte: BleepingComputer, 24 Sep 2025, 20:13:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-supermicro-bmc-flaws-can-create-persistent-backdoors/>)
+
+- **Openi sta testando un nuovo agente AI con sede a GPT-5 "GPT-Alpha"**  
+  Fonte: BleepingComputer, 24 Sep 2025, 20:09:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-a-new-gpt-5-based-ai-agent-gpt-alpha/>)
+
+- **Kali Linux 2025.3 rilasciato con 10 nuovi strumenti, miglioramenti Wi-Fi**  
+  Fonte: BleepingComputer, 24 Sep 2025, 18:30:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/kali-linux-20253-released-with-10-new-tools-wifi-enhancements/>)
+
+- **Cisco avverte di vulnerabilità a zero-day iOS sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 24 Sep 2025, 16:52:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-ios-zero-day-vulnerability-exploited-in-attacks/>)
+
+- **Hacker cinesi rednovember bersaglio governi globali utilizzando Pantegana e Cobalt Strike**  
+  Fonte: The Hacker News, 24 Sep 2025, 16:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/chinese-hackers-rednovember-target.html>)
+
+- **Inc Ransomware: quello che devi sapere**  
+  Fonte: Graham Cluley, 24 Sep 2025, 16:15:55 UTC  
+  [Leggi](<https://www.fortra.com/blog/inc-ransomware-what-need-know>)
+
+- **Difetto non impacciato nei telefoni OnePlus consente ai messaggi di testo di Rogue**  
+  Fonte: BleepingComputer, 24 Sep 2025, 15:48:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/unpatched-flaw-in-oneplus-phones-lets-rogue-apps-text-messages/>)
+
+- **La polizia prende 439 milioni di dollari rubati da anelli di criminalità informatica in tutto il mondo**  
+  Fonte: BleepingComputer, 24 Sep 2025, 15:23:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-seizes-439-million-stolen-by-cybercrime-rings-worldwide/>)
+
+- **UNC5221 utilizza il backdoor di brickstorm per infiltrarsi in settori legali e tecnologici statunitensi**  
+  Fonte: The Hacker News, 24 Sep 2025, 14:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html>)
+
+- **Oscura, una nuova variante ransomware oscura**  
+  Fonte: BleepingComputer, 24 Sep 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/obscura-an-obscure-new-ransomware-variant/>)
+
+- **Google: malware di brickstorm utilizzato per rubare i dati delle organizzazioni statunitensi per oltre un anno**  
+  Fonte: BleepingComputer, 24 Sep 2025, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-brickstorm-malware-used-to-steal-us-orgs-data-for-over-a-year/>)
+
+- **Sicuro automaticamente: come abbiamo aggiornato 6.000.000 di domini per impostazione predefinita per prepararsi per il futuro quantistico**  
+  Fonte: Cloudflare Blog - Security, 24 Sep 2025, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/automatically-secure/>)
+
+- **Gli arresti del Regno Unito sospettano per l'attacco di ransomware RTX causando interruzioni dell'aeroporto**  
+  Fonte: BleepingComputer, 24 Sep 2025, 13:55:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-arrests-suspect-for-rtx-ransomware-attack-causing-airport-disruptions/>)
+
+- **Due difetti critici scoperti in WondersHare RepairIt che espongono i dati degli utenti e i modelli AI**  
+  Fonte: The Hacker News, 24 Sep 2025, 13:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html>)
+
+- **PYPI esorta gli utenti a ripristinare le credenziali dopo nuovi attacchi di phishing**  
+  Fonte: BleepingComputer, 24 Sep 2025, 13:15:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pypi-urges-users-to-reset-credentials-after-new-phishing-attacks/>)
+
+- **Notifiche GitHub Abusato per impersonare il combinatori per il furto di cripto**  
+  Fonte: BleepingComputer, 24 Sep 2025, 12:37:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/github-notifications-abused-to-impersonate-y-combinator-for-crypto-theft/>)
+
+- **Come una brutta password ha concluso un'attività di 158 anni**  
+  Fonte: The Hacker News, 24 Sep 2025, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html>)
+
+- **I federali legano il duo "sparso ragno" a $ 115 milioni in riscatto**  
+  Fonte: Krebs on Security, 24 Sep 2025, 11:48:31 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/>)
+
+- **Il nuovo malware Yibackdoor condivide il codice principale sovrapposizioni con Icedid e Latrodectus**  
+  Fonte: The Hacker News, 24 Sep 2025, 11:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html>)
+
+- **Gli Stati Uniti interrompe un enorme array di telefoni cellulari a New York**  
+  Fonte: Schneier on Security, 24 Sep 2025, 11:09:19 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/us-disrupts-massive-cell-phone-array-in-new-york.html>)
+
+- **IFRAME Sicurezza esposta: il punto cieco che alimenta gli attacchi di skimmer di pagamento**  
+  Fonte: The Hacker News, 24 Sep 2025, 11:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html>)
+
+- **Hacker Exploit Pandoc CVE-2025-51591 per target AWS IMDS e rubare le credenziali EC2 iam**  
+  Fonte: The Hacker News, 24 Sep 2025, 07:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html>)
+
+- **Hacker sponsorizzati dallo stato che sfruttano Libraesva Email Security Gateway Vulnerability**  
+  Fonte: The Hacker News, 24 Sep 2025, 06:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/state-sponsored-hackers-exploiting.html>)
+
 - **Demo HIBP: interrogazione dell'API e la chiave di test gratuita!**  
   Fonte: Troy Hunt, 23 Sep 2025, 23:24:08 UTC  
   [Leggi](<https://www.troyhunt.com/hibp-demo-querying-the-api-and-the-free-test-key/>)
@@ -14,57 +110,21 @@
   Fonte: The Hacker News, 23 Sep 2025, 18:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html>)
 
-- **Libraesva ESG emette una soluzione di emergenza per bug sfruttati dagli hacker statali**  
-  Fonte: BleepingComputer, 23 Sep 2025, 17:51:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/libraesva-esg-issues-emergency-fix-for-bug-exploited-by-state-hackers/>)
-
 - **Eurojust Arresti 5 in € 100 milioni di criptovaluta Investimento Frode che dura 23 paesi**  
   Fonte: The Hacker News, 23 Sep 2025, 17:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/eurojust-arrests-5-in-100m.html>)
-
-- **WhatsApp aggiunge la traduzione dei messaggi alle app per iPhone e Android**  
-  Fonte: BleepingComputer, 23 Sep 2025, 17:11:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-adds-message-translation-to-iphone-and-android-apps/>)
-
-- **CloudFlare mitiga il nuovo attacco DDOS da 22,2 Tbps da record**  
-  Fonte: BleepingComputer, 23 Sep 2025, 15:58:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-new-record-breaking-222-tbps-ddos-attack/>)
 
 - **Il servizio segreto degli Stati Uniti sequestra 300 server SIM, 100k carte che minacciano funzionari statunitensi vicino alle un**  
   Fonte: The Hacker News, 23 Sep 2025, 15:48:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/us-secret-service-seizes-300-sim.html>)
 
-- **CISA afferma che gli hacker hanno violato l'agenzia federale usando Geoserver Exploit**  
-  Fonte: BleepingComputer, 23 Sep 2025, 15:07:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-says-hackers-breached-federal-agency-using-geoserver-exploit/>)
-
-- **La polizia smantella l'anello di frode crittografo legata a € 100 milioni in perdite**  
-  Fonte: BleepingComputer, 23 Sep 2025, 14:16:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantles-crypto-fraud-ring-linked-to-100-million-in-losses/>)
-
-- **5 modi per semplificare la governance dell'identità con questo strumento gratuito**  
-  Fonte: BleepingComputer, 23 Sep 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/5-ways-to-streamline-identity-governance-with-this-free-tool/>)
-
 - **L'IA Fix #69: come usiamo davvero GATGPT e gli agenti di intelligenza artificiali si schianteranno l'economia?**  
   Fonte: Graham Cluley, 23 Sep 2025, 14:00:42 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-69/>)
 
-- **SolarWinds rilascia la terza patch per correggere il bug RCE dell'help desk web**  
-  Fonte: BleepingComputer, 23 Sep 2025, 13:41:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/solarwinds-releases-third-patch-to-fix-web-help-desk-rce-bug/>)
-
-- **Sonicwall rilascia l'aggiornamento del firmware SMA100 per pulire il malware rootkit**  
-  Fonte: BleepingComputer, 23 Sep 2025, 13:15:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-releases-sma100-firmware-update-to-wipe-rootkit-malware/>)
-
 - **SolarWinds rilascia HotFix per il difetto di esecuzione del codice remoto CVE-2025-26399 critico CVE-2025-26399**  
   Fonte: The Hacker News, 23 Sep 2025, 12:46:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/solarwinds-releases-hotfix-for-critical.html>)
-
-- **GitHub stringe la sicurezza NPM con 2FA obbligatori, token di accesso**  
-  Fonte: BleepingComputer, 23 Sep 2025, 12:05:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/github-tightens-npm-security-with-mandatory-2fa-access-tokens/>)
 
 - **Squadre snelle, pali più alte: perché i CISO devono ripensare la bonifica degli incidenti**  
   Fonte: The Hacker News, 23 Sep 2025, 11:30:00 UTC  
@@ -78,10 +138,6 @@
   Fonte: Schneier on Security, 23 Sep 2025, 11:07:17 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/apples-new-memory-integrity-enforcement.html>)
 
-- **Pacchetto NPM catturato utilizzando il codice QR per recuperare malware a furto di cookie**  
-  Fonte: BleepingComputer, 23 Sep 2025, 10:42:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/npm-package-caught-using-qr-code-to-fetch-cookie-stealing-malware/>)
-
 - **GitHub impone 2FA e token di breve durata per rafforzare la sicurezza della catena di approvvigionamento NPM**  
   Fonte: The Hacker News, 23 Sep 2025, 09:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/github-mandates-2fa-and-short-lived.html>)
@@ -89,14 +145,6 @@
 - **Il malware Badiis si diffonde tramite avvelenamento SEO: reindirizza il traffico, shell di piante**  
   Fonte: The Hacker News, 23 Sep 2025, 08:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/badiis-malware-spreads-via-seo.html>)
-
-- **Interruzioni dell'aeroporto in Europa causate da un attacco ransomware**  
-  Fonte: BleepingComputer, 22 Sep 2025, 21:24:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/airport-disruptions-in-europe-caused-by-a-ransomware-attack/>)
-
-- **American Archive of Public Broadcasting Fixs Bug Exponing Media limited**  
-  Fonte: BleepingComputer, 22 Sep 2025, 20:25:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/american-archive-of-public-broadcasting-fixes-bug-exposing-restricted-media/>)
 
 - **Hacker Comicform e SectorJ149 distribuiscono malware di formbook inttati informatici eurasiatici**  
   Fonte: The Hacker News, 22 Sep 2025, 15:40:00 UTC  
@@ -214,45 +262,5 @@
   Fonte: Graham Cluley, 18 Sep 2025, 07:57:12 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/pompompurin-resentenced-breachforums-creator-heads-back-behind-bars>)
 
-- **Patch di Google Chrome Zero-Day CVE-2025-10585 come Exploit V8 attivo minaccia milioni**  
-  Fonte: The Hacker News, 18 Sep 2025, 05:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html>)
 
-- **Smashing Security Podcast #435: luci!Telecamera!Hacktion!**  
-  Fonte: Graham Cluley, 17 Sep 2025, 23:00:51 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-435/>)
-
-- **TA558 usa script generati dall'IA per distribuire Venom Rat in Brasile Hotel Attacks**  
-  Fonte: The Hacker News, 17 Sep 2025, 18:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html>)
-
-- **Dal malizia al malware: ICO avverte le scuole sugli hacker degli studenti**  
-  Fonte: Graham Cluley, 17 Sep 2025, 16:25:44 UTC  
-  [Leggi](<https://www.fortra.com/blog/mischief-malware-ico-warns-schools-about-student-hackers>)
-
-- **Cinese TA415 usa i tunnel remoti del codice per spiare gli esperti di politica economica degli Stati Uniti**  
-  Fonte: The Hacker News, 17 Sep 2025, 12:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html>)
-
-- **Dagli hack quantistici alle difese di intelligenza artificiale - Guida esperta alla costruzione di resilienza informatica infrangibile**  
-  Fonte: The Hacker News, 17 Sep 2025, 12:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html>)
-
-- **Hacking di casse elettroniche**  
-  Fonte: Schneier on Security, 17 Sep 2025, 11:05:59 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/hacking-electronic-safes.html>)
-
-- **Ripensare la sicurezza dei dati AI: una guida per l'acquirente**  
-  Fonte: The Hacker News, 17 Sep 2025, 11:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html>)
-
-- **Spider sparso si ripresenta con attacchi del settore finanziario nonostante le richieste di pensionamento**  
-  Fonte: The Hacker News, 17 Sep 2025, 08:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html>)
-
-- **DOJ Resentlences BreachForums Fondatore a 3 anni per criminalità informatica e possesso di CSAM**  
-  Fonte: The Hacker News, 17 Sep 2025, 06:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-24 06:18:22 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-25 06:18:12 UTC -->
