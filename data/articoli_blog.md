@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **Cisco ASA Firewall Exploit zero-day distribuisce rayiniliator e line di malware Viper**  
+  Fonte: The Hacker News, 26 Sep 2025, 05:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/cisco-asa-firewall-zero-day-exploits.html>)
+
+- **Microsoft avverte della nuova variante di malware MACOS XCSSET mira a Xcode Devs**  
+  Fonte: BleepingComputer, 25 Sep 2025, 22:49:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-xcsset-macos-malware-variant-targeting-xcode-devs/>)
+
+- **MCP NPM non ufficiale MCP NPM ha rubato silenziosamente le e -mail degli utenti**  
+  Fonte: BleepingComputer, 25 Sep 2025, 20:23:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/>)
+
+- **Urgente: duo di Cisco ASA Zero-Day sotto attacco;CISA innesca la direttiva di mitigazione di emergenza**  
+  Fonte: The Hacker News, 25 Sep 2025, 18:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/urgent-cisco-asa-zero-day-duo-under.html>)
+
+- **Co-op dice che ha perso $ 107 milioni dopo l'attacco di ragno sparso**  
+  Fonte: BleepingComputer, 25 Sep 2025, 18:05:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/co-op-says-it-lost-107-million-after-scattered-spider-attack/>)
+
+- **CISA ordina le agenzie di patch difetti Cisco sfruttati in attacchi a zero giorni**  
+  Fonte: BleepingComputer, 25 Sep 2025, 17:52:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-cisco-flaws-exploited-in-zero-day-attacks/>)
+
+- **Bollettino di minacce di minacce: patch rootkit, violazione federale, perdita SMS OnePlus, scandalo Tiktok e altro**  
+  Fonte: The Hacker News, 25 Sep 2025, 17:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html>)
+
+- **Vane Viper genera 1 trilione di query DNS per alimentare il malware globale e la rete di frodi pubblicitarie**  
+  Fonte: The Hacker News, 25 Sep 2025, 17:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/vane-viper-generates-1-trillion-dns.html>)
+
+- **Cisco avverte di ASA Firewall Zero-Days sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 25 Sep 2025, 16:49:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/>)
+
+- **Amazon paga $ 2,5 miliardi per risolvere la causa per le iscrizioni Prime**  
+  Fonte: BleepingComputer, 25 Sep 2025, 16:21:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/technology/amazon-pays-25-billion-to-settle-prime-memberships-lawsuit/>)
+
+- **Pacchetti di ruggine maliziose su casse.io ruba tasti di portafoglio cripto**  
+  Fonte: BleepingComputer, 25 Sep 2025, 15:43:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-rust-packages-on-cratesio-steal-crypto-wallet-keys/>)
+
+- **Patch Salesforce BUG CRITICO PRIMAZIONE ESPOSIZIONE DATI CRM tramite Iniezione prompt AI**  
+  Fonte: The Hacker News, 25 Sep 2025, 15:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html>)
+
+- **Quanto sono sicuri i passkeys, davvero?Ecco cosa devi sapere**  
+  Fonte: BleepingComputer, 25 Sep 2025, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-secure-are-passkeys-really-heres-what-you-need-to-know/>)
+
+- **Sicuro nella sandbox: indurimento per la sicurezza per gli operatori cloudflare**  
+  Fonte: Cloudflare Blog - Security, 25 Sep 2025, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/safe-in-the-sandbox-security-hardening-for-cloudflare-workers/>)
+
+- **Gli hacker nordcoreani usano il nuovo backdoor Akdoortea per colpire gli sviluppatori di criptovalute globali**  
+  Fonte: The Hacker News, 25 Sep 2025, 13:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/north-korean-hackers-use-new-akdoortea.html>)
+
+- **Teen sospettato di attacchi informatici da casinò di Lasino rilasciati ai genitori**  
+  Fonte: BleepingComputer, 25 Sep 2025, 12:51:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/teen-suspected-of-vegas-casino-cyberattacks-released-to-parents/>)
+
+- **Microsoft offrirà aggiornamenti estesi di sicurezza di Windows 10 gratuiti in Europa**  
+  Fonte: BleepingComputer, 25 Sep 2025, 12:45:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-will-offer-free-windows-10-security-updates-in-europe/>)
+
+- **Core di CTEM: prioritizzazione e validazione**  
+  Fonte: The Hacker News, 25 Sep 2025, 11:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/ctems-core-prioritization-and-validation.html>)
+
+- **La tecnologia supera i giochi come Top DDoS Attack Target, il nuovo rapporto Radar Gcore trova**  
+  Fonte: The Hacker News, 25 Sep 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/tech-overtakes-gaming-as-top-ddos.html>)
+
+- **Servizio di creazione URL dall'aspetto dannoso**  
+  Fonte: Schneier on Security, 25 Sep 2025, 11:02:27 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/malicious-looking-url-creation-service.html>)
+
+- **Casse di ruggine dannose rubano Solana ed Ethereum Keys - 8.424 download confermati**  
+  Fonte: The Hacker News, 25 Sep 2025, 07:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/malicious-rust-crates-steal-solana-and.html>)
+
+- **Cisco avverte della vulnerabilità SNMP attivamente sfruttata che consente RCE o DOS nel software iOS**  
+  Fonte: The Hacker News, 25 Sep 2025, 06:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/cisco-warns-of-actively-exploited-snmp.html>)
+
 - **Smashing Security Podcast #436: la rapina d'oro da € 600.000, alimentata da Ransomware**  
   Fonte: Graham Cluley, 24 Sep 2025, 23:00:47 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-436/>)
@@ -18,10 +106,6 @@
   Fonte: BleepingComputer, 24 Sep 2025, 18:30:02 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/kali-linux-20253-released-with-10-new-tools-wifi-enhancements/>)
 
-- **Cisco avverte di vulnerabilità a zero-day iOS sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 24 Sep 2025, 16:52:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-ios-zero-day-vulnerability-exploited-in-attacks/>)
-
 - **Hacker cinesi rednovember bersaglio governi globali utilizzando Pantegana e Cobalt Strike**  
   Fonte: The Hacker News, 24 Sep 2025, 16:36:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/chinese-hackers-rednovember-target.html>)
@@ -30,45 +114,17 @@
   Fonte: Graham Cluley, 24 Sep 2025, 16:15:55 UTC  
   [Leggi](<https://www.fortra.com/blog/inc-ransomware-what-need-know>)
 
-- **Difetto non impacciato nei telefoni OnePlus consente ai messaggi di testo di Rogue**  
-  Fonte: BleepingComputer, 24 Sep 2025, 15:48:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/unpatched-flaw-in-oneplus-phones-lets-rogue-apps-text-messages/>)
-
-- **La polizia prende 439 milioni di dollari rubati da anelli di criminalità informatica in tutto il mondo**  
-  Fonte: BleepingComputer, 24 Sep 2025, 15:23:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-seizes-439-million-stolen-by-cybercrime-rings-worldwide/>)
-
 - **UNC5221 utilizza il backdoor di brickstorm per infiltrarsi in settori legali e tecnologici statunitensi**  
   Fonte: The Hacker News, 24 Sep 2025, 14:33:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html>)
-
-- **Oscura, una nuova variante ransomware oscura**  
-  Fonte: BleepingComputer, 24 Sep 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/obscura-an-obscure-new-ransomware-variant/>)
-
-- **Google: malware di brickstorm utilizzato per rubare i dati delle organizzazioni statunitensi per oltre un anno**  
-  Fonte: BleepingComputer, 24 Sep 2025, 14:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-brickstorm-malware-used-to-steal-us-orgs-data-for-over-a-year/>)
 
 - **Sicuro automaticamente: come abbiamo aggiornato 6.000.000 di domini per impostazione predefinita per prepararsi per il futuro quantistico**  
   Fonte: Cloudflare Blog - Security, 24 Sep 2025, 14:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/automatically-secure/>)
 
-- **Gli arresti del Regno Unito sospettano per l'attacco di ransomware RTX causando interruzioni dell'aeroporto**  
-  Fonte: BleepingComputer, 24 Sep 2025, 13:55:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-arrests-suspect-for-rtx-ransomware-attack-causing-airport-disruptions/>)
-
 - **Due difetti critici scoperti in WondersHare RepairIt che espongono i dati degli utenti e i modelli AI**  
   Fonte: The Hacker News, 24 Sep 2025, 13:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html>)
-
-- **PYPI esorta gli utenti a ripristinare le credenziali dopo nuovi attacchi di phishing**  
-  Fonte: BleepingComputer, 24 Sep 2025, 13:15:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pypi-urges-users-to-reset-credentials-after-new-phishing-attacks/>)
-
-- **Notifiche GitHub Abusato per impersonare il combinatori per il furto di cripto**  
-  Fonte: BleepingComputer, 24 Sep 2025, 12:37:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/github-notifications-abused-to-impersonate-y-combinator-for-crypto-theft/>)
 
 - **Come una brutta password ha concluso un'attività di 158 anni**  
   Fonte: The Hacker News, 24 Sep 2025, 11:58:00 UTC  
@@ -102,11 +158,7 @@
   Fonte: Troy Hunt, 23 Sep 2025, 23:24:08 UTC  
   [Leggi](<https://www.troyhunt.com/hibp-demo-querying-the-api-and-the-free-test-key/>)
 
-- **Boyd Gaming rivela la violazione dei dati dopo aver subito un attacco informatico**  
-  Fonte: BleepingComputer, 23 Sep 2025, 22:25:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/boyd-gaming-discloses-data-breach-after-suffering-a-cyberattack/>)
-
-- **Due nuovi bug Supermicro BMC consentono al firmware dannoso di eludere la root of Trust Security**  
+- **Due nuovi bug Supermicro BMC consentono al firmware dannoso di eludere la sicurezza della fiducia**  
   Fonte: The Hacker News, 23 Sep 2025, 18:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html>)
 
@@ -230,37 +282,5 @@
   Fonte: The Hacker News, 19 Sep 2025, 07:05:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/uk-arrest-two-teen-scattered-spider.html>)
 
-- **Sono stato Pwned Demo ora sono in diretta!**  
-  Fonte: Troy Hunt, 19 Sep 2025, 05:49:55 UTC  
-  [Leggi](<https://www.troyhunt.com/have-i-been-pwned-demos-are-now-live/>)
 
-- **CISA avverte di due ceppi di malware che sfruttano IVANTI EPMC CVE-2025-4427 e CVE-2025-4428**  
-  Fonte: The Hacker News, 19 Sep 2025, 04:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/cisa-warns-of-two-malware-strains.html>)
-
-- **Sonicwall sollecita i ripristinati della password dopo la violazione del backup del cloud che ha colpito meno del 5% dei clienti**  
-  Fonte: The Hacker News, 18 Sep 2025, 14:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/sonicwall-urges-password-resets-after.html>)
-
-- **CountLoader amplia le operazioni di ransomware russo con caricatore di malware multi-inversione**  
-  Fonte: The Hacker News, 18 Sep 2025, 12:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/countloader-broadens-russian-ransomware.html>)
-
-- **Ratto silentync consegnato tramite due pacchetti PYPI dannosi rivolti agli sviluppatori di Python**  
-  Fonte: The Hacker News, 18 Sep 2025, 11:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/silentsync-rat-delivered-via-two.html>)
-
-- **Come i CISO possono guidare un'efficace governance dell'IA**  
-  Fonte: The Hacker News, 18 Sep 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/how-cisos-can-drive-effective-ai.html>)
-
-- **Attacchi di tempo all'uso del tempo di controllo contro LLMS**  
-  Fonte: Schneier on Security, 18 Sep 2025, 11:06:38 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/time-of-check-time-of-use-attacks-against-llms.html>)
-
-- **"Pompompurin" risenta: BreachForums Creator si dirige indietro dietro le sbarre**  
-  Fonte: Graham Cluley, 18 Sep 2025, 07:57:12 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/pompompurin-resentenced-breachforums-creator-heads-back-behind-bars>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-25 06:18:12 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-26 06:18:11 UTC -->
