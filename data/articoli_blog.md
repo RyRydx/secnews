@@ -2,6 +2,62 @@
 
 ## Ultimi 7 giorni
 
+- **Blogging di calamari del venerdì: jigging per i calamari**  
+  Fonte: Schneier on Security, 26 Sep 2025, 21:03:03 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-jigging-for-squid.html>)
+
+- **La nuova funzione AI di Microsoft organizzerà automaticamente le tue foto**  
+  Fonte: BleepingComputer, 26 Sep 2025, 19:41:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsofts-new-ai-feature-will-organize-your-photos-automatically/>)
+
+- **Gli investitori statunitensi prendono il controllo delle operazioni di Tiktok nel paese**  
+  Fonte: BleepingComputer, 26 Sep 2025, 17:01:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/government/us-investors-to-take-over-tiktok-operations-in-the-country/>)
+
+- **Microsoft condivide la correzione temporanea per gli errori e -mail crittografati di Outlook**  
+  Fonte: BleepingComputer, 26 Sep 2025, 16:43:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-encrypted-email-errors/>)
+
+- **I ricercatori espongono minacce di phishing SVG e Purerat che mirano all'Ucraina e al Vietnam**  
+  Fonte: The Hacker News, 26 Sep 2025, 16:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html>)
+
+- **Microsoft Edge per bloccare le estensioni maliziose**  
+  Fonte: BleepingComputer, 26 Sep 2025, 15:39:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-edge-to-block-malicious-sideloaded-extensions/>)
+
+- **I rischi cyber nascosti di distribuire AI generativa**  
+  Fonte: BleepingComputer, 26 Sep 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-hidden-cyber-risks-of-deploying-generative-ai/>)
+
+- **Severità massima goanywhere mft difettini sfruttato come zero giorno**  
+  Fonte: BleepingComputer, 26 Sep 2025, 13:50:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/maximum-severity-goanywhere-mft-flaw-exploited-as-zero-day/>)
+
+- **Microsoft rilascia l'aggiornamento di anteprima finale di Windows 10 22h2**  
+  Fonte: BleepingComputer, 26 Sep 2025, 13:32:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-the-final-windows-10-22h2-preview-update/>)
+
+- **La nuova campagna di malware ColdRiver si unisce a Bo Team e Bearlyfy negli attacchi informatici focalizzati in Russia**  
+  Fonte: The Hacker News, 26 Sep 2025, 12:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/new-coldriver-malware-campaign-joins-bo.html>)
+
+- **Crash test per la sicurezza: perché BAS è la prova della difesa, non ipotesi**  
+  Fonte: The Hacker News, 26 Sep 2025, 11:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/crash-tests-for-security-why-bas-is.html>)
+
+- **Modellazione delle minacce digitali sotto l'autoritarismo**  
+  Fonte: Schneier on Security, 26 Sep 2025, 11:04:48 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/digital-threat-modeling-under-authoritarianism.html>)
+
+- **Fortra goanywhere cvss 10 difetti sfruttati come 0 giorni a settimana prima della divulgazione pubblica**  
+  Fonte: The Hacker News, 26 Sep 2025, 09:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html>)
+
+- **Nuova variante MacOS XCSSET mira a Firefox con Clipper e Persistence Module**  
+  Fonte: The Hacker News, 26 Sep 2025, 09:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/new-macos-xcsset-variant-targets.html>)
+
 - **Cisco ASA Firewall Exploit zero-day distribuisce rayiniliator e line di malware Viper**  
   Fonte: The Hacker News, 26 Sep 2025, 05:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/cisco-asa-firewall-zero-day-exploits.html>)
@@ -42,17 +98,9 @@
   Fonte: BleepingComputer, 25 Sep 2025, 16:21:24 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/technology/amazon-pays-25-billion-to-settle-prime-memberships-lawsuit/>)
 
-- **Pacchetti di ruggine maliziose su casse.io ruba tasti di portafoglio cripto**  
-  Fonte: BleepingComputer, 25 Sep 2025, 15:43:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-rust-packages-on-cratesio-steal-crypto-wallet-keys/>)
-
 - **Patch Salesforce BUG CRITICO PRIMAZIONE ESPOSIZIONE DATI CRM tramite Iniezione prompt AI**  
   Fonte: The Hacker News, 25 Sep 2025, 15:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html>)
-
-- **Quanto sono sicuri i passkeys, davvero?Ecco cosa devi sapere**  
-  Fonte: BleepingComputer, 25 Sep 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-secure-are-passkeys-really-heres-what-you-need-to-know/>)
 
 - **Sicuro nella sandbox: indurimento per la sicurezza per gli operatori cloudflare**  
   Fonte: Cloudflare Blog - Security, 25 Sep 2025, 14:00:00 UTC  
@@ -61,14 +109,6 @@
 - **Gli hacker nordcoreani usano il nuovo backdoor Akdoortea per colpire gli sviluppatori di criptovalute globali**  
   Fonte: The Hacker News, 25 Sep 2025, 13:14:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/north-korean-hackers-use-new-akdoortea.html>)
-
-- **Teen sospettato di attacchi informatici da casinò di Lasino rilasciati ai genitori**  
-  Fonte: BleepingComputer, 25 Sep 2025, 12:51:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/teen-suspected-of-vegas-casino-cyberattacks-released-to-parents/>)
-
-- **Microsoft offrirà aggiornamenti estesi di sicurezza di Windows 10 gratuiti in Europa**  
-  Fonte: BleepingComputer, 25 Sep 2025, 12:45:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-will-offer-free-windows-10-security-updates-in-europe/>)
 
 - **Core di CTEM: prioritizzazione e validazione**  
   Fonte: The Hacker News, 25 Sep 2025, 11:49:00 UTC  
@@ -93,18 +133,6 @@
 - **Smashing Security Podcast #436: la rapina d'oro da € 600.000, alimentata da Ransomware**  
   Fonte: Graham Cluley, 24 Sep 2025, 23:00:47 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-436/>)
-
-- **I nuovi difetti di Supermicro BMC possono creare backdoor persistenti**  
-  Fonte: BleepingComputer, 24 Sep 2025, 20:13:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-supermicro-bmc-flaws-can-create-persistent-backdoors/>)
-
-- **Openi sta testando un nuovo agente AI con sede a GPT-5 "GPT-Alpha"**  
-  Fonte: BleepingComputer, 24 Sep 2025, 20:09:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-a-new-gpt-5-based-ai-agent-gpt-alpha/>)
-
-- **Kali Linux 2025.3 rilasciato con 10 nuovi strumenti, miglioramenti Wi-Fi**  
-  Fonte: BleepingComputer, 24 Sep 2025, 18:30:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/kali-linux-20253-released-with-10-new-tools-wifi-enhancements/>)
 
 - **Hacker cinesi rednovember bersaglio governi globali utilizzando Pantegana e Cobalt Strike**  
   Fonte: The Hacker News, 24 Sep 2025, 16:36:00 UTC  
@@ -230,57 +258,5 @@
   Fonte: The Hacker News, 20 Sep 2025, 07:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html>)
 
-- **I ricercatori scoprono malware malterminali alimentati da GPT-4 creando ransomware, shell inversa**  
-  Fonte: The Hacker News, 20 Sep 2025, 05:48:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html>)
 
-- **Shadowleak Zero-Click Flaw Fleaks Gmail Data tramite Openai Chatgpt Deep Research Agent**  
-  Fonte: The Hacker News, 20 Sep 2025, 05:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html>)
-
-- **Blogging di calamari del venerdì: calamari giganti contro balene blu**  
-  Fonte: Schneier on Security, 19 Sep 2025, 21:06:15 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-giant-squid-vs-blue-whale.html>)
-
-- **UNC1549 hacks 34 dispositivi in ​​11 aziende di telecomunicazioni tramite esca di lavoro LinkedIn e malware in minibike**  
-  Fonte: The Hacker News, 19 Sep 2025, 16:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/unc1549-hacks-34-devices-in-11-telecom.html>)
-
-- **Systembc alimenta il proxy REM con 1.500 vittime di VPS giornaliere su server da 80 C2**  
-  Fonte: The Hacker News, 19 Sep 2025, 14:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/systembc-powers-rem-proxy-with-1500.html>)
-
-- **Fortra rilascia patch critici per CVSS 10.0 Goanywhere MFT Vulnerability**  
-  Fonte: The Hacker News, 19 Sep 2025, 14:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/fortra-releases-critical-patch-for-cvss.html>)
-
-- **17.500 domini di phishing target 316 marchi in 74 paesi in phaas globale Surge**  
-  Fonte: The Hacker News, 19 Sep 2025, 14:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/17500-phishing-domains-target-316.html>)
-
-- **Non hai bisogno di hardware quantistico per la sicurezza post-quantum**  
-  Fonte: Cloudflare Blog - Security, 19 Sep 2025, 13:44:40 UTC  
-  [Leggi](<https://blog.cloudflare.com/you-dont-need-quantum-hardware/>)
-
-- **Esaminare il mercato dello spyware globale**  
-  Fonte: Schneier on Security, 19 Sep 2025, 11:01:02 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/surveying-the-global-spyware-market.html>)
-
-- **Come automatizzare il triage di allerta con agenti di intelligenza artificiale e SOPs Confluence Using Tines**  
-  Fonte: The Hacker News, 19 Sep 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/how-to-automate-alert-triage-with-ai.html>)
-
-- **Gli hacker russi Gamaredon e Turla collaborano per distribuire backdoor kazuar in Ucraina**  
-  Fonte: The Hacker News, 19 Sep 2025, 08:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/russian-hackers-gamaredon-and-turla.html>)
-
-- **Vastaamo Psychotherapy Hack: US Citizen accusato nell'ultima svolta della famigerata violazione dei dati**  
-  Fonte: Graham Cluley, 19 Sep 2025, 07:23:19 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/vastaamo-psychotherapy-hack-us-citizen-charged-in-latest-twist-of-notorious-data-breach>)
-
-- **Il Regno Unito arresta due hacker di ragno sparsi per adolescenti collegati all'attacco informatico TFL del 2024 agosto**  
-  Fonte: The Hacker News, 19 Sep 2025, 07:05:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/uk-arrest-two-teen-scattered-spider.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-26 06:18:11 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-27 06:14:22 UTC -->
