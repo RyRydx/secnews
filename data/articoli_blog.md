@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **I programmi di installazione di Microsoft Teams falsi spingono il malware di ostriche tramite malvertiti**  
+  Fonte: BleepingComputer, 27 Sep 2025, 19:49:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/>)
+
+- **Adolescenti olandesi arrestati per aver tentato di spiare in Europol per la Russia**  
+  Fonte: BleepingComputer, 27 Sep 2025, 14:17:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/>)
+
+- **Attacchi di malware plugx e tworn collegati in Cina Target Target Asian Telecom e ASEAN Networks**  
+  Fonte: The Hacker News, 27 Sep 2025, 12:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html>)
+
+- **Aggiornamento settimanale 471**  
+  Fonte: Troy Hunt, 27 Sep 2025, 06:50:57 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-471/>)
+
 - **Blogging di calamari del venerdì: jigging per i calamari**  
   Fonte: Schneier on Security, 26 Sep 2025, 21:03:03 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-jigging-for-squid.html>)
@@ -18,7 +34,7 @@
   Fonte: BleepingComputer, 26 Sep 2025, 16:43:48 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-encrypted-email-errors/>)
 
-- **I ricercatori espongono minacce di phishing SVG e Purerat che mirano all'Ucraina e al Vietnam**  
+- **I ricercatori espongono minacce di phishing che distribuiscono CountLoader e Purerat**  
   Fonte: The Hacker News, 26 Sep 2025, 16:40:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html>)
 
@@ -78,10 +94,6 @@
   Fonte: BleepingComputer, 25 Sep 2025, 18:05:14 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/co-op-says-it-lost-107-million-after-scattered-spider-attack/>)
 
-- **CISA ordina le agenzie di patch difetti Cisco sfruttati in attacchi a zero giorni**  
-  Fonte: BleepingComputer, 25 Sep 2025, 17:52:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-cisco-flaws-exploited-in-zero-day-attacks/>)
-
 - **Bollettino di minacce di minacce: patch rootkit, violazione federale, perdita SMS OnePlus, scandalo Tiktok e altro**  
   Fonte: The Hacker News, 25 Sep 2025, 17:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html>)
@@ -89,14 +101,6 @@
 - **Vane Viper genera 1 trilione di query DNS per alimentare il malware globale e la rete di frodi pubblicitarie**  
   Fonte: The Hacker News, 25 Sep 2025, 17:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/vane-viper-generates-1-trillion-dns.html>)
-
-- **Cisco avverte di ASA Firewall Zero-Days sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 25 Sep 2025, 16:49:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/>)
-
-- **Amazon paga $ 2,5 miliardi per risolvere la causa per le iscrizioni Prime**  
-  Fonte: BleepingComputer, 25 Sep 2025, 16:21:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/amazon-pays-25-billion-to-settle-prime-memberships-lawsuit/>)
 
 - **Patch Salesforce BUG CRITICO PRIMAZIONE ESPOSIZIONE DATI CRM tramite Iniezione prompt AI**  
   Fonte: The Hacker News, 25 Sep 2025, 15:17:00 UTC  
@@ -122,7 +126,7 @@
   Fonte: Schneier on Security, 25 Sep 2025, 11:02:27 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/malicious-looking-url-creation-service.html>)
 
-- **Casse di ruggine dannose rubano Solana ed Ethereum Keys - 8.424 download confermati**  
+- **Casse di ruggine dannose rubano solana ed Ethereum Keys - 8.424 download confermati**  
   Fonte: The Hacker News, 25 Sep 2025, 07:59:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/malicious-rust-crates-steal-solana-and.html>)
 
@@ -174,7 +178,7 @@
   Fonte: The Hacker News, 24 Sep 2025, 11:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html>)
 
-- **Hacker Exploit Pandoc CVE-2025-51591 per target AWS IMDS e rubare le credenziali EC2 iam**  
+- **Gli hacker sfruttano Pandoc CVE-2025-51591 per target AWS IMDS e rubare le credenziali EC2 iam**  
   Fonte: The Hacker News, 24 Sep 2025, 07:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html>)
 
@@ -186,7 +190,7 @@
   Fonte: Troy Hunt, 23 Sep 2025, 23:24:08 UTC  
   [Leggi](<https://www.troyhunt.com/hibp-demo-querying-the-api-and-the-free-test-key/>)
 
-- **Due nuovi bug Supermicro BMC consentono al firmware dannoso di eludere la sicurezza della fiducia**  
+- **Due nuovi bug Supermicro BMC consentono al firmware dannoso di eludere la root of Trust Security**  
   Fonte: The Hacker News, 23 Sep 2025, 18:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html>)
 
@@ -254,9 +258,5 @@
   Fonte: Troy Hunt, 21 Sep 2025, 08:35:20 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-470/>)
 
-- **LastPass avverte di falsi repository che infettano i macos con l'infostealer atomico**  
-  Fonte: The Hacker News, 20 Sep 2025, 07:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-09-27 06:14:22 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-28 06:16:35 UTC -->
