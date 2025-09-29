@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **Akira Ransomware Account VPN Sonicwall protetti da MFA**  
+  Fonte: BleepingComputer, 28 Sep 2025, 18:49:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/>)
+
+- **Pratiche di supporto ERP anticoncorrenziali delle sonde dell'UE**  
+  Fonte: BleepingComputer, 28 Sep 2025, 14:23:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/>)
+
 - **I programmi di installazione di Microsoft Teams falsi spingono il malware di ostriche tramite malvertiti**  
   Fonte: BleepingComputer, 27 Sep 2025, 19:49:22 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/>)
@@ -78,21 +86,9 @@
   Fonte: The Hacker News, 26 Sep 2025, 05:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/cisco-asa-firewall-zero-day-exploits.html>)
 
-- **Microsoft avverte della nuova variante di malware MACOS XCSSET mira a Xcode Devs**  
-  Fonte: BleepingComputer, 25 Sep 2025, 22:49:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-xcsset-macos-malware-variant-targeting-xcode-devs/>)
-
-- **MCP NPM non ufficiale MCP NPM ha rubato silenziosamente le e -mail degli utenti**  
-  Fonte: BleepingComputer, 25 Sep 2025, 20:23:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/>)
-
 - **Urgente: duo di Cisco ASA Zero-Day sotto attacco;CISA innesca la direttiva di mitigazione di emergenza**  
   Fonte: The Hacker News, 25 Sep 2025, 18:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/urgent-cisco-asa-zero-day-duo-under.html>)
-
-- **Co-op dice che ha perso $ 107 milioni dopo l'attacco di ragno sparso**  
-  Fonte: BleepingComputer, 25 Sep 2025, 18:05:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/co-op-says-it-lost-107-million-after-scattered-spider-attack/>)
 
 - **Bollettino di minacce di minacce: patch rootkit, violazione federale, perdita SMS OnePlus, scandalo Tiktok e altro**  
   Fonte: The Hacker News, 25 Sep 2025, 17:24:00 UTC  
@@ -246,17 +242,5 @@
   Fonte: The Hacker News, 22 Sep 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/how-to-gain-control-of-ai-agents-and.html>)
 
-- **Patch Microsoft Critical ENTRA ID difetto che consente la rappresentazione dell'amministratore globale tra gli inquilini**  
-  Fonte: The Hacker News, 22 Sep 2025, 05:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html>)
 
-- **Gli hacker DPRK utilizzano clickFix per consegnare malware di Beavertail in Crypto Job Scams**  
-  Fonte: The Hacker News, 21 Sep 2025, 10:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html>)
-
-- **Aggiornamento settimanale 470**  
-  Fonte: Troy Hunt, 21 Sep 2025, 08:35:20 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-470/>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-28 06:16:35 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-29 06:18:14 UTC -->
