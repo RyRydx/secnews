@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **La CISA suona allarme sul difetto sudo critico sfruttato attivamente nei sistemi Linux e Unix**  
+  Fonte: The Hacker News, 30 Sep 2025, 05:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html>)
+
+- **Il Regno Unito ha convinto "Bitcoin Queen" nel più grande sequestro di criptovaluta al mondo**  
+  Fonte: BleepingComputer, 29 Sep 2025, 22:16:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-convicts-bitcoin-queen-in-worlds-largest-cryptocurrency-seizure/>)
+
+- **Il più grande produttore di birra in Giappone sospende le operazioni a causa di un attacco informatico**  
+  Fonte: BleepingComputer, 29 Sep 2025, 20:44:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/japans-largest-brewer-suspends-operations-due-to-cyberattack/>)
+
+- **Ransomware Gang ha chiesto l'aiuto di BBC Reporter nell'hacking Media Giant**  
+  Fonte: BleepingComputer, 29 Sep 2025, 17:31:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-gang-sought-bbc-reporters-help-in-hacking-media-giant/>)
+
+- **Malware Evilai mascherarsi come strumenti di intelligenza artificiale per infiltrarsi nelle organizzazioni globali**  
+  Fonte: The Hacker News, 29 Sep 2025, 16:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html>)
+
+- **Il Govt UK Backs JLR con £ 1,5 miliardi di prestiti dopo l'attacco informatico**  
+  Fonte: BleepingComputer, 29 Sep 2025, 16:31:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-govt-backs-jlr-with-15-billion-loan-guarantee-after-cyberattack/>)
+
+- **Brave lancia la funzione "Ask Brave" per fondere l'intelligenza artificiale con la ricerca tradizionale**  
+  Fonte: BleepingComputer, 29 Sep 2025, 16:01:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/brave-launches-ask-brave-feature-to-fuse-ai-with-traditional-search/>)
+
+- **Harrods soffre di nuove violazioni dei dati che espongono 430.000 record dei clienti**  
+  Fonte: BleepingComputer, 29 Sep 2025, 14:19:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/harrods-suffers-new-data-breach-exposing-430-000-customer-records/>)
+
+- **Possiamo fidarci dell'IA per scrivere controlli di vulnerabilità?Ecco cosa abbiamo trovato**  
+  Fonte: BleepingComputer, 29 Sep 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/can-we-trust-ai-to-write-vulnerability-checks-heres-what-we-found/>)
+
+- **15 anni di aiuto per costruire un Internet migliore: uno sguardo alla settimana di compleanno 2025**  
+  Fonte: Cloudflare Blog - Security, 29 Sep 2025, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/birthday-week-2025-wrap-up/>)
+
+- **GHATGPT Test di prova gratuita per piani a pagamento, estende più economici in più regioni**  
+  Fonte: BleepingComputer, 29 Sep 2025, 13:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-free-trial-for-paid-plans-rolls-out-cheaper-go-in-more-regions/>)
+
+- **⚡ Riepilogo settimanale: Cisco 0-Day, Record DDoS, Lockbit 5.0, BMC Bugs, Shadowv2 Botnet & More**  
+  Fonte: The Hacker News, 29 Sep 2025, 12:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/weekly-recap-cisco-0-day-record-ddos.html>)
+
+- **Openi sta instradando GPT-4O ai modelli di sicurezza quando rileva attività dannose**  
+  Fonte: BleepingComputer, 29 Sep 2025, 12:04:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-routing-gpt-4o-to-safety-models-when-it-detects-harmful-activities/>)
+
+- **Lo stato dell'IA nel SOC 2025 - approfondimenti del recente studio**  
+  Fonte: The Hacker News, 29 Sep 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/the-state-of-ai-in-soc-2025-insights.html>)
+
+- **Abuso dell'agente AI della nozione per il furto di dati**  
+  Fonte: Schneier on Security, 29 Sep 2025, 11:07:38 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/09/abusing-notions-ai-agent-for-data-theft.html>)
+
+- **Microsoft Flags Phishing Ai-Driven: file SVG artigiani di LLM in astuzia**  
+  Fonte: The Hacker News, 29 Sep 2025, 08:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html>)
+
+- **Il primo server MCP dannoso ha trovato il furto di e-mail nel pacchetto Rogue Postmark-MCP**  
+  Fonte: The Hacker News, 29 Sep 2025, 08:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/09/first-malicious-mcp-server-found.html>)
+
+- **Accogliendo il CERN per essere stato pwned**  
+  Fonte: Troy Hunt, 29 Sep 2025, 07:03:48 UTC  
+  [Leggi](<https://www.troyhunt.com/welcoming-cern-to-have-i-been-pwned/>)
+
 - **Akira Ransomware Account VPN Sonicwall protetti da MFA**  
   Fonte: BleepingComputer, 28 Sep 2025, 18:49:30 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/>)
@@ -18,7 +90,7 @@
   Fonte: BleepingComputer, 27 Sep 2025, 14:17:44 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/>)
 
-- **Attacchi di malware plugx e tworn collegati in Cina Target Target Asian Telecom e ASEAN Networks**  
+- **Attacchi di malware plugx e tworn collegati in Cina Target per le reti asiatiche di telecom e ASEAN**  
   Fonte: The Hacker News, 27 Sep 2025, 12:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html>)
 
@@ -30,37 +102,9 @@
   Fonte: Schneier on Security, 26 Sep 2025, 21:03:03 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-jigging-for-squid.html>)
 
-- **La nuova funzione AI di Microsoft organizzerà automaticamente le tue foto**  
-  Fonte: BleepingComputer, 26 Sep 2025, 19:41:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsofts-new-ai-feature-will-organize-your-photos-automatically/>)
-
-- **Gli investitori statunitensi prendono il controllo delle operazioni di Tiktok nel paese**  
-  Fonte: BleepingComputer, 26 Sep 2025, 17:01:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/government/us-investors-to-take-over-tiktok-operations-in-the-country/>)
-
-- **Microsoft condivide la correzione temporanea per gli errori e -mail crittografati di Outlook**  
-  Fonte: BleepingComputer, 26 Sep 2025, 16:43:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-encrypted-email-errors/>)
-
 - **I ricercatori espongono minacce di phishing che distribuiscono CountLoader e Purerat**  
   Fonte: The Hacker News, 26 Sep 2025, 16:40:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html>)
-
-- **Microsoft Edge per bloccare le estensioni maliziose**  
-  Fonte: BleepingComputer, 26 Sep 2025, 15:39:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-edge-to-block-malicious-sideloaded-extensions/>)
-
-- **I rischi cyber nascosti di distribuire AI generativa**  
-  Fonte: BleepingComputer, 26 Sep 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-hidden-cyber-risks-of-deploying-generative-ai/>)
-
-- **Severità massima goanywhere mft difettini sfruttato come zero giorno**  
-  Fonte: BleepingComputer, 26 Sep 2025, 13:50:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/maximum-severity-goanywhere-mft-flaw-exploited-as-zero-day/>)
-
-- **Microsoft rilascia l'aggiornamento di anteprima finale di Windows 10 22h2**  
-  Fonte: BleepingComputer, 26 Sep 2025, 13:32:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-the-final-windows-10-22h2-preview-update/>)
 
 - **La nuova campagna di malware ColdRiver si unisce a Bo Team e Bearlyfy negli attacchi informatici focalizzati in Russia**  
   Fonte: The Hacker News, 26 Sep 2025, 12:45:00 UTC  
@@ -122,7 +166,7 @@
   Fonte: Schneier on Security, 25 Sep 2025, 11:02:27 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/malicious-looking-url-creation-service.html>)
 
-- **Casse di ruggine dannose rubano solana ed Ethereum Keys - 8.424 download confermati**  
+- **Casse di ruggine dannose rubano Solana ed Ethereum Keys - 8.424 download confermati**  
   Fonte: The Hacker News, 25 Sep 2025, 07:59:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/malicious-rust-crates-steal-solana-and.html>)
 
@@ -226,21 +270,5 @@
   Fonte: The Hacker News, 23 Sep 2025, 08:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/badiis-malware-spreads-via-seo.html>)
 
-- **Hacker Comicform e SectorJ149 distribuiscono malware di formbook inttati informatici eurasiatici**  
-  Fonte: The Hacker News, 22 Sep 2025, 15:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/comicform-and-sectorj149-hackers-deploy.html>)
 
-- **⚡ Riepilogo settimanale: Chrome 0-Day, AI Hacking Strumenti, DDR5 Bit-Flips, NPM WORM e altro ancora**  
-  Fonte: The Hacker News, 22 Sep 2025, 11:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/weekly-recap-chrome-0-day-ai-hacking.html>)
-
-- **Dettagli sulle società di sorveglianza e propaganda cinesi**  
-  Fonte: Schneier on Security, 22 Sep 2025, 11:03:31 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/details-about-chinese-surveillance-and-propaganda-companies.html>)
-
-- **Come ottenere il controllo degli agenti AI e delle identità non umane**  
-  Fonte: The Hacker News, 22 Sep 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/how-to-gain-control-of-ai-agents-and.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-09-29 06:18:14 UTC -->
+<!-- Ultimo aggiornamento: 2025-09-30 06:19:07 UTC -->
