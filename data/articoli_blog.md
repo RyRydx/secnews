@@ -2,65 +2,117 @@
 
 ## Ultimi 7 giorni
 
+- **E-mail di estorsione clop rivendicare il furto di dati sulla suite e-business Oracle**  
+  Fonte: BleepingComputer, 02 Oct 2025, 03:13:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/clop-extortion-emails-claim-theft-of-oracle-e-business-suite-data/>)
+
+- **Smashing Security Podcast #437: Domain of Doom di Salesforce Trust**  
+  Fonte: Graham Cluley, 01 Oct 2025, 23:00:30 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-437/>)
+
+- **La violazione dei dati presso il fornitore di software per la concessionaria influisce su 766k clienti**  
+  Fonte: BleepingComputer, 01 Oct 2025, 20:37:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/data-breach-at-dealership-software-provider-impacts-766k-clients/>)
+
+- **Le tue app per telefoni preferite potrebbero perde i segreti della tua azienda**  
+  Fonte: Graham Cluley, 01 Oct 2025, 20:19:58 UTC  
+  [Leggi](<https://www.fortra.com/blog/favourite-phone-apps-might-leaking-companys-secrets>)
+
+- **Bug di Adobe Analytics ha trapelato i dati di monitoraggio dei clienti ad altri inquilini**  
+  Fonte: BleepingComputer, 01 Oct 2025, 19:58:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/adobe-analytics-bug-leaked-customer-tracking-data-to-other-tenants/>)
+
+- **Il nuovo bug in Classic Outlook può essere risolto solo tramite il supporto Microsoft**  
+  Fonte: BleepingComputer, 01 Oct 2025, 18:43:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-bug-in-classic-outlook-can-only-be-fixed-via-microsoft-support/>)
+
+- **Il malware Android utilizza VNC per dare accessori per gli aggressori**  
+  Fonte: BleepingComputer, 01 Oct 2025, 18:33:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/android-malware-uses-vnc-to-give-attackers-hands-on-access/>)
+
+- **Nuovo attacco Wiretap estraiti Intel SGX ECDSA Chiave tramite DDR4 Memory-Bus Interposer**  
+  Fonte: The Hacker News, 01 Oct 2025, 17:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html>)
+
+- **Progetto Droide F minacciato dalle nuove regole di registrazione di Google**  
+  Fonte: BleepingComputer, 01 Oct 2025, 17:12:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/f-droid-project-threatened-by-googles-new-dev-registration-rules/>)
+
+- **Microsoft per forzare l'installazione di app per compagni Microsoft 365 in ottobre**  
+  Fonte: BleepingComputer, 01 Oct 2025, 17:01:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-microsoft-365-companion-apps-in-october/>)
+
+- **La violazione dei dati del Westjet espone i dettagli di viaggio di 1,2 milioni di clienti**  
+  Fonte: BleepingComputer, 01 Oct 2025, 16:27:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/westjet-data-breach-exposes-travel-details-of-12-million-customers/>)
+
+- **Google Drive per desktop ottiene il rilevamento di ransomware basato sull'intelligenza artificiale**  
+  Fonte: BleepingComputer, 01 Oct 2025, 15:10:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-drive-for-desktop-gets-ai-powered-ransomware-detection/>)
+
+- **Allianz Life afferma che la violazione dei dati di luglio influisce su 1,5 milioni di persone**  
+  Fonte: BleepingComputer, 01 Oct 2025, 14:56:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/allianz-life-says-july-data-breach-impacts-15-million-people/>)
+
+- **Come semplificare la tabella di marcia Zero Trust della CISA con microsegmentazione moderna**  
+  Fonte: BleepingComputer, 01 Oct 2025, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-simplify-cisas-zero-trust-roadmap-with-modern-microsegmentation/>)
+
+- **Microsoft: strumento di creazione multimediale rotto su Windows 11 ARM64 PCS**  
+  Fonte: BleepingComputer, 01 Oct 2025, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-media-creation-tool-broken-on-windows-11-arm64-pcs/>)
+
+- **Bug Onelogin consente agli aggressori di utilizzare le chiavi API per rubare i segreti OIDC e impersonare le app**  
+  Fonte: The Hacker News, 01 Oct 2025, 13:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html>)
+
+- **Scopri come i team di sicurezza leader fondono i flussi di lavoro umani AI + (webinar gratuito)**  
+  Fonte: The Hacker News, 01 Oct 2025, 12:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/how-leading-security-teams-blend-ai.html>)
+
+- **Red Hat OpenShift AI Flaw espone l'infrastruttura cloud ibrida per l'acquisizione completa**  
+  Fonte: The Hacker News, 01 Oct 2025, 12:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/critical-red-hat-openshift-ai-flaw.html>)
+
+- **Uso dell'IA generativa nelle truffe**  
+  Fonte: Schneier on Security, 01 Oct 2025, 11:09:51 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/use-of-generative-ai-in-scams.html>)
+
+- **2025 Controllo della realtà della sicurezza informatica: violano le superfici di attacco in crescita e le percezioni delle errate AI che aumentano**  
+  Fonte: The Hacker News, 01 Oct 2025, 11:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html>)
+
+- **Gli hacker sfruttano i router Milesight per inviare SMS di phishing agli utenti europei**  
+  Fonte: The Hacker News, 01 Oct 2025, 11:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html>)
+
+- **Il nuovo Android Banking Trojan "Klopatra" utilizza VNC nascosto per controllare gli smartphone infetti**  
+  Fonte: The Hacker News, 01 Oct 2025, 09:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/new-android-banking-trojan-klopatra.html>)
+
+- **L'Ucraina avverte di backdoor + xll di gabinetrat sparsi tramite zip di segnale**  
+  Fonte: The Hacker News, 01 Oct 2025, 07:11:19 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html>)
+
 - **Imgur blocca gli utenti del Regno Unito dopo che il watchdog dei dati segnala possibile**  
   Fonte: BleepingComputer, 30 Sep 2025, 21:24:08 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/technology/imgur-blocks-uk-users-after-data-watchdog-signals-possible-fine/>)
 
-- **Sendit in giudizio dalla FTC per la raccolta illegale di dati sui bambini**  
-  Fonte: BleepingComputer, 30 Sep 2025, 19:57:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/sendit-sued-by-the-ftc-for-illegal-collection-of-children-data/>)
-
-- **Dai falsi amanti ai setionalisti: 260 truffatori arrestati in Africa**  
+- **Dai falsi amanti ai setionalisti: 260 truffatori arrestati in tutta l'Africa**  
   Fonte: Graham Cluley, 30 Sep 2025, 19:45:23 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-lovers-sextortionists-scammers-africa>)
 
-- **Il nuovo toolkit MatrixPDF trasforma i PDF in esche di phishing e malware**  
-  Fonte: BleepingComputer, 30 Sep 2025, 18:57:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-matrixpdf-toolkit-turns-pdfs-into-phishing-and-malware-lures/>)
-
-- **$ 50 Matting RAM Attack rompe Intel e AMD Cloud Security Protections**  
+- **Nuovo attacco di mazza da $ 50 rompe le protezioni per la sicurezza del cloud Intel e AMD**  
   Fonte: The Hacker News, 30 Sep 2025, 18:42:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html>)
-
-- **Westjet conferma la recente violazione dei passaporti dei clienti esposti**  
-  Fonte: BleepingComputer, 30 Sep 2025, 18:40:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/westjet-confirms-recent-breach-exposed-customers-passports/>)
-
-- **Windows 11 2025 Aggiornamento (25h2) è ora disponibile, ecco cosa c'è di nuovo**  
-  Fonte: BleepingComputer, 30 Sep 2025, 17:58:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-2025-update-25h2-is-now-available-heres-whats-new/>)
-
-- **Quasi 50.000 firewall Cisco vulnerabili ai difetti sfruttati attivamente**  
-  Fonte: BleepingComputer, 30 Sep 2025, 16:58:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nearly-50-000-cisco-firewalls-vulnerable-to-actively-exploited-flaws/>)
 
 - **Phantom Taurus: il nuovo gruppo di hacker collegato alla Cina colpisce i governi con malware invisibile**  
   Fonte: The Hacker News, 30 Sep 2025, 16:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html>)
 
-- **Critico WD il mio bug cloud consente l'iniezione di comandi remoto**  
-  Fonte: BleepingComputer, 30 Sep 2025, 15:07:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-wd-my-cloud-bug-allows-remote-command-injection/>)
-
-- **Hacker cinesi che sfruttano VMware Zero-Day dall'ottobre 2024**  
-  Fonte: BleepingComputer, 30 Sep 2025, 14:54:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-vmware-zero-day-since-october-2024/>)
-
-- **La certificazione VMware è in aumento in un paesaggio IT**  
-  Fonte: BleepingComputer, 30 Sep 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vmware-certification-is-surging-in-a-shifting-it-landscape/>)
-
 - **L'IA FIX #70: AI si comporta ... fino a quando non sa che stai guardando**  
   Fonte: Graham Cluley, 30 Sep 2025, 14:00:17 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-70/>)
-
-- **Microsoft risolve i problemi di riproduzione video DRM di Windows per alcuni utenti**  
-  Fonte: BleepingComputer, 30 Sep 2025, 13:47:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-drm-video-playback-issues-now-partially-resolved/>)
-
-- **La CISA avverte del difetto critico Linux sudo sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 30 Sep 2025, 13:42:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-linux-sudo-flaw-exploited-in-attacks/>)
 
 - **I ricercatori divulgano i difetti di AI di Google Gemini che consentono iniezione rapida e exploit di cloud**  
   Fonte: The Hacker News, 30 Sep 2025, 13:18:00 UTC  
@@ -69,14 +121,6 @@
 - **Microsoft si espande Sentinel in una piattaforma di sicurezza agente con dati unificati**  
   Fonte: The Hacker News, 30 Sep 2025, 13:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html>)
-
-- **Windows 11 KB5065789 Aggiornamento rilasciato con 41 modifiche e correzioni**  
-  Fonte: BleepingComputer, 30 Sep 2025, 12:50:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5065789-update-released-with-41-changes-and-fixes/>)
-
-- **Broadcom corregge i bug VMware NSX ad alta sevire riportati da NSA**  
-  Fonte: BleepingComputer, 30 Sep 2025, 12:10:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/broadcom-fixes-high-severity-vmware-nsx-bugs-reported-by-nsa/>)
 
 - **Stop Alert Chaos: il contesto è la chiave per una risposta efficace degli incidenti**  
   Fonte: The Hacker News, 30 Sep 2025, 11:30:00 UTC  
@@ -130,7 +174,7 @@
   Fonte: Schneier on Security, 29 Sep 2025, 11:07:38 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/abusing-notions-ai-agent-for-data-theft.html>)
 
-- **Microsoft Flags Phishing Ai-Driven: file SVG artigiani di LLM in astuzia**  
+- **Microsoft Flags Phishing Ai-Driven: file SVG artigiani LLM in astuzia**  
   Fonte: The Hacker News, 29 Sep 2025, 08:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html>)
 
@@ -142,7 +186,7 @@
   Fonte: Troy Hunt, 29 Sep 2025, 07:03:48 UTC  
   [Leggi](<https://www.troyhunt.com/welcoming-cern-to-have-i-been-pwned/>)
 
-- **Attacchi di malware plugx e tworn collegati in Cina Target per le reti asiatiche di telecom e ASEAN**  
+- **Attacchi di malware plugx e tworn collegati in Cina Target Target Asian Telecom e ASEAN Networks**  
   Fonte: The Hacker News, 27 Sep 2025, 12:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html>)
 
@@ -226,57 +270,5 @@
   Fonte: The Hacker News, 25 Sep 2025, 06:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/cisco-warns-of-actively-exploited-snmp.html>)
 
-- **Smashing Security Podcast #436: la rapina d'oro da € 600.000, alimentata da Ransomware**  
-  Fonte: Graham Cluley, 24 Sep 2025, 23:00:47 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-436/>)
 
-- **Hacker cinesi rednovember bersaglio governi globali utilizzando Pantegana e Cobalt Strike**  
-  Fonte: The Hacker News, 24 Sep 2025, 16:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/chinese-hackers-rednovember-target.html>)
-
-- **Inc Ransomware: quello che devi sapere**  
-  Fonte: Graham Cluley, 24 Sep 2025, 16:15:55 UTC  
-  [Leggi](<https://www.fortra.com/blog/inc-ransomware-what-need-know>)
-
-- **UNC5221 utilizza il backdoor di brickstorm per infiltrarsi in settori legali e tecnologici statunitensi**  
-  Fonte: The Hacker News, 24 Sep 2025, 14:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html>)
-
-- **Sicuro automaticamente: come abbiamo aggiornato 6.000.000 di domini per impostazione predefinita per prepararsi per il futuro quantistico**  
-  Fonte: Cloudflare Blog - Security, 24 Sep 2025, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/automatically-secure/>)
-
-- **Due difetti critici scoperti in WondersHare RepairIt che espongono i dati degli utenti e i modelli AI**  
-  Fonte: The Hacker News, 24 Sep 2025, 13:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html>)
-
-- **Come una brutta password ha concluso un'attività di 158 anni**  
-  Fonte: The Hacker News, 24 Sep 2025, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html>)
-
-- **I federali legano il duo "sparso ragno" a $ 115 milioni in riscatto**  
-  Fonte: Krebs on Security, 24 Sep 2025, 11:48:31 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/>)
-
-- **Il nuovo malware Yibackdoor condivide il codice principale sovrapposizioni con Icedid e Latrodectus**  
-  Fonte: The Hacker News, 24 Sep 2025, 11:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html>)
-
-- **Gli Stati Uniti interrompe un enorme array di telefoni cellulari a New York**  
-  Fonte: Schneier on Security, 24 Sep 2025, 11:09:19 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/us-disrupts-massive-cell-phone-array-in-new-york.html>)
-
-- **IFRAME Sicurezza esposta: il punto cieco che alimenta gli attacchi di skimmer di pagamento**  
-  Fonte: The Hacker News, 24 Sep 2025, 11:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html>)
-
-- **Gli hacker sfruttano Pandoc CVE-2025-51591 per target AWS IMDS e rubare le credenziali EC2 iam**  
-  Fonte: The Hacker News, 24 Sep 2025, 07:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html>)
-
-- **Hacker sponsorizzati dallo stato che sfruttano Libraesva Email Security Gateway Vulnerability**  
-  Fonte: The Hacker News, 24 Sep 2025, 06:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/state-sponsored-hackers-exploiting.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-01 06:17:52 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-02 06:18:06 UTC -->
