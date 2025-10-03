@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft Outlook smette di visualizzare immagini SVG in linea utilizzate negli attacchi**  
+  Fonte: BleepingComputer, 02 Oct 2025, 18:13:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/>)
+
+- **Draytek avverte del bug di esecuzione del codice remoto nei router vigor**  
+  Fonte: BleepingComputer, 02 Oct 2025, 17:37:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/draytek-warns-of-remote-code-execution-bug-in-vigor-routers/>)
+
+- **Daniel Miessler sull'attacco AI/Bilancia della difesa**  
+  Fonte: Schneier on Security, 02 Oct 2025, 16:19:59 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/daniel-miessler-on-the-ai-attack-defense-balance.html>)
+
+- **Hackerone ha pagato $ 81 milioni in tagli di bug nell'ultimo anno**  
+  Fonte: BleepingComputer, 02 Oct 2025, 15:35:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackerone-paid-81-million-in-bug-bounties-over-the-past-year/>)
+
+- **Il browser coraggioso supera i 100 milioni di utenti mensili attivi**  
+  Fonte: BleepingComputer, 02 Oct 2025, 15:07:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/software/brave-browser-surpasses-the-100-million-active-monthly-users-mark/>)
+
+- **Confucius Hackers ha colpito il Pakistan con il nuovo Wooperstealer e Anondoor Malware**  
+  Fonte: The Hacker News, 02 Oct 2025, 14:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html>)
+
+- **Il bug di Microsoft Defender innesca avvisi di aggiornamento del BIOS errati**  
+  Fonte: BleepingComputer, 02 Oct 2025, 14:20:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-bug-triggers-erroneous-bios-update-alerts/>)
+
+- **Il tuo servizio di servizio è il nuovo vettore di attacco, ecco come difenderlo.**  
+  Fonte: BleepingComputer, 02 Oct 2025, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/your-service-desk-is-the-new-attack-vector-heres-how-to-defend-it/>)
+
+- **Avviso: il pacchetto PYPI dannoso Soopsocks infetta 2.653 sistemi prima di abbattere**  
+  Fonte: The Hacker News, 02 Oct 2025, 13:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html>)
+
+- **Automatizzazione della consegna più importante: 7 flussi di lavoro chiave per il massimo impatto**  
+  Fonte: The Hacker News, 02 Oct 2025, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html>)
+
+- **Bollettino di minacce di minaccia: Carplay Exploit, tattiche BYOVD, attacchi SQL C2, domanda di backdoor iCloud e altro ancora**  
+  Fonte: The Hacker News, 02 Oct 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/threatsday-bulletin-carplay-exploit.html>)
+
+- **Google Mandiant sonde la nuova ondata di estorsione Oracle eventualmente collegata al ransomware CL0P**  
+  Fonte: The Hacker News, 02 Oct 2025, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/google-mandiant-probes-new-oracle.html>)
+
+- **Come colmare le lacune di rilevamento delle minacce: il piano d'azione del tuo SoC**  
+  Fonte: The Hacker News, 02 Oct 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html>)
+
+- **Campagne di spyware Android Impersonate Signal e Totok Messengers**  
+  Fonte: BleepingComputer, 02 Oct 2025, 10:53:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/android-spyware-campaigns-impersonate-signal-and-totok-messengers/>)
+
+- **ATTENZIONE: ATTENZIONE DELLA SPYWARE ANDROID Travestito come plug -in di crittografia del segnale e totok pro e totok pro**  
+  Fonte: The Hacker News, 02 Oct 2025, 09:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html>)
+
+- **Red Hat conferma l'incidente di sicurezza dopo che gli hacker violano l'istanza**  
+  Fonte: BleepingComputer, 02 Oct 2025, 06:15:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-breach-gitlab-instance/>)
+
 - **E-mail di estorsione clop rivendicare il furto di dati sulla suite e-business Oracle**  
   Fonte: BleepingComputer, 02 Oct 2025, 03:13:58 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/clop-extortion-emails-claim-theft-of-oracle-e-business-suite-data/>)
@@ -34,34 +98,6 @@
   Fonte: The Hacker News, 01 Oct 2025, 17:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html>)
 
-- **Progetto Droide F minacciato dalle nuove regole di registrazione di Google**  
-  Fonte: BleepingComputer, 01 Oct 2025, 17:12:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/f-droid-project-threatened-by-googles-new-dev-registration-rules/>)
-
-- **Microsoft per forzare l'installazione di app per compagni Microsoft 365 in ottobre**  
-  Fonte: BleepingComputer, 01 Oct 2025, 17:01:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-microsoft-365-companion-apps-in-october/>)
-
-- **La violazione dei dati del Westjet espone i dettagli di viaggio di 1,2 milioni di clienti**  
-  Fonte: BleepingComputer, 01 Oct 2025, 16:27:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/westjet-data-breach-exposes-travel-details-of-12-million-customers/>)
-
-- **Google Drive per desktop ottiene il rilevamento di ransomware basato sull'intelligenza artificiale**  
-  Fonte: BleepingComputer, 01 Oct 2025, 15:10:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-drive-for-desktop-gets-ai-powered-ransomware-detection/>)
-
-- **Allianz Life afferma che la violazione dei dati di luglio influisce su 1,5 milioni di persone**  
-  Fonte: BleepingComputer, 01 Oct 2025, 14:56:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/allianz-life-says-july-data-breach-impacts-15-million-people/>)
-
-- **Come semplificare la tabella di marcia Zero Trust della CISA con microsegmentazione moderna**  
-  Fonte: BleepingComputer, 01 Oct 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-simplify-cisas-zero-trust-roadmap-with-modern-microsegmentation/>)
-
-- **Microsoft: strumento di creazione multimediale rotto su Windows 11 ARM64 PCS**  
-  Fonte: BleepingComputer, 01 Oct 2025, 14:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-media-creation-tool-broken-on-windows-11-arm64-pcs/>)
-
 - **Bug Onelogin consente agli aggressori di utilizzare le chiavi API per rubare i segreti OIDC e impersonare le app**  
   Fonte: The Hacker News, 01 Oct 2025, 13:27:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html>)
@@ -78,13 +114,13 @@
   Fonte: Schneier on Security, 01 Oct 2025, 11:09:51 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/use-of-generative-ai-in-scams.html>)
 
-- **2025 Controllo della realtà della sicurezza informatica: violano le superfici di attacco in crescita e le percezioni delle errate AI che aumentano**  
-  Fonte: The Hacker News, 01 Oct 2025, 11:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html>)
-
 - **Gli hacker sfruttano i router Milesight per inviare SMS di phishing agli utenti europei**  
   Fonte: The Hacker News, 01 Oct 2025, 11:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html>)
+
+- **2025 Controllo della realtà della sicurezza informatica: violano le superfici di attacco in crescita e le percezioni delle errate AI che aumentano**  
+  Fonte: The Hacker News, 01 Oct 2025, 11:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html>)
 
 - **Il nuovo Android Banking Trojan "Klopatra" utilizza VNC nascosto per controllare gli smartphone infetti**  
   Fonte: The Hacker News, 01 Oct 2025, 09:25:00 UTC  
@@ -93,10 +129,6 @@
 - **L'Ucraina avverte di backdoor + xll di gabinetrat sparsi tramite zip di segnale**  
   Fonte: The Hacker News, 01 Oct 2025, 07:11:19 UTC  
   [Leggi](<https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html>)
-
-- **Imgur blocca gli utenti del Regno Unito dopo che il watchdog dei dati segnala possibile**  
-  Fonte: BleepingComputer, 30 Sep 2025, 21:24:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/imgur-blocks-uk-users-after-data-watchdog-signals-possible-fine/>)
 
 - **Dai falsi amanti ai setionalisti: 260 truffatori arrestati in tutta l'Africa**  
   Fonte: Graham Cluley, 30 Sep 2025, 19:45:23 UTC  
@@ -174,7 +206,7 @@
   Fonte: Schneier on Security, 29 Sep 2025, 11:07:38 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/09/abusing-notions-ai-agent-for-data-theft.html>)
 
-- **Microsoft Flags Phishing Ai-Driven: file SVG artigiani LLM in astuzia**  
+- **Microsoft Flags Phishing Ai-Driven: file SVG artigiani di LLM in astuzia**  
   Fonte: The Hacker News, 29 Sep 2025, 08:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html>)
 
@@ -218,57 +250,9 @@
   Fonte: The Hacker News, 26 Sep 2025, 09:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html>)
 
-- **Nuova variante MacOS XCSSET mira a Firefox con Clipper e Persistence Module**  
+- **Nuova variante MacOS XCSSET mira a Firefox con il modulo Clipper e Persistence**  
   Fonte: The Hacker News, 26 Sep 2025, 09:09:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/new-macos-xcsset-variant-targets.html>)
 
-- **Cisco ASA Firewall Exploit zero-day distribuisce rayiniliator e line di malware Viper**  
-  Fonte: The Hacker News, 26 Sep 2025, 05:51:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/cisco-asa-firewall-zero-day-exploits.html>)
 
-- **Urgente: duo di Cisco ASA Zero-Day sotto attacco;CISA innesca la direttiva di mitigazione di emergenza**  
-  Fonte: The Hacker News, 25 Sep 2025, 18:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/urgent-cisco-asa-zero-day-duo-under.html>)
-
-- **Bollettino di minacce di minacce: patch rootkit, violazione federale, perdita SMS OnePlus, scandalo Tiktok e altro**  
-  Fonte: The Hacker News, 25 Sep 2025, 17:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html>)
-
-- **Vane Viper genera 1 trilione di query DNS per alimentare il malware globale e la rete di frodi pubblicitarie**  
-  Fonte: The Hacker News, 25 Sep 2025, 17:22:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/vane-viper-generates-1-trillion-dns.html>)
-
-- **Patch Salesforce BUG CRITICO PRIMAZIONE ESPOSIZIONE DATI CRM tramite Iniezione prompt AI**  
-  Fonte: The Hacker News, 25 Sep 2025, 15:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html>)
-
-- **Sicuro nella sandbox: indurimento per la sicurezza per gli operatori cloudflare**  
-  Fonte: Cloudflare Blog - Security, 25 Sep 2025, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/safe-in-the-sandbox-security-hardening-for-cloudflare-workers/>)
-
-- **Gli hacker nordcoreani usano il nuovo backdoor Akdoortea per colpire gli sviluppatori di criptovalute globali**  
-  Fonte: The Hacker News, 25 Sep 2025, 13:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/north-korean-hackers-use-new-akdoortea.html>)
-
-- **Core di CTEM: prioritizzazione e validazione**  
-  Fonte: The Hacker News, 25 Sep 2025, 11:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/ctems-core-prioritization-and-validation.html>)
-
-- **La tecnologia supera i giochi come Top DDoS Attack Target, il nuovo rapporto Radar Gcore trova**  
-  Fonte: The Hacker News, 25 Sep 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/tech-overtakes-gaming-as-top-ddos.html>)
-
-- **Servizio di creazione URL dall'aspetto dannoso**  
-  Fonte: Schneier on Security, 25 Sep 2025, 11:02:27 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/malicious-looking-url-creation-service.html>)
-
-- **Casse di ruggine dannose rubano Solana ed Ethereum Keys - 8.424 download confermati**  
-  Fonte: The Hacker News, 25 Sep 2025, 07:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/malicious-rust-crates-steal-solana-and.html>)
-
-- **Cisco avverte della vulnerabilità SNMP attivamente sfruttata che consente RCE o DOS nel software iOS**  
-  Fonte: The Hacker News, 25 Sep 2025, 06:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/cisco-warns-of-actively-exploited-snmp.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-02 06:18:06 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-03 06:17:23 UTC -->
