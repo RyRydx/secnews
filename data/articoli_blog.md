@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Opera vuole che tu paghi $ 19,90 al mese per il suo nuovo browser AI**  
+  Fonte: BleepingComputer, 03 Oct 2025, 23:54:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/opera-wants-you-to-pay-1990-per-month-for-its-new-ai-browser/>)
+
+- **Blogging di calamari del venerdì: la pesca eccessiva nei calamari nel sud -ovest dell'Atlantico**  
+  Fonte: Schneier on Security, 03 Oct 2025, 21:05:28 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html>)
+
+- **DETOUR Dog catturato in esecuzione di Malware Factory a propulsione DNS per Strela Stealer**  
+  Fonte: The Hacker News, 03 Oct 2025, 18:11:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html>)
+
+- **Il segnale aggiunge una nuova difesa crittografica contro gli attacchi quantistici**  
+  Fonte: BleepingComputer, 03 Oct 2025, 17:15:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/signal-adds-new-cryptographic-defense-against-quantum-attacks/>)
+
+- **Rhadamanthys Stealer Evolves: Aggiungi il dispositivo di impronta digitale, payload PNG Steganography**  
+  Fonte: The Hacker News, 03 Oct 2025, 15:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html>)
+
+- **Renault e Dacia UK avvertono di violazione dei dati che influiscono sui clienti**  
+  Fonte: BleepingComputer, 03 Oct 2025, 15:52:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/>)
+
+- **Il Giappone che corre a secco: l'attacco di ransomware lascia la nazione giorni lontano da Asahi Beer Careggiatura**  
+  Fonte: Graham Cluley, 03 Oct 2025, 15:25:48 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/japan-running-dry-ransomware-attack-leaves-nation-days-away-from-asahi-beer-shortage>)
+
+- **Il gigante della birra giapponese Asahi conferma l'attacco ransomware**  
+  Fonte: BleepingComputer, 03 Oct 2025, 14:51:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-confirms-ransomware-attack/>)
+
+- **Shinyhunters lancia il sito di perdite di dati Salesforce per estorcere 39 vittime**  
+  Fonte: BleepingComputer, 03 Oct 2025, 14:16:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-starts-leaking-data-stolen-in-salesforce-attacks/>)
+
+- **Commetjacking Attack Inntrace il browser cometa nel rubare e -mail**  
+  Fonte: BleepingComputer, 03 Oct 2025, 14:01:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/>)
+
+- **Presentare l'intelligenza artificiale al consiglio come CISO?Ecco un modello.**  
+  Fonte: BleepingComputer, 03 Oct 2025, 13:50:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/presenting-ai-to-the-board-as-a-ciso-heres-a-template/>)
+
+- **Oracle Links Clop Attacchi di estorsione alle vulnerabilità di luglio 2025**  
+  Fonte: BleepingComputer, 03 Oct 2025, 12:14:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/oracle-links-clop-extortion-attacks-to-july-security-flaws/>)
+
+- **I ricercatori avvertono di malware di WhatsApp di cui si diffonde il Sorvepotel**  
+  Fonte: The Hacker News, 03 Oct 2025, 12:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html>)
+
+- **Soluzione del prodotto: come Passwork 7 affronta la complessità della sicurezza aziendale**  
+  Fonte: The Hacker News, 03 Oct 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html>)
+
+- **Gli utenti aziendali di Gmail possono ora inviare e -mail crittografate a chiunque**  
+  Fonte: BleepingComputer, 03 Oct 2025, 11:18:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/gmail-business-users-can-now-send-encrypted-emails-to-anyone/>)
+
+- **Nuovo attacco di "cavalli di cavalleria" colpisce le agenzie russe con pugno e stallionrat**  
+  Fonte: The Hacker News, 03 Oct 2025, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html>)
+
+- **FLAGS CISA Meteobridge CVE-2025-4008 difetto come attivamente sfruttato in natura**  
+  Fonte: The Hacker News, 03 Oct 2025, 08:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html>)
+
 - **Microsoft Outlook smette di visualizzare immagini SVG in linea utilizzate negli attacchi**  
   Fonte: BleepingComputer, 02 Oct 2025, 18:13:37 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/>)
@@ -18,21 +86,9 @@
   Fonte: BleepingComputer, 02 Oct 2025, 15:35:44 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackerone-paid-81-million-in-bug-bounties-over-the-past-year/>)
 
-- **Il browser coraggioso supera i 100 milioni di utenti mensili attivi**  
-  Fonte: BleepingComputer, 02 Oct 2025, 15:07:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/software/brave-browser-surpasses-the-100-million-active-monthly-users-mark/>)
-
 - **Confucius Hackers ha colpito il Pakistan con il nuovo Wooperstealer e Anondoor Malware**  
   Fonte: The Hacker News, 02 Oct 2025, 14:44:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html>)
-
-- **Il bug di Microsoft Defender innesca avvisi di aggiornamento del BIOS errati**  
-  Fonte: BleepingComputer, 02 Oct 2025, 14:20:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-bug-triggers-erroneous-bios-update-alerts/>)
-
-- **Il tuo servizio di servizio è il nuovo vettore di attacco, ecco come difenderlo.**  
-  Fonte: BleepingComputer, 02 Oct 2025, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/your-service-desk-is-the-new-attack-vector-heres-how-to-defend-it/>)
 
 - **Avviso: il pacchetto PYPI dannoso Soopsocks infetta 2.653 sistemi prima di abbattere**  
   Fonte: The Hacker News, 02 Oct 2025, 13:07:00 UTC  
@@ -42,11 +98,11 @@
   Fonte: The Hacker News, 02 Oct 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html>)
 
-- **Bollettino di minacce di minaccia: Carplay Exploit, tattiche BYOVD, attacchi SQL C2, domanda di backdoor iCloud e altro ancora**  
+- **Bollettino di minacce di minaccia: Carplay Exploit, BYOVD Tactics, SQL C2 Attacks, iCloud Backdoor Demand e altro ancora**  
   Fonte: The Hacker News, 02 Oct 2025, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/threatsday-bulletin-carplay-exploit.html>)
 
-- **Google Mandiant sonde la nuova ondata di estorsione Oracle eventualmente collegata al ransomware CL0P**  
+- **Google Mandiant sonde la nuova ondata di estorsione Oracle eventualmente collegata al ransomware Cl0p**  
   Fonte: The Hacker News, 02 Oct 2025, 11:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/google-mandiant-probes-new-oracle.html>)
 
@@ -54,45 +110,17 @@
   Fonte: The Hacker News, 02 Oct 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html>)
 
-- **Campagne di spyware Android Impersonate Signal e Totok Messengers**  
-  Fonte: BleepingComputer, 02 Oct 2025, 10:53:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/android-spyware-campaigns-impersonate-signal-and-totok-messengers/>)
-
 - **ATTENZIONE: ATTENZIONE DELLA SPYWARE ANDROID Travestito come plug -in di crittografia del segnale e totok pro e totok pro**  
   Fonte: The Hacker News, 02 Oct 2025, 09:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html>)
-
-- **Red Hat conferma l'incidente di sicurezza dopo che gli hacker violano l'istanza**  
-  Fonte: BleepingComputer, 02 Oct 2025, 06:15:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-breach-gitlab-instance/>)
-
-- **E-mail di estorsione clop rivendicare il furto di dati sulla suite e-business Oracle**  
-  Fonte: BleepingComputer, 02 Oct 2025, 03:13:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/clop-extortion-emails-claim-theft-of-oracle-e-business-suite-data/>)
 
 - **Smashing Security Podcast #437: Domain of Doom di Salesforce Trust**  
   Fonte: Graham Cluley, 01 Oct 2025, 23:00:30 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-437/>)
 
-- **La violazione dei dati presso il fornitore di software per la concessionaria influisce su 766k clienti**  
-  Fonte: BleepingComputer, 01 Oct 2025, 20:37:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/data-breach-at-dealership-software-provider-impacts-766k-clients/>)
-
 - **Le tue app per telefoni preferite potrebbero perde i segreti della tua azienda**  
   Fonte: Graham Cluley, 01 Oct 2025, 20:19:58 UTC  
   [Leggi](<https://www.fortra.com/blog/favourite-phone-apps-might-leaking-companys-secrets>)
-
-- **Bug di Adobe Analytics ha trapelato i dati di monitoraggio dei clienti ad altri inquilini**  
-  Fonte: BleepingComputer, 01 Oct 2025, 19:58:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/adobe-analytics-bug-leaked-customer-tracking-data-to-other-tenants/>)
-
-- **Il nuovo bug in Classic Outlook può essere risolto solo tramite il supporto Microsoft**  
-  Fonte: BleepingComputer, 01 Oct 2025, 18:43:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-bug-in-classic-outlook-can-only-be-fixed-via-microsoft-support/>)
-
-- **Il malware Android utilizza VNC per dare accessori per gli aggressori**  
-  Fonte: BleepingComputer, 01 Oct 2025, 18:33:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/android-malware-uses-vnc-to-give-attackers-hands-on-access/>)
 
 - **Nuovo attacco Wiretap estraiti Intel SGX ECDSA Chiave tramite DDR4 Memory-Bus Interposer**  
   Fonte: The Hacker News, 01 Oct 2025, 17:20:00 UTC  
@@ -134,11 +162,11 @@
   Fonte: Graham Cluley, 30 Sep 2025, 19:45:23 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-lovers-sextortionists-scammers-africa>)
 
-- **Nuovo attacco di mazza da $ 50 rompe le protezioni per la sicurezza del cloud Intel e AMD**  
+- **Nuovo attacco di mazza da $ 50 rompe le protezioni di sicurezza delle Intel e AMD Cloud**  
   Fonte: The Hacker News, 30 Sep 2025, 18:42:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html>)
 
-- **Phantom Taurus: il nuovo gruppo di hacker collegato alla Cina colpisce i governi con malware invisibile**  
+- **Phantom Taurus: il nuovo gruppo hacker collegato alla Cina colpisce i governi con malware invisibile**  
   Fonte: The Hacker News, 30 Sep 2025, 16:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html>)
 
@@ -146,7 +174,7 @@
   Fonte: Graham Cluley, 30 Sep 2025, 14:00:17 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-70/>)
 
-- **I ricercatori divulgano i difetti di AI di Google Gemini che consentono iniezione rapida e exploit di cloud**  
+- **I ricercatori divulgano difetti di Google Gemini AI che consentono iniezione rapida e exploit di cloud**  
   Fonte: The Hacker News, 30 Sep 2025, 13:18:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html>)
 
@@ -170,11 +198,11 @@
   Fonte: Graham Cluley, 30 Sep 2025, 10:51:42 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/dutch-teens-recruited-telegram-russia>)
 
-- **New Android Trojan “Datzbro” inghiottiti con eventi di viaggio di Facebook generati dall'AI**  
+- **New Android Trojan “Datzbro” inghiottiti con eventi di viaggio di Facebook generati dall'IA**  
   Fonte: The Hacker News, 30 Sep 2025, 09:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/new-android-trojan-datzbro-tricking.html>)
 
-- **Difesa aziendale in evoluzione per proteggere la moderna catena di approvvigionamento di intelligenza artificiale**  
+- **Difesa aziendale in evoluzione per garantire la moderna catena di approvvigionamento di intelligenza artificiale**  
   Fonte: The Hacker News, 30 Sep 2025, 08:33:00 UTC  
   [Leggi](<https://thehackernews.com/2025/09/evolving-enterprise-defense-to-secure.html>)
 
@@ -226,33 +254,5 @@
   Fonte: Troy Hunt, 27 Sep 2025, 06:50:57 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-471/>)
 
-- **Blogging di calamari del venerdì: jigging per i calamari**  
-  Fonte: Schneier on Security, 26 Sep 2025, 21:03:03 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-jigging-for-squid.html>)
 
-- **I ricercatori espongono minacce di phishing che distribuiscono CountLoader e Purerat**  
-  Fonte: The Hacker News, 26 Sep 2025, 16:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html>)
-
-- **La nuova campagna di malware ColdRiver si unisce a Bo Team e Bearlyfy negli attacchi informatici focalizzati in Russia**  
-  Fonte: The Hacker News, 26 Sep 2025, 12:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/new-coldriver-malware-campaign-joins-bo.html>)
-
-- **Crash test per la sicurezza: perché BAS è la prova della difesa, non ipotesi**  
-  Fonte: The Hacker News, 26 Sep 2025, 11:22:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/crash-tests-for-security-why-bas-is.html>)
-
-- **Modellazione delle minacce digitali sotto l'autoritarismo**  
-  Fonte: Schneier on Security, 26 Sep 2025, 11:04:48 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/digital-threat-modeling-under-authoritarianism.html>)
-
-- **Fortra goanywhere cvss 10 difetti sfruttati come 0 giorni a settimana prima della divulgazione pubblica**  
-  Fonte: The Hacker News, 26 Sep 2025, 09:22:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html>)
-
-- **Nuova variante MacOS XCSSET mira a Firefox con il modulo Clipper e Persistence**  
-  Fonte: The Hacker News, 26 Sep 2025, 09:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/new-macos-xcsset-variant-targets.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-03 06:17:23 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-04 06:15:41 UTC -->
