@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Oracle Rushes Patch per CVE-2025-61882 dopo che Cl0p l'ha sfruttato negli attacchi di furto di dati**  
+  Fonte: The Hacker News, 06 Oct 2025, 05:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html>)
+
+- **ORACLE patch EBS zero-day sfruttato negli attacchi di furto di dati clop**  
+  Fonte: BleepingComputer, 06 Oct 2025, 01:37:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/>)
+
+- **Gli hacker hanno sfruttato il difetto di Zimbra come zero-day usando i file ICALENDAR**  
+  Fonte: BleepingComputer, 05 Oct 2025, 14:45:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/>)
+
+- **Parkmobile paga ... $ 1 ciascuno per la violazione dei dati del 2021 che ha colpito 22 milioni**  
+  Fonte: BleepingComputer, 05 Oct 2025, 12:16:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/>)
+
 - **Il benchmark di Apple iPad Pro M5 trapelato mostra enormi miglioramenti**  
   Fonte: BleepingComputer, 04 Oct 2025, 20:35:48 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/>)
@@ -58,27 +74,11 @@
   Fonte: The Hacker News, 03 Oct 2025, 15:58:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html>)
 
-- **Renault e Dacia UK avvertono di violazione dei dati che colpiscono i clienti**  
-  Fonte: BleepingComputer, 03 Oct 2025, 15:52:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/>)
-
-- **Il Giappone che corre a secco: l'attacco di ransomware lascia la nazione giorni lontano da Asahi Beer Carenate**  
+- **Il Giappone che corre a secco: l'attacco di ransomware lascia la nazione giorni lontano da Asahi Beer Careggiatura**  
   Fonte: Graham Cluley, 03 Oct 2025, 15:25:48 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/japan-running-dry-ransomware-attack-leaves-nation-days-away-from-asahi-beer-shortage>)
 
-- **Il gigante della birra giapponese Asahi conferma l'attacco ransomware**  
-  Fonte: BleepingComputer, 03 Oct 2025, 14:51:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-confirms-ransomware-attack/>)
-
-- **Shinyhunters lancia il sito di perdite di dati Salesforce per estorcere 39 vittime**  
-  Fonte: BleepingComputer, 03 Oct 2025, 14:16:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-starts-leaking-data-stolen-in-salesforce-attacks/>)
-
-- **Commetjacking Attack Inntrace il browser cometa nel rubare e -mail**  
-  Fonte: BleepingComputer, 03 Oct 2025, 14:01:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/>)
-
-- **I ricercatori avvertono di malware di WhatsApp di cui si diffonde il Sorvepotel**  
+- **I ricercatori avvertono di avere malware di WhatsApp che si parla di Sorvepotel**  
   Fonte: The Hacker News, 03 Oct 2025, 12:02:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html>)
 
@@ -174,7 +174,7 @@
   Fonte: Graham Cluley, 30 Sep 2025, 19:45:23 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-lovers-sextortionists-scammers-africa>)
 
-- **Nuovo attacco di mazza da $ 50 rompe le protezioni per la sicurezza del cloud Intel e AMD**  
+- **Nuovo attacco di mazza da $ 50 rompe le protezioni di sicurezza delle Intel e AMD Cloud**  
   Fonte: The Hacker News, 30 Sep 2025, 18:42:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html>)
 
@@ -259,4 +259,4 @@
   [Leggi](<https://www.troyhunt.com/welcoming-cern-to-have-i-been-pwned/>)
 
 
-<!-- Ultimo aggiornamento: 2025-10-05 06:16:03 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-06 06:18:38 UTC -->
