@@ -2,67 +2,111 @@
 
 ## Ultimi 7 giorni
 
-- **Oracle EBS Under Fire mentre Cl0p Exploits CVE-2025-61882 negli attacchi del mondo reale**  
+- **Salesforce rifiuta di pagare il riscatto per attacchi di furto di dati diffusi**  
+  Fonte: BleepingComputer, 08 Oct 2025, 00:17:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/salesforce-refuses-to-pay-ransom-over-widespread-data-theft-attacks/>)
+
+- **ShinyHunters commette una vasta ondata di estorsioni aziendali**  
+  Fonte: Krebs on Security, 07 Oct 2025, 22:45:35 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/>)
+
+- **Docker rende il catalogo delle immagini rafforzate alla portata delle piccole imprese**  
+  Fonte: BleepingComputer, 07 Oct 2025, 22:09:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/docker-makes-hardened-images-catalog-affordable-for-small-businesses/>)
+
+- **Google non risolverà il nuovo attacco di contrabbando ASCII in Gemini**  
+  Fonte: BleepingComputer, 07 Oct 2025, 20:35:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-wont-fix-new-ascii-smuggling-attack-in-gemini/>)
+
+- **DraftKings avverte delle violazioni degli account negli attacchi di credential stuffing**  
+  Fonte: BleepingComputer, 07 Oct 2025, 19:09:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/draftkings-warns-of-account-breaches-in-credential-stuffing-attacks/>)
+
+- **Clop ha sfruttato Oracle zero-day per il furto di dati dall'inizio di agosto**  
+  Fonte: BleepingComputer, 07 Oct 2025, 17:27:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/oracle-zero-day-exploited-in-clop-data-theft-attacks-since-early-august/>)
+
+- **Batshadow Group utilizza il nuovo malware "Vampire Bot" basato su GO per cacciare le persone in cerca di lavoro**  
+  Fonte: The Hacker News, 07 Oct 2025, 17:04:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html>)
+
+- **Gli hacker nordcoreani hanno rubato oltre $ 2 miliardi in cripto**  
+  Fonte: BleepingComputer, 07 Oct 2025, 17:02:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/cryptocurrency/north-korean-hackers-stole-over-2-billion-in-crypto-this-year/>)
+
+- **Il colosso dell'elettronica Avnet conferma la violazione e afferma che i dati rubati sono illeggibili**  
+  Fonte: BleepingComputer, 07 Oct 2025, 16:19:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/electronics-giant-avnet-confirms-breach-says-stolen-data-unreadable/>)
+
+- **Microsoft uccide più account Microsoft Account in Windows 11**  
+  Fonte: BleepingComputer, 07 Oct 2025, 15:37:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-more-tricks-to-skip-microsoft-account-setup-in-windows-11/>)
+
+- **La nuova intelligenza artificiale di Google non si limita a individuare le vulnerabilità: riscrive il codice per correggerle**  
+  Fonte: The Hacker News, 07 Oct 2025, 15:18:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html>)
+
+- **Redefining Security Validation with AI-Powered Breach and Attack Simulation**  
+  Fonte: BleepingComputer, 07 Oct 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/redefining-security-validation-with-ai-powered-breach-and-attack-simulation/>)
+
+- **L'IA Fix #71: robot hackerato e AI affamato di potenza**  
+  Fonte: Graham Cluley, 07 Oct 2025, 14:00:49 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-71/>)
+
+- **Il nuovo programma di bounty di bug AI di Google paga fino a $ 30.000 per i difetti**  
+  Fonte: BleepingComputer, 07 Oct 2025, 13:19:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/googles-new-ai-bug-bounty-program-pays-up-to-30-000-for-flaws/>)
+
+- **Operazione di influenza abilitata AI contro l'Iran**  
+  Fonte: Schneier on Security, 07 Oct 2025, 11:04:23 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/ai-enabled-influence-operation-against-iran.html>)
+
+- **Nuova ricerca: l’intelligenza artificiale è già il canale di esfiltrazione dei dati n. 1 nelle aziende**  
+  Fonte: The Hacker News, 07 Oct 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html>)
+
+- **Xworm 6.0 ritorna con 35+ plugin e funzionalità di furto di dati migliorate**  
+  Fonte: The Hacker News, 07 Oct 2025, 10:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html>)
+
+- **Redis Flaw di 13 anni Exposed: CVSS 10.0 Vulnerabilità consente agli aggressori di eseguire il codice da remoto**  
+  Fonte: The Hacker News, 07 Oct 2025, 08:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html>)
+
+- **Microsoft collega Storm-1175 a GoAnywhere per sfruttare la distribuzione del ransomware Medusa**  
+  Fonte: The Hacker News, 07 Oct 2025, 08:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html>)
+
+- **Oracle EBS sotto accusa mentre Cl0p sfrutta CVE-2025-61882 in attacchi nel mondo reale**  
   Fonte: The Hacker News, 07 Oct 2025, 05:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html>)
 
-- **La violazione dei dati di Red Hat si intensifica mentre i luccicanti si uniscono all'estorsione**  
+- **La violazione dei dati di Red Hat si intensifica mentre ShinyHunters si unisce all'estorsione**  
   Fonte: BleepingComputer, 06 Oct 2025, 21:08:24 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/>)
 
-- **Microsoft: bug di Goanywhere critico sfruttato negli attacchi ransomware**  
+- **Microsoft: bug critico di GoAnywhere sfruttato negli attacchi ransomware**  
   Fonte: BleepingComputer, 06 Oct 2025, 18:11:46 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-critical-goanywhere-bug-exploited-in-ransomware-attacks/>)
 
-- **Microsoft: l'esecuzione di più app di Office causa problemi a Copilot**  
+- **Microsoft: l'esecuzione di più app per ufficio causa problemi di copilota**  
   Fonte: BleepingComputer, 06 Oct 2025, 17:16:55 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-running-multiple-office-apps-causes-copilot-issues/>)
-
-- **Zeroday Cloud Hacking Contest offre $ 4,5 milioni in doni**  
-  Fonte: BleepingComputer, 06 Oct 2025, 17:12:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-contest-offers-45-million-in-bounties/>)
-
-- **Chatgpt Pulse sta arrivando sul web, ma nessuna parola su gratuita o più**  
-  Fonte: BleepingComputer, 06 Oct 2025, 16:59:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-pulse-is-coming-to-the-web-but-no-word-on-free-or-plus-roll-out/>)
-
-- **Openai sta testando il costruttore di agenti alimentati a chatgpt**  
-  Fonte: BleepingComputer, 06 Oct 2025, 16:06:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-chatgpt-powered-agent-builder/>)
-
-- **Redis avverte di difetti critici che colpiscono migliaia di casi**  
-  Fonte: BleepingComputer, 06 Oct 2025, 15:55:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/redis-warns-of-max-severity-flaw-impacting-thousands-of-instances/>)
-
-- **LinkedIn fa causa a Proapis per l'utilizzo di account falsi da 1 m per raschiare i dati dell'utente**  
-  Fonte: BleepingComputer, 06 Oct 2025, 14:54:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/linkedin-sues-proapis-for-using-1m-fake-accounts-to-scrape-user-data/>)
-
-- **Il ruolo dell'intelligenza artificiale nel panorama della sicurezza informatica di oggi**  
-  Fonte: BleepingComputer, 06 Oct 2025, 14:05:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-role-of-artificial-intelligence-in-todays-cybersecurity-landscape/>)
 
 - **Nuovo rapporto collega le società di ricerca Bieta e CIII alle operazioni informatiche della MSS in Cina**  
   Fonte: The Hacker News, 06 Oct 2025, 14:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html>)
 
-- **Steam e Microsoft avvertono di unità difetti che espongono i giocatori agli attacchi**  
-  Fonte: BleepingComputer, 06 Oct 2025, 13:56:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/steam-and-microsoft-warn-of-unity-flaw-exposing-gamers-to-attacks/>)
-
 - **I dati degli utenti Discord rubati dagli hacker nella violazione dei dati di terze parti**  
   Fonte: Graham Cluley, 06 Oct 2025, 13:54:48 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/discord-users-data-stolen-by-hackers-in-third-party-data-breach>)
-
-- **Xworm Malware Resurfaces con modulo ransomware, oltre 35 plugin**  
-  Fonte: BleepingComputer, 06 Oct 2025, 11:42:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/>)
 
 - **⚡ Riepilogo settimanale: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm e altro**  
   Fonte: The Hacker News, 06 Oct 2025, 11:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html>)
 
-- **5 domande cruciali per l'adozione di una soluzione di sicurezza basata sull'intelligenza artificiale**  
+- **5 Domande critiche per l'adozione di una soluzione di sicurezza AI**  
   Fonte: The Hacker News, 06 Oct 2025, 11:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html>)
 
@@ -70,11 +114,11 @@
   Fonte: The Hacker News, 06 Oct 2025, 11:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html>)
 
-- **Il gruppo cinese di criminalità informatica gestisce anello di frode SEO globale usando server IIS compromessi**  
+- **Un gruppo cinese di criminalità informatica gestisce un giro globale di frode SEO utilizzando server IIS compromessi**  
   Fonte: The Hacker News, 06 Oct 2025, 11:36:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html>)
 
-- **AI alle elezioni di medio termine del 2026**  
+- **L’intelligenza artificiale alle elezioni di medio termine del 2026**  
   Fonte: Schneier on Security, 06 Oct 2025, 11:06:22 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/ai-in-the-2026-midterm-elections.html>)
 
@@ -86,23 +130,11 @@
   Fonte: The Hacker News, 06 Oct 2025, 06:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html>)
 
-- **ORACLE patch EBS zero-day sfruttato negli attacchi di furto di dati clop**  
-  Fonte: BleepingComputer, 06 Oct 2025, 01:37:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/>)
-
-- **Gli hacker hanno sfruttato il difetto di Zimbra come zero-day usando i file ICALENDAR**  
-  Fonte: BleepingComputer, 05 Oct 2025, 14:45:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/>)
-
-- **Parkmobile paga ... $ 1 ciascuno per la violazione dei dati del 2021 che ha colpito 22 milioni**  
-  Fonte: BleepingComputer, 05 Oct 2025, 12:16:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/>)
-
 - **CometJacking: un clic può trasformare il browser AI Comet di Perplexity in un ladro di dati**  
   Fonte: The Hacker News, 04 Oct 2025, 14:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html>)
 
-- **L'attività di scansione su Palo Alto Networks Portali salta il 500% in un giorno**  
+- **L'attività di scansione sui portali di Palo Alto Networks aumenta del 500% in un giorno**  
   Fonte: The Hacker News, 04 Oct 2025, 10:39:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html>)
 
@@ -110,7 +142,7 @@
   Fonte: Schneier on Security, 03 Oct 2025, 21:05:28 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html>)
 
-- **DETOUR Dog catturato in esecuzione di Malware Factory a propulsione DNS per Strela Stealer**  
+- **Detour Dog è stato sorpreso a gestire una fabbrica di malware basata su DNS per Strela Stealer**  
   Fonte: The Hacker News, 03 Oct 2025, 18:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html>)
 
@@ -126,7 +158,7 @@
   Fonte: The Hacker News, 03 Oct 2025, 12:02:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html>)
 
-- **Panoramica del prodotto: come Passwork 7 affronta la complessità della sicurezza aziendale**  
+- **Soluzione del prodotto: come Passwork 7 affronta la complessità della sicurezza aziendale**  
   Fonte: The Hacker News, 03 Oct 2025, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html>)
 
@@ -134,7 +166,7 @@
   Fonte: The Hacker News, 03 Oct 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html>)
 
-- **FLAGS CISA Meteobridge CVE-2025-4008 Flaw come attivamente sfruttato in natura**  
+- **CISA segnala il difetto CVE-2025-4008 di Meteobridge come attivamente sfruttato in natura**  
   Fonte: The Hacker News, 03 Oct 2025, 08:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html>)
 
@@ -142,19 +174,19 @@
   Fonte: Schneier on Security, 02 Oct 2025, 16:19:59 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/daniel-miessler-on-the-ai-attack-defense-balance.html>)
 
-- **Confucius Hackers ha colpito il Pakistan con il nuovo Wooperstealer e Anondoor Malware**  
+- **Gli hacker di Confucio colpiscono il Pakistan con il nuovo WooperStealer e il malware Anondoor**  
   Fonte: The Hacker News, 02 Oct 2025, 14:44:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html>)
 
-- **Avviso: il pacchetto PYPI dannoso Soopsocks infetta 2.653 sistemi prima di abbattere**  
+- **Avviso: il pacchetto PyPI dannoso soopsocks infetta 2.653 sistemi prima della rimozione**  
   Fonte: The Hacker News, 02 Oct 2025, 13:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html>)
 
-- **Automatizzazione della consegna più importante: 7 flussi di lavoro chiave per il massimo impatto**  
+- **Automatizzazione della consegna del Pentest: 7 flussi di lavoro chiave per il massimo impatto**  
   Fonte: The Hacker News, 02 Oct 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html>)
 
-- **Bollettino di minacce di minaccia: Carplay Exploit, tattiche BYOVD, attacchi SQL C2, domanda di backdoor iCloud e altro ancora**  
+- **Bollettino del ThreatsDay: exploit CarPlay, tattiche BYOVD, attacchi SQL C2, richiesta di backdoor iCloud e altro**  
   Fonte: The Hacker News, 02 Oct 2025, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/threatsday-bulletin-carplay-exploit.html>)
 
@@ -162,11 +194,11 @@
   Fonte: The Hacker News, 02 Oct 2025, 11:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/google-mandiant-probes-new-oracle.html>)
 
-- **Come colmare le lacune di rilevamento delle minacce: il piano d'azione del tuo SoC**  
+- **Come colmare le lacune nel rilevamento delle minacce: il piano d'azione del tuo SOC**  
   Fonte: The Hacker News, 02 Oct 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html>)
 
-- **ATTENZIONE: ATTENZIONE DELLA SPYWARE ANDROID Travestito come plug -in di crittografia del segnale e totok pro e totok pro**  
+- **Avvertenza: attenzione allo spyware Android camuffato da plug-in di crittografia del segnale e ToTok Pro**  
   Fonte: The Hacker News, 02 Oct 2025, 09:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html>)
 
@@ -186,7 +218,7 @@
   Fonte: The Hacker News, 01 Oct 2025, 13:27:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html>)
 
-- **Scopri come i team di sicurezza leader fondono i flussi di lavoro umani AI + (webinar gratuito)**  
+- **Scopri come i principali team di sicurezza fondono AI e flussi di lavoro umani (webinar gratuito)**  
   Fonte: The Hacker News, 01 Oct 2025, 12:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/how-leading-security-teams-blend-ai.html>)
 
@@ -194,7 +226,7 @@
   Fonte: The Hacker News, 01 Oct 2025, 12:36:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/critical-red-hat-openshift-ai-flaw.html>)
 
-- **Uso dell'IA generativa nelle truffe**  
+- **Utilizzo dell'intelligenza artificiale generativa nelle truffe**  
   Fonte: Schneier on Security, 01 Oct 2025, 11:09:51 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/use-of-generative-ai-in-scams.html>)
 
@@ -214,57 +246,5 @@
   Fonte: The Hacker News, 01 Oct 2025, 07:11:19 UTC  
   [Leggi](<https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html>)
 
-- **Dai finti amanti ai sextortionisti: arrestati 260 truffatori in tutta l'Africa**  
-  Fonte: Graham Cluley, 30 Sep 2025, 19:45:23 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-lovers-sextortionists-scammers-africa>)
 
-- **Nuovo attacco di mazza da $ 50 rompe le protezioni per la sicurezza del cloud Intel e AMD**  
-  Fonte: The Hacker News, 30 Sep 2025, 18:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html>)
-
-- **Phantom Taurus: il nuovo gruppo di hacker collegato alla Cina colpisce i governi con malware invisibile**  
-  Fonte: The Hacker News, 30 Sep 2025, 16:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html>)
-
-- **L'IA Fix #70: AI si comporta ... fino a quando non sa che stai guardando**  
-  Fonte: Graham Cluley, 30 Sep 2025, 14:00:17 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-70/>)
-
-- **I ricercatori divulgano i difetti di AI di Google Gemini che consentono iniezione rapida e exploit di cloud**  
-  Fonte: The Hacker News, 30 Sep 2025, 13:18:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html>)
-
-- **Microsoft espande Sentinel nella piattaforma di sicurezza Agentic con Unified Data Lake**  
-  Fonte: The Hacker News, 30 Sep 2025, 13:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html>)
-
-- **Stop Alert Chaos: il contesto è la chiave per una risposta efficace degli incidenti**  
-  Fonte: The Hacker News, 30 Sep 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/stop-alert-chaos-context-is-key-to.html>)
-
-- **Dettagli di una truffa**  
-  Fonte: Schneier on Security, 30 Sep 2025, 11:06:03 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/09/details-of-a-scam.html>)
-
-- **Urgente: gli hacker collegati alla Cina sfruttano il nuovo VMware Zero-Day dall'ottobre 2024**  
-  Fonte: The Hacker News, 30 Sep 2025, 10:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/urgent-china-linked-hackers-exploit-new.html>)
-
-- **Adolescenti olandesi reclutati su Telegram, accusati di trama di hacking sostenuta dalla Russia**  
-  Fonte: Graham Cluley, 30 Sep 2025, 10:51:42 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/dutch-teens-recruited-telegram-russia>)
-
-- **New Android Trojan “Datzbro” inghiottiti con eventi di viaggio di Facebook generati dall'IA**  
-  Fonte: The Hacker News, 30 Sep 2025, 09:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/new-android-trojan-datzbro-tricking.html>)
-
-- **Difesa aziendale in evoluzione per proteggere la moderna catena di approvvigionamento di intelligenza artificiale**  
-  Fonte: The Hacker News, 30 Sep 2025, 08:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/evolving-enterprise-defense-to-secure.html>)
-
-- **La polizia del Regno Unito ha appena sequestrato £ 5,5 miliardi in Bitcoin, il più grande busto del mondo del mondo**  
-  Fonte: The Hacker News, 30 Sep 2025, 08:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/uk-police-just-seized-55-billion-in.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-07 06:18:16 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-08 06:18:14 UTC -->
