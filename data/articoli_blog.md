@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: capodoglio che mangia un calamaro gigante**  
+  Fonte: Schneier on Security, 10 Oct 2025, 21:02:32 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-sperm-whale-eating-a-giant-squid.html>)
+
+- **Windows 11 23H2 Home e Pro raggiungeranno la fine del supporto tra 30 giorni**  
+  Fonte: BleepingComputer, 10 Oct 2025, 19:34:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/>)
+
+- **Gli hacker sfruttano zero-day nel software di condivisione file Gladinet**  
+  Fonte: BleepingComputer, 10 Oct 2025, 19:08:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploiting-zero-day-in-gladinet-file-sharing-software/>)
+
+- **Cybersecurity For Dummies, eBook 3a edizione GRATUITO per un periodo limitato**  
+  Fonte: BleepingComputer, 10 Oct 2025, 18:11:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cybersecurity-for-dummies-3rd-edition-ebook-free-for-a-limited-time/>)
+
+- **Google Chrome revoca l'accesso alle notifiche per i siti inattivi**  
+  Fonte: BleepingComputer, 10 Oct 2025, 17:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/>)
+
+- **Apple ora offre 2 milioni di dollari per le vulnerabilità RCE zero-click**  
+  Fonte: BleepingComputer, 10 Oct 2025, 16:50:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-now-offers-2-million-for-zero-click-rce-vulnerabilities/>)
+
+- **La botnet DDoS Aisuru ricopre gli ISP statunitensi di attacchi DDoS record**  
+  Fonte: Krebs on Security, 10 Oct 2025, 16:10:43 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/>)
+
+- **Copilot su Windows ora può connettersi alla posta elettronica e creare documenti Office**  
+  Fonte: BleepingComputer, 10 Oct 2025, 14:49:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/copilot-on-windows-can-now-connect-to-email-create-office-docs/>)
+
+- **Il malware Stealit abusa della singola funzionalità eseguibile di Node.js tramite programmi di installazione di giochi e VPN**  
+  Fonte: The Hacker News, 10 Oct 2025, 14:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html>)
+
+- **Dal laboratorio alla leadership: come la certificazione VMware ha trasformato la mia carriera**  
+  Fonte: BleepingComputer, 10 Oct 2025, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/from-lab-to-leadership-how-vmware-certification-transformed-my-career/>)
+
+- **Microsoft mette in guardia contro i "pirati del libro paga" che dirottano gli account SaaS delle risorse umane per rubare gli stipendi dei dipendenti**  
+  Fonte: The Hacker News, 10 Oct 2025, 13:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html>)
+
+- **Dal rilevamento alla patch: Fortra rivela la cronologia completa dello sfruttamento CVE-2025-10035**  
+  Fonte: The Hacker News, 10 Oct 2025, 11:42:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html>)
+
+- **Hacking autonomo dell'intelligenza artificiale e futuro della sicurezza informatica**  
+  Fonte: Schneier on Security, 10 Oct 2025, 11:06:53 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/autonomous-ai-hacking-and-the-future-of-cybersecurity.html>)
+
+- **Lo stack AI SOC del 2026: cosa distingue le piattaforme di alto livello?**  
+  Fonte: The Hacker News, 10 Oct 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/the-ai-soc-stack-of-2026-what-sets-top.html>)
+
+- **175 pacchetti npm dannosi con 26.000 download utilizzati nella campagna di phishing delle credenziali**  
+  Fonte: The Hacker News, 10 Oct 2025, 10:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html>)
+
+- **Da LFI a RCE: sfruttamento attivo rilevato nelle vulnerabilità di Gladinet e TrioFox**  
+  Fonte: The Hacker News, 10 Oct 2025, 09:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html>)
+
+- **L'FBI disattiva il portale BreachForums utilizzato per le estorsioni di Salesforce**  
+  Fonte: BleepingComputer, 10 Oct 2025, 08:24:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-takes-down-breachforums-portal-used-for-salesforce-extortion/>)
+
+- **Gli hacker collegati a CL0P violano dozzine di organizzazioni attraverso Oracle Software Flaw**  
+  Fonte: The Hacker News, 10 Oct 2025, 06:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html>)
+
 - **Il nuovo spyware per Android ClayRat imita WhatsApp, TikTok, YouTube**  
   Fonte: BleepingComputer, 09 Oct 2025, 21:06:31 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-android-spyware-clayrat-imitates-whatsapp-tiktok-youtube/>)
@@ -30,25 +102,9 @@
   Fonte: The Hacker News, 09 Oct 2025, 15:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html>)
 
-- **Microsoft: Windows Backup ora disponibile per gli utenti aziendali**  
-  Fonte: BleepingComputer, 09 Oct 2025, 14:56:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-backup-now-available-for-enterprise-users/>)
-
-- **SonicWall: configurazioni del firewall rubate per tutti i clienti del backup su cloud**  
-  Fonte: BleepingComputer, 09 Oct 2025, 14:13:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-firewall-configs-stolen-for-all-cloud-backup-customers/>)
-
-- **Dall'infostealer al RAT completo: analisi della catena di attacco PureRAT**  
-  Fonte: BleepingComputer, 09 Oct 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/from-infostealer-to-full-rat-dissecting-the-purerat-attack-chain/>)
-
 - **Gli hacker accedono ai backup del firewall SonicWall Cloud e attivano controlli di sicurezza urgenti**  
   Fonte: The Hacker News, 09 Oct 2025, 13:48:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html>)
-
-- **L'interruzione di Azure blocca l'accesso ai servizi Microsoft 365 e ai portali di amministrazione**  
-  Fonte: BleepingComputer, 09 Oct 2025, 12:38:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/>)
 
 - **Bollettino del ThreatsDay: attacco hacker a MS Teams, dirottamento dell'MFA, furto di criptovalute da 2 miliardi di dollari, sondaggi Apple Siri e altro**  
   Fonte: The Hacker News, 09 Oct 2025, 12:16:00 UTC  
@@ -58,10 +114,6 @@
   Fonte: The Hacker News, 09 Oct 2025, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html>)
 
-- **Gli hacktivisti prendono di mira infrastrutture critiche e colpiscono impianti esca**  
-  Fonte: BleepingComputer, 09 Oct 2025, 11:13:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacktivists-target-critical-infrastructure-hit-decoy-plant/>)
-
 - **Dal phishing al malware: l'intelligenza artificiale diventa la nuova arma informatica della Russia nella guerra contro l'Ucraina**  
   Fonte: The Hacker News, 09 Oct 2025, 09:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html>)
@@ -70,10 +122,6 @@
   Fonte: The Hacker News, 09 Oct 2025, 06:57:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html>)
 
-- **Gli hacker affermano che Discord ha violato i dati esposti di 5,5 milioni di utenti**  
-  Fonte: BleepingComputer, 09 Oct 2025, 00:22:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-claim-discord-breach-exposed-data-of-55-million-users/>)
-
 - **Le ingiunzioni del tribunale sono i pensieri e le preghiere della risposta alla violazione dei dati**  
   Fonte: Troy Hunt, 09 Oct 2025, 00:03:52 UTC  
   [Leggi](<https://www.troyhunt.com/court-injunctions-are-the-thoughts-and-prayers-of-data-breach-response/>)
@@ -81,14 +129,6 @@
 - **Smashing Security podcast n. 438: Quando il tuo mouse diventa una spia e gli hacker sviluppano una coscienza**  
   Fonte: Graham Cluley, 08 Oct 2025, 23:31:20 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-438/>)
-
-- **Il nuovo attacco FileFix utilizza il contrabbando di cache per eludere il software di sicurezza**  
-  Fonte: BleepingComputer, 08 Oct 2025, 19:49:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/>)
-
-- **Il ransomware Qilin rivendica l'attacco al birrificio Asahi e fa trapelare dati**  
-  Fonte: BleepingComputer, 08 Oct 2025, 18:42:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/qilin-ransomware-claims-asahi-brewery-attack-leaks-data/>)
 
 - **Gli hacker sfruttano i siti WordPress per alimentare attacchi di phishing ClickFix di nuova generazione**  
   Fonte: The Hacker News, 08 Oct 2025, 16:43:00 UTC  
@@ -210,37 +250,5 @@
   Fonte: The Hacker News, 04 Oct 2025, 10:39:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html>)
 
-- **Blog sui calamari del venerdì: pesca eccessiva di calamari nell'Atlantico sudoccidentale**  
-  Fonte: Schneier on Security, 03 Oct 2025, 21:05:28 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html>)
 
-- **Detour Dog è stato sorpreso a gestire una fabbrica di malware alimentata da DNS per Strela Stealer**  
-  Fonte: The Hacker News, 03 Oct 2025, 18:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html>)
-
-- **Rhadamanthys Stealer si evolve: aggiunge l'impronta digitale del dispositivo e i payload della steganografia PNG**  
-  Fonte: The Hacker News, 03 Oct 2025, 15:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html>)
-
-- **Il Giappone è a secco: l’attacco ransomware lascia la nazione lontana pochi giorni dalla carenza di birra Asahi**  
-  Fonte: Graham Cluley, 03 Oct 2025, 15:25:48 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/japan-running-dry-ransomware-attack-leaves-nation-days-away-from-asahi-beer-shortage>)
-
-- **I ricercatori mettono in guardia contro un malware WhatsApp che si autodiffonde denominato SORVEPOTEL**  
-  Fonte: The Hacker News, 03 Oct 2025, 12:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html>)
-
-- **Panoramica del prodotto: come Passwork 7 affronta la complessità della sicurezza aziendale**  
-  Fonte: The Hacker News, 03 Oct 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html>)
-
-- **Il nuovo attacco "Lupo mannaro di cavalleria" colpisce le agenzie russe con FoalShell e StallionRAT**  
-  Fonte: The Hacker News, 03 Oct 2025, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html>)
-
-- **CISA segnala il difetto CVE-2025-4008 di Meteobridge come attivamente sfruttato in natura**  
-  Fonte: The Hacker News, 03 Oct 2025, 08:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-10 06:18:36 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-11 06:15:15 UTC -->
