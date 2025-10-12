@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 473**  
+  Fonte: Troy Hunt, 12 Oct 2025, 03:25:42 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-473/>)
+
+- **Gli esperti avvertono che il diffuso compromesso della VPN SonicWall avrà un impatto su oltre 100 account**  
+  Fonte: The Hacker News, 11 Oct 2025, 13:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html>)
+
+- **Gli hacker trasformano lo strumento Velociraptor DFIR in un'arma negli attacchi ransomware LockBit**  
+  Fonte: The Hacker News, 11 Oct 2025, 13:04:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html>)
+
 - **Blog sui calamari del venerdì: capodoglio che mangia un calamaro gigante**  
   Fonte: Schneier on Security, 10 Oct 2025, 21:02:32 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-sperm-whale-eating-a-giant-squid.html>)
@@ -25,6 +37,10 @@
 - **Apple ora offre 2 milioni di dollari per le vulnerabilità RCE zero-click**  
   Fonte: BleepingComputer, 10 Oct 2025, 16:50:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/apple-now-offers-2-million-for-zero-click-rce-vulnerabilities/>)
+
+- **BreachForums è stato sequestrato, ma gli hacker affermano che continueranno a trapelare i dati di Salesforce**  
+  Fonte: Graham Cluley, 10 Oct 2025, 16:34:22 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/breachforums-seized-hackers-will-leak-salesforce-data>)
 
 - **La botnet DDoS Aisuru ricopre gli ISP statunitensi di attacchi DDoS record**  
   Fonte: Krebs on Security, 10 Oct 2025, 16:10:43 UTC  
@@ -242,13 +258,5 @@
   Fonte: The Hacker News, 06 Oct 2025, 06:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html>)
 
-- **CometJacking: un clic può trasformare il browser AI Comet di Perplexity in un ladro di dati**  
-  Fonte: The Hacker News, 04 Oct 2025, 14:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html>)
 
-- **L'attività di scansione sui portali di Palo Alto Networks aumenta del 500% in un giorno**  
-  Fonte: The Hacker News, 04 Oct 2025, 10:39:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-11 06:15:15 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-12 06:15:13 UTC -->
