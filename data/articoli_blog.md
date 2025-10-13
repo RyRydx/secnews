@@ -2,9 +2,25 @@
 
 ## Ultimi 7 giorni
 
+- **Il nuovo malware basato su Rust "ChaosBot" utilizza i canali Discord per controllare i PC delle vittime**  
+  Fonte: The Hacker News, 13 Oct 2025, 05:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html>)
+
+- **Il nuovo bug di Oracle E-Business Suite potrebbe consentire agli hacker di accedere ai dati senza effettuare il login**  
+  Fonte: The Hacker News, 12 Oct 2025, 17:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html>)
+
+- **I falsi testi "Rimborso dell'inflazione" prendono di mira i newyorkesi in una nuova truffa**  
+  Fonte: BleepingComputer, 12 Oct 2025, 14:19:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/>)
+
 - **Aggiornamento settimanale 473**  
   Fonte: Troy Hunt, 12 Oct 2025, 03:25:42 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-473/>)
+
+- **La Spagna smantella il sindacato del crimine informatico “GXC Team” e arresta il leader**  
+  Fonte: BleepingComputer, 11 Oct 2025, 14:17:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spain-dismantles-gxc-team-cybercrime-syndicate-arrests-leader/>)
 
 - **Gli esperti avvertono che il diffuso compromesso della VPN SonicWall avrà un impatto su oltre 100 account**  
   Fonte: The Hacker News, 11 Oct 2025, 13:30:00 UTC  
@@ -30,7 +46,7 @@
   Fonte: BleepingComputer, 10 Oct 2025, 18:11:25 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cybersecurity-for-dummies-3rd-edition-ebook-free-for-a-limited-time/>)
 
-- **Google Chrome revoca l'accesso alle notifiche per i siti inattivi**  
+- **Google Chrome per revocare le notifiche del browser per i siti inattivi**  
   Fonte: BleepingComputer, 10 Oct 2025, 17:00:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/>)
 
@@ -98,21 +114,9 @@
   Fonte: BleepingComputer, 09 Oct 2025, 19:38:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/>)
 
-- **Gli hacker ora utilizzano lo strumento Velociraptor DFIR negli attacchi ransomware**  
-  Fonte: BleepingComputer, 09 Oct 2025, 19:31:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-now-use-velociraptor-dfir-tool-in-ransomware-attacks/>)
-
-- **Microsoft Defender contrassegna erroneamente SQL Server come fine vita**  
-  Fonte: BleepingComputer, 09 Oct 2025, 18:09:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/>)
-
 - **Da HealthKick a GOVERSHELL: l'evoluzione del malware di spionaggio di UTA0388**  
   Fonte: The Hacker News, 09 Oct 2025, 17:19:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html>)
-
-- **La botnet RondoDox prende di mira 56 falle di n giorni in attacchi a livello mondiale**  
-  Fonte: BleepingComputer, 09 Oct 2025, 17:17:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/rondodox-botnet-targets-56-n-day-flaws-in-worldwide-attacks/>)
 
 - **Il nuovo spyware ClayRat prende di mira gli utenti Android tramite app WhatsApp e TikTok false**  
   Fonte: The Hacker News, 09 Oct 2025, 15:30:00 UTC  
@@ -150,7 +154,7 @@
   Fonte: The Hacker News, 08 Oct 2025, 16:43:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html>)
 
-- **Flok Sorveglianza Targhe**  
+- **Sorveglianza Targhe Flok**  
   Fonte: Schneier on Security, 08 Oct 2025, 16:10:58 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/flok-license-plate-surveillance.html>)
 
@@ -194,7 +198,7 @@
   Fonte: The Hacker News, 07 Oct 2025, 15:18:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html>)
 
-- **La soluzione AI n.71: robot hackerati e intelligenza artificiale assetata di potere**  
+- **La soluzione AI n.71: robot hackerati e IA assetata di potere**  
   Fonte: Graham Cluley, 07 Oct 2025, 14:00:49 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-71/>)
 
@@ -218,7 +222,7 @@
   Fonte: The Hacker News, 07 Oct 2025, 08:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html>)
 
-- **Oracle EBS sotto accusa mentre Cl0p sfrutta CVE-2025-61882 in attacchi nel mondo reale**  
+- **Oracle EBS sotto accusa poiché Cl0p sfrutta CVE-2025-61882 in attacchi nel mondo reale**  
   Fonte: The Hacker News, 07 Oct 2025, 05:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html>)
 
@@ -226,7 +230,7 @@
   Fonte: The Hacker News, 06 Oct 2025, 14:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html>)
 
-- **Dati degli utenti Discord rubati dagli hacker nella violazione dei dati di terze parti**  
+- **Dati degli utenti Discord rubati dagli hacker in violazione di dati di terze parti**  
   Fonte: Graham Cluley, 06 Oct 2025, 13:54:48 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/discord-users-data-stolen-by-hackers-in-third-party-data-breach>)
 
@@ -254,9 +258,5 @@
   Fonte: Troy Hunt, 06 Oct 2025, 06:23:48 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-472/>)
 
-- **Zimbra Zero-Day sfruttato per prendere di mira l'esercito brasiliano tramite file ICS dannosi**  
-  Fonte: The Hacker News, 06 Oct 2025, 06:01:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-10-12 06:15:13 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-13 06:19:55 UTC -->
