@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft limita l'accesso in modalità IE in Edge dopo gli attacchi zero-day**  
+  Fonte: BleepingComputer, 13 Oct 2025, 21:51:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/>)
+
+- **SimonMed afferma che 1,2 milioni di pazienti sono stati colpiti dalla violazione dei dati di gennaio**  
+  Fonte: BleepingComputer, 13 Oct 2025, 20:12:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/>)
+
+- **Una massiccia botnet multinazionale prende di mira i servizi RDP negli Stati Uniti**  
+  Fonte: BleepingComputer, 13 Oct 2025, 18:05:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/massive-multi-country-botnet-targets-rdp-services-in-the-us/>)
+
+- **Il ricablaggio della democrazia arriverà presto**  
+  Fonte: Schneier on Security, 13 Oct 2025, 16:36:38 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/rewiring-democracy-is-coming-soon.html>)
+
+- **Account VPN SonicWall violati utilizzando credenziali rubate in attacchi diffusi**  
+  Fonte: BleepingComputer, 13 Oct 2025, 15:58:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-vpn-accounts-breached-using-stolen-creds-in-widespread-attacks/>)
+
+- **Microsoft indaga sull'interruzione che interessa le app Microsoft 365**  
+  Fonte: BleepingComputer, 13 Oct 2025, 15:58:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-apps/>)
+
+- **Oracle rilascia la patch di emergenza per la nuova falla di E-Business Suite**  
+  Fonte: BleepingComputer, 13 Oct 2025, 14:42:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/oracle-releases-emergency-patch-for-new-e-business-suite-flaw/>)
+
+- **Scopri Varonis Interceptor: sicurezza e-mail nativa basata sull'intelligenza artificiale**  
+  Fonte: BleepingComputer, 13 Oct 2025, 14:04:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/meet-varonis-interceptor-ai-native-email-security/>)
+
+- **Microsoft: lo strumento di creazione multimediale di Windows 11 non funziona correttamente sui PC Windows 10**  
+  Fonte: BleepingComputer, 13 Oct 2025, 13:22:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-media-creation-tool-broken-on-windows-10-pcs/>)
+
+- **⚡ Riepilogo settimanale: worm WhatsApp, CVE critici, Oracle 0-Day, cartello ransomware e altro**  
+  Fonte: The Hacker News, 13 Oct 2025, 13:18:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html>)
+
+- **Perché JavaScript non monitorato è il più grande rischio per la sicurezza durante le vacanze**  
+  Fonte: The Hacker News, 13 Oct 2025, 11:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/why-unmonitored-javascript-is-your.html>)
+
+- **Harvard indaga su una violazione legata all'exploit zero-day di Oracle**  
+  Fonte: BleepingComputer, 13 Oct 2025, 11:14:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/harvard-investigating-breach-linked-to-oracle-zero-day-exploit/>)
+
+- **L’intelligenza artificiale e il futuro della politica americana**  
+  Fonte: Schneier on Security, 13 Oct 2025, 11:04:31 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html>)
+
+- **I ricercatori avvertono che la botnet RondoDox sta trasformando in armi oltre 50 difetti in oltre 30 fornitori**  
+  Fonte: The Hacker News, 13 Oct 2025, 10:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html>)
+
+- **Microsoft blocca la modalità IE dopo che gli hacker hanno trasformato le funzionalità legacy in backdoor**  
+  Fonte: The Hacker News, 13 Oct 2025, 09:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html>)
+
+- **Il trojan bancario Astaroth abusa di GitHub per rimanere operativo dopo le operazioni di rimozione**  
+  Fonte: The Hacker News, 13 Oct 2025, 06:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html>)
+
 - **Il nuovo malware basato su Rust "ChaosBot" utilizza i canali Discord per controllare i PC delle vittime**  
   Fonte: The Hacker News, 13 Oct 2025, 05:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html>)
@@ -22,7 +86,7 @@
   Fonte: BleepingComputer, 11 Oct 2025, 14:17:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/spain-dismantles-gxc-team-cybercrime-syndicate-arrests-leader/>)
 
-- **Gli esperti avvertono che il diffuso compromesso della VPN SonicWall avrà un impatto su oltre 100 account**  
+- **Gli esperti avvertono che la diffusa compromissione della VPN SonicWall avrà un impatto su oltre 100 account**  
   Fonte: The Hacker News, 11 Oct 2025, 13:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html>)
 
@@ -38,22 +102,6 @@
   Fonte: BleepingComputer, 10 Oct 2025, 19:34:13 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/>)
 
-- **Gli hacker sfruttano zero-day nel software di condivisione file Gladinet**  
-  Fonte: BleepingComputer, 10 Oct 2025, 19:08:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploiting-zero-day-in-gladinet-file-sharing-software/>)
-
-- **Cybersecurity For Dummies, eBook 3a edizione GRATUITO per un periodo limitato**  
-  Fonte: BleepingComputer, 10 Oct 2025, 18:11:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cybersecurity-for-dummies-3rd-edition-ebook-free-for-a-limited-time/>)
-
-- **Google Chrome per revocare le notifiche del browser per i siti inattivi**  
-  Fonte: BleepingComputer, 10 Oct 2025, 17:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/>)
-
-- **Apple ora offre 2 milioni di dollari per le vulnerabilità RCE zero-click**  
-  Fonte: BleepingComputer, 10 Oct 2025, 16:50:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-now-offers-2-million-for-zero-click-rce-vulnerabilities/>)
-
 - **BreachForums è stato sequestrato, ma gli hacker affermano che continueranno a trapelare i dati di Salesforce**  
   Fonte: Graham Cluley, 10 Oct 2025, 16:34:22 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/breachforums-seized-hackers-will-leak-salesforce-data>)
@@ -62,17 +110,9 @@
   Fonte: Krebs on Security, 10 Oct 2025, 16:10:43 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/>)
 
-- **Copilot su Windows ora può connettersi alla posta elettronica e creare documenti Office**  
-  Fonte: BleepingComputer, 10 Oct 2025, 14:49:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/copilot-on-windows-can-now-connect-to-email-create-office-docs/>)
-
 - **Il malware Stealit abusa della singola funzionalità eseguibile di Node.js tramite programmi di installazione di giochi e VPN**  
   Fonte: The Hacker News, 10 Oct 2025, 14:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html>)
-
-- **Dal laboratorio alla leadership: come la certificazione VMware ha trasformato la mia carriera**  
-  Fonte: BleepingComputer, 10 Oct 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/from-lab-to-leadership-how-vmware-certification-transformed-my-career/>)
 
 - **Microsoft mette in guardia contro i "pirati del libro paga" che dirottano gli account SaaS delle risorse umane per rubare gli stipendi dei dipendenti**  
   Fonte: The Hacker News, 10 Oct 2025, 13:31:00 UTC  
@@ -98,21 +138,9 @@
   Fonte: The Hacker News, 10 Oct 2025, 09:34:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html>)
 
-- **L'FBI disattiva il portale BreachForums utilizzato per le estorsioni di Salesforce**  
-  Fonte: BleepingComputer, 10 Oct 2025, 08:24:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-takes-down-breachforums-portal-used-for-salesforce-extortion/>)
-
 - **Gli hacker collegati a CL0P violano dozzine di organizzazioni attraverso Oracle Software Flaw**  
   Fonte: The Hacker News, 10 Oct 2025, 06:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html>)
-
-- **Il nuovo spyware per Android ClayRat imita WhatsApp, TikTok, YouTube**  
-  Fonte: BleepingComputer, 09 Oct 2025, 21:06:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-android-spyware-clayrat-imitates-whatsapp-tiktok-youtube/>)
-
-- **Microsoft: gli hacker prendono di mira le università con attacchi “pirata del libro paga”.**  
-  Fonte: BleepingComputer, 09 Oct 2025, 19:38:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/>)
 
 - **Da HealthKick a GOVERSHELL: l'evoluzione del malware di spionaggio di UTA0388**  
   Fonte: The Hacker News, 09 Oct 2025, 17:19:00 UTC  
@@ -222,41 +250,5 @@
   Fonte: The Hacker News, 07 Oct 2025, 08:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html>)
 
-- **Oracle EBS sotto accusa poiché Cl0p sfrutta CVE-2025-61882 in attacchi nel mondo reale**  
-  Fonte: The Hacker News, 07 Oct 2025, 05:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html>)
 
-- **Un nuovo rapporto collega le società di ricerca BIETA e CIII alle operazioni informatiche MSS cinesi**  
-  Fonte: The Hacker News, 06 Oct 2025, 14:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html>)
-
-- **Dati degli utenti Discord rubati dagli hacker in violazione di dati di terze parti**  
-  Fonte: Graham Cluley, 06 Oct 2025, 13:54:48 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/discord-users-data-stolen-by-hackers-in-third-party-data-breach>)
-
-- **⚡ Riepilogo settimanale: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm e altro**  
-  Fonte: The Hacker News, 06 Oct 2025, 11:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html>)
-
-- **5 domande critiche per l'adozione di una soluzione di sicurezza AI**  
-  Fonte: The Hacker News, 06 Oct 2025, 11:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html>)
-
-- **Patch Oracle Rushes per CVE-2025-61882 dopo che Cl0p lo ha sfruttato in attacchi di furto di dati**  
-  Fonte: The Hacker News, 06 Oct 2025, 11:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html>)
-
-- **Un gruppo cinese di criminalità informatica gestisce un giro globale di frode SEO utilizzando server IIS compromessi**  
-  Fonte: The Hacker News, 06 Oct 2025, 11:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html>)
-
-- **L’intelligenza artificiale alle elezioni di medio termine del 2026**  
-  Fonte: Schneier on Security, 06 Oct 2025, 11:06:22 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/ai-in-the-2026-midterm-elections.html>)
-
-- **Aggiornamento settimanale 472**  
-  Fonte: Troy Hunt, 06 Oct 2025, 06:23:48 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-472/>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-13 06:19:55 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-14 06:18:06 UTC -->
