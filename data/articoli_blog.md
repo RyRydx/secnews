@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **CISA segnala il difetto di Adobe AEM con un punteggio perfetto di 10.0: già sotto attacco attivo**  
+  Fonte: The Hacker News, 16 Oct 2025, 04:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html>)
+
+- **YouTube è inattivo in tutto il mondo con un errore di riproduzione**  
+  Fonte: BleepingComputer, 16 Oct 2025, 00:09:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/youtube-is-down-worldwide-with-playback-error/>)
+
+- **Podcast di Smashing Security n. 439: Una violazione, un esaurimento e un po' di Fleetwood Mac**  
+  Fonte: Graham Cluley, 15 Oct 2025, 23:28:01 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-439/>)
+
+- **Capite pagherà 14 milioni di sterline per la violazione dei dati che ha colpito 6,6 milioni di persone**  
+  Fonte: BleepingComputer, 15 Oct 2025, 20:53:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/capita-to-pay-14-million-for-data-breach-impacting-66-million-people/>)
+
+- **L'hacker di PowerSchool viene condannato a quattro anni di prigione**  
+  Fonte: BleepingComputer, 15 Oct 2025, 19:41:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/powerschool-hacker-gets-sentenced-to-four-years-in-prison/>)
+
+- **Gli avvisi di violazione di LastPass e Bitwarden falsi portano a dirottamenti del PC**  
+  Fonte: BleepingComputer, 15 Oct 2025, 19:22:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-lastpass-bitwarden-breach-alerts-lead-to-pc-hijacks/>)
+
+- **F5 rilascia patch BIG-IP per vulnerabilità di sicurezza rubate**  
+  Fonte: BleepingComputer, 15 Oct 2025, 18:01:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/>)
+
+- **Il gruppo minaccioso cinese "Jewelbug" si è infiltrato silenziosamente nella rete informatica russa per mesi**  
+  Fonte: The Hacker News, 15 Oct 2025, 17:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html>)
+
+- **La violazione F5 espone il codice sorgente BIG-IP: hacker nazionali dietro un'intrusione massiccia**  
+  Fonte: The Hacker News, 15 Oct 2025, 16:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html>)
+
+- **Microsoft: gli aggiornamenti di settembre di Windows Server causano problemi con Active Directory**  
+  Fonte: BleepingComputer, 15 Oct 2025, 15:54:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-windows-server-updates-cause-active-directory-issues/>)
+
+- **Il colosso dell'abbigliamento MANGO rivela una violazione dei dati esponendo le informazioni dei clienti**  
+  Fonte: BleepingComputer, 15 Oct 2025, 15:18:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/clothing-giant-mango-discloses-data-breach-exposing-customer-info/>)
+
+- **L'NCSC avverte le aziende di prepararsi per un giorno in cui gli schermi si oscureranno**  
+  Fonte: Graham Cluley, 15 Oct 2025, 14:48:34 UTC  
+  [Leggi](<https://www.fortra.com/blog/ncsc-warns-companies-prepare-screens-dark>)
+
+- **Oltre 100 estensioni del codice VS hanno esposto gli sviluppatori a rischi nascosti della catena di fornitura**  
+  Fonte: The Hacker News, 15 Oct 2025, 14:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html>)
+
+- **Come individuare le minacce del dark web sulla tua rete utilizzando NDR**  
+  Fonte: BleepingComputer, 15 Oct 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-spot-dark-web-threats-on-your-network-using-ndr/>)
+
+- **F5 afferma che gli hacker hanno rubato difetti BIG-IP non divulgati e codice sorgente**  
+  Fonte: BleepingComputer, 15 Oct 2025, 13:32:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-f5-to-steal-undisclosed-big-ip-flaws-source-code/>)
+
+- **Come gli aggressori aggirano le passkey sincronizzate**  
+  Fonte: The Hacker News, 15 Oct 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html>)
+
+- **Il programma Bug Bounty di Apple**  
+  Fonte: Schneier on Security, 15 Oct 2025, 11:02:18 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html>)
+
+- **Due nuovi Windows Zero-Days sfruttati in natura: uno di essi influisce su ogni versione mai distribuita**  
+  Fonte: The Hacker News, 15 Oct 2025, 09:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html>)
+
+- **Due bug CVSS 10.0 nelle RTU Red Lion potrebbero fornire agli hacker il pieno controllo industriale**  
+  Fonte: The Hacker News, 15 Oct 2025, 06:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html>)
+
+- **Gli hacker prendono di mira i server ICTBroadcast tramite l'exploit dei cookie per ottenere l'accesso remoto alla shell**  
+  Fonte: The Hacker News, 15 Oct 2025, 06:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html>)
+
 - **Il nuovo bug di SAP NetWeaver consente agli aggressori di prendere il controllo dei server senza effettuare l'accesso**  
   Fonte: The Hacker News, 15 Oct 2025, 05:36:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html>)
@@ -26,53 +106,17 @@
   Fonte: BleepingComputer, 14 Oct 2025, 18:26:16 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-have-reached-end-of-support/>)
 
-- **Il Patch Tuesday di ottobre 2025 di Microsoft corregge 6 zero-day e 172 difetti**  
-  Fonte: BleepingComputer, 14 Oct 2025, 18:02:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/>)
-
-- **Rilasciati gli aggiornamenti KB5066835 e KB5066793 di Windows 11**  
-  Fonte: BleepingComputer, 14 Oct 2025, 17:46:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5066835-and-kb5066793-updates-released/>)
-
-- **Gli Stati Uniti sequestrano 15 miliardi di dollari in criptovalute al boss della "macellazione di maiali".**  
-  Fonte: BleepingComputer, 14 Oct 2025, 17:37:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-seizes-15-billion-in-crypto-from-pig-butchering-kingpin/>)
-
 - **Gli hacker cinesi sfruttano ArcGIS Server come backdoor per oltre un anno**  
   Fonte: The Hacker News, 14 Oct 2025, 16:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html>)
-
-- **Oracles risolve silenziosamente l'exploit zero-day trapelato da ShinyHunters**  
-  Fonte: BleepingComputer, 14 Oct 2025, 16:38:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/oracles-silently-fixes-zero-day-exploit-leaked-by-shinyhunters/>)
 
 - **Prossimi impegni di conferenza**  
   Fonte: Schneier on Security, 14 Oct 2025, 16:01:11 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/upcoming-speaking-engagements-49.html>)
 
-- **Microsoft avverte che oggi Windows 10 terminerà il supporto**  
-  Fonte: BleepingComputer, 14 Oct 2025, 14:54:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-that-windows-10-reaches-end-of-support-today/>)
-
-- **Le società di sicurezza contestano il merito per la sovrapposizione dei rapporti CVE**  
-  Fonte: BleepingComputer, 14 Oct 2025, 14:52:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/security-firms-dispute-credit-for-overlapping-cve-reports/>)
-
-- **La correzione AI n. 72: il treno pubblicitario dell'IA, data center spaziali e teste di robot realistiche**  
+- **La soluzione AI n. 72: il treno pubblicitario dell'IA, data center spaziali e teste di robot realistiche**  
   Fonte: Graham Cluley, 14 Oct 2025, 14:25:28 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-72/>)
-
-- **Quando gli agenti IA si uniscono alle squadre: i cambiamenti nascosti nella sicurezza che nessuno si aspetta**  
-  Fonte: BleepingComputer, 14 Oct 2025, 14:01:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/when-ai-agents-join-the-teams-the-hidden-security-shifts-no-one-expects/>)
-
-- **Il rischio di bypass del Secure Boot minaccia quasi 200.000 laptop Linux Framework**  
-  Fonte: BleepingComputer, 14 Oct 2025, 13:22:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/>)
-
-- **Gli hacker cinesi abusano dello strumento di geo-mappatura per persistere per un anno**  
-  Fonte: BleepingComputer, 14 Oct 2025, 12:28:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-geo-mapping-tool-for-year-long-persistence/>)
 
 - **Andare oltre la consapevolezza: come la caccia alle minacce migliora la preparazione**  
   Fonte: The Hacker News, 14 Oct 2025, 11:55:00 UTC  
@@ -98,7 +142,7 @@
   Fonte: The Hacker News, 14 Oct 2025, 07:09:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html>)
 
-- **I ricercatori espongono le capacità del malware MonsterV2 di TA585 e la catena di attacco**  
+- **I ricercatori espongono le capacità malware MonsterV2 di TA585 e la catena di attacco**  
   Fonte: The Hacker News, 14 Oct 2025, 05:28:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html>)
 
@@ -126,7 +170,7 @@
   Fonte: The Hacker News, 13 Oct 2025, 09:54:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html>)
 
-- **Il trojan bancario Astaroth abusa di GitHub per rimanere operativo dopo le eliminazioni**  
+- **Il trojan bancario Astaroth abusa di GitHub per rimanere operativo dopo le operazioni di rimozione**  
   Fonte: The Hacker News, 13 Oct 2025, 06:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html>)
 
@@ -222,49 +266,5 @@
   Fonte: The Hacker News, 09 Oct 2025, 06:57:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html>)
 
-- **Le ingiunzioni del tribunale sono i pensieri e le preghiere della risposta alla violazione dei dati**  
-  Fonte: Troy Hunt, 09 Oct 2025, 00:03:52 UTC  
-  [Leggi](<https://www.troyhunt.com/court-injunctions-are-the-thoughts-and-prayers-of-data-breach-response/>)
 
-- **Smashing Security podcast n. 438: Quando il tuo mouse diventa una spia e gli hacker sviluppano una coscienza**  
-  Fonte: Graham Cluley, 08 Oct 2025, 23:31:20 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-438/>)
-
-- **Gli hacker sfruttano i siti WordPress per alimentare attacchi di phishing ClickFix di nuova generazione**  
-  Fonte: The Hacker News, 08 Oct 2025, 16:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html>)
-
-- **Sorveglianza Targhe Flok**  
-  Fonte: Schneier on Security, 08 Oct 2025, 16:10:58 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/flok-license-plate-surveillance.html>)
-
-- **Violazione dei dati di Salesforce: cosa devi sapere**  
-  Fonte: Graham Cluley, 08 Oct 2025, 15:15:42 UTC  
-  [Leggi](<https://www.fortra.com/blog/salesforce-data-breach-what-need-know>)
-
-- **Gli hacker cinesi utilizzano lo strumento open source Nezha come arma in una nuova ondata di attacchi**  
-  Fonte: The Hacker News, 08 Oct 2025, 13:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html>)
-
-- **Entra nel cimitero delle password... se hai coraggio (e partecipa alla sessione dal vivo)**  
-  Fonte: The Hacker News, 08 Oct 2025, 12:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html>)
-
-- **LockBit, Qilin e DragonForce uniscono le forze per dominare l'ecosistema ransomware**  
-  Fonte: The Hacker News, 08 Oct 2025, 12:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html>)
-
-- **La grave vulnerabilità di Framelink Figma MCP consente agli hacker di eseguire il codice in modalità remota**  
-  Fonte: The Hacker News, 08 Oct 2025, 10:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html>)
-
-- **Non c'è tempo da perdere: incorporare l'intelligenza artificiale per eliminare il rumore e ridurre i rischi**  
-  Fonte: The Hacker News, 08 Oct 2025, 08:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/09/automation-is-redefining-pentest.html>)
-
-- **OpenAI blocca gli hacker russi, nordcoreani e cinesi che utilizzano impropriamente ChatGPT per attacchi informatici**  
-  Fonte: The Hacker News, 08 Oct 2025, 07:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-15 06:19:07 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-16 06:18:55 UTC -->
