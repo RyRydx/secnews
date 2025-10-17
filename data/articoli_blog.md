@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **Gli aggiornamenti di Windows 11 interrompono le connessioni HTTP/2 localhost (127.0.0.1).**  
+  Fonte: BleepingComputer, 16 Oct 2025, 22:25:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-updates-break-localhost-127001-http-2-connections/>)
+
+- **Il colosso delle aste Sotheby’s afferma che la violazione dei dati ha esposto informazioni finanziarie**  
+  Fonte: BleepingComputer, 16 Oct 2025, 19:24:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/auction-giant-sothebys-says-data-breach-exposed-financial-information/>)
+
+- **Sono stato preso in giro: una prospera violazione dei dati ha un impatto su 17,6 milioni di account**  
+  Fonte: BleepingComputer, 16 Oct 2025, 19:19:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-prosper-data-breach-impacting-176-million-accounts/>)
+
+- **Gli hacker sfruttano la falla di Cisco SNMP per implementare rootkit sugli switch**  
+  Fonte: BleepingComputer, 16 Oct 2025, 18:13:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/>)
+
+- **Microsoft interrompe gli attacchi ransomware rivolti agli utenti di Teams**  
+  Fonte: BleepingComputer, 16 Oct 2025, 16:58:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-disrupts-ransomware-attacks-targeting-teams-users/>)
+
+- **Microsoft: Office 2016 e Office 2019 hanno raggiunto la fine del supporto**  
+  Fonte: BleepingComputer, 16 Oct 2025, 15:50:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-have-reach-end-of-support/>)
+
+- **Gladinet risolve i problemi zero-day attivamente sfruttati nei software di condivisione file**  
+  Fonte: BleepingComputer, 16 Oct 2025, 15:11:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/gladinet-fixes-actively-exploited-zero-day-in-file-sharing-software/>)
+
+- **Gli hacker nordcoreani utilizzano EtherHiding per nascondere malware all'interno degli smart contract Blockchain**  
+  Fonte: The Hacker News, 16 Oct 2025, 14:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html>)
+
+- **Gli hacker abusano degli smart contract Blockchain per diffondere malware tramite siti WordPress infetti**  
+  Fonte: The Hacker News, 16 Oct 2025, 14:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html>)
+
+- **CISA: falla Adobe di massima gravità ora sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 16 Oct 2025, 14:28:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-maximum-severity-adobe-flaw-now-exploited-in-attacks/>)
+
+- **LinkPro Linux Rootkit utilizza eBPF per nascondersi e attivarsi tramite pacchetti Magic TCP**  
+  Fonte: The Hacker News, 16 Oct 2025, 14:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html>)
+
+- **Piattaforme unificate di gestione dell'esposizione: il futuro della difesa informatica preventiva**  
+  Fonte: BleepingComputer, 16 Oct 2025, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/unified-exposure-management-platforms-the-future-of-preemptive-cyber-defense/>)
+
+- **Gli hacker nordcoreani utilizzano EtherHiding per nascondere malware sulla blockchain**  
+  Fonte: BleepingComputer, 16 Oct 2025, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-etherhiding-to-hide-malware-on-the-blockchain/>)
+
+- **Migliorare l'affidabilità di Javascript sul Web**  
+  Fonte: Cloudflare Blog - Security, 16 Oct 2025, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/>)
+
+- **Microsoft aggiunge l'attivazione vocale Copilot sui PC Windows 11**  
+  Fonte: BleepingComputer, 16 Oct 2025, 13:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-adds-hey-copilot-wake-word-to-windows-11-pcs/>)
+
+- **Microsoft presenta Copilot Actions per attività Windows basate sull'intelligenza artificiale degli agenti**  
+  Fonte: BleepingComputer, 16 Oct 2025, 13:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-debuts-copilot-actions-for-agentic-ai-driven-windows-tasks/>)
+
+- **Architetture, rischi e adozione: come valutare e scegliere la giusta piattaforma AI-SOC**  
+  Fonte: The Hacker News, 16 Oct 2025, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html>)
+
+- **Gli hacker distribuiscono rootkit Linux tramite Cisco SNMP Difetto negli attacchi "Zero Disco".**  
+  Fonte: The Hacker News, 16 Oct 2025, 11:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html>)
+
+- **ATM di criptovaluta**  
+  Fonte: Schneier on Security, 16 Oct 2025, 11:06:51 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/cryptocurrency-atms.html>)
+
+- **Attenzione ai costi nascosti dei pen test**  
+  Fonte: The Hacker News, 16 Oct 2025, 10:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html>)
+
+- **L'operazione Heracles sferra un colpo contro un'enorme rete di siti fraudolenti di trading di criptovalute**  
+  Fonte: Graham Cluley, 16 Oct 2025, 10:20:54 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/operation-heracles-strikes-blow-massive-network-fraudulent-crypto-trading-sites>)
+
+- **Bollettino del ThreatsDay: busta di criptovalute da 15 miliardi di dollari, spionaggio satellitare, smishing miliardari, RAT Android e altro**  
+  Fonte: The Hacker News, 16 Oct 2025, 09:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html>)
+
 - **CISA segnala il difetto di Adobe AEM con un punteggio perfetto di 10.0: già sotto attacco attivo**  
   Fonte: The Hacker News, 16 Oct 2025, 04:26:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html>)
@@ -10,25 +98,9 @@
   Fonte: BleepingComputer, 16 Oct 2025, 00:09:53 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/google/youtube-is-down-worldwide-with-playback-error/>)
 
-- **Podcast di Smashing Security n. 439: Una violazione, un esaurimento e un po' di Fleetwood Mac**  
+- **Podcast #439 di Smashing Security: Una violazione, un burnout e un po' di Fleetwood Mac**  
   Fonte: Graham Cluley, 15 Oct 2025, 23:28:01 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-439/>)
-
-- **Capite pagherà 14 milioni di sterline per la violazione dei dati che ha colpito 6,6 milioni di persone**  
-  Fonte: BleepingComputer, 15 Oct 2025, 20:53:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/capita-to-pay-14-million-for-data-breach-impacting-66-million-people/>)
-
-- **L'hacker di PowerSchool viene condannato a quattro anni di prigione**  
-  Fonte: BleepingComputer, 15 Oct 2025, 19:41:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/powerschool-hacker-gets-sentenced-to-four-years-in-prison/>)
-
-- **Gli avvisi di violazione di LastPass e Bitwarden falsi portano a dirottamenti del PC**  
-  Fonte: BleepingComputer, 15 Oct 2025, 19:22:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-lastpass-bitwarden-breach-alerts-lead-to-pc-hijacks/>)
-
-- **F5 rilascia patch BIG-IP per vulnerabilità di sicurezza rubate**  
-  Fonte: BleepingComputer, 15 Oct 2025, 18:01:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/>)
 
 - **Il gruppo minaccioso cinese "Jewelbug" si è infiltrato silenziosamente nella rete informatica russa per mesi**  
   Fonte: The Hacker News, 15 Oct 2025, 17:28:00 UTC  
@@ -38,14 +110,6 @@
   Fonte: The Hacker News, 15 Oct 2025, 16:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html>)
 
-- **Microsoft: gli aggiornamenti di settembre di Windows Server causano problemi con Active Directory**  
-  Fonte: BleepingComputer, 15 Oct 2025, 15:54:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-windows-server-updates-cause-active-directory-issues/>)
-
-- **Il colosso dell'abbigliamento MANGO rivela una violazione dei dati esponendo le informazioni dei clienti**  
-  Fonte: BleepingComputer, 15 Oct 2025, 15:18:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/clothing-giant-mango-discloses-data-breach-exposing-customer-info/>)
-
 - **L'NCSC avverte le aziende di prepararsi per un giorno in cui gli schermi si oscureranno**  
   Fonte: Graham Cluley, 15 Oct 2025, 14:48:34 UTC  
   [Leggi](<https://www.fortra.com/blog/ncsc-warns-companies-prepare-screens-dark>)
@@ -53,14 +117,6 @@
 - **Oltre 100 estensioni del codice VS hanno esposto gli sviluppatori a rischi nascosti della catena di fornitura**  
   Fonte: The Hacker News, 15 Oct 2025, 14:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html>)
-
-- **Come individuare le minacce del dark web sulla tua rete utilizzando NDR**  
-  Fonte: BleepingComputer, 15 Oct 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-spot-dark-web-threats-on-your-network-using-ndr/>)
-
-- **F5 afferma che gli hacker hanno rubato difetti BIG-IP non divulgati e codice sorgente**  
-  Fonte: BleepingComputer, 15 Oct 2025, 13:32:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-f5-to-steal-undisclosed-big-ip-flaws-source-code/>)
 
 - **Come gli aggressori aggirano le passkey sincronizzate**  
   Fonte: The Hacker News, 15 Oct 2025, 11:30:00 UTC  
@@ -89,22 +145,6 @@
 - **Patch Tuesday, edizione "Fine 10" di ottobre 2025**  
   Fonte: Krebs on Security, 14 Oct 2025, 22:57:38 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/>)
-
-- **Le estensioni VSCode dannose per il furto di criptovalute riappaiono su OpenVSX**  
-  Fonte: BleepingComputer, 14 Oct 2025, 21:35:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-crypto-stealing-vscode-extensions-resurface-on-openvsx/>)
-
-- **L'aggiornamento finale del Patch Tuesday di Windows 10 viene lanciato al termine del supporto**  
-  Fonte: BleepingComputer, 14 Oct 2025, 19:07:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/final-windows-10-patch-tuesday-update-rolls-out-as-support-ends/>)
-
-- **Il nuovo attacco Android Pixnapping ruba i codici MFA pixel per pixel**  
-  Fonte: BleepingComputer, 14 Oct 2025, 18:46:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-android-pixnapping-attack-steals-mfa-codes-pixel-by-pixel/>)
-
-- **Microsoft: Exchange 2016 e 2019 hanno raggiunto la fine del supporto**  
-  Fonte: BleepingComputer, 14 Oct 2025, 18:26:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-have-reached-end-of-support/>)
 
 - **Gli hacker cinesi sfruttano ArcGIS Server come backdoor per oltre un anno**  
   Fonte: The Hacker News, 14 Oct 2025, 16:55:00 UTC  
@@ -142,7 +182,7 @@
   Fonte: The Hacker News, 14 Oct 2025, 07:09:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html>)
 
-- **I ricercatori espongono le capacità malware MonsterV2 di TA585 e la catena di attacco**  
+- **I ricercatori espongono le capacità del malware MonsterV2 di TA585 e la catena di attacco**  
   Fonte: The Hacker News, 14 Oct 2025, 05:28:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html>)
 
@@ -186,7 +226,7 @@
   Fonte: Troy Hunt, 12 Oct 2025, 03:25:42 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-473/>)
 
-- **Gli esperti avvertono che la diffusa compromissione della VPN SonicWall avrà un impatto su oltre 100 account**  
+- **Gli esperti avvertono che il diffuso compromesso della VPN SonicWall avrà un impatto su oltre 100 account**  
   Fonte: The Hacker News, 11 Oct 2025, 13:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html>)
 
@@ -238,33 +278,5 @@
   Fonte: The Hacker News, 10 Oct 2025, 06:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html>)
 
-- **Da HealthKick a GOVERSHELL: l'evoluzione del malware di spionaggio di UTA0388**  
-  Fonte: The Hacker News, 09 Oct 2025, 17:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html>)
 
-- **Il nuovo spyware ClayRat prende di mira gli utenti Android tramite app WhatsApp e TikTok false**  
-  Fonte: The Hacker News, 09 Oct 2025, 15:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html>)
-
-- **Gli hacker accedono ai backup del firewall SonicWall Cloud e attivano controlli di sicurezza urgenti**  
-  Fonte: The Hacker News, 09 Oct 2025, 13:48:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html>)
-
-- **Bollettino del ThreatsDay: attacco hacker a MS Teams, dirottamento dell'MFA, furto di criptovalute da 2 miliardi di dollari, sondaggi Apple Siri e altro**  
-  Fonte: The Hacker News, 09 Oct 2025, 12:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html>)
-
-- **Le violazioni SaaS iniziano con i token: cosa devono tenere d'occhio i team di sicurezza**  
-  Fonte: The Hacker News, 09 Oct 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html>)
-
-- **Dal phishing al malware: l'intelligenza artificiale diventa la nuova arma informatica della Russia nella guerra contro l'Ucraina**  
-  Fonte: The Hacker News, 09 Oct 2025, 09:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html>)
-
-- **Un exploit critico consente agli hacker di bypassare l'autenticazione nel tema Service Finder di WordPress**  
-  Fonte: The Hacker News, 09 Oct 2025, 06:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-16 06:18:55 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-17 06:18:10 UTC -->
