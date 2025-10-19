@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **OpenAI conferma che GPT-6 non verrà spedito nel 2025**  
+  Fonte: BleepingComputer, 18 Oct 2025, 21:51:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-6-is-not-shipping-in-2025/>)
+
+- **Annunci Google per falsi Homebrew, i siti LogMeIn spingono infostealer**  
+  Fonte: BleepingComputer, 18 Oct 2025, 15:02:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-ads-for-fake-homebrew-logmein-sites-push-infostealers/>)
+
+- **La nuova backdoor .NET CAPI prende di mira le aziende automobilistiche e di e-commerce russe tramite ZIP di phishing**  
+  Fonte: The Hacker News, 18 Oct 2025, 11:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html>)
+
+- **Silver Fox espande gli attacchi di Winos 4.0 al Giappone e alla Malesia tramite HoldingHands RAT**  
+  Fonte: The Hacker News, 18 Oct 2025, 06:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html>)
+
 - **Blog sui calamari del venerdì: Pescatore delle Filippine con inchiostri di calamari**  
   Fonte: Schneier on Security, 17 Oct 2025, 21:02:47 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html>)
@@ -73,14 +89,6 @@
 - **Sono stato preso in giro: una prospera violazione dei dati ha un impatto su 17,6 milioni di account**  
   Fonte: BleepingComputer, 16 Oct 2025, 19:19:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-prosper-data-breach-impacting-176-million-accounts/>)
-
-- **Gli hacker sfruttano la falla di Cisco SNMP per implementare rootkit sugli switch**  
-  Fonte: BleepingComputer, 16 Oct 2025, 18:13:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/>)
-
-- **Microsoft interrompe gli attacchi ransomware rivolti agli utenti di Teams**  
-  Fonte: BleepingComputer, 16 Oct 2025, 16:58:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-disrupts-ransomware-attacks-targeting-teams-users/>)
 
 - **Gli hacker nordcoreani utilizzano EtherHiding per nascondere malware all'interno degli smart contract Blockchain**  
   Fonte: The Hacker News, 16 Oct 2025, 14:56:00 UTC  
@@ -250,17 +258,5 @@
   Fonte: The Hacker News, 12 Oct 2025, 17:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html>)
 
-- **Aggiornamento settimanale 473**  
-  Fonte: Troy Hunt, 12 Oct 2025, 03:25:42 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-473/>)
 
-- **Gli esperti avvertono che la diffusa compromissione della VPN SonicWall avrà un impatto su oltre 100 account**  
-  Fonte: The Hacker News, 11 Oct 2025, 13:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html>)
-
-- **Gli hacker trasformano lo strumento Velociraptor DFIR in un'arma negli attacchi ransomware LockBit**  
-  Fonte: The Hacker News, 11 Oct 2025, 13:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-18 06:16:20 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-19 06:16:27 UTC -->
