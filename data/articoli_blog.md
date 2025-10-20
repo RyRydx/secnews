@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **I video di TikTok continuano a spingere gli infostealer negli attacchi ClickFix**  
+  Fonte: BleepingComputer, 19 Oct 2025, 18:28:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/tiktok-videos-continue-to-push-infostealers-in-clickfix-attacks/>)
+
+- **Experian è stata multata di 3,2 milioni di dollari per la raccolta di massa di dati personali**  
+  Fonte: BleepingComputer, 19 Oct 2025, 14:24:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/legal/experian-fined-32-million-for-mass-collecting-personal-data/>)
+
+- **Europol smantella la rete SIM agricola che alimenta 49 milioni di conti falsi in tutto il mondo**  
+  Fonte: The Hacker News, 19 Oct 2025, 06:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html>)
+
 - **OpenAI conferma che GPT-6 non verrà spedito nel 2025**  
   Fonte: BleepingComputer, 18 Oct 2025, 21:51:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-6-is-not-shipping-in-2025/>)
@@ -77,18 +89,6 @@
 - **Microsoft revoca 200 certificati fraudolenti utilizzati nella campagna Rhysida Ransomware**  
   Fonte: The Hacker News, 17 Oct 2025, 06:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html>)
-
-- **Gli aggiornamenti di Windows 11 interrompono le connessioni HTTP/2 localhost (127.0.0.1).**  
-  Fonte: BleepingComputer, 16 Oct 2025, 22:25:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-updates-break-localhost-127001-http-2-connections/>)
-
-- **Il colosso delle aste Sotheby’s afferma che la violazione dei dati ha esposto informazioni finanziarie**  
-  Fonte: BleepingComputer, 16 Oct 2025, 19:24:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/auction-giant-sothebys-says-data-breach-exposed-financial-information/>)
-
-- **Sono stato preso in giro: una prospera violazione dei dati ha un impatto su 17,6 milioni di account**  
-  Fonte: BleepingComputer, 16 Oct 2025, 19:19:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-prosper-data-breach-impacting-176-million-accounts/>)
 
 - **Gli hacker nordcoreani utilizzano EtherHiding per nascondere malware all'interno degli smart contract Blockchain**  
   Fonte: The Hacker News, 16 Oct 2025, 14:56:00 UTC  
@@ -206,7 +206,7 @@
   Fonte: The Hacker News, 14 Oct 2025, 11:18:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html>)
 
-- **Il maggiore utilizzo della sorveglianza dei social media da parte dell’amministrazione Trump**  
+- **Il maggiore utilizzo della sorveglianza sui social media da parte dell’amministrazione Trump**  
   Fonte: Schneier on Security, 14 Oct 2025, 11:09:54 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html>)
 
@@ -250,13 +250,5 @@
   Fonte: The Hacker News, 13 Oct 2025, 06:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html>)
 
-- **Il nuovo malware basato su Rust "ChaosBot" utilizza i canali Discord per controllare i PC delle vittime**  
-  Fonte: The Hacker News, 13 Oct 2025, 05:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html>)
 
-- **Il nuovo bug di Oracle E-Business Suite potrebbe consentire agli hacker di accedere ai dati senza effettuare il login**  
-  Fonte: The Hacker News, 12 Oct 2025, 17:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-19 06:16:27 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-20 06:19:07 UTC -->
