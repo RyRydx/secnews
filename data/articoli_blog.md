@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Il servizio DNS privato DNS0.EU viene interrotto per problemi di sostenibilità**  
+  Fonte: BleepingComputer, 20 Oct 2025, 21:05:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dns0eu-private-dns-service-shuts-down-over-sustainability-issues/>)
+
+- **Microsoft: gli aggiornamenti di ottobre interrompono l'input USB nel ripristino di Windows**  
+  Fonte: BleepingComputer, 20 Oct 2025, 19:06:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-october-updates-break-usb-mice-and-keyboards-in-windows-recovery/>)
+
+- **Cinque nuovi bug sfruttati compaiono nel catalogo CISA: Oracle e Microsoft Among Targets**  
+  Fonte: The Hacker News, 20 Oct 2025, 19:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html>)
+
+- **Il colosso della vendita al dettaglio Muji interrompe le vendite online dopo l'attacco ransomware al fornitore**  
+  Fonte: BleepingComputer, 20 Oct 2025, 18:45:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/retail-giant-muji-halts-online-sales-after-ransomware-attack-on-supplier/>)
+
+- **Oltre 75.000 dispositivi di sicurezza WatchGuard vulnerabili a RCE critici**  
+  Fonte: BleepingComputer, 20 Oct 2025, 17:42:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-75-000-watchguard-security-devices-vulnerable-to-critical-rce/>)
+
+- **CISA: falla SMB di Windows di elevata gravità ora sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 20 Oct 2025, 17:18:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/>)
+
+- **Il malware GlassWorm a diffusione automatica colpisce i registri OpenVSX e VS Code**  
+  Fonte: BleepingComputer, 20 Oct 2025, 16:13:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/self-spreading-glassworm-malware-hits-openvsx-vs-code-registries/>)
+
+- **Microsoft risolve i problemi di sincronizzazione di Windows Server Active Directory**  
+  Fonte: BleepingComputer, 20 Oct 2025, 15:58:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-active-directory-sync-issues/>)
+
+- **Microsoft avverte di problemi di autenticazione della smart card di Windows dopo gli aggiornamenti di ottobre**  
+  Fonte: BleepingComputer, 20 Oct 2025, 14:21:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/>)
+
+- **Trova app OAuth dannose nascoste in Microsoft 365 utilizzando Cazadora**  
+  Fonte: BleepingComputer, 20 Oct 2025, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/find-hidden-malicious-oauth-apps-in-microsoft-365-using-cazadora/>)
+
+- **⚡ Riepilogo settimanale: violazione di F5, rootkit Linux, attacco Pixnapping, EtherHiding e altro**  
+  Fonte: The Hacker News, 20 Oct 2025, 12:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html>)
+
+- **Analisi di ClickFix: 3 motivi per cui gli attacchi copia/incolla stanno determinando violazioni della sicurezza**  
+  Fonte: The Hacker News, 20 Oct 2025, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html>)
+
+- **Problema del loop OODA di Agentic AI**  
+  Fonte: Schneier on Security, 20 Oct 2025, 11:00:28 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/agentic-ais-ooda-loop-problem.html>)
+
+- **131 estensioni di Chrome sono state sorprese a dirottare WhatsApp Web per una massiccia campagna di spam**  
+  Fonte: The Hacker News, 20 Oct 2025, 10:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html>)
+
+- **Centinaia di agenti ICE mascherati sono stati derubati dagli hacker, come dettagli personali pubblicati su Telegram**  
+  Fonte: Graham Cluley, 20 Oct 2025, 09:51:57 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hundreds-masked-ice-agents-doxxed-hackers-personal-details-posted-telegram>)
+
+- **L'interruzione di AWS causa l'arresto anomalo di Amazon, Prime Video, Fortnite, Perplexity e altro ancora**  
+  Fonte: BleepingComputer, 20 Oct 2025, 08:24:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-prime-video-fortnite-perplexity-and-more/>)
+
+- **Aggiornamento settimanale 474**  
+  Fonte: Troy Hunt, 20 Oct 2025, 07:09:27 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-474/>)
+
+- **MSS afferma che la NSA ha utilizzato 42 strumenti informatici in un attacco multifase ai sistemi orari di Pechino**  
+  Fonte: The Hacker News, 20 Oct 2025, 05:32:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html>)
+
 - **I video di TikTok continuano a spingere gli infostealer negli attacchi ClickFix**  
   Fonte: BleepingComputer, 19 Oct 2025, 18:28:25 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/tiktok-videos-continue-to-push-infostealers-in-clickfix-attacks/>)
@@ -18,10 +90,6 @@
   Fonte: BleepingComputer, 18 Oct 2025, 21:51:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-6-is-not-shipping-in-2025/>)
 
-- **Annunci Google per falsi Homebrew, i siti LogMeIn spingono infostealer**  
-  Fonte: BleepingComputer, 18 Oct 2025, 15:02:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-ads-for-fake-homebrew-logmein-sites-push-infostealers/>)
-
 - **La nuova backdoor .NET CAPI prende di mira le aziende automobilistiche e di e-commerce russe tramite ZIP di phishing**  
   Fonte: The Hacker News, 18 Oct 2025, 11:41:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html>)
@@ -34,43 +102,11 @@
   Fonte: Schneier on Security, 17 Oct 2025, 21:02:47 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html>)
 
-- **ConnectWise risolve il bug automatizzato che consente gli attacchi di aggiornamento AiTM**  
-  Fonte: BleepingComputer, 17 Oct 2025, 19:29:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/connectwise-fixes-automate-bug-allowing-aitm-update-attacks/>)
-
-- **Envoy, filiale di American Airlines, conferma l'attacco al furto di dati Oracle**  
-  Fonte: BleepingComputer, 17 Oct 2025, 19:11:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/american-airlines-subsidiary-envoy-confirms-oracle-data-theft-attack/>)
-
-- **Microsoft revoca ulteriori misure di salvaguardia che bloccano gli aggiornamenti di Windows 11**  
-  Fonte: BleepingComputer, 17 Oct 2025, 17:22:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-more-safeguard-holds-blocking-windows-11-updates/>)
-
-- **Europol smantella l'operazione di noleggio delle SIM box per criminalità informatica**  
-  Fonte: BleepingComputer, 17 Oct 2025, 17:01:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/europol-dismantles-sim-box-operation-renting-numbers-for-cybercrime/>)
-
-- **Microsoft risolve il difetto ASP.NET Core più grave di sempre**  
-  Fonte: BleepingComputer, 17 Oct 2025, 15:35:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-highest-severity-aspnet-core-flaw-ever/>)
-
-- **Certificazione VMware: il tuo prossimo passo avanti nella tua carriera**  
-  Fonte: BleepingComputer, 17 Oct 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vmware-certification-your-next-career-power-move/>)
-
-- **Microsoft risolve i bug di Windows che interrompono le connessioni HTTP dell'host locale**  
-  Fonte: BleepingComputer, 17 Oct 2025, 13:58:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-breaking-localhost-http-connections/>)
-
 - **Gli hacker nordcoreani combinano BeaverTail e OtterCookie in Advanced JS Malware**  
   Fonte: The Hacker News, 17 Oct 2025, 13:33:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html>)
 
-- **Oltre 266.000 istanze F5 BIG-IP esposte ad attacchi remoti**  
-  Fonte: BleepingComputer, 17 Oct 2025, 12:16:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-266-000-f5-big-ip-instances-exposed-to-remote-attacks/>)
-
-- **Le email bomb sfruttano l'autenticazione lax in Zendesk**  
+- **Le email bomb sfruttano l'autenticazione Lax in Zendesk**  
   Fonte: Krebs on Security, 17 Oct 2025, 11:26:27 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/>)
 
@@ -134,7 +170,7 @@
   Fonte: The Hacker News, 16 Oct 2025, 04:26:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html>)
 
-- **Podcast #439 di Smashing Security: Una violazione, un burnout e un po' di Fleetwood Mac**  
+- **Podcast di Smashing Security n. 439: Una violazione, un esaurimento e un po' di Fleetwood Mac**  
   Fonte: Graham Cluley, 15 Oct 2025, 23:28:01 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-439/>)
 
@@ -218,37 +254,5 @@
   Fonte: The Hacker News, 14 Oct 2025, 07:09:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html>)
 
-- **I ricercatori espongono le capacità del malware MonsterV2 di TA585 e la catena di attacco**  
-  Fonte: The Hacker News, 14 Oct 2025, 05:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html>)
 
-- **Il ricablaggio della democrazia arriverà presto**  
-  Fonte: Schneier on Security, 13 Oct 2025, 16:36:38 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/rewiring-democracy-is-coming-soon.html>)
-
-- **⚡ Riepilogo settimanale: worm WhatsApp, CVE critici, Oracle 0-Day, cartello ransomware e altro**  
-  Fonte: The Hacker News, 13 Oct 2025, 13:18:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html>)
-
-- **Perché JavaScript non monitorato è il più grande rischio per la sicurezza durante le vacanze**  
-  Fonte: The Hacker News, 13 Oct 2025, 11:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/why-unmonitored-javascript-is-your.html>)
-
-- **L’intelligenza artificiale e il futuro della politica americana**  
-  Fonte: Schneier on Security, 13 Oct 2025, 11:04:31 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html>)
-
-- **I ricercatori avvertono che la botnet RondoDox sta trasformando in armi oltre 50 difetti in oltre 30 fornitori**  
-  Fonte: The Hacker News, 13 Oct 2025, 10:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html>)
-
-- **Microsoft blocca la modalità IE dopo che gli hacker hanno trasformato le funzionalità legacy in backdoor**  
-  Fonte: The Hacker News, 13 Oct 2025, 09:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html>)
-
-- **Il trojan bancario Astaroth abusa di GitHub per rimanere operativo dopo le eliminazioni**  
-  Fonte: The Hacker News, 13 Oct 2025, 06:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-20 06:19:07 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-21 06:19:00 UTC -->
