@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **Oltre 250 negozi Magento vengono colpiti da un giorno all'altro mentre gli hacker sfruttano la nuova falla di Adobe Commerce**  
+  Fonte: The Hacker News, 23 Oct 2025, 05:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html>)
+
+- **Bug critico di Lanscope Endpoint Manager sfruttato negli attacchi informatici in corso, conferma CISA**  
+  Fonte: The Hacker News, 23 Oct 2025, 05:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html>)
+
+- **Smashing Security podcast n. 440: Come hackerare una prigione e la minaccia nascosta delle casse online**  
+  Fonte: Graham Cluley, 22 Oct 2025, 23:30:31 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-440/>)
+
+- **Gli hacker iraniani hanno preso di mira oltre 100 organizzazioni governative con la backdoor Phoenix**  
+  Fonte: BleepingComputer, 22 Oct 2025, 21:19:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-over-100-govt-orgs-with-phoenix-backdoor/>)
+
+- **Pwn2Own Day 2: gli hacker sfruttano 56 zero-day per 790.000 dollari**  
+  Fonte: BleepingComputer, 22 Oct 2025, 18:52:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/samsung-galaxy-s25-hacked-on-day-two-of-pwn2own-ireland-2025/>)
+
+- **Gli hacker sfruttano la falla critica "SessionReaper" in Adobe Magento**  
+  Fonte: BleepingComputer, 22 Oct 2025, 18:41:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-sessionreaper-flaw-in-adobe-magento/>)
+
+- **Il Canada multa Cryptomus, amico del crimine informatico, da 176 milioni di dollari**  
+  Fonte: Krebs on Security, 22 Oct 2025, 17:21:36 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/>)
+
+- **Il difetto TARmageddon nella libreria Rust abbandonata consente attacchi RCE**  
+  Fonte: BleepingComputer, 22 Oct 2025, 17:21:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/>)
+
+- **MuddyWater, legato all'Iran, prende di mira oltre 100 organizzazioni nella campagna di spionaggio globale**  
+  Fonte: The Hacker News, 22 Oct 2025, 17:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html>)
+
+- **I criminali informatici si rivoltano a vicenda: la storia del crollo di Lumma Stealer**  
+  Fonte: Graham Cluley, 22 Oct 2025, 17:10:29 UTC  
+  [Leggi](<https://www.fortra.com/blog/cybercriminals-turn-each-other-story-lumma-stealers-collapse>)
+
+- **Gruppi umanitari ucraini presi di mira da false riunioni Zoom e file PDF armati**  
+  Fonte: The Hacker News, 22 Oct 2025, 16:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html>)
+
+- **Meta lancia nuovi strumenti anti-truffa per WhatsApp e Messenger**  
+  Fonte: BleepingComputer, 22 Oct 2025, 15:11:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/meta-launches-new-anti-scam-tools-for-whatsapp-and-messenger/>)
+
+- **La violazione dei dati FinWise mostra perché la crittografia è la tua ultima difesa**  
+  Fonte: BleepingComputer, 22 Oct 2025, 15:11:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/finwise-data-breach-shows-why-encryption-is-your-last-defense/>)
+
+- **L'attacco Phantom Captcha ClickFix prende di mira le organizzazioni di soccorso bellico dell'Ucraina**  
+  Fonte: BleepingComputer, 22 Oct 2025, 13:37:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/phantomcaptcha-clickfix-attack-targets-ukraine-war-relief-orgs/>)
+
+- **Attori cinesi di minacce sfruttano il difetto di ToolShell SharePoint settimane dopo la patch di luglio di Microsoft**  
+  Fonte: The Hacker News, 22 Oct 2025, 12:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html>)
+
+- **Colmare il divario nella riparazione: presentazione di Pentera Resolve**  
+  Fonte: The Hacker News, 22 Oct 2025, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html>)
+
+- **Il pacchetto NuGet Nethereum falso ha utilizzato il trucco dell'omoglifo per rubare le chiavi del portafoglio crittografico**  
+  Fonte: The Hacker News, 22 Oct 2025, 11:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/fake-nethereum-nuget-package-used.html>)
+
+- **Errori nel riconoscimento facciale**  
+  Fonte: Schneier on Security, 22 Oct 2025, 11:03:14 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/failures-in-face-recognition.html>)
+
+- **Sharepoint ToolShell attacca organizzazioni mirate in quattro continenti**  
+  Fonte: BleepingComputer, 22 Oct 2025, 10:24:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sharepoint-toolshell-attacks-targeted-orgs-across-four-continents/>)
+
+- **Perché dovresti scambiare le password con le passphrase**  
+  Fonte: The Hacker News, 22 Oct 2025, 09:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html>)
+
+- **I ricercatori identificano l'APT PassiveNeuron utilizzando il malware Neursite e NeuralExecutor**  
+  Fonte: The Hacker News, 22 Oct 2025, 08:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html>)
+
+- **Il difetto TARmageddon nella libreria Async-Tar Rust potrebbe abilitare l'esecuzione di codice remoto**  
+  Fonte: The Hacker News, 22 Oct 2025, 07:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html>)
+
 - **TP-Link corregge quattro difetti del gateway Omada, due dei quali consentono l'esecuzione di codice remoto**  
   Fonte: The Hacker News, 22 Oct 2025, 04:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html>)
@@ -14,7 +102,7 @@
   Fonte: BleepingComputer, 21 Oct 2025, 21:11:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/>)
 
-- **All'interno dei dati sulle minacce sintetizzate**  
+- **All'interno dei dati sulle minacce synthient**  
   Fonte: Troy Hunt, 21 Oct 2025, 19:20:01 UTC  
   [Leggi](<https://www.troyhunt.com/inside-the-synthient-threat-data/>)
 
@@ -26,18 +114,6 @@
   Fonte: BleepingComputer, 21 Oct 2025, 19:00:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cursor-windsurf-ides-riddled-with-94-plus-n-day-chromium-vulnerabilities/>)
 
-- **Gli hacker sfruttano 34 zero-day nel primo giorno di Pwn2Own Ireland**  
-  Fonte: BleepingComputer, 21 Oct 2025, 17:39:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-34-zero-days-on-first-day-of-pwn2own-ireland/>)
-
-- **Microsoft: i recenti aggiornamenti di Windows causano problemi di accesso su alcuni PC**  
-  Fonte: BleepingComputer, 21 Oct 2025, 16:56:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-login-issues-on-pcs-sharing-security-ids/>)
-
-- **Gli hacker russi sviluppano malware inserito nei captcha "Non sono un robot".**  
-  Fonte: BleepingComputer, 21 Oct 2025, 15:13:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-hackers-evolve-malware-pushed-in-i-am-not-a-robot-clickfix-attacks/>)
-
 - **Meta lancia nuovi strumenti per proteggere gli utenti di WhatsApp e Messenger dalle truffe**  
   Fonte: The Hacker News, 21 Oct 2025, 15:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html>)
@@ -46,17 +122,9 @@
   Fonte: Graham Cluley, 21 Oct 2025, 14:30:25 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-73/>)
 
-- **Massimizzare la sicurezza del gateway: oltre la configurazione di base**  
-  Fonte: BleepingComputer, 21 Oct 2025, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/maximizing-gateway-security-beyond-the-basic-configuration/>)
-
-- **PolarEdge prende di mira i router Cisco, ASUS, QNAP e Synology nell'espansione della campagna botnet**  
+- **PolarEdge prende di mira i router Cisco, ASUS, QNAP e Synology nella campagna di espansione delle botnet**  
   Fonte: The Hacker News, 21 Oct 2025, 13:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html>)
-
-- **Microsoft risolve un bug che impedisce agli utenti di aprire Outlook classico**  
-  Fonte: BleepingComputer, 21 Oct 2025, 12:59:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-preventing-users-from-opening-classic-outlook/>)
 
 - **John Bolton accusato di e-mail riservate dopo l'attacco iraniano al suo account AOL**  
   Fonte: Graham Cluley, 21 Oct 2025, 11:08:26 UTC  
@@ -70,10 +138,6 @@
   Fonte: The Hacker News, 21 Oct 2025, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html>)
 
-- **L'aggiornamento di emergenza KB5070773 di Windows 11 risolve i problemi di ripristino di Windows**  
-  Fonte: BleepingComputer, 21 Oct 2025, 09:01:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-issue-that-made-windows-recovery-unusable/>)
-
 - **Google identifica tre nuove famiglie di malware russe create dagli hacker COLDRIVER**  
   Fonte: The Hacker News, 21 Oct 2025, 07:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/google-identifies-three-new-russian.html>)
@@ -82,21 +146,9 @@
   Fonte: The Hacker News, 21 Oct 2025, 07:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html>)
 
-- **Il servizio DNS privato DNS0.EU viene interrotto per problemi di sostenibilità**  
-  Fonte: BleepingComputer, 20 Oct 2025, 21:05:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dns0eu-private-dns-service-shuts-down-over-sustainability-issues/>)
-
-- **Microsoft: gli aggiornamenti di ottobre interrompono l'input USB nel ripristino di Windows**  
-  Fonte: BleepingComputer, 20 Oct 2025, 19:06:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-october-updates-break-usb-mice-and-keyboards-in-windows-recovery/>)
-
 - **Cinque nuovi bug sfruttati compaiono nel catalogo CISA: Oracle e Microsoft Among Targets**  
   Fonte: The Hacker News, 20 Oct 2025, 19:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html>)
-
-- **Il colosso della vendita al dettaglio Muji interrompe le vendite online dopo l'attacco ransomware al fornitore**  
-  Fonte: BleepingComputer, 20 Oct 2025, 18:45:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/retail-giant-muji-halts-online-sales-after-ransomware-attack-on-supplier/>)
 
 - **⚡ Riepilogo settimanale: violazione di F5, rootkit Linux, attacco Pixnapping, EtherHiding e altro**  
   Fonte: The Hacker News, 20 Oct 2025, 12:27:00 UTC  
@@ -146,7 +198,7 @@
   Fonte: The Hacker News, 17 Oct 2025, 13:33:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html>)
 
-- **Le email bomb sfruttano l'autenticazione Lax in Zendesk**  
+- **Le email bomb sfruttano l'autenticazione lax in Zendesk**  
   Fonte: Krebs on Security, 17 Oct 2025, 11:26:27 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/>)
 
@@ -206,45 +258,5 @@
   Fonte: The Hacker News, 16 Oct 2025, 09:14:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html>)
 
-- **CISA segnala il difetto di Adobe AEM con un punteggio perfetto di 10.0: già sotto attacco attivo**  
-  Fonte: The Hacker News, 16 Oct 2025, 04:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html>)
 
-- **Podcast di Smashing Security n. 439: Una violazione, un esaurimento e un po' di Fleetwood Mac**  
-  Fonte: Graham Cluley, 15 Oct 2025, 23:28:01 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-439/>)
-
-- **Il gruppo minaccioso cinese "Jewelbug" si è infiltrato silenziosamente nella rete informatica russa per mesi**  
-  Fonte: The Hacker News, 15 Oct 2025, 17:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html>)
-
-- **La violazione F5 espone il codice sorgente BIG-IP: hacker nazionali dietro un'intrusione massiccia**  
-  Fonte: The Hacker News, 15 Oct 2025, 16:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html>)
-
-- **L'NCSC avverte le aziende di prepararsi per un giorno in cui gli schermi si oscureranno**  
-  Fonte: Graham Cluley, 15 Oct 2025, 14:48:34 UTC  
-  [Leggi](<https://www.fortra.com/blog/ncsc-warns-companies-prepare-screens-dark>)
-
-- **Oltre 100 estensioni del codice VS hanno esposto gli sviluppatori a rischi nascosti della catena di fornitura**  
-  Fonte: The Hacker News, 15 Oct 2025, 14:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html>)
-
-- **Come gli aggressori aggirano le passkey sincronizzate**  
-  Fonte: The Hacker News, 15 Oct 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html>)
-
-- **Il programma Bug Bounty di Apple**  
-  Fonte: Schneier on Security, 15 Oct 2025, 11:02:18 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html>)
-
-- **Due nuovi Windows Zero-Days sfruttati in natura: uno di essi influisce su ogni versione mai distribuita**  
-  Fonte: The Hacker News, 15 Oct 2025, 09:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html>)
-
-- **Due bug CVSS 10.0 nelle RTU Red Lion potrebbero fornire agli hacker il pieno controllo industriale**  
-  Fonte: The Hacker News, 15 Oct 2025, 06:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-22 06:18:37 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-23 06:19:04 UTC -->
