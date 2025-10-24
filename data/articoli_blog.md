@@ -2,6 +2,62 @@
 
 ## Ultimi 7 giorni
 
+- **Toys "R" Us Canada avverte che le informazioni dei clienti sono trapelate a causa di una violazione dei dati**  
+  Fonte: BleepingComputer, 23 Oct 2025, 22:25:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/>)
+
+- **HP rimuove l'aggiornamento che ha interrotto l'autenticazione dell'ID Microsoft Entra su alcuni PC AI**  
+  Fonte: BleepingComputer, 23 Oct 2025, 21:50:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/>)
+
+- **Scopri il nuovo Clippy: Microsoft svela l'avatar "Mico" di Copilot**  
+  Fonte: BleepingComputer, 23 Oct 2025, 17:28:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/meet-the-new-clippy-microsoft-unveils-copilots-mico-avatar/>)
+
+- **CISA avverte della falla di Lanscope Endpoint Manager sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 23 Oct 2025, 16:24:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-lanscope-endpoint-manager-flaw-exploited-in-attacks/>)
+
+- **Microsoft disabilita l'anteprima di Esplora file per i download per bloccare gli attacchi**  
+  Fonte: BleepingComputer, 23 Oct 2025, 15:57:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/>)
+
+- **Gli hacker nordcoreani attirano gli ingegneri della difesa con lavori falsi per rubare i segreti dei droni**  
+  Fonte: The Hacker News, 23 Oct 2025, 15:29:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html>)
+
+- **Zero Trust ha un punto cieco: i tuoi agenti IA**  
+  Fonte: BleepingComputer, 23 Oct 2025, 14:15:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zero-trust-has-a-blind-spot-your-ai-agents/>)
+
+- **Le barre laterali dell'IA contraffatte possono ingannare gli utenti di Atlas e Comet in azioni pericolose**  
+  Fonte: BleepingComputer, 23 Oct 2025, 14:09:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/>)
+
+- **Gli hacker nordcoreani Lazarus hanno preso di mira le aziende europee della difesa**  
+  Fonte: BleepingComputer, 23 Oct 2025, 12:38:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-lazarus-hackers-targeted-european-defense-companies/>)
+
+- **Proteggi l'intelligenza artificiale su larga scala e in velocità: scopri il framework in questo webinar gratuito**  
+  Fonte: The Hacker News, 23 Oct 2025, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html>)
+
+- **Bollettino del ThreatsDay: multa da 176 milioni di dollari per criptovalute, hacking di Formula 1, vulnerabilità di Chromium, dirottamento dell'IA e altro**  
+  Fonte: The Hacker News, 23 Oct 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html>)
+
+- **Grave violazione F5**  
+  Fonte: Schneier on Security, 23 Oct 2025, 11:04:48 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/serious-f5-breach.html>)
+
+- **Perché le organizzazioni stanno abbandonando i segreti statici per le identità gestite**  
+  Fonte: The Hacker News, 23 Oct 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html>)
+
+- **Gli hacker "Jingle Thief" sfruttano l'infrastruttura cloud per rubare milioni di buoni regalo**  
+  Fonte: The Hacker News, 23 Oct 2025, 07:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html>)
+
 - **Oltre 250 negozi Magento vengono colpiti da un giorno all'altro mentre gli hacker sfruttano la nuova falla di Adobe Commerce**  
   Fonte: The Hacker News, 23 Oct 2025, 05:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html>)
@@ -46,18 +102,6 @@
   Fonte: The Hacker News, 22 Oct 2025, 16:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html>)
 
-- **Meta lancia nuovi strumenti anti-truffa per WhatsApp e Messenger**  
-  Fonte: BleepingComputer, 22 Oct 2025, 15:11:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/meta-launches-new-anti-scam-tools-for-whatsapp-and-messenger/>)
-
-- **La violazione dei dati FinWise mostra perché la crittografia è la tua ultima difesa**  
-  Fonte: BleepingComputer, 22 Oct 2025, 15:11:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/finwise-data-breach-shows-why-encryption-is-your-last-defense/>)
-
-- **L'attacco Phantom Captcha ClickFix prende di mira le organizzazioni di soccorso bellico dell'Ucraina**  
-  Fonte: BleepingComputer, 22 Oct 2025, 13:37:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/phantomcaptcha-clickfix-attack-targets-ukraine-war-relief-orgs/>)
-
 - **Attori cinesi di minacce sfruttano il difetto di ToolShell SharePoint settimane dopo la patch di luglio di Microsoft**  
   Fonte: The Hacker News, 22 Oct 2025, 12:56:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html>)
@@ -73,10 +117,6 @@
 - **Errori nel riconoscimento facciale**  
   Fonte: Schneier on Security, 22 Oct 2025, 11:03:14 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/failures-in-face-recognition.html>)
-
-- **Sharepoint ToolShell attacca organizzazioni mirate in quattro continenti**  
-  Fonte: BleepingComputer, 22 Oct 2025, 10:24:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sharepoint-toolshell-attacks-targeted-orgs-across-four-continents/>)
 
 - **Perché dovresti scambiare le password con le passphrase**  
   Fonte: The Hacker News, 22 Oct 2025, 09:26:00 UTC  
@@ -94,25 +134,9 @@
   Fonte: The Hacker News, 22 Oct 2025, 04:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html>)
 
-- **Vidar Stealer 2.0 aggiunge il furto di dati multi-thread, una migliore evasione**  
-  Fonte: BleepingComputer, 21 Oct 2025, 22:26:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vidar-stealer-20-adds-multi-threaded-data-theft-better-evasion/>)
-
-- **TP-Link avverte di un difetto critico di command injection nei gateway Omada**  
-  Fonte: BleepingComputer, 21 Oct 2025, 21:11:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/>)
-
 - **All'interno dei dati sulle minacce synthient**  
   Fonte: Troy Hunt, 21 Oct 2025, 19:20:01 UTC  
   [Leggi](<https://www.troyhunt.com/inside-the-synthient-threat-data/>)
-
-- **La CISA conferma che gli hacker hanno sfruttato la falla SSRF di Oracle E-Business Suite**  
-  Fonte: BleepingComputer, 21 Oct 2025, 19:15:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/>)
-
-- **Cursore, IDE Windsurf pieni di oltre 94 vulnerabilità di Chromium di n giorni**  
-  Fonte: BleepingComputer, 21 Oct 2025, 19:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cursor-windsurf-ides-riddled-with-94-plus-n-day-chromium-vulnerabilities/>)
 
 - **Meta lancia nuovi strumenti per proteggere gli utenti di WhatsApp e Messenger dalle truffe**  
   Fonte: The Hacker News, 21 Oct 2025, 15:03:00 UTC  
@@ -214,49 +238,5 @@
   Fonte: The Hacker News, 17 Oct 2025, 09:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html>)
 
-- **Microsoft revoca 200 certificati fraudolenti utilizzati nella campagna Rhysida Ransomware**  
-  Fonte: The Hacker News, 17 Oct 2025, 06:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html>)
 
-- **Gli hacker nordcoreani utilizzano EtherHiding per nascondere malware all'interno degli smart contract Blockchain**  
-  Fonte: The Hacker News, 16 Oct 2025, 14:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html>)
-
-- **Gli hacker abusano degli smart contract Blockchain per diffondere malware tramite siti WordPress infetti**  
-  Fonte: The Hacker News, 16 Oct 2025, 14:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html>)
-
-- **LinkPro Linux Rootkit utilizza eBPF per nascondersi e attivarsi tramite pacchetti Magic TCP**  
-  Fonte: The Hacker News, 16 Oct 2025, 14:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html>)
-
-- **Migliorare l'affidabilità di Javascript sul Web**  
-  Fonte: Cloudflare Blog - Security, 16 Oct 2025, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/>)
-
-- **Architetture, rischi e adozione: come valutare e scegliere la giusta piattaforma AI-SOC**  
-  Fonte: The Hacker News, 16 Oct 2025, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html>)
-
-- **Gli hacker distribuiscono rootkit Linux tramite Cisco SNMP Difetto negli attacchi "Zero Disco".**  
-  Fonte: The Hacker News, 16 Oct 2025, 11:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html>)
-
-- **ATM di criptovaluta**  
-  Fonte: Schneier on Security, 16 Oct 2025, 11:06:51 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/cryptocurrency-atms.html>)
-
-- **Attenzione ai costi nascosti dei pen test**  
-  Fonte: The Hacker News, 16 Oct 2025, 10:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html>)
-
-- **L'operazione Heracles sferra un colpo contro un'enorme rete di siti fraudolenti di trading di criptovalute**  
-  Fonte: Graham Cluley, 16 Oct 2025, 10:20:54 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/operation-heracles-strikes-blow-massive-network-fraudulent-crypto-trading-sites>)
-
-- **Bollettino del ThreatsDay: busta di criptovalute da 15 miliardi di dollari, spionaggio satellitare, smishing miliardari, RAT Android e altro**  
-  Fonte: The Hacker News, 16 Oct 2025, 09:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-23 06:19:04 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-24 06:17:18 UTC -->
