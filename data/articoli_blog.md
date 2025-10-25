@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Blogging sui calamari del venerdì: “El Pulpo The Squid”**  
+  Fonte: Schneier on Security, 24 Oct 2025, 21:07:38 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html>)
+
+- **Gli hacker lanciano attacchi di massa sfruttando plugin WordPress obsoleti**  
+  Fonte: BleepingComputer, 24 Oct 2025, 19:28:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/>)
+
+- **Triade Smishing collegata a 194.000 domini dannosi in un'operazione di phishing globale**  
+  Fonte: The Hacker News, 24 Oct 2025, 18:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html>)
+
+- **Il difetto critico di Microsoft WSUS appena risolto viene sfruttato attivamente**  
+  Fonte: The Hacker News, 24 Oct 2025, 16:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html>)
+
+- **Difetto critico WSUS in Windows Server ora sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 24 Oct 2025, 16:28:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/>)
+
+- **Amazon: interruzione di AWS di questa settimana causata da un grave errore DNS**  
+  Fonte: BleepingComputer, 24 Oct 2025, 15:33:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/>)
+
+- **False dichiarazioni di morte di LastPass utilizzate per violare le casseforti di password**  
+  Fonte: BleepingComputer, 24 Oct 2025, 14:47:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-lastpass-death-claims-used-to-breach-password-vaults/>)
+
+- **Come ridurre i costi con la reimpostazione della password self-service**  
+  Fonte: BleepingComputer, 24 Oct 2025, 14:06:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-reduce-costs-with-self-service-password-resets/>)
+
+- **APT36 prende di mira il governo indiano con la campagna malware DeskRAT basata su Golang**  
+  Fonte: The Hacker News, 24 Oct 2025, 14:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html>)
+
+- **Mozilla: le nuove estensioni di Firefox devono divulgare le pratiche di raccolta dei dati**  
+  Fonte: BleepingComputer, 24 Oct 2025, 13:17:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/>)
+
+- **Parte quarta della scultura di Kryptos**  
+  Fonte: Schneier on Security, 24 Oct 2025, 11:01:14 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/part-four-of-the-kryptos-sculpture.html>)
+
+- **Il divario nella percezione della sicurezza informatica: perché dirigenti e professionisti vedono il rischio in modo diverso**  
+  Fonte: The Hacker News, 24 Oct 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html>)
+
+- **3.000 video di YouTube denunciati come trappole di malware in una massiccia operazione di rete fantasma**  
+  Fonte: The Hacker News, 24 Oct 2025, 10:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html>)
+
+- **Le patch di emergenza di Windows Server risolvono il bug WSUS con l'exploit PoC**  
+  Fonte: BleepingComputer, 24 Oct 2025, 07:27:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/>)
+
+- **Il "GlassWorm" auto-diffondente infetta le estensioni del codice VS in un attacco diffuso alla catena di fornitura**  
+  Fonte: The Hacker News, 24 Oct 2025, 07:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html>)
+
+- **Gli hacker guadagnano $ 1.024.750 per 73 zero-day su Pwn2Own Irlanda**  
+  Fonte: BleepingComputer, 24 Oct 2025, 06:36:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/>)
+
 - **Toys "R" Us Canada avverte che le informazioni dei clienti sono trapelate a causa di una violazione dei dati**  
   Fonte: BleepingComputer, 23 Oct 2025, 22:25:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/>)
@@ -25,18 +89,6 @@
 - **Gli hacker nordcoreani attirano gli ingegneri della difesa con lavori falsi per rubare i segreti dei droni**  
   Fonte: The Hacker News, 23 Oct 2025, 15:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html>)
-
-- **Zero Trust ha un punto cieco: i tuoi agenti IA**  
-  Fonte: BleepingComputer, 23 Oct 2025, 14:15:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zero-trust-has-a-blind-spot-your-ai-agents/>)
-
-- **Le barre laterali dell'IA contraffatte possono ingannare gli utenti di Atlas e Comet in azioni pericolose**  
-  Fonte: BleepingComputer, 23 Oct 2025, 14:09:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/>)
-
-- **Gli hacker nordcoreani Lazarus hanno preso di mira le aziende europee della difesa**  
-  Fonte: BleepingComputer, 23 Oct 2025, 12:38:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-lazarus-hackers-targeted-european-defense-companies/>)
 
 - **Proteggi l'intelligenza artificiale su larga scala e in velocità: scopri il framework in questo webinar gratuito**  
   Fonte: The Hacker News, 23 Oct 2025, 11:55:00 UTC  
@@ -70,25 +122,9 @@
   Fonte: Graham Cluley, 22 Oct 2025, 23:30:31 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-440/>)
 
-- **Gli hacker iraniani hanno preso di mira oltre 100 organizzazioni governative con la backdoor Phoenix**  
-  Fonte: BleepingComputer, 22 Oct 2025, 21:19:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-over-100-govt-orgs-with-phoenix-backdoor/>)
-
-- **Pwn2Own Day 2: gli hacker sfruttano 56 zero-day per 790.000 dollari**  
-  Fonte: BleepingComputer, 22 Oct 2025, 18:52:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/samsung-galaxy-s25-hacked-on-day-two-of-pwn2own-ireland-2025/>)
-
-- **Gli hacker sfruttano la falla critica "SessionReaper" in Adobe Magento**  
-  Fonte: BleepingComputer, 22 Oct 2025, 18:41:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-sessionreaper-flaw-in-adobe-magento/>)
-
-- **Il Canada multa Cryptomus, amico del crimine informatico, da 176 milioni di dollari**  
+- **Il Canada multa Cryptomus amico del crimine informatico da 176 milioni di dollari**  
   Fonte: Krebs on Security, 22 Oct 2025, 17:21:36 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/>)
-
-- **Il difetto TARmageddon nella libreria Rust abbandonata consente attacchi RCE**  
-  Fonte: BleepingComputer, 22 Oct 2025, 17:21:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/>)
 
 - **MuddyWater, legato all'Iran, prende di mira oltre 100 organizzazioni nella campagna di spionaggio globale**  
   Fonte: The Hacker News, 22 Oct 2025, 17:21:00 UTC  
@@ -214,29 +250,5 @@
   Fonte: The Hacker News, 18 Oct 2025, 06:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html>)
 
-- **Blog sui calamari del venerdì: Pescatore delle Filippine con inchiostri di calamari**  
-  Fonte: Schneier on Security, 17 Oct 2025, 21:02:47 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html>)
 
-- **Gli hacker nordcoreani combinano BeaverTail e OtterCookie in Advanced JS Malware**  
-  Fonte: The Hacker News, 17 Oct 2025, 13:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html>)
-
-- **Le email bomb sfruttano l'autenticazione lax in Zendesk**  
-  Fonte: Krebs on Security, 17 Oct 2025, 11:26:27 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/>)
-
-- **Una quantità sorprendente di traffico satellitare non è crittografata**  
-  Fonte: Schneier on Security, 17 Oct 2025, 11:03:53 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/a-surprising-amount-of-satellite-traffic-is-unencrypted.html>)
-
-- **Sicurezza dell'identità: la tua prima e ultima linea di difesa**  
-  Fonte: The Hacker News, 17 Oct 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/identity-security-your-first-and-last.html>)
-
-- **I ricercatori scoprono un bug della VPN WatchGuard che potrebbe consentire agli aggressori di prendere il controllo dei dispositivi**  
-  Fonte: The Hacker News, 17 Oct 2025, 09:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-24 06:17:18 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-25 06:16:26 UTC -->
