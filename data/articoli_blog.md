@@ -2,7 +2,15 @@
 
 ## Ultimi 7 giorni
 
-- **Blogging sui calamari del venerdì: “El Pulpo The Squid”**  
+- **Aggiornamento settimanale 475**  
+  Fonte: Troy Hunt, 25 Oct 2025, 21:32:46 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-475/>)
+
+- **Il nuovo attacco CoPhish ruba i token OAuth tramite gli agenti di Copilot Studio**  
+  Fonte: BleepingComputer, 25 Oct 2025, 16:16:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/>)
+
+- **Blog di calamari del venerdì: “El Pulpo The Squid”**  
   Fonte: Schneier on Security, 24 Oct 2025, 21:07:38 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html>)
 
@@ -26,7 +34,7 @@
   Fonte: BleepingComputer, 24 Oct 2025, 15:33:58 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/>)
 
-- **False dichiarazioni di morte di LastPass utilizzate per violare le casseforti di password**  
+- **False dichiarazioni di morte di LastPass utilizzate per violare le password protette**  
   Fonte: BleepingComputer, 24 Oct 2025, 14:47:48 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fake-lastpass-death-claims-used-to-breach-password-vaults/>)
 
@@ -62,7 +70,7 @@
   Fonte: The Hacker News, 24 Oct 2025, 07:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html>)
 
-- **Gli hacker guadagnano $ 1.024.750 per 73 zero-day su Pwn2Own Irlanda**  
+- **Gli hacker guadagnano $ 1.024.750 per 73 zero-day su Pwn2Own Ireland**  
   Fonte: BleepingComputer, 24 Oct 2025, 06:36:55 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/>)
 
@@ -77,14 +85,6 @@
 - **Scopri il nuovo Clippy: Microsoft svela l'avatar "Mico" di Copilot**  
   Fonte: BleepingComputer, 23 Oct 2025, 17:28:59 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/meet-the-new-clippy-microsoft-unveils-copilots-mico-avatar/>)
-
-- **CISA avverte della falla di Lanscope Endpoint Manager sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 23 Oct 2025, 16:24:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-lanscope-endpoint-manager-flaw-exploited-in-attacks/>)
-
-- **Microsoft disabilita l'anteprima di Esplora file per i download per bloccare gli attacchi**  
-  Fonte: BleepingComputer, 23 Oct 2025, 15:57:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/>)
 
 - **Gli hacker nordcoreani attirano gli ingegneri della difesa con lavori falsi per rubare i segreti dei droni**  
   Fonte: The Hacker News, 23 Oct 2025, 15:29:00 UTC  
@@ -122,7 +122,7 @@
   Fonte: Graham Cluley, 22 Oct 2025, 23:30:31 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-440/>)
 
-- **Il Canada multa Cryptomus amico del crimine informatico da 176 milioni di dollari**  
+- **Il Canada multa Cryptomus, amico del crimine informatico, da 176 milioni di dollari**  
   Fonte: Krebs on Security, 22 Oct 2025, 17:21:36 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/>)
 
@@ -170,7 +170,7 @@
   Fonte: The Hacker News, 22 Oct 2025, 04:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html>)
 
-- **All'interno dei dati sulle minacce synthient**  
+- **All'interno dei dati sulle minacce sintetizzate**  
   Fonte: Troy Hunt, 21 Oct 2025, 19:20:01 UTC  
   [Leggi](<https://www.troyhunt.com/inside-the-synthient-threat-data/>)
 
@@ -238,17 +238,5 @@
   Fonte: The Hacker News, 20 Oct 2025, 05:32:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html>)
 
-- **Europol smantella la rete SIM agricola che alimenta 49 milioni di conti falsi in tutto il mondo**  
-  Fonte: The Hacker News, 19 Oct 2025, 06:13:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html>)
 
-- **La nuova backdoor .NET CAPI prende di mira le aziende automobilistiche e di e-commerce russe tramite ZIP di phishing**  
-  Fonte: The Hacker News, 18 Oct 2025, 11:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html>)
-
-- **Silver Fox espande gli attacchi di Winos 4.0 al Giappone e alla Malesia tramite HoldingHands RAT**  
-  Fonte: The Hacker News, 18 Oct 2025, 06:51:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-25 06:16:26 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-26 06:16:59 UTC -->
