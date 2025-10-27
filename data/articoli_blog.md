@@ -170,7 +170,7 @@
   Fonte: The Hacker News, 22 Oct 2025, 04:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html>)
 
-- **All'interno dei dati sulle minacce sintetizzate**  
+- **All'interno dei dati sulle minacce synthient**  
   Fonte: Troy Hunt, 21 Oct 2025, 19:20:01 UTC  
   [Leggi](<https://www.troyhunt.com/inside-the-synthient-threat-data/>)
 
@@ -234,9 +234,5 @@
   Fonte: Troy Hunt, 20 Oct 2025, 07:09:27 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-474/>)
 
-- **MSS afferma che la NSA ha utilizzato 42 strumenti informatici in un attacco multifase ai sistemi orari di Pechino**  
-  Fonte: The Hacker News, 20 Oct 2025, 05:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-10-26 06:16:59 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-27 06:19:27 UTC -->
