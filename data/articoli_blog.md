@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **SideWinder adotta una nuova catena di attacchi basata su ClickOnce rivolta ai diplomatici dell'Asia meridionale**  
+  Fonte: The Hacker News, 28 Oct 2025, 04:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html>)
+
+- **Google contesta le false accuse di massiccia violazione dei dati di Gmail**  
+  Fonte: BleepingComputer, 27 Oct 2025, 20:32:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/>)
+
+- **X: registra nuovamente le chiavi di sicurezza 2FA entro il 10 novembre o rimarrai bloccato**  
+  Fonte: BleepingComputer, 27 Oct 2025, 19:36:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/>)
+
+- **I profitti del ransomware diminuiscono quando le vittime smettono di pagare gli hacker**  
+  Fonte: BleepingComputer, 27 Oct 2025, 19:22:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-profits-drop-as-victims-stop-paying-hackers/>)
+
+- **Windows richiederà presto la scansione della memoria dopo l'arresto anomalo di BSOD**  
+  Fonte: BleepingComputer, 27 Oct 2025, 18:36:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-will-soon-prompt-for-memory-scans-after-bsod-crashes/>)
+
+- **QNAP avverte di un difetto critico ASP.NET nel suo software di backup Windows**  
+  Fonte: BleepingComputer, 27 Oct 2025, 16:55:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/qnap-warns-its-windows-backup-software-is-also-affected-by-critical-aspnet-flaw/>)
+
+- **Fornitore di spyware italiano collegato agli attacchi zero-day di Chrome**  
+  Fonte: BleepingComputer, 27 Oct 2025, 16:37:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/italian-spyware-vendor-linked-to-chrome-zero-day-attacks/>)
+
+- **X avvisa gli utenti con chiavi di sicurezza di registrarsi nuovamente prima del 10 novembre per evitare blocchi**  
+  Fonte: The Hacker News, 27 Oct 2025, 16:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html>)
+
+- **Google afferma che tutti saranno in grado di codificare i videogiochi**  
+  Fonte: BleepingComputer, 27 Oct 2025, 15:59:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-says-everyone-will-be-able-to-vibe-code-video-games/>)
+
+- **Microsoft: la nuova policy rimuove le app preinstallate di Microsoft Store**  
+  Fonte: BleepingComputer, 27 Oct 2025, 15:13:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-remove-pre-installed-microsoft-store-apps-via-policy/>)
+
+- **Furto di gioielli al Louvre**  
+  Fonte: Schneier on Security, 27 Oct 2025, 15:03:15 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/louvre-jewel-heist.html>)
+
+- **Il nuovo exploit del browser Atlas ChatGPT consente agli aggressori di inserire comandi nascosti persistenti**  
+  Fonte: The Hacker News, 27 Oct 2025, 14:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html>)
+
+- **Lo stato della gestione dell'esposizione nel 2025: approfondimenti da oltre 3.000 organizzazioni**  
+  Fonte: BleepingComputer, 27 Oct 2025, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-state-of-exposure-management-in-2025-insights-from-3-000-plus-organizations/>)
+
+- **La CISA ordina ai federali di correggere la falla WSUS di Windows Server utilizzata negli attacchi**  
+  Fonte: BleepingComputer, 27 Oct 2025, 13:27:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/>)
+
+- **⚡ Riepilogo settimanale: WSUS sfruttato, ritorno di LockBit 5.0, backdoor di Telegram, violazione F5 ampliata**  
+  Fonte: The Hacker News, 27 Oct 2025, 12:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html>)
+
+- **Primo Wap: un computer di sorveglianza di cui non hai mai sentito parlare**  
+  Fonte: Schneier on Security, 27 Oct 2025, 11:08:11 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html>)
+
+- **Come abbiamo (quasi) trovato il bug di Chromium tramite i rapporti sugli arresti anomali per segnalare l'URI**  
+  Fonte: Troy Hunt, 27 Oct 2025, 09:09:21 UTC  
+  [Leggi](<https://www.troyhunt.com/how-we-almost-found-chromiums-bug-via-crash-reports-to-report-uri/>)
+
+- **Il ransomware Qilin combina il payload Linux con l'exploit BYOVD in un attacco ibrido**  
+  Fonte: The Hacker News, 27 Oct 2025, 08:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html>)
+
+- **Il browser Atlas ChatGPT può essere indotto con l'inganno da URL falsi a eseguire comandi nascosti**  
+  Fonte: The Hacker News, 27 Oct 2025, 07:29:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html>)
+
+- **Gli hacker rubano gli account Discord con l'infostealer basato su RedTiger**  
+  Fonte: BleepingComputer, 26 Oct 2025, 14:26:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/>)
+
 - **Aggiornamento settimanale 475**  
   Fonte: Troy Hunt, 25 Oct 2025, 21:32:46 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-475/>)
@@ -10,13 +90,9 @@
   Fonte: BleepingComputer, 25 Oct 2025, 16:16:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/>)
 
-- **Blog di calamari del venerdì: “El Pulpo The Squid”**  
+- **Blogging sui calamari del venerdì: “El Pulpo The Squid”**  
   Fonte: Schneier on Security, 24 Oct 2025, 21:07:38 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html>)
-
-- **Gli hacker lanciano attacchi di massa sfruttando plugin WordPress obsoleti**  
-  Fonte: BleepingComputer, 24 Oct 2025, 19:28:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/>)
 
 - **Triade Smishing collegata a 194.000 domini dannosi in un'operazione di phishing globale**  
   Fonte: The Hacker News, 24 Oct 2025, 18:35:00 UTC  
@@ -26,29 +102,9 @@
   Fonte: The Hacker News, 24 Oct 2025, 16:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html>)
 
-- **Difetto critico WSUS in Windows Server ora sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 24 Oct 2025, 16:28:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/>)
-
-- **Amazon: interruzione di AWS di questa settimana causata da un grave errore DNS**  
-  Fonte: BleepingComputer, 24 Oct 2025, 15:33:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/>)
-
-- **False dichiarazioni di morte di LastPass utilizzate per violare le password protette**  
-  Fonte: BleepingComputer, 24 Oct 2025, 14:47:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-lastpass-death-claims-used-to-breach-password-vaults/>)
-
-- **Come ridurre i costi con la reimpostazione della password self-service**  
-  Fonte: BleepingComputer, 24 Oct 2025, 14:06:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-reduce-costs-with-self-service-password-resets/>)
-
 - **APT36 prende di mira il governo indiano con la campagna malware DeskRAT basata su Golang**  
   Fonte: The Hacker News, 24 Oct 2025, 14:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html>)
-
-- **Mozilla: le nuove estensioni di Firefox devono divulgare le pratiche di raccolta dei dati**  
-  Fonte: BleepingComputer, 24 Oct 2025, 13:17:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/>)
 
 - **Parte quarta della scultura di Kryptos**  
   Fonte: Schneier on Security, 24 Oct 2025, 11:01:14 UTC  
@@ -62,35 +118,15 @@
   Fonte: The Hacker News, 24 Oct 2025, 10:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html>)
 
-- **Le patch di emergenza di Windows Server risolvono il bug WSUS con l'exploit PoC**  
-  Fonte: BleepingComputer, 24 Oct 2025, 07:27:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/>)
-
-- **Il "GlassWorm" auto-diffondente infetta le estensioni del codice VS in un attacco diffuso alla catena di fornitura**  
+- **Il "GlassWorm" autodiffondente infetta le estensioni del codice VS in un attacco diffuso alla catena di fornitura**  
   Fonte: The Hacker News, 24 Oct 2025, 07:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html>)
-
-- **Gli hacker guadagnano $ 1.024.750 per 73 zero-day su Pwn2Own Ireland**  
-  Fonte: BleepingComputer, 24 Oct 2025, 06:36:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/>)
-
-- **Toys "R" Us Canada avverte che le informazioni dei clienti sono trapelate a causa di una violazione dei dati**  
-  Fonte: BleepingComputer, 23 Oct 2025, 22:25:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/>)
-
-- **HP rimuove l'aggiornamento che ha interrotto l'autenticazione dell'ID Microsoft Entra su alcuni PC AI**  
-  Fonte: BleepingComputer, 23 Oct 2025, 21:50:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/>)
-
-- **Scopri il nuovo Clippy: Microsoft svela l'avatar "Mico" di Copilot**  
-  Fonte: BleepingComputer, 23 Oct 2025, 17:28:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/meet-the-new-clippy-microsoft-unveils-copilots-mico-avatar/>)
 
 - **Gli hacker nordcoreani attirano gli ingegneri della difesa con lavori falsi per rubare i segreti dei droni**  
   Fonte: The Hacker News, 23 Oct 2025, 15:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html>)
 
-- **Proteggi l'intelligenza artificiale su larga scala e in velocità: scopri il framework in questo webinar gratuito**  
+- **Proteggi l'intelligenza artificiale su scala e velocità: scopri il framework in questo webinar gratuito**  
   Fonte: The Hacker News, 23 Oct 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html>)
 
@@ -206,33 +242,5 @@
   Fonte: The Hacker News, 21 Oct 2025, 07:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html>)
 
-- **Cinque nuovi bug sfruttati compaiono nel catalogo CISA: Oracle e Microsoft Among Targets**  
-  Fonte: The Hacker News, 20 Oct 2025, 19:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html>)
 
-- **⚡ Riepilogo settimanale: violazione di F5, rootkit Linux, attacco Pixnapping, EtherHiding e altro**  
-  Fonte: The Hacker News, 20 Oct 2025, 12:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html>)
-
-- **Analisi di ClickFix: 3 motivi per cui gli attacchi copia/incolla stanno determinando violazioni della sicurezza**  
-  Fonte: The Hacker News, 20 Oct 2025, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html>)
-
-- **Problema del loop OODA di Agentic AI**  
-  Fonte: Schneier on Security, 20 Oct 2025, 11:00:28 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/agentic-ais-ooda-loop-problem.html>)
-
-- **131 estensioni di Chrome sono state sorprese a dirottare WhatsApp Web per una massiccia campagna di spam**  
-  Fonte: The Hacker News, 20 Oct 2025, 10:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html>)
-
-- **Centinaia di agenti ICE mascherati sono stati derubati dagli hacker, come dettagli personali pubblicati su Telegram**  
-  Fonte: Graham Cluley, 20 Oct 2025, 09:51:57 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hundreds-masked-ice-agents-doxxed-hackers-personal-details-posted-telegram>)
-
-- **Aggiornamento settimanale 474**  
-  Fonte: Troy Hunt, 20 Oct 2025, 07:09:27 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-474/>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-27 06:19:27 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-28 06:19:22 UTC -->
