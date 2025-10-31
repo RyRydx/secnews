@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **Un nuovo livello di sicurezza per macOS prende di mira gli errori degli amministratori prima che lo facciano gli hacker**  
+  Fonte: The Hacker News, 31 Oct 2025, 03:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html>)
+
+- **OpenAI conferma che GPT-5 ora è migliore nel gestire il disagio mentale ed emotivo**  
+  Fonte: BleepingComputer, 30 Oct 2025, 22:12:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-5-is-now-better-at-handling-mental-and-emotional-distress/>)
+
+- **Una massiccia ondata di malware di inoltro NFC ruba le carte di credito degli europei**  
+  Fonte: BleepingComputer, 30 Oct 2025, 20:17:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/massive-surge-of-nfc-relay-malware-steals-europeans-credit-cards/>)
+
+- **La CISA ordina ai federali di correggere la falla di VMware Tools sfruttata dagli hacker cinesi**  
+  Fonte: BleepingComputer, 30 Oct 2025, 20:01:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-vmware-tools-flaw-exploited-since-october-2024/>)
+
+- **Il principale fornitore di servizi di telecomunicazioni Ribbon è stato violato da hacker statali**  
+  Fonte: BleepingComputer, 30 Oct 2025, 19:03:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/>)
+
+- **Il gigante del BPO Conduent conferma che la violazione dei dati colpisce 10,5 milioni di persone**  
+  Fonte: BleepingComputer, 30 Oct 2025, 18:38:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bpo-giant-conduent-confirms-data-breach-impacts-105-million-people/>)
+
+- **WhatsApp aggiunge backup di chat senza password su iOS e Android**  
+  Fonte: BleepingComputer, 30 Oct 2025, 18:02:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-adds-passwordless-chat-backups-on-ios-and-android/>)
+
+- **Le difese IA integrate di Google su Android ora bloccano 10 miliardi di messaggi truffa al mese**  
+  Fonte: The Hacker News, 30 Oct 2025, 17:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html>)
+
+- **Ex dirigente di L3Harris colpevole di aver venduto exploit informatici a un broker russo**  
+  Fonte: BleepingComputer, 30 Oct 2025, 16:43:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-guilty-of-selling-cyber-exploits-to-russian-broker/>)
+
+- **Le bande di ransomware russe utilizzano AdaptixC2 open source per attacchi avanzati**  
+  Fonte: The Hacker News, 30 Oct 2025, 16:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html>)
+
+- **Truffatore di messaggi di spam multato di £ 200.000 per aver preso di mira persone indebitate, dopo aver inviato quasi un milione di messaggi**  
+  Fonte: Graham Cluley, 30 Oct 2025, 16:18:34 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/spam-text-scammer-fined-200-000-for-targeting-people-in-debt-after-sending-nearly-one-million-messages>)
+
+- **CISA e NSA condividono suggerimenti sulla protezione dei server Microsoft Exchange**  
+  Fonte: BleepingComputer, 30 Oct 2025, 16:11:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-and-nsa-share-tips-on-securing-microsoft-exchange-servers/>)
+
+- **Il costo umano della fuga di dati afghani da parte del governo britannico**  
+  Fonte: Graham Cluley, 30 Oct 2025, 16:05:00 UTC  
+  [Leggi](<https://grahamcluley.com/the-human-cost-of-the-uk-governments-afghan-data-leak/>)
+
+- **Il nuovo exploit "sfacciato" blocca istantaneamente i browser Chromium con un singolo URL dannoso**  
+  Fonte: The Hacker News, 30 Oct 2025, 14:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html>)
+
+- **Ripensare la sicurezza dell’identità nell’era degli agenti IA autonomi**  
+  Fonte: BleepingComputer, 30 Oct 2025, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/rethinking-identity-security-in-the-age-of-autonomous-ai-agents/>)
+
+- **Il phishing di LinkedIn prende di mira i dirigenti finanziari con inviti falsi ai consigli di amministrazione**  
+  Fonte: BleepingComputer, 30 Oct 2025, 13:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/linkedin-phishing-targets-finance-execs-with-fake-board-invites/>)
+
+- **La morte della casella di controllo della sicurezza: BAS è il potere dietro la vera difesa**  
+  Fonte: The Hacker News, 30 Oct 2025, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html>)
+
+- **Microsoft promette più funzionalità Copilot nelle app complementari di Microsoft 365**  
+  Fonte: BleepingComputer, 30 Oct 2025, 11:42:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-promises-more-copilot-features-in-microsoft-365-companion-apps/>)
+
+- **La corsa agli armamenti con armi biologiche progettate dall’intelligenza artificiale**  
+  Fonte: Schneier on Security, 30 Oct 2025, 11:05:16 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html>)
+
+- **Bollettino del ThreatsDay: difetto di avvelenamento del DNS, rapina alla catena di fornitura, trucco del malware Rust e nuovi RAT in aumento**  
+  Fonte: The Hacker News, 30 Oct 2025, 10:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html>)
+
+- **Malware PhantomRaven trovato nei pacchetti da 126 npm che ruba token GitHub agli sviluppatori**  
+  Fonte: The Hacker News, 30 Oct 2025, 10:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html>)
+
+- **LinkedIn ti dà fino a lunedì per impedire all'intelligenza artificiale di allenarsi sul tuo profilo**  
+  Fonte: Graham Cluley, 30 Oct 2025, 08:52:47 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/linkedin-gives-you-until-monday-to-stop-ai-from-training-on-your-profile>)
+
 - **Podcast #441 di Smashing Security: Dentro l'hack di poker da un milione di dollari della mafia e un fumble di Formula 1**  
   Fonte: Graham Cluley, 30 Oct 2025, 00:35:09 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-441/>)
@@ -14,22 +102,6 @@
   Fonte: BleepingComputer, 29 Oct 2025, 20:44:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-security-plugin-exposes-private-data-to-site-subscribers/>)
 
-- **Il Canada afferma che gli hacktivisti hanno violato le strutture idriche ed energetiche**  
-  Fonte: BleepingComputer, 29 Oct 2025, 19:03:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/canada-says-hacktivists-breached-water-and-energy-facilities/>)
-
-- **Microsoft risolve il problema dello strumento di creazione multimediale danneggiato su alcuni PC Windows**  
-  Fonte: BleepingComputer, 29 Oct 2025, 17:41:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-media-creation-tool-broken-on-some-windows-pcs/>)
-
-- **Microsoft: l'interruzione del DNS influisce sui servizi Azure e Microsoft 365**  
-  Fonte: BleepingComputer, 29 Oct 2025, 16:49:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-dns-outage-impacts-azure-and-microsoft-365-services/>)
-
-- **L'attacco PhantomRaven inonda npm con pacchetti per il furto di credenziali**  
-  Fonte: BleepingComputer, 29 Oct 2025, 16:26:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/phantomraven-attack-floods-npm-with-credential-stealing-packages/>)
-
 - **Gli esperti segnalano un forte aumento degli attacchi botnet automatizzati contro server PHP e dispositivi IoT**  
   Fonte: The Hacker News, 29 Oct 2025, 15:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html>)
@@ -37,14 +109,6 @@
 - **Il nuovo attacco di occultamento mirato all'IA induce i crawler dell'IA a citare informazioni false come fatti verificati**  
   Fonte: The Hacker News, 29 Oct 2025, 14:57:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html>)
-
-- **Microsoft corregge gli errori 0x800F081F che causano errori di aggiornamento di Windows**  
-  Fonte: BleepingComputer, 29 Oct 2025, 14:32:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-0x800f081f-errors-causing-windows-update-failures/>)
-
-- **Lacune di visibilità: semplificazione delle patch e della risoluzione delle vulnerabilità**  
-  Fonte: BleepingComputer, 29 Oct 2025, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/visibility-gaps-streamlining-patching-and-vulnerability-remediation/>)
 
 - **Un indirizzo IP, molti utenti: rilevare CGNAT per ridurre gli effetti collaterali**  
   Fonte: Cloudflare Blog - Security, 29 Oct 2025, 13:00:00 UTC  
@@ -82,29 +146,9 @@
   Fonte: Krebs on Security, 29 Oct 2025, 00:51:05 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/>)
 
-- **L'aggiornamento KB5067036 di Windows 11 implementa la funzionalità di protezione dell'amministratore**  
-  Fonte: BleepingComputer, 28 Oct 2025, 23:31:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/>)
-
-- **Python rifiuta un sussidio di 1,5 milioni di dollari da parte del governo americano.temendo il compromesso etico**  
-  Fonte: BleepingComputer, 28 Oct 2025, 22:16:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/software/python-rejects-15m-grant-from-us-govt-fearing-ethical-compromise/>)
-
-- **Il colosso pubblicitario Dentsu segnala una violazione dei dati presso la controllata Merkle**  
-  Fonte: BleepingComputer, 28 Oct 2025, 21:16:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/>)
-
 - **Il nuovo attacco TEE.Fail Side-Channel estrae i segreti dalle enclave sicure Intel e AMD DDR5**  
   Fonte: The Hacker News, 28 Oct 2025, 19:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html>)
-
-- **Il ransomware Qilin abusa di WSL per eseguire crittografi Linux in Windows**  
-  Fonte: BleepingComputer, 28 Oct 2025, 19:11:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/>)
-
-- **La CISA avverte di due vulnerabilità Dassault sfruttate attivamente**  
-  Fonte: BleepingComputer, 28 Oct 2025, 18:59:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-two-more-actively-exploited-dassault-vulnerabilities/>)
 
 - **Il nuovo trojan Android "Herodotus" supera in astuzia i sistemi antifrode digitando come un essere umano**  
   Fonte: The Hacker News, 28 Oct 2025, 16:33:00 UTC  
@@ -210,29 +254,5 @@
   Fonte: The Hacker News, 24 Oct 2025, 07:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html>)
 
-- **Gli hacker nordcoreani attirano gli ingegneri della difesa con lavori falsi per rubare i segreti dei droni**  
-  Fonte: The Hacker News, 23 Oct 2025, 15:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html>)
 
-- **Proteggi l'intelligenza artificiale su scala e velocità: scopri il framework in questo webinar gratuito**  
-  Fonte: The Hacker News, 23 Oct 2025, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html>)
-
-- **Bollettino del ThreatsDay: multa da 176 milioni di dollari per criptovalute, hacking di Formula 1, vulnerabilità di Chromium, dirottamento dell'IA e altro**  
-  Fonte: The Hacker News, 23 Oct 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html>)
-
-- **Grave violazione F5**  
-  Fonte: Schneier on Security, 23 Oct 2025, 11:04:48 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/serious-f5-breach.html>)
-
-- **Perché le organizzazioni stanno abbandonando i segreti statici per le identità gestite**  
-  Fonte: The Hacker News, 23 Oct 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html>)
-
-- **Gli hacker "Jingle Thief" sfruttano l'infrastruttura cloud per rubare milioni di buoni regalo**  
-  Fonte: The Hacker News, 23 Oct 2025, 07:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-10-30 06:18:25 UTC -->
+<!-- Ultimo aggiornamento: 2025-10-31 06:18:03 UTC -->
