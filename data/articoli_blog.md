@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Google conferma che la ricerca AI avrà annunci, ma potrebbero avere un aspetto diverso**  
+  Fonte: BleepingComputer, 01 Nov 2025, 16:56:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/>)
+
+- **Windows 11 Build 26220.7051 rilasciato con la funzionalità "Chiedi al copilota".**  
+  Fonte: BleepingComputer, 01 Nov 2025, 16:17:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/>)
+
+- **Gli hacker legati alla Cina hanno sfruttato la falla di Lanscope come zero-day negli attacchi**  
+  Fonte: BleepingComputer, 01 Nov 2025, 14:16:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/>)
+
+- **ASD avverte degli attacchi BADCANDY in corso che sfruttano la vulnerabilità di Cisco IOS XE**  
+  Fonte: The Hacker News, 01 Nov 2025, 13:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html>)
+
 - **Blog sui calamari del venerdì: calamari giganti allo Smithsonian**  
   Fonte: Schneier on Security, 31 Oct 2025, 21:06:18 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html>)
@@ -85,22 +101,6 @@
 - **Un nuovo livello di sicurezza per macOS prende di mira gli errori degli amministratori prima che lo facciano gli hacker**  
   Fonte: The Hacker News, 31 Oct 2025, 03:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html>)
-
-- **OpenAI conferma che GPT-5 ora è migliore nel gestire il disagio mentale ed emotivo**  
-  Fonte: BleepingComputer, 30 Oct 2025, 22:12:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-5-is-now-better-at-handling-mental-and-emotional-distress/>)
-
-- **Una massiccia ondata di malware di inoltro NFC ruba le carte di credito degli europei**  
-  Fonte: BleepingComputer, 30 Oct 2025, 20:17:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/massive-surge-of-nfc-relay-malware-steals-europeans-credit-cards/>)
-
-- **La CISA ordina ai federali di correggere la falla di VMware Tools sfruttata dagli hacker cinesi**  
-  Fonte: BleepingComputer, 30 Oct 2025, 20:01:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-vmware-tools-flaw-exploited-since-october-2024/>)
-
-- **Il principale fornitore di servizi di telecomunicazioni Ribbon è stato violato da hacker statali**  
-  Fonte: BleepingComputer, 30 Oct 2025, 19:03:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/>)
 
 - **Le difese IA integrate di Google su Android ora bloccano 10 miliardi di messaggi truffa al mese**  
   Fonte: The Hacker News, 30 Oct 2025, 17:00:00 UTC  
@@ -262,9 +262,5 @@
   Fonte: The Hacker News, 27 Oct 2025, 07:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html>)
 
-- **Aggiornamento settimanale 475**  
-  Fonte: Troy Hunt, 25 Oct 2025, 21:32:46 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-475/>)
 
-
-<!-- Ultimo aggiornamento: 2025-11-01 06:16:41 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-02 06:16:19 UTC -->
