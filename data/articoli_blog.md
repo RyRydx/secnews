@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **L'hacker Penn afferma di aver rubato 1,2 milioni di record di donatori in violazione di dati**  
+  Fonte: BleepingComputer, 02 Nov 2025, 22:07:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/>)
+
+- **Presunto programmatore Jabber Zeus "MrICQ" sotto la custodia degli Stati Uniti**  
+  Fonte: Krebs on Security, 02 Nov 2025, 20:37:24 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/>)
+
+- **Open VSX ruota i token di accesso utilizzati negli attacchi malware alla catena di fornitura**  
+  Fonte: BleepingComputer, 02 Nov 2025, 15:09:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/open-vsx-rotates-tokens-used-in-supply-chain-malware-attack/>)
+
+- **OpenAI sta seguendo il percorso Meta, poiché considera gli annunci basati sulla memoria su ChatGPT**  
+  Fonte: BleepingComputer, 01 Nov 2025, 20:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/>)
+
 - **Google conferma che la ricerca AI avrà annunci, ma potrebbero avere un aspetto diverso**  
   Fonte: BleepingComputer, 01 Nov 2025, 16:56:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/>)
@@ -66,31 +82,19 @@
   Fonte: BleepingComputer, 31 Oct 2025, 13:05:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/>)
 
-- **Google afferma che la modalità Search AI saprà tutto di te**  
-  Fonte: BleepingComputer, 31 Oct 2025, 11:55:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-says-search-ai-mode-will-know-everything-about-you/>)
-
 - **La guida alla preparazione alla sicurezza informatica MSP: trasformare la sicurezza in crescita**  
   Fonte: The Hacker News, 31 Oct 2025, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html>)
-
-- **Windows zero-day sfruttato attivamente per spiare i diplomatici europei**  
-  Fonte: BleepingComputer, 31 Oct 2025, 11:29:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/>)
 
 - **L’intelligenza artificiale rafforzerà o minerà la democrazia?**  
   Fonte: Schneier on Security, 31 Oct 2025, 11:08:48 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/10/will-ai-strengthen-or-undermine-democracy.html>)
 
-- **Ucraino estradato dall'Irlanda con l'accusa di ransomware Conti**  
-  Fonte: BleepingComputer, 31 Oct 2025, 09:40:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ukrainian-extradited-from-ireland-on-conti-ransomware-charges/>)
-
 - **CISA e NSA pubblicano linee guida urgenti per proteggere WSUS e server Microsoft Exchange**  
   Fonte: The Hacker News, 31 Oct 2025, 08:46:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html>)
 
-- **La Eclipse Foundation revoca i token Open VSX trapelati in seguito alla scoperta di Wiz**  
+- **La Eclipse Foundation revoca i token VSX aperti trapelati in seguito alla scoperta di Wiz**  
   Fonte: The Hacker News, 31 Oct 2025, 08:02:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html>)
 
@@ -263,4 +267,4 @@
   [Leggi](<https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html>)
 
 
-<!-- Ultimo aggiornamento: 2025-11-02 06:16:19 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-03 06:19:47 UTC -->
