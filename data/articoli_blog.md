@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Il Congressional Budget Office degli Stati Uniti viene colpito da un sospetto attacco informatico straniero**  
+  Fonte: BleepingComputer, 07 Nov 2025, 00:22:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/>)
+
+- **Il test del ransomware AI-Slop si insinua nel mercato VS Code**  
+  Fonte: BleepingComputer, 06 Nov 2025, 21:52:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/>)
+
+- **Come una banda di ransomware ha crittografato i sistemi del governo del Nevada**  
+  Fonte: BleepingComputer, 06 Nov 2025, 19:02:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-a-ransomware-gang-encrypted-nevada-governments-systems/>)
+
+- **La crescente ondata di attacchi informatici contro il settore idrico del Regno Unito**  
+  Fonte: Graham Cluley, 06 Nov 2025, 17:43:47 UTC  
+  [Leggi](<https://www.fortra.com/blog/rising-tide-cyber-attacks-against-uk-water-sector>)
+
+- **"Paga o condividiamo i nastri": gli hacker prendono di mira i clienti delle sale massaggi con uno schema di ricatto**  
+  Fonte: Graham Cluley, 06 Nov 2025, 17:33:04 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/pay-up-or-we-share-the-tapes-hackers-target-massage-parlour-clients-in-blackmail-scheme>)
+
+- **Gli installatori ESET con trojan rilasciano la backdoor Kalambur negli attacchi di phishing contro l'Ucraina**  
+  Fonte: The Hacker News, 06 Nov 2025, 15:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html>)
+
+- **Collaborazione viola continua: trasformare la rivalità rosso-blu in vera difesa**  
+  Fonte: BleepingComputer, 06 Nov 2025, 15:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/>)
+
+- **Cisco avverte di un nuovo attacco firewall che sfrutta CVE-2025-20333 e CVE-2025-20362**  
+  Fonte: The Hacker News, 06 Nov 2025, 14:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html>)
+
+- **Gli attacchi malware ClickFix si evolvono con supporto multi-OS e tutorial video**  
+  Fonte: BleepingComputer, 06 Nov 2025, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/>)
+
+- **Il difetto critico di Cisco UCCX consente agli aggressori di eseguire comandi come root**  
+  Fonte: BleepingComputer, 06 Nov 2025, 13:31:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-cisco-uccx-flaw-lets-hackers-run-commands-as-root/>)
+
+- **Giochi di poker truccati**  
+  Fonte: Schneier on Security, 06 Nov 2025, 12:02:45 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/11/rigged-poker-games.html>)
+
+- **Dal progetto al chiavi in ​​mano: costruire la resilienza informatica nei servizi finanziari**  
+  Fonte: The Hacker News, 06 Nov 2025, 11:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html>)
+
+- **Bollettino del ThreatsDay: strumenti IA per malware, botnet, difetti GDI, attacchi elettorali e altro**  
+  Fonte: The Hacker News, 06 Nov 2025, 11:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html>)
+
+- **Bitdefender nominato fornitore rappresentativo nella Guida al mercato Gartner® 2025 per il rilevamento e la risposta gestiti**  
+  Fonte: The Hacker News, 06 Nov 2025, 10:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html>)
+
+- **Gli hacker Sandworm utilizzano i data wiper per distruggere il settore cerealicolo ucraino**  
+  Fonte: BleepingComputer, 06 Nov 2025, 10:01:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/>)
+
+- **Gli hacker utilizzano Windows Hyper-V come arma per nascondere VM Linux ed eludere il rilevamento EDR**  
+  Fonte: The Hacker News, 06 Nov 2025, 07:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html>)
+
 - **SonicWall conferma gli hacker sponsorizzati dallo stato dietro la violazione del backup nel cloud di settembre**  
   Fonte: The Hacker News, 06 Nov 2025, 05:40:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html>)
@@ -9,6 +73,10 @@
 - **Cloudflare elimina la botnet Aisuru dall'elenco dei domini principali**  
   Fonte: Krebs on Security, 06 Nov 2025, 02:04:36 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/>)
+
+- **Podcast n. 442 di Smashing Security: L'hack che ha rovinato il tempo e il riscatto canaglia in cui i negoziatori**  
+  Fonte: Graham Cluley, 06 Nov 2025, 00:30:28 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-442/>)
 
 - **Il malware Gootloader è tornato con nuovi trucchi dopo una pausa di 7 mesi**  
   Fonte: BleepingComputer, 05 Nov 2025, 21:52:45 UTC  
@@ -30,25 +98,9 @@
   Fonte: BleepingComputer, 05 Nov 2025, 17:13:07 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-says-state-sponsored-hackers-behind-security-breach-in-september/>)
 
-- **Gli operatori telefonici del Regno Unito bloccheranno i numeri di telefono falsificati nella repressione delle frodi**  
-  Fonte: BleepingComputer, 05 Nov 2025, 16:33:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-carriers-to-block-spoofed-phone-numbers-in-fraud-crackdown/>)
-
-- **L'Università della Pennsylvania conferma i dati rubati durante un attacco informatico**  
-  Fonte: BleepingComputer, 05 Nov 2025, 16:04:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-stolen-in-cyberattack/>)
-
 - **Google scopre il malware PROMPTFLUX che utilizza l'intelligenza artificiale Gemini per riscrivere il proprio codice ogni ora**  
   Fonte: The Hacker News, 05 Nov 2025, 15:33:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html>)
-
-- **Teoria informatica vs pratica: stai navigando con strumenti difettosi?**  
-  Fonte: BleepingComputer, 05 Nov 2025, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cyber-theory-vs-practice-are-you-navigating-with-faulty-instruments/>)
-
-- **Google mette in guardia contro nuove famiglie di malware basate sull'intelligenza artificiale diffuse in natura**  
-  Fonte: BleepingComputer, 05 Nov 2025, 14:59:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-warns-of-new-ai-powered-malware-families-deployed-in-the-wild/>)
 
 - **I ricercatori scoprono le vulnerabilità di ChatGPT che consentono agli aggressori di ingannare l'intelligenza artificiale inducendola a perdere dati**  
   Fonte: The Hacker News, 05 Nov 2025, 14:04:00 UTC  
@@ -57,10 +109,6 @@
 - **In che modo i servizi VPC Workers si connettono alle tue reti private regionali da qualsiasi parte del mondo**  
   Fonte: Cloudflare Blog - Security, 05 Nov 2025, 14:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/workers-vpc-open-beta/>)
-
-- **La polizia smaschera le frodi sulle carte di credito che fanno 4,3 milioni di vittime**  
-  Fonte: BleepingComputer, 05 Nov 2025, 12:29:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/europol-credit-card-fraud-rings-stole-eur-300-million-from-43-million-cardholders/>)
 
 - **Gli scienziati hanno bisogno di una visione positiva per l’intelligenza artificiale**  
   Fonte: Schneier on Security, 05 Nov 2025, 12:04:34 UTC  
@@ -78,17 +126,9 @@
   Fonte: The Hacker News, 05 Nov 2025, 10:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html>)
 
-- **Gli Stati Uniti sanzionano i banchieri nordcoreani legati alla criminalità informatica e alle frodi dei lavoratori IT**  
-  Fonte: BleepingComputer, 05 Nov 2025, 10:34:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-treasury-sanctions-north-korean-bankers-linked-to-cybercrime-it-worker-fraud/>)
-
 - **Perché è possibile evitare il burnout del SOC: passaggi pratici**  
   Fonte: The Hacker News, 05 Nov 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html>)
-
-- **Microsoft: gli aggiornamenti di Windows di ottobre attivano il ripristino di BitLocker**  
-  Fonte: BleepingComputer, 05 Nov 2025, 08:56:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/>)
 
 - **Sono stati scoperti 2 miliardi di indirizzi e-mail e li abbiamo indicizzati tutti in Have I Been Pwned**  
   Fonte: Troy Hunt, 05 Nov 2025, 06:41:43 UTC  
@@ -98,10 +138,6 @@
   Fonte: The Hacker News, 05 Nov 2025, 06:12:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html>)
 
-- **Gli hacker sfruttano il plug-in Post SMTP di WordPress per dirottare gli account amministratore**  
-  Fonte: BleepingComputer, 04 Nov 2025, 21:46:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/>)
-
 - **Una fusione per il crimine informatico senza eguali: Scattered Spider, LAPSUS$ e ShinyHunters uniscono le forze**  
   Fonte: The Hacker News, 04 Nov 2025, 17:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html>)
@@ -109,6 +145,10 @@
 - **Le autorità europee smantellano una rete di frodi crittografiche da 600 milioni di euro in un'operazione di portata globale**  
   Fonte: The Hacker News, 04 Nov 2025, 15:57:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html>)
+
+- **La soluzione AI n. 75: la crisi esistenziale della batteria di Claude e perché ChatGPT è un pessimo terapista**  
+  Fonte: Graham Cluley, 04 Nov 2025, 15:30:06 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-75/>)
 
 - **Critical React Il difetto della CLI nativa ha esposto milioni di sviluppatori ad attacchi remoti**  
   Fonte: The Hacker News, 04 Nov 2025, 14:24:00 UTC  
@@ -218,41 +258,9 @@
   Fonte: The Hacker News, 31 Oct 2025, 08:02:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html>)
 
-- **CISA segnala lo sfruttamento zero-day di VMware da parte di hacker legati alla Cina in attacchi attivi**  
+- **CISA segnala VMware Zero-Day sfruttato da hacker collegati alla Cina in attacchi attivi**  
   Fonte: The Hacker News, 31 Oct 2025, 07:09:00 UTC  
   [Leggi](<https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html>)
 
-- **Un nuovo livello di sicurezza per macOS prende di mira gli errori degli amministratori prima che lo facciano gli hacker**  
-  Fonte: The Hacker News, 31 Oct 2025, 03:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html>)
 
-- **Le difese IA integrate di Google su Android ora bloccano 10 miliardi di messaggi truffa al mese**  
-  Fonte: The Hacker News, 30 Oct 2025, 17:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html>)
-
-- **Le bande di ransomware russe utilizzano AdaptixC2 open source per attacchi avanzati**  
-  Fonte: The Hacker News, 30 Oct 2025, 16:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html>)
-
-- **Il nuovo exploit "sfacciato" blocca istantaneamente i browser Chromium con un singolo URL dannoso**  
-  Fonte: The Hacker News, 30 Oct 2025, 14:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html>)
-
-- **La morte della casella di controllo della sicurezza: BAS è il potere dietro la vera difesa**  
-  Fonte: The Hacker News, 30 Oct 2025, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html>)
-
-- **La corsa agli armamenti con armi biologiche progettate dall’intelligenza artificiale**  
-  Fonte: Schneier on Security, 30 Oct 2025, 11:05:16 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html>)
-
-- **Bollettino del ThreatsDay: difetto di avvelenamento del DNS, rapina alla catena di fornitura, trucco del malware Rust e nuovi RAT in aumento**  
-  Fonte: The Hacker News, 30 Oct 2025, 10:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html>)
-
-- **Malware PhantomRaven trovato in pacchetti da 126 npm che ruba token GitHub agli sviluppatori**  
-  Fonte: The Hacker News, 30 Oct 2025, 10:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-11-06 06:18:34 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-07 06:19:26 UTC -->
