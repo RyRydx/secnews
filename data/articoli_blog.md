@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Friday Squid Blogging: Squid Game: La sfida, seconda stagione**  
+  Fonte: Schneier on Security, 07 Nov 2025, 22:01:03 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-squid-game-the-challenge-season-two.html>)
+
+- **I pacchetti NuGet dannosi rilasciano "bombe a orologeria" dirompenti**  
+  Fonte: BleepingComputer, 07 Nov 2025, 20:53:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-nuget-packages-drop-disruptive-time-bombs/>)
+
+- **Microsoft testa il ripristino rapido della macchina più veloce in Windows 11**  
+  Fonte: BleepingComputer, 07 Nov 2025, 19:46:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-faster-quick-machine-recovery-in-windows-11/>)
+
+- **QNAP risolve sette difetti zero-day del NAS sfruttati su Pwn2Own**  
+  Fonte: BleepingComputer, 07 Nov 2025, 18:24:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/>)
+
+- **Il nuovo spyware LandFall ha sfruttato Samsung zero-day tramite messaggi WhatsApp**  
+  Fonte: BleepingComputer, 07 Nov 2025, 18:23:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/>)
+
+- **Sfruttato il difetto di Samsung Mobile come Zero-Day per distribuire lo spyware Android LANDFALL**  
+  Fonte: The Hacker News, 07 Nov 2025, 18:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html>)
+
+- **Da Log4j a IIS, gli hacker cinesi trasformano i bug legacy in strumenti di spionaggio globale**  
+  Fonte: The Hacker News, 07 Nov 2025, 16:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html>)
+
+- **Cisco: i difetti del firewall sfruttati attivamente ora vengono sfruttati per attacchi DoS**  
+  Fonte: BleepingComputer, 07 Nov 2025, 15:44:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/>)
+
+- **Le leggi sulla verifica dell’identità stanno alimentando la prossima ondata di violazioni**  
+  Fonte: BleepingComputer, 07 Nov 2025, 15:05:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/>)
+
+- **Un leak conferma che Google Gemini 3 Pro e Nano Banana 2 potrebbero essere lanciati presto**  
+  Fonte: BleepingComputer, 07 Nov 2025, 13:06:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/>)
+
+- **Falsificare ricevute con l'intelligenza artificiale**  
+  Fonte: Schneier on Security, 07 Nov 2025, 12:01:46 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/11/faking-receipts-with-ai.html>)
+
+- **Bombe logiche nascoste nei pacchetti NuGet contenenti malware sono destinate a esplodere anni dopo l'installazione**  
+  Fonte: The Hacker News, 07 Nov 2025, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html>)
+
+- **Credenziali aziendali a rischio: sempre lo stesso, lo stesso vecchio?**  
+  Fonte: The Hacker News, 07 Nov 2025, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html>)
+
+- **Google lancia una nuova funzionalità di Maps per aiutare le aziende a segnalare tentativi di estorsione basati su recensioni**  
+  Fonte: The Hacker News, 07 Nov 2025, 09:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html>)
+
+- **Trovata estensione VS Code dannosa codificata da Vibe con funzionalità ransomware integrate**  
+  Fonte: The Hacker News, 07 Nov 2025, 06:48:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html>)
+
 - **Il Congressional Budget Office degli Stati Uniti viene colpito da un sospetto attacco informatico straniero**  
   Fonte: BleepingComputer, 07 Nov 2025, 00:22:30 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/>)
@@ -22,7 +82,7 @@
   Fonte: Graham Cluley, 06 Nov 2025, 17:33:04 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/pay-up-or-we-share-the-tapes-hackers-target-massage-parlour-clients-in-blackmail-scheme>)
 
-- **Gli installatori ESET con trojan rilasciano la backdoor Kalambur negli attacchi di phishing contro l'Ucraina**  
+- **Gli installatori ESET con trojan rilasciano la backdoor Kalambur negli attacchi phishing contro l'Ucraina**  
   Fonte: The Hacker News, 06 Nov 2025, 15:31:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html>)
 
@@ -50,17 +110,13 @@
   Fonte: The Hacker News, 06 Nov 2025, 11:59:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html>)
 
-- **Bollettino del ThreatsDay: strumenti IA per malware, botnet, difetti GDI, attacchi elettorali e altro**  
+- **Bollettino del ThreatsDay: strumenti di intelligenza artificiale per malware, botnet, difetti GDI, attacchi elettorali e altro**  
   Fonte: The Hacker News, 06 Nov 2025, 11:40:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html>)
 
 - **Bitdefender nominato fornitore rappresentativo nella Guida al mercato Gartner® 2025 per il rilevamento e la risposta gestiti**  
   Fonte: The Hacker News, 06 Nov 2025, 10:43:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html>)
-
-- **Gli hacker Sandworm utilizzano i data wiper per distruggere il settore cerealicolo ucraino**  
-  Fonte: BleepingComputer, 06 Nov 2025, 10:01:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/>)
 
 - **Gli hacker utilizzano Windows Hyper-V come arma per nascondere VM Linux ed eludere il rilevamento EDR**  
   Fonte: The Hacker News, 06 Nov 2025, 07:22:00 UTC  
@@ -77,26 +133,6 @@
 - **Podcast n. 442 di Smashing Security: L'hack che ha rovinato il tempo e il riscatto canaglia in cui i negoziatori**  
   Fonte: Graham Cluley, 06 Nov 2025, 00:30:28 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-442/>)
-
-- **Il malware Gootloader è tornato con nuovi trucchi dopo una pausa di 7 mesi**  
-  Fonte: BleepingComputer, 05 Nov 2025, 21:52:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/gootloader-malware-is-back-with-new-tricks-after-7-month-break/>)
-
-- **La violazione dei dati di Hyundai AutoEver America espone SSN e patenti di guida**  
-  Fonte: BleepingComputer, 05 Nov 2025, 21:19:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/>)
-
-- **CISA avverte di un bug critico del pannello Web CentOS sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 05 Nov 2025, 18:26:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-centos-web-panel-bug-exploited-in-attacks/>)
-
-- **Windows 11 Store ottiene la funzionalità di installazione multi-app in stile Ninite**  
-  Fonte: BleepingComputer, 05 Nov 2025, 17:28:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-store-gets-ninite-style-multi-app-installer-feature/>)
-
-- **SonicWall afferma che dietro la violazione della sicurezza di settembre sono hacker sponsorizzati dallo stato**  
-  Fonte: BleepingComputer, 05 Nov 2025, 17:13:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-says-state-sponsored-hackers-behind-security-breach-in-september/>)
 
 - **Google scopre il malware PROMPTFLUX che utilizza l'intelligenza artificiale Gemini per riscrivere il proprio codice ogni ora**  
   Fonte: The Hacker News, 05 Nov 2025, 15:33:00 UTC  
@@ -222,45 +258,5 @@
   Fonte: The Hacker News, 01 Nov 2025, 13:43:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html>)
 
-- **Blog sui calamari del venerdì: calamari giganti allo Smithsonian**  
-  Fonte: Schneier on Security, 31 Oct 2025, 21:06:18 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html>)
 
-- **OpenAI svela Aardvark: agente GPT-5 che trova e corregge automaticamente i difetti del codice**  
-  Fonte: The Hacker News, 31 Oct 2025, 17:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html>)
-
-- **Gli hacker di stati-nazione distribuiscono il nuovo malware Airstalk in un sospetto attacco alla catena di fornitura**  
-  Fonte: The Hacker News, 31 Oct 2025, 16:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html>)
-
-- **Gli hacker legati alla Cina sfruttano il difetto dei collegamenti di Windows per prendere di mira i diplomatici europei**  
-  Fonte: The Hacker News, 31 Oct 2025, 13:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html>)
-
-- **Tick ​​Group, legato alla Cina, sfrutta Lanscope Zero-Day per dirottare i sistemi aziendali**  
-  Fonte: The Hacker News, 31 Oct 2025, 13:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html>)
-
-- **La guida alla preparazione alla sicurezza informatica MSP: trasformare la sicurezza in crescita**  
-  Fonte: The Hacker News, 31 Oct 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html>)
-
-- **L’intelligenza artificiale rafforzerà o minerà la democrazia?**  
-  Fonte: Schneier on Security, 31 Oct 2025, 11:08:48 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/10/will-ai-strengthen-or-undermine-democracy.html>)
-
-- **CISA e NSA pubblicano linee guida urgenti per proteggere WSUS e server Microsoft Exchange**  
-  Fonte: The Hacker News, 31 Oct 2025, 08:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html>)
-
-- **La Eclipse Foundation revoca i token Open VSX trapelati in seguito alla scoperta di Wiz**  
-  Fonte: The Hacker News, 31 Oct 2025, 08:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html>)
-
-- **CISA segnala VMware Zero-Day sfruttato da hacker collegati alla Cina in attacchi attivi**  
-  Fonte: The Hacker News, 31 Oct 2025, 07:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-11-07 06:19:26 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-08 06:16:32 UTC -->
