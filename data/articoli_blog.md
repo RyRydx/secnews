@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **OpenAI prevede di rilasciare GPT-5.1, GPT-5.1 Reasoning e GPT-5.1 Pro**  
+  Fonte: BleepingComputer, 08 Nov 2025, 22:29:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/>)
+
+- **Il malware GlassWorm ritorna su OpenVSX con 3 nuove estensioni VSCode**  
+  Fonte: BleepingComputer, 08 Nov 2025, 16:17:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/>)
+
+- **Ancora su Windows 10?Iscriviti all'ESU gratuito prima del Patch Tuesday della prossima settimana**  
+  Fonte: BleepingComputer, 08 Nov 2025, 15:09:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/still-on-windows-10-enroll-in-free-extended-security-updates/>)
+
+- **Microsoft scopre un attacco "Whisper Leak" che identifica gli argomenti delle chat AI nel traffico crittografato**  
+  Fonte: The Hacker News, 08 Nov 2025, 14:29:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html>)
+
 - **Friday Squid Blogging: Squid Game: La sfida, seconda stagione**  
   Fonte: Schneier on Security, 07 Nov 2025, 22:01:03 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-squid-game-the-challenge-season-two.html>)
@@ -70,37 +86,13 @@
   Fonte: BleepingComputer, 06 Nov 2025, 21:52:47 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/>)
 
-- **Come una banda di ransomware ha crittografato i sistemi del governo del Nevada**  
-  Fonte: BleepingComputer, 06 Nov 2025, 19:02:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-a-ransomware-gang-encrypted-nevada-governments-systems/>)
-
-- **La crescente ondata di attacchi informatici contro il settore idrico del Regno Unito**  
-  Fonte: Graham Cluley, 06 Nov 2025, 17:43:47 UTC  
-  [Leggi](<https://www.fortra.com/blog/rising-tide-cyber-attacks-against-uk-water-sector>)
-
-- **"Paga o condividiamo i nastri": gli hacker prendono di mira i clienti delle sale massaggi con uno schema di ricatto**  
-  Fonte: Graham Cluley, 06 Nov 2025, 17:33:04 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/pay-up-or-we-share-the-tapes-hackers-target-massage-parlour-clients-in-blackmail-scheme>)
-
 - **Gli installatori ESET con trojan rilasciano la backdoor Kalambur negli attacchi phishing contro l'Ucraina**  
   Fonte: The Hacker News, 06 Nov 2025, 15:31:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html>)
 
-- **Collaborazione viola continua: trasformare la rivalità rosso-blu in vera difesa**  
-  Fonte: BleepingComputer, 06 Nov 2025, 15:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/>)
-
 - **Cisco avverte di un nuovo attacco firewall che sfrutta CVE-2025-20333 e CVE-2025-20362**  
   Fonte: The Hacker News, 06 Nov 2025, 14:58:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html>)
-
-- **Gli attacchi malware ClickFix si evolvono con supporto multi-OS e tutorial video**  
-  Fonte: BleepingComputer, 06 Nov 2025, 14:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/>)
-
-- **Il difetto critico di Cisco UCCX consente agli aggressori di eseguire comandi come root**  
-  Fonte: BleepingComputer, 06 Nov 2025, 13:31:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-cisco-uccx-flaw-lets-hackers-run-commands-as-root/>)
 
 - **Giochi di poker truccati**  
   Fonte: Schneier on Security, 06 Nov 2025, 12:02:45 UTC  
@@ -129,10 +121,6 @@
 - **Cloudflare elimina la botnet Aisuru dall'elenco dei domini principali**  
   Fonte: Krebs on Security, 06 Nov 2025, 02:04:36 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/>)
-
-- **Podcast n. 442 di Smashing Security: L'hack che ha rovinato il tempo e il riscatto canaglia in cui i negoziatori**  
-  Fonte: Graham Cluley, 06 Nov 2025, 00:30:28 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-442/>)
 
 - **Google scopre il malware PROMPTFLUX che utilizza l'intelligenza artificiale Gemini per riscrivere il proprio codice ogni ora**  
   Fonte: The Hacker News, 05 Nov 2025, 15:33:00 UTC  
@@ -181,10 +169,6 @@
 - **Le autorità europee smantellano una rete di frodi crittografiche da 600 milioni di euro in un'operazione di portata globale**  
   Fonte: The Hacker News, 04 Nov 2025, 15:57:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html>)
-
-- **La soluzione AI n. 75: la crisi esistenziale della batteria di Claude e perché ChatGPT è un pessimo terapista**  
-  Fonte: Graham Cluley, 04 Nov 2025, 15:30:06 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-75/>)
 
 - **Critical React Il difetto della CLI nativa ha esposto milioni di sviluppatori ad attacchi remoti**  
   Fonte: The Hacker News, 04 Nov 2025, 14:24:00 UTC  
@@ -254,9 +238,5 @@
   Fonte: Krebs on Security, 02 Nov 2025, 20:37:24 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/>)
 
-- **ASD avverte degli attacchi BADCANDY in corso che sfruttano la vulnerabilità di Cisco IOS XE**  
-  Fonte: The Hacker News, 01 Nov 2025, 13:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-11-08 06:16:32 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-09 06:16:18 UTC -->
