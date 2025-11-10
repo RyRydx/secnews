@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **Come utilizzare il nuovo menu Start di Windows 11, ora disponibile**  
+  Fonte: BleepingComputer, 09 Nov 2025, 23:28:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/>)
+
+- **Approfondimento sulla proposta di divieto TP-Link dello zio Sam**  
+  Fonte: Krebs on Security, 09 Nov 2025, 18:14:40 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/>)
+
+- **NAKIVO Presenta la v11.1 con funzionalità MSP e Disaster Recovery aggiornate**  
+  Fonte: BleepingComputer, 09 Nov 2025, 15:30:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/>)
+
+- **Hai perso l'iPhone?Non cadere nei messaggi di phishing che dicono che è stato trovato**  
+  Fonte: BleepingComputer, 09 Nov 2025, 15:12:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/>)
+
+- **Pericolose falle runC potrebbero consentire agli hacker di sfuggire ai contenitori Docker**  
+  Fonte: BleepingComputer, 09 Nov 2025, 15:11:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/>)
+
 - **OpenAI prevede di rilasciare GPT-5.1, GPT-5.1 Reasoning e GPT-5.1 Pro**  
   Fonte: BleepingComputer, 08 Nov 2025, 22:29:44 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/>)
@@ -18,7 +38,7 @@
   Fonte: The Hacker News, 08 Nov 2025, 14:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html>)
 
-- **Friday Squid Blogging: Squid Game: La sfida, seconda stagione**  
+- **Blog di Squid del venerdì: Squid Game: La sfida, seconda stagione**  
   Fonte: Schneier on Security, 07 Nov 2025, 22:01:03 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-squid-game-the-challenge-season-two.html>)
 
@@ -34,7 +54,7 @@
   Fonte: BleepingComputer, 07 Nov 2025, 18:24:43 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/>)
 
-- **Il nuovo spyware LandFall ha sfruttato Samsung zero-day tramite messaggi WhatsApp**  
+- **Il nuovo spyware LandFall ha sfruttato Samsung zero-day tramite i messaggi WhatsApp**  
   Fonte: BleepingComputer, 07 Nov 2025, 18:23:25 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/>)
 
@@ -53,10 +73,6 @@
 - **Le leggi sulla verifica dell’identità stanno alimentando la prossima ondata di violazioni**  
   Fonte: BleepingComputer, 07 Nov 2025, 15:05:15 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/>)
-
-- **Un leak conferma che Google Gemini 3 Pro e Nano Banana 2 potrebbero essere lanciati presto**  
-  Fonte: BleepingComputer, 07 Nov 2025, 13:06:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/>)
 
 - **Falsificare ricevute con l'intelligenza artificiale**  
   Fonte: Schneier on Security, 07 Nov 2025, 12:01:46 UTC  
@@ -78,15 +94,15 @@
   Fonte: The Hacker News, 07 Nov 2025, 06:48:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html>)
 
-- **Il Congressional Budget Office degli Stati Uniti viene colpito da un sospetto attacco informatico straniero**  
-  Fonte: BleepingComputer, 07 Nov 2025, 00:22:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/>)
+- **L’ondata crescente di attacchi informatici contro il settore idrico del Regno Unito**  
+  Fonte: Graham Cluley, 06 Nov 2025, 17:43:47 UTC  
+  [Leggi](<https://www.fortra.com/blog/rising-tide-cyber-attacks-against-uk-water-sector>)
 
-- **Il test del ransomware AI-Slop si insinua nel mercato VS Code**  
-  Fonte: BleepingComputer, 06 Nov 2025, 21:52:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/>)
+- **"Paga o condividiamo i nastri": gli hacker prendono di mira i clienti delle sale massaggi con uno schema di ricatto**  
+  Fonte: Graham Cluley, 06 Nov 2025, 17:33:04 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/pay-up-or-we-share-the-tapes-hackers-target-massage-parlour-clients-in-blackmail-scheme>)
 
-- **Gli installatori ESET con trojan rilasciano la backdoor Kalambur negli attacchi phishing contro l'Ucraina**  
+- **Gli installatori ESET con trojan rilasciano la backdoor Kalambur negli attacchi di phishing contro l'Ucraina**  
   Fonte: The Hacker News, 06 Nov 2025, 15:31:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html>)
 
@@ -102,7 +118,7 @@
   Fonte: The Hacker News, 06 Nov 2025, 11:59:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html>)
 
-- **Bollettino del ThreatsDay: strumenti di intelligenza artificiale per malware, botnet, difetti GDI, attacchi elettorali e altro**  
+- **Bollettino del ThreatsDay: strumenti IA per malware, botnet, difetti GDI, attacchi elettorali e altro**  
   Fonte: The Hacker News, 06 Nov 2025, 11:40:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html>)
 
@@ -121,6 +137,10 @@
 - **Cloudflare elimina la botnet Aisuru dall'elenco dei domini principali**  
   Fonte: Krebs on Security, 06 Nov 2025, 02:04:36 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/>)
+
+- **Podcast n. 442 di Smashing Security: L'hack che ha rovinato il tempo e il riscatto canaglia in cui i negoziatori**  
+  Fonte: Graham Cluley, 06 Nov 2025, 00:30:28 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-442/>)
 
 - **Google scopre il malware PROMPTFLUX che utilizza l'intelligenza artificiale Gemini per riscrivere il proprio codice ogni ora**  
   Fonte: The Hacker News, 05 Nov 2025, 15:33:00 UTC  
@@ -170,6 +190,10 @@
   Fonte: The Hacker News, 04 Nov 2025, 15:57:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html>)
 
+- **La soluzione AI n. 75: la crisi esistenziale della batteria di Claude e perché ChatGPT è un pessimo terapista**  
+  Fonte: Graham Cluley, 04 Nov 2025, 15:30:06 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-75/>)
+
 - **Critical React Il difetto della CLI nativa ha esposto milioni di sviluppatori ad attacchi remoti**  
   Fonte: The Hacker News, 04 Nov 2025, 14:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html>)
@@ -186,7 +210,7 @@
   Fonte: The Hacker News, 04 Nov 2025, 11:06:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html>)
 
-- **L'operazione SkyCloak distribuisce una backdoor OpenSSH abilitata per Tor mirata ai settori della difesa**  
+- **L'operazione SkyCloak implementa una backdoor OpenSSH abilitata per Tor mirata ai settori della difesa**  
   Fonte: The Hacker News, 04 Nov 2025, 10:49:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html>)
 
@@ -234,9 +258,5 @@
   Fonte: Troy Hunt, 03 Nov 2025, 08:23:37 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-476/>)
 
-- **Presunto programmatore Jabber Zeus "MrICQ" sotto la custodia degli Stati Uniti**  
-  Fonte: Krebs on Security, 02 Nov 2025, 20:37:24 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/>)
 
-
-<!-- Ultimo aggiornamento: 2025-11-09 06:16:18 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-10 06:20:35 UTC -->
