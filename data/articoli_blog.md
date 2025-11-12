@@ -2,41 +2,93 @@
 
 ## Ultimi 7 giorni
 
-- **Gli hacker APT37 abusano di Google Find Hub negli attacchi di cancellazione dei dati Android**  
-  Fonte: BleepingComputer, 11 Nov 2025, 00:46:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/>)
+- **L'infostealer Rhadamanthys viene interrotto poiché i criminali informatici perdono l'accesso al server**  
+  Fonte: BleepingComputer, 12 Nov 2025, 00:14:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/rhadamanthys-infostealer-disrupted-as-cybercriminals-lose-server-access/>)
 
-- **Mozilla Firefox si dota di nuove difese anti-impronta digitale**  
-  Fonte: BleepingComputer, 10 Nov 2025, 22:25:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-new-anti-fingerprinting-defenses/>)
+- **Synology risolve le demo zero-day di BeeStation su Pwn2Own Irlanda**  
+  Fonte: BleepingComputer, 11 Nov 2025, 22:34:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/>)
 
-- **Quantum Route Redirect PhaaS è destinato agli utenti di Microsoft 365 in tutto il mondo**  
-  Fonte: BleepingComputer, 10 Nov 2025, 21:29:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/quantum-route-redirect-phaas-targets-microsoft-365-users-worldwide/>)
+- **Gli hacker abusano della funzionalità antivirus Triofox per distribuire strumenti di accesso remoto**  
+  Fonte: BleepingComputer, 11 Nov 2025, 20:01:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/>)
+
+- **Microsoft: Windows 11 23H2 Home e Pro raggiungono la fine del supporto**  
+  Fonte: BleepingComputer, 11 Nov 2025, 19:12:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-home-and-pro-reach-end-of-support/>)
+
+- **Microsoft rilascia KB5068781: il primo aggiornamento di sicurezza esteso per Windows 10**  
+  Fonte: BleepingComputer, 11 Nov 2025, 19:09:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/>)
+
+- **Il Patch Tuesday di Microsoft di novembre 2025 corregge 1 zero-day e 63 difetti**  
+  Fonte: BleepingComputer, 11 Nov 2025, 18:45:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/>)
+
+- **Il malware WhatsApp "Maverick" dirotta le sessioni del browser per prendere di mira le più grandi banche del Brasile**  
+  Fonte: The Hacker News, 11 Nov 2025, 18:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html>)
+
+- **Aggiornamenti cumulativi di Windows 11 KB5068861 e KB5068865 rilasciati**  
+  Fonte: BleepingComputer, 11 Nov 2025, 18:32:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5068861-and-kb5068865-cumulative-updates-released/>)
+
+- **Microsoft: l'aggiornamento di emergenza di Windows 10 risolve il bug di registrazione dell'ESU**  
+  Fonte: BleepingComputer, 11 Nov 2025, 18:28:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-emergency-windows-10-update-fixes-esu-enrollment-bug/>)
+
+- **"Bitcoin Queen" viene condannato a 11 anni di prigione per una truffa Bitcoin da 7,3 miliardi di dollari**  
+  Fonte: BleepingComputer, 11 Nov 2025, 17:07:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bitcoin-queen-gets-11-years-in-prison-for-73-billion-bitcoin-scam/>)
+
+- **GootLoader è tornato, utilizzando un nuovo trucco per nascondere malware sui siti WordPress**  
+  Fonte: The Hacker News, 11 Nov 2025, 15:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html>)
+
+- **SAP risolve il difetto delle credenziali hardcoded in SQL Anywhere Monitor**  
+  Fonte: BleepingComputer, 11 Nov 2025, 15:38:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sap-fixes-hardcoded-credentials-flaw-in-sql-anywhere-monitor/>)
+
+- **The AI ​​Fix #76: Autoconsapevolezza dell'IA e la morte della commedia**  
+  Fonte: Graham Cluley, 11 Nov 2025, 15:27:25 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-76/>)
+
+- **GlobalLogic avverte 10.000 dipendenti del furto di dati dopo la violazione di Oracle**  
+  Fonte: BleepingComputer, 11 Nov 2025, 15:24:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/globallogic-warns-10-000-employees-of-data-theft-after-oracle-breach/>)
+
+- **Come un picco della CPU ha portato alla scoperta di un attacco ransomware RansomHub**  
+  Fonte: BleepingComputer, 11 Nov 2025, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-a-cpu-spike-led-to-uncovering-a-ransomhub-ransomware-attack/>)
+
+- **Webinar: Gestione moderna delle patch: strategie per applicare patch più rapidamente e con meno rischi**  
+  Fonte: BleepingComputer, 11 Nov 2025, 13:10:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/>)
+
+- **Inserimento rapido nei browser AI**  
+  Fonte: Schneier on Security, 11 Nov 2025, 12:08:48 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html>)
+
+- **La guida esperta del CISO agli attacchi alla catena di fornitura basata sull'intelligenza artificiale**  
+  Fonte: The Hacker News, 11 Nov 2025, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html>)
+
+- **I ricercatori rilevano pacchetti npm dannosi che prendono di mira i repository di proprietà di GitHub**  
+  Fonte: The Hacker News, 11 Nov 2025, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html>)
+
+- **Il servizio malware "Fantasy Hub" del trojan Android trasforma Telegram in un hub per gli hacker**  
+  Fonte: The Hacker News, 11 Nov 2025, 11:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html>)
 
 - **Gli hacker sfruttano la falla Triofox per installare strumenti di accesso remoto tramite la funzionalità antivirus**  
   Fonte: The Hacker News, 10 Nov 2025, 20:49:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html>)
 
-- **Gli hacker Konni trasformano il Find Hub di Google in un'arma di cancellazione remota dei dati**  
+- **Gli hacker di Konni trasformano il Find Hub di Google in un'arma di cancellazione remota dei dati**  
   Fonte: The Hacker News, 10 Nov 2025, 20:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html>)
-
-- **La CISA ordina ai federali di applicare le patch zero-day Samsung utilizzate negli attacchi spyware**  
-  Fonte: BleepingComputer, 10 Nov 2025, 20:00:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-samsung-zero-day-used-in-spyware-attacks/>)
-
-- **Il broker di accesso iniziale Yanluowang si è dichiarato colpevole di attacchi ransomware**  
-  Fonte: BleepingComputer, 10 Nov 2025, 19:12:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/yanluowang-initial-access-broker-pleaded-guilty-to-ransomware-attacks/>)
-
-- **La popolare libreria JavaScript expr-eval vulnerabile al difetto RCE**  
-  Fonte: BleepingComputer, 10 Nov 2025, 18:32:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/popular-javascript-library-expr-eval-vulnerable-to-rce-flaw/>)
-
-- **5 motivi per cui gli aggressori effettuano phishing su LinkedIn**  
-  Fonte: BleepingComputer, 10 Nov 2025, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/5-reasons-why-attackers-are-phishing-over-linkedin/>)
 
 - **⚡ Riepilogo settimanale: malware Hyper-V, robot IA dannosi, exploit RDP, blocco di WhatsApp e altro ancora**  
   Fonte: The Hacker News, 10 Nov 2025, 12:51:00 UTC  
@@ -62,33 +114,9 @@
   Fonte: The Hacker News, 10 Nov 2025, 08:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html>)
 
-- **Come utilizzare il nuovo menu Start di Windows 11, ora disponibile**  
-  Fonte: BleepingComputer, 09 Nov 2025, 23:28:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/>)
-
 - **Approfondimento sulla proposta di divieto TP-Link dello zio Sam**  
   Fonte: Krebs on Security, 09 Nov 2025, 18:14:40 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/>)
-
-- **NAKIVO Presenta la v11.1 con funzionalità MSP e Disaster Recovery aggiornate**  
-  Fonte: BleepingComputer, 09 Nov 2025, 15:30:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/>)
-
-- **Hai perso l'iPhone?Non cadere nei messaggi di phishing che dicono che è stato trovato**  
-  Fonte: BleepingComputer, 09 Nov 2025, 15:12:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/>)
-
-- **Pericolose falle runC potrebbero consentire agli hacker di sfuggire ai contenitori Docker**  
-  Fonte: BleepingComputer, 09 Nov 2025, 15:11:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/>)
-
-- **OpenAI prevede di rilasciare GPT-5.1, GPT-5.1 Reasoning e GPT-5.1 Pro**  
-  Fonte: BleepingComputer, 08 Nov 2025, 22:29:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/>)
-
-- **Il malware GlassWorm ritorna su OpenVSX con 3 nuove estensioni VSCode**  
-  Fonte: BleepingComputer, 08 Nov 2025, 16:17:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/>)
 
 - **Microsoft scopre un attacco "Whisper Leak" che identifica gli argomenti delle chat AI nel traffico crittografato**  
   Fonte: The Hacker News, 08 Nov 2025, 14:29:00 UTC  
@@ -114,7 +142,7 @@
   Fonte: The Hacker News, 07 Nov 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html>)
 
-- **Credenziali aziendali a rischio: sempre lo stesso?**  
+- **Credenziali aziendali a rischio: sempre lo stesso, lo stesso vecchio?**  
   Fonte: The Hacker News, 07 Nov 2025, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html>)
 
@@ -126,7 +154,7 @@
   Fonte: The Hacker News, 07 Nov 2025, 06:48:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html>)
 
-- **L’ondata crescente di attacchi informatici contro il settore idrico del Regno Unito**  
+- **La crescente ondata di attacchi informatici contro il settore idrico del Regno Unito**  
   Fonte: Graham Cluley, 06 Nov 2025, 17:43:47 UTC  
   [Leggi](<https://www.fortra.com/blog/rising-tide-cyber-attacks-against-uk-water-sector>)
 
@@ -150,7 +178,7 @@
   Fonte: The Hacker News, 06 Nov 2025, 11:59:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html>)
 
-- **Bollettino del ThreatsDay: strumenti IA per malware, botnet, difetti GDI, attacchi elettorali e altro**  
+- **Bollettino del ThreatsDay: strumenti di intelligenza artificiale per malware, botnet, difetti GDI, attacchi elettorali e altro**  
   Fonte: The Hacker News, 06 Nov 2025, 11:40:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html>)
 
@@ -182,7 +210,7 @@
   Fonte: The Hacker News, 05 Nov 2025, 14:04:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/researchers-find-chatgpt.html>)
 
-- **In che modo i servizi VPC Workers si connettono alle tue reti private regionali da qualsiasi parte del mondo**  
+- **Come Workers VPC Services si connette alle tue reti private regionali da qualsiasi parte del mondo**  
   Fonte: Cloudflare Blog - Security, 05 Nov 2025, 14:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/workers-vpc-open-beta/>)
 
@@ -194,7 +222,7 @@
   Fonte: The Hacker News, 05 Nov 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html>)
 
-- **I misteriosi hacker "SmudgedSerpent" prendono di mira gli esperti politici statunitensi nel mezzo delle tensioni tra Iran e Israele**  
+- **I misteriosi hacker “SmudgedSerpent” prendono di mira gli esperti politici statunitensi nel mezzo delle tensioni tra Iran e Israele**  
   Fonte: The Hacker News, 05 Nov 2025, 11:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html>)
 
@@ -210,49 +238,5 @@
   Fonte: Troy Hunt, 05 Nov 2025, 06:41:43 UTC  
   [Leggi](<https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/>)
 
-- **CISA aggiunge i difetti di Gladinet e CWP al catalogo KEV tra prove di sfruttamento attivo**  
-  Fonte: The Hacker News, 05 Nov 2025, 06:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html>)
 
-- **Una fusione per il crimine informatico senza eguali: Scattered Spider, LAPSUS$ e ShinyHunters uniscono le forze**  
-  Fonte: The Hacker News, 04 Nov 2025, 17:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html>)
-
-- **Le autorità europee smantellano una rete di frodi crittografiche da 600 milioni di euro in un'operazione di portata globale**  
-  Fonte: The Hacker News, 04 Nov 2025, 15:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html>)
-
-- **La soluzione AI n. 75: la crisi esistenziale della batteria di Claude e perché ChatGPT è un pessimo terapista**  
-  Fonte: Graham Cluley, 04 Nov 2025, 15:30:06 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-75/>)
-
-- **Critical React Il difetto della CLI nativa ha esposto milioni di sviluppatori ad attacchi remoti**  
-  Fonte: The Hacker News, 04 Nov 2025, 14:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html>)
-
-- **I bug di Microsoft Teams consentono agli aggressori di impersonare colleghi e modificare messaggi senza essere notati**  
-  Fonte: The Hacker News, 04 Nov 2025, 14:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html>)
-
-- **Criminali informatici che prendono di mira i siti di buste paga**  
-  Fonte: Schneier on Security, 04 Nov 2025, 12:05:54 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html>)
-
-- **Difesa dai ransomware utilizzando la piattaforma open source Wazuh**  
-  Fonte: The Hacker News, 04 Nov 2025, 11:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html>)
-
-- **L'operazione SkyCloak distribuisce una backdoor OpenSSH abilitata per Tor mirata ai settori della difesa**  
-  Fonte: The Hacker News, 04 Nov 2025, 10:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html>)
-
-- **L’intelligenza artificiale “Big Sleep” di Google trova 5 nuove vulnerabilità nel Safari WebKit di Apple**  
-  Fonte: The Hacker News, 04 Nov 2025, 08:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html>)
-
-- **La procura statunitense accusa gli addetti ai lavori della sicurezza informatica accusati di attacchi ransomware BlackCat**  
-  Fonte: The Hacker News, 04 Nov 2025, 07:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-11-11 06:19:41 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-12 06:19:37 UTC -->
