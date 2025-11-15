@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: le balene pilota mangiano un sacco di calamari**  
+  Fonte: Schneier on Security, 14 Nov 2025, 23:33:12 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html>)
+
+- **Logitech conferma la violazione dei dati dopo l'attacco estorsivo di Clop**  
+  Fonte: BleepingComputer, 14 Nov 2025, 22:18:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/>)
+
+- **Cinque si dichiarano colpevoli di aver aiutato i nordcoreani a infiltrarsi nelle aziende statunitensi**  
+  Fonte: BleepingComputer, 14 Nov 2025, 20:11:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-helping-north-koreans-infiltrate-us-firms/>)
+
+- **Le affermazioni antropiche degli attacchi informatici automatizzati dall'intelligenza artificiale di Claude hanno incontrato dubbi**  
+  Fonte: BleepingComputer, 14 Nov 2025, 18:31:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/anthropic-claims-of-claude-ai-automated-cyberattacks-met-with-doubt/>)
+
+- **Gli hacker nordcoreani trasformano i servizi JSON in canali nascosti di distribuzione di malware**  
+  Fonte: The Hacker News, 14 Nov 2025, 18:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html>)
+
+- **Prossimi impegni di conferenza**  
+  Fonte: Schneier on Security, 14 Nov 2025, 17:08:57 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/11/upcoming-speaking-engagements-50.html>)
+
+- **Fortinet conferma la patch silenziosa per FortiWeb zero-day sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 14 Nov 2025, 17:00:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-confirms-silent-patch-for-fortiweb-zero-day-exploited-in-attacks/>)
+
+- **Checkout.com snobba gli hacker dopo la violazione dei dati, per donare invece il riscatto**  
+  Fonte: BleepingComputer, 14 Nov 2025, 16:25:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/>)
+
+- **I ricercatori scoprono gravi bug dell'intelligenza artificiale che espongono Meta, Nvidia e Microsoft Inference Frameworks**  
+  Fonte: The Hacker News, 14 Nov 2025, 15:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html>)
+
+- **Gli Stati Uniti annunciano una nuova forza d'attacco contro i truffatori crittografici cinesi**  
+  Fonte: BleepingComputer, 14 Nov 2025, 14:54:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-announces-new-strike-force-targeting-chinese-crypto-scammers/>)
+
+- **Gli hacker iraniani lanciano l'operazione di spionaggio "SpearSpecter" su obiettivi della difesa e del governo**  
+  Fonte: The Hacker News, 14 Nov 2025, 14:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html>)
+
+- **Il ruolo degli esseri umani in un mondo basato sull’intelligenza artificiale**  
+  Fonte: Schneier on Security, 14 Nov 2025, 12:00:33 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/11/the-role-of-humans-in-an-ai-powered-world.html>)
+
+- **Google fa marcia indietro sulle nuove regole di registrazione degli sviluppatori Android**  
+  Fonte: BleepingComputer, 14 Nov 2025, 11:54:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/>)
+
+- **La frammentazione del ransomware raggiunge un punto di rottura mentre LockBit ritorna**  
+  Fonte: The Hacker News, 14 Nov 2025, 10:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html>)
+
+- **Gli hacker cinesi utilizzano l'intelligenza artificiale di Anthropic per lanciare una campagna di spionaggio informatico automatizzata**  
+  Fonte: The Hacker News, 14 Nov 2025, 09:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html>)
+
+- **ASUS avverte di un difetto critico di bypass dell'autenticazione nei router della serie DSL**  
+  Fonte: BleepingComputer, 14 Nov 2025, 09:52:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/>)
+
+- **Difetto Fortinet FortiWeb ora corretto sfruttato negli attacchi per creare account amministratore**  
+  Fonte: The Hacker News, 14 Nov 2025, 09:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html>)
+
 - **DoorDash colpito da una nuova violazione dei dati in ottobre che ha esposto le informazioni degli utenti**  
   Fonte: BleepingComputer, 14 Nov 2025, 04:38:44 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/>)
@@ -26,41 +94,17 @@
   Fonte: The Hacker News, 13 Nov 2025, 20:27:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html>)
 
-- **La falla RCE in ImunifyAV mette a rischio milioni di siti ospitati su Linux**  
-  Fonte: BleepingComputer, 13 Nov 2025, 19:04:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/rce-flaw-in-imunifyav-puts-millions-of-linux-hosted-sites-at-risk/>)
-
-- **La violazione dei dati del Washington Post colpisce quasi 10.000 dipendenti e appaltatori**  
-  Fonte: BleepingComputer, 13 Nov 2025, 16:00:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/>)
-
-- **Kerberoasting nel 2025: come proteggere i tuoi account di servizio**  
-  Fonte: BleepingComputer, 13 Nov 2025, 15:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/kerberoasting-in-2025-how-to-protect-your-service-accounts/>)
-
 - **Google fa causa per interrompere la triade cinese del phishing via SMS**  
   Fonte: Krebs on Security, 13 Nov 2025, 14:47:22 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/>)
-
-- **Microsoft implementa la prevenzione della cattura dello schermo per gli utenti di Teams**  
-  Fonte: BleepingComputer, 13 Nov 2025, 13:50:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-screen-capture-prevention-for-teams-users/>)
 
 - **La falsa estensione Chrome "Safety" ruba le frasi seed del portafoglio Ethereum utilizzando Sui Blockchain**  
   Fonte: The Hacker News, 13 Nov 2025, 13:04:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html>)
 
-- **Le cornici fotografiche più diffuse basate su Android scaricano malware all'avvio**  
-  Fonte: BleepingComputer, 13 Nov 2025, 13:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/popular-android-based-photo-frames-download-malware-on-boot/>)
-
 - **Recensione del libro: Il business dei segreti**  
   Fonte: Schneier on Security, 13 Nov 2025, 12:09:39 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/11/book-review-the-business-of-secrets.html>)
-
-- **La CISA avverte i federali di correggere completamente i difetti Cisco sfruttati attivamente**  
-  Fonte: BleepingComputer, 13 Nov 2025, 12:05:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/>)
 
 - **Quando gli attacchi arrivano più velocemente delle patch: perché il 2026 sarà l’anno della sicurezza alla velocità delle macchine**  
   Fonte: The Hacker News, 13 Nov 2025, 11:30:00 UTC  
@@ -70,17 +114,9 @@
   Fonte: The Hacker News, 13 Nov 2025, 11:16:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/operation-endgame-dismantles.html>)
 
-- **La polizia interrompe le operazioni di malware Rhadamanthys, VenomRAT ed Elysium**  
-  Fonte: BleepingComputer, 13 Nov 2025, 10:53:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/>)
-
 - **Bollettino del ThreatsDay: Cisco 0-Days, bug Bounties dell'intelligenza artificiale, furti di criptovalute, fughe di notizie legate allo stato e altre 20 storie**  
   Fonte: The Hacker News, 13 Nov 2025, 10:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html>)
-
-- **CISA avverte della falla del firewall WatchGuard sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 13 Nov 2025, 10:03:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-watchguard-firewall-flaw-exploited-in-attacks/>)
 
 - **CISA segnala un difetto critico del firewall WatchGuard che espone 54.000 Firebox ad attacchi senza accesso**  
   Fonte: The Hacker News, 13 Nov 2025, 07:23:00 UTC  
@@ -90,17 +126,9 @@
   Fonte: The Hacker News, 13 Nov 2025, 04:58:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html>)
 
-- **Podcast di Smashing Security n. 443: il rullino fotografico di Tinder e il deepfake di Buffett**  
-  Fonte: Graham Cluley, 13 Nov 2025, 00:25:57 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-443/>)
-
 - **Google fa causa agli hacker cinesi dietro la piattaforma di phishing Lighthouse da 1 miliardo di dollari**  
   Fonte: The Hacker News, 12 Nov 2025, 15:48:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/google-sues-china-based-hackers-behind.html>)
-
-- **Le principali aziende di intelligenza artificiale perdono accidentalmente le loro password e chiavi digitali su GitHub: cosa devi sapere**  
-  Fonte: Graham Cluley, 12 Nov 2025, 14:45:01 UTC  
-  [Leggi](<https://www.fortra.com/blog/ai-companies-accidentally-leak-passwords-digital-keys-github>)
 
 - **Amazon scopre che gli attacchi sfruttati da Cisco ISE e Citrix NetScaler sono difetti zero-day**  
   Fonte: The Hacker News, 12 Nov 2025, 14:00:00 UTC  
@@ -126,10 +154,6 @@
   Fonte: The Hacker News, 12 Nov 2025, 10:21:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html>)
 
-- **Un hacker russo ammette di aver aiutato il ransomware Yanluowang a infettare le aziende**  
-  Fonte: Graham Cluley, 12 Nov 2025, 10:15:18 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/russian-hacker-admits-helping-yanluowang-ransomware-infect-companies>)
-
 - **Google lancia "Private AI Compute": elaborazione sicura dell'IA con privacy a livello di dispositivo**  
   Fonte: The Hacker News, 12 Nov 2025, 08:35:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/google-launches-private-ai-compute.html>)
@@ -141,10 +165,6 @@
 - **GootLoader è tornato, utilizzando un nuovo trucco per nascondere malware sui siti WordPress**  
   Fonte: The Hacker News, 11 Nov 2025, 15:44:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html>)
-
-- **The AI ​​Fix #76: Autoconsapevolezza dell'IA e la morte della commedia**  
-  Fonte: Graham Cluley, 11 Nov 2025, 15:27:25 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-76/>)
 
 - **Inserimento rapido nei browser AI**  
   Fonte: Schneier on Security, 11 Nov 2025, 12:08:48 UTC  
@@ -182,10 +202,6 @@
   Fonte: The Hacker News, 10 Nov 2025, 11:58:06 UTC  
   [Leggi](<https://thehackernews.com/2025/11/new-browser-security-report-reveals.html>)
 
-- **L'hack ferma l'emittente olandese, costringendo i conduttori radiofonici a tornare agli LP**  
-  Fonte: Graham Cluley, 10 Nov 2025, 09:35:07 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hack-halts-dutch-broadcaster-forcing-radio-hosts-back-to-lps>)
-
 - **Attacchi di phishing su larga scala ClickFix prendono di mira i sistemi alberghieri con il malware PureRAT**  
   Fonte: The Hacker News, 10 Nov 2025, 09:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html>)
@@ -202,37 +218,5 @@
   Fonte: The Hacker News, 08 Nov 2025, 14:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html>)
 
-- **Friday Squid Blogging: Squid Game: La sfida, seconda stagione**  
-  Fonte: Schneier on Security, 07 Nov 2025, 22:01:03 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-squid-game-the-challenge-season-two.html>)
 
-- **Sfruttato il difetto di Samsung Mobile come Zero-Day per distribuire lo spyware Android LANDFALL**  
-  Fonte: The Hacker News, 07 Nov 2025, 18:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html>)
-
-- **Da Log4j a IIS, gli hacker cinesi trasformano i bug legacy in strumenti di spionaggio globale**  
-  Fonte: The Hacker News, 07 Nov 2025, 16:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html>)
-
-- **Falsificare ricevute con l'intelligenza artificiale**  
-  Fonte: Schneier on Security, 07 Nov 2025, 12:01:46 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/faking-receipts-with-ai.html>)
-
-- **Bombe logiche nascoste nei pacchetti NuGet contenenti malware sono destinate a esplodere anni dopo l'installazione**  
-  Fonte: The Hacker News, 07 Nov 2025, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html>)
-
-- **Credenziali aziendali a rischio: sempre lo stesso, lo stesso vecchio?**  
-  Fonte: The Hacker News, 07 Nov 2025, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html>)
-
-- **Google lancia una nuova funzionalità di Maps per aiutare le aziende a segnalare tentativi di estorsione basati su recensioni**  
-  Fonte: The Hacker News, 07 Nov 2025, 09:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html>)
-
-- **Trovata estensione VS Code dannosa codificata da Vibe con funzionalità ransomware integrate**  
-  Fonte: The Hacker News, 07 Nov 2025, 06:48:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-11-14 06:18:57 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-15 06:16:29 UTC -->
