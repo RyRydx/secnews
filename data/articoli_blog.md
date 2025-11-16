@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft: l'aggiornamento ESU KB5068781 di Windows 10 potrebbe non riuscire con errori 0x800f0922**  
+  Fonte: BleepingComputer, 15 Nov 2025, 20:42:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/>)
+
+- **Protocollo "Finger" vecchio di decenni abusato negli attacchi malware ClickFix**  
+  Fonte: BleepingComputer, 15 Nov 2025, 18:46:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/>)
+
+- **RondoDox sfrutta i server XWiki senza patch per inserire più dispositivi nella sua botnet**  
+  Fonte: The Hacker News, 15 Nov 2025, 16:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html>)
+
+- **L’attacco informatico alla Jaguar Land Rover è costato all’azienda oltre 220 milioni di dollari**  
+  Fonte: BleepingComputer, 15 Nov 2025, 15:09:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/>)
+
+- **Cinque si dichiarano colpevoli negli Stati Uniti per aver aiutato i lavoratori IT nordcoreani a infiltrarsi in 136 aziende**  
+  Fonte: The Hacker News, 15 Nov 2025, 10:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html>)
+
 - **Blog sui calamari del venerdì: le balene pilota mangiano un sacco di calamari**  
   Fonte: Schneier on Security, 14 Nov 2025, 23:33:12 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html>)
@@ -77,18 +97,6 @@
 - **Sfruttata la falla Fortinet FortiWeb con PoC pubblico per creare utenti amministratori**  
   Fonte: BleepingComputer, 14 Nov 2025, 02:41:28 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/>)
-
-- **Kraken ransomware confronta i sistemi per la scelta della crittografia ottimale**  
-  Fonte: BleepingComputer, 13 Nov 2025, 22:53:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/kraken-ransomware-benchmarks-systems-for-optimal-encryption-choice/>)
-
-- **CISA avverte del ransomware Akira, crittografo Linux che prende di mira le VM Nutanix**  
-  Fonte: BleepingComputer, 13 Nov 2025, 22:32:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-akira-ransomware-linux-encryptor-targeting-nutanix-vms/>)
-
-- **Il nuovo worm “IndonesianFoods” inonda npm con 100.000 pacchetti**  
-  Fonte: BleepingComputer, 13 Nov 2025, 22:07:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/>)
 
 - **Hacker russi creano 4.300 siti di viaggio falsi per rubare i dati di pagamento degli ospiti degli hotel**  
   Fonte: The Hacker News, 13 Nov 2025, 20:27:00 UTC  
@@ -186,7 +194,7 @@
   Fonte: The Hacker News, 10 Nov 2025, 20:49:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html>)
 
-- **Gli hacker Konni trasformano il Find Hub di Google in un'arma di cancellazione remota dei dati**  
+- **Gli hacker di Konni trasformano il Find Hub di Google in un'arma di cancellazione remota dei dati**  
   Fonte: The Hacker News, 10 Nov 2025, 20:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html>)
 
@@ -214,9 +222,5 @@
   Fonte: Krebs on Security, 09 Nov 2025, 18:14:40 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/>)
 
-- **Microsoft scopre un attacco "Whisper Leak" che identifica gli argomenti delle chat AI nel traffico crittografato**  
-  Fonte: The Hacker News, 08 Nov 2025, 14:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-11-15 06:16:29 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-16 06:17:06 UTC -->
