@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft Patch Tuesday, edizione di novembre 2025**  
+  Fonte: Krebs on Security, 16 Nov 2025, 21:47:14 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/>)
+
+- **Google segnala sul Play Store le app Android che consumano eccessivamente la batteria**  
+  Fonte: BleepingComputer, 16 Nov 2025, 15:15:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/>)
+
+- **Aggiornamento settimanale 478**  
+  Fonte: Troy Hunt, 16 Nov 2025, 08:13:02 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-478/>)
+
 - **Microsoft: l'aggiornamento ESU KB5068781 di Windows 10 potrebbe non riuscire con errori 0x800f0922**  
   Fonte: BleepingComputer, 15 Nov 2025, 20:42:45 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/>)
@@ -22,7 +34,7 @@
   Fonte: The Hacker News, 15 Nov 2025, 10:21:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html>)
 
-- **Blog sui calamari del venerdì: le balene pilota mangiano un sacco di calamari**  
+- **Blogging sui calamari del venerdì: le balene pilota mangiano un sacco di calamari**  
   Fonte: Schneier on Security, 14 Nov 2025, 23:33:12 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html>)
 
@@ -86,17 +98,9 @@
   Fonte: BleepingComputer, 14 Nov 2025, 09:52:37 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/>)
 
-- **Difetto Fortinet FortiWeb ora corretto sfruttato negli attacchi per creare account amministratore**  
+- **Difetto Fortinet FortiWeb ora corretto e sfruttato negli attacchi per creare account amministratore**  
   Fonte: The Hacker News, 14 Nov 2025, 09:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html>)
-
-- **DoorDash colpito da una nuova violazione dei dati in ottobre che ha esposto le informazioni degli utenti**  
-  Fonte: BleepingComputer, 14 Nov 2025, 04:38:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/>)
-
-- **Sfruttata la falla Fortinet FortiWeb con PoC pubblico per creare utenti amministratori**  
-  Fonte: BleepingComputer, 14 Nov 2025, 02:41:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/>)
 
 - **Hacker russi creano 4.300 siti di viaggio falsi per rubare i dati di pagamento degli ospiti degli hotel**  
   Fonte: The Hacker News, 13 Nov 2025, 20:27:00 UTC  
@@ -190,7 +194,7 @@
   Fonte: The Hacker News, 11 Nov 2025, 11:44:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html>)
 
-- **Gli hacker sfruttano la falla Triofox per installare strumenti di accesso remoto tramite la funzionalità antivirus**  
+- **Gli hacker sfruttano il difetto Triofox per installare strumenti di accesso remoto tramite la funzionalità antivirus**  
   Fonte: The Hacker News, 10 Nov 2025, 20:49:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html>)
 
@@ -218,9 +222,5 @@
   Fonte: The Hacker News, 10 Nov 2025, 08:51:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html>)
 
-- **Approfondimento sulla proposta di divieto TP-Link dello zio Sam**  
-  Fonte: Krebs on Security, 09 Nov 2025, 18:14:40 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/>)
 
-
-<!-- Ultimo aggiornamento: 2025-11-16 06:17:06 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-17 06:20:05 UTC -->
