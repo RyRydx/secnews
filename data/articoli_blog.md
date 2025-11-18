@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Google pubblica una correzione di sicurezza per la vulnerabilità zero-day di Chrome V8 sfruttata attivamente**  
+  Fonte: The Hacker News, 18 Nov 2025, 04:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html>)
+
+- **Microsoft: l'aggiornamento OOB di Windows 10 KB5072653 risolve gli errori di installazione dell'UDE**  
+  Fonte: BleepingComputer, 18 Nov 2025, 00:22:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/>)
+
+- **I pacchetti NPM dannosi abusano dei reindirizzamenti Adspect per eludere la sicurezza**  
+  Fonte: BleepingComputer, 17 Nov 2025, 23:47:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/>)
+
+- **Grok 4.1 di xAI viene distribuito gratuitamente con qualità e velocità migliorate**  
+  Fonte: BleepingComputer, 17 Nov 2025, 22:56:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/>)
+
+- **Il malware botnet RondoDox ora attacca i server utilizzando il difetto XWiki**  
+  Fonte: BleepingComputer, 17 Nov 2025, 22:41:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/rondodox-botnet-malware-now-hacks-servers-using-xwiki-flaw/>)
+
+- **Google Gemini 3 avvistato su AI Studio prima del rilascio imminente**  
+  Fonte: BleepingComputer, 17 Nov 2025, 21:52:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/>)
+
+- **Eurofiber France avverte di una violazione dopo che un hacker ha tentato di vendere i dati dei clienti**  
+  Fonte: BleepingComputer, 17 Nov 2025, 21:14:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/>)
+
+- **L'Università di Princeton rivela una violazione dei dati che colpisce donatori ed ex studenti**  
+  Fonte: BleepingComputer, 17 Nov 2025, 19:36:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/princeton-university-discloses-data-breach-affecting-donors-alumni/>)
+
+- **La polizia olandese sequestra 250 server utilizzati dal servizio di “hosting antiproiettile”.**  
+  Fonte: BleepingComputer, 17 Nov 2025, 19:19:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-police-seizes-250-servers-used-by-bulletproof-hosting-service/>)
+
+- **Microsoft: Azure colpito da un attacco DDoS da 15 Tbps che utilizza 500.000 indirizzi IP**  
+  Fonte: BleepingComputer, 17 Nov 2025, 17:13:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/>)
+
+- **La nuova campagna EVALUSION ClickFix offre Amatera Stealer e NetSupport RAT**  
+  Fonte: The Hacker News, 17 Nov 2025, 16:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html>)
+
+- **La vulnerabilità di spoofing delle e-mail di DoorDash scatena una disputa disordinata sulla divulgazione**  
+  Fonte: BleepingComputer, 17 Nov 2025, 16:32:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/>)
+
+- **Pennsylvania AG conferma la violazione dei dati dopo l'attacco INC Ransom**  
+  Fonte: BleepingComputer, 17 Nov 2025, 15:57:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/>)
+
+- **Microsoft: un bug di Windows blocca le installazioni dell'app desktop Microsoft 365**  
+  Fonte: BleepingComputer, 17 Nov 2025, 14:54:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-bug-blocks-microsoft-365-desktop-app-installs/>)
+
+- **⚡ Riepilogo settimanale: Fortinet sfruttato, attacchi informatici cinesi, PhaaS Empire Falls e altro**  
+  Fonte: The Hacker News, 17 Nov 2025, 12:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html>)
+
+- **Più Prompt e GTFO**  
+  Fonte: Schneier on Security, 17 Nov 2025, 12:05:07 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/11/more-promptgtfo.html>)
+
+- **5 motivi per cui gli aggressori effettuano phishing su LinkedIn**  
+  Fonte: The Hacker News, 17 Nov 2025, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html>)
+
+- **Dragon Breath utilizza RONINGLOADER per disabilitare gli strumenti di sicurezza e distribuire Gh0st RAT**  
+  Fonte: The Hacker News, 17 Nov 2025, 11:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html>)
+
+- **L'adozione di Rust riduce per la prima volta i bug di sicurezza della memoria Android al di sotto del 20%.**  
+  Fonte: The Hacker News, 17 Nov 2025, 06:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html>)
+
 - **Microsoft Patch Tuesday, edizione di novembre 2025**  
   Fonte: Krebs on Security, 16 Nov 2025, 21:47:14 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/>)
@@ -14,21 +90,9 @@
   Fonte: Troy Hunt, 16 Nov 2025, 08:13:02 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-478/>)
 
-- **Microsoft: l'aggiornamento ESU KB5068781 di Windows 10 potrebbe non riuscire con errori 0x800f0922**  
-  Fonte: BleepingComputer, 15 Nov 2025, 20:42:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/>)
-
-- **Protocollo "Finger" vecchio di decenni abusato negli attacchi malware ClickFix**  
-  Fonte: BleepingComputer, 15 Nov 2025, 18:46:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/>)
-
 - **RondoDox sfrutta i server XWiki senza patch per inserire più dispositivi nella sua botnet**  
   Fonte: The Hacker News, 15 Nov 2025, 16:35:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html>)
-
-- **L’attacco informatico alla Jaguar Land Rover è costato all’azienda oltre 220 milioni di dollari**  
-  Fonte: BleepingComputer, 15 Nov 2025, 15:09:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/>)
 
 - **Cinque si dichiarano colpevoli negli Stati Uniti per aver aiutato i lavoratori IT nordcoreani a infiltrarsi in 136 aziende**  
   Fonte: The Hacker News, 15 Nov 2025, 10:21:00 UTC  
@@ -38,18 +102,6 @@
   Fonte: Schneier on Security, 14 Nov 2025, 23:33:12 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html>)
 
-- **Logitech conferma la violazione dei dati dopo l'attacco estorsivo di Clop**  
-  Fonte: BleepingComputer, 14 Nov 2025, 22:18:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/>)
-
-- **Cinque si dichiarano colpevoli di aver aiutato i nordcoreani a infiltrarsi nelle aziende statunitensi**  
-  Fonte: BleepingComputer, 14 Nov 2025, 20:11:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-helping-north-koreans-infiltrate-us-firms/>)
-
-- **Le affermazioni antropiche degli attacchi informatici automatizzati dall'intelligenza artificiale di Claude hanno incontrato dubbi**  
-  Fonte: BleepingComputer, 14 Nov 2025, 18:31:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/anthropic-claims-of-claude-ai-automated-cyberattacks-met-with-doubt/>)
-
 - **Gli hacker nordcoreani trasformano i servizi JSON in canali nascosti di distribuzione di malware**  
   Fonte: The Hacker News, 14 Nov 2025, 18:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html>)
@@ -58,21 +110,9 @@
   Fonte: Schneier on Security, 14 Nov 2025, 17:08:57 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/11/upcoming-speaking-engagements-50.html>)
 
-- **Fortinet conferma la patch silenziosa per FortiWeb zero-day sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 14 Nov 2025, 17:00:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-confirms-silent-patch-for-fortiweb-zero-day-exploited-in-attacks/>)
-
-- **Checkout.com snobba gli hacker dopo la violazione dei dati, per donare invece il riscatto**  
-  Fonte: BleepingComputer, 14 Nov 2025, 16:25:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/>)
-
 - **I ricercatori scoprono gravi bug dell'intelligenza artificiale che espongono Meta, Nvidia e Microsoft Inference Frameworks**  
   Fonte: The Hacker News, 14 Nov 2025, 15:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html>)
-
-- **Gli Stati Uniti annunciano una nuova forza d'attacco contro i truffatori crittografici cinesi**  
-  Fonte: BleepingComputer, 14 Nov 2025, 14:54:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-announces-new-strike-force-targeting-chinese-crypto-scammers/>)
 
 - **Gli hacker iraniani lanciano l'operazione di spionaggio "SpearSpecter" su obiettivi della difesa e del governo**  
   Fonte: The Hacker News, 14 Nov 2025, 14:40:00 UTC  
@@ -82,10 +122,6 @@
   Fonte: Schneier on Security, 14 Nov 2025, 12:00:33 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/11/the-role-of-humans-in-an-ai-powered-world.html>)
 
-- **Google fa marcia indietro sulle nuove regole di registrazione degli sviluppatori Android**  
-  Fonte: BleepingComputer, 14 Nov 2025, 11:54:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/>)
-
 - **La frammentazione del ransomware raggiunge un punto di rottura mentre LockBit ritorna**  
   Fonte: The Hacker News, 14 Nov 2025, 10:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html>)
@@ -93,10 +129,6 @@
 - **Gli hacker cinesi utilizzano l'intelligenza artificiale di Anthropic per lanciare una campagna di spionaggio informatico automatizzata**  
   Fonte: The Hacker News, 14 Nov 2025, 09:53:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html>)
-
-- **ASUS avverte di un difetto critico di bypass dell'autenticazione nei router della serie DSL**  
-  Fonte: BleepingComputer, 14 Nov 2025, 09:52:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/>)
 
 - **Difetto Fortinet FortiWeb ora corretto e sfruttato negli attacchi per creare account amministratore**  
   Fonte: The Hacker News, 14 Nov 2025, 09:00:00 UTC  
@@ -194,33 +226,5 @@
   Fonte: The Hacker News, 11 Nov 2025, 11:44:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html>)
 
-- **Gli hacker sfruttano il difetto Triofox per installare strumenti di accesso remoto tramite la funzionalità antivirus**  
-  Fonte: The Hacker News, 10 Nov 2025, 20:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html>)
 
-- **Gli hacker di Konni trasformano il Find Hub di Google in un'arma di cancellazione remota dei dati**  
-  Fonte: The Hacker News, 10 Nov 2025, 20:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html>)
-
-- **⚡ Riepilogo settimanale: malware Hyper-V, robot IA dannosi, exploit RDP, blocco di WhatsApp e altro ancora**  
-  Fonte: The Hacker News, 10 Nov 2025, 12:51:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html>)
-
-- **Nuovi attacchi contro enclavi sicure**  
-  Fonte: Schneier on Security, 10 Nov 2025, 12:04:55 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/new-attacks-against-secure-enclaves.html>)
-
-- **Il nuovo rapporto sulla sicurezza del browser rivela le minacce emergenti per le aziende**  
-  Fonte: The Hacker News, 10 Nov 2025, 11:58:06 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/new-browser-security-report-reveals.html>)
-
-- **Attacchi di phishing su larga scala ClickFix prendono di mira i sistemi alberghieri con il malware PureRAT**  
-  Fonte: The Hacker News, 10 Nov 2025, 09:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html>)
-
-- **Malware GlassWorm scoperto in tre estensioni VS Code con migliaia di installazioni**  
-  Fonte: The Hacker News, 10 Nov 2025, 08:51:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-11-17 06:20:05 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-18 06:18:29 UTC -->
