@@ -2,6 +2,34 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 479**  
+  Fonte: Troy Hunt, 23 Nov 2025, 04:44:21 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-479/>)
+
+- **La falla dell'API di WhatsApp ha consentito ai ricercatori di recuperare 3,5 miliardi di account**  
+  Fonte: BleepingComputer, 22 Nov 2025, 18:53:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/>)
+
+- **APT31, legato alla Cina, lancia attacchi informatici furtivi contro l’IT russo utilizzando servizi cloud**  
+  Fonte: The Hacker News, 22 Nov 2025, 15:19:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html>)
+
+- **Cox Enterprises rivela la violazione dei dati di Oracle E-Business Suite**  
+  Fonte: BleepingComputer, 22 Nov 2025, 15:16:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/>)
+
+- **Mettere insieme il puzzle: un'indagine sul ransomware Qilin**  
+  Fonte: BleepingComputer, 22 Nov 2025, 13:45:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/>)
+
+- **Matrix Push C2 utilizza le notifiche del browser per attacchi di phishing multipiattaforma senza file**  
+  Fonte: The Hacker News, 22 Nov 2025, 06:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html>)
+
+- **CISA mette in guardia contro una vulnerabilità critica zero-day di Oracle Identity Manager attivamente sfruttata**  
+  Fonte: The Hacker News, 22 Nov 2025, 06:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html>)
+
 - **CISA avverte che la falla RCE di Oracle Identity Manager viene sfruttata attivamente**  
   Fonte: BleepingComputer, 21 Nov 2025, 23:50:27 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/>)
@@ -82,10 +110,6 @@
   Fonte: Krebs on Security, 20 Nov 2025, 19:06:51 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/>)
 
-- **L'hacker afferma di aver rubato 2,3 TB di dati dal gruppo ferroviario italiano Almaviva**  
-  Fonte: BleepingComputer, 20 Nov 2025, 18:54:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-23tb-data-from-italian-rail-group-almaviva/>)
-
 - **ShadowRay 2.0 sfrutta Ray Flaw senza patch per creare botnet di criptomining GPU auto-diffusione**  
   Fonte: The Hacker News, 20 Nov 2025, 17:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html>)
@@ -94,17 +118,9 @@
   Fonte: Graham Cluley, 20 Nov 2025, 17:13:53 UTC  
   [Leggi](<https://www.fortra.com/blog/uks-new-cybersecurity-bill-takes-aim-ransomware-gangs-state-backed-hackers>)
 
-- **I portali VPN GlobalProtect sono stati analizzati con 2,3 milioni di sessioni di scansione**  
-  Fonte: BleepingComputer, 20 Nov 2025, 17:08:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/globalprotect-vpn-portals-probed-with-23-million-scan-sessions/>)
-
 - **La botnet Tsundere si espande utilizzando esche da gioco e C2 basato su Ethereum su Windows**  
   Fonte: The Hacker News, 20 Nov 2025, 16:57:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html>)
-
-- **Salesforce indaga sul furto dei dati dei clienti tramite violazione di Gainsight**  
-  Fonte: BleepingComputer, 20 Nov 2025, 16:47:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/>)
 
 - **Bollettino del ThreatsDay: 0-Days, spie di LinkedIn, crimini legati alle criptovalute, difetti dell'IoT e nuove ondate di malware**  
   Fonte: The Hacker News, 20 Nov 2025, 12:29:00 UTC  
@@ -254,13 +270,5 @@
   Fonte: Troy Hunt, 16 Nov 2025, 08:13:02 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-478/>)
 
-- **RondoDox sfrutta i server XWiki senza patch per inserire più dispositivi nella sua botnet**  
-  Fonte: The Hacker News, 15 Nov 2025, 16:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html>)
 
-- **Cinque si dichiarano colpevoli negli Stati Uniti per aver aiutato i lavoratori IT nordcoreani a infiltrarsi in 136 aziende**  
-  Fonte: The Hacker News, 15 Nov 2025, 10:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-11-22 06:16:26 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-23 06:16:49 UTC -->
