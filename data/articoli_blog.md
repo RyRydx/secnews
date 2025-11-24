@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Google consente la condivisione di file da Pixel a iPhone tramite Quick Share, AirDrop**  
+  Fonte: BleepingComputer, 23 Nov 2025, 15:32:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/mobile/google-enables-pixel-to-iphone-file-sharing-via-quick-share-airdrop/>)
+
+- **Sicurezza delle password aziendali e gestione dei segreti con Passwork 7**  
+  Fonte: BleepingComputer, 23 Nov 2025, 14:45:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/enterprise-password-security-and-secrets-management-with-passwork-7/>)
+
+- **Iberia rivela la fuga di dati dei clienti dopo una violazione della sicurezza del fornitore**  
+  Fonte: BleepingComputer, 23 Nov 2025, 13:46:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/iberia-discloses-customer-data-leak-after-vendor-security-breach/>)
+
+- **I nuovi membri Costco Gold Star ricevono anche una carta Digital Costco Shop da $ 40**  
+  Fonte: BleepingComputer, 23 Nov 2025, 13:09:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-costco-gold-star-members-also-get-a-40-digital-costco-shop-card/>)
+
 - **Aggiornamento settimanale 479**  
   Fonte: Troy Hunt, 23 Nov 2025, 04:44:21 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-479/>)
@@ -70,14 +86,6 @@
   Fonte: The Hacker News, 21 Nov 2025, 15:40:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html>)
 
-- **Avast rende disponibile gratuitamente in tutto il mondo la difesa dalle truffe basata sull'intelligenza artificiale**  
-  Fonte: BleepingComputer, 21 Nov 2025, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/avast-makes-ai-driven-scam-defense-available-for-free-worldwide/>)
-
-- **Google inizia a mostrare annunci in modalità AI (risposte AI)**  
-  Fonte: BleepingComputer, 21 Nov 2025, 13:02:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/>)
-
 - **Google offre la compatibilità AirDrop alla condivisione rapida di Android utilizzando una sicurezza invecchiata**  
   Fonte: The Hacker News, 21 Nov 2025, 13:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html>)
@@ -101,10 +109,6 @@
 - **Salesforce segnala l'accesso non autorizzato ai dati tramite l'attività OAuth collegata a Gainsight**  
   Fonte: The Hacker News, 21 Nov 2025, 05:32:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html>)
-
-- **Google denuncia il malware BadAudio utilizzato nelle campagne di spionaggio APT24**  
-  Fonte: BleepingComputer, 20 Nov 2025, 22:12:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/>)
 
 - **Mozilla dice che finalmente è finita con Onerep a due facce**  
   Fonte: Krebs on Security, 20 Nov 2025, 19:06:51 UTC  
@@ -206,11 +210,11 @@
   Fonte: The Hacker News, 18 Nov 2025, 15:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html>)
 
-- **I ricercatori descrivono in dettaglio il ruolo di Tuoni C2 in un tentativo di intrusione informatica immobiliare nel 2025**  
+- **I ricercatori descrivono dettagliatamente il ruolo di Tuoni C2 in un tentativo di intrusione informatica immobiliare nel 2025**  
   Fonte: The Hacker News, 18 Nov 2025, 14:00:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html>)
 
-- **Gli hacker iraniani utilizzano il malware DEEPROOT e TWOSTROKE negli attacchi aerospaziali e della difesa**  
+- **Gli hacker iraniani utilizzano il malware DEEPROOT e TWOSTROKE negli attacchi aerospaziali e di difesa**  
   Fonte: The Hacker News, 18 Nov 2025, 12:54:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html>)
 
@@ -258,17 +262,5 @@
   Fonte: The Hacker News, 17 Nov 2025, 11:20:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html>)
 
-- **L'adozione di Rust riduce per la prima volta i bug di sicurezza della memoria Android al di sotto del 20%.**  
-  Fonte: The Hacker News, 17 Nov 2025, 06:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html>)
 
-- **Microsoft Patch Tuesday, edizione di novembre 2025**  
-  Fonte: Krebs on Security, 16 Nov 2025, 21:47:14 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/>)
-
-- **Aggiornamento settimanale 478**  
-  Fonte: Troy Hunt, 16 Nov 2025, 08:13:02 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-478/>)
-
-
-<!-- Ultimo aggiornamento: 2025-11-23 06:16:49 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-24 06:20:41 UTC -->
