@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **I file modello dannosi di Blender forniscono malware di furto di informazioni StealC**  
+  Fonte: BleepingComputer, 24 Nov 2025, 22:00:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/>)
+
+- **L'attacco ClickFix utilizza la schermata falsa di Windows Update per inviare malware**  
+  Fonte: BleepingComputer, 24 Nov 2025, 20:42:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/>)
+
+- **Il tuo Android TV Streaming Box fa parte di una botnet?**  
+  Fonte: Krebs on Security, 24 Nov 2025, 18:44:52 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/>)
+
+- **La violazione del gigante dei servizi finanziari immobiliari SitusAMC espone i dati dei clienti**  
+  Fonte: BleepingComputer, 24 Nov 2025, 17:36:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/>)
+
+- **Nuovi difetti in bit espongono il cloud a RCE e intrusioni infrastrutturali nascoste**  
+  Fonte: The Hacker News, 24 Nov 2025, 15:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html>)
+
+- **SCCM e WSUS in un mondo ibrido: perché è il momento delle patch native per il cloud**  
+  Fonte: BleepingComputer, 24 Nov 2025, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/>)
+
+- **Il malware Shai-Hulud infetta pacchetti da 500 npm e fa trapelare segreti su GitHub**  
+  Fonte: BleepingComputer, 24 Nov 2025, 14:32:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/>)
+
+- **L'Università di Harvard rivela una violazione dei dati che ha colpito ex studenti e donatori**  
+  Fonte: BleepingComputer, 24 Nov 2025, 14:06:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/harvard-university-discloses-data-breach-affecting-alumni-donors/>)
+
+- **Microsoft testa il precaricamento di Esplora file per prestazioni più veloci**  
+  Fonte: BleepingComputer, 24 Nov 2025, 13:08:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-preloading-for-faster-launches/>)
+
+- **La seconda ondata di Sha1-Hulud colpisce oltre 25.000 repository tramite il furto di credenziali di preinstallazione di npm**  
+  Fonte: The Hacker News, 24 Nov 2025, 13:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html>)
+
+- **⚡ Riepilogo settimanale: exploit Fortinet, Chrome 0-Day, malware BadIIS, DDoS record, violazione SaaS e altro**  
+  Fonte: The Hacker News, 24 Nov 2025, 12:32:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html>)
+
+- **La IACR annulla l'elezione a causa della perdita della chiave di decrittazione**  
+  Fonte: Schneier on Security, 24 Nov 2025, 12:03:46 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html>)
+
+- **Microsoft rimuoverà il supporto WINS dopo Windows Server 2025**  
+  Fonte: BleepingComputer, 24 Nov 2025, 11:47:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-wins-support-after-windows-server-2025/>)
+
+- **L'intelligenza artificiale cinese DeepSeek-R1 genera codice non sicuro quando viene menzionato il Tibet o gli uiguri**  
+  Fonte: The Hacker News, 24 Nov 2025, 11:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html>)
+
+- **Microsoft: il bug di Windows 11 24H2 blocca Explorer e il menu Start**  
+  Fonte: BleepingComputer, 24 Nov 2025, 10:41:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-bug-crashes-key-system-components/>)
+
+- **Il malware ShadowPad sfrutta attivamente la vulnerabilità WSUS per l'accesso completo al sistema**  
+  Fonte: The Hacker News, 24 Nov 2025, 07:18:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html>)
+
 - **Google consente la condivisione di file da Pixel a iPhone tramite Quick Share, AirDrop**  
   Fonte: BleepingComputer, 23 Nov 2025, 15:32:46 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/mobile/google-enables-pixel-to-iphone-file-sharing-via-quick-share-airdrop/>)
@@ -30,14 +94,6 @@
   Fonte: The Hacker News, 22 Nov 2025, 15:19:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html>)
 
-- **Cox Enterprises rivela la violazione dei dati di Oracle E-Business Suite**  
-  Fonte: BleepingComputer, 22 Nov 2025, 15:16:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/>)
-
-- **Mettere insieme il puzzle: un'indagine sul ransomware Qilin**  
-  Fonte: BleepingComputer, 22 Nov 2025, 13:45:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/>)
-
 - **Matrix Push C2 utilizza le notifiche del browser per attacchi di phishing multipiattaforma senza file**  
   Fonte: The Hacker News, 22 Nov 2025, 06:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html>)
@@ -46,41 +102,13 @@
   Fonte: The Hacker News, 22 Nov 2025, 06:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html>)
 
-- **CISA avverte che la falla RCE di Oracle Identity Manager viene sfruttata attivamente**  
-  Fonte: BleepingComputer, 21 Nov 2025, 23:50:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/>)
-
 - **Blog di Friday Squid: nuova sneaker “Squid”.**  
   Fonte: Schneier on Security, 21 Nov 2025, 22:08:09 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-new-squid-sneaker.html>)
 
-- **Nvidia conferma che gli aggiornamenti Windows di ottobre causano problemi di gioco**  
-  Fonte: BleepingComputer, 21 Nov 2025, 19:57:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/>)
-
 - **Altro su ricablare la democrazia**  
   Fonte: Schneier on Security, 21 Nov 2025, 19:07:34 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/11/71226.html>)
-
-- **Microsoft: l'aggiornamento fuori banda risolve il ciclo di installazione dell'hotpatch di Windows 11**  
-  Fonte: BleepingComputer, 21 Nov 2025, 18:02:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/>)
-
-- **Grafana avverte della vulnerabilità di spoofing amministrativo di gravità massima**  
-  Fonte: BleepingComputer, 21 Nov 2025, 17:58:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/>)
-
-- **CrowdStrike cattura gli insider che forniscono informazioni agli hacker**  
-  Fonte: BleepingComputer, 21 Nov 2025, 16:48:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/>)
-
-- **La FCC ripristina le regole di sicurezza informatica per le società di telecomunicazioni, nonostante i rischi di pirateria informatica**  
-  Fonte: BleepingComputer, 21 Nov 2025, 16:01:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fcc-rolls-back-cybersecurity-rules-for-telcos-despite-state-hacking-risks/>)
-
-- **Gli adolescenti di "Scattered Spider" si dichiarano non colpevoli di hacking nei trasporti nel Regno Unito**  
-  Fonte: BleepingComputer, 21 Nov 2025, 15:41:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/scattered-spider-teens-plead-not-guilty-to-uk-transport-hack/>)
 
 - **Grafana corregge il difetto SCIM CVSS 10.0 che consente la rappresentazione e l'escalation dei privilegi**  
   Fonte: The Hacker News, 21 Nov 2025, 15:40:00 UTC  
@@ -118,10 +146,6 @@
   Fonte: The Hacker News, 20 Nov 2025, 17:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html>)
 
-- **La nuova legge sulla sicurezza informatica del Regno Unito prende di mira le bande di ransomware e gli hacker sostenuti dallo Stato**  
-  Fonte: Graham Cluley, 20 Nov 2025, 17:13:53 UTC  
-  [Leggi](<https://www.fortra.com/blog/uks-new-cybersecurity-bill-takes-aim-ransomware-gangs-state-backed-hackers>)
-
 - **La botnet Tsundere si espande utilizzando esche da gioco e C2 basato su Ethereum su Windows**  
   Fonte: The Hacker News, 20 Nov 2025, 16:57:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html>)
@@ -130,7 +154,7 @@
   Fonte: The Hacker News, 20 Nov 2025, 12:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html>)
 
-- **Testi e siti web truffa USPS ed E-Z Pass**  
+- **Testi e siti Web truffa USPS ed E-Z Pass**  
   Fonte: Schneier on Security, 20 Nov 2025, 12:07:38 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/11/scam-usps-and-e-z-pass-texts-and-websites.html>)
 
@@ -141,14 +165,6 @@
 - **Il nuovo trojan Android Sturnus cattura silenziosamente le chat crittografate e dirotta i dispositivi**  
   Fonte: The Hacker News, 20 Nov 2025, 11:04:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html>)
-
-- **Condannato un lavoratore di un parco eolico per aver trasformato le turbine in una miniera segreta di criptovalute**  
-  Fonte: Graham Cluley, 20 Nov 2025, 10:31:15 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/wind-farm-worker-sentenced-after-turning-turbines-into-a-secret-crypto-mine>)
-
-- **Podcast Smashing Security n. 444: Siamo spiacenti.Aspetta, un'azienda lo ha davvero detto?**  
-  Fonte: Graham Cluley, 20 Nov 2025, 09:29:54 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-444/>)
 
 - **Hacker legati all'Iran hanno mappato i dati AIS della nave giorni prima del tentativo di attacco missilistico nel mondo reale**  
   Fonte: The Hacker News, 20 Nov 2025, 07:35:00 UTC  
@@ -202,10 +218,6 @@
   Fonte: The Hacker News, 18 Nov 2025, 15:56:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html>)
 
-- **La correzione AI n. 77: Genome LLM crea un super-virus e l'IA dovrebbe decidere se vivi?**  
-  Fonte: Graham Cluley, 18 Nov 2025, 15:35:13 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-77/>)
-
 - **Scopri come le aziende leader proteggono i carichi di lavoro e l'infrastruttura cloud su larga scala**  
   Fonte: The Hacker News, 18 Nov 2025, 15:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html>)
@@ -230,37 +242,9 @@
   Fonte: The Hacker News, 18 Nov 2025, 10:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html>)
 
-- **Un miracolo: un'azienda si scusa dopo un attacco informatico e dona il riscatto alla ricerca sulla sicurezza informatica**  
-  Fonte: Graham Cluley, 18 Nov 2025, 09:54:01 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/a-miracle-a-company-says-sorry-after-a-cyber-attack-and-donates-the-ransom-to-cybersecurity-research>)
-
 - **Microsoft mitiga l'attacco DDoS record da 15,72 Tbps guidato dalla botnet AISURU**  
   Fonte: The Hacker News, 18 Nov 2025, 08:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html>)
 
-- **Google pubblica una correzione di sicurezza per la vulnerabilità zero-day di Chrome V8 sfruttata attivamente**  
-  Fonte: The Hacker News, 18 Nov 2025, 04:44:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html>)
 
-- **La nuova campagna EVALUSION ClickFix offre Amatera Stealer e NetSupport RAT**  
-  Fonte: The Hacker News, 17 Nov 2025, 16:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html>)
-
-- **⚡ Riepilogo settimanale: Fortinet sfruttato, attacchi informatici cinesi, PhaaS Empire Falls e altro**  
-  Fonte: The Hacker News, 17 Nov 2025, 12:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html>)
-
-- **Più Prompt e GTFO**  
-  Fonte: Schneier on Security, 17 Nov 2025, 12:05:07 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/more-promptgtfo.html>)
-
-- **5 motivi per cui gli aggressori effettuano phishing su LinkedIn**  
-  Fonte: The Hacker News, 17 Nov 2025, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html>)
-
-- **Dragon Breath utilizza RONINGLOADER per disabilitare gli strumenti di sicurezza e distribuire Gh0st RAT**  
-  Fonte: The Hacker News, 17 Nov 2025, 11:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-11-24 06:20:41 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-25 06:20:02 UTC -->
