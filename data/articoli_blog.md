@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Podcast di Smashing Security n. 445: L'hack che ha riportato in vita l'apocalisse zombi**  
+  Fonte: Graham Cluley, 27 Nov 2025, 00:34:24 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-445/>)
+
+- **Il nuovo malware botnet ShadowV2 ha utilizzato l'interruzione di AWS come opportunità di test**  
+  Fonte: BleepingComputer, 26 Nov 2025, 22:24:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/>)
+
+- **Offerta Black Friday NordVPN: sblocca il 77% di sconto sui piani VPN nel 2025**  
+  Fonte: BleepingComputer, 26 Nov 2025, 20:00:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/>)
+
+- **La popolare libreria Forge viene corretta per il difetto di bypass della verifica della firma**  
+  Fonte: BleepingComputer, 26 Nov 2025, 19:32:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/popular-forge-library-gets-fix-for-signature-verification-bypass-flaw/>)
+
+- **Comcast pagherà una multa di 1,5 milioni di dollari per violazione del fornitore che ha colpito 270.000 clienti**  
+  Fonte: BleepingComputer, 26 Nov 2025, 18:30:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/>)
+
+- **Shai-Hulud v2 si diffonde da npm a Maven, mentre la campagna svela migliaia di segreti**  
+  Fonte: The Hacker News, 26 Nov 2025, 18:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html>)
+
+- **I sistemi IT di diversi comuni di Londra sono stati interrotti da un attacco informatico**  
+  Fonte: BleepingComputer, 26 Nov 2025, 17:26:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/multiple-london-councils-it-systems-disrupted-by-cyberattack/>)
+
+- **Incontra Rey, l'amministratore di "Scattered Lapsus$ Hunters"**  
+  Fonte: Krebs on Security, 26 Nov 2025, 17:22:36 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/>)
+
+- **Le violazioni della sicurezza dell’intelligenza artificiale ombra colpiranno il 40% di tutte le aziende entro il 2030, avverte Gartner**  
+  Fonte: Graham Cluley, 26 Nov 2025, 14:48:30 UTC  
+  [Leggi](<https://www.fortra.com/blog/shadow-ai-security-breaches-will-hit-40-companies-2030-warns-gartner>)
+
+- **Microsoft: le chiavi di sicurezza potrebbero richiedere il PIN dopo gli aggiornamenti recenti**  
+  Fonte: BleepingComputer, 26 Nov 2025, 14:43:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fido2-security-keys-may-prompt-for-pin-after-recent-windows-updates/>)
+
+- **Il ransomware Qilin trasforma la violazione dell'MSP sudcoreano in un furto di dati che coinvolge 28 vittime**  
+  Fonte: The Hacker News, 26 Nov 2025, 14:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html>)
+
+- **Microsoft proteggerà gli accessi tramite ID Entra dagli attacchi di script injection**  
+  Fonte: BleepingComputer, 26 Nov 2025, 13:26:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/>)
+
+- **Huawei e la sorveglianza cinese**  
+  Fonte: Schneier on Security, 26 Nov 2025, 12:05:14 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/11/huawei-and-chinese-surveillance.html>)
+
+- **Quando il tuo rilevamento di sicurezza da 2 milioni di dollari fallisce: il tuo SOC può salvarti?**  
+  Fonte: The Hacker News, 26 Nov 2025, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html>)
+
+- **ASUS avverte di un nuovo difetto critico di bypass dell'autenticazione nei router AiCloud**  
+  Fonte: BleepingComputer, 26 Nov 2025, 11:41:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/>)
+
+- **Webinar: impara a individuare i rischi e ad applicare patch in modo sicuro con gli strumenti gestiti dalla community**  
+  Fonte: The Hacker News, 26 Nov 2025, 11:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html>)
+
+- **Estensione di Chrome sorpresa a iniettare commissioni di trasferimento Solana nascoste negli swap Raydium**  
+  Fonte: The Hacker News, 26 Nov 2025, 11:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html>)
+
+- **Passwork 7: gestore di password e segreti self-hosted per team aziendali**  
+  Fonte: BleepingComputer, 26 Nov 2025, 10:12:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/passwork-7-self-hosted-password-and-secrets-manager-for-enterprise-teams/>)
+
+- **RomCom utilizza attacchi di aggiornamento falsi SocGholish per diffondere malware Mythic Agent**  
+  Fonte: The Hacker News, 26 Nov 2025, 08:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html>)
+
 - **L'FBI segnala 262 milioni di dollari in frodi ATO mentre i ricercatori citano il crescente phishing basato sull'intelligenza artificiale e le truffe durante le festività**  
   Fonte: The Hacker News, 26 Nov 2025, 04:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html>)
@@ -18,37 +94,17 @@
   Fonte: BleepingComputer, 25 Nov 2025, 17:23:23 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-cybercriminals-stole-262-million-by-impersonating-bank-support-teams-since-january/>)
 
-- **Tor passa al nuovo algoritmo di crittografia del relè Counter Galois Onion**  
-  Fonte: BleepingComputer, 25 Nov 2025, 17:09:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/>)
-
 - **Anni di perdite di JSONFormatter e CodeBeautify espongono migliaia di password e chiavi API**  
   Fonte: The Hacker News, 25 Nov 2025, 16:49:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html>)
-
-- **Microsoft: l'interruzione di Exchange Online blocca l'accesso alle cassette postali di Outlook**  
-  Fonte: BleepingComputer, 25 Nov 2025, 16:18:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-outlook-mailboxes/>)
 
 - **La correzione dell'intelligenza artificiale n. 78: la grande bolla dell'intelligenza artificiale e la nonna robot nel cloud**  
   Fonte: Graham Cluley, 25 Nov 2025, 15:30:05 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-78/>)
 
-- **Microsoft sta accelerando il client desktop Teams per Windows**  
-  Fonte: BleepingComputer, 25 Nov 2025, 14:24:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-boost-teams-performance-with-new-call-handler/>)
-
 - **JackFix utilizza falsi popup di Windows Update su siti per adulti per fornire più stealer**  
   Fonte: The Hacker News, 25 Nov 2025, 14:18:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html>)
-
-- **Approcci di fine anno: come massimizzare la spesa informatica**  
-  Fonte: BleepingComputer, 25 Nov 2025, 14:03:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/year-end-approaches-how-to-maximize-your-cyber-spend/>)
-
-- **Gli abbellitori di codice espongono credenziali di banche, governo, organizzazioni tecnologiche**  
-  Fonte: BleepingComputer, 25 Nov 2025, 12:01:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/code-beautifiers-expose-credentials-from-banks-govt-tech-orgs/>)
 
 - **Quattro modi in cui l’intelligenza artificiale viene utilizzata per rafforzare le democrazie in tutto il mondo**  
   Fonte: Schneier on Security, 25 Nov 2025, 12:00:50 UTC  
@@ -66,37 +122,17 @@
   Fonte: The Hacker News, 25 Nov 2025, 11:28:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html>)
 
-- **Il Dartmouth College conferma la violazione dei dati dopo l'attacco estorsivo di Clop**  
-  Fonte: BleepingComputer, 25 Nov 2025, 11:12:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dartmouth-college-confirms-data-breach-after-clop-extortion-attack/>)
-
 - **CISA mette in guardia da campagne spyware attive che dirottano segnali di alto valore e utenti WhatsApp**  
   Fonte: The Hacker News, 25 Nov 2025, 06:42:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html>)
-
-- **I file modello dannosi di Blender forniscono malware di furto di informazioni StealC**  
-  Fonte: BleepingComputer, 24 Nov 2025, 22:00:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/>)
-
-- **L'attacco ClickFix utilizza la schermata falsa di Windows Update per inviare malware**  
-  Fonte: BleepingComputer, 24 Nov 2025, 20:42:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/>)
 
 - **Il tuo Android TV Streaming Box fa parte di una botnet?**  
   Fonte: Krebs on Security, 24 Nov 2025, 18:44:52 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/>)
 
-- **La violazione del gigante dei servizi finanziari immobiliari SitusAMC espone i dati dei clienti**  
-  Fonte: BleepingComputer, 24 Nov 2025, 17:36:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/>)
-
 - **Nuovi difetti in bit espongono il cloud a RCE e intrusioni infrastrutturali nascoste**  
   Fonte: The Hacker News, 24 Nov 2025, 15:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html>)
-
-- **SCCM e WSUS in un mondo ibrido: perché è il momento delle patch native per il cloud**  
-  Fonte: BleepingComputer, 24 Nov 2025, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/>)
 
 - **La seconda ondata di Sha1-Hulud colpisce oltre 25.000 repository tramite il furto di credenziali di preinstallazione di npm**  
   Fonte: The Hacker News, 24 Nov 2025, 13:03:00 UTC  
@@ -218,41 +254,5 @@
   Fonte: The Hacker News, 20 Nov 2025, 07:35:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html>)
 
-- **Il malware TamperedChef si diffonde tramite falsi installatori di software nella campagna globale in corso**  
-  Fonte: The Hacker News, 20 Nov 2025, 04:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html>)
 
-- **NHS avverte dell'exploit PoC per la vulnerabilità RCE basata su collegamento simbolico 7-Zip**  
-  Fonte: The Hacker News, 19 Nov 2025, 16:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html>)
-
-- **Il worm WhatsApp basato su Python diffonde Eternidade Stealer sui dispositivi brasiliani**  
-  Fonte: The Hacker News, 19 Nov 2025, 15:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html>)
-
-- **L'interruzione di Cloudflare può essere una tabella di marcia per la sicurezza**  
-  Fonte: Krebs on Security, 19 Nov 2025, 14:07:03 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/>)
-
-- **WrtHug sfrutta sei difetti ASUS WRT per dirottare decine di migliaia di router EoL in tutto il mondo**  
-  Fonte: The Hacker News, 19 Nov 2025, 13:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html>)
-
-- **Restrizioni legali sulla divulgazione delle vulnerabilità**  
-  Fonte: Schneier on Security, 19 Nov 2025, 12:04:50 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html>)
-
-- **Contenimento delle applicazioni: come utilizzare il ringfencing per prevenire l'arma del software attendibile**  
-  Fonte: The Hacker News, 19 Nov 2025, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/application-containment-how-to-use.html>)
-
-- **EdgeStepper Implant reindirizza le query DNS per distribuire malware tramite aggiornamenti software compromessi**  
-  Fonte: The Hacker News, 19 Nov 2025, 10:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html>)
-
-- **Gli agenti AI di ServiceNow possono essere indotti ad agire l'uno contro l'altro tramite prompt di secondo ordine**  
-  Fonte: The Hacker News, 19 Nov 2025, 09:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-11-26 06:19:38 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-27 06:19:25 UTC -->
