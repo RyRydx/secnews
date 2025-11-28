@@ -2,6 +2,34 @@
 
 ## Ultimi 7 giorni
 
+- **Bloody Wolf espande gli attacchi RAT NetSupport basati su Java in Kirghizistan e Uzbekistan**  
+  Fonte: The Hacker News, 27 Nov 2025, 18:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html>)
+
+- **Microsoft bloccherà gli script non autorizzati negli accessi Entra ID con l'aggiornamento CSP 2026**  
+  Fonte: The Hacker News, 27 Nov 2025, 15:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html>)
+
+- **Webinar: impara a individuare i rischi e ad applicare patch in modo sicuro con gli strumenti gestiti dalla community**  
+  Fonte: The Hacker News, 27 Nov 2025, 14:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html>)
+
+- **OpenAI rivela la violazione dei dati dei clienti API tramite l'hacking del fornitore Mixpanel**  
+  Fonte: BleepingComputer, 27 Nov 2025, 11:27:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/>)
+
+- **Bollettino del ThreatsDay: malware AI, difetti dei bot vocali, riciclaggio di criptovalute, attacchi IoT e altre 20 storie**  
+  Fonte: The Hacker News, 27 Nov 2025, 10:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html>)
+
+- **Gli attacchi spyware sostenuti dallo Stato stanno prendendo di mira gli utenti di Signal e WhatsApp, avverte la CISA**  
+  Fonte: Graham Cluley, 27 Nov 2025, 09:28:35 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/state-backed-spyware-attacks-are-targeting-signal-and-whatsapp-users-cisa-warns>)
+
+- **Gainsight espande l'elenco dei clienti interessati in seguito all'avviso di sicurezza di Salesforce**  
+  Fonte: The Hacker News, 27 Nov 2025, 07:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html>)
+
 - **Podcast di Smashing Security n. 445: L'hack che ha riportato in vita l'apocalisse zombi**  
   Fonte: Graham Cluley, 27 Nov 2025, 00:34:24 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-445/>)
@@ -22,7 +50,7 @@
   Fonte: BleepingComputer, 26 Nov 2025, 18:30:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/>)
 
-- **Shai-Hulud v2 si diffonde da npm a Maven, mentre la campagna svela migliaia di segreti**  
+- **Shai-Hulud v2 si diffonde da npm a Maven, mentre la campagna espone migliaia di segreti**  
   Fonte: The Hacker News, 26 Nov 2025, 18:08:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html>)
 
@@ -62,10 +90,6 @@
   Fonte: BleepingComputer, 26 Nov 2025, 11:41:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/>)
 
-- **Webinar: impara a individuare i rischi e ad applicare patch in modo sicuro con gli strumenti gestiti dalla community**  
-  Fonte: The Hacker News, 26 Nov 2025, 11:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html>)
-
 - **Estensione di Chrome sorpresa a iniettare commissioni di trasferimento Solana nascoste negli swap Raydium**  
   Fonte: The Hacker News, 26 Nov 2025, 11:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html>)
@@ -90,15 +114,11 @@
   Fonte: BleepingComputer, 25 Nov 2025, 19:14:06 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/the-black-friday-2025-cybersecurity-it-vpn-and-antivirus-deals/>)
 
-- **FBI: i criminali informatici hanno rubato 262 milioni di dollari fingendosi team di supporto bancario**  
-  Fonte: BleepingComputer, 25 Nov 2025, 17:23:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-cybercriminals-stole-262-million-by-impersonating-bank-support-teams-since-january/>)
-
 - **Anni di perdite di JSONFormatter e CodeBeautify espongono migliaia di password e chiavi API**  
   Fonte: The Hacker News, 25 Nov 2025, 16:49:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html>)
 
-- **La correzione dell'intelligenza artificiale n. 78: la grande bolla dell'intelligenza artificiale e la nonna robot nel cloud**  
+- **La soluzione AI n. 78: la grande bolla dell'intelligenza artificiale e la nonna robot nel cloud**  
   Fonte: Graham Cluley, 25 Nov 2025, 15:30:05 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-78/>)
 
@@ -206,53 +226,5 @@
   Fonte: The Hacker News, 21 Nov 2025, 08:05:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html>)
 
-- **Salesforce segnala l'accesso non autorizzato ai dati tramite l'attività OAuth collegata a Gainsight**  
-  Fonte: The Hacker News, 21 Nov 2025, 05:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html>)
 
-- **Mozilla dice che finalmente è finita con Onerep a due facce**  
-  Fonte: Krebs on Security, 20 Nov 2025, 19:06:51 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/>)
-
-- **ShadowRay 2.0 sfrutta Ray Flaw senza patch per creare botnet di criptomining GPU autodiffondenti**  
-  Fonte: The Hacker News, 20 Nov 2025, 17:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html>)
-
-- **La nuova legge sulla sicurezza informatica del Regno Unito prende di mira le bande di ransomware e gli hacker sostenuti dallo Stato**  
-  Fonte: Graham Cluley, 20 Nov 2025, 17:13:53 UTC  
-  [Leggi](<https://www.fortra.com/blog/uks-new-cybersecurity-bill-takes-aim-ransomware-gangs-state-backed-hackers>)
-
-- **La botnet Tsundere si espande utilizzando esche da gioco e C2 basato su Ethereum su Windows**  
-  Fonte: The Hacker News, 20 Nov 2025, 16:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html>)
-
-- **Bollettino del ThreatsDay: giorni 0, spie di LinkedIn, crimini legati alle criptovalute, difetti dell'IoT e nuove ondate di malware**  
-  Fonte: The Hacker News, 20 Nov 2025, 12:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html>)
-
-- **Testi e siti Web truffa USPS ed E-Z Pass**  
-  Fonte: Schneier on Security, 20 Nov 2025, 12:07:38 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/scam-usps-and-e-z-pass-texts-and-websites.html>)
-
-- **CTM360 espone una campagna globale di dirottamento di WhatsApp: HackOnChat**  
-  Fonte: The Hacker News, 20 Nov 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html>)
-
-- **Il nuovo trojan Android Sturnus cattura silenziosamente le chat crittografate e dirotta i dispositivi**  
-  Fonte: The Hacker News, 20 Nov 2025, 11:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html>)
-
-- **Condannato un lavoratore di un parco eolico per aver trasformato le turbine in una miniera segreta di criptovalute**  
-  Fonte: Graham Cluley, 20 Nov 2025, 10:31:15 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/wind-farm-worker-sentenced-after-turning-turbines-into-a-secret-crypto-mine>)
-
-- **Podcast Smashing Security n. 444: Siamo spiacenti.Aspetta, un'azienda lo ha davvero detto?**  
-  Fonte: Graham Cluley, 20 Nov 2025, 09:29:54 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-444/>)
-
-- **Hacker legati all'Iran hanno mappato i dati AIS della nave giorni prima del tentativo di attacco missilistico nel mondo reale**  
-  Fonte: The Hacker News, 20 Nov 2025, 07:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-11-27 06:19:25 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-28 06:19:52 UTC -->
