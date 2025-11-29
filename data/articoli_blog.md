@@ -2,13 +2,61 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: calamari volanti al neon trovati su una spiaggia israeliana**  
+  Fonte: Schneier on Security, 28 Nov 2025, 20:56:20 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html>)
+
+- **L'uomo dietro gli attacchi Wi-Fi Evil Twin in volo viene condannato a 7 anni di prigione**  
+  Fonte: BleepingComputer, 28 Nov 2025, 18:25:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/>)
+
+- **Microsoft: gli aggiornamenti di Windows rendono invisibile l'opzione di accesso tramite password**  
+  Fonte: BleepingComputer, 28 Nov 2025, 18:07:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/>)
+
+- **I repository pubblici di GitLab hanno esposto più di 17.000 segreti**  
+  Fonte: BleepingComputer, 28 Nov 2025, 17:43:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/>)
+
+- **Gli script legacy Python Bootstrap creano rischi di acquisizione del dominio in più pacchetti PyPI**  
+  Fonte: The Hacker News, 28 Nov 2025, 16:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html>)
+
+- **Gli hacker nordcoreani distribuiscono pacchetti da 197 npm per diffondere il malware OtterCookie aggiornato**  
+  Fonte: The Hacker News, 28 Nov 2025, 16:18:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html>)
+
+- **La Federcalcio francese rivela una violazione dei dati dopo un attacco informatico**  
+  Fonte: BleepingComputer, 28 Nov 2025, 16:12:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/>)
+
+- **Pronta iniezione attraverso la poesia**  
+  Fonte: Schneier on Security, 28 Nov 2025, 14:54:38 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/11/prompt-injection-through-poetry.html>)
+
+- **Perché le organizzazioni si rivolgono a RPAM**  
+  Fonte: The Hacker News, 28 Nov 2025, 11:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html>)
+
+- **L'accesso ospite di MS Teams può rimuovere la protezione Defender quando gli utenti si uniscono a tenant esterni**  
+  Fonte: The Hacker News, 28 Nov 2025, 08:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html>)
+
 - **Bloody Wolf espande gli attacchi RAT NetSupport basati su Java in Kirghizistan e Uzbekistan**  
   Fonte: The Hacker News, 27 Nov 2025, 18:13:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html>)
 
+- **Gli LLM dannosi forniscono agli hacker inesperti strumenti avanzati**  
+  Fonte: BleepingComputer, 27 Nov 2025, 17:15:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/>)
+
 - **Microsoft bloccherà gli script non autorizzati negli accessi Entra ID con l'aggiornamento CSP 2026**  
   Fonte: The Hacker News, 27 Nov 2025, 15:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html>)
+
+- **GreyNoise lancia uno scanner gratuito per verificare se fai parte di una botnet**  
+  Fonte: BleepingComputer, 27 Nov 2025, 15:11:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/>)
 
 - **Webinar: impara a individuare i rischi e ad applicare patch in modo sicuro con gli strumenti gestiti dalla community**  
   Fonte: The Hacker News, 27 Nov 2025, 14:59:00 UTC  
@@ -46,17 +94,9 @@
   Fonte: BleepingComputer, 26 Nov 2025, 19:32:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/popular-forge-library-gets-fix-for-signature-verification-bypass-flaw/>)
 
-- **Comcast pagherà una multa di 1,5 milioni di dollari per violazione del fornitore che ha colpito 270.000 clienti**  
-  Fonte: BleepingComputer, 26 Nov 2025, 18:30:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/>)
-
 - **Shai-Hulud v2 si diffonde da npm a Maven, mentre la campagna espone migliaia di segreti**  
   Fonte: The Hacker News, 26 Nov 2025, 18:08:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html>)
-
-- **I sistemi IT di diversi comuni di Londra sono stati interrotti da un attacco informatico**  
-  Fonte: BleepingComputer, 26 Nov 2025, 17:26:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/multiple-london-councils-it-systems-disrupted-by-cyberattack/>)
 
 - **Incontra Rey, l'amministratore di "Scattered Lapsus$ Hunters"**  
   Fonte: Krebs on Security, 26 Nov 2025, 17:22:36 UTC  
@@ -66,17 +106,9 @@
   Fonte: Graham Cluley, 26 Nov 2025, 14:48:30 UTC  
   [Leggi](<https://www.fortra.com/blog/shadow-ai-security-breaches-will-hit-40-companies-2030-warns-gartner>)
 
-- **Microsoft: le chiavi di sicurezza potrebbero richiedere il PIN dopo gli aggiornamenti recenti**  
-  Fonte: BleepingComputer, 26 Nov 2025, 14:43:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fido2-security-keys-may-prompt-for-pin-after-recent-windows-updates/>)
-
 - **Il ransomware Qilin trasforma la violazione dell'MSP sudcoreano in un furto di dati che coinvolge 28 vittime**  
   Fonte: The Hacker News, 26 Nov 2025, 14:31:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html>)
-
-- **Microsoft proteggerà gli accessi tramite ID Entra dagli attacchi di script injection**  
-  Fonte: BleepingComputer, 26 Nov 2025, 13:26:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/>)
 
 - **Huawei e la sorveglianza cinese**  
   Fonte: Schneier on Security, 26 Nov 2025, 12:05:14 UTC  
@@ -86,17 +118,9 @@
   Fonte: The Hacker News, 26 Nov 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html>)
 
-- **ASUS avverte di un nuovo difetto critico di bypass dell'autenticazione nei router AiCloud**  
-  Fonte: BleepingComputer, 26 Nov 2025, 11:41:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/>)
-
 - **Estensione di Chrome sorpresa a iniettare commissioni di trasferimento Solana nascoste negli swap Raydium**  
   Fonte: The Hacker News, 26 Nov 2025, 11:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html>)
-
-- **Passwork 7: gestore di password e segreti self-hosted per team aziendali**  
-  Fonte: BleepingComputer, 26 Nov 2025, 10:12:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/passwork-7-self-hosted-password-and-secrets-manager-for-enterprise-teams/>)
 
 - **RomCom utilizza attacchi di aggiornamento falsi SocGholish per diffondere malware Mythic Agent**  
   Fonte: The Hacker News, 26 Nov 2025, 08:28:00 UTC  
@@ -105,14 +129,6 @@
 - **L'FBI segnala 262 milioni di dollari in frodi ATO mentre i ricercatori citano il crescente phishing basato sull'intelligenza artificiale e le truffe durante le festività**  
   Fonte: The Hacker News, 26 Nov 2025, 04:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html>)
-
-- **L'attacco informatico OnSolve CodeRED interrompe i sistemi di allarme di emergenza a livello nazionale**  
-  Fonte: BleepingComputer, 25 Nov 2025, 21:48:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/>)
-
-- **Offerte per sicurezza informatica, IT, VPN e antivirus del Black Friday 2025**  
-  Fonte: BleepingComputer, 25 Nov 2025, 19:14:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-black-friday-2025-cybersecurity-it-vpn-and-antivirus-deals/>)
 
 - **Anni di perdite di JSONFormatter e CodeBeautify espongono migliaia di password e chiavi API**  
   Fonte: The Hacker News, 25 Nov 2025, 16:49:00 UTC  
@@ -150,7 +166,7 @@
   Fonte: Krebs on Security, 24 Nov 2025, 18:44:52 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/>)
 
-- **Nuovi difetti in bit espongono il cloud a RCE e intrusioni infrastrutturali nascoste**  
+- **Nuovi difetti di bit fluidi espongono il cloud a RCE e intrusioni infrastrutturali nascoste**  
   Fonte: The Hacker News, 24 Nov 2025, 15:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html>)
 
@@ -174,7 +190,7 @@
   Fonte: Graham Cluley, 24 Nov 2025, 08:41:44 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/operation-endgame-disrupts-rhadamanthys-information-stealing-malware>)
 
-- **Il malware ShadowPad sfrutta attivamente la vulnerabilità WSUS per l'accesso completo al sistema**  
+- **Il malware ShadowPad sfrutta attivamente la vulnerabilità di WSUS per l'accesso completo al sistema**  
   Fonte: The Hacker News, 24 Nov 2025, 07:18:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html>)
 
@@ -194,37 +210,5 @@
   Fonte: The Hacker News, 22 Nov 2025, 06:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html>)
 
-- **Blog di Friday Squid: nuova sneaker “Squid”.**  
-  Fonte: Schneier on Security, 21 Nov 2025, 22:08:09 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-new-squid-sneaker.html>)
 
-- **Altro su ricablare la democrazia**  
-  Fonte: Schneier on Security, 21 Nov 2025, 19:07:34 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/71226.html>)
-
-- **Grafana corregge il difetto SCIM CVSS 10.0 che consente la rappresentazione e l'escalation dei privilegi**  
-  Fonte: The Hacker News, 21 Nov 2025, 15:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html>)
-
-- **Google offre la compatibilità AirDrop alla condivisione rapida di Android utilizzando una sicurezza invecchiata**  
-  Fonte: The Hacker News, 21 Nov 2025, 13:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html>)
-
-- **L'intelligenza artificiale come cyberattaccante**  
-  Fonte: Schneier on Security, 21 Nov 2025, 12:01:36 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html>)
-
-- **Perché gli amministratori IT scelgono Samsung per la sicurezza mobile**  
-  Fonte: The Hacker News, 21 Nov 2025, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html>)
-
-- **APT24 impiega BADAUDIO nello spionaggio che dura da anni e colpisce Taiwan e oltre 1.000 domini**  
-  Fonte: The Hacker News, 21 Nov 2025, 10:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html>)
-
-- **La SEC abbandona il caso SolarWinds dopo anni di controlli ad alto rischio sulla sicurezza informatica**  
-  Fonte: The Hacker News, 21 Nov 2025, 08:05:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-11-28 06:19:52 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-29 06:17:48 UTC -->
