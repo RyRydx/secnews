@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **Il gigante giapponese della birra Asahi afferma che la violazione dei dati ha colpito 1,5 milioni di persone**  
+  Fonte: BleepingComputer, 29 Nov 2025, 15:17:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/>)
+
+- **Una perdita conferma che OpenAI sta preparando annunci su ChatGPT per il lancio pubblico**  
+  Fonte: BleepingComputer, 29 Nov 2025, 11:31:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/>)
+
 - **Blog sui calamari del venerdì: calamari volanti al neon trovati su una spiaggia israeliana**  
   Fonte: Schneier on Security, 28 Nov 2025, 20:56:20 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html>)
@@ -90,10 +98,6 @@
   Fonte: BleepingComputer, 26 Nov 2025, 20:00:37 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/>)
 
-- **La popolare libreria Forge viene corretta per il difetto di bypass della verifica della firma**  
-  Fonte: BleepingComputer, 26 Nov 2025, 19:32:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/popular-forge-library-gets-fix-for-signature-verification-bypass-flaw/>)
-
 - **Shai-Hulud v2 si diffonde da npm a Maven, mentre la campagna espone migliaia di segreti**  
   Fonte: The Hacker News, 26 Nov 2025, 18:08:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html>)
@@ -166,7 +170,7 @@
   Fonte: Krebs on Security, 24 Nov 2025, 18:44:52 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/>)
 
-- **Nuovi difetti di bit fluidi espongono il cloud a RCE e intrusioni infrastrutturali nascoste**  
+- **Nuovi difetti in bit espongono il cloud a RCE e intrusioni infrastrutturali nascoste**  
   Fonte: The Hacker News, 24 Nov 2025, 15:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html>)
 
@@ -190,25 +194,9 @@
   Fonte: Graham Cluley, 24 Nov 2025, 08:41:44 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/operation-endgame-disrupts-rhadamanthys-information-stealing-malware>)
 
-- **Il malware ShadowPad sfrutta attivamente la vulnerabilità di WSUS per l'accesso completo al sistema**  
+- **Il malware ShadowPad sfrutta attivamente la vulnerabilità WSUS per l'accesso completo al sistema**  
   Fonte: The Hacker News, 24 Nov 2025, 07:18:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html>)
 
-- **Aggiornamento settimanale 479**  
-  Fonte: Troy Hunt, 23 Nov 2025, 04:44:21 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-479/>)
 
-- **APT31, legato alla Cina, lancia attacchi informatici furtivi contro l’IT russo utilizzando servizi cloud**  
-  Fonte: The Hacker News, 22 Nov 2025, 15:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html>)
-
-- **Matrix Push C2 utilizza le notifiche del browser per attacchi di phishing multipiattaforma senza file**  
-  Fonte: The Hacker News, 22 Nov 2025, 06:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html>)
-
-- **CISA mette in guardia contro una vulnerabilità critica zero-day di Oracle Identity Manager attivamente sfruttata**  
-  Fonte: The Hacker News, 22 Nov 2025, 06:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-11-29 06:17:48 UTC -->
+<!-- Ultimo aggiornamento: 2025-11-30 06:17:46 UTC -->
