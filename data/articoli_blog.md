@@ -2,11 +2,23 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 480**  
+  Fonte: Troy Hunt, 01 Dec 2025, 06:11:03 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-480/>)
+
+- **Tomiris passa agli impianti di servizio pubblico per il C2 più furtivo negli attacchi contro obiettivi governativi**  
+  Fonte: The Hacker News, 01 Dec 2025, 05:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html>)
+
+- **CISA aggiunge a KEV il bug XSS CVE-2021-26829 attivamente sfruttato in OpenPLC ScadaBR**  
+  Fonte: The Hacker News, 30 Nov 2025, 09:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html>)
+
 - **Il gigante giapponese della birra Asahi afferma che la violazione dei dati ha colpito 1,5 milioni di persone**  
   Fonte: BleepingComputer, 29 Nov 2025, 15:17:23 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/>)
 
-- **Una perdita conferma che OpenAI sta preparando annunci su ChatGPT per il lancio pubblico**  
+- **La perdita conferma che OpenAI sta preparando annunci su ChatGPT per il lancio pubblico**  
   Fonte: BleepingComputer, 29 Nov 2025, 11:31:22 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/>)
 
@@ -86,7 +98,7 @@
   Fonte: The Hacker News, 27 Nov 2025, 07:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html>)
 
-- **Podcast di Smashing Security n. 445: L'hack che ha riportato in vita l'apocalisse zombi**  
+- **Podcast di Smashing Security n. 445: L'hack che ha riportato in vita l'apocalisse zombie**  
   Fonte: Graham Cluley, 27 Nov 2025, 00:34:24 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-445/>)
 
@@ -98,7 +110,7 @@
   Fonte: BleepingComputer, 26 Nov 2025, 20:00:37 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/>)
 
-- **Shai-Hulud v2 si diffonde da npm a Maven, mentre la campagna espone migliaia di segreti**  
+- **Shai-Hulud v2 si diffonde da npm a Maven, mentre la campagna svela migliaia di segreti**  
   Fonte: The Hacker News, 26 Nov 2025, 18:08:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html>)
 
@@ -122,7 +134,7 @@
   Fonte: The Hacker News, 26 Nov 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html>)
 
-- **Estensione di Chrome sorpresa a iniettare commissioni di trasferimento Solana nascoste negli swap Raydium**  
+- **Estensione di Chrome sorpresa a iniettare commissioni di trasferimento Solana nascoste negli swap di Raydium**  
   Fonte: The Hacker News, 26 Nov 2025, 11:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html>)
 
@@ -166,11 +178,11 @@
   Fonte: The Hacker News, 25 Nov 2025, 06:42:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html>)
 
-- **Il tuo Android TV Streaming Box fa parte di una botnet?**  
+- **Il tuo streaming box Android TV fa parte di una botnet?**  
   Fonte: Krebs on Security, 24 Nov 2025, 18:44:52 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/>)
 
-- **Nuovi difetti in bit espongono il cloud a RCE e intrusioni infrastrutturali nascoste**  
+- **Nuovi difetti di bit fluidi espongono il cloud a RCE e intrusioni infrastrutturali nascoste**  
   Fonte: The Hacker News, 24 Nov 2025, 15:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html>)
 
@@ -194,9 +206,9 @@
   Fonte: Graham Cluley, 24 Nov 2025, 08:41:44 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/operation-endgame-disrupts-rhadamanthys-information-stealing-malware>)
 
-- **Il malware ShadowPad sfrutta attivamente la vulnerabilità WSUS per l'accesso completo al sistema**  
+- **Il malware ShadowPad sfrutta attivamente la vulnerabilità di WSUS per l'accesso completo al sistema**  
   Fonte: The Hacker News, 24 Nov 2025, 07:18:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html>)
 
 
-<!-- Ultimo aggiornamento: 2025-11-30 06:17:46 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-01 06:21:10 UTC -->
