@@ -2,37 +2,101 @@
 
 ## Ultimi 7 giorni
 
-- **Il malware Glassworm ritorna con la terza ondata di pacchetti VS Code dannosi**  
-  Fonte: BleepingComputer, 01 Dec 2025, 21:08:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/>)
+- **La correzione dell'intelligenza artificiale n. 79: Gemini 3, jailbreak della poesia e abbiamo davvero bisogno di robot sicuri?**  
+  Fonte: Graham Cluley, 02 Dec 2025, 23:42:22 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-79/>)
 
-- **L'app YouTube SmartTube per Android TV è stata violata per inviare aggiornamenti dannosi**  
-  Fonte: BleepingComputer, 01 Dec 2025, 18:56:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/>)
+- **La Corea arresta sospetti che vendono video intimi da telecamere IP hackerate**  
+  Fonte: BleepingComputer, 02 Dec 2025, 21:42:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/korea-arrests-suspects-selling-intimate-videos-from-hacked-ip-cameras/>)
 
-- **L'India ordina ai produttori di telefoni di preinstallare l'app Sanchar Saathi per contrastare le frodi nel settore delle telecomunicazioni**  
+- **La transazione FTC richiede che Illuminate elimini i dati degli studenti non necessari**  
+  Fonte: BleepingComputer, 02 Dec 2025, 20:50:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ftc-settlement-requires-illuminate-to-delete-unnecessary-student-data/>)
+
+- **ChatGPT è inattivo in tutto il mondo, le conversazioni sono scomparse per gli utenti**  
+  Fonte: BleepingComputer, 02 Dec 2025, 19:52:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-dissapeared-for-users/>)
+
+- **L'attacco malware Shai-Hulud 2.0 NPM ha scoperto fino a 400.000 segreti di sviluppo**  
+  Fonte: BleepingComputer, 02 Dec 2025, 19:06:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shai-hulud-20-npm-malware-attack-exposed-up-to-400-000-dev-secrets/>)
+
+- **L’attacco informatico di Asahi si trasforma in una massiccia violazione dei dati che colpisce quasi 2 milioni di persone**  
+  Fonte: Graham Cluley, 02 Dec 2025, 18:45:50 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/asahi-cyber-attack-spirals-into-massive-data-breach-impacting-almost-2-million-people>)
+
+- **L'India ordina alle app di messaggistica di funzionare solo con schede SIM attive per prevenire frodi e usi impropri**  
+  Fonte: The Hacker News, 02 Dec 2025, 17:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html>)
+
+- **L'interruzione del portale Microsoft Defender interrompe gli avvisi di ricerca delle minacce**  
+  Fonte: BleepingComputer, 02 Dec 2025, 16:10:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-portal-outage-blocks-access-to-security-alerts/>)
+
+- **Il crimine informatico diventa SaaS: noleggio di strumenti, accesso e infrastruttura**  
+  Fonte: BleepingComputer, 02 Dec 2025, 15:10:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cybercrime-goes-saas-renting-tools-access-and-infrastructure/>)
+
+- **I ricercatori catturano il programma di lavoro a distanza di Lazarus APT in diretta sulla fotocamera**  
+  Fonte: The Hacker News, 02 Dec 2025, 15:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html>)
+
+- **GlassWorm ritorna con 24 estensioni dannose che impersonano strumenti di sviluppo popolari**  
+  Fonte: The Hacker News, 02 Dec 2025, 15:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html>)
+
+- **La Corea del Nord attira gli ingegneri per affittare identità in un falso programma di lavoratori IT**  
+  Fonte: BleepingComputer, 02 Dec 2025, 14:57:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/>)
+
+- **Google risolve due zero day Android sfruttati negli attacchi, 107 difetti**  
+  Fonte: BleepingComputer, 02 Dec 2025, 14:36:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-exploited-in-attacks-107-flaws/>)
+
+- **Il pacchetto npm dannoso utilizza prompt e script nascosti per eludere gli strumenti di sicurezza AI**  
+  Fonte: The Hacker News, 02 Dec 2025, 14:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html>)
+
+- **Fake Calendly invita i migliori marchi a falsificare gli account dei gestori di annunci**  
+  Fonte: BleepingComputer, 02 Dec 2025, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-calendly-invites-spoof-top-brands-to-hijack-ad-manager-accounts/>)
+
+- **Microsoft: KB5070311 attiva il flash bianco di Esplora file in modalità oscura**  
+  Fonte: BleepingComputer, 02 Dec 2025, 13:39:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5070311-triggers-file-explorer-bright-white-flashes-in-dark-mode/>)
+
+- **Hacker legati all'Iran colpiscono i settori israeliani con la nuova backdoor MuddyViper in attacchi mirati**  
+  Fonte: The Hacker News, 02 Dec 2025, 13:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html>)
+
+- **L'Università della Pennsylvania conferma una nuova violazione dei dati dopo l'hacking di Oracle**  
+  Fonte: BleepingComputer, 02 Dec 2025, 12:55:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-theft-after-oracle-ebs-hack/>)
+
+- **Come i social media, l’intelligenza artificiale richiede scelte difficili**  
+  Fonte: Schneier on Security, 02 Dec 2025, 12:03:01 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/like-social-media-ai-requires-difficult-choices.html>)
+
+- **SecAlerts elimina il rumore con un modo più intelligente e veloce per tenere traccia delle vulnerabilità**  
+  Fonte: The Hacker News, 02 Dec 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html>)
+
+- **L'aggiornamento KB5070311 di Windows 11 risolve i blocchi di Esplora file e i problemi di ricerca**  
+  Fonte: BleepingComputer, 02 Dec 2025, 11:19:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5070311-update-fixes-file-explorer-freezes-search-issues/>)
+
+- **Google corregge 107 difetti di Android, inclusi due bug del framework sfruttati in natura**  
+  Fonte: The Hacker News, 02 Dec 2025, 07:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/google-patches-107-android-flaws.html>)
+
+- **L'India ordina ai produttori di telefoni di preinstallare l'app governativa per contrastare le frodi nel settore delle telecomunicazioni**  
   Fonte: The Hacker News, 01 Dec 2025, 17:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html>)
-
-- **Microsoft afferma che il nuovo Outlook non può aprire alcuni allegati di Excel**  
-  Fonte: BleepingComputer, 01 Dec 2025, 17:42:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-new-outlook-cant-open-some-excel-attachments/>)
 
 - **ShadyPanda trasforma in spyware le popolari estensioni dei browser con 4,3 milioni di installazioni**  
   Fonte: The Hacker News, 01 Dec 2025, 17:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html>)
-
-- **La violazione dei dati del gigante della vendita al dettaglio Coupang colpisce 33,7 milioni di clienti**  
-  Fonte: BleepingComputer, 01 Dec 2025, 16:29:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/retail-giant-coupang-suffers-data-breach-impacting-337-million-people/>)
-
-- **Quando gli hacker indossano tute: proteggere il proprio team dalle minacce informatiche interne**  
-  Fonte: BleepingComputer, 01 Dec 2025, 15:15:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/when-hackers-wear-suits-protecting-your-team-from-insider-cyber-threats/>)
-
-- **Le estensioni del browser ShadyPanda accumulano 4,3 milioni di installazioni in una campagna dannosa**  
-  Fonte: BleepingComputer, 01 Dec 2025, 15:01:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/>)
 
 - **Vietare le VPN**  
   Fonte: Schneier on Security, 01 Dec 2025, 12:59:47 UTC  
@@ -42,17 +106,9 @@
   Fonte: The Hacker News, 01 Dec 2025, 12:47:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html>)
 
-- **Google cancella X post dopo essere stato scoperto mentre utilizzava un'infografica di ricette AI "rubate".**  
-  Fonte: BleepingComputer, 01 Dec 2025, 12:23:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/>)
-
 - **Webinar: Il cavallo di Troia "Agentic": perché la guerra dei nuovi browser IA è un incubo per i team di sicurezza**  
   Fonte: The Hacker News, 01 Dec 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html>)
-
-- **La polizia disattiva il servizio di mixaggio di criptovalute Cryptomixer**  
-  Fonte: BleepingComputer, 01 Dec 2025, 09:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-takes-down-cryptomixer-cryptocurrency-mixing-service/>)
 
 - **Il nuovo malware Albiriox MaaS prende di mira oltre 400 app per frode sul dispositivo e controllo dello schermo**  
   Fonte: The Hacker News, 01 Dec 2025, 08:45:00 UTC  
@@ -70,25 +126,9 @@
   Fonte: The Hacker News, 30 Nov 2025, 09:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html>)
 
-- **Il gigante giapponese della birra Asahi afferma che la violazione dei dati ha colpito 1,5 milioni di persone**  
-  Fonte: BleepingComputer, 29 Nov 2025, 15:17:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/>)
-
-- **Una perdita conferma che OpenAI sta preparando annunci su ChatGPT per il lancio pubblico**  
-  Fonte: BleepingComputer, 29 Nov 2025, 11:31:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/>)
-
 - **Blog sui calamari del venerdì: calamari volanti al neon trovati su una spiaggia israeliana**  
   Fonte: Schneier on Security, 28 Nov 2025, 20:56:20 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html>)
-
-- **L'uomo dietro gli attacchi Wi-Fi Evil Twin in volo viene condannato a 7 anni di prigione**  
-  Fonte: BleepingComputer, 28 Nov 2025, 18:25:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/>)
-
-- **Microsoft: gli aggiornamenti di Windows rendono invisibile l'opzione di accesso tramite password**  
-  Fonte: BleepingComputer, 28 Nov 2025, 18:07:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/>)
 
 - **Gli script legacy Python Bootstrap creano rischi di acquisizione del dominio in più pacchetti PyPI**  
   Fonte: The Hacker News, 28 Nov 2025, 16:27:00 UTC  
@@ -134,11 +174,11 @@
   Fonte: The Hacker News, 27 Nov 2025, 07:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html>)
 
-- **Podcast di Smashing Security n. 445: L'hack che ha riportato in vita l'apocalisse zombi**  
+- **Podcast di Smashing Security n. 445: L'hack che ha riportato in vita l'apocalisse zombie**  
   Fonte: Graham Cluley, 27 Nov 2025, 00:34:24 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-445/>)
 
-- **Shai-Hulud v2 si diffonde da npm a Maven, mentre la campagna espone migliaia di segreti**  
+- **Shai-Hulud v2 si diffonde da npm a Maven, mentre la campagna svela migliaia di segreti**  
   Fonte: The Hacker News, 26 Nov 2025, 18:08:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html>)
 
@@ -162,7 +202,7 @@
   Fonte: The Hacker News, 26 Nov 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html>)
 
-- **Estensione di Chrome sorpresa a iniettare commissioni di trasferimento Solana nascoste negli swap Raydium**  
+- **Estensione di Chrome sorpresa a iniettare commissioni di trasferimento Solana nascoste negli swap di Raydium**  
   Fonte: The Hacker News, 26 Nov 2025, 11:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html>)
 
@@ -170,41 +210,5 @@
   Fonte: The Hacker News, 26 Nov 2025, 08:28:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html>)
 
-- **L'FBI segnala 262 milioni di dollari in frodi ATO mentre i ricercatori citano il crescente phishing basato sull'intelligenza artificiale e le truffe durante le festività**  
-  Fonte: The Hacker News, 26 Nov 2025, 04:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html>)
 
-- **Anni di perdite di JSONFormatter e CodeBeautify espongono migliaia di password e chiavi API**  
-  Fonte: The Hacker News, 25 Nov 2025, 16:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html>)
-
-- **La soluzione AI n. 78: la grande bolla dell'intelligenza artificiale e la nonna robot nel cloud**  
-  Fonte: Graham Cluley, 25 Nov 2025, 15:30:05 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-78/>)
-
-- **JackFix utilizza falsi popup di Windows Update su siti per adulti per fornire più stealer**  
-  Fonte: The Hacker News, 25 Nov 2025, 14:18:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html>)
-
-- **Quattro modi in cui l’intelligenza artificiale viene utilizzata per rafforzare le democrazie in tutto il mondo**  
-  Fonte: Schneier on Security, 25 Nov 2025, 12:00:50 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/four-ways-ai-is-being-used-to-strengthen-democracies-worldwide.html>)
-
-- **I nuovi strumenti di hacking di ToddyCat rubano le email di Outlook e i token di accesso di Microsoft 365**  
-  Fonte: The Hacker News, 25 Nov 2025, 11:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html>)
-
-- **3 sfide SOC da risolvere prima del 2026**  
-  Fonte: The Hacker News, 25 Nov 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html>)
-
-- **Gli hacker prendono il controllo delle risorse 3D di Blender per distribuire il malware StealC V2 in grado di rubare dati**  
-  Fonte: The Hacker News, 25 Nov 2025, 11:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html>)
-
-- **CISA mette in guardia da campagne spyware attive che dirottano segnali di alto valore e utenti WhatsApp**  
-  Fonte: The Hacker News, 25 Nov 2025, 06:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-02 06:20:13 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-03 06:19:38 UTC -->
