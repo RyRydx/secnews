@@ -2,6 +2,90 @@
 
 ## Ultimi 7 giorni
 
+- **Podcast di Smashing Security n. 446: Un hacker denigra se stesso e l'ingegneria sociale come servizio**  
+  Fonte: Graham Cluley, 04 Dec 2025, 00:30:56 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-446/>)
+
+- **Perché sono stato colpito da indirizzi e-mail "falsi"?**  
+  Fonte: Troy Hunt, 03 Dec 2025, 23:37:06 UTC  
+  [Leggi](<https://www.troyhunt.com/why-does-have-i-been-pwned-contain-fake-email-addresses/>)
+
+- **La violazione dei dati di Marchese ha un impatto su oltre 74 banche e cooperative di credito statunitensi**  
+  Fonte: BleepingComputer, 03 Dec 2025, 22:06:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/>)
+
+- **Difetto critico nel componente aggiuntivo WordPress per Elementor sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 03 Dec 2025, 21:31:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-flaw-in-wordpress-add-on-for-elementor-exploited-in-attacks/>)
+
+- **Il gigante francese del commercio al dettaglio fai-da-te Leroy Merlin rivela una violazione dei dati**  
+  Fonte: BleepingComputer, 03 Dec 2025, 20:52:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/french-diy-retail-giant-leroy-merlin-discloses-a-data-breach/>)
+
+- **Freedom Mobile rivela una violazione dei dati esponendo i dati dei clienti**  
+  Fonte: BleepingComputer, 03 Dec 2025, 20:28:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/>)
+
+- **Bug critici di RSC in React e Next.js consentono l'esecuzione di codice remoto non autenticato**  
+  Fonte: The Hacker News, 03 Dec 2025, 18:19:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html>)
+
+- **Scopri gli strumenti di intelligenza artificiale che alimentano la prossima ondata di criminalità informatica: guarda il webinar**  
+  Fonte: The Hacker News, 03 Dec 2025, 17:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html>)
+
+- **Microsoft risolve silenziosamente il difetto di Windows LNK dopo anni di sfruttamento attivo**  
+  Fonte: The Hacker News, 03 Dec 2025, 17:46:36 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html>)
+
+- **La Russia blocca Roblox per la distribuzione di "propaganda" LGBT**  
+  Fonte: BleepingComputer, 03 Dec 2025, 17:33:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/russia-blocks-roblox-over-distribution-of-lgbt-propaganda/>)
+
+- **Il difetto dei componenti aggiuntivi di WordPress King sotto attacco attivo consente agli hacker di creare account amministratori**  
+  Fonte: The Hacker News, 03 Dec 2025, 17:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html>)
+
+- **Google espande la funzionalità di protezione dalle truffe Android a Chase, Cash App negli Stati Uniti**  
+  Fonte: BleepingComputer, 03 Dec 2025, 17:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-expands-android-scam-protection-feature-to-chase-cash-app-in-us/>)
+
+- **Microsoft "mitiga" il difetto LNK di Windows sfruttato come zero-day**  
+  Fonte: BleepingComputer, 03 Dec 2025, 16:45:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/>)
+
+- **L'FBI avverte di un aumento dei sistemi di frode di acquisizione di account (ATO): cosa devi sapere**  
+  Fonte: Graham Cluley, 03 Dec 2025, 15:38:17 UTC  
+  [Leggi](<https://www.fortra.com/blog/fbi-warns-surge-account-takeover-ato-fraud-schemes-need-know>)
+
+- **Il Brasile viene colpito da un trojan bancario diffuso tramite il worm WhatsApp e la frode RelayNFC NFC Relay**  
+  Fonte: The Hacker News, 03 Dec 2025, 15:32:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html>)
+
+- **Approfondisci il ransomware DragonForce e la sua connessione Scattered Spider**  
+  Fonte: BleepingComputer, 03 Dec 2025, 15:05:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/deep-dive-into-dragonforce-ransomware-and-its-scattered-spider-connection/>)
+
+- **La botnet Aisuru dietro il nuovo attacco DDoS da 29,7 Tbps da record**  
+  Fonte: BleepingComputer, 03 Dec 2025, 14:01:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/aisuru-botnet-behind-new-record-breaking-297-tbps-ddos-attack/>)
+
+- **L'Università di Phoenix rivela una violazione dei dati dopo l'hacking di Oracle**  
+  Fonte: BleepingComputer, 03 Dec 2025, 13:23:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/university-of-phoenix-discloses-data-breach-after-oracle-hack/>)
+
+- **Ridurre le dimensioni dell’intelligenza artificiale: trasformare la tecnologia dirompente in un vantaggio strategico**  
+  Fonte: The Hacker News, 03 Dec 2025, 09:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html>)
+
+- **I bug di Picklescan consentono ai modelli PyTorch dannosi di eludere le scansioni ed eseguire codice**  
+  Fonte: The Hacker News, 03 Dec 2025, 09:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html>)
+
+- **Malicious Rust Crate distribuisce malware specifico del sistema operativo ai sistemi di sviluppo Web3**  
+  Fonte: The Hacker News, 03 Dec 2025, 08:39:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html>)
+
 - **La correzione dell'intelligenza artificiale n. 79: Gemini 3, jailbreak della poesia e abbiamo davvero bisogno di robot sicuri?**  
   Fonte: Graham Cluley, 02 Dec 2025, 23:42:22 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-79/>)
@@ -16,11 +100,7 @@
 
 - **ChatGPT è inattivo in tutto il mondo, le conversazioni sono scomparse per gli utenti**  
   Fonte: BleepingComputer, 02 Dec 2025, 19:52:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-dissapeared-for-users/>)
-
-- **L'attacco malware Shai-Hulud 2.0 NPM ha scoperto fino a 400.000 segreti di sviluppo**  
-  Fonte: BleepingComputer, 02 Dec 2025, 19:06:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shai-hulud-20-npm-malware-attack-exposed-up-to-400-000-dev-secrets/>)
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/>)
 
 - **L’attacco informatico di Asahi si trasforma in una massiccia violazione dei dati che colpisce quasi 2 milioni di persone**  
   Fonte: Graham Cluley, 02 Dec 2025, 18:45:50 UTC  
@@ -30,15 +110,7 @@
   Fonte: The Hacker News, 02 Dec 2025, 17:46:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html>)
 
-- **L'interruzione del portale Microsoft Defender interrompe gli avvisi di ricerca delle minacce**  
-  Fonte: BleepingComputer, 02 Dec 2025, 16:10:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-portal-outage-blocks-access-to-security-alerts/>)
-
-- **Il crimine informatico diventa SaaS: noleggio di strumenti, accesso e infrastruttura**  
-  Fonte: BleepingComputer, 02 Dec 2025, 15:10:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cybercrime-goes-saas-renting-tools-access-and-infrastructure/>)
-
-- **I ricercatori catturano il programma di lavoro a distanza di Lazarus APT in diretta sulla fotocamera**  
+- **I ricercatori catturano il programma di lavoro remoto di Lazarus APT in diretta sulla fotocamera**  
   Fonte: The Hacker News, 02 Dec 2025, 15:02:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html>)
 
@@ -46,33 +118,13 @@
   Fonte: The Hacker News, 02 Dec 2025, 15:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html>)
 
-- **La Corea del Nord attira gli ingegneri per affittare identità in un falso programma di lavoratori IT**  
-  Fonte: BleepingComputer, 02 Dec 2025, 14:57:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/>)
-
-- **Google risolve due zero day Android sfruttati negli attacchi, 107 difetti**  
-  Fonte: BleepingComputer, 02 Dec 2025, 14:36:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-exploited-in-attacks-107-flaws/>)
-
 - **Il pacchetto npm dannoso utilizza prompt e script nascosti per eludere gli strumenti di sicurezza AI**  
   Fonte: The Hacker News, 02 Dec 2025, 14:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html>)
 
-- **Fake Calendly invita i migliori marchi a falsificare gli account dei gestori di annunci**  
-  Fonte: BleepingComputer, 02 Dec 2025, 14:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-calendly-invites-spoof-top-brands-to-hijack-ad-manager-accounts/>)
-
-- **Microsoft: KB5070311 attiva il flash bianco di Esplora file in modalità oscura**  
-  Fonte: BleepingComputer, 02 Dec 2025, 13:39:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5070311-triggers-file-explorer-bright-white-flashes-in-dark-mode/>)
-
 - **Hacker legati all'Iran colpiscono i settori israeliani con la nuova backdoor MuddyViper in attacchi mirati**  
   Fonte: The Hacker News, 02 Dec 2025, 13:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html>)
-
-- **L'Università della Pennsylvania conferma una nuova violazione dei dati dopo l'hacking di Oracle**  
-  Fonte: BleepingComputer, 02 Dec 2025, 12:55:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-theft-after-oracle-ebs-hack/>)
 
 - **Come i social media, l’intelligenza artificiale richiede scelte difficili**  
   Fonte: Schneier on Security, 02 Dec 2025, 12:03:01 UTC  
@@ -81,10 +133,6 @@
 - **SecAlerts elimina il rumore con un modo più intelligente e veloce per tenere traccia delle vulnerabilità**  
   Fonte: The Hacker News, 02 Dec 2025, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html>)
-
-- **L'aggiornamento KB5070311 di Windows 11 risolve i blocchi di Esplora file e i problemi di ricerca**  
-  Fonte: BleepingComputer, 02 Dec 2025, 11:19:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5070311-update-fixes-file-explorer-freezes-search-issues/>)
 
 - **Google corregge 107 difetti di Android, inclusi due bug del framework sfruttati in natura**  
   Fonte: The Hacker News, 02 Dec 2025, 07:17:00 UTC  
@@ -174,41 +222,5 @@
   Fonte: The Hacker News, 27 Nov 2025, 07:03:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html>)
 
-- **Podcast di Smashing Security n. 445: L'hack che ha riportato in vita l'apocalisse zombie**  
-  Fonte: Graham Cluley, 27 Nov 2025, 00:34:24 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-445/>)
 
-- **Shai-Hulud v2 si diffonde da npm a Maven, mentre la campagna svela migliaia di segreti**  
-  Fonte: The Hacker News, 26 Nov 2025, 18:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html>)
-
-- **Incontra Rey, l'amministratore di "Scattered Lapsus$ Hunters"**  
-  Fonte: Krebs on Security, 26 Nov 2025, 17:22:36 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/>)
-
-- **Le violazioni della sicurezza dell’intelligenza artificiale ombra colpiranno il 40% di tutte le aziende entro il 2030, avverte Gartner**  
-  Fonte: Graham Cluley, 26 Nov 2025, 14:48:30 UTC  
-  [Leggi](<https://www.fortra.com/blog/shadow-ai-security-breaches-will-hit-40-companies-2030-warns-gartner>)
-
-- **Il ransomware Qilin trasforma la violazione dell'MSP sudcoreano in un furto di dati che coinvolge 28 vittime**  
-  Fonte: The Hacker News, 26 Nov 2025, 14:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html>)
-
-- **Huawei e la sorveglianza cinese**  
-  Fonte: Schneier on Security, 26 Nov 2025, 12:05:14 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/huawei-and-chinese-surveillance.html>)
-
-- **Quando il tuo rilevamento di sicurezza da 2 milioni di dollari fallisce: il tuo SOC può salvarti?**  
-  Fonte: The Hacker News, 26 Nov 2025, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html>)
-
-- **Estensione di Chrome sorpresa a iniettare commissioni di trasferimento Solana nascoste negli swap di Raydium**  
-  Fonte: The Hacker News, 26 Nov 2025, 11:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html>)
-
-- **RomCom utilizza attacchi di aggiornamento falsi SocGholish per diffondere malware Mythic Agent**  
-  Fonte: The Hacker News, 26 Nov 2025, 08:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-03 06:19:38 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-04 06:19:39 UTC -->
