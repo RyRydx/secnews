@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Blogging sui calamari del venerdì: genoma del calamaro vampiro**  
+  Fonte: Schneier on Security, 05 Dec 2025, 22:06:14 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html>)
+
+- **Barts Health NHS rivela la violazione dei dati dopo l'hack zero-day di Oracle**  
+  Fonte: BleepingComputer, 05 Dec 2025, 18:55:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/>)
+
+- **L'attacco agente del browser senza clic può eliminare l'intero Google Drive utilizzando e-mail predisposte**  
+  Fonte: The Hacker News, 05 Dec 2025, 17:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html>)
+
+- **L'FBI mette in guardia contro le truffe di rapimenti virtuali che utilizzano foto alterate sui social media**  
+  Fonte: BleepingComputer, 05 Dec 2025, 16:37:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/>)
+
+- **Bug XXE critico CVE-2025-66516 (CVSS 10.0) colpisce Apache Tika, richiede una patch urgente**  
+  Fonte: The Hacker News, 05 Dec 2025, 16:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html>)
+
+- **Una guida pratica alla visibilità continua della superficie di attacco**  
+  Fonte: BleepingComputer, 05 Dec 2025, 15:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/>)
+
+- **L'UE multa X $ 140 milioni per segni di spunta blu ingannevoli**  
+  Fonte: BleepingComputer, 05 Dec 2025, 14:41:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/>)
+
+- **Gli hacker cinesi hanno iniziato a sfruttare la vulnerabilità React2Shell appena rivelata**  
+  Fonte: The Hacker News, 05 Dec 2025, 14:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html>)
+
+- **Cloudflare attribuisce l'interruzione di oggi alle mitigazioni React2Shell**  
+  Fonte: BleepingComputer, 05 Dec 2025, 13:53:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/>)
+
+- **L'azienda farmaceutica Inotiv rivela una violazione dei dati dopo un attacco ransomware**  
+  Fonte: BleepingComputer, 05 Dec 2025, 13:05:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/>)
+
+- **Le fughe di notizie di Intellexa rivelano Zero-Days e un vettore basato su annunci per la distribuzione di spyware Predator**  
+  Fonte: The Hacker News, 05 Dec 2025, 11:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html>)
+
+- **"Come arrivare al sì": una guida anti-vendita per MSP**  
+  Fonte: The Hacker News, 05 Dec 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html>)
+
+- **Difetto critico di React2Shell sfruttato attivamente negli attacchi legati alla Cina**  
+  Fonte: BleepingComputer, 05 Dec 2025, 11:26:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/>)
+
+- **Cloudflare inattivo, siti Web offline con 500 Errore interno del server**  
+  Fonte: BleepingComputer, 05 Dec 2025, 09:12:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/>)
+
+- **CISA segnala hacker della RPC che utilizzano BRICKSTORM per l'accesso a lungo termine nei sistemi statunitensi**  
+  Fonte: The Hacker News, 05 Dec 2025, 08:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html>)
+
+- **Nuovo servizio telefonico anonimo**  
+  Fonte: Schneier on Security, 05 Dec 2025, 08:08:21 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html>)
+
+- **Aggiornamento settimanale 481**  
+  Fonte: Troy Hunt, 05 Dec 2025, 07:14:33 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-481/>)
+
 - **JPCERT conferma attacchi di command injection attivi sui gateway di array AG**  
   Fonte: The Hacker News, 05 Dec 2025, 05:40:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/jpcert-confirms-active-command.html>)
@@ -38,22 +106,6 @@
   Fonte: The Hacker News, 04 Dec 2025, 17:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html>)
 
-- **Appaltatori con precedenti di hacking accusati di aver cancellato 96 database governativi**  
-  Fonte: BleepingComputer, 04 Dec 2025, 16:30:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/contractors-with-hacking-records-accused-of-wiping-96-govt-databases/>)
-
-- **Critical React, il difetto Next.js consente agli hacker di eseguire codice sui server**  
-  Fonte: BleepingComputer, 04 Dec 2025, 15:11:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/>)
-
-- **In che modo policy rigorose relative alle password proteggono i sistemi OT dalle minacce informatiche**  
-  Fonte: BleepingComputer, 04 Dec 2025, 15:11:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/>)
-
-- **Il bug del controllo della licenza di Microsoft 365 blocca i download delle app desktop**  
-  Fonte: BleepingComputer, 04 Dec 2025, 13:18:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-in-microsoft-365-license-checks-blocks-desktop-app-downloads/>)
-
 - **Bollettino del ThreatsDay: attacchi Wi-Fi, worm npm, furti DeFi, attacchi di phishing e altre 15 storie**  
   Fonte: The Hacker News, 04 Dec 2025, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html>)
@@ -77,22 +129,6 @@
 - **Perché sono stato colpito da indirizzi e-mail "falsi"?**  
   Fonte: Troy Hunt, 03 Dec 2025, 23:37:06 UTC  
   [Leggi](<https://www.troyhunt.com/why-does-have-i-been-pwned-contain-fake-email-addresses/>)
-
-- **La violazione dei dati di Marchese ha un impatto su oltre 74 banche e cooperative di credito statunitensi**  
-  Fonte: BleepingComputer, 03 Dec 2025, 22:06:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/>)
-
-- **Difetto critico nel componente aggiuntivo WordPress per Elementor sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 03 Dec 2025, 21:31:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-flaw-in-wordpress-add-on-for-elementor-exploited-in-attacks/>)
-
-- **Il gigante francese del commercio al dettaglio fai-da-te Leroy Merlin rivela una violazione dei dati**  
-  Fonte: BleepingComputer, 03 Dec 2025, 20:52:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/french-diy-retail-giant-leroy-merlin-discloses-a-data-breach/>)
-
-- **Freedom Mobile rivela una violazione dei dati esponendo i dati dei clienti**  
-  Fonte: BleepingComputer, 03 Dec 2025, 20:28:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/>)
 
 - **Bug critici di RSC in React e Next.js consentono l'esecuzione di codice remoto non autenticato**  
   Fonte: The Hacker News, 03 Dec 2025, 18:19:00 UTC  
@@ -206,29 +242,5 @@
   Fonte: The Hacker News, 30 Nov 2025, 09:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html>)
 
-- **Blog sui calamari del venerdì: calamari volanti al neon trovati su una spiaggia israeliana**  
-  Fonte: Schneier on Security, 28 Nov 2025, 20:56:20 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html>)
 
-- **Gli script legacy Python Bootstrap creano rischi di acquisizione del dominio in più pacchetti PyPI**  
-  Fonte: The Hacker News, 28 Nov 2025, 16:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html>)
-
-- **Gli hacker nordcoreani distribuiscono pacchetti da 197 npm per diffondere il malware OtterCookie aggiornato**  
-  Fonte: The Hacker News, 28 Nov 2025, 16:18:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html>)
-
-- **Pronta iniezione attraverso la poesia**  
-  Fonte: Schneier on Security, 28 Nov 2025, 14:54:38 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/11/prompt-injection-through-poetry.html>)
-
-- **Perché le organizzazioni si rivolgono a RPAM**  
-  Fonte: The Hacker News, 28 Nov 2025, 11:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html>)
-
-- **L'accesso ospite di MS Teams può rimuovere la protezione Defender quando gli utenti si uniscono a tenant esterni**  
-  Fonte: The Hacker News, 28 Nov 2025, 08:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-05 06:20:15 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-06 06:16:57 UTC -->
