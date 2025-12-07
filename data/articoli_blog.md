@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **Difetto React2Shell sfruttato per violare 30 organizzazioni, 77k indirizzi IP vulnerabili**  
+  Fonte: BleepingComputer, 06 Dec 2025, 19:07:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/>)
+
+- **I ricercatori scoprono oltre 30 difetti negli strumenti di codifica dell'intelligenza artificiale che consentono il furto di dati e gli attacchi RCE**  
+  Fonte: The Hacker News, 06 Dec 2025, 15:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html>)
+
+- **Una nuova ondata di tentativi di accesso VPN prende di mira i portali GlobalProtect di Palo Alto**  
+  Fonte: BleepingComputer, 06 Dec 2025, 15:18:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/>)
+
+- **Dai droni ai diplomi: come la più grande università privata della Russia è collegata a una fabbrica di saggi da 25 milioni di dollari**  
+  Fonte: Krebs on Security, 06 Dec 2025, 14:45:03 UTC  
+  [Leggi](<https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/>)
+
+- **Difetto critico React2Shell aggiunto a CISA KEV dopo lo sfruttamento attivo confermato**  
+  Fonte: The Hacker News, 06 Dec 2025, 11:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html>)
+
 - **Blogging sui calamari del venerdì: genoma del calamaro vampiro**  
   Fonte: Schneier on Security, 05 Dec 2025, 22:06:14 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html>)
@@ -89,14 +109,6 @@
 - **Lo spyware Predator utilizza un nuovo vettore di infezione per attacchi zero-click**  
   Fonte: BleepingComputer, 04 Dec 2025, 20:47:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/predator-spyware-uses-new-infection-vector-for-zero-click-attacks/>)
-
-- **La Russia blocca FaceTime e Snapchat per presunto utilizzo da parte di terroristi**  
-  Fonte: BleepingComputer, 04 Dec 2025, 19:12:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russia-blocks-facetime-and-snapchat-over-use-in-terrorist-attacks/>)
-
-- **La CISA avverte degli attacchi malware cinesi "BrickStorm" sui server VMware**  
-  Fonte: BleepingComputer, 04 Dec 2025, 18:19:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/>)
 
 - **Perché l’attacco DDoS da 30 Tbps da record dovrebbe preoccupare ogni azienda**  
   Fonte: Graham Cluley, 04 Dec 2025, 17:41:41 UTC  
@@ -243,4 +255,4 @@
   [Leggi](<https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html>)
 
 
-<!-- Ultimo aggiornamento: 2025-12-06 06:16:57 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-07 06:16:43 UTC -->
