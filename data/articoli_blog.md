@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **OpenAI nega la pubblicazione di annunci sui piani a pagamento ChatGPT**  
+  Fonte: BleepingComputer, 07 Dec 2025, 20:51:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/>)
+
+- **Il Portogallo aggiorna la legge sulla criminalità informatica per esentare i ricercatori nel campo della sicurezza**  
+  Fonte: BleepingComputer, 07 Dec 2025, 15:09:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/>)
+
 - **Difetto React2Shell sfruttato per violare 30 organizzazioni, 77k indirizzi IP vulnerabili**  
   Fonte: BleepingComputer, 06 Dec 2025, 19:07:33 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/>)
@@ -94,21 +102,9 @@
   Fonte: The Hacker News, 05 Dec 2025, 05:40:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/jpcert-confirms-active-command.html>)
 
-- **Gli hacker stanno sfruttando la falla della VPN di ArrayOS AG per installare webshell**  
-  Fonte: BleepingComputer, 04 Dec 2025, 23:05:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/>)
-
 - **Gli SMS Phisher si concentrano su punti, tasse e rivenditori falsi**  
   Fonte: Krebs on Security, 04 Dec 2025, 23:02:34 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/>)
-
-- **Le "Notifiche proattive" dell'NCSC avvisano le organizzazioni di difetti nei dispositivi esposti**  
-  Fonte: BleepingComputer, 04 Dec 2025, 22:21:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ncscs-proactive-notifications-warns-orgs-of-flaws-in-exposed-devices/>)
-
-- **Lo spyware Predator utilizza un nuovo vettore di infezione per attacchi zero-click**  
-  Fonte: BleepingComputer, 04 Dec 2025, 20:47:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/predator-spyware-uses-new-infection-vector-for-zero-click-attacks/>)
 
 - **Perché l’attacco DDoS da 30 Tbps da record dovrebbe preoccupare ogni azienda**  
   Fonte: Graham Cluley, 04 Dec 2025, 17:41:41 UTC  
@@ -222,7 +218,7 @@
   Fonte: The Hacker News, 01 Dec 2025, 17:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html>)
 
-- **ShadyPanda trasforma in spyware le popolari estensioni dei browser con 4,3 milioni di installazioni**  
+- **ShadyPanda trasforma in spyware le estensioni dei browser più popolari con 4,3 milioni di installazioni**  
   Fonte: The Hacker News, 01 Dec 2025, 17:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html>)
 
@@ -242,17 +238,5 @@
   Fonte: The Hacker News, 01 Dec 2025, 08:45:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html>)
 
-- **Aggiornamento settimanale 480**  
-  Fonte: Troy Hunt, 01 Dec 2025, 06:11:03 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-480/>)
 
-- **Tomiris passa agli impianti di servizio pubblico per il C2 più furtivo negli attacchi contro obiettivi governativi**  
-  Fonte: The Hacker News, 01 Dec 2025, 05:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html>)
-
-- **CISA aggiunge a KEV il bug XSS CVE-2021-26829 attivamente sfruttato in OpenPLC ScadaBR**  
-  Fonte: The Hacker News, 30 Nov 2025, 09:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-07 06:16:43 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-08 06:22:22 UTC -->
