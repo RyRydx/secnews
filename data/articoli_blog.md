@@ -2,6 +2,62 @@
 
 ## Ultimi 7 giorni
 
+- **Le bande di ransomware si rivolgono al packer EXE Shanya per nascondere i killer EDR**  
+  Fonte: BleepingComputer, 09 Dec 2025, 00:00:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/>)
+
+- **Le estensioni VSCode dannose nel registro di Microsoft rilasciano infostealer**  
+  Fonte: BleepingComputer, 08 Dec 2025, 22:30:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/>)
+
+- **FinCEN afferma che le bande di ransomware hanno estorto oltre 2,1 miliardi di dollari dal 2022 al 2024**  
+  Fonte: BleepingComputer, 08 Dec 2025, 21:07:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/>)
+
+- **La Polonia arresta gli ucraini che utilizzano apparecchiature di hacking "avanzate".**  
+  Fonte: BleepingComputer, 08 Dec 2025, 18:31:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/poland-arrests-ukrainians-utilizing-advanced-hacking-equipment/>)
+
+- **Google Chrome aggiunge un nuovo livello di sicurezza per la navigazione tramite agenti Gemini AI**  
+  Fonte: BleepingComputer, 08 Dec 2025, 18:08:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-chrome-adds-new-security-layer-for-gemini-ai-agentic-browsing/>)
+
+- **Gli esperti confermano che JS#SMUGGLER utilizza siti compromessi per distribuire NetSupport RAT**  
+  Fonte: The Hacker News, 08 Dec 2025, 17:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html>)
+
+- **Come l'intelligenza artificiale BAS Agentic trasforma i titoli dei giornali sulle minacce in strategie di difesa**  
+  Fonte: BleepingComputer, 08 Dec 2025, 15:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-agentic-bas-ai-turns-threat-headlines-into-defense-strategies/>)
+
+- **Problemi di privacy sollevati quando Grok AI ha scoperto di essere il migliore amico di uno stalker**  
+  Fonte: Graham Cluley, 08 Dec 2025, 14:45:48 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/privacy-concerns-raised-as-grok-ai-found-to-be-a-stalkers-best-friend>)
+
+- **⚡ Riepilogo settimanale: malware USB, React2Shell, worm WhatsApp, bug IDE AI e altro**  
+  Fonte: The Hacker News, 08 Dec 2025, 12:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html>)
+
+- **Cifratore di sostituzione basato sul manoscritto Voynich**  
+  Fonte: Schneier on Security, 08 Dec 2025, 12:04:11 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html>)
+
+- **Come possono i rivenditori prepararsi al cyber-prepararsi per il periodo più vulnerabile dell’anno?**  
+  Fonte: The Hacker News, 08 Dec 2025, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/how-can-retailers-cyber-prepare-for.html>)
+
+- **I malware Android FvncBot, SeedSnatcher e ClayRat ottengono funzionalità più potenti per il furto di dati**  
+  Fonte: The Hacker News, 08 Dec 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html>)
+
+- **Sneeit WordPress RCE sfruttato allo stato brado mentre l'ICTBroadcast bug alimenta gli attacchi botnet Frost**  
+  Fonte: The Hacker News, 08 Dec 2025, 09:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html>)
+
+- **MuddyWater utilizza la backdoor UDPGangster nella campagna mirata Turchia-Israele-Azerbaigian**  
+  Fonte: The Hacker News, 08 Dec 2025, 06:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html>)
+
 - **OpenAI nega la pubblicazione di annunci sui piani a pagamento ChatGPT**  
   Fonte: BleepingComputer, 07 Dec 2025, 20:51:08 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/>)
@@ -14,7 +70,7 @@
   Fonte: BleepingComputer, 06 Dec 2025, 19:07:33 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/>)
 
-- **I ricercatori scoprono oltre 30 difetti negli strumenti di codifica dell'intelligenza artificiale che consentono il furto di dati e gli attacchi RCE**  
+- **I ricercatori scoprono oltre 30 difetti negli strumenti di codifica dell'intelligenza artificiale che consentono il furto di dati e attacchi RCE**  
   Fonte: The Hacker News, 06 Dec 2025, 15:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html>)
 
@@ -50,25 +106,9 @@
   Fonte: The Hacker News, 05 Dec 2025, 16:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html>)
 
-- **Una guida pratica alla visibilità continua della superficie di attacco**  
-  Fonte: BleepingComputer, 05 Dec 2025, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/>)
-
-- **L'UE multa X $ 140 milioni per segni di spunta blu ingannevoli**  
-  Fonte: BleepingComputer, 05 Dec 2025, 14:41:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/>)
-
 - **Gli hacker cinesi hanno iniziato a sfruttare la vulnerabilità React2Shell appena rivelata**  
   Fonte: The Hacker News, 05 Dec 2025, 14:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html>)
-
-- **Cloudflare attribuisce l'interruzione di oggi alle mitigazioni React2Shell**  
-  Fonte: BleepingComputer, 05 Dec 2025, 13:53:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/>)
-
-- **L'azienda farmaceutica Inotiv rivela una violazione dei dati dopo un attacco ransomware**  
-  Fonte: BleepingComputer, 05 Dec 2025, 13:05:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/>)
 
 - **Le fughe di notizie di Intellexa rivelano Zero-Days e un vettore basato su annunci per la distribuzione di spyware Predator**  
   Fonte: The Hacker News, 05 Dec 2025, 11:47:00 UTC  
@@ -77,14 +117,6 @@
 - **"Come arrivare al sì": una guida anti-vendita per MSP**  
   Fonte: The Hacker News, 05 Dec 2025, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html>)
-
-- **Difetto critico di React2Shell sfruttato attivamente negli attacchi legati alla Cina**  
-  Fonte: BleepingComputer, 05 Dec 2025, 11:26:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/>)
-
-- **Cloudflare inattivo, siti Web offline con 500 Errore interno del server**  
-  Fonte: BleepingComputer, 05 Dec 2025, 09:12:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/>)
 
 - **CISA segnala hacker della RPC che utilizzano BRICKSTORM per l'accesso a lungo termine nei sistemi statunitensi**  
   Fonte: The Hacker News, 05 Dec 2025, 08:14:00 UTC  
@@ -214,29 +246,5 @@
   Fonte: The Hacker News, 02 Dec 2025, 07:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/google-patches-107-android-flaws.html>)
 
-- **L'India ordina ai produttori di telefoni di preinstallare l'app governativa per contrastare le frodi nel settore delle telecomunicazioni**  
-  Fonte: The Hacker News, 01 Dec 2025, 17:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html>)
 
-- **ShadyPanda trasforma in spyware le estensioni dei browser più popolari con 4,3 milioni di installazioni**  
-  Fonte: The Hacker News, 01 Dec 2025, 17:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html>)
-
-- **Vietare le VPN**  
-  Fonte: Schneier on Security, 01 Dec 2025, 12:59:47 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/banning-vpns.html>)
-
-- **⚡ Riepilogo settimanale: CVE importanti, ritorni di worm npm, Firefox RCE, M365 Email Raid e altro**  
-  Fonte: The Hacker News, 01 Dec 2025, 12:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html>)
-
-- **Webinar: Il cavallo di Troia "Agentic": perché la guerra dei nuovi browser IA è un incubo per i team di sicurezza**  
-  Fonte: The Hacker News, 01 Dec 2025, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html>)
-
-- **Il nuovo malware Albiriox MaaS prende di mira oltre 400 app per frode sul dispositivo e controllo dello schermo**  
-  Fonte: The Hacker News, 01 Dec 2025, 08:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-08 06:22:22 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-09 06:19:55 UTC -->
