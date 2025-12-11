@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Podcast di Smashing Security n. 447: Grok lo stalker, la rapina al Louvre e il caos di Microsoft 365**  
+  Fonte: Graham Cluley, 11 Dec 2025, 00:30:16 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-447/>)
+
+- **Annunci Google per ChatGPT condiviso, le guide Grok spingono malware infostealer per macOS**  
+  Fonte: BleepingComputer, 10 Dec 2025, 23:50:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/>)
+
+- **Il nuovo malware DroidLock blocca i dispositivi Android e richiede un riscatto**  
+  Fonte: BleepingComputer, 10 Dec 2025, 21:53:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/>)
+
+- **React2Shell Exploitation distribuisce crypto miner e nuovi malware in più settori**  
+  Fonte: The Hacker News, 10 Dec 2025, 20:19:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html>)
+
+- **Microsoft Teams avvisa del traffico sospetto con domini esterni**  
+  Fonte: BleepingComputer, 10 Dec 2025, 19:32:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/>)
+
+- **Il difetto di .NET SOAPwn apre le porte alla scrittura di file e all'esecuzione di codice remoto tramite WSDL non autorizzato**  
+  Fonte: The Hacker News, 10 Dec 2025, 19:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html>)
+
+- **Oltre 10.000 immagini Docker Hub hanno riscontrato perdite di credenziali e chiavi di autenticazione**  
+  Fonte: BleepingComputer, 10 Dec 2025, 18:22:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/>)
+
+- **Il ransomware potrebbe aver estorto oltre 2,1 miliardi di dollari tra il 2022 e il 2024, ma non sono tutte brutte notizie, afferma il rapporto FinCEN**  
+  Fonte: Graham Cluley, 10 Dec 2025, 16:17:02 UTC  
+  [Leggi](<https://www.fortra.com/blog/ransomware-may-have-extorted-over-21-billion-between-2022-2024-its-not-all-bad-news-claims>)
+
+- **Perché un ciclo di vita di sviluppo software sicuro è fondamentale per i produttori**  
+  Fonte: BleepingComputer, 10 Dec 2025, 15:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/why-a-secure-software-development-life-cycle-is-critical-for-manufacturers/>)
+
+- **Il nuovo servizio di phishing di Spiderman prende di mira decine di banche europee**  
+  Fonte: BleepingComputer, 10 Dec 2025, 14:53:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/>)
+
+- **Tre punti deboli della crittografia PCIe espongono i sistemi PCIe 5.0+ a una gestione dei dati errata**  
+  Fonte: The Hacker News, 10 Dec 2025, 13:32:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html>)
+
+- **Hacker ucraino accusato di aver aiutato gruppi di hacktivisti russi**  
+  Fonte: BleepingComputer, 10 Dec 2025, 12:26:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/>)
+
+- **L'FBI avverte di truffe video false**  
+  Fonte: Schneier on Security, 10 Dec 2025, 12:05:37 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html>)
+
+- **Quattro anni dopo, il servizio sanitario irlandese offre 750 euro alle vittime di attacchi ransomware**  
+  Fonte: Graham Cluley, 10 Dec 2025, 12:00:59 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/four-years-later-irish-health-service-offers-eu750-to-victims-of-ransomware-attack>)
+
+- **Webinar: come gli aggressori sfruttano le configurazioni errate del cloud su AWS, modelli AI e Kubernetes**  
+  Fonte: The Hacker News, 10 Dec 2025, 11:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html>)
+
+- **Avviso: vulnerabilità WinRAR CVE-2025-6218 sotto attacco attivo da parte di più gruppi di minacce**  
+  Fonte: The Hacker News, 10 Dec 2025, 11:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html>)
+
+- **Microsoft rilascia correzioni di sicurezza per 56 difetti, tra cui l'exploit attivo e due zero-day**  
+  Fonte: The Hacker News, 10 Dec 2025, 08:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html>)
+
 - **Fortinet, Ivanti e SAP rilasciano patch urgenti per difetti di autenticazione ed esecuzione del codice**  
   Fonte: The Hacker News, 10 Dec 2025, 04:50:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html>)
@@ -30,25 +98,9 @@
   Fonte: BleepingComputer, 09 Dec 2025, 18:36:48 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-forticloud-sso-login-auth-bypass-flaws/>)
 
-- **Aggiornamenti cumulativi KB5072033 e KB5071417 di Windows 11 rilasciati**  
-  Fonte: BleepingComputer, 09 Dec 2025, 18:31:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5072033-and-kb5071417-cumulative-updates-released/>)
-
 - **Attori legati alla Corea del Nord sfruttano React2Shell per distribuire il nuovo malware EtherRAT**  
   Fonte: The Hacker News, 09 Dec 2025, 18:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html>)
-
-- **Ivanti avverte di un difetto critico nell'esecuzione del codice di Endpoint Manager**  
-  Fonte: BleepingComputer, 09 Dec 2025, 17:10:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-endpoint-manager-code-execution-flaw/>)
-
-- **Mantenimento dell'igiene IT aziendale utilizzando Wazuh SIEM/XDR**  
-  Fonte: BleepingComputer, 09 Dec 2025, 17:09:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/maintaining-enterprise-it-hygiene-using-wazuh-siem-xdr/>)
-
-- **La Spagna arresta un adolescente che ha rubato 64 milioni di dati personali**  
-  Fonte: BleepingComputer, 09 Dec 2025, 16:57:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/>)
 
 - **Un uomo californiano ammette di aver avuto un ruolo nel furto di criptovalute da 263 milioni di dollari che ha finanziato uno stile di vita lussuoso**  
   Fonte: Graham Cluley, 09 Dec 2025, 16:13:48 UTC  
@@ -58,17 +110,9 @@
   Fonte: The Hacker News, 09 Dec 2025, 16:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html>)
 
-- **Gli hacker nordcoreani sfruttano la falla di React2Shell negli attacchi malware EtherRAT**  
-  Fonte: BleepingComputer, 09 Dec 2025, 15:43:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/>)
-
 - **La soluzione AI n. 80: il rivale economico GPT-5 di DeepSeek, Antigravity, fallisce e al tuo LLM piace quando sei scortese**  
   Fonte: Graham Cluley, 09 Dec 2025, 15:30:17 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-80/>)
-
-- **Il ransomware IAB abusa dell'EDR per l'esecuzione furtiva di malware**  
-  Fonte: BleepingComputer, 09 Dec 2025, 15:24:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-iab-abuses-edr-for-stealthy-malware-execution/>)
 
 - **Storm-0249 intensifica gli attacchi ransomware con ClickFix, Fileless PowerShell e sideloading DLL**  
   Fonte: The Hacker News, 09 Dec 2025, 13:37:00 UTC  
@@ -77,10 +121,6 @@
 - **AI contro guidatori umani**  
   Fonte: Schneier on Security, 09 Dec 2025, 12:07:53 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/ai-vs-human-drivers.html>)
-
-- **Microsoft indaga sull'interruzione di Copilot che interessa gli utenti in Europa**  
-  Fonte: BleepingComputer, 09 Dec 2025, 11:48:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-copilot-outage-affecting-users-in-europe/>)
 
 - **Come semplificare lo Zero Trust utilizzando il framework dei segnali condivisi**  
   Fonte: The Hacker News, 09 Dec 2025, 11:30:00 UTC  
@@ -97,10 +137,6 @@
 - **I ricercatori scoprono pacchetti VS Code dannosi, Go, npm e Rust che rubano i dati degli sviluppatori**  
   Fonte: The Hacker News, 09 Dec 2025, 08:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html>)
-
-- **Le bande di ransomware si rivolgono al packer EXE Shanya per nascondere i killer EDR**  
-  Fonte: BleepingComputer, 09 Dec 2025, 00:00:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/>)
 
 - **Gli esperti confermano che JS#SMUGGLER utilizza siti compromessi per distribuire NetSupport RAT**  
   Fonte: The Hacker News, 08 Dec 2025, 17:37:00 UTC  
@@ -214,49 +250,5 @@
   Fonte: The Hacker News, 04 Dec 2025, 06:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html>)
 
-- **Podcast di Smashing Security n. 446: Un hacker denigra se stesso e l'ingegneria sociale come servizio**  
-  Fonte: Graham Cluley, 04 Dec 2025, 00:30:56 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-446/>)
 
-- **Perché sono stato colpito da indirizzi e-mail "falsi"?**  
-  Fonte: Troy Hunt, 03 Dec 2025, 23:37:06 UTC  
-  [Leggi](<https://www.troyhunt.com/why-does-have-i-been-pwned-contain-fake-email-addresses/>)
-
-- **Bug critici di RSC in React e Next.js consentono l'esecuzione di codice remoto non autenticato**  
-  Fonte: The Hacker News, 03 Dec 2025, 18:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html>)
-
-- **Scopri gli strumenti di intelligenza artificiale che alimentano la prossima ondata di criminalità informatica: guarda il webinar**  
-  Fonte: The Hacker News, 03 Dec 2025, 17:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html>)
-
-- **Microsoft risolve silenziosamente il difetto di Windows LNK dopo anni di sfruttamento attivo**  
-  Fonte: The Hacker News, 03 Dec 2025, 17:46:36 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html>)
-
-- **Il difetto dei componenti aggiuntivi di WordPress King sotto attacco attivo consente agli hacker di creare account amministratori**  
-  Fonte: The Hacker News, 03 Dec 2025, 17:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html>)
-
-- **L'FBI avverte di un aumento dei sistemi di frode di acquisizione di account (ATO): cosa devi sapere**  
-  Fonte: Graham Cluley, 03 Dec 2025, 15:38:17 UTC  
-  [Leggi](<https://www.fortra.com/blog/fbi-warns-surge-account-takeover-ato-fraud-schemes-need-know>)
-
-- **Il Brasile è stato colpito da un trojan bancario diffuso tramite il worm WhatsApp e la frode RelayNFC NFC Relay**  
-  Fonte: The Hacker News, 03 Dec 2025, 15:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html>)
-
-- **Ridurre le dimensioni dell’intelligenza artificiale: trasformare la tecnologia dirompente in un vantaggio strategico**  
-  Fonte: The Hacker News, 03 Dec 2025, 09:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html>)
-
-- **I bug di Picklescan consentono ai modelli PyTorch dannosi di eludere le scansioni ed eseguire codice**  
-  Fonte: The Hacker News, 03 Dec 2025, 09:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html>)
-
-- **Malicious Rust Crate distribuisce malware specifico del sistema operativo ai sistemi di sviluppo Web3**  
-  Fonte: The Hacker News, 03 Dec 2025, 08:39:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-10 06:21:17 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-11 06:20:58 UTC -->
