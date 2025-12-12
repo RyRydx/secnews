@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **CISA segnala il difetto GeoServer XXE attivamente sfruttato nel catalogo KEV aggiornato**  
+  Fonte: The Hacker News, 12 Dec 2025, 05:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html>)
+
+- **Il browser Brave inizia a testare la modalità AI agentica per attività automatizzate**  
+  Fonte: BleepingComputer, 11 Dec 2025, 23:03:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/>)
+
+- **Gli hacker sfruttano il difetto crittografico Gladinet CentreStack negli attacchi RCE**  
+  Fonte: BleepingComputer, 11 Dec 2025, 21:49:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/>)
+
+- **Notepad++ corregge un difetto che consente agli aggressori di inviare file di aggiornamento dannosi**  
+  Fonte: BleepingComputer, 11 Dec 2025, 21:04:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/>)
+
+- **Le estensioni dannose del VSCode Marketplace nascondevano il trojan in un file PNG falso**  
+  Fonte: BleepingComputer, 11 Dec 2025, 20:54:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/>)
+
+- **Il Regno Unito multa LastPass per violazione dei dati avvenuta nel 2022 che ha colpito 1,6 milioni di utenti**  
+  Fonte: BleepingComputer, 11 Dec 2025, 17:09:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/>)
+
+- **Le IA sfruttano i contratti intelligenti**  
+  Fonte: Schneier on Security, 11 Dec 2025, 17:06:05 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html>)
+
+- **Il programma di ricompensa di Microsoft ora include qualsiasi difetto che influisca sui suoi servizi**  
+  Fonte: BleepingComputer, 11 Dec 2025, 16:00:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/>)
+
+- **Il nuovo attacco ConsentFix prende il controllo degli account Microsoft tramite la CLI di Azure**  
+  Fonte: BleepingComputer, 11 Dec 2025, 15:10:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/>)
+
+- **L’intelligenza artificiale sta accelerando gli attacchi informatici.La tua rete è preparata?**  
+  Fonte: BleepingComputer, 11 Dec 2025, 15:05:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/>)
+
+- **Bollettino del ThreatsDay: avvisi di spyware, attacchi Mirai, perdite di Docker, rootkit ValleyRAT e altre 20 storie**  
+  Fonte: The Hacker News, 11 Dec 2025, 13:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html>)
+
+- **Gli hacker sfruttano il giorno zero di Gogs senza patch per violare 700 server**  
+  Fonte: BleepingComputer, 11 Dec 2025, 13:19:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/>)
+
+- **Il malware NANOREMOTE utilizza l'API di Google Drive per il controllo nascosto sui sistemi Windows**  
+  Fonte: The Hacker News, 11 Dec 2025, 13:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html>)
+
+- **L'impatto dell'automazione robotica dei processi (RPA) sulla gestione delle identità e degli accessi**  
+  Fonte: The Hacker News, 11 Dec 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/the-impact-of-robotic-process.html>)
+
+- **WRITE sfrutta il sideloading di AshenLoader per installare la backdoor di spionaggio HAshTag**  
+  Fonte: The Hacker News, 11 Dec 2025, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html>)
+
+- **Gogs Zero-Day senza patch sfruttato in oltre 700 istanze durante attacchi attivi**  
+  Fonte: The Hacker News, 11 Dec 2025, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html>)
+
+- **Microsoft risolve i flash bianchi di Windows Explorer in modalità oscura**  
+  Fonte: BleepingComputer, 11 Dec 2025, 10:09:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/>)
+
+- **Google risolve l'ottavo zero-day di Chrome sfruttato negli attacchi nel 2025**  
+  Fonte: BleepingComputer, 11 Dec 2025, 08:01:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-fixes-eighth-chrome-zero-day-exploited-in-attacks-in-2025/>)
+
+- **Chrome preso di mira da un exploit in-the-wild attivo legato a un difetto di elevata gravità non divulgato**  
+  Fonte: The Hacker News, 11 Dec 2025, 07:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html>)
+
+- **Gli attacchi attivi sfruttano le chiavi codificate di Gladinet per l'accesso non autorizzato e l'esecuzione di codice**  
+  Fonte: The Hacker News, 11 Dec 2025, 05:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html>)
+
 - **Podcast di Smashing Security n. 447: Grok lo stalker, la rapina al Louvre e il caos di Microsoft 365**  
   Fonte: Graham Cluley, 11 Dec 2025, 00:30:16 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-447/>)
@@ -18,37 +98,17 @@
   Fonte: The Hacker News, 10 Dec 2025, 20:19:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html>)
 
-- **Microsoft Teams avvisa del traffico sospetto con domini esterni**  
-  Fonte: BleepingComputer, 10 Dec 2025, 19:32:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/>)
-
 - **Il difetto di .NET SOAPwn apre le porte alla scrittura di file e all'esecuzione di codice remoto tramite WSDL non autorizzato**  
   Fonte: The Hacker News, 10 Dec 2025, 19:21:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html>)
-
-- **Oltre 10.000 immagini Docker Hub hanno riscontrato perdite di credenziali e chiavi di autenticazione**  
-  Fonte: BleepingComputer, 10 Dec 2025, 18:22:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/>)
 
 - **Il ransomware potrebbe aver estorto oltre 2,1 miliardi di dollari tra il 2022 e il 2024, ma non sono tutte brutte notizie, afferma il rapporto FinCEN**  
   Fonte: Graham Cluley, 10 Dec 2025, 16:17:02 UTC  
   [Leggi](<https://www.fortra.com/blog/ransomware-may-have-extorted-over-21-billion-between-2022-2024-its-not-all-bad-news-claims>)
 
-- **Perché un ciclo di vita di sviluppo software sicuro è fondamentale per i produttori**  
-  Fonte: BleepingComputer, 10 Dec 2025, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-a-secure-software-development-life-cycle-is-critical-for-manufacturers/>)
-
-- **Il nuovo servizio di phishing di Spiderman prende di mira decine di banche europee**  
-  Fonte: BleepingComputer, 10 Dec 2025, 14:53:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/>)
-
 - **Tre punti deboli della crittografia PCIe espongono i sistemi PCIe 5.0+ a una gestione dei dati errata**  
   Fonte: The Hacker News, 10 Dec 2025, 13:32:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html>)
-
-- **Hacker ucraino accusato di aver aiutato gruppi di hacktivisti russi**  
-  Fonte: BleepingComputer, 10 Dec 2025, 12:26:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/>)
 
 - **L'FBI avverte di truffe video false**  
   Fonte: Schneier on Security, 10 Dec 2025, 12:05:37 UTC  
@@ -58,13 +118,13 @@
   Fonte: Graham Cluley, 10 Dec 2025, 12:00:59 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/four-years-later-irish-health-service-offers-eu750-to-victims-of-ransomware-attack>)
 
-- **Webinar: come gli aggressori sfruttano le configurazioni errate del cloud su AWS, modelli AI e Kubernetes**  
-  Fonte: The Hacker News, 10 Dec 2025, 11:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html>)
-
 - **Avviso: vulnerabilità WinRAR CVE-2025-6218 sotto attacco attivo da parte di più gruppi di minacce**  
   Fonte: The Hacker News, 10 Dec 2025, 11:54:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html>)
+
+- **Webinar: come gli aggressori sfruttano le configurazioni errate del cloud su AWS, modelli AI e Kubernetes**  
+  Fonte: The Hacker News, 10 Dec 2025, 11:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html>)
 
 - **Microsoft rilascia correzioni di sicurezza per 56 difetti, tra cui l'exploit attivo e due zero-day**  
   Fonte: The Hacker News, 10 Dec 2025, 08:50:00 UTC  
@@ -78,26 +138,6 @@
   Fonte: Krebs on Security, 09 Dec 2025, 23:18:29 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/>)
 
-- **SAP risolve tre vulnerabilità critiche su più prodotti**  
-  Fonte: BleepingComputer, 09 Dec 2025, 22:41:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sap-fixes-three-critical-vulnerabilities-across-multiple-products/>)
-
-- **Windows PowerShell ora avvisa quando si eseguono script Invoke-WebRequest**  
-  Fonte: BleepingComputer, 09 Dec 2025, 20:45:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/>)
-
-- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5071546 di Windows 10**  
-  Fonte: BleepingComputer, 09 Dec 2025, 19:54:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/>)
-
-- **Il Patch Tuesday di Microsoft di dicembre 2025 corregge 3 zero-day e 57 difetti**  
-  Fonte: BleepingComputer, 09 Dec 2025, 18:38:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/>)
-
-- **Fortinet avverte di difetti critici di bypass dell'autenticazione dell'accesso SSO di FortiCloud**  
-  Fonte: BleepingComputer, 09 Dec 2025, 18:36:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-forticloud-sso-login-auth-bypass-flaws/>)
-
 - **Attori legati alla Corea del Nord sfruttano React2Shell per distribuire il nuovo malware EtherRAT**  
   Fonte: The Hacker News, 09 Dec 2025, 18:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html>)
@@ -110,7 +150,7 @@
   Fonte: The Hacker News, 09 Dec 2025, 16:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html>)
 
-- **La soluzione AI n. 80: il rivale economico GPT-5 di DeepSeek, Antigravity, fallisce e al tuo LLM piace quando sei scortese**  
+- **La correzione AI n. 80: il rivale GPT-5 economico di DeepSeek, Antigravity fallisce e al tuo LLM piace quando sei scortese**  
   Fonte: Graham Cluley, 09 Dec 2025, 15:30:17 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-80/>)
 
@@ -118,7 +158,7 @@
   Fonte: The Hacker News, 09 Dec 2025, 13:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html>)
 
-- **AI contro guidatori umani**  
+- **AI contro conducenti umani**  
   Fonte: Schneier on Security, 09 Dec 2025, 12:07:53 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/ai-vs-human-drivers.html>)
 
@@ -218,37 +258,5 @@
   Fonte: Troy Hunt, 05 Dec 2025, 07:14:33 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-481/>)
 
-- **JPCERT conferma attacchi di command injection attivi sui gateway di array AG**  
-  Fonte: The Hacker News, 05 Dec 2025, 05:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/jpcert-confirms-active-command.html>)
 
-- **Gli SMS Phisher si concentrano su punti, tasse e rivenditori falsi**  
-  Fonte: Krebs on Security, 04 Dec 2025, 23:02:34 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/>)
-
-- **Perché l’attacco DDoS da 30 Tbps da record dovrebbe preoccupare ogni azienda**  
-  Fonte: Graham Cluley, 04 Dec 2025, 17:41:41 UTC  
-  [Leggi](<https://www.fortra.com/blog/why-record-breaking-30-tbps-ddos-attack-concern-business>)
-
-- **Silver Fox utilizza il falso programma di installazione di Microsoft Teams per diffondere il malware ValleyRAT in Cina**  
-  Fonte: The Hacker News, 04 Dec 2025, 17:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html>)
-
-- **Bollettino del ThreatsDay: attacchi Wi-Fi, worm npm, furti DeFi, attacchi di phishing e altre 15 storie**  
-  Fonte: The Hacker News, 04 Dec 2025, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html>)
-
-- **5 minacce che hanno rimodellato la sicurezza web quest'anno [2025]**  
-  Fonte: The Hacker News, 04 Dec 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html>)
-
-- **GoldFactory colpisce il sud-est asiatico con app bancarie modificate che provocano oltre 11.000 infezioni**  
-  Fonte: The Hacker News, 04 Dec 2025, 09:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html>)
-
-- **Registra attacchi DDoS da 29,7 Tbps collegati alla botnet AISURU con un massimo di 4 milioni di host infetti**  
-  Fonte: The Hacker News, 04 Dec 2025, 06:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-11 06:20:58 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-12 06:21:12 UTC -->
