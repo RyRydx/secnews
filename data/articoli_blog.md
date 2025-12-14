@@ -2,6 +2,10 @@
 
 ## Ultimi 7 giorni
 
+- **CISA aggiunge un difetto del router wireless Sierra attivamente sfruttato che consente attacchi RCE**  
+  Fonte: The Hacker News, 13 Dec 2025, 12:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html>)
+
 - **Apple rilascia aggiornamenti di sicurezza dopo che due difetti di WebKit sono stati sfruttati in natura**  
   Fonte: The Hacker News, 13 Dec 2025, 05:32:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html>)
@@ -41,6 +45,10 @@
 - **Nuovi kit di phishing avanzati utilizzano tattiche di bypass di intelligenza artificiale e MFA per rubare credenziali su larga scala**  
   Fonte: The Hacker News, 12 Dec 2025, 14:04:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html>)
+
+- **Gartner dice alle aziende di bloccare subito i browser AI**  
+  Fonte: Graham Cluley, 12 Dec 2025, 12:52:38 UTC  
+  [Leggi](<https://www.fortra.com/blog/gartner-tells-businesses-block-ai-browsers-now>)
 
 - **Creazione di agenti IA affidabili**  
   Fonte: Schneier on Security, 12 Dec 2025, 12:00:47 UTC  
@@ -126,6 +134,10 @@
   Fonte: The Hacker News, 11 Dec 2025, 05:56:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html>)
 
+- **Podcast di Smashing Security n. 447: Grok lo stalker, la rapina al Louvre e il caos di Microsoft 365**  
+  Fonte: Graham Cluley, 11 Dec 2025, 00:30:16 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-447/>)
+
 - **React2Shell Exploitation distribuisce crypto miner e nuovi malware in più settori**  
   Fonte: The Hacker News, 10 Dec 2025, 20:19:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html>)
@@ -134,6 +146,10 @@
   Fonte: The Hacker News, 10 Dec 2025, 19:21:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html>)
 
+- **Il ransomware potrebbe aver estorto oltre 2,1 miliardi di dollari tra il 2022 e il 2024, ma non sono tutte brutte notizie, afferma il rapporto FinCEN**  
+  Fonte: Graham Cluley, 10 Dec 2025, 16:17:02 UTC  
+  [Leggi](<https://www.fortra.com/blog/ransomware-may-have-extorted-over-21-billion-between-2022-2024-its-not-all-bad-news-claims>)
+
 - **Tre punti deboli della crittografia PCIe espongono i sistemi PCIe 5.0+ a una gestione dei dati errata**  
   Fonte: The Hacker News, 10 Dec 2025, 13:32:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html>)
@@ -141,6 +157,10 @@
 - **L'FBI avverte di truffe video false**  
   Fonte: Schneier on Security, 10 Dec 2025, 12:05:37 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html>)
+
+- **Quattro anni dopo, il servizio sanitario irlandese offre 750 euro alle vittime di attacchi ransomware**  
+  Fonte: Graham Cluley, 10 Dec 2025, 12:00:59 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/four-years-later-irish-health-service-offers-eu750-to-victims-of-ransomware-attack>)
 
 - **Avviso: vulnerabilità WinRAR CVE-2025-6218 sotto attacco attivo da parte di più gruppi di minacce**  
   Fonte: The Hacker News, 10 Dec 2025, 11:54:00 UTC  
@@ -166,9 +186,17 @@
   Fonte: The Hacker News, 09 Dec 2025, 18:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html>)
 
+- **Un uomo californiano ammette di aver avuto un ruolo nel furto di criptovalute da 263 milioni di dollari che ha finanziato uno stile di vita lussuoso**  
+  Fonte: Graham Cluley, 09 Dec 2025, 16:13:48 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/california-man-admits-role-in-263-million-cryptocurrency-theft-that-funded-lavish-lifestyle>)
+
 - **Quattro cluster di minacce che utilizzano CastleLoader mentre GrayBravo espande la propria infrastruttura di servizi antimalware**  
   Fonte: The Hacker News, 09 Dec 2025, 16:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html>)
+
+- **La correzione AI n. 80: il rivale GPT-5 economico di DeepSeek, Antigravity fallisce e al tuo LLM piace quando sei scortese**  
+  Fonte: Graham Cluley, 09 Dec 2025, 15:30:17 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-80/>)
 
 - **Storm-0249 intensifica gli attacchi ransomware con ClickFix, Fileless PowerShell e sideloading DLL**  
   Fonte: The Hacker News, 09 Dec 2025, 13:37:00 UTC  
@@ -198,6 +226,10 @@
   Fonte: The Hacker News, 08 Dec 2025, 17:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html>)
 
+- **Problemi di privacy sollevati quando Grok AI ha scoperto di essere il migliore amico di uno stalker**  
+  Fonte: Graham Cluley, 08 Dec 2025, 14:45:48 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/privacy-concerns-raised-as-grok-ai-found-to-be-a-stalkers-best-friend>)
+
 - **⚡ Riepilogo settimanale: malware USB, React2Shell, worm WhatsApp, bug IDE AI e altro**  
   Fonte: The Hacker News, 08 Dec 2025, 12:44:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html>)
@@ -222,17 +254,5 @@
   Fonte: The Hacker News, 08 Dec 2025, 06:46:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html>)
 
-- **I ricercatori scoprono oltre 30 difetti negli strumenti di codifica dell'intelligenza artificiale che consentono il furto di dati e attacchi RCE**  
-  Fonte: The Hacker News, 06 Dec 2025, 15:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html>)
 
-- **Dai droni ai diplomi: come la più grande università privata della Russia è collegata a una fabbrica di saggi da 25 milioni di dollari**  
-  Fonte: Krebs on Security, 06 Dec 2025, 14:45:03 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/>)
-
-- **Difetto critico React2Shell aggiunto a CISA KEV dopo lo sfruttamento attivo confermato**  
-  Fonte: The Hacker News, 06 Dec 2025, 11:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-13 06:18:32 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-14 06:18:44 UTC -->
