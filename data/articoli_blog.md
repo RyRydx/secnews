@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Prossimi impegni di conferenza**  
+  Fonte: Schneier on Security, 14 Dec 2025, 17:10:39 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/upcoming-speaking-engagements-51.html>)
+
+- **Attenzione: abbonamenti PayPal abusati per inviare email di acquisto false**  
+  Fonte: BleepingComputer, 14 Dec 2025, 16:06:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/>)
+
+- **Il debutto del ransomware di CyberVolk si scontra con la debolezza della crittografia**  
+  Fonte: BleepingComputer, 13 Dec 2025, 15:11:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/>)
+
 - **CISA aggiunge un difetto del router wireless Sierra attivamente sfruttato che consente attacchi RCE**  
   Fonte: The Hacker News, 13 Dec 2025, 12:33:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html>)
@@ -89,18 +101,6 @@
 - **Il browser Brave inizia a testare la modalità AI agentica per attività automatizzate**  
   Fonte: BleepingComputer, 11 Dec 2025, 23:03:37 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/>)
-
-- **Gli hacker sfruttano il difetto crittografico Gladinet CentreStack negli attacchi RCE**  
-  Fonte: BleepingComputer, 11 Dec 2025, 21:49:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/>)
-
-- **Notepad++ corregge un difetto che consente agli aggressori di inviare file di aggiornamento dannosi**  
-  Fonte: BleepingComputer, 11 Dec 2025, 21:04:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/>)
-
-- **Le estensioni dannose del VSCode Marketplace nascondevano il trojan in un file PNG falso**  
-  Fonte: BleepingComputer, 11 Dec 2025, 20:54:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/>)
 
 - **Le IA sfruttano i contratti intelligenti**  
   Fonte: Schneier on Security, 11 Dec 2025, 17:06:05 UTC  
@@ -255,4 +255,4 @@
   [Leggi](<https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html>)
 
 
-<!-- Ultimo aggiornamento: 2025-12-14 06:18:44 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-15 06:21:32 UTC -->
