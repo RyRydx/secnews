@@ -2,6 +2,90 @@
 
 ## Ultimi 7 giorni
 
+- **CISA segnala un difetto critico dell'ASUS Live Update dopo prove di sfruttamento attivo**  
+  Fonte: The Hacker News, 18 Dec 2025, 05:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html>)
+
+- **Cisco avverte di attacchi attivi che sfruttano 0-Day senza patch nelle apparecchiature di sicurezza e-mail AsyncOS**  
+  Fonte: The Hacker News, 18 Dec 2025, 04:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html>)
+
+- **Podcast di Smashing Security n. 448: Il Kindle che è stato criticato**  
+  Fonte: Graham Cluley, 18 Dec 2025, 00:30:44 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-448/>)
+
+- **L'evento di hacking Zeroday Cloud assegna $ 320.000 per 11 zero giorni**  
+  Fonte: BleepingComputer, 17 Dec 2025, 23:09:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/>)
+
+- **La Francia arresta un sospetto legato ad un attacco informatico al Ministero dell'Interno**  
+  Fonte: BleepingComputer, 17 Dec 2025, 22:20:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/>)
+
+- **Amazon: la campagna di cryptomining in corso utilizza account AWS compromessi**  
+  Fonte: BleepingComputer, 17 Dec 2025, 21:48:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/>)
+
+- **Collegamento del dispositivo WhatsApp abusato negli attacchi di compromissione dell'account**  
+  Fonte: BleepingComputer, 17 Dec 2025, 19:14:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/>)
+
+- **Cisco avverte di AsyncOS zero-day senza patch sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 17 Dec 2025, 18:45:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/>)
+
+- **SonicWall risolve il problema CVE-2025-40602 attivamente sfruttato negli apparecchi SMA 100**  
+  Fonte: The Hacker News, 17 Dec 2025, 18:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html>)
+
+- **La botnet Kimwolf prende il controllo di 1,8 milioni di TV Android e lancia attacchi DDoS su larga scala**  
+  Fonte: The Hacker News, 17 Dec 2025, 18:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html>)
+
+- **Sonicwall avverte del nuovo zero-day SMA1000 sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 17 Dec 2025, 17:44:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/>)
+
+- **Difetto critico di React2Shell sfruttato negli attacchi ransomware**  
+  Fonte: BleepingComputer, 17 Dec 2025, 16:09:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/>)
+
+- **APT28 prende di mira gli utenti ucraini della rete UKR in una campagna di phishing di credenziali di lunga durata**  
+  Fonte: The Hacker News, 17 Dec 2025, 15:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html>)
+
+- **Nuovi attacchi di phishing ForumTroll prendono di mira gli studiosi russi utilizzando false e-mail di eLibrary**  
+  Fonte: The Hacker News, 17 Dec 2025, 14:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html>)
+
+- **Il tuo MFA ti costa milioni.Non è necessario.**  
+  Fonte: BleepingComputer, 17 Dec 2025, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/>)
+
+- **Microsoft chiede agli amministratori di contattare la correzione degli errori di Windows IIS**  
+  Fonte: BleepingComputer, 17 Dec 2025, 12:30:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/>)
+
+- **Arresti deliberati di Internet**  
+  Fonte: Schneier on Security, 17 Dec 2025, 12:02:01 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html>)
+
+- **Correggi i punti ciechi del SOC: visualizza le minacce al tuo settore e al tuo Paese in tempo reale**  
+  Fonte: The Hacker News, 17 Dec 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html>)
+
+- **Ink Dragon, legato alla Cina, hackera i governi utilizzando ShadowPad e il malware FINALDRAFT**  
+  Fonte: The Hacker News, 17 Dec 2025, 11:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html>)
+
+- **Sorveglianza in mare: la compagnia di crociere vieta gli occhiali intelligenti per frenare la registrazione nascosta**  
+  Fonte: Graham Cluley, 17 Dec 2025, 09:33:42 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/surveillance-at-sea-cruise-firm-bans-smart-glasses-to-curb-covert-recording>)
+
+- **Malware GhostPoster trovato in 17 componenti aggiuntivi di Firefox con oltre 50.000 download**  
+  Fonte: The Hacker News, 17 Dec 2025, 08:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html>)
+
 - **Il malware Android Cellik crea versioni dannose dalle app Google Play**  
   Fonte: BleepingComputer, 16 Dec 2025, 22:59:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/>)
@@ -18,17 +102,9 @@
   Fonte: BleepingComputer, 16 Dec 2025, 20:13:09 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/>)
 
-- **Il Texas fa causa ai produttori televisivi per aver scattato screenshot di ciò che la gente guarda**  
-  Fonte: BleepingComputer, 16 Dec 2025, 17:29:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/texas-sues-tv-makers-for-spying-on-users-selling-data-without-consent/>)
-
 - **Le credenziali IAM compromesse alimentano una vasta campagna di mining di criptovalute AWS**  
   Fonte: The Hacker News, 16 Dec 2025, 16:35:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html>)
-
-- **Gli hacker sfruttano i difetti di bypass dell'autenticazione Fortinet appena corretti**  
-  Fonte: BleepingComputer, 16 Dec 2025, 15:57:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/>)
 
 - **Il pacchetto NuGet canaglia si finge Tracer.Fody e ruba i dati del portafoglio di criptovaluta**  
   Fonte: The Hacker News, 16 Dec 2025, 15:39:00 UTC  
@@ -38,21 +114,9 @@
   Fonte: Graham Cluley, 16 Dec 2025, 15:30:03 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-81/>)
 
-- **Un attacco informatico interrompe le operazioni del colosso petrolifero venezuelano PDVSA**  
-  Fonte: BleepingComputer, 16 Dec 2025, 15:19:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-venezuelan-oil-giant-pdvsas-operations/>)
-
-- **Il rischio nascosto nella virtualizzazione: perché gli hypervisor sono una calamita per i ransomware**  
-  Fonte: BleepingComputer, 16 Dec 2025, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/>)
-
 - **La maggior parte dei domini parcheggiati ora pubblicano contenuti dannosi**  
   Fonte: Krebs on Security, 16 Dec 2025, 14:14:48 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/>)
-
-- **Microsoft blocca l'accesso a Exchange Online per i dispositivi mobili obsoleti**  
-  Fonte: BleepingComputer, 16 Dec 2025, 12:53:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/>)
 
 - **Amazon espone una campagna informatica del GRU durata anni che prende di mira l'energia e l'infrastruttura cloud**  
   Fonte: The Hacker News, 16 Dec 2025, 12:27:00 UTC  
@@ -61,10 +125,6 @@
 - **Sorveglianza cinese e intelligenza artificiale**  
   Fonte: Schneier on Security, 16 Dec 2025, 12:02:32 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/chinese-surveillance-and-ai.html>)
-
-- **Le autorità europee smantellano la rete di frodi nei call center in Ucraina**  
-  Fonte: BleepingComputer, 16 Dec 2025, 11:44:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/european-authorities-dismantle-call-center-fraud-ring-in-ukraine/>)
 
 - **Perché la sicurezza e la privacy dei dati devono iniziare dal codice**  
   Fonte: The Hacker News, 16 Dec 2025, 11:30:00 UTC  
@@ -82,22 +142,6 @@
   Fonte: The Hacker News, 16 Dec 2025, 06:02:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html>)
 
-- **SoundCloud conferma la violazione dopo il furto dei dati dei membri e l'interruzione dell'accesso VPN**  
-  Fonte: BleepingComputer, 16 Dec 2025, 00:38:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/>)
-
-- **Google chiuderà la sua funzionalità di reportistica sul dark web a gennaio**  
-  Fonte: BleepingComputer, 15 Dec 2025, 23:24:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-is-shutting-down-its-dark-web-report-feature-in-january/>)
-
-- **Askul conferma il furto di 740.000 record di clienti durante un attacco ransomware**  
-  Fonte: BleepingComputer, 15 Dec 2025, 23:13:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/askul-confirms-theft-of-740k-customer-records-in-ransomhouse-attack/>)
-
-- **Il nuovo malware SantaStealer ruba dati da browser e portafogli crittografici**  
-  Fonte: BleepingComputer, 15 Dec 2025, 22:43:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/>)
-
 - **L'estensione del browser Chrome in primo piano è stata catturata mentre intercettava milioni di chat AI di utenti**  
   Fonte: The Hacker News, 15 Dec 2025, 17:46:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/featured-chrome-browser-extension.html>)
@@ -106,7 +150,7 @@
   Fonte: The Hacker News, 15 Dec 2025, 14:32:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html>)
 
-- **Analisi dell'anno radar Cloudflare 2025: l'ascesa degli attacchi DDoS post-quantici e da record basati sull'intelligenza artificiale**  
+- **Analisi dell'anno radar Cloudflare 2025: l'ascesa degli attacchi DDoS da record, post-quantici e basati sull'intelligenza artificiale**  
   Fonte: Cloudflare Blog - Security, 15 Dec 2025, 14:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/radar-2025-year-in-review/>)
 
@@ -130,7 +174,7 @@
   Fonte: The Hacker News, 15 Dec 2025, 09:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html>)
 
-- **Ransomware VolkLocker esposto da una chiave master codificata che consente la decrittazione gratuita**  
+- **VolkLocker Ransomware esposto da una chiave master codificata che consente la decrittazione gratuita**  
   Fonte: The Hacker News, 15 Dec 2025, 05:33:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html>)
 
@@ -142,7 +186,7 @@
   Fonte: The Hacker News, 13 Dec 2025, 12:33:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html>)
 
-- **Apple rilascia aggiornamenti di sicurezza dopo che due difetti di WebKit sono stati rilevati e sfruttati in natura**  
+- **Apple pubblica aggiornamenti di sicurezza dopo che due difetti di WebKit sono stati sfruttati in natura**  
   Fonte: The Hacker News, 13 Dec 2025, 05:32:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html>)
 
@@ -214,49 +258,5 @@
   Fonte: The Hacker News, 11 Dec 2025, 07:09:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html>)
 
-- **Gli attacchi attivi sfruttano le chiavi codificate di Gladinet per l'accesso non autorizzato e l'esecuzione di codice**  
-  Fonte: The Hacker News, 11 Dec 2025, 05:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html>)
 
-- **Podcast di Smashing Security n. 447: Grok lo stalker, la rapina al Louvre e il caos di Microsoft 365**  
-  Fonte: Graham Cluley, 11 Dec 2025, 00:30:16 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-447/>)
-
-- **React2Shell Exploitation distribuisce crypto miner e nuovi malware in più settori**  
-  Fonte: The Hacker News, 10 Dec 2025, 20:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html>)
-
-- **Il difetto di .NET SOAPwn apre le porte alla scrittura di file e all'esecuzione di codice remoto tramite WSDL non autorizzato**  
-  Fonte: The Hacker News, 10 Dec 2025, 19:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html>)
-
-- **Il ransomware potrebbe aver estorto oltre 2,1 miliardi di dollari tra il 2022 e il 2024, ma non sono tutte brutte notizie, afferma il rapporto FinCEN**  
-  Fonte: Graham Cluley, 10 Dec 2025, 16:17:02 UTC  
-  [Leggi](<https://www.fortra.com/blog/ransomware-may-have-extorted-over-21-billion-between-2022-2024-its-not-all-bad-news-claims>)
-
-- **Tre punti deboli della crittografia PCIe espongono i sistemi PCIe 5.0+ a una gestione dei dati errata**  
-  Fonte: The Hacker News, 10 Dec 2025, 13:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html>)
-
-- **L'FBI avverte di truffe video false**  
-  Fonte: Schneier on Security, 10 Dec 2025, 12:05:37 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html>)
-
-- **Quattro anni dopo, il servizio sanitario irlandese offre 750 euro alle vittime di attacchi ransomware**  
-  Fonte: Graham Cluley, 10 Dec 2025, 12:00:59 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/four-years-later-irish-health-service-offers-eu750-to-victims-of-ransomware-attack>)
-
-- **Avviso: vulnerabilità WinRAR CVE-2025-6218 sotto attacco attivo da parte di più gruppi di minacce**  
-  Fonte: The Hacker News, 10 Dec 2025, 11:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html>)
-
-- **Webinar: come gli aggressori sfruttano le configurazioni errate del cloud su AWS, modelli AI e Kubernetes**  
-  Fonte: The Hacker News, 10 Dec 2025, 11:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html>)
-
-- **Microsoft rilascia correzioni di sicurezza per 56 difetti, tra cui l'exploit attivo e due zero-day**  
-  Fonte: The Hacker News, 10 Dec 2025, 08:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-17 06:21:16 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-18 06:21:08 UTC -->
