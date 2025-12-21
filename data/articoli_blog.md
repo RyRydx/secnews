@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **L'APT iraniano Infy riemerge con una nuova attività malware dopo anni di silenzio**  
+  Fonte: The Hacker News, 21 Dec 2025, 04:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html>)
+
+- **RansomHouse aggiorna la crittografia con l'elaborazione dei dati a più livelli**  
+  Fonte: BleepingComputer, 20 Dec 2025, 15:23:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/>)
+
+- **Il Dipartimento di Giustizia degli Stati Uniti accusa 54 di un sistema di jackpotting ATM utilizzando il malware Poutus**  
+  Fonte: The Hacker News, 20 Dec 2025, 13:48:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html>)
+
+- **Aggiornamento settimanale 483**  
+  Fonte: Troy Hunt, 20 Dec 2025, 06:31:41 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-483/>)
+
 - **Blog sui calamari del venerdì: accarezzare un calamaro**  
   Fonte: Schneier on Security, 19 Dec 2025, 22:06:59 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html>)
@@ -38,7 +54,7 @@
   Fonte: BleepingComputer, 19 Dec 2025, 15:00:45 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/>)
 
-- **Criminal IP e Cortex XSOAR di Palo Alto Networks si integrano per portare l'intelligence sull'esposizione basata sull'intelligenza artificiale nella risposta automatizzata agli incidenti**  
+- **Criminal IP e Cortex XSOAR di Palo Alto Networks si integrano per portare l'intelligence sull'esposizione basata sull'intelligenza artificiale alla risposta automatizzata agli incidenti**  
   Fonte: BleepingComputer, 19 Dec 2025, 14:30:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/>)
 
@@ -58,7 +74,7 @@
   Fonte: The Hacker News, 19 Dec 2025, 10:26:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html>)
 
-- **Nuova falla critica nel firewall WatchGuard Firebox sfruttata negli attacchi**  
+- **Nuovo difetto critico del firewall WatchGuard Firebox sfruttato negli attacchi**  
   Fonte: BleepingComputer, 19 Dec 2025, 10:25:06 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/>)
 
@@ -85,10 +101,6 @@
 - **Un gruppo di minacce allineato alla Cina utilizza i Criteri di gruppo di Windows per distribuire malware di spionaggio**  
   Fonte: The Hacker News, 18 Dec 2025, 17:34:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html>)
-
-- **Nuovi attacchi di password spraying prendono di mira i gateway VPN Cisco e PAN**  
-  Fonte: BleepingComputer, 18 Dec 2025, 17:27:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/>)
 
 - **Qualcuno è salito su un aereo a Heathrow senza biglietto né passaporto**  
   Fonte: Schneier on Security, 18 Dec 2025, 16:41:14 UTC  
@@ -118,7 +130,7 @@
   Fonte: The Hacker News, 18 Dec 2025, 05:01:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html>)
 
-- **Cisco avverte di attacchi attivi che sfruttano 0-Day senza patch nelle apparecchiature di sicurezza e-mail AsyncOS**  
+- **Cisco mette in guardia contro attacchi attivi che sfruttano 0-Day senza patch nelle apparecchiature di sicurezza e-mail AsyncOS**  
   Fonte: The Hacker News, 18 Dec 2025, 04:10:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html>)
 
@@ -246,9 +258,5 @@
   Fonte: Schneier on Security, 14 Dec 2025, 17:10:39 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/upcoming-speaking-engagements-51.html>)
 
-- **CISA aggiunge un difetto del router wireless Sierra attivamente sfruttato che consente attacchi RCE**  
-  Fonte: The Hacker News, 13 Dec 2025, 12:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-12-20 06:19:50 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-21 06:19:37 UTC -->
