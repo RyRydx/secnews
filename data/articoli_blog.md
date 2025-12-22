@@ -54,7 +54,7 @@
   Fonte: BleepingComputer, 19 Dec 2025, 15:00:45 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/>)
 
-- **Criminal IP e Cortex XSOAR di Palo Alto Networks si integrano per portare l'intelligence sull'esposizione basata sull'intelligenza artificiale alla risposta automatizzata agli incidenti**  
+- **Criminal IP e Cortex XSOAR di Palo Alto Networks si integrano per portare l'intelligence sull'esposizione basata sull'intelligenza artificiale nella risposta automatizzata agli incidenti**  
   Fonte: BleepingComputer, 19 Dec 2025, 14:30:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/>)
 
@@ -226,7 +226,7 @@
   Fonte: The Hacker News, 15 Dec 2025, 14:32:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html>)
 
-- **Revisione dell'anno radar Cloudflare 2025: l'ascesa degli attacchi DDoS da record, post-quantici e basati sull'intelligenza artificiale**  
+- **Analisi dell'anno radar Cloudflare 2025: l'ascesa degli attacchi DDoS post-quantici e da record basati sull'intelligenza artificiale**  
   Fonte: Cloudflare Blog - Security, 15 Dec 2025, 14:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/radar-2025-year-in-review/>)
 
@@ -250,13 +250,5 @@
   Fonte: The Hacker News, 15 Dec 2025, 09:24:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html>)
 
-- **Ransomware VolkLocker esposto da una chiave master codificata che consente la decrittazione gratuita**  
-  Fonte: The Hacker News, 15 Dec 2025, 05:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html>)
 
-- **Prossimi impegni di conferenza**  
-  Fonte: Schneier on Security, 14 Dec 2025, 17:10:39 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/upcoming-speaking-engagements-51.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-21 06:19:37 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-22 06:22:35 UTC -->
