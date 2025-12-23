@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Nissan afferma che migliaia di clienti sono stati esposti alla violazione di Red Hat**  
+  Fonte: BleepingComputer, 22 Dec 2025, 21:32:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/>)
+
+- **Il nuovo dropper di malware MacSync elude i controlli di macOS Gatekeeper**  
+  Fonte: BleepingComputer, 22 Dec 2025, 20:43:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/>)
+
+- **L'azione condotta dall'Interpol decripta 6 ceppi di ransomware e ne arresta centinaia**  
+  Fonte: BleepingComputer, 22 Dec 2025, 18:38:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/>)
+
+- **Microsoft sta finalmente uccidendo RC4**  
+  Fonte: Schneier on Security, 22 Dec 2025, 17:05:09 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html>)
+
+- **Il pacchetto API WhatsApp falso su npm ruba messaggi, contatti e token di accesso**  
+  Fonte: The Hacker News, 22 Dec 2025, 16:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html>)
+
+- **Il pacchetto npm dannoso ruba account e messaggi WhatsApp**  
+  Fonte: BleepingComputer, 22 Dec 2025, 16:08:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/>)
+
+- **L'autorità idrica rumena colpita da un attacco ransomware nel fine settimana**  
+  Fonte: BleepingComputer, 22 Dec 2025, 15:25:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/>)
+
+- **La violazione dei dati dell’Università di Phoenix colpisce quasi 3,5 milioni di persone**  
+  Fonte: BleepingComputer, 22 Dec 2025, 14:18:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/>)
+
+- **La violazione di Coupang che colpisce 33,7 milioni di utenti solleva interrogativi sulla protezione dei dati**  
+  Fonte: BleepingComputer, 22 Dec 2025, 14:00:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/>)
+
+- **⚡ Riepilogo settimanale: exploit del firewall, furto di dati AI, hack Android, attacchi APT, fughe di notizie interne e altro**  
+  Fonte: The Hacker News, 22 Dec 2025, 12:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html>)
+
+- **Come navigare sul Web in modo più sostenibile con un browser ecologico**  
+  Fonte: The Hacker News, 22 Dec 2025, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html>)
+
+- **Il CISA segnala CVE ASUS Live Update, ma l'attacco è vecchio di anni**  
+  Fonte: BleepingComputer, 22 Dec 2025, 11:09:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-asus-live-update-cve-but-the-attack-is-years-old/>)
+
+- **Un hacker ucraino ammette il ruolo di affiliato nella banda del ransomware Nefilim**  
+  Fonte: BleepingComputer, 22 Dec 2025, 09:46:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/>)
+
+- **Una falla critica RCE colpisce oltre 115.000 firewall WatchGuard**  
+  Fonte: BleepingComputer, 22 Dec 2025, 09:00:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/>)
+
+- **Le operazioni antimalware Android uniscono funzionalità Dropper, furto di SMS e RAT su larga scala**  
+  Fonte: The Hacker News, 22 Dec 2025, 06:11:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/android-malware-operations-merge.html>)
+
+- **Docker Hardened Images ora è open source e disponibile gratuitamente**  
+  Fonte: BleepingComputer, 21 Dec 2025, 15:12:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/>)
+
 - **L'APT iraniano Infy riemerge con una nuova attività malware dopo anni di silenzio**  
   Fonte: The Hacker News, 21 Dec 2025, 04:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html>)
@@ -22,25 +86,9 @@
   Fonte: Schneier on Security, 19 Dec 2025, 22:06:59 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html>)
 
-- **Microsoft conferma che Teams è inattivo e che i messaggi sono in ritardo**  
-  Fonte: BleepingComputer, 19 Dec 2025, 20:04:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/>)
-
-- **La Nigeria ha arrestato lo sviluppatore della piattaforma di phishing Microsoft 365 "Raccoon 0365".**  
-  Fonte: BleepingComputer, 19 Dec 2025, 19:05:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/>)
-
 - **Gli hacker collegati alla Russia utilizzano il phishing con codice dispositivo Microsoft 365 per appropriarsi degli account**  
   Fonte: The Hacker News, 19 Dec 2025, 17:54:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html>)
-
-- **Account Microsoft 365 presi di mira da un'ondata di attacchi di phishing OAuth**  
-  Fonte: BleepingComputer, 19 Dec 2025, 17:19:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/>)
-
-- **La nuova falla UEFI consente attacchi pre-avvio su schede madri di Gigabyte, MSI, ASUS, ASRock**  
-  Fonte: BleepingComputer, 19 Dec 2025, 15:54:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/>)
 
 - **Software crackizzati e video di YouTube diffondono malware CountLoader e GachiLoader**  
   Fonte: The Hacker News, 19 Dec 2025, 15:34:00 UTC  
@@ -49,18 +97,6 @@
 - **Smantellamento delle difese: Trump 2.0 Cyber ​​Year in rassegna**  
   Fonte: Krebs on Security, 19 Dec 2025, 15:14:55 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/>)
-
-- **Oltre 25.000 dispositivi FortiCloud SSO esposti ad attacchi remoti**  
-  Fonte: BleepingComputer, 19 Dec 2025, 15:00:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/>)
-
-- **Criminal IP e Cortex XSOAR di Palo Alto Networks si integrano per portare l'intelligence sull'esposizione basata sull'intelligenza artificiale nella risposta automatizzata agli incidenti**  
-  Fonte: BleepingComputer, 19 Dec 2025, 14:30:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/>)
-
-- **La Danimarca accusa la Russia di un attacco informatico distruttivo ai servizi idrici**  
-  Fonte: BleepingComputer, 19 Dec 2025, 12:28:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/>)
 
 - **Azienda pubblicitaria basata sull'intelligenza artificiale violata**  
   Fonte: Schneier on Security, 19 Dec 2025, 12:02:43 UTC  
@@ -74,29 +110,9 @@
   Fonte: The Hacker News, 19 Dec 2025, 10:26:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html>)
 
-- **Nuovo difetto critico del firewall WatchGuard Firebox sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 19 Dec 2025, 10:25:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/>)
-
-- **FTC: Instacart rimborserà $ 60 milioni per tattiche di abbonamento ingannevoli**  
-  Fonte: BleepingComputer, 19 Dec 2025, 09:19:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/>)
-
 - **Il nuovo difetto UEFI consente attacchi DMA ad avvio anticipato su schede madri ASRock, ASUS, GIGABYTE e MSI**  
   Fonte: The Hacker News, 19 Dec 2025, 08:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html>)
-
-- **Aggiornamento OOB di Windows 10 rilasciato per risolvere i problemi di Accodamento messaggi (MSMQ).**  
-  Fonte: BleepingComputer, 19 Dec 2025, 01:15:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/>)
-
-- **L'Università di Sydney subisce una violazione dei dati che espone informazioni su studenti e personale**  
-  Fonte: BleepingComputer, 18 Dec 2025, 20:22:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/>)
-
-- **Il ransomware Clop prende di mira Gladinet CentreStack negli attacchi di furto di dati**  
-  Fonte: BleepingComputer, 18 Dec 2025, 20:16:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/>)
 
 - **Un gruppo di minacce allineato alla Cina utilizza i Criteri di gruppo di Windows per distribuire malware di spionaggio**  
   Fonte: The Hacker News, 18 Dec 2025, 17:34:00 UTC  
@@ -214,41 +230,5 @@
   Fonte: The Hacker News, 16 Dec 2025, 08:21:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html>)
 
-- **Google chiuderà lo strumento di monitoraggio del dark web nel febbraio 2026**  
-  Fonte: The Hacker News, 16 Dec 2025, 06:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html>)
 
-- **L'estensione del browser Chrome in primo piano è stata catturata mentre intercettava milioni di chat AI di utenti**  
-  Fonte: The Hacker News, 15 Dec 2025, 17:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/featured-chrome-browser-extension.html>)
-
-- **FreePBX applica patch critiche a SQLi, caricamento file e AUTHTYPE per bypassare i difetti che abilitano RCE**  
-  Fonte: The Hacker News, 15 Dec 2025, 14:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html>)
-
-- **Analisi dell'anno radar Cloudflare 2025: l'ascesa degli attacchi DDoS post-quantici e da record basati sull'intelligenza artificiale**  
-  Fonte: Cloudflare Blog - Security, 15 Dec 2025, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/radar-2025-year-in-review/>)
-
-- **⚡ Riepilogo settimanale: 0 giorni Apple, exploit WinRAR, multe LastPass, .NET RCE, truffe OAuth e altro**  
-  Fonte: The Hacker News, 15 Dec 2025, 12:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html>)
-
-- **Contro la moratoria federale sulla regolamentazione statale dell’IA**  
-  Fonte: Schneier on Security, 15 Dec 2025, 12:02:15 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/against-the-federal-moratorium-on-state-level-regulation-of-ai.html>)
-
-- **Una guida ai rischi delle estensioni del browser dopo la campagna ShadyPanda**  
-  Fonte: The Hacker News, 15 Dec 2025, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html>)
-
-- **Uomo incarcerato per aver insegnato ai criminali come utilizzare malware**  
-  Fonte: Graham Cluley, 15 Dec 2025, 10:25:46 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/man-jailed-for-teaching-criminals-how-to-use-malware>)
-
-- **Phantom Stealer diffuso dalle e-mail di phishing ISO che colpiscono il settore finanziario russo**  
-  Fonte: The Hacker News, 15 Dec 2025, 09:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-22 06:22:35 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-23 06:20:56 UTC -->
