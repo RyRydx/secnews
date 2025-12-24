@@ -2,6 +2,62 @@
 
 ## Ultimi 7 giorni
 
+- **Il malware WebRAT si diffonde tramite falsi exploit di vulnerabilità su GitHub**  
+  Fonte: BleepingComputer, 23 Dec 2025, 19:31:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/>)
+
+- **La correzione AI n. 82: Babbo Natale non esiste (secondo l'AI)**  
+  Fonte: Graham Cluley, 23 Dec 2025, 15:30:44 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-82-santa-claus-doesnt-exist-according-to-ai/>)
+
+- **Due estensioni di Chrome sorprese a rubare segretamente credenziali da oltre 170 siti**  
+  Fonte: The Hacker News, 23 Dec 2025, 14:42:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html>)
+
+- **Le estensioni dannose nel Chrome Web Store rubano le credenziali dell'utente**  
+  Fonte: BleepingComputer, 23 Dec 2025, 13:31:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/>)
+
+- **Microsoft Teams rafforza la sicurezza della messaggistica per impostazione predefinita a gennaio**  
+  Fonte: BleepingComputer, 23 Dec 2025, 13:23:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/>)
+
+- **Un attacco informatico mette offline i servizi postali e bancari francesi**  
+  Fonte: BleepingComputer, 23 Dec 2025, 12:26:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/>)
+
+- **La Danimarca accusa la Russia di aver condotto due attacchi informatici**  
+  Fonte: Schneier on Security, 23 Dec 2025, 12:02:32 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/denmark-accuses-russia-of-conducting-two-cyberattacks.html>)
+
+- **INTERPOL Arresti 574 in Africa;Un affiliato ucraino del ransomware si dichiara colpevole**  
+  Fonte: The Hacker News, 23 Dec 2025, 11:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html>)
+
+- **Passwd: una panoramica di Gestore delle password di Google Workspace**  
+  Fonte: The Hacker News, 23 Dec 2025, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html>)
+
+- **L’Italia multa Apple da 116 milioni di dollari per problemi legati alla privacy dell’App Store**  
+  Fonte: BleepingComputer, 23 Dec 2025, 11:06:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/>)
+
+- **La Baker University afferma che la violazione dei dati nel 2024 avrà un impatto su 53.000 persone**  
+  Fonte: BleepingComputer, 23 Dec 2025, 09:50:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/>)
+
+- **Il Dipartimento di Giustizia degli Stati Uniti si impossessa di un dominio antifrode dietro un piano di acquisizione di conti bancari da 14,6 milioni di dollari**  
+  Fonte: The Hacker News, 23 Dec 2025, 08:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html>)
+
+- **Il difetto critico n8n (CVSS 9.9) consente l'esecuzione di codice arbitrario su migliaia di istanze**  
+  Fonte: The Hacker News, 23 Dec 2025, 07:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html>)
+
+- **La FCC vieta i droni e le parti chiave di fabbricazione estera a causa dei rischi per la sicurezza nazionale degli Stati Uniti**  
+  Fonte: The Hacker News, 23 Dec 2025, 06:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html>)
+
 - **Nissan afferma che migliaia di clienti sono stati esposti alla violazione di Red Hat**  
   Fonte: BleepingComputer, 22 Dec 2025, 21:32:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/>)
@@ -46,33 +102,13 @@
   Fonte: The Hacker News, 22 Dec 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html>)
 
-- **Il CISA segnala CVE ASUS Live Update, ma l'attacco è vecchio di anni**  
-  Fonte: BleepingComputer, 22 Dec 2025, 11:09:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-asus-live-update-cve-but-the-attack-is-years-old/>)
-
-- **Un hacker ucraino ammette il ruolo di affiliato nella banda del ransomware Nefilim**  
-  Fonte: BleepingComputer, 22 Dec 2025, 09:46:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/>)
-
-- **Una falla critica RCE colpisce oltre 115.000 firewall WatchGuard**  
-  Fonte: BleepingComputer, 22 Dec 2025, 09:00:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/>)
-
 - **Le operazioni antimalware Android uniscono funzionalità Dropper, furto di SMS e RAT su larga scala**  
   Fonte: The Hacker News, 22 Dec 2025, 06:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/android-malware-operations-merge.html>)
 
-- **Docker Hardened Images ora è open source e disponibile gratuitamente**  
-  Fonte: BleepingComputer, 21 Dec 2025, 15:12:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/>)
-
 - **L'APT iraniano Infy riemerge con una nuova attività malware dopo anni di silenzio**  
   Fonte: The Hacker News, 21 Dec 2025, 04:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html>)
-
-- **RansomHouse aggiorna la crittografia con l'elaborazione dei dati a più livelli**  
-  Fonte: BleepingComputer, 20 Dec 2025, 15:23:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/>)
 
 - **Il Dipartimento di Giustizia degli Stati Uniti accusa 54 di un sistema di jackpotting ATM utilizzando il malware Poutus**  
   Fonte: The Hacker News, 20 Dec 2025, 13:48:00 UTC  
@@ -190,45 +226,5 @@
   Fonte: The Hacker News, 17 Dec 2025, 08:14:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html>)
 
-- **Aggiornamento settimanale 482**  
-  Fonte: Troy Hunt, 16 Dec 2025, 22:52:14 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-482/>)
 
-- **Le credenziali IAM compromesse alimentano una vasta campagna di mining di criptovalute AWS**  
-  Fonte: The Hacker News, 16 Dec 2025, 16:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html>)
-
-- **Il pacchetto NuGet canaglia si finge Tracer.Fody e ruba i dati del portafoglio di criptovaluta**  
-  Fonte: The Hacker News, 16 Dec 2025, 15:39:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html>)
-
-- **La correzione AI n. 81: ChatGPT è l'ultima intelligenza artificiale che capirai e il tuo insegnante è un deepfake**  
-  Fonte: Graham Cluley, 16 Dec 2025, 15:30:03 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-81/>)
-
-- **La maggior parte dei domini parcheggiati ora pubblicano contenuti dannosi**  
-  Fonte: Krebs on Security, 16 Dec 2025, 14:14:48 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/>)
-
-- **Amazon espone una campagna informatica del GRU durata anni che prende di mira l'energia e l'infrastruttura cloud**  
-  Fonte: The Hacker News, 16 Dec 2025, 12:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html>)
-
-- **Sorveglianza cinese e intelligenza artificiale**  
-  Fonte: Schneier on Security, 16 Dec 2025, 12:02:32 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/chinese-surveillance-and-ai.html>)
-
-- **Perché la sicurezza e la privacy dei dati devono iniziare dal codice**  
-  Fonte: The Hacker News, 16 Dec 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html>)
-
-- **Fortinet FortiGate sotto attacco attivo tramite bypass dell'autenticazione SSO SAML**  
-  Fonte: The Hacker News, 16 Dec 2025, 10:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html>)
-
-- **Vulnerabilità React2Shell sfruttata attivamente per distribuire backdoor Linux**  
-  Fonte: The Hacker News, 16 Dec 2025, 08:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-23 06:20:56 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-24 06:20:34 UTC -->
