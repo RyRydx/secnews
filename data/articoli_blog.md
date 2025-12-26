@@ -2,6 +2,30 @@
 
 ## Ultimi 7 giorni
 
+- **I nuovi blocchi di formattazione di ChatGPT rendono la sua interfaccia utente più simile a uno strumento di attività**  
+  Fonte: BleepingComputer, 25 Dec 2025, 22:39:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/>)
+
+- **Google ti consentirà finalmente di modificare il tuo indirizzo @gmail.com**  
+  Fonte: BleepingComputer, 25 Dec 2025, 14:30:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/>)
+
+- **Bollettino del ThreatsDay: Stealth Loader, difetti del chatbot AI, exploit dell'IA, hack di Docker e altre 15 storie**  
+  Fonte: The Hacker News, 25 Dec 2025, 14:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html>)
+
+- **La violazione di LastPass 2022 ha portato a furti di criptovaluta durati anni, rileva TRM Labs**  
+  Fonte: The Hacker News, 25 Dec 2025, 12:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html>)
+
+- **Fortinet avverte dello sfruttamento attivo della vulnerabilità di bypass 2FA della VPN SSL FortiOS**  
+  Fonte: The Hacker News, 25 Dec 2025, 08:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html>)
+
+- **CISA segnala una vulnerabilità dell'NVR Digiever attivamente sfruttata che consente l'esecuzione di codice in modalità remota**  
+  Fonte: The Hacker News, 25 Dec 2025, 08:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html>)
+
 - **Secondo quanto riferito, OpenAI sta testando abilità simili a Claude per ChatGPT**  
   Fonte: BleepingComputer, 24 Dec 2025, 22:31:28 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/>)
@@ -22,7 +46,7 @@
   Fonte: BleepingComputer, 24 Dec 2025, 14:18:36 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/>)
 
-- **L'FBI sequestra il dominio in cui sono archiviate le credenziali bancarie rubate alle vittime statunitensi**  
+- **L'FBI sequestra il dominio che memorizza le credenziali bancarie rubate alle vittime statunitensi**  
   Fonte: BleepingComputer, 24 Dec 2025, 13:17:32 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/>)
 
@@ -70,10 +94,6 @@
   Fonte: BleepingComputer, 23 Dec 2025, 13:23:58 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/>)
 
-- **Un attacco informatico mette offline i servizi postali e bancari francesi**  
-  Fonte: BleepingComputer, 23 Dec 2025, 12:26:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/>)
-
 - **La Danimarca accusa la Russia di aver condotto due attacchi informatici**  
   Fonte: Schneier on Security, 23 Dec 2025, 12:02:32 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/denmark-accuses-russia-of-conducting-two-cyberattacks.html>)
@@ -86,11 +106,7 @@
   Fonte: The Hacker News, 23 Dec 2025, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html>)
 
-- **L’Italia multa Apple da 116 milioni di dollari per problemi legati alla privacy dell’App Store**  
-  Fonte: BleepingComputer, 23 Dec 2025, 11:06:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/>)
-
-- **Il Dipartimento di Giustizia degli Stati Uniti si impossessa di un dominio fraudolento dietro un piano di acquisizione di conti bancari da 14,6 milioni di dollari**  
+- **Il Dipartimento di Giustizia degli Stati Uniti si impossessa di un dominio antifrode dietro un piano di acquisizione di conti bancari da 14,6 milioni di dollari**  
   Fonte: The Hacker News, 23 Dec 2025, 08:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html>)
 
@@ -118,7 +134,7 @@
   Fonte: The Hacker News, 22 Dec 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html>)
 
-- **Le operazioni antimalware Android uniscono funzionalità Dropper, furto di SMS e RAT su larga scala**  
+- **Le operazioni antimalware Android uniscono funzionalità dropper, furto SMS e RAT su larga scala**  
   Fonte: The Hacker News, 22 Dec 2025, 06:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/android-malware-operations-merge.html>)
 
@@ -166,33 +182,5 @@
   Fonte: The Hacker News, 19 Dec 2025, 08:25:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html>)
 
-- **Un gruppo di minacce allineato alla Cina utilizza i Criteri di gruppo di Windows per distribuire malware di spionaggio**  
-  Fonte: The Hacker News, 18 Dec 2025, 17:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html>)
 
-- **Qualcuno è salito su un aereo a Heathrow senza biglietto né passaporto**  
-  Fonte: Schneier on Security, 18 Dec 2025, 16:41:14 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html>)
-
-- **HPE OneView CVSS 10.0, classificato come difettoso, consente l'esecuzione di codice remoto non autenticato**  
-  Fonte: The Hacker News, 18 Dec 2025, 14:39:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html>)
-
-- **Bollettino del ThreatsDay: dirottamenti di WhatsApp, perdite di MCP, ricognizione AI, exploit React2Shell e altre 15 storie**  
-  Fonte: The Hacker News, 18 Dec 2025, 13:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html>)
-
-- **Gli hacker legati alla Corea del Nord rubano 2,02 miliardi di dollari nel 2025, guidando il furto di criptovalute a livello globale**  
-  Fonte: The Hacker News, 18 Dec 2025, 13:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html>)
-
-- **Il caso della sicurezza AI-SaaS dinamica come scala dei copiloti**  
-  Fonte: The Hacker News, 18 Dec 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html>)
-
-- **Kimsuky diffonde il malware Android DocSwap tramite phishing QR spacciandosi per app di consegna**  
-  Fonte: The Hacker News, 18 Dec 2025, 07:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-25 06:20:57 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-26 06:20:17 UTC -->
