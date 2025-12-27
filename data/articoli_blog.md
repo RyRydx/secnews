@@ -2,6 +2,34 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: mimetizzazione dei calamari**  
+  Fonte: Schneier on Security, 26 Dec 2025, 22:08:17 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html>)
+
+- **Le email false di GrubHub promettono un rendimento dieci volte superiore sulla criptovaluta inviata**  
+  Fonte: BleepingComputer, 26 Dec 2025, 20:22:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/>)
+
+- **La violazione dell'estensione Chrome di Trust Wallet ha causato la perdita di 7 milioni di dollari in criptovalute tramite codice dannoso**  
+  Fonte: The Hacker News, 26 Dec 2025, 15:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html>)
+
+- **Il panda evasivo legato alla Cina ha condotto una campagna di avvelenamento DNS per diffondere malware MgBot**  
+  Fonte: The Hacker News, 26 Dec 2025, 14:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html>)
+
+- **Hacking dell'IoT**  
+  Fonte: Schneier on Security, 26 Dec 2025, 12:02:54 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/iot-hack.html>)
+
+- **Trust Wallet conferma che l'hacking dell'estensione ha portato al furto di criptovalute da 7 milioni di dollari**  
+  Fonte: BleepingComputer, 26 Dec 2025, 09:47:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/>)
+
+- **La vulnerabilità critica del core LangChain espone i segreti tramite l'iniezione di serializzazione**  
+  Fonte: The Hacker News, 26 Dec 2025, 09:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html>)
+
 - **I nuovi blocchi di formattazione di ChatGPT rendono la sua interfaccia utente più simile a uno strumento di attività**  
   Fonte: BleepingComputer, 25 Dec 2025, 22:39:19 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/>)
@@ -22,7 +50,7 @@
   Fonte: The Hacker News, 25 Dec 2025, 08:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html>)
 
-- **CISA segnala una vulnerabilità dell'NVR Digiever attivamente sfruttata che consente l'esecuzione di codice in modalità remota**  
+- **CISA segnala una vulnerabilità dell'NVR Digiever sfruttata attivamente che consente l'esecuzione di codice in modalità remota**  
   Fonte: The Hacker News, 25 Dec 2025, 08:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html>)
 
@@ -42,9 +70,9 @@
   Fonte: BleepingComputer, 24 Dec 2025, 16:22:44 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/>)
 
-- **MongoDB avverte gli amministratori di correggere immediatamente una grave falla RCE**  
+- **MongoDB avvisa gli amministratori di correggere immediatamente la grave vulnerabilità**  
   Fonte: BleepingComputer, 24 Dec 2025, 14:18:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/>)
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/>)
 
 - **L'FBI sequestra il dominio che memorizza le credenziali bancarie rubate alle vittime statunitensi**  
   Fonte: BleepingComputer, 24 Dec 2025, 13:17:32 UTC  
@@ -78,21 +106,9 @@
   Fonte: BleepingComputer, 23 Dec 2025, 19:31:53 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/>)
 
-- **La correzione AI n. 82: Babbo Natale non esiste (secondo l'AI)**  
-  Fonte: Graham Cluley, 23 Dec 2025, 15:30:44 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-82-santa-claus-doesnt-exist-according-to-ai/>)
-
 - **Due estensioni di Chrome sorprese a rubare segretamente credenziali da oltre 170 siti**  
   Fonte: The Hacker News, 23 Dec 2025, 14:42:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html>)
-
-- **Le estensioni dannose nel Chrome Web Store rubano le credenziali dell'utente**  
-  Fonte: BleepingComputer, 23 Dec 2025, 13:31:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/>)
-
-- **Microsoft Teams rafforza la sicurezza della messaggistica per impostazione predefinita a gennaio**  
-  Fonte: BleepingComputer, 23 Dec 2025, 13:23:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/>)
 
 - **La Danimarca accusa la Russia di aver condotto due attacchi informatici**  
   Fonte: Schneier on Security, 23 Dec 2025, 12:02:32 UTC  
@@ -106,7 +122,7 @@
   Fonte: The Hacker News, 23 Dec 2025, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html>)
 
-- **Il Dipartimento di Giustizia degli Stati Uniti si impossessa di un dominio antifrode dietro un piano di acquisizione di conti bancari da 14,6 milioni di dollari**  
+- **Il Dipartimento di Giustizia degli Stati Uniti si impossessa di un dominio fraudolento dietro un piano di acquisizione di conti bancari da 14,6 milioni di dollari**  
   Fonte: The Hacker News, 23 Dec 2025, 08:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html>)
 
@@ -134,7 +150,7 @@
   Fonte: The Hacker News, 22 Dec 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html>)
 
-- **Le operazioni antimalware Android uniscono funzionalità dropper, furto SMS e RAT su larga scala**  
+- **Le operazioni antimalware Android uniscono funzionalità Dropper, furto di SMS e RAT su larga scala**  
   Fonte: The Hacker News, 22 Dec 2025, 06:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/android-malware-operations-merge.html>)
 
@@ -150,37 +166,5 @@
   Fonte: Troy Hunt, 20 Dec 2025, 06:31:41 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-483/>)
 
-- **Blog sui calamari del venerdì: accarezzare un calamaro**  
-  Fonte: Schneier on Security, 19 Dec 2025, 22:06:59 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html>)
 
-- **Gli hacker collegati alla Russia utilizzano il phishing con codice dispositivo Microsoft 365 per appropriarsi degli account**  
-  Fonte: The Hacker News, 19 Dec 2025, 17:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html>)
-
-- **Software crackizzati e video di YouTube diffondono malware CountLoader e GachiLoader**  
-  Fonte: The Hacker News, 19 Dec 2025, 15:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html>)
-
-- **Smantellamento delle difese: Trump 2.0 Cyber ​​Year in rassegna**  
-  Fonte: Krebs on Security, 19 Dec 2025, 15:14:55 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/>)
-
-- **Azienda pubblicitaria basata sull'intelligenza artificiale violata**  
-  Fonte: Schneier on Security, 19 Dec 2025, 12:02:43 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/ai-advertising-company-hacked.html>)
-
-- **WatchGuard avverte dello sfruttamento attivo della vulnerabilità critica VPN del sistema operativo Fireware**  
-  Fonte: The Hacker News, 19 Dec 2025, 11:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html>)
-
-- **La Nigeria arresta lo sviluppatore di phishing RaccoonO365 collegato agli attacchi Microsoft 365**  
-  Fonte: The Hacker News, 19 Dec 2025, 10:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html>)
-
-- **Il nuovo difetto UEFI consente attacchi DMA ad avvio anticipato su schede madri ASRock, ASUS, GIGABYTE e MSI**  
-  Fonte: The Hacker News, 19 Dec 2025, 08:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-26 06:20:17 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-27 06:19:23 UTC -->
