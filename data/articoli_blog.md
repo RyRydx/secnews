@@ -2,11 +2,23 @@
 
 ## Ultimi 7 giorni
 
+- **La massiccia violazione di Rainbow Six Siege regala ai giocatori miliardi di crediti**  
+  Fonte: BleepingComputer, 28 Dec 2025, 05:44:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/>)
+
+- **Gli annunci ChatGPT di OpenAI daranno presumibilmente la priorità ai contenuti sponsorizzati nelle risposte**  
+  Fonte: BleepingComputer, 27 Dec 2025, 09:46:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/>)
+
+- **Il nuovo difetto di MongoDB consente agli aggressori non autenticati di leggere la memoria non inizializzata**  
+  Fonte: The Hacker News, 27 Dec 2025, 07:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html>)
+
 - **Blog sui calamari del venerdì: mimetizzazione dei calamari**  
   Fonte: Schneier on Security, 26 Dec 2025, 22:08:17 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html>)
 
-- **Le email false di GrubHub promettono un rendimento dieci volte superiore sulla criptovaluta inviata**  
+- **Le email false di Grubhub promettono un rendimento dieci volte superiore sulla criptovaluta inviata**  
   Fonte: BleepingComputer, 26 Dec 2025, 20:22:28 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/>)
 
@@ -98,14 +110,6 @@
   Fonte: The Hacker News, 24 Dec 2025, 06:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html>)
 
-- **Microsoft lancia BitLocker con accelerazione hardware in Windows 11**  
-  Fonte: BleepingComputer, 23 Dec 2025, 20:03:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/>)
-
-- **Il malware WebRAT si diffonde tramite falsi exploit di vulnerabilità su GitHub**  
-  Fonte: BleepingComputer, 23 Dec 2025, 19:31:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/>)
-
 - **Due estensioni di Chrome sorprese a rubare segretamente credenziali da oltre 170 siti**  
   Fonte: The Hacker News, 23 Dec 2025, 14:42:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html>)
@@ -154,17 +158,5 @@
   Fonte: The Hacker News, 22 Dec 2025, 06:11:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/android-malware-operations-merge.html>)
 
-- **L'APT iraniano Infy riemerge con una nuova attività malware dopo anni di silenzio**  
-  Fonte: The Hacker News, 21 Dec 2025, 04:22:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html>)
 
-- **Il Dipartimento di Giustizia degli Stati Uniti accusa 54 di un sistema di jackpotting ATM utilizzando il malware Poutus**  
-  Fonte: The Hacker News, 20 Dec 2025, 13:48:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html>)
-
-- **Aggiornamento settimanale 483**  
-  Fonte: Troy Hunt, 20 Dec 2025, 06:31:41 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-483/>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-27 06:19:23 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-28 06:18:49 UTC -->
