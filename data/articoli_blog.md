@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **La falla sfruttata di MongoBleed fa trapelare i segreti di MongoDB, esposti 87.000 server**  
+  Fonte: BleepingComputer, 28 Dec 2025, 20:38:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/>)
+
+- **L'hacker afferma di aver fatto trapelare il database WIRED con 2,3 milioni di record**  
+  Fonte: BleepingComputer, 28 Dec 2025, 17:57:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/>)
+
+- **Aggiornamento settimanale 484**  
+  Fonte: Troy Hunt, 28 Dec 2025, 09:33:52 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-484/>)
+
 - **La massiccia violazione di Rainbow Six Siege regala ai giocatori miliardi di crediti**  
   Fonte: BleepingComputer, 28 Dec 2025, 05:44:21 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/>)
@@ -14,7 +26,7 @@
   Fonte: The Hacker News, 27 Dec 2025, 07:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html>)
 
-- **Blog sui calamari del venerdì: mimetizzazione dei calamari**  
+- **Blog sui calamari del venerdì: mimetismo dei calamari**  
   Fonte: Schneier on Security, 26 Dec 2025, 22:08:17 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html>)
 
@@ -62,7 +74,7 @@
   Fonte: The Hacker News, 25 Dec 2025, 08:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html>)
 
-- **CISA segnala una vulnerabilità dell'NVR Digiever sfruttata attivamente che consente l'esecuzione di codice in modalità remota**  
+- **CISA segnala una vulnerabilità dell'NVR Digiever attivamente sfruttata che consente l'esecuzione di codice in modalità remota**  
   Fonte: The Hacker News, 25 Dec 2025, 08:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html>)
 
@@ -77,18 +89,6 @@
 - **Il nuovo MacSync macOS Stealer utilizza l'app firmata per bypassare Apple Gatekeeper**  
   Fonte: The Hacker News, 24 Dec 2025, 16:23:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html>)
-
-- **Microsoft Teams consentirà agli amministratori di bloccare gli utenti esterni tramite il portale Defender**  
-  Fonte: BleepingComputer, 24 Dec 2025, 16:22:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/>)
-
-- **MongoDB avvisa gli amministratori di correggere immediatamente la grave vulnerabilità**  
-  Fonte: BleepingComputer, 24 Dec 2025, 14:18:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/>)
-
-- **L'FBI sequestra il dominio che memorizza le credenziali bancarie rubate alle vittime statunitensi**  
-  Fonte: BleepingComputer, 24 Dec 2025, 13:17:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/>)
 
 - **La truffa sugli investimenti di Nomani aumenta del 62% utilizzando annunci deepfake basati sull'intelligenza artificiale sui social media**  
   Fonte: The Hacker News, 24 Dec 2025, 13:08:00 UTC  
@@ -110,6 +110,10 @@
   Fonte: The Hacker News, 24 Dec 2025, 06:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html>)
 
+- **La correzione AI n. 82: Babbo Natale non esiste (secondo l'AI)**  
+  Fonte: Graham Cluley, 23 Dec 2025, 15:30:44 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-82-santa-claus-doesnt-exist-according-to-ai/>)
+
 - **Due estensioni di Chrome sorprese a rubare segretamente credenziali da oltre 170 siti**  
   Fonte: The Hacker News, 23 Dec 2025, 14:42:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html>)
@@ -126,7 +130,7 @@
   Fonte: The Hacker News, 23 Dec 2025, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html>)
 
-- **Il Dipartimento di Giustizia degli Stati Uniti si impossessa di un dominio fraudolento dietro un piano di acquisizione di conti bancari da 14,6 milioni di dollari**  
+- **Il Dipartimento di Giustizia degli Stati Uniti si impossessa di un dominio antifrode dietro un piano di acquisizione di conti bancari da 14,6 milioni di dollari**  
   Fonte: The Hacker News, 23 Dec 2025, 08:15:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html>)
 
@@ -154,9 +158,5 @@
   Fonte: The Hacker News, 22 Dec 2025, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html>)
 
-- **Le operazioni antimalware Android uniscono funzionalità Dropper, furto di SMS e RAT su larga scala**  
-  Fonte: The Hacker News, 22 Dec 2025, 06:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/android-malware-operations-merge.html>)
 
-
-<!-- Ultimo aggiornamento: 2025-12-28 06:18:49 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-29 06:22:54 UTC -->
