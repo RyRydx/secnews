@@ -2,6 +2,46 @@
 
 ## Ultimi 7 giorni
 
+- **Il nuovo servizio ErrTraffic consente attacchi ClickFix tramite falsi problemi del browser**  
+  Fonte: BleepingComputer, 30 Dec 2025, 21:08:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/>)
+
+- **Avviso di problemi CSA relativo a un bug critico di SmarterMail che consente l'esecuzione di codice in modalità remota**  
+  Fonte: The Hacker News, 30 Dec 2025, 16:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html>)
+
+- **L'Agenzia spaziale europea conferma la violazione di "server esterni"**  
+  Fonte: BleepingComputer, 30 Dec 2025, 16:26:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/>)
+
+- **Le estensioni del browser Zoom Stealer raccolgono informazioni sulle riunioni aziendali**  
+  Fonte: BleepingComputer, 30 Dec 2025, 15:41:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/>)
+
+- **Gli esperti statunitensi di sicurezza informatica si dichiarano colpevoli degli attacchi ransomware BlackCat**  
+  Fonte: BleepingComputer, 30 Dec 2025, 15:25:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/>)
+
+- **La CISA ordina ai federali di correggere la falla MongoBleed sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 30 Dec 2025, 14:40:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/>)
+
+- **Utilizzo di immagini generate dall'intelligenza artificiale per ottenere rimborsi**  
+  Fonte: Schneier on Security, 30 Dec 2025, 12:02:01 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html>)
+
+- **Silver Fox prende di mira gli utenti indiani con e-mail a tema fiscale che forniscono malware ValleyRAT**  
+  Fonte: The Hacker News, 30 Dec 2025, 10:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html>)
+
+- **Come integrare l'intelligenza artificiale nei moderni flussi di lavoro SOC**  
+  Fonte: The Hacker News, 30 Dec 2025, 09:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html>)
+
+- **Mustang Panda utilizza il rootkit firmato in modalità kernel per caricare la backdoor TONESHELL**  
+  Fonte: The Hacker News, 30 Dec 2025, 08:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html>)
+
 - **Gli hacker statali cinesi utilizzano il rootkit per nascondere l'attività del malware ToneShell**  
   Fonte: BleepingComputer, 30 Dec 2025, 00:08:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/>)
@@ -42,21 +82,9 @@
   Fonte: The Hacker News, 29 Dec 2025, 13:38:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html>)
 
-- **La violazione dei dati di Korea Air espone i dati di migliaia di dipendenti**  
-  Fonte: BleepingComputer, 29 Dec 2025, 13:08:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/korean-air-data-breach-exposes-data-of-thousands-of-employees/>)
-
-- **Microsoft Copilot sta lanciando GPT 5.2 come modalità "Smart Plus".**  
-  Fonte: BleepingComputer, 29 Dec 2025, 12:23:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/>)
-
 - **Siamo pronti a lasciarci governare dall’intelligenza artificiale?**  
   Fonte: Schneier on Security, 29 Dec 2025, 12:07:15 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html>)
-
-- **Fortinet avverte che il bypass FortiOS 2FA, vecchio di 5 anni, è ancora sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 29 Dec 2025, 11:16:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/>)
 
 - **Vulnerabilità MongoDB CVE-2025-14847 Sotto sfruttamento attivo in tutto il mondo**  
   Fonte: The Hacker News, 29 Dec 2025, 09:46:00 UTC  
@@ -70,14 +98,6 @@
   Fonte: The Hacker News, 29 Dec 2025, 06:34:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html>)
 
-- **La falla sfruttata di MongoBleed fa trapelare i segreti di MongoDB, esposti 87.000 server**  
-  Fonte: BleepingComputer, 28 Dec 2025, 20:38:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/>)
-
-- **L'hacker afferma di aver fatto trapelare il database WIRED con 2,3 milioni di record**  
-  Fonte: BleepingComputer, 28 Dec 2025, 17:57:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/>)
-
 - **Aggiornamento settimanale 484**  
   Fonte: Troy Hunt, 28 Dec 2025, 09:33:52 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-484/>)
@@ -86,7 +106,7 @@
   Fonte: The Hacker News, 27 Dec 2025, 07:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html>)
 
-- **Blog sui calamari del venerdì: mimetizzazione dei calamari**  
+- **Blog sui calamari del venerdì: mimetismo dei calamari**  
   Fonte: Schneier on Security, 26 Dec 2025, 22:08:17 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html>)
 
@@ -118,7 +138,7 @@
   Fonte: The Hacker News, 25 Dec 2025, 08:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html>)
 
-- **CISA segnala una vulnerabilità dell'NVR Digiever sfruttata attivamente che consente l'esecuzione di codice in modalità remota**  
+- **CISA segnala una vulnerabilità dell'NVR Digiever attivamente sfruttata che consente l'esecuzione di codice in modalità remota**  
   Fonte: The Hacker News, 25 Dec 2025, 08:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html>)
 
@@ -142,37 +162,5 @@
   Fonte: The Hacker News, 24 Dec 2025, 09:19:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html>)
 
-- **L'Italia multa Apple per 98,6 milioni di euro per le norme ATT che limitano la concorrenza sull'App Store**  
-  Fonte: The Hacker News, 24 Dec 2025, 06:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html>)
 
-- **Due estensioni di Chrome sorprese a rubare segretamente credenziali da oltre 170 siti**  
-  Fonte: The Hacker News, 23 Dec 2025, 14:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html>)
-
-- **La Danimarca accusa la Russia di aver condotto due attacchi informatici**  
-  Fonte: Schneier on Security, 23 Dec 2025, 12:02:32 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/denmark-accuses-russia-of-conducting-two-cyberattacks.html>)
-
-- **INTERPOL Arresti 574 in Africa;Un affiliato ucraino del ransomware si dichiara colpevole**  
-  Fonte: The Hacker News, 23 Dec 2025, 11:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html>)
-
-- **Passwd: una panoramica di Gestore delle password di Google Workspace**  
-  Fonte: The Hacker News, 23 Dec 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html>)
-
-- **Il Dipartimento di Giustizia degli Stati Uniti si impossessa di un dominio antifrode dietro un piano di acquisizione di conti bancari da 14,6 milioni di dollari**  
-  Fonte: The Hacker News, 23 Dec 2025, 08:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html>)
-
-- **Il difetto critico n8n (CVSS 9.9) consente l'esecuzione di codice arbitrario su migliaia di istanze**  
-  Fonte: The Hacker News, 23 Dec 2025, 07:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html>)
-
-- **La FCC vieta i droni e le parti chiave di fabbricazione estera a causa dei rischi per la sicurezza nazionale degli Stati Uniti**  
-  Fonte: The Hacker News, 23 Dec 2025, 06:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-30 06:21:11 UTC -->
+<!-- Ultimo aggiornamento: 2025-12-31 06:20:56 UTC -->
