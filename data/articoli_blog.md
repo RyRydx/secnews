@@ -2,6 +2,50 @@
 
 ## Ultimi 7 giorni
 
+- **L'inaugurazione del sindaco di New York vieta i dispositivi Flipper Zero e Raspberry Pi**  
+  Fonte: BleepingComputer, 31 Dec 2025, 22:52:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/>)
+
+- **L'hacking dell'estensione Chrome di Trust Wallet drena 8,5 milioni di dollari tramite l'attacco alla catena di fornitura Shai-Hulud**  
+  Fonte: The Hacker News, 31 Dec 2025, 16:29:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html>)
+
+- **Le campagne di estensione del browser DarkSpectre sono state esposte dopo aver colpito 8,8 milioni di utenti in tutto il mondo**  
+  Fonte: The Hacker News, 31 Dec 2025, 16:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html>)
+
+- **Gli hacker drenano 3,9 milioni di dollari dal protocollo Unleash dopo il dirottamento multisig**  
+  Fonte: BleepingComputer, 31 Dec 2025, 15:54:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/>)
+
+- **La botnet RondoDox sfrutta la falla React2Shell per violare i server Next.js**  
+  Fonte: BleepingComputer, 31 Dec 2025, 14:58:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/>)
+
+- **Difetto critico CVSS 9.8 riscontrato nel sistema di autenticazione IBM API Connect**  
+  Fonte: The Hacker News, 31 Dec 2025, 13:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html>)
+
+- **I ricercatori individuano il carico utile modificato per testare il worm Shai-Hulud nel registro npm**  
+  Fonte: The Hacker News, 31 Dec 2025, 13:29:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html>)
+
+- **Truffe sul lavoro su LinkedIn**  
+  Fonte: Schneier on Security, 31 Dec 2025, 12:03:40 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html>)
+
+- **IBM avverte di una vulnerabilità critica relativa al bypass dell'autenticazione API Connect**  
+  Fonte: BleepingComputer, 31 Dec 2025, 10:34:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/>)
+
+- **La Disney pagherà 10 milioni di dollari per risolvere la causa sulla privacy dei dati dei bambini**  
+  Fonte: BleepingComputer, 31 Dec 2025, 09:43:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/>)
+
+- **Il Ministero del Tesoro degli Stati Uniti revoca le sanzioni nei confronti di tre individui collegati allo spyware Intellexa e Predator**  
+  Fonte: The Hacker News, 31 Dec 2025, 05:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html>)
+
 - **Il nuovo servizio ErrTraffic consente attacchi ClickFix tramite falsi problemi del browser**  
   Fonte: BleepingComputer, 30 Dec 2025, 21:08:28 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/>)
@@ -18,7 +62,7 @@
   Fonte: BleepingComputer, 30 Dec 2025, 15:41:53 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/>)
 
-- **Gli esperti statunitensi di sicurezza informatica si dichiarano colpevoli degli attacchi ransomware BlackCat**  
+- **Gli esperti di sicurezza informatica statunitensi si dichiarano colpevoli degli attacchi ransomware BlackCat**  
   Fonte: BleepingComputer, 30 Dec 2025, 15:25:17 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/>)
 
@@ -46,37 +90,9 @@
   Fonte: BleepingComputer, 30 Dec 2025, 00:08:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/>)
 
-- **Coupang dividerà 1,17 miliardi di dollari tra 33,7 milioni di vittime di violazioni di dati**  
-  Fonte: BleepingComputer, 29 Dec 2025, 22:27:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/coupang-to-split-117-billion-among-337-million-data-breach-victims/>)
-
 - **Buon 16° compleanno, KrebsOnSecurity.com!**  
   Fonte: Krebs on Security, 29 Dec 2025, 20:23:26 UTC  
   [Leggi](<https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/>)
-
-- **Hacker arrestato per la campagna malware KMSAuto con 2,8 milioni di download**  
-  Fonte: BleepingComputer, 29 Dec 2025, 19:25:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/>)
-
-- **Trust Wallet afferma che 2.596 portafogli sono stati prosciugati in un attacco di furto di criptovalute da 7 milioni di dollari**  
-  Fonte: BleepingComputer, 29 Dec 2025, 16:43:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/>)
-
-- **Gli attacchi del mondo reale dietro la top 10 dell'IA di OWASP Agentic**  
-  Fonte: BleepingComputer, 29 Dec 2025, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/>)
-
-- **ChatGPT finalmente implementa l'attivazione/disattivazione di Thinking Time sui dispositivi mobili**  
-  Fonte: BleepingComputer, 29 Dec 2025, 15:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-finally-rolls-out-thinking-time-toggle-on-mobile/>)
-
-- **Fornitore di energia rumeno colpito dall'attacco ransomware Gentlemen**  
-  Fonte: BleepingComputer, 29 Dec 2025, 14:26:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/romanian-energy-provider-hit-by-gentlemen-ransomware-attack/>)
-
-- **Ex agente dell'assistenza Coinbase arrestato per aver aiutato gli hacker**  
-  Fonte: BleepingComputer, 29 Dec 2025, 14:16:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/former-coinbase-support-agent-arrested-for-helping-hackers/>)
 
 - **⚡ Riepilogo settimanale: attacchi MongoDB, violazioni del portafoglio, spyware Android, criminalità interna e altro**  
   Fonte: The Hacker News, 29 Dec 2025, 13:38:00 UTC  
@@ -106,7 +122,7 @@
   Fonte: The Hacker News, 27 Dec 2025, 07:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html>)
 
-- **Blog sui calamari del venerdì: mimetismo dei calamari**  
+- **Blog sui calamari del venerdì: mimetizzazione dei calamari**  
   Fonte: Schneier on Security, 26 Dec 2025, 22:08:17 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html>)
 
@@ -138,29 +154,9 @@
   Fonte: The Hacker News, 25 Dec 2025, 08:22:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html>)
 
-- **CISA segnala una vulnerabilità dell'NVR Digiever attivamente sfruttata che consente l'esecuzione di codice in modalità remota**  
+- **CISA segnala una vulnerabilità dell'NVR Digiever sfruttata attivamente che consente l'esecuzione di codice in modalità remota**  
   Fonte: The Hacker News, 25 Dec 2025, 08:07:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html>)
 
-- **Il nuovo MacSync macOS Stealer utilizza l'app firmata per bypassare Apple Gatekeeper**  
-  Fonte: The Hacker News, 24 Dec 2025, 16:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html>)
 
-- **La truffa sugli investimenti di Nomani aumenta del 62% utilizzando annunci deepfake basati sull'intelligenza artificiale sui social media**  
-  Fonte: The Hacker News, 24 Dec 2025, 13:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html>)
-
-- **Il proxy Urban VPN intercetta di nascosto le chat AI**  
-  Fonte: Schneier on Security, 24 Dec 2025, 12:03:03 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/urban-vpn-proxy-surreptitiously-intercepts-ai-chats.html>)
-
-- **Gli attacchi si stanno evolvendo: 3 modi per proteggere la tua azienda nel 2026**  
-  Fonte: The Hacker News, 24 Dec 2025, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html>)
-
-- **I file della SEC accusano una truffa di criptovalute da oltre 14 milioni di dollari utilizzando falsi suggerimenti di investimento a tema IA**  
-  Fonte: The Hacker News, 24 Dec 2025, 09:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html>)
-
-
-<!-- Ultimo aggiornamento: 2025-12-31 06:20:56 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-01 06:21:27 UTC -->
