@@ -2,6 +2,30 @@
 
 ## Ultimi 7 giorni
 
+- **OpenAI offre ChatGPT Plus da $ 20 gratuitamente ad alcuni utenti**  
+  Fonte: BleepingComputer, 01 Jan 2026, 19:18:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/>)
+
+- **Le più grandi storie di sicurezza informatica e attacchi informatici del 2025**  
+  Fonte: BleepingComputer, 01 Jan 2026, 16:15:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/>)
+
+- **Bollettino del ThreatsDay: drenaggio di GhostAd, attacchi macOS, botnet proxy, exploit cloud e oltre 12 storie**  
+  Fonte: The Hacker News, 01 Jan 2026, 15:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html>)
+
+- **La nuova ondata di malware GlassWorm prende di mira i Mac con portafogli crittografici trojanizzati**  
+  Fonte: BleepingComputer, 01 Jan 2026, 15:18:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/>)
+
+- **La botnet RondoDox sfrutta la falla critica di React2Shell per dirottare dispositivi IoT e server Web**  
+  Fonte: The Hacker News, 01 Jan 2026, 09:19:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html>)
+
+- **Come navigare più velocemente e ottenere di più utilizzando Adapt Browser**  
+  Fonte: The Hacker News, 01 Jan 2026, 05:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html>)
+
 - **L'inaugurazione del sindaco di New York vieta i dispositivi Flipper Zero e Raspberry Pi**  
   Fonte: BleepingComputer, 31 Dec 2025, 22:52:44 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/>)
@@ -62,14 +86,6 @@
   Fonte: BleepingComputer, 30 Dec 2025, 15:41:53 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/>)
 
-- **Gli esperti di sicurezza informatica statunitensi si dichiarano colpevoli degli attacchi ransomware BlackCat**  
-  Fonte: BleepingComputer, 30 Dec 2025, 15:25:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/>)
-
-- **La CISA ordina ai federali di correggere la falla MongoBleed sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 30 Dec 2025, 14:40:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/>)
-
 - **Utilizzo di immagini generate dall'intelligenza artificiale per ottenere rimborsi**  
   Fonte: Schneier on Security, 30 Dec 2025, 12:02:01 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html>)
@@ -85,10 +101,6 @@
 - **Mustang Panda utilizza il rootkit firmato in modalità kernel per caricare la backdoor TONESHELL**  
   Fonte: The Hacker News, 30 Dec 2025, 08:35:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html>)
-
-- **Gli hacker statali cinesi utilizzano il rootkit per nascondere l'attività del malware ToneShell**  
-  Fonte: BleepingComputer, 30 Dec 2025, 00:08:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/>)
 
 - **Buon 16° compleanno, KrebsOnSecurity.com!**  
   Fonte: Krebs on Security, 29 Dec 2025, 20:23:26 UTC  
@@ -142,21 +154,5 @@
   Fonte: The Hacker News, 26 Dec 2025, 09:27:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html>)
 
-- **Bollettino del ThreatsDay: Stealth Loader, difetti del chatbot AI, exploit dell'IA, hack di Docker e altre 15 storie**  
-  Fonte: The Hacker News, 25 Dec 2025, 14:01:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html>)
 
-- **La violazione di LastPass 2022 ha portato a furti di criptovaluta durati anni, rileva TRM Labs**  
-  Fonte: The Hacker News, 25 Dec 2025, 12:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html>)
-
-- **Fortinet avverte dello sfruttamento attivo della vulnerabilità di bypass 2FA della VPN SSL FortiOS**  
-  Fonte: The Hacker News, 25 Dec 2025, 08:22:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html>)
-
-- **CISA segnala una vulnerabilità dell'NVR Digiever sfruttata attivamente che consente l'esecuzione di codice in modalità remota**  
-  Fonte: The Hacker News, 25 Dec 2025, 08:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-01 06:21:27 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-02 06:21:15 UTC -->
