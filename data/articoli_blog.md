@@ -2,6 +2,50 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: calamari trovati in una lampada**  
+  Fonte: Schneier on Security, 02 Jan 2026, 22:04:04 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html>)
+
+- **Covenant Health afferma che la violazione dei dati di maggio ha colpito quasi 478.000 pazienti**  
+  Fonte: BleepingComputer, 02 Jan 2026, 19:00:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/>)
+
+- **Attacchi di furto di criptovaluta riconducibili alla violazione LastPass del 2022**  
+  Fonte: BleepingComputer, 02 Jan 2026, 17:28:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/>)
+
+- **Oltre 10.000 firewall Fortinet esposti al bypass 2FA attivamente sfruttato**  
+  Fonte: BleepingComputer, 02 Jan 2026, 16:01:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/>)
+
+- **Google sta testando una nuova intelligenza artificiale per immagini e sarà il modello più veloce**  
+  Fonte: BleepingComputer, 02 Jan 2026, 15:19:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/>)
+
+- **La botnet Kimwolf sta perseguitando la tua rete locale**  
+  Fonte: Krebs on Security, 02 Jan 2026, 14:20:10 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/>)
+
+- **Trust Wallet collega il furto di criptovalute da 8,5 milioni di dollari all'attacco Shai-Hulud NPM**  
+  Fonte: BleepingComputer, 02 Jan 2026, 14:19:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/>)
+
+- **La tribù trasparente lancia nuovi attacchi RAT contro il governo e il mondo accademico indiani**  
+  Fonte: The Hacker News, 02 Jan 2026, 13:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html>)
+
+- **Flock espone le sue telecamere di sorveglianza abilitate all'intelligenza artificiale**  
+  Fonte: Schneier on Security, 02 Jan 2026, 12:05:24 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/flock-exposes-its-ai-enabled-surveillance-cameras.html>)
+
+- **Il problema del ROI nella gestione della superficie di attacco**  
+  Fonte: The Hacker News, 02 Jan 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html>)
+
+- **I criminali informatici abusano della funzionalità email di Google Cloud nella campagna di phishing in più fasi**  
+  Fonte: The Hacker News, 02 Jan 2026, 09:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html>)
+
 - **OpenAI offre ChatGPT Plus da $ 20 gratuitamente ad alcuni utenti**  
   Fonte: BleepingComputer, 01 Jan 2026, 19:18:54 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/>)
@@ -58,33 +102,13 @@
   Fonte: Schneier on Security, 31 Dec 2025, 12:03:40 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html>)
 
-- **IBM avverte di una vulnerabilità critica relativa al bypass dell'autenticazione API Connect**  
-  Fonte: BleepingComputer, 31 Dec 2025, 10:34:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/>)
-
-- **La Disney pagherà 10 milioni di dollari per risolvere la causa sulla privacy dei dati dei bambini**  
-  Fonte: BleepingComputer, 31 Dec 2025, 09:43:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/>)
-
 - **Il Ministero del Tesoro degli Stati Uniti revoca le sanzioni nei confronti di tre individui collegati allo spyware Intellexa e Predator**  
   Fonte: The Hacker News, 31 Dec 2025, 05:17:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html>)
 
-- **Il nuovo servizio ErrTraffic consente attacchi ClickFix tramite falsi problemi del browser**  
-  Fonte: BleepingComputer, 30 Dec 2025, 21:08:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/>)
-
 - **Avviso di problemi CSA relativo a un bug critico di SmarterMail che consente l'esecuzione di codice in modalità remota**  
   Fonte: The Hacker News, 30 Dec 2025, 16:28:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html>)
-
-- **L'Agenzia spaziale europea conferma la violazione di "server esterni"**  
-  Fonte: BleepingComputer, 30 Dec 2025, 16:26:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/>)
-
-- **Le estensioni del browser Zoom Stealer raccolgono informazioni sulle riunioni aziendali**  
-  Fonte: BleepingComputer, 30 Dec 2025, 15:41:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/>)
 
 - **Utilizzo di immagini generate dall'intelligenza artificiale per ottenere rimborsi**  
   Fonte: Schneier on Security, 30 Dec 2025, 12:02:01 UTC  
@@ -134,25 +158,5 @@
   Fonte: The Hacker News, 27 Dec 2025, 07:52:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html>)
 
-- **Blog sui calamari del venerdì: mimetizzazione dei calamari**  
-  Fonte: Schneier on Security, 26 Dec 2025, 22:08:17 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html>)
 
-- **La violazione dell'estensione Chrome di Trust Wallet ha causato la perdita di 7 milioni di dollari in criptovalute tramite codice dannoso**  
-  Fonte: The Hacker News, 26 Dec 2025, 15:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html>)
-
-- **Il panda evasivo legato alla Cina ha condotto una campagna di avvelenamento DNS per diffondere malware MgBot**  
-  Fonte: The Hacker News, 26 Dec 2025, 14:44:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html>)
-
-- **Hacking dell'IoT**  
-  Fonte: Schneier on Security, 26 Dec 2025, 12:02:54 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/iot-hack.html>)
-
-- **La vulnerabilità critica del core LangChain espone i segreti tramite l'iniezione di serializzazione**  
-  Fonte: The Hacker News, 26 Dec 2025, 09:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-02 06:21:15 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-03 06:19:18 UTC -->
