@@ -2,6 +2,10 @@
 
 ## Ultimi 7 giorni
 
+- **Gli hacker affermano di aver hackerato Resecurity, l'azienda dice che si trattava di un honeypot**  
+  Fonte: BleepingComputer, 03 Jan 2026, 20:34:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/>)
+
 - **Blog sui calamari del venerdì: calamari trovati in una lampada**  
   Fonte: Schneier on Security, 02 Jan 2026, 22:04:04 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html>)
@@ -86,10 +90,6 @@
   Fonte: BleepingComputer, 31 Dec 2025, 15:54:17 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/>)
 
-- **La botnet RondoDox sfrutta la falla React2Shell per violare i server Next.js**  
-  Fonte: BleepingComputer, 31 Dec 2025, 14:58:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/>)
-
 - **Difetto critico CVSS 9.8 riscontrato nel sistema di autenticazione IBM API Connect**  
   Fonte: The Hacker News, 31 Dec 2025, 13:37:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html>)
@@ -154,9 +154,5 @@
   Fonte: Troy Hunt, 28 Dec 2025, 09:33:52 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-484/>)
 
-- **Il nuovo difetto di MongoDB consente agli aggressori non autenticati di leggere la memoria non inizializzata**  
-  Fonte: The Hacker News, 27 Dec 2025, 07:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-01-03 06:19:18 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-04 06:19:09 UTC -->
