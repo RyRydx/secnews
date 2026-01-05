@@ -150,9 +150,5 @@
   Fonte: The Hacker News, 29 Dec 2025, 06:34:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html>)
 
-- **Aggiornamento settimanale 484**  
-  Fonte: Troy Hunt, 28 Dec 2025, 09:33:52 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-484/>)
 
-
-<!-- Ultimo aggiornamento: 2026-01-04 06:19:09 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-05 06:26:26 UTC -->
