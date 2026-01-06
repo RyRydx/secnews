@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **La nuova vulnerabilità n8n (9.9 CVSS) consente agli utenti autenticati di eseguire comandi di sistema**  
+  Fonte: The Hacker News, 06 Jan 2026, 05:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html>)
+
+- **Siti di condivisione file nel cloud presi di mira da attacchi di furto di dati aziendali**  
+  Fonte: BleepingComputer, 05 Jan 2026, 22:52:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/>)
+
+- **L'attacco ClickFix utilizza false schermate BSOD di Windows per inviare malware**  
+  Fonte: BleepingComputer, 05 Jan 2026, 21:16:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/>)
+
+- **Il fornitore di banda larga statunitense Brightspeed indaga sulle denunce di violazione**  
+  Fonte: BleepingComputer, 05 Jan 2026, 20:01:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/>)
+
+- **Hacker allineati alla Russia abusano di Viber per prendere di mira l'esercito e il governo ucraino**  
+  Fonte: The Hacker News, 05 Jan 2026, 17:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html>)
+
+- **I fork IDE VSCode espongono gli utenti ad attacchi di "estensioni consigliate".**  
+  Fonte: BleepingComputer, 05 Jan 2026, 16:41:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/>)
+
+- **La botnet Android Kimwolf infetta oltre 2 milioni di dispositivi tramite reti ADB e proxy esposte**  
+  Fonte: The Hacker News, 05 Jan 2026, 16:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html>)
+
+- **Clienti contabili colpiti dalla violazione dei dati di terze parti Global-e**  
+  Fonte: BleepingComputer, 05 Jan 2026, 15:14:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/>)
+
+- **L’IA agentica è un problema di identità e i CISO saranno responsabili del risultato**  
+  Fonte: BleepingComputer, 05 Jan 2026, 15:05:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/>)
+
+- **NordVPN nega le accuse di violazione, afferma che gli aggressori hanno "dati fittizi"**  
+  Fonte: BleepingComputer, 05 Jan 2026, 14:48:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/>)
+
+- **⚡ Riepilogo settimanale: exploit IoT, violazioni del portafoglio, estensioni non autorizzate, abuso di intelligenza artificiale e altro**  
+  Fonte: The Hacker News, 05 Jan 2026, 12:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html>)
+
+- **Telegram ospita il mercato darknet più grande del mondo**  
+  Fonte: Schneier on Security, 05 Jan 2026, 12:01:16 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/telegram-hosting-worlds-largest-darknet-market.html>)
+
+- **Lo stato della sicurezza informatica nel 2025: segmenti chiave, approfondimenti e innovazioni**  
+  Fonte: The Hacker News, 05 Jan 2026, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html>)
+
+- **Il condannato per hacking di Bitfinex Ilya Lichtenstein è stato rilasciato in anticipo ai sensi del First Step Act degli Stati Uniti**  
+  Fonte: The Hacker News, 05 Jan 2026, 09:42:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html>)
+
+- **Il nuovo malware VVS Stealer prende di mira gli account Discord tramite codice Python offuscato**  
+  Fonte: The Hacker News, 05 Jan 2026, 07:48:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html>)
+
 - **Gli hacker affermano di aver hackerato Resecurity, l'azienda dice che si trattava di un honeypot**  
   Fonte: BleepingComputer, 03 Jan 2026, 20:34:22 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/>)
@@ -30,10 +90,6 @@
   Fonte: Krebs on Security, 02 Jan 2026, 14:20:10 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/>)
 
-- **Trust Wallet collega il furto di criptovalute da 8,5 milioni di dollari all'attacco Shai-Hulud NPM**  
-  Fonte: BleepingComputer, 02 Jan 2026, 14:19:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/>)
-
 - **La tribù trasparente lancia nuovi attacchi RAT contro il governo e il mondo accademico indiani**  
   Fonte: The Hacker News, 02 Jan 2026, 13:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html>)
@@ -50,21 +106,9 @@
   Fonte: The Hacker News, 02 Jan 2026, 09:14:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html>)
 
-- **OpenAI offre ChatGPT Plus da $ 20 gratuitamente ad alcuni utenti**  
-  Fonte: BleepingComputer, 01 Jan 2026, 19:18:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/>)
-
-- **Le più grandi storie di sicurezza informatica e attacchi informatici del 2025**  
-  Fonte: BleepingComputer, 01 Jan 2026, 16:15:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/>)
-
 - **Bollettino del ThreatsDay: drenaggio di GhostAd, attacchi macOS, botnet proxy, exploit cloud e oltre 12 storie**  
   Fonte: The Hacker News, 01 Jan 2026, 15:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html>)
-
-- **La nuova ondata di malware GlassWorm prende di mira i Mac con portafogli crittografici trojanizzati**  
-  Fonte: BleepingComputer, 01 Jan 2026, 15:18:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/>)
 
 - **La botnet RondoDox sfrutta la falla critica di React2Shell per dirottare dispositivi IoT e server Web**  
   Fonte: The Hacker News, 01 Jan 2026, 09:19:00 UTC  
@@ -74,10 +118,6 @@
   Fonte: The Hacker News, 01 Jan 2026, 05:47:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html>)
 
-- **L'inaugurazione del sindaco di New York vieta i dispositivi Flipper Zero e Raspberry Pi**  
-  Fonte: BleepingComputer, 31 Dec 2025, 22:52:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/>)
-
 - **L'hacking dell'estensione Chrome di Trust Wallet drena 8,5 milioni di dollari tramite l'attacco alla catena di fornitura Shai-Hulud**  
   Fonte: The Hacker News, 31 Dec 2025, 16:29:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html>)
@@ -85,10 +125,6 @@
 - **Le campagne di estensione del browser DarkSpectre sono state esposte dopo aver colpito 8,8 milioni di utenti in tutto il mondo**  
   Fonte: The Hacker News, 31 Dec 2025, 16:14:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html>)
-
-- **Gli hacker drenano 3,9 milioni di dollari dal protocollo Unleash dopo il dirottamento multisig**  
-  Fonte: BleepingComputer, 31 Dec 2025, 15:54:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/>)
 
 - **Difetto critico CVSS 9.8 riscontrato nel sistema di autenticazione IBM API Connect**  
   Fonte: The Hacker News, 31 Dec 2025, 13:37:00 UTC  
@@ -126,29 +162,5 @@
   Fonte: The Hacker News, 30 Dec 2025, 08:35:00 UTC  
   [Leggi](<https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html>)
 
-- **Buon 16° compleanno, KrebsOnSecurity.com!**  
-  Fonte: Krebs on Security, 29 Dec 2025, 20:23:26 UTC  
-  [Leggi](<https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/>)
 
-- **⚡ Riepilogo settimanale: attacchi MongoDB, violazioni del portafoglio, spyware Android, criminalità interna e altro**  
-  Fonte: The Hacker News, 29 Dec 2025, 13:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html>)
-
-- **Siamo pronti a lasciarci governare dall’intelligenza artificiale?**  
-  Fonte: Schneier on Security, 29 Dec 2025, 12:07:15 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html>)
-
-- **Vulnerabilità MongoDB CVE-2025-14847 Sotto sfruttamento attivo in tutto il mondo**  
-  Fonte: The Hacker News, 29 Dec 2025, 09:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html>)
-
-- **27 pacchetti npm dannosi utilizzati come infrastruttura di phishing per rubare credenziali di accesso**  
-  Fonte: The Hacker News, 29 Dec 2025, 09:44:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html>)
-
-- **I framework di sicurezza tradizionali lasciano le organizzazioni esposte a vettori di attacco specifici dell’intelligenza artificiale**  
-  Fonte: The Hacker News, 29 Dec 2025, 06:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-05 06:26:26 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-06 06:21:14 UTC -->
