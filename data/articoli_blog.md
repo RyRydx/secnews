@@ -2,9 +2,81 @@
 
 ## Ultimi 7 giorni
 
+- **Attacchi continui che sfruttano la vulnerabilità critica RCE nei router DSL D-Link legacy**  
+  Fonte: The Hacker News, 07 Jan 2026, 04:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html>)
+
+- **OpenAI sta lanciando GPT-5.2 "Codex-Max" per alcuni utenti**  
+  Fonte: BleepingComputer, 07 Jan 2026, 00:30:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/>)
+
+- **Taiwan afferma che gli attacchi della Cina al settore energetico sono aumentati di dieci volte**  
+  Fonte: BleepingComputer, 06 Jan 2026, 22:27:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/>)
+
+- **Microsoft annulla i piani per limitare la velocità dei messaggi di posta elettronica in blocco di Exchange Online**  
+  Fonte: BleepingComputer, 06 Jan 2026, 20:49:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/>)
+
+- **Nuova falla D-Link nei router DSL legacy sfruttata attivamente negli attacchi**  
+  Fonte: BleepingComputer, 06 Jan 2026, 19:52:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/>)
+
+- **La botnet Android Kimwolf abusa dei proxy residenziali per infettare i dispositivi interni**  
+  Fonte: BleepingComputer, 06 Jan 2026, 19:15:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/>)
+
+- **I volumi all'ingrosso di Jaguar Land Rover sono diminuiti del 43% dopo l'attacco informatico**  
+  Fonte: BleepingComputer, 06 Jan 2026, 18:27:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/>)
+
+- **Due estensioni di Chrome sorprese a rubare le chat ChatGPT e DeepSeek di 900.000 utenti**  
+  Fonte: The Hacker News, 06 Jan 2026, 17:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html>)
+
+- **Un attacco informatico faceva parte dell’assalto statunitense al Venezuela**  
+  Fonte: Schneier on Security, 06 Jan 2026, 16:08:22 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/a-cyberattack-was-part-of-the-us-assault-on-venezuela.html>)
+
+- **Un difetto del firmware senza patch espone TOTOLINK EX200 al controllo completo del dispositivo remoto**  
+  Fonte: The Hacker News, 06 Jan 2026, 15:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html>)
+
+- **Sedgwick conferma la violazione della filiale dell'appaltatore governativo**  
+  Fonte: BleepingComputer, 06 Jan 2026, 15:27:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/>)
+
+- **In che modo l'intelligenza artificiale generativa accelera gli attacchi alle identità contro Active Directory**  
+  Fonte: BleepingComputer, 06 Jan 2026, 14:46:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/>)
+
+- **Le e-mail di prenotazione false reindirizzano il personale dell'hotel a pagine BSoD false che forniscono DCRat**  
+  Fonte: The Hacker News, 06 Jan 2026, 12:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html>)
+
+- **Cos'è l'identità della materia oscura?**  
+  Fonte: The Hacker News, 06 Jan 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/what-is-identity-dark-matter.html>)
+
+- **I fork del codice VS consigliano le estensioni mancanti, creando rischi nella catena di fornitura in Open VSX**  
+  Fonte: The Hacker News, 06 Jan 2026, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html>)
+
+- **Copilot prevede vulnerabilità dei difetti o limiti dell'intelligenza artificiale?**  
+  Fonte: BleepingComputer, 06 Jan 2026, 11:16:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/>)
+
+- **Insider di Coinbase che ha venduto i dati dei clienti a criminali arrestati in India**  
+  Fonte: Graham Cluley, 06 Jan 2026, 08:38:25 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/coinbase-insider-who-sold-customer-data-to-criminals-arrested-in-india>)
+
 - **La nuova vulnerabilità n8n (9.9 CVSS) consente agli utenti autenticati di eseguire comandi di sistema**  
   Fonte: The Hacker News, 06 Jan 2026, 05:08:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html>)
+
+- **Il difetto critico AdonisJS Bodyparser (CVSS 9.2) consente la scrittura arbitraria di file sui server**  
+  Fonte: The Hacker News, 06 Jan 2026, 03:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html>)
 
 - **Siti di condivisione file nel cloud presi di mira da attacchi di furto di dati aziendali**  
   Fonte: BleepingComputer, 05 Jan 2026, 22:52:16 UTC  
@@ -30,18 +102,6 @@
   Fonte: The Hacker News, 05 Jan 2026, 16:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html>)
 
-- **Clienti contabili colpiti dalla violazione dei dati di terze parti Global-e**  
-  Fonte: BleepingComputer, 05 Jan 2026, 15:14:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/>)
-
-- **L’IA agentica è un problema di identità e i CISO saranno responsabili del risultato**  
-  Fonte: BleepingComputer, 05 Jan 2026, 15:05:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/>)
-
-- **NordVPN nega le accuse di violazione, afferma che gli aggressori hanno "dati fittizi"**  
-  Fonte: BleepingComputer, 05 Jan 2026, 14:48:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/>)
-
 - **⚡ Riepilogo settimanale: exploit IoT, violazioni del portafoglio, estensioni non autorizzate, abuso di intelligenza artificiale e altro**  
   Fonte: The Hacker News, 05 Jan 2026, 12:53:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html>)
@@ -62,29 +122,9 @@
   Fonte: The Hacker News, 05 Jan 2026, 07:48:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html>)
 
-- **Gli hacker affermano di aver hackerato Resecurity, l'azienda dice che si trattava di un honeypot**  
-  Fonte: BleepingComputer, 03 Jan 2026, 20:34:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/>)
-
 - **Blog sui calamari del venerdì: calamari trovati in una lampada**  
   Fonte: Schneier on Security, 02 Jan 2026, 22:04:04 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html>)
-
-- **Covenant Health afferma che la violazione dei dati di maggio ha colpito quasi 478.000 pazienti**  
-  Fonte: BleepingComputer, 02 Jan 2026, 19:00:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/>)
-
-- **Attacchi di furto di criptovaluta riconducibili alla violazione LastPass del 2022**  
-  Fonte: BleepingComputer, 02 Jan 2026, 17:28:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/>)
-
-- **Oltre 10.000 firewall Fortinet esposti al bypass 2FA attivamente sfruttato**  
-  Fonte: BleepingComputer, 02 Jan 2026, 16:01:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/>)
-
-- **Google sta testando una nuova intelligenza artificiale per immagini e sarà il modello più veloce**  
-  Fonte: BleepingComputer, 02 Jan 2026, 15:19:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/>)
 
 - **La botnet Kimwolf sta perseguitando la tua rete locale**  
   Fonte: Krebs on Security, 02 Jan 2026, 14:20:10 UTC  
@@ -138,29 +178,5 @@
   Fonte: Schneier on Security, 31 Dec 2025, 12:03:40 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html>)
 
-- **Il Ministero del Tesoro degli Stati Uniti revoca le sanzioni nei confronti di tre individui collegati allo spyware Intellexa e Predator**  
-  Fonte: The Hacker News, 31 Dec 2025, 05:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html>)
 
-- **Avviso di problemi CSA relativo a un bug critico di SmarterMail che consente l'esecuzione di codice in modalità remota**  
-  Fonte: The Hacker News, 30 Dec 2025, 16:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html>)
-
-- **Utilizzo di immagini generate dall'intelligenza artificiale per ottenere rimborsi**  
-  Fonte: Schneier on Security, 30 Dec 2025, 12:02:01 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html>)
-
-- **Silver Fox prende di mira gli utenti indiani con e-mail a tema fiscale che forniscono malware ValleyRAT**  
-  Fonte: The Hacker News, 30 Dec 2025, 10:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html>)
-
-- **Come integrare l'intelligenza artificiale nei moderni flussi di lavoro SOC**  
-  Fonte: The Hacker News, 30 Dec 2025, 09:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html>)
-
-- **Mustang Panda utilizza il rootkit firmato in modalità kernel per caricare la backdoor TONESHELL**  
-  Fonte: The Hacker News, 30 Dec 2025, 08:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-06 06:21:14 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-07 06:20:48 UTC -->
