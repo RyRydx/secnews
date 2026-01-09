@@ -2,33 +2,105 @@
 
 ## Ultimi 7 giorni
 
+- **CISA ritira 10 ordini informatici di emergenza in rare chiusure collettive**  
+  Fonte: BleepingComputer, 09 Jan 2026, 03:46:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/>)
+
+- **La nuova casella di posta AI di Gmail utilizza Gemini, ma Google afferma che non addestrerà l'intelligenza artificiale sulle e-mail degli utenti**  
+  Fonte: BleepingComputer, 08 Jan 2026, 23:46:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/>)
+
+- **Nuovi hacker collegati alla Cina violano le società di telecomunicazioni utilizzando exploit di dispositivi edge**  
+  Fonte: BleepingComputer, 08 Jan 2026, 23:39:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/>)
+
+- **Chi ha beneficiato delle botnet Aisuru e Kimwolf?**  
+  Fonte: Krebs on Security, 08 Jan 2026, 23:23:43 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/>)
+
+- **L'FBI mette in guardia sugli hacker Kimsuky che utilizzano i codici QR per effettuare phishing nelle organizzazioni statunitensi**  
+  Fonte: BleepingComputer, 08 Jan 2026, 22:57:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/>)
+
+- **xAI anticipa un importante aggiornamento di Grok, accenna alla CLI di Grok Code**  
+  Fonte: BleepingComputer, 08 Jan 2026, 22:43:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/>)
+
+- **È probabile che gli zero-day VMware ESXi siano stati sfruttati un anno prima della divulgazione**  
+  Fonte: BleepingComputer, 08 Jan 2026, 21:27:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/>)
+
+- **Switch Cisco colpiti da cicli di riavvio a causa di un bug del client DNS**  
+  Fonte: BleepingComputer, 08 Jan 2026, 20:40:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/>)
+
+- **Il worm WhatsApp diffonde il trojan bancario Astaroth in tutto il Brasile tramite la messaggistica automatica dei contatti**  
+  Fonte: The Hacker News, 08 Jan 2026, 17:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html>)
+
+- **Il tribunale del Texas impedisce a Samsung di monitorare la visione della TV, quindi annulla l'ordine**  
+  Fonte: BleepingComputer, 08 Jan 2026, 16:47:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/>)
+
+- **Six for 2026: le minacce informatiche che non puoi ignorare**  
+  Fonte: BleepingComputer, 08 Jan 2026, 15:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/>)
+
+- **L'UAT-7290 collegato alla Cina prende di mira le telecomunicazioni con malware Linux e nodi ORB**  
+  Fonte: The Hacker News, 08 Jan 2026, 14:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html>)
+
+- **Bollettino del ThreatsDay: difetto di RustFS, operazioni iraniane, WebUI RCE, perdite di cloud e altre 12 storie**  
+  Fonte: The Hacker News, 08 Jan 2026, 12:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html>)
+
+- **L'interruzione di Microsoft Exchange Online blocca l'accesso alle cassette postali tramite IMAP4**  
+  Fonte: BleepingComputer, 08 Jan 2026, 12:45:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/>)
+
+- **Microsoft imporrà l'autenticazione a più fattori per gli accessi all'interfaccia di amministrazione di Microsoft 365**  
+  Fonte: BleepingComputer, 08 Jan 2026, 12:10:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/>)
+
+- **IA eUmani: far funzionare la relazione**  
+  Fonte: Schneier on Security, 08 Jan 2026, 12:05:37 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/ai-humans-making-the-relationship-work.html>)
+
+- **Lo stato dell'open source affidabile**  
+  Fonte: The Hacker News, 08 Jan 2026, 11:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html>)
+
+- **Cisco risolve la vulnerabilità della sicurezza ISE dopo il rilascio dell'exploit PoC pubblico**  
+  Fonte: The Hacker News, 08 Jan 2026, 10:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/cisco-patches-ise-security.html>)
+
+- **I ricercatori scoprono NodeCordRAT nascosto nei pacchetti npm a tema Bitcoin**  
+  Fonte: The Hacker News, 08 Jan 2026, 10:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html>)
+
+- **Coolify rivela 11 difetti critici che consentono la compromissione completa del server su istanze self-hosted**  
+  Fonte: The Hacker News, 08 Jan 2026, 09:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html>)
+
+- **Cisco avvisa del difetto di Identity Service Engine con codice exploit**  
+  Fonte: BleepingComputer, 08 Jan 2026, 09:13:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/>)
+
+- **CISA contrassegna il difetto di gravità massima di HPE OneView come sfruttato attivamente**  
+  Fonte: BleepingComputer, 08 Jan 2026, 07:45:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/>)
+
+- **OpenAI lancia ChatGPT Health con controlli dei dati sanitari isolati e crittografati**  
+  Fonte: The Hacker News, 08 Jan 2026, 06:57:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html>)
+
 - **CISA segnala i bug di Microsoft Office e HPE OneView come sfruttati attivamente**  
   Fonte: The Hacker News, 08 Jan 2026, 04:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html>)
 
-- **OpenAI afferma che ChatGPT non utilizzerà le tue informazioni sanitarie per addestrare i suoi modelli**  
-  Fonte: BleepingComputer, 07 Jan 2026, 23:28:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/>)
-
-- **La nuova ondata di attacchi GoBruteforcer prende di mira progetti crittografici e blockchain**  
-  Fonte: BleepingComputer, 07 Jan 2026, 23:18:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/>)
-
-- **Il difetto critico di jsPDF consente agli hacker di rubare segreti tramite i PDF generati**  
-  Fonte: BleepingComputer, 07 Jan 2026, 21:46:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/>)
-
-- **ChatGPT sta perdendo quote di mercato mentre Google Gemini guadagna terreno**  
-  Fonte: BleepingComputer, 07 Jan 2026, 20:58:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/>)
-
-- **Logitech Options+, le app G HUB macOS si interrompono dopo la scadenza del certificato**  
-  Fonte: BleepingComputer, 07 Jan 2026, 18:05:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/>)
-
-- **Gravità massima Il difetto Ni8mare consente agli hacker di prendere il controllo dei server n8n**  
-  Fonte: BleepingComputer, 07 Jan 2026, 17:41:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/>)
+- **Podcast Smashing Security n. 449: Come truffare qualcuno in sette giorni**  
+  Fonte: Graham Cluley, 08 Jan 2026, 00:31:41 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-449/>)
 
 - **Webinar: scopri come Zero Trust basato sull'intelligenza artificiale rileva gli attacchi senza file o indicatori**  
   Fonte: The Hacker News, 07 Jan 2026, 17:19:00 UTC  
@@ -38,33 +110,9 @@
   Fonte: The Hacker News, 07 Jan 2026, 17:09:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html>)
 
-- **Microsoft: il classico bug di Outlook impedisce l'apertura di e-mail crittografate**  
-  Fonte: BleepingComputer, 07 Jan 2026, 16:30:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/>)
-
-- **Nel 2026, gli hacker vogliono l'intelligenza artificiale: minaccia Intel su Vibe Hacking e HackGPT**  
-  Fonte: BleepingComputer, 07 Jan 2026, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/>)
-
-- **ownCloud esorta gli utenti ad abilitare l'MFA dopo le segnalazioni di furto di credenziali**  
-  Fonte: BleepingComputer, 07 Jan 2026, 14:34:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/>)
-
 - **La vulnerabilità critica n8n (CVSS 10.0) consente agli aggressori non autenticati di assumere il pieno controllo**  
   Fonte: The Hacker News, 07 Jan 2026, 13:48:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html>)
-
-- **Le nuove vulnerabilità Veeam espongono i server di backup ad attacchi RCE**  
-  Fonte: BleepingComputer, 07 Jan 2026, 13:06:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/>)
-
-- **Le allucinazioni legate all'intelligenza artificiale di Ricerca Google spingono Google ad assumere ingegneri "AI Answers Quality".**  
-  Fonte: BleepingComputer, 07 Jan 2026, 12:50:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/>)
-
-- **Il Regno Unito annuncia un piano per rafforzare le difese informatiche del settore pubblico**  
-  Fonte: BleepingComputer, 07 Jan 2026, 12:15:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/>)
 
 - **La catena di supermercati Wegman’s probabilmente utilizza il riconoscimento facciale**  
   Fonte: Schneier on Security, 07 Jan 2026, 12:03:33 UTC  
@@ -94,10 +142,6 @@
   Fonte: The Hacker News, 07 Jan 2026, 04:31:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html>)
 
-- **Secondo quanto riferito, OpenAI si sta preparando a testare gli annunci in ChatGPT**  
-  Fonte: BleepingComputer, 07 Jan 2026, 01:30:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/>)
-
 - **Due estensioni di Chrome sorprese a rubare le chat ChatGPT e DeepSeek di 900.000 utenti**  
   Fonte: The Hacker News, 06 Jan 2026, 17:21:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html>)
@@ -121,6 +165,10 @@
 - **I fork del codice VS consigliano le estensioni mancanti, creando rischi nella catena di fornitura in Open VSX**  
   Fonte: The Hacker News, 06 Jan 2026, 11:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html>)
+
+- **Insider di Coinbase che ha venduto i dati dei clienti a criminali arrestati in India**  
+  Fonte: Graham Cluley, 06 Jan 2026, 08:38:25 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/coinbase-insider-who-sold-customer-data-to-criminals-arrested-in-india>)
 
 - **La nuova vulnerabilità n8n (9.9 CVSS) consente agli utenti autenticati di eseguire comandi di sistema**  
   Fonte: The Hacker News, 06 Jan 2026, 05:08:00 UTC  
@@ -182,13 +230,5 @@
   Fonte: The Hacker News, 02 Jan 2026, 09:14:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html>)
 
-- **Bollettino del ThreatsDay: drenaggio di GhostAd, attacchi macOS, botnet proxy, exploit cloud e oltre 12 storie**  
-  Fonte: The Hacker News, 01 Jan 2026, 15:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html>)
 
-- **La botnet RondoDox sfrutta la falla critica di React2Shell per dirottare dispositivi IoT e server Web**  
-  Fonte: The Hacker News, 01 Jan 2026, 09:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-08 06:21:26 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-09 06:20:58 UTC -->
