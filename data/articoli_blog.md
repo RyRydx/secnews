@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Antropico: il messaggio virale di Claude “Vietato e segnalato alle autorità” non è reale**  
+  Fonte: BleepingComputer, 10 Jan 2026, 00:06:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/>)
+
+- **ChatGPT testa una nuova funzionalità per trovare lavoro, migliorare il tuo curriculum e altro ancora**  
+  Fonte: BleepingComputer, 09 Jan 2026, 23:23:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/>)
+
+- **Blog sui calamari del venerdì: la flotta cinese per la pesca dei calamari al largo della costa argentina**  
+  Fonte: Schneier on Security, 09 Jan 2026, 22:00:47 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-the-chinese-squid-fishing-fleet-off-the-argentine-coast.html>)
+
+- **Microsoft potrebbe presto consentire agli amministratori IT di disinstallare Copilot**  
+  Fonte: BleepingComputer, 09 Jan 2026, 20:34:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/>)
+
+- **Gli hacker prendono di mira proxy configurati in modo errato per accedere ai servizi LLM a pagamento**  
+  Fonte: BleepingComputer, 09 Jan 2026, 19:56:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/>)
+
+- **Gli hacker legati alla Cina sfruttano gli zero-day di VMware ESXi per sfuggire alle macchine virtuali**  
+  Fonte: The Hacker News, 09 Jan 2026, 17:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html>)
+
+- **La violazione dei dati del Dipartimento dei servizi umani dell'Illinois colpisce 700.000 persone**  
+  Fonte: BleepingComputer, 09 Jan 2026, 15:37:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/>)
+
+- **L'APT28 russo conduce una campagna di furto di credenziali rivolta alle organizzazioni energetiche e politiche**  
+  Fonte: The Hacker News, 09 Jan 2026, 15:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html>)
+
+- **La sicurezza della posta elettronica ha bisogno di più cinture di sicurezza: perché la percentuale di clic è la metrica sbagliata**  
+  Fonte: BleepingComputer, 09 Jan 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/>)
+
+- **Un uomo dell'Illinois è stato accusato di aver violato gli account Snapchat per rubare foto di nudo**  
+  Fonte: BleepingComputer, 09 Jan 2026, 13:46:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/illinois-man-charged-with-hacking-snapchat-accounts-to-steal-nude-photos/>)
+
+- **I segnali di attraversamento pedonale di Palo Alto avevano password predefinite**  
+  Fonte: Schneier on Security, 09 Jan 2026, 12:06:21 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html>)
+
+- **Previsioni sulla sicurezza informatica per il 2026: le aspettative che possiamo ignorare (e i rischi che non possiamo ignorare)**  
+  Fonte: The Hacker News, 09 Jan 2026, 11:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html>)
+
+- **Trend Micro avverte della vulnerabilità critica di Apex Central RCE**  
+  Fonte: BleepingComputer, 09 Jan 2026, 10:40:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/>)
+
+- **Trend Micro Apex Central RCE Flaw ha ottenuto un punteggio CVSS di 9,8 nelle versioni Windows on-premise**  
+  Fonte: The Hacker News, 09 Jan 2026, 10:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html>)
+
+- **La CISA ritira 10 direttive di emergenza sulla sicurezza informatica emanate tra il 2019 e il 2024**  
+  Fonte: The Hacker News, 09 Jan 2026, 09:11:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html>)
+
+- **Il fondatore di pcTattletale si dichiara colpevole di un raro procedimento giudiziario per stalkerware**  
+  Fonte: Graham Cluley, 09 Jan 2026, 09:10:13 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/pctattletale-founder-pleads-guilty-in-rare-stalkerware-prosecution>)
+
+- **L'FBI avverte gli hacker nordcoreani che utilizzano codici QR dannosi nello spear-phishing**  
+  Fonte: The Hacker News, 09 Jan 2026, 05:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html>)
+
 - **CISA ritira 10 ordini informatici di emergenza in rare chiusure collettive**  
   Fonte: BleepingComputer, 09 Jan 2026, 03:46:07 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/>)
@@ -13,10 +81,6 @@
 - **Nuovi hacker collegati alla Cina violano le società di telecomunicazioni utilizzando exploit di dispositivi edge**  
   Fonte: BleepingComputer, 08 Jan 2026, 23:39:12 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/>)
-
-- **Chi ha beneficiato delle botnet Aisuru e Kimwolf?**  
-  Fonte: Krebs on Security, 08 Jan 2026, 23:23:43 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/>)
 
 - **L'FBI mette in guardia sugli hacker Kimsuky che utilizzano i codici QR per effettuare phishing nelle organizzazioni statunitensi**  
   Fonte: BleepingComputer, 08 Jan 2026, 22:57:05 UTC  
@@ -30,21 +94,9 @@
   Fonte: BleepingComputer, 08 Jan 2026, 21:27:19 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/>)
 
-- **Switch Cisco colpiti da cicli di riavvio a causa di un bug del client DNS**  
-  Fonte: BleepingComputer, 08 Jan 2026, 20:40:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/>)
-
 - **Il worm WhatsApp diffonde il trojan bancario Astaroth in tutto il Brasile tramite la messaggistica automatica dei contatti**  
   Fonte: The Hacker News, 08 Jan 2026, 17:10:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html>)
-
-- **Il tribunale del Texas impedisce a Samsung di monitorare la visione della TV, quindi annulla l'ordine**  
-  Fonte: BleepingComputer, 08 Jan 2026, 16:47:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/>)
-
-- **Six for 2026: le minacce informatiche che non puoi ignorare**  
-  Fonte: BleepingComputer, 08 Jan 2026, 15:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/>)
 
 - **L'UAT-7290 collegato alla Cina prende di mira le telecomunicazioni con malware Linux e nodi ORB**  
   Fonte: The Hacker News, 08 Jan 2026, 14:54:00 UTC  
@@ -53,14 +105,6 @@
 - **Bollettino del ThreatsDay: difetto di RustFS, operazioni iraniane, WebUI RCE, perdite di cloud e altre 12 storie**  
   Fonte: The Hacker News, 08 Jan 2026, 12:49:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html>)
-
-- **L'interruzione di Microsoft Exchange Online blocca l'accesso alle cassette postali tramite IMAP4**  
-  Fonte: BleepingComputer, 08 Jan 2026, 12:45:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/>)
-
-- **Microsoft imporrà l'autenticazione a più fattori per gli accessi all'interfaccia di amministrazione di Microsoft 365**  
-  Fonte: BleepingComputer, 08 Jan 2026, 12:10:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/>)
 
 - **IA eUmani: far funzionare la relazione**  
   Fonte: Schneier on Security, 08 Jan 2026, 12:05:37 UTC  
@@ -81,14 +125,6 @@
 - **Coolify rivela 11 difetti critici che consentono la compromissione completa del server su istanze self-hosted**  
   Fonte: The Hacker News, 08 Jan 2026, 09:53:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html>)
-
-- **Cisco avvisa del difetto di Identity Service Engine con codice exploit**  
-  Fonte: BleepingComputer, 08 Jan 2026, 09:13:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/>)
-
-- **CISA contrassegna il difetto di gravità massima di HPE OneView come sfruttato attivamente**  
-  Fonte: BleepingComputer, 08 Jan 2026, 07:45:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/>)
 
 - **OpenAI lancia ChatGPT Health con controlli dei dati sanitari isolati e crittografati**  
   Fonte: The Hacker News, 08 Jan 2026, 06:57:00 UTC  
@@ -206,29 +242,5 @@
   Fonte: The Hacker News, 05 Jan 2026, 07:48:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html>)
 
-- **Blog sui calamari del venerdì: calamari trovati in una lampada**  
-  Fonte: Schneier on Security, 02 Jan 2026, 22:04:04 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html>)
 
-- **La botnet Kimwolf sta perseguitando la tua rete locale**  
-  Fonte: Krebs on Security, 02 Jan 2026, 14:20:10 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/>)
-
-- **La tribù trasparente lancia nuovi attacchi RAT contro il governo e il mondo accademico indiani**  
-  Fonte: The Hacker News, 02 Jan 2026, 13:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html>)
-
-- **Flock espone le sue telecamere di sorveglianza abilitate all'intelligenza artificiale**  
-  Fonte: Schneier on Security, 02 Jan 2026, 12:05:24 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/flock-exposes-its-ai-enabled-surveillance-cameras.html>)
-
-- **Il problema del ROI nella gestione della superficie di attacco**  
-  Fonte: The Hacker News, 02 Jan 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html>)
-
-- **I criminali informatici abusano della funzionalità email di Google Cloud nella campagna di phishing in più fasi**  
-  Fonte: The Hacker News, 02 Jan 2026, 09:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-09 06:20:58 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-10 06:19:32 UTC -->
