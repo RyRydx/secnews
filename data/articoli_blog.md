@@ -2,6 +2,30 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft ritirerà la funzione "Invia a Kindle" in Word**  
+  Fonte: BleepingComputer, 11 Jan 2026, 00:29:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/>)
+
+- **Il database del forum di hacking di BreachForum è trapelato, esponendo 324.000 account**  
+  Fonte: BleepingComputer, 10 Jan 2026, 18:17:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/>)
+
+- **La Spagna arresta 34 sospetti legati al crimine informatico Black Axe**  
+  Fonte: BleepingComputer, 10 Jan 2026, 15:17:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/>)
+
+- **MuddyWater lancia RustyWater RAT tramite spear-phishing nei settori del Medio Oriente**  
+  Fonte: The Hacker News, 10 Jan 2026, 10:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html>)
+
+- **L'Irlanda ritira quasi 13.000 passaporti perché manca il codice "IRL".**  
+  Fonte: BleepingComputer, 10 Jan 2026, 10:27:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/>)
+
+- **Europol arresta 34 membri della Black Axe in Spagna per frode e criminalità organizzata da 5,9 milioni di euro**  
+  Fonte: The Hacker News, 10 Jan 2026, 08:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html>)
+
 - **Antropico: il messaggio virale di Claude “Vietato e segnalato alle autorità” non è reale**  
   Fonte: BleepingComputer, 10 Jan 2026, 00:06:26 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/>)
@@ -74,25 +98,9 @@
   Fonte: BleepingComputer, 09 Jan 2026, 03:46:07 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/>)
 
-- **La nuova casella di posta AI di Gmail utilizza Gemini, ma Google afferma che non addestrerà l'intelligenza artificiale sulle e-mail degli utenti**  
-  Fonte: BleepingComputer, 08 Jan 2026, 23:46:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/>)
-
-- **Nuovi hacker collegati alla Cina violano le società di telecomunicazioni utilizzando exploit di dispositivi edge**  
-  Fonte: BleepingComputer, 08 Jan 2026, 23:39:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/>)
-
-- **L'FBI mette in guardia sugli hacker Kimsuky che utilizzano i codici QR per effettuare phishing nelle organizzazioni statunitensi**  
-  Fonte: BleepingComputer, 08 Jan 2026, 22:57:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/>)
-
-- **xAI anticipa un importante aggiornamento di Grok, accenna alla CLI di Grok Code**  
-  Fonte: BleepingComputer, 08 Jan 2026, 22:43:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/>)
-
-- **È probabile che gli zero-day VMware ESXi siano stati sfruttati un anno prima della divulgazione**  
-  Fonte: BleepingComputer, 08 Jan 2026, 21:27:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/>)
+- **Chi ha beneficiato delle botnet Aisuru e Kimwolf?**  
+  Fonte: Krebs on Security, 08 Jan 2026, 23:23:43 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/>)
 
 - **Il worm WhatsApp diffonde il trojan bancario Astaroth in tutto il Brasile tramite la messaggistica automatica dei contatti**  
   Fonte: The Hacker News, 08 Jan 2026, 17:10:00 UTC  
@@ -243,4 +251,4 @@
   [Leggi](<https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-01-10 06:19:32 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-11 06:18:57 UTC -->
