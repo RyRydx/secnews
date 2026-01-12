@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **Instagram nega la violazione dopo le accuse di fuga di dati di 17 milioni di account**  
+  Fonte: BleepingComputer, 11 Jan 2026, 19:13:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/>)
+
+- **La California vieta ai broker di dati di rivendere milioni di dati sanitari**  
+  Fonte: BleepingComputer, 11 Jan 2026, 15:23:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/>)
+
 - **Microsoft ritirerà la funzione "Invia a Kindle" in Word**  
   Fonte: BleepingComputer, 11 Jan 2026, 00:29:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/>)
@@ -74,10 +82,6 @@
   Fonte: The Hacker News, 09 Jan 2026, 11:09:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html>)
 
-- **Trend Micro avverte della vulnerabilità critica di Apex Central RCE**  
-  Fonte: BleepingComputer, 09 Jan 2026, 10:40:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/>)
-
 - **Trend Micro Apex Central RCE Flaw ha ottenuto un punteggio CVSS di 9,8 nelle versioni Windows on-premise**  
   Fonte: The Hacker News, 09 Jan 2026, 10:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html>)
@@ -93,10 +97,6 @@
 - **L'FBI avverte gli hacker nordcoreani che utilizzano codici QR dannosi nello spear-phishing**  
   Fonte: The Hacker News, 09 Jan 2026, 05:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html>)
-
-- **CISA ritira 10 ordini informatici di emergenza in rare chiusure collettive**  
-  Fonte: BleepingComputer, 09 Jan 2026, 03:46:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/>)
 
 - **Chi ha beneficiato delle botnet Aisuru e Kimwolf?**  
   Fonte: Krebs on Security, 08 Jan 2026, 23:23:43 UTC  
@@ -122,7 +122,7 @@
   Fonte: The Hacker News, 08 Jan 2026, 11:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html>)
 
-- **Cisco risolve la vulnerabilità della sicurezza ISE dopo il rilascio dell'exploit PoC pubblico**  
+- **Cisco corregge la vulnerabilità della sicurezza ISE dopo il rilascio dell'exploit PoC pubblico**  
   Fonte: The Hacker News, 08 Jan 2026, 10:44:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/cisco-patches-ise-security.html>)
 
@@ -251,4 +251,4 @@
   [Leggi](<https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-01-11 06:18:57 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-12 06:24:32 UTC -->
