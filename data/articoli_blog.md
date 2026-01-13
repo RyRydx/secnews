@@ -2,77 +2,105 @@
 
 ## Ultimi 7 giorni
 
+- **L'hacker viene condannato a sette anni per aver violato i porti di Rotterdam e Anversa**  
+  Fonte: BleepingComputer, 12 Jan 2026, 23:06:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/>)
+
+- **I ladri dell'accesso a Facebook ora utilizzano il trucco del browser nel browser**  
+  Fonte: BleepingComputer, 12 Jan 2026, 21:05:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/>)
+
+- **La CISA ordina ai federali di correggere la falla RCE di Gog sfruttata negli attacchi zero-day**  
+  Fonte: BleepingComputer, 12 Jan 2026, 20:09:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/>)
+
+- **Un "cattivo attore" prende il controllo dei personaggi di Apex Legends nelle partite dal vivo**  
+  Fonte: BleepingComputer, 12 Jan 2026, 19:51:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bad-actor-hijacks-apex-legends-characters-in-live-matches/>)
+
+- **Il Cancer Center dell’Università delle Hawaii colpito da un attacco ransomware**  
+  Fonte: BleepingComputer, 12 Jan 2026, 18:48:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-hit-by-ransomware-attack/>)
+
+- **Il server di sviluppo di destinazione è offline dopo che gli hacker affermano di aver rubato il codice sorgente**  
+  Fonte: BleepingComputer, 12 Jan 2026, 17:52:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/>)
+
+- **Apple conferma che Google Gemini alimenterà Siri, afferma che la privacy rimane una priorità**  
+  Fonte: BleepingComputer, 12 Jan 2026, 16:43:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/>)
+
+- **L'attacco alla catena di fornitura n8n abusa dei nodi della comunità per rubare i token OAuth**  
+  Fonte: The Hacker News, 12 Jan 2026, 16:39:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html>)
+
+- **I collegamenti proxy nascosti di Telegram possono rivelare il tuo indirizzo IP con un clic**  
+  Fonte: BleepingComputer, 12 Jan 2026, 16:20:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/>)
+
+- **Il colosso energetico spagnolo Endesa rivela una violazione dei dati che colpisce i clienti**  
+  Fonte: BleepingComputer, 12 Jan 2026, 15:57:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/>)
+
+- **Microsoft sta ritirando l'app Lens Scanner per iOS e Android**  
+  Fonte: BleepingComputer, 12 Jan 2026, 15:48:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/>)
+
+- **Previeni le fughe di dati nel cloud con le revisioni degli accessi a Microsoft 365**  
+  Fonte: BleepingComputer, 12 Jan 2026, 14:45:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/prevent-cloud-data-leaks-with-microsoft-365-access-reviews/>)
+
+- **La gravità massima del difetto Ni8mare ha un impatto su quasi 60.000 istanze n8n**  
+  Fonte: BleepingComputer, 12 Jan 2026, 14:05:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/>)
+
+- **⚡ Riepilogo settimanale: exploit dell'automazione dell'intelligenza artificiale, spionaggio delle telecomunicazioni, bracconaggio immediato e altro**  
+  Fonte: The Hacker News, 12 Jan 2026, 13:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html>)
+
+- **Corrompere i LLM attraverso strane generalizzazioni**  
+  Fonte: Schneier on Security, 12 Jan 2026, 12:02:39 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/corrupting-llms-through-weird-generalizations.html>)
+
+- **La botnet GoBruteforcer prende di mira i database dei progetti crittografici sfruttando credenziali deboli**  
+  Fonte: The Hacker News, 12 Jan 2026, 10:48:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html>)
+
+- **Anthropic porta Claude nel settore sanitario con strumenti aziendali predisposti per HIPAA**  
+  Fonte: BleepingComputer, 12 Jan 2026, 09:01:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/>)
+
+- **Anthropic lancia Claude AI for Healthcare con accesso sicuro alle cartelle cliniche**  
+  Fonte: The Hacker News, 12 Jan 2026, 08:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html>)
+
+- **I ricercatori scoprono fornitori di servizi che alimentano le frodi nella macellazione di suini su scala industriale**  
+  Fonte: The Hacker News, 12 Jan 2026, 07:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/researchers-uncover-service-providers.html>)
+
 - **Instagram nega la violazione dopo le accuse di fuga di dati di 17 milioni di account**  
   Fonte: BleepingComputer, 11 Jan 2026, 19:13:01 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/>)
-
-- **La California vieta ai broker di dati di rivendere milioni di dati sanitari**  
-  Fonte: BleepingComputer, 11 Jan 2026, 15:23:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/>)
-
-- **Microsoft ritirerà la funzione "Invia a Kindle" in Word**  
-  Fonte: BleepingComputer, 11 Jan 2026, 00:29:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/>)
-
-- **Il database del forum di hacking di BreachForum è trapelato, esponendo 324.000 account**  
-  Fonte: BleepingComputer, 10 Jan 2026, 18:17:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/>)
-
-- **La Spagna arresta 34 sospetti legati al crimine informatico Black Axe**  
-  Fonte: BleepingComputer, 10 Jan 2026, 15:17:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/>)
 
 - **MuddyWater lancia RustyWater RAT tramite spear-phishing nei settori del Medio Oriente**  
   Fonte: The Hacker News, 10 Jan 2026, 10:35:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html>)
 
-- **L'Irlanda ritira quasi 13.000 passaporti perché manca il codice "IRL".**  
-  Fonte: BleepingComputer, 10 Jan 2026, 10:27:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/>)
-
 - **Europol arresta 34 membri della Black Axe in Spagna per frode e criminalità organizzata da 5,9 milioni di euro**  
   Fonte: The Hacker News, 10 Jan 2026, 08:59:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html>)
-
-- **Antropico: il messaggio virale di Claude “Vietato e segnalato alle autorità” non è reale**  
-  Fonte: BleepingComputer, 10 Jan 2026, 00:06:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/>)
-
-- **ChatGPT testa una nuova funzionalità per trovare lavoro, migliorare il tuo curriculum e altro ancora**  
-  Fonte: BleepingComputer, 09 Jan 2026, 23:23:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/>)
 
 - **Blog sui calamari del venerdì: la flotta cinese per la pesca dei calamari al largo della costa argentina**  
   Fonte: Schneier on Security, 09 Jan 2026, 22:00:47 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-the-chinese-squid-fishing-fleet-off-the-argentine-coast.html>)
 
-- **Microsoft potrebbe presto consentire agli amministratori IT di disinstallare Copilot**  
-  Fonte: BleepingComputer, 09 Jan 2026, 20:34:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/>)
-
-- **Gli hacker prendono di mira proxy configurati in modo errato per accedere ai servizi LLM a pagamento**  
-  Fonte: BleepingComputer, 09 Jan 2026, 19:56:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/>)
-
 - **Gli hacker legati alla Cina sfruttano gli zero-day di VMware ESXi per sfuggire alle macchine virtuali**  
   Fonte: The Hacker News, 09 Jan 2026, 17:43:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html>)
 
-- **La violazione dei dati del Dipartimento dei servizi umani dell'Illinois colpisce 700.000 persone**  
-  Fonte: BleepingComputer, 09 Jan 2026, 15:37:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/>)
-
 - **L'APT28 russo conduce una campagna di furto di credenziali rivolta alle organizzazioni energetiche e politiche**  
   Fonte: The Hacker News, 09 Jan 2026, 15:28:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html>)
-
-- **La sicurezza della posta elettronica ha bisogno di più cinture di sicurezza: perché la percentuale di clic è la metrica sbagliata**  
-  Fonte: BleepingComputer, 09 Jan 2026, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/>)
-
-- **Un uomo dell'Illinois è stato accusato di aver violato gli account Snapchat per rubare foto di nudo**  
-  Fonte: BleepingComputer, 09 Jan 2026, 13:46:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/illinois-man-charged-with-hacking-snapchat-accounts-to-steal-nude-photos/>)
 
 - **I segnali di attraversamento pedonale di Palo Alto avevano password predefinite**  
   Fonte: Schneier on Security, 09 Jan 2026, 12:06:21 UTC  
@@ -214,41 +242,5 @@
   Fonte: Graham Cluley, 06 Jan 2026, 08:38:25 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/coinbase-insider-who-sold-customer-data-to-criminals-arrested-in-india>)
 
-- **La nuova vulnerabilità n8n (9.9 CVSS) consente agli utenti autenticati di eseguire comandi di sistema**  
-  Fonte: The Hacker News, 06 Jan 2026, 05:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html>)
 
-- **Il difetto critico AdonisJS Bodyparser (CVSS 9.2) consente la scrittura arbitraria di file sui server**  
-  Fonte: The Hacker News, 06 Jan 2026, 03:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html>)
-
-- **Hacker allineati alla Russia abusano di Viber per prendere di mira l'esercito e il governo ucraino**  
-  Fonte: The Hacker News, 05 Jan 2026, 17:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html>)
-
-- **La botnet Android Kimwolf infetta oltre 2 milioni di dispositivi tramite reti ADB e proxy esposte**  
-  Fonte: The Hacker News, 05 Jan 2026, 16:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html>)
-
-- **⚡ Riepilogo settimanale: exploit IoT, violazioni del portafoglio, estensioni non autorizzate, abuso di intelligenza artificiale e altro**  
-  Fonte: The Hacker News, 05 Jan 2026, 12:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html>)
-
-- **Telegram ospita il mercato darknet più grande del mondo**  
-  Fonte: Schneier on Security, 05 Jan 2026, 12:01:16 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/telegram-hosting-worlds-largest-darknet-market.html>)
-
-- **Lo stato della sicurezza informatica nel 2025: segmenti chiave, approfondimenti e innovazioni**  
-  Fonte: The Hacker News, 05 Jan 2026, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html>)
-
-- **Il condannato per hacking di Bitfinex Ilya Lichtenstein è stato rilasciato in anticipo ai sensi del First Step Act degli Stati Uniti**  
-  Fonte: The Hacker News, 05 Jan 2026, 09:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html>)
-
-- **Il nuovo malware VVS Stealer prende di mira gli account Discord tramite codice Python offuscato**  
-  Fonte: The Hacker News, 05 Jan 2026, 07:48:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-12 06:24:32 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-13 06:20:59 UTC -->
