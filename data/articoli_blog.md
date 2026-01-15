@@ -2,41 +2,101 @@
 
 ## Ultimi 7 giorni
 
-- **L'esercito ucraino è stato preso di mira da una nuova campagna malware a tema benefico**  
-  Fonte: BleepingComputer, 13 Jan 2026, 23:03:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/>)
+- **La prossima funzionalità multipiattaforma di ChatGPT ha il nome in codice "Agora"**  
+  Fonte: BleepingComputer, 15 Jan 2026, 03:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/>)
 
-- **Il nuovo framework malware VoidLink prende di mira i server cloud Linux**  
-  Fonte: BleepingComputer, 13 Jan 2026, 22:12:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/>)
+- **Google prevede di rendere Chrome per Android un browser agente con Gemini**  
+  Fonte: BleepingComputer, 15 Jan 2026, 01:30:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/>)
 
-- **La violazione del sistema sanitario centrale del Maine ha esposto i dati di oltre 145.000 persone**  
-  Fonte: BleepingComputer, 13 Jan 2026, 20:32:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/>)
+- **L'intelligenza personale di Google collega Gmail, Foto e Ricerca a Gemini**  
+  Fonte: BleepingComputer, 15 Jan 2026, 00:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/>)
 
-- **L'ospedale belga AZ Monica spegne i server dopo un attacco informatico**  
-  Fonte: BleepingComputer, 13 Jan 2026, 20:27:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/>)
+- **Lo strumento nascosto ChatGPT Translate di OpenAI assume Google Translate**  
+  Fonte: BleepingComputer, 14 Jan 2026, 22:52:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/>)
 
-- **I nuovi aggiornamenti di Windows sostituiscono i certificati di avvio protetto in scadenza**  
-  Fonte: BleepingComputer, 13 Jan 2026, 19:57:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/>)
+- **Il colosso sudcoreano Kyowon conferma il furto di dati durante un attacco ransomware**  
+  Fonte: BleepingComputer, 14 Jan 2026, 21:49:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/south-korean-giant-kyowon-confirms-data-theft-in-ransomware-attack/>)
 
-- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5073724 di Windows 10**  
-  Fonte: BleepingComputer, 13 Jan 2026, 18:56:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/>)
+- **La Francia multa Free Mobile di 42 milioni di euro per un incidente di violazione dei dati avvenuto nel 2024**  
+  Fonte: BleepingComputer, 14 Jan 2026, 19:50:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/>)
 
-- **Aggiornamenti cumulativi KB5074109 e KB5073455 di Windows 11 rilasciati**  
-  Fonte: BleepingComputer, 13 Jan 2026, 18:53:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/>)
+- **Hacking di sedie a rotelle tramite Bluetooth**  
+  Fonte: Schneier on Security, 14 Jan 2026, 19:22:15 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/hacking-wheelchairs-over-bluetooth.html>)
 
-- **Il Patch Tuesday di gennaio 2026 di Microsoft corregge 3 zero-day e 114 difetti**  
-  Fonte: BleepingComputer, 13 Jan 2026, 18:34:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/>)
+- **I ricercatori hanno percorso oltre 550 server di comando botnet Kimwolf e Aisuru**  
+  Fonte: The Hacker News, 14 Jan 2026, 19:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html>)
 
-- **Google conferma un bug Android che causa problemi con i tasti del volume**  
-  Fonte: BleepingComputer, 13 Jan 2026, 18:25:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/>)
+- **Sfrutta il codice pubblico per un difetto critico di command injection FortiSIEM**  
+  Fonte: BleepingComputer, 14 Jan 2026, 18:51:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/>)
+
+- **L'interruzione di Verizon Wireless mette i telefoni in modalità SOS senza servizio cellulare**  
+  Fonte: BleepingComputer, 14 Jan 2026, 18:27:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/>)
+
+- **Prossimi impegni di conferenza**  
+  Fonte: Schneier on Security, 14 Jan 2026, 17:00:00 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html>)
+
+- **Microsoft aggiorna la DLL di Windows che ha attivato avvisi di sicurezza**  
+  Fonte: BleepingComputer, 14 Jan 2026, 16:44:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/>)
+
+- **Gli agenti IA stanno diventando percorsi di escalation dei privilegi**  
+  Fonte: The Hacker News, 14 Jan 2026, 15:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html>)
+
+- **Debrief su ConsentFix: approfondimenti dal nuovo attacco di phishing OAuth**  
+  Fonte: BleepingComputer, 14 Jan 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/>)
+
+- **Gli hacker sfruttano il caricamento laterale delle DLL c-ares per aggirare la sicurezza e distribuire malware**  
+  Fonte: The Hacker News, 14 Jan 2026, 14:18:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html>)
+
+- **L'attacco reprompt ha preso il controllo delle sessioni di Microsoft Copilot per il furto di dati**  
+  Fonte: BleepingComputer, 14 Jan 2026, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/>)
+
+- **Il mercato cloud Pax8 espone accidentalmente i dati di 1.800 partner MSP**  
+  Fonte: BleepingComputer, 14 Jan 2026, 12:01:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/>)
+
+- **Fortinet risolve un difetto critico di FortiSIEM che consente l'esecuzione di codice remoto non autenticato**  
+  Fonte: The Hacker News, 14 Jan 2026, 11:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html>)
+
+- **Il Dipartimento dell’Istruzione del Victoria afferma che gli hacker hanno rubato i dati degli studenti**  
+  Fonte: BleepingComputer, 14 Jan 2026, 11:44:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/victorian-department-of-education-notifies-parents-of-data-breach/>)
+
+- **Nuova ricerca: il 64% delle applicazioni di terze parti accede a dati sensibili senza giustificazione**  
+  Fonte: The Hacker News, 14 Jan 2026, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html>)
+
+- **Microsoft risolve 114 difetti di Windows nella patch di gennaio 2026, uno sfruttato attivamente**  
+  Fonte: The Hacker News, 14 Jan 2026, 09:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html>)
+
+- **La vulnerabilità critica di Node.js può causare arresti anomali del server tramite overflow dello stack async_hooks**  
+  Fonte: The Hacker News, 14 Jan 2026, 07:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html>)
+
+- **Il malware PLUGGYAPE utilizza Signal e WhatsApp per prendere di mira le forze di difesa ucraine**  
+  Fonte: The Hacker News, 14 Jan 2026, 05:48:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html>)
+
+- **Patch Tuesday, edizione di gennaio 2026**  
+  Fonte: Krebs on Security, 14 Jan 2026, 00:47:38 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/>)
 
 - **La correzione AI n. 83: ChatGPT Health, LLM vittoriani e i più grandi bluffatori dell'IA**  
   Fonte: Graham Cluley, 13 Jan 2026, 18:19:04 UTC  
@@ -50,21 +110,9 @@
   Fonte: The Hacker News, 13 Jan 2026, 17:22:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html>)
 
-- **Il miglioramento conferma la violazione dei dati dopo un'ondata di e-mail di truffe crittografiche**  
-  Fonte: BleepingComputer, 13 Jan 2026, 16:46:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/>)
-
-- **Tattica convincente di risposta ai commenti di LinkedIn utilizzata nel nuovo phishing**  
-  Fonte: BleepingComputer, 13 Jan 2026, 15:45:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/>)
-
 - **[Webinar] Protezione dell'intelligenza artificiale agentica: dagli MCP e dall'accesso agli strumenti alla proliferazione delle chiavi API shadow**  
   Fonte: The Hacker News, 13 Jan 2026, 13:44:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html>)
-
-- **I dipendenti presi di mira confermano che il codice sorgente trapelato è autentico**  
-  Fonte: BleepingComputer, 13 Jan 2026, 13:08:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/>)
 
 - **Manifesto degli hacker anni 80**  
   Fonte: Schneier on Security, 13 Jan 2026, 12:09:28 UTC  
@@ -97,10 +145,6 @@
 - **CISA avverte dello sfruttamento attivo della vulnerabilità Gogs che consente l'esecuzione di codice**  
   Fonte: The Hacker News, 13 Jan 2026, 07:15:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html>)
-
-- **L'hacker viene condannato a sette anni per aver violato i porti di Rotterdam e Anversa**  
-  Fonte: BleepingComputer, 12 Jan 2026, 23:06:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/>)
 
 - **L'attacco alla catena di fornitura n8n abusa dei nodi della comunità per rubare i token OAuth**  
   Fonte: The Hacker News, 12 Jan 2026, 16:39:00 UTC  
@@ -170,6 +214,10 @@
   Fonte: The Hacker News, 09 Jan 2026, 05:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html>)
 
+- **Chi ha beneficiato delle botnet Aisuru e Kimwolf?**  
+  Fonte: Krebs on Security, 08 Jan 2026, 23:23:43 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/>)
+
 - **Il worm WhatsApp diffonde il trojan bancario Astaroth in tutto il Brasile tramite la messaggistica automatica dei contatti**  
   Fonte: The Hacker News, 08 Jan 2026, 17:10:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html>)
@@ -206,49 +254,5 @@
   Fonte: The Hacker News, 08 Jan 2026, 06:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html>)
 
-- **CISA segnala i bug di Microsoft Office e HPE OneView come sfruttati attivamente**  
-  Fonte: The Hacker News, 08 Jan 2026, 04:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html>)
 
-- **Podcast Smashing Security n. 449: Come truffare qualcuno in sette giorni**  
-  Fonte: Graham Cluley, 08 Jan 2026, 00:31:41 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-449/>)
-
-- **Webinar: scopri come Zero Trust basato sull'intelligenza artificiale rileva gli attacchi senza file o indicatori**  
-  Fonte: The Hacker News, 07 Jan 2026, 17:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html>)
-
-- **Black Cat Dietro la campagna malware SEO Poisoning mirata alle ricerche di software più popolari**  
-  Fonte: The Hacker News, 07 Jan 2026, 17:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html>)
-
-- **La vulnerabilità critica n8n (CVSS 10.0) consente agli aggressori non autenticati di assumere il pieno controllo**  
-  Fonte: The Hacker News, 07 Jan 2026, 13:48:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html>)
-
-- **La catena di supermercati Wegman’s probabilmente utilizza il riconoscimento facciale**  
-  Fonte: Schneier on Security, 07 Jan 2026, 12:03:33 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/the-wegmans-supermarket-chain-is-probably-using-facial-recognition.html>)
-
-- **n8n segnala la vulnerabilità CVSS 10.0 RCE che interessa le versioni self-hosted e cloud**  
-  Fonte: The Hacker News, 07 Jan 2026, 11:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html>)
-
-- **Il futuro della sicurezza informatica include i dipendenti non umani**  
-  Fonte: The Hacker News, 07 Jan 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html>)
-
-- **Veeam risolve la vulnerabilità critica RCE con CVSS 9.0 in Backup e Replica**  
-  Fonte: The Hacker News, 07 Jan 2026, 10:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/veeam-patches-critical-rce.html>)
-
-- **Microsoft avverte che il routing della posta elettronica non configurato correttamente può abilitare il phishing del dominio interno**  
-  Fonte: The Hacker News, 07 Jan 2026, 09:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html>)
-
-- **Aggiornamento settimanale 485**  
-  Fonte: Troy Hunt, 07 Jan 2026, 06:26:04 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-485/>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-14 06:22:02 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-15 06:21:29 UTC -->
