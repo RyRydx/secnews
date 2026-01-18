@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **Google Chrome ora ti consente di disattivare il modello AI sul dispositivo che alimenta il rilevamento delle truffe**  
+  Fonte: BleepingComputer, 18 Jan 2026, 02:05:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/>)
+
+- **Il leader del ransomware Black Basta è stato aggiunto alla lista EU Most Wanted e INTERPOL Red Notice**  
+  Fonte: The Hacker News, 17 Jan 2026, 16:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html>)
+
+- **Le estensioni di Chrome che rubano credenziali prendono di mira le piattaforme HR aziendali**  
+  Fonte: BleepingComputer, 17 Jan 2026, 16:19:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/>)
+
+- **Trovate estensioni dannose del browser GhostPoster con 840.000 installazioni**  
+  Fonte: BleepingComputer, 17 Jan 2026, 15:23:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/>)
+
+- **OpenAI per mostrare annunci in ChatGPT per gli adulti statunitensi che hanno effettuato l'accesso con piani Free and Go**  
+  Fonte: The Hacker News, 17 Jan 2026, 08:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html>)
+
 - **L'abbonamento ChatGPT Go è disponibile in tutto il mondo a $ 8, ma ti mostrerà annunci**  
   Fonte: BleepingComputer, 16 Jan 2026, 23:43:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/>)
@@ -78,29 +98,9 @@
   Fonte: The Hacker News, 16 Jan 2026, 05:38:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html>)
 
-- **Google ora ti consente di modificare il tuo indirizzo @ gmail.com, implementandolo**  
-  Fonte: BleepingComputer, 16 Jan 2026, 00:36:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/>)
-
-- **ChatGPT ora è più affidabile nel trovare e ricordare le chat passate**  
-  Fonte: BleepingComputer, 16 Jan 2026, 00:14:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/>)
-
-- **Gootloader ora utilizza archivi ZIP da 1.000 parti per la consegna furtiva**  
-  Fonte: BleepingComputer, 15 Jan 2026, 22:54:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/>)
-
-- **Grubhub conferma che gli hacker hanno rubato dati nella recente violazione della sicurezza**  
-  Fonte: BleepingComputer, 15 Jan 2026, 21:38:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/>)
-
 - **Un'errata configurazione di AWS CodeBuild ha esposto i repository GitHub a potenziali attacchi alla catena di fornitura**  
   Fonte: The Hacker News, 15 Jan 2026, 19:31:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html>)
-
-- **WEF: L’intelligenza artificiale supera il ransomware come rischio informatico in più rapida crescita**  
-  Fonte: Graham Cluley, 15 Jan 2026, 17:05:07 UTC  
-  [Leggi](<https://www.fortra.com/blog/wef-ai-overtakes-ransomware-fastest-growing-cyber-risk>)
 
 - **Difetto critico del plug-in DS modulare di WordPress sfruttato attivamente per ottenere l'accesso come amministratore**  
   Fonte: The Hacker News, 15 Jan 2026, 15:31:00 UTC  
@@ -109,10 +109,6 @@
 - **I ricercatori rivelano un attacco Reprompt che consente l'esfiltrazione dei dati con un solo clic da Microsoft Copilot**  
   Fonte: The Hacker News, 15 Jan 2026, 15:09:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html>)
-
-- **Podcast #450 di Smashing Security: dal panico di Instagram a Grok impazzito**  
-  Fonte: Graham Cluley, 15 Jan 2026, 14:22:53 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-450/>)
 
 - **Bollettino del ThreatsDay: exploit della clonazione vocale AI, kill switch Wi-Fi, vulnerabilità PLC e altre 14 storie**  
   Fonte: The Hacker News, 15 Jan 2026, 13:56:00 UTC  
@@ -182,10 +178,6 @@
   Fonte: Krebs on Security, 14 Jan 2026, 00:47:38 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/>)
 
-- **La correzione AI n. 83: ChatGPT Health, LLM vittoriani e i più grandi bluffatori dell'IA**  
-  Fonte: Graham Cluley, 13 Jan 2026, 18:19:04 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-83/>)
-
 - **Una lunga campagna di web skimming ruba carte di credito dalle pagine di pagamento online**  
   Fonte: The Hacker News, 13 Jan 2026, 17:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html>)
@@ -217,10 +209,6 @@
 - **Chi decide chi non merita la privacy?**  
   Fonte: Troy Hunt, 13 Jan 2026, 11:41:40 UTC  
   [Leggi](<https://www.troyhunt.com/who-decides-who-doesnt-deserve-privacy/>)
-
-- **Gli hacker vengono violati perché il database di BreachForums viene trapelato**  
-  Fonte: Graham Cluley, 13 Jan 2026, 09:45:11 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-get-hacked-as-breachforums-database-is-leaked>)
 
 - **Una nuova campagna malware fornisce Remcos RAT attraverso un attacco Windows in più fasi**  
   Fonte: The Hacker News, 13 Jan 2026, 09:08:00 UTC  
@@ -254,13 +242,5 @@
   Fonte: The Hacker News, 12 Jan 2026, 07:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/researchers-uncover-service-providers.html>)
 
-- **MuddyWater lancia RustyWater RAT tramite spear-phishing nei settori del Medio Oriente**  
-  Fonte: The Hacker News, 10 Jan 2026, 10:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html>)
 
-- **Europol arresta 34 membri della Black Axe in Spagna per frode e criminalità organizzata da 5,9 milioni di euro**  
-  Fonte: The Hacker News, 10 Jan 2026, 08:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-17 06:18:48 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-18 06:18:34 UTC -->
