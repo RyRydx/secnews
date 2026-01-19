@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **Nuovi leak di OpenAI suggeriscono le prossime funzionalità di ChatGPT**  
+  Fonte: BleepingComputer, 19 Jan 2026, 00:29:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/>)
+
+- **Microsoft rilascia aggiornamenti OOB di Windows per correggere l'arresto e i bug del Cloud PC**  
+  Fonte: BleepingComputer, 18 Jan 2026, 18:16:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/>)
+
+- **Il CIRO conferma le informazioni esposte sulla violazione dei dati su 750.000 investitori canadesi**  
+  Fonte: BleepingComputer, 18 Jan 2026, 15:17:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/>)
+
+- **Aggiornamento settimanale 487**  
+  Fonte: Troy Hunt, 18 Jan 2026, 08:43:10 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-487/>)
+
+- **Google Chrome testa le "abilità" dell'intelligenza artificiale basata su Gemini**  
+  Fonte: BleepingComputer, 18 Jan 2026, 03:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/>)
+
 - **Google Chrome ora ti consente di disattivare il modello AI sul dispositivo che alimenta il rilevamento delle truffe**  
   Fonte: BleepingComputer, 18 Jan 2026, 02:05:01 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/>)
@@ -62,29 +82,13 @@
   Fonte: Cloudflare Blog - Security, 16 Jan 2026, 14:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/astro-joins-cloudflare/>)
 
-- **Microsoft: l'aggiornamento di Windows 11 causa il blocco di Outlook per gli utenti POP**  
-  Fonte: BleepingComputer, 16 Jan 2026, 12:12:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/>)
-
 - **La tua impronta digitale può arrivare direttamente alla tua porta di casa**  
   Fonte: The Hacker News, 16 Jan 2026, 10:42:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html>)
 
-- **Gli hacker ora sfruttano la falla critica di Fortinet FortiSIEM negli attacchi**  
-  Fonte: BleepingComputer, 16 Jan 2026, 10:29:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/>)
-
 - **La backdoor LOTUSLITE prende di mira entità politiche statunitensi utilizzando lo spear phishing a tema Venezuela**  
   Fonte: The Hacker News, 16 Jan 2026, 10:27:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html>)
-
-- **Cisco risolve finalmente il problema AsyncOS zero-day sfruttato da novembre**  
-  Fonte: BleepingComputer, 16 Jan 2026, 09:20:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/>)
-
-- **Microsoft: alcuni PC Windows non si spengono dopo l'aggiornamento di gennaio**  
-  Fonte: BleepingComputer, 16 Jan 2026, 08:35:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/>)
 
 - **L'APT collegata alla Cina ha sfruttato il Sitecore Zero-Day nelle intrusioni nelle infrastrutture critiche**  
   Fonte: The Hacker News, 16 Jan 2026, 07:18:00 UTC  
@@ -102,6 +106,10 @@
   Fonte: The Hacker News, 15 Jan 2026, 19:31:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html>)
 
+- **WEF: L’intelligenza artificiale supera il ransomware come rischio informatico in più rapida crescita**  
+  Fonte: Graham Cluley, 15 Jan 2026, 17:05:07 UTC  
+  [Leggi](<https://www.fortra.com/blog/wef-ai-overtakes-ransomware-fastest-growing-cyber-risk>)
+
 - **Difetto critico del plug-in DS modulare di WordPress sfruttato attivamente per ottenere l'accesso come amministratore**  
   Fonte: The Hacker News, 15 Jan 2026, 15:31:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html>)
@@ -109,6 +117,10 @@
 - **I ricercatori rivelano un attacco Reprompt che consente l'esfiltrazione dei dati con un solo clic da Microsoft Copilot**  
   Fonte: The Hacker News, 15 Jan 2026, 15:09:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html>)
+
+- **Podcast #450 di Smashing Security: dal panico di Instagram a Grok impazzito**  
+  Fonte: Graham Cluley, 15 Jan 2026, 14:22:53 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-450/>)
 
 - **Bollettino del ThreatsDay: exploit della clonazione vocale AI, kill switch Wi-Fi, vulnerabilità PLC e altre 14 storie**  
   Fonte: The Hacker News, 15 Jan 2026, 13:56:00 UTC  
@@ -178,6 +190,10 @@
   Fonte: Krebs on Security, 14 Jan 2026, 00:47:38 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/>)
 
+- **La correzione AI n. 83: ChatGPT Health, LLM vittoriani e i più grandi bluffatori dell'IA**  
+  Fonte: Graham Cluley, 13 Jan 2026, 18:19:04 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-83/>)
+
 - **Una lunga campagna di web skimming ruba carte di credito dalle pagine di pagamento online**  
   Fonte: The Hacker News, 13 Jan 2026, 17:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html>)
@@ -209,6 +225,10 @@
 - **Chi decide chi non merita la privacy?**  
   Fonte: Troy Hunt, 13 Jan 2026, 11:41:40 UTC  
   [Leggi](<https://www.troyhunt.com/who-decides-who-doesnt-deserve-privacy/>)
+
+- **Gli hacker vengono violati perché il database di BreachForums viene trapelato**  
+  Fonte: Graham Cluley, 13 Jan 2026, 09:45:11 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-get-hacked-as-breachforums-database-is-leaked>)
 
 - **Una nuova campagna malware fornisce Remcos RAT attraverso un attacco Windows in più fasi**  
   Fonte: The Hacker News, 13 Jan 2026, 09:08:00 UTC  
@@ -243,4 +263,4 @@
   [Leggi](<https://thehackernews.com/2026/01/researchers-uncover-service-providers.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-01-18 06:18:34 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-19 06:26:34 UTC -->
