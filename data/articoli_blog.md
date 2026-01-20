@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **ChatGPT Go ora sblocca l'accesso illimitato a GPT-5.2 Instant per $ 8**  
+  Fonte: BleepingComputer, 20 Jan 2026, 01:24:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/>)
+
+- **Puoi ottenere l'abbonamento $ 20 Plus di ChatGPT gratuitamente per un periodo limitato**  
+  Fonte: BleepingComputer, 20 Jan 2026, 01:07:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/>)
+
+- **L'estensione falsa per il blocco degli annunci blocca il browser per gli attacchi ClickFix**  
+  Fonte: BleepingComputer, 19 Jan 2026, 22:49:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/>)
+
+- **Nuovo malware Windows PDFSider distribuito sulla rete di un'azienda Fortune 100**  
+  Fonte: BleepingComputer, 19 Jan 2026, 21:00:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/>)
+
+- **Il difetto di Google Gemini Prompt Injection ha esposto i dati del calendario privato tramite inviti dannosi**  
+  Fonte: The Hacker News, 19 Jan 2026, 17:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html>)
+
+- **Governo del Regno Unito.mette in guardia sui continui attacchi di gruppi di hacktivisti russi**  
+  Fonte: BleepingComputer, 19 Jan 2026, 17:20:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/>)
+
+- **L'hacker ammette di aver divulgato dati rubati alla Corte Suprema su Instagram**  
+  Fonte: BleepingComputer, 19 Jan 2026, 16:04:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/>)
+
+- **Jordanian si dichiara colpevole di aver venduto l'accesso a 50 reti aziendali**  
+  Fonte: BleepingComputer, 19 Jan 2026, 14:38:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/>)
+
+- **Come abbiamo mitigato una vulnerabilità nella logica di convalida ACME di Cloudflare**  
+  Fonte: Cloudflare Blog - Security, 19 Jan 2026, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/acme-path-vulnerability/>)
+
+- **Ingram Micro afferma che l'attacco ransomware ha colpito 42.000 persone**  
+  Fonte: BleepingComputer, 19 Jan 2026, 13:33:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/>)
+
+- **⚡ Riepilogo settimanale: exploit Fortinet, RedLine Clipjack, crack NTLM, attacco copilota e altro**  
+  Fonte: The Hacker News, 19 Jan 2026, 13:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html>)
+
+- **Sorveglianza basata sull’intelligenza artificiale nelle scuole**  
+  Fonte: Schneier on Security, 19 Jan 2026, 12:02:24 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/ai-powered-surveillance-in-schools.html>)
+
+- **Downtime DevOps e SaaS: i costi elevati (e nascosti) per le aziende cloud-first**  
+  Fonte: The Hacker News, 19 Jan 2026, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html>)
+
+- **Il nuovo difetto hardware StackWarp interrompe le protezioni AMD SEV-SNP sulle CPU Zen 1–5**  
+  Fonte: The Hacker News, 19 Jan 2026, 11:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html>)
+
+- **L'estensione CrashFix per Chrome fornisce ModeloRAT utilizzando esche di arresto anomalo del browser in stile ClickFix**  
+  Fonte: The Hacker News, 19 Jan 2026, 09:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html>)
+
+- **Bug di sicurezza nel pannello malware StealC che consente ai ricercatori di spiare le operazioni degli attori delle minacce**  
+  Fonte: The Hacker News, 19 Jan 2026, 06:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html>)
+
+- **Il nome host OpenAI suggerisce una nuova funzionalità ChatGPT con nome in codice "Sonata"**  
+  Fonte: BleepingComputer, 19 Jan 2026, 01:47:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/>)
+
 - **Nuovi leak di OpenAI suggeriscono le prossime funzionalità di ChatGPT**  
   Fonte: BleepingComputer, 19 Jan 2026, 00:29:05 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/>)
@@ -34,41 +102,13 @@
   Fonte: BleepingComputer, 17 Jan 2026, 16:19:30 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/>)
 
-- **Trovate estensioni dannose del browser GhostPoster con 840.000 installazioni**  
-  Fonte: BleepingComputer, 17 Jan 2026, 15:23:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/>)
-
 - **OpenAI per mostrare annunci in ChatGPT per gli adulti statunitensi che hanno effettuato l'accesso con piani Free and Go**  
   Fonte: The Hacker News, 17 Jan 2026, 08:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html>)
 
-- **L'abbonamento ChatGPT Go è disponibile in tutto il mondo a $ 8, ma ti mostrerà annunci**  
-  Fonte: BleepingComputer, 16 Jan 2026, 23:43:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/>)
-
-- **OpenAI afferma che i suoi nuovi annunci ChatGPT non influenzeranno le risposte**  
-  Fonte: BleepingComputer, 16 Jan 2026, 23:06:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/>)
-
-- **Gli hacker di StealC hanno violato i sistemi mentre i ricercatori si impadronivano dei pannelli di controllo del malware**  
-  Fonte: BleepingComputer, 16 Jan 2026, 21:00:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/>)
-
-- **Il boss di Black Basta entra nella lista "Red Notice" dell'Interpol**  
-  Fonte: BleepingComputer, 16 Jan 2026, 19:00:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/>)
-
 - **Il malware GootLoader utilizza 500-1.000 archivi ZIP concatenati per eludere il rilevamento**  
   Fonte: The Hacker News, 16 Jan 2026, 17:59:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html>)
-
-- **Gli hacker legati alla Cina hanno sfruttato Sitecore zero-day per l'accesso iniziale**  
-  Fonte: BleepingComputer, 16 Jan 2026, 17:10:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/>)
-
-- **Verizon inizia a emettere crediti da $ 20 dopo un'interruzione a livello nazionale**  
-  Fonte: BleepingComputer, 16 Jan 2026, 16:19:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/>)
 
 - **L’intelligenza artificiale e la cattura aziendale della conoscenza**  
   Fonte: Schneier on Security, 16 Jan 2026, 14:44:27 UTC  
@@ -238,29 +278,5 @@
   Fonte: The Hacker News, 13 Jan 2026, 07:15:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html>)
 
-- **L'attacco alla catena di fornitura n8n abusa dei nodi della comunità per rubare i token OAuth**  
-  Fonte: The Hacker News, 12 Jan 2026, 16:39:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html>)
 
-- **⚡ Riepilogo settimanale: exploit dell'automazione dell'intelligenza artificiale, spionaggio delle telecomunicazioni, bracconaggio immediato e altro**  
-  Fonte: The Hacker News, 12 Jan 2026, 13:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html>)
-
-- **Corrompere i LLM attraverso strane generalizzazioni**  
-  Fonte: Schneier on Security, 12 Jan 2026, 12:02:39 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/corrupting-llms-through-weird-generalizations.html>)
-
-- **La botnet GoBruteforcer prende di mira i database dei progetti crittografici sfruttando credenziali deboli**  
-  Fonte: The Hacker News, 12 Jan 2026, 10:48:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html>)
-
-- **Anthropic lancia Claude AI for Healthcare con accesso sicuro alle cartelle cliniche**  
-  Fonte: The Hacker News, 12 Jan 2026, 08:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html>)
-
-- **I ricercatori scoprono fornitori di servizi che alimentano le frodi nella macellazione di suini su scala industriale**  
-  Fonte: The Hacker News, 12 Jan 2026, 07:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/researchers-uncover-service-providers.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-19 06:26:34 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-20 06:23:46 UTC -->
