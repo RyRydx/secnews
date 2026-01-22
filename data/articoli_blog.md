@@ -2,6 +2,102 @@
 
 ## Ultimi 7 giorni
 
+- **Cisco corregge il CVE-2026-20045 Zero-Day attivamente sfruttato in Unified CM e Webex**  
+  Fonte: The Hacker News, 22 Jan 2026, 04:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html>)
+
+- **Podcast #451 di Smashing Security: Ho hackerato il governo e le tue cuffie saranno le prossime**  
+  Fonte: Graham Cluley, 22 Jan 2026, 00:30:42 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-451/>)
+
+- **I sistemi di ticket Zendesk sono stati dirottati da una massiccia ondata di spam globale**  
+  Fonte: BleepingComputer, 21 Jan 2026, 23:46:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/>)
+
+- **I bug del framework AI di Chainlit consentono agli hacker di violare gli ambienti cloud**  
+  Fonte: BleepingComputer, 21 Jan 2026, 22:37:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/>)
+
+- **Cisco risolve il problema zero day di Unified Communications RCE sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 21 Jan 2026, 22:16:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/>)
+
+- **Il nuovo malware Android utilizza l'intelligenza artificiale per fare clic sugli annunci nascosti del browser**  
+  Fonte: BleepingComputer, 21 Jan 2026, 22:07:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/>)
+
+- **Il rivenditore online PcComponentes afferma che le accuse di violazione dei dati sono false**  
+  Fonte: BleepingComputer, 21 Jan 2026, 20:55:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/>)
+
+- **Gli amministratori di Fortinet segnalano che i firewall FortiGate con patch sono stati violati**  
+  Fonte: BleepingComputer, 21 Jan 2026, 17:49:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/>)
+
+- **La campagna nordcoreana PurpleBravo ha preso di mira 3.136 indirizzi IP tramite falsi colloqui di lavoro**  
+  Fonte: The Hacker News, 21 Jan 2026, 17:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html>)
+
+- **Le e-mail false di Lastpass si presentano come avvisi di backup dell'archivio password**  
+  Fonte: BleepingComputer, 21 Jan 2026, 16:58:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/>)
+
+- **Zoom e GitLab rilasciano aggiornamenti di sicurezza che risolvono i difetti di bypass RCE, DoS e 2FA**  
+  Fonte: The Hacker News, 21 Jan 2026, 15:42:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html>)
+
+- **La soluzione alternativa di Microsoft condivide per Outlook si blocca dopo l'aggiornamento di Windows**  
+  Fonte: BleepingComputer, 21 Jan 2026, 15:12:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/>)
+
+- **Sei stato vittima di phishing?Ovviamente!Sei umano...**  
+  Fonte: BleepingComputer, 21 Jan 2026, 14:30:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/you-got-phished-of-course-youre-human/>)
+
+- **Gli hacker sfruttano le app di test di sicurezza per violare le aziende Fortune 500**  
+  Fonte: BleepingComputer, 21 Jan 2026, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/>)
+
+- **GitLab avverte di bypass 2FA ad alta gravità e difetti di negazione del servizio**  
+  Fonte: BleepingComputer, 21 Jan 2026, 13:57:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/>)
+
+- **Tesla violata, 37 zero-day dimostrati al Pwn2Own Automotive 2026**  
+  Fonte: BleepingComputer, 21 Jan 2026, 12:16:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/>)
+
+- **Il voto su Internet è troppo insicuro per essere utilizzato durante le elezioni**  
+  Fonte: Schneier on Security, 21 Jan 2026, 12:05:50 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/internet-voting-is-too-insecure-for-use-in-elections.html>)
+
+- **Webinar: come gli MSSP intelligenti utilizzano l'intelligenza artificiale per aumentare i margini con metà del personale**  
+  Fonte: The Hacker News, 21 Jan 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html>)
+
+- **Gli attacchi di negazione del servizio filo-russi prendono di mira il Regno Unito, avverte l’NCSC**  
+  Fonte: Graham Cluley, 21 Jan 2026, 10:48:52 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/pro-russian-denial-of-service-attacks-target-uk-ncsc-warns>)
+
+- **Le piattaforme di valutazione dell’esposizione segnalano uno spostamento dell’attenzione**  
+  Fonte: The Hacker News, 21 Jan 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html>)
+
+- **I difetti del framework AI Chainlit consentono il furto di dati tramite lettura di file e bug SSRF**  
+  Fonte: The Hacker News, 21 Jan 2026, 09:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html>)
+
+- **VoidLink Linux Malware Framework realizzato con l'assistenza dell'intelligenza artificiale raggiunge 88.000 righe di codice**  
+  Fonte: The Hacker News, 21 Jan 2026, 08:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html>)
+
+- **LastPass avverte di messaggi di manutenzione falsi che prendono di mira le password principali degli utenti**  
+  Fonte: The Hacker News, 21 Jan 2026, 06:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html>)
+
+- **CERT/CC avvisa che un bug del parser binario consente l'esecuzione di codice a livello di privilegio Node.js**  
+  Fonte: The Hacker News, 21 Jan 2026, 06:04:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html>)
+
 - **Il browser ChatGPT Atlas di OpenAI sta testando la funzionalità delle azioni**  
   Fonte: BleepingComputer, 21 Jan 2026, 02:00:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/>)
@@ -14,37 +110,13 @@
   Fonte: BleepingComputer, 20 Jan 2026, 22:57:21 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/>)
 
-- **Il bug del plugin ACF consente agli hacker di amministrare 50.000 siti WordPress**  
-  Fonte: BleepingComputer, 20 Jan 2026, 22:12:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/>)
-
-- **Il malware cloud VoidLink mostra chiari segni di essere generato dall’intelligenza artificiale**  
-  Fonte: BleepingComputer, 20 Jan 2026, 19:35:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/>)
-
-- **L’UE prevede una revisione della sicurezza informatica per bloccare i fornitori stranieri ad alto rischio**  
-  Fonte: BleepingComputer, 20 Jan 2026, 18:54:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/>)
-
 - **Gli hacker legati alla Corea del Nord prendono di mira gli sviluppatori tramite progetti VS Code dannosi**  
   Fonte: The Hacker News, 20 Jan 2026, 18:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html>)
 
-- **L'assistente AI di Gemini è stato indotto con l'inganno a divulgare i dati di Google Calendar**  
-  Fonte: BleepingComputer, 20 Jan 2026, 17:50:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/>)
-
-- **Microsoft PowerToys aggiunge il nuovo strumento di "teletrasporto" del mouse CursorWrap**  
-  Fonte: BleepingComputer, 20 Jan 2026, 16:33:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/>)
-
 - **La correzione AI n. 84: un fantasma affamato intrappolato in un barattolo ottiene l'accesso alla rete del Pentagono**  
   Fonte: Graham Cluley, 20 Jan 2026, 15:30:36 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-84/>)
-
-- **Fai del rilevamento delle minacce all'identità la tua strategia di sicurezza per il 2026**  
-  Fonte: BleepingComputer, 20 Jan 2026, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/>)
 
 - **Tre difetti nel server Git MCP antropico consentono l'accesso ai file e l'esecuzione del codice**  
   Fonte: The Hacker News, 20 Jan 2026, 13:55:00 UTC  
@@ -53,10 +125,6 @@
 - **Gli hacker utilizzano i messaggi di LinkedIn per diffondere malware RAT tramite il sideloading DLL**  
   Fonte: The Hacker News, 20 Jan 2026, 13:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html>)
-
-- **Webinar: Allineare gli acquisti di sicurezza informatica con ciò di cui ha bisogno il tuo team SOC**  
-  Fonte: BleepingComputer, 20 Jan 2026, 13:15:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-aligning-cybersecurity-purchases-with-what-your-soc-team-needs/>)
 
 - **ChatGPT potrebbe convincerti ad acquistare qualcosa?**  
   Fonte: Schneier on Security, 20 Jan 2026, 12:08:09 UTC  
@@ -82,29 +150,9 @@
   Fonte: The Hacker News, 20 Jan 2026, 07:40:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html>)
 
-- **ChatGPT Go ora sblocca l'accesso illimitato a GPT-5.2 Instant per $ 8**  
-  Fonte: BleepingComputer, 20 Jan 2026, 01:24:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/>)
-
-- **Puoi ottenere l'abbonamento $ 20 Plus di ChatGPT gratuitamente per un periodo limitato**  
-  Fonte: BleepingComputer, 20 Jan 2026, 01:07:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/>)
-
-- **L'estensione falsa per il blocco degli annunci blocca il browser per gli attacchi ClickFix**  
-  Fonte: BleepingComputer, 19 Jan 2026, 22:49:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/>)
-
-- **Nuovo malware Windows PDFSider distribuito sulla rete di un'azienda Fortune 100**  
-  Fonte: BleepingComputer, 19 Jan 2026, 21:00:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/>)
-
 - **Il difetto di Google Gemini Prompt Injection ha esposto i dati del calendario privato tramite inviti dannosi**  
   Fonte: The Hacker News, 19 Jan 2026, 17:21:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html>)
-
-- **Governo del Regno Unito.mette in guardia sui continui attacchi di gruppi di hacktivisti russi**  
-  Fonte: BleepingComputer, 19 Jan 2026, 17:20:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/>)
 
 - **Come abbiamo mitigato una vulnerabilità nella logica di convalida ACME di Cloudflare**  
   Fonte: Cloudflare Blog - Security, 19 Jan 2026, 14:00:00 UTC  
@@ -226,41 +274,5 @@
   Fonte: The Hacker News, 15 Jan 2026, 08:18:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html>)
 
-- **Hacking di sedie a rotelle tramite Bluetooth**  
-  Fonte: Schneier on Security, 14 Jan 2026, 19:22:15 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/hacking-wheelchairs-over-bluetooth.html>)
 
-- **I ricercatori hanno percorso oltre 550 server di comando botnet Kimwolf e Aisuru**  
-  Fonte: The Hacker News, 14 Jan 2026, 19:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html>)
-
-- **Prossimi impegni di conferenza**  
-  Fonte: Schneier on Security, 14 Jan 2026, 17:00:00 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html>)
-
-- **Gli agenti AI stanno diventando percorsi di esclusione delle autorizzazioni**  
-  Fonte: The Hacker News, 14 Jan 2026, 15:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html>)
-
-- **Gli hacker sfruttano il caricamento laterale delle DLL c-ares per aggirare la sicurezza e distribuire malware**  
-  Fonte: The Hacker News, 14 Jan 2026, 14:18:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html>)
-
-- **Fortinet risolve un difetto critico di FortiSIEM che consente l'esecuzione di codice remoto non autenticato**  
-  Fonte: The Hacker News, 14 Jan 2026, 11:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html>)
-
-- **Nuova ricerca: il 64% delle applicazioni di terze parti accede a dati sensibili senza giustificazione**  
-  Fonte: The Hacker News, 14 Jan 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html>)
-
-- **Microsoft risolve 114 difetti di Windows nella patch di gennaio 2026, uno sfruttato attivamente**  
-  Fonte: The Hacker News, 14 Jan 2026, 09:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html>)
-
-- **La vulnerabilità critica di Node.js può causare arresti anomali del server tramite overflow dello stack async_hooks**  
-  Fonte: The Hacker News, 14 Jan 2026, 07:05:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-21 06:23:30 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-22 06:21:59 UTC -->
