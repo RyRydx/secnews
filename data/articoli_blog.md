@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Account Okta SSO presi di mira in attacchi di furto di dati basati su vishing**  
+  Fonte: BleepingComputer, 22 Jan 2026, 21:43:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/>)
+
+- **Curl che termina il programma di bug bounty dopo un'ondata di rapporti sugli slop dell'IA**  
+  Fonte: BleepingComputer, 22 Jan 2026, 19:01:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/>)
+
+- **Il difetto di bypass dell'autenticazione SmarterMail ora viene sfruttato per dirottare gli account amministratore**  
+  Fonte: BleepingComputer, 22 Jan 2026, 18:44:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/>)
+
+- **Il nuovo ransomware Osiris emerge come nuovo ceppo che utilizza il driver POORTRY nell'attacco BYOVD**  
+  Fonte: The Hacker News, 22 Jan 2026, 18:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html>)
+
+- **Difetto critico di GNU InetUtils telnetd che consente agli aggressori di bypassare il login e ottenere l'accesso root**  
+  Fonte: The Hacker News, 22 Jan 2026, 16:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html>)
+
+- **Microsoft Teams aggiungerà avvisi di impersonificazione del marchio alle chiamate**  
+  Fonte: BleepingComputer, 22 Jan 2026, 16:28:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/>)
+
+- **Il fallimento opsec del ransomware INC ha consentito il ripristino dei dati per 12 organizzazioni statunitensi**  
+  Fonte: BleepingComputer, 22 Jan 2026, 16:21:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/>)
+
+- **Perché le reimpostazioni delle password di Active Directory stanno aumentando nel lavoro ibrido**  
+  Fonte: BleepingComputer, 22 Jan 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/>)
+
+- **Bollettino del ThreatsDay: Pixel Zero-Click, Redis RCE, China C2, annunci RAT, truffe crittografiche e oltre 15 storie**  
+  Fonte: The Hacker News, 22 Jan 2026, 14:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html>)
+
+- **Microsoft aggiorna Blocco note e Paint con più funzionalità AI**  
+  Fonte: BleepingComputer, 22 Jan 2026, 14:22:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/>)
+
+- **Perché l'intelligenza artificiale continua a fallire per gli attacchi di iniezione rapida**  
+  Fonte: Schneier on Security, 22 Jan 2026, 12:35:46 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html>)
+
+- **Gli hacker sfruttano 29 zero-day nel secondo giorno di Pwn2Own Automotive**  
+  Fonte: BleepingComputer, 22 Jan 2026, 12:30:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/>)
+
+- **Gli hacker violano i dispositivi Fortinet FortiGate e rubano le configurazioni del firewall**  
+  Fonte: BleepingComputer, 22 Jan 2026, 11:49:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/>)
+
+- **Colmare le lacune più comuni nella sicurezza di Google Workspace**  
+  Fonte: The Hacker News, 22 Jan 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html>)
+
+- **Il pacchetto PyPI dannoso impersona SymPy e distribuisce XMRig Miner su host Linux**  
+  Fonte: The Hacker News, 22 Jan 2026, 10:04:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html>)
+
+- **SmarterMail Auth Bypass sfruttato in natura due giorni dopo il rilascio della patch**  
+  Fonte: The Hacker News, 22 Jan 2026, 09:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html>)
+
+- **La sicurezza informatica dell’Agenzia spaziale europea è in caduta libera: l’ennesima violazione espone i dati dei veicoli spaziali e delle missioni**  
+  Fonte: Graham Cluley, 22 Jan 2026, 09:18:39 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/european-space-agencys-cybersecurity-in-freefall-as-yet-another-breach-exposes-spacecraft-and-mission-data>)
+
+- **Gli attacchi automatizzati FortiGate sfruttano FortiCloud SSO per alterare le configurazioni del firewall**  
+  Fonte: The Hacker News, 22 Jan 2026, 05:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html>)
+
 - **Cisco corregge il CVE-2026-20045 Zero-Day attivamente sfruttato in Unified CM e Webex**  
   Fonte: The Hacker News, 22 Jan 2026, 04:06:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html>)
@@ -38,33 +110,9 @@
   Fonte: The Hacker News, 21 Jan 2026, 17:17:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html>)
 
-- **Le e-mail false di Lastpass si presentano come avvisi di backup dell'archivio password**  
-  Fonte: BleepingComputer, 21 Jan 2026, 16:58:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/>)
-
 - **Zoom e GitLab rilasciano aggiornamenti di sicurezza che risolvono i difetti di bypass RCE, DoS e 2FA**  
   Fonte: The Hacker News, 21 Jan 2026, 15:42:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html>)
-
-- **La soluzione alternativa di Microsoft condivide per Outlook si blocca dopo l'aggiornamento di Windows**  
-  Fonte: BleepingComputer, 21 Jan 2026, 15:12:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/>)
-
-- **Sei stato vittima di phishing?Ovviamente!Sei umano...**  
-  Fonte: BleepingComputer, 21 Jan 2026, 14:30:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/you-got-phished-of-course-youre-human/>)
-
-- **Gli hacker sfruttano le app di test di sicurezza per violare le aziende Fortune 500**  
-  Fonte: BleepingComputer, 21 Jan 2026, 14:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/>)
-
-- **GitLab avverte di bypass 2FA ad alta gravità e difetti di negazione del servizio**  
-  Fonte: BleepingComputer, 21 Jan 2026, 13:57:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/>)
-
-- **Tesla violata, 37 zero-day dimostrati al Pwn2Own Automotive 2026**  
-  Fonte: BleepingComputer, 21 Jan 2026, 12:16:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/>)
 
 - **Il voto su Internet è troppo insicuro per essere utilizzato durante le elezioni**  
   Fonte: Schneier on Security, 21 Jan 2026, 12:05:50 UTC  
@@ -98,21 +146,13 @@
   Fonte: The Hacker News, 21 Jan 2026, 06:04:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html>)
 
-- **Il browser ChatGPT Atlas di OpenAI sta testando la funzionalità delle azioni**  
-  Fonte: BleepingComputer, 21 Jan 2026, 02:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/>)
-
-- **Google afferma che Gemini non avrà annunci, poiché ChatGPT si prepara ad aggiungerli**  
-  Fonte: BleepingComputer, 21 Jan 2026, 00:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/>)
-
-- **OpenAI implementa un modello di previsione dell'età su ChatGPT per rilevare la tua età**  
-  Fonte: BleepingComputer, 20 Jan 2026, 22:57:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/>)
-
 - **Gli hacker legati alla Corea del Nord prendono di mira gli sviluppatori tramite progetti VS Code dannosi**  
   Fonte: The Hacker News, 20 Jan 2026, 18:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html>)
+
+- **La botnet Kimwolf in agguato nell'azienda governativa.Reti**  
+  Fonte: Krebs on Security, 20 Jan 2026, 18:19:13 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/>)
 
 - **La correzione AI n. 84: un fantasma affamato intrappolato in un barattolo ottiene l'accesso alla rete del Pentagono**  
   Fonte: Graham Cluley, 20 Jan 2026, 15:30:36 UTC  
@@ -218,7 +258,7 @@
   Fonte: The Hacker News, 16 Jan 2026, 10:27:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html>)
 
-- **L'APT collegata alla Cina ha sfruttato il Sitecore Zero-Day nelle intrusioni nelle infrastrutture critiche**  
+- **L'APT collegata alla Cina ha sfruttato Sitecore Zero-Day nell'intrusione di infrastrutture critiche**  
   Fonte: The Hacker News, 16 Jan 2026, 07:18:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html>)
 
@@ -226,53 +266,5 @@
   Fonte: Troy Hunt, 16 Jan 2026, 06:39:10 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-486/>)
 
-- **Cisco applica le patch Zero-Day RCE sfruttate dall'APT collegata alla Cina nei gateway di posta elettronica sicuri**  
-  Fonte: The Hacker News, 16 Jan 2026, 05:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html>)
 
-- **Un'errata configurazione di AWS CodeBuild ha esposto i repository GitHub a potenziali attacchi alla catena di fornitura**  
-  Fonte: The Hacker News, 15 Jan 2026, 19:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html>)
-
-- **WEF: L’intelligenza artificiale supera il ransomware come rischio informatico in più rapida crescita**  
-  Fonte: Graham Cluley, 15 Jan 2026, 17:05:07 UTC  
-  [Leggi](<https://www.fortra.com/blog/wef-ai-overtakes-ransomware-fastest-growing-cyber-risk>)
-
-- **Difetto critico del plug-in DS modulare di WordPress sfruttato attivamente per ottenere l'accesso come amministratore**  
-  Fonte: The Hacker News, 15 Jan 2026, 15:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html>)
-
-- **I ricercatori rivelano un attacco Reprompt che consente l'esfiltrazione dei dati con un solo clic da Microsoft Copilot**  
-  Fonte: The Hacker News, 15 Jan 2026, 15:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html>)
-
-- **Podcast #450 di Smashing Security: dal panico di Instagram a Grok impazzito**  
-  Fonte: Graham Cluley, 15 Jan 2026, 14:22:53 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-450/>)
-
-- **Bollettino del ThreatsDay: exploit della clonazione vocale AI, kill switch Wi-Fi, vulnerabilità PLC e altre 14 storie**  
-  Fonte: The Hacker News, 15 Jan 2026, 13:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html>)
-
-- **Nuova vulnerabilità in n8n**  
-  Fonte: Schneier on Security, 15 Jan 2026, 12:05:04 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html>)
-
-- **La sicurezza del modello è la cornice sbagliata: il vero rischio è la sicurezza del flusso di lavoro**  
-  Fonte: The Hacker News, 15 Jan 2026, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html>)
-
-- **4 abitudini obsolete che distruggono l'MTTR del tuo SOC nel 2026**  
-  Fonte: The Hacker News, 15 Jan 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html>)
-
-- **L'azione legale di Microsoft interrompe l'infrastruttura del crimine informatico RedVDS utilizzata per le frodi online**  
-  Fonte: The Hacker News, 15 Jan 2026, 09:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html>)
-
-- **Palo Alto risolve il difetto DoS di GlobalProtect che può mandare in crash i firewall senza effettuare l'accesso**  
-  Fonte: The Hacker News, 15 Jan 2026, 08:18:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-22 06:21:59 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-23 06:21:38 UTC -->
