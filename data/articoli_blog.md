@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **ShinyHunters afferma di essere dietro gli attacchi di furto di dati sugli account SSO**  
+  Fonte: BleepingComputer, 23 Jan 2026, 23:35:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/>)
+
+- **Blog sui calamari del venerdì: i calamari giganti nell'universo di Star Trek**  
+  Fonte: Schneier on Security, 23 Jan 2026, 22:03:20 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html>)
+
+- **Le estensioni AI dannose su VSCode Marketplace rubano i dati degli sviluppatori**  
+  Fonte: BleepingComputer, 23 Jan 2026, 20:11:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/>)
+
+- **La CISA conferma lo sfruttamento attivo di quattro bug del software aziendale**  
+  Fonte: BleepingComputer, 23 Jan 2026, 18:47:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/>)
+
+- **Gli Stati Uniti deportano i venezuelani che hanno svuotato i bancomat delle banche utilizzando malware**  
+  Fonte: BleepingComputer, 23 Jan 2026, 16:38:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/>)
+
+- **Gli hacker sfruttano il difetto critico di bypass dell'autenticazione di telnetd per ottenere il root**  
+  Fonte: BleepingComputer, 23 Jan 2026, 16:21:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/>)
+
+- **CISA aggiorna il catalogo KEV con quattro vulnerabilità del software sfruttate attivamente**  
+  Fonte: The Hacker News, 23 Jan 2026, 15:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html>)
+
+- **Cosa ci ha insegnato un Honeypot scritto dall'intelligenza artificiale sulla fiducia nelle macchine**  
+  Fonte: BleepingComputer, 23 Jan 2026, 14:59:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/>)
+
+- **Microsoft: Outlook per iOS si arresta in modo anomalo e si blocca a causa di un errore di codifica**  
+  Fonte: BleepingComputer, 23 Jan 2026, 13:34:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/>)
+
+- **Gli hacker ottengono 1.047.000 dollari per 76 zero-day al Pwn2Own Automotive 2026**  
+  Fonte: BleepingComputer, 23 Jan 2026, 12:50:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/>)
+
+- **Fortinet conferma il bypass SSO FortiCloud attivo sui firewall FortiGate con patch complete**  
+  Fonte: The Hacker News, 23 Jan 2026, 12:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html>)
+
+- **Le IA stanno migliorando nel trovare e sfruttare le vulnerabilità di Internet**  
+  Fonte: Schneier on Security, 23 Jan 2026, 12:01:19 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-internet-vulnerabilities.html>)
+
+- **TikTok costituisce una joint venture statunitense per continuare le operazioni ai sensi dell'ordine esecutivo del 2025**  
+  Fonte: The Hacker News, 23 Jan 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html>)
+
+- **Un attacco di phishing utilizza credenziali rubate per installare LogMeIn RMM per l'accesso permanente**  
+  Fonte: The Hacker News, 23 Jan 2026, 11:18:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html>)
+
+- **Fortinet conferma che il bypass critico dell'autenticazione FortiCloud non è stato completamente corretto**  
+  Fonte: BleepingComputer, 23 Jan 2026, 10:39:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/>)
+
+- **Microsoft segnala attacchi AitM Phishing e BEC multifase contro aziende energetiche**  
+  Fonte: The Hacker News, 23 Jan 2026, 08:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html>)
+
 - **Account Okta SSO presi di mira in attacchi di furto di dati basati su vishing**  
   Fonte: BleepingComputer, 22 Jan 2026, 21:43:43 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/>)
@@ -38,21 +102,9 @@
   Fonte: The Hacker News, 22 Jan 2026, 14:23:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html>)
 
-- **Microsoft aggiorna Blocco note e Paint con più funzionalità AI**  
-  Fonte: BleepingComputer, 22 Jan 2026, 14:22:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/>)
-
 - **Perché l'intelligenza artificiale continua a fallire per gli attacchi di iniezione rapida**  
   Fonte: Schneier on Security, 22 Jan 2026, 12:35:46 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html>)
-
-- **Gli hacker sfruttano 29 zero-day nel secondo giorno di Pwn2Own Automotive**  
-  Fonte: BleepingComputer, 22 Jan 2026, 12:30:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/>)
-
-- **Gli hacker violano i dispositivi Fortinet FortiGate e rubano le configurazioni del firewall**  
-  Fonte: BleepingComputer, 22 Jan 2026, 11:49:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/>)
 
 - **Colmare le lacune più comuni nella sicurezza di Google Workspace**  
   Fonte: The Hacker News, 22 Jan 2026, 11:30:00 UTC  
@@ -81,30 +133,6 @@
 - **Podcast #451 di Smashing Security: Ho hackerato il governo e le tue cuffie saranno le prossime**  
   Fonte: Graham Cluley, 22 Jan 2026, 00:30:42 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-451/>)
-
-- **I sistemi di ticket Zendesk sono stati dirottati da una massiccia ondata di spam globale**  
-  Fonte: BleepingComputer, 21 Jan 2026, 23:46:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/>)
-
-- **I bug del framework AI di Chainlit consentono agli hacker di violare gli ambienti cloud**  
-  Fonte: BleepingComputer, 21 Jan 2026, 22:37:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/>)
-
-- **Cisco risolve il problema zero day di Unified Communications RCE sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 21 Jan 2026, 22:16:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/>)
-
-- **Il nuovo malware Android utilizza l'intelligenza artificiale per fare clic sugli annunci nascosti del browser**  
-  Fonte: BleepingComputer, 21 Jan 2026, 22:07:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/>)
-
-- **Il rivenditore online PcComponentes afferma che le accuse di violazione dei dati sono false**  
-  Fonte: BleepingComputer, 21 Jan 2026, 20:55:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/>)
-
-- **Gli amministratori di Fortinet segnalano che i firewall FortiGate con patch sono stati violati**  
-  Fonte: BleepingComputer, 21 Jan 2026, 17:49:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/>)
 
 - **La campagna nordcoreana PurpleBravo ha preso di mira 3.136 indirizzi IP tramite falsi colloqui di lavoro**  
   Fonte: The Hacker News, 21 Jan 2026, 17:17:00 UTC  
@@ -234,37 +262,5 @@
   Fonte: The Hacker News, 17 Jan 2026, 08:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html>)
 
-- **Il malware GootLoader utilizza 500-1.000 archivi ZIP concatenati per eludere il rilevamento**  
-  Fonte: The Hacker News, 16 Jan 2026, 17:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html>)
 
-- **L’intelligenza artificiale e la cattura aziendale della conoscenza**  
-  Fonte: Schneier on Security, 16 Jan 2026, 14:44:27 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html>)
-
-- **Cinque estensioni Chrome dannose si spacciano per Workday e NetSuite per dirottare gli account**  
-  Fonte: The Hacker News, 16 Jan 2026, 14:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html>)
-
-- **Astro si unisce a Cloudflare**  
-  Fonte: Cloudflare Blog - Security, 16 Jan 2026, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/astro-joins-cloudflare/>)
-
-- **La tua impronta digitale può arrivare direttamente alla tua porta di casa**  
-  Fonte: The Hacker News, 16 Jan 2026, 10:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html>)
-
-- **La backdoor LOTUSLITE prende di mira entità politiche statunitensi utilizzando lo spear phishing a tema Venezuela**  
-  Fonte: The Hacker News, 16 Jan 2026, 10:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html>)
-
-- **L'APT collegata alla Cina ha sfruttato Sitecore Zero-Day nell'intrusione di infrastrutture critiche**  
-  Fonte: The Hacker News, 16 Jan 2026, 07:18:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html>)
-
-- **Aggiornamento settimanale 486**  
-  Fonte: Troy Hunt, 16 Jan 2026, 06:39:10 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-486/>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-23 06:21:38 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-24 06:19:24 UTC -->
