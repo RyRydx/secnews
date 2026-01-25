@@ -2,7 +2,35 @@
 
 ## Ultimi 7 giorni
 
-- **ShinyHunters afferma di essere dietro gli attacchi di furto di dati sugli account SSO**  
+- **Microsoft rilascia un aggiornamento OOB di emergenza per correggere i blocchi di Outlook**  
+  Fonte: BleepingComputer, 25 Jan 2026, 01:59:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/>)
+
+- **Gli hacker Sandworm sono collegati al fallito attacco wiper ai sistemi energetici polacchi**  
+  Fonte: BleepingComputer, 24 Jan 2026, 21:58:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/>)
+
+- **Gli hacker di Konni prendono di mira gli ingegneri blockchain con malware creato dall'intelligenza artificiale**  
+  Fonte: BleepingComputer, 24 Jan 2026, 15:23:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/>)
+
+- **Una campagna di phishing in più fasi prende di mira la Russia con Amnesia RAT e Ransomware**  
+  Fonte: The Hacker News, 24 Jan 2026, 11:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html>)
+
+- **Nuovo malware DynoWiper utilizzato nel tentativo di attacco dei vermi della sabbia al settore energetico polacco**  
+  Fonte: The Hacker News, 24 Jan 2026, 08:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html>)
+
+- **Chi ha approvato questo agente?Ripensare l’accesso, la responsabilità e il rischio nell’era degli agenti di intelligenza artificiale**  
+  Fonte: The Hacker News, 24 Jan 2026, 08:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html>)
+
+- **CISA aggiunge il difetto CVE-2024-37079 di VMware vCenter attivamente sfruttato al catalogo KEV**  
+  Fonte: The Hacker News, 24 Jan 2026, 08:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html>)
+
+- **ShinyHunters rivendicano gli attacchi hacker a Okta e Microsoft SSO è responsabile del furto di dati**  
   Fonte: BleepingComputer, 23 Jan 2026, 23:35:03 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/>)
 
@@ -42,7 +70,7 @@
   Fonte: BleepingComputer, 23 Jan 2026, 12:50:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/>)
 
-- **Fortinet conferma il bypass SSO FortiCloud attivo sui firewall FortiGate con patch complete**  
+- **Fortinet conferma il bypass SSO FortiCloud attivo sui firewall FortiGate dotati di patch complete**  
   Fonte: The Hacker News, 23 Jan 2026, 12:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html>)
 
@@ -54,7 +82,7 @@
   Fonte: The Hacker News, 23 Jan 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html>)
 
-- **Un attacco di phishing utilizza credenziali rubate per installare LogMeIn RMM per l'accesso permanente**  
+- **L'attacco di phishing utilizza credenziali rubate per installare LogMeIn RMM per l'accesso permanente**  
   Fonte: The Hacker News, 23 Jan 2026, 11:18:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html>)
 
@@ -74,7 +102,7 @@
   Fonte: BleepingComputer, 22 Jan 2026, 19:01:36 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/>)
 
-- **Il difetto di bypass dell'autenticazione SmarterMail ora viene sfruttato per dirottare gli account amministratore**  
+- **Difetto di bypass dell'autenticazione SmarterMail ora sfruttato per dirottare gli account amministratore**  
   Fonte: BleepingComputer, 22 Jan 2026, 18:44:21 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/>)
 
@@ -85,18 +113,6 @@
 - **Difetto critico di GNU InetUtils telnetd che consente agli aggressori di bypassare il login e ottenere l'accesso root**  
   Fonte: The Hacker News, 22 Jan 2026, 16:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html>)
-
-- **Microsoft Teams aggiungerà avvisi di impersonificazione del marchio alle chiamate**  
-  Fonte: BleepingComputer, 22 Jan 2026, 16:28:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/>)
-
-- **Il fallimento opsec del ransomware INC ha consentito il ripristino dei dati per 12 organizzazioni statunitensi**  
-  Fonte: BleepingComputer, 22 Jan 2026, 16:21:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/>)
-
-- **Perché le reimpostazioni delle password di Active Directory stanno aumentando nel lavoro ibrido**  
-  Fonte: BleepingComputer, 22 Jan 2026, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/>)
 
 - **Bollettino del ThreatsDay: Pixel Zero-Click, Redis RCE, China C2, annunci RAT, truffe crittografiche e oltre 15 storie**  
   Fonte: The Hacker News, 22 Jan 2026, 14:23:00 UTC  
@@ -254,13 +270,5 @@
   Fonte: Troy Hunt, 18 Jan 2026, 08:43:10 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-487/>)
 
-- **Il leader del ransomware Black Basta è stato aggiunto alla lista EU Most Wanted e INTERPOL Red Notice**  
-  Fonte: The Hacker News, 17 Jan 2026, 16:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html>)
 
-- **OpenAI per mostrare annunci in ChatGPT per gli adulti statunitensi che hanno effettuato l'accesso con piani Free and Go**  
-  Fonte: The Hacker News, 17 Jan 2026, 08:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-24 06:19:24 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-25 06:20:56 UTC -->
