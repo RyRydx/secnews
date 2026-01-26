@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **ChatGPT La funzionalità di chat temporanea sta ricevendo un aggiornamento tanto necessario**  
+  Fonte: BleepingComputer, 26 Jan 2026, 01:01:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/>)
+
+- **1Password aggiunge avvisi pop-up per i siti sospetti di phishing**  
+  Fonte: BleepingComputer, 25 Jan 2026, 15:17:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/>)
+
+- **Microsoft indaga sugli errori di avvio di Windows 11 dopo gli aggiornamenti di gennaio**  
+  Fonte: BleepingComputer, 25 Jan 2026, 13:20:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/>)
+
 - **Microsoft rilascia un aggiornamento OOB di emergenza per correggere i blocchi di Outlook**  
   Fonte: BleepingComputer, 25 Jan 2026, 01:59:15 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/>)
@@ -93,18 +105,6 @@
 - **Microsoft segnala attacchi AitM Phishing e BEC multifase contro aziende energetiche**  
   Fonte: The Hacker News, 23 Jan 2026, 08:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html>)
-
-- **Account Okta SSO presi di mira in attacchi di furto di dati basati su vishing**  
-  Fonte: BleepingComputer, 22 Jan 2026, 21:43:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/>)
-
-- **Curl che termina il programma di bug bounty dopo un'ondata di rapporti sugli slop dell'IA**  
-  Fonte: BleepingComputer, 22 Jan 2026, 19:01:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/>)
-
-- **Difetto di bypass dell'autenticazione SmarterMail ora sfruttato per dirottare gli account amministratore**  
-  Fonte: BleepingComputer, 22 Jan 2026, 18:44:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/>)
 
 - **Il nuovo ransomware Osiris emerge come nuovo ceppo che utilizza il driver POORTRY nell'attacco BYOVD**  
   Fonte: The Hacker News, 22 Jan 2026, 18:00:00 UTC  
@@ -266,9 +266,5 @@
   Fonte: The Hacker News, 19 Jan 2026, 06:53:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html>)
 
-- **Aggiornamento settimanale 487**  
-  Fonte: Troy Hunt, 18 Jan 2026, 08:43:10 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-487/>)
 
-
-<!-- Ultimo aggiornamento: 2026-01-25 06:20:56 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-26 06:24:36 UTC -->
