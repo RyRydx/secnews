@@ -2,6 +2,102 @@
 
 ## Ultimi 7 giorni
 
+- **Podcast di Smashing Security n. 452: I peggiori assassini del dark web e Pegasus sul banco degli imputati**  
+  Fonte: Graham Cluley, 29 Jan 2026, 00:30:58 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-452/>)
+
+- **Gli hacker al primo accesso passano a Tsundere Bot per attacchi ransomware**  
+  Fonte: BleepingComputer, 28 Jan 2026, 23:29:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/>)
+
+- **L’attacco informatico alla rete energetica polacca ha colpito circa 30 strutture**  
+  Fonte: BleepingComputer, 28 Jan 2026, 22:14:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/>)
+
+- **eScan conferma che il server di aggiornamento è stato violato per inviare aggiornamenti dannosi**  
+  Fonte: BleepingComputer, 28 Jan 2026, 21:00:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/>)
+
+- **L'assistente AI virale di Moltbot solleva preoccupazioni sulla sicurezza dei dati**  
+  Fonte: BleepingComputer, 28 Jan 2026, 20:26:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/>)
+
+- **Quattro arrestati per repressione di SWATting e doxing basati su Discord**  
+  Fonte: Graham Cluley, 28 Jan 2026, 20:14:41 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/four-arrested-crackdown-discord-swatting-doxing>)
+
+- **Il nuovo difetto di escape sandbox espone le istanze n8n agli attacchi RCE**  
+  Fonte: BleepingComputer, 28 Jan 2026, 17:46:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/>)
+
+- **Il falso assistente di codifica AI di Moltbot sul mercato VS Code elimina malware**  
+  Fonte: The Hacker News, 28 Jan 2026, 17:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html>)
+
+- **L'FBI sequestra il forum sulla criminalità informatica RAMP utilizzato dalle bande di ransomware**  
+  Fonte: BleepingComputer, 28 Jan 2026, 17:38:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/>)
+
+- **Il proprietario del mercato del crimine informatico Empire si dichiara colpevole di associazione a delinquere legata alla droga**  
+  Fonte: BleepingComputer, 28 Jan 2026, 17:19:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/>)
+
+- **ELECTRUM russo legato all’attacco informatico del dicembre 2025 alla rete elettrica polacca**  
+  Fonte: The Hacker News, 28 Jan 2026, 16:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html>)
+
+- **L’intelligenza artificiale sta riscrivendo i controlli di conformità e i CISO devono prenderne atto**  
+  Fonte: BleepingComputer, 28 Jan 2026, 15:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-is-rewriting-compliance-controls-and-cisos-must-take-notice/>)
+
+- **SolarWinds avverte di errori critici di Web Help Desk RCE e bypass di autenticazione**  
+  Fonte: BleepingComputer, 28 Jan 2026, 14:39:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-critical-web-help-desk-rce-auth-bypass-flaws/>)
+
+- **Gli hacker dirottano gli endpoint LLM esposti nell'operazione Bizarre Bazaar**  
+  Fonte: BleepingComputer, 28 Jan 2026, 13:15:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/>)
+
+- **Un uomo slovacco si dichiara colpevole di aver gestito un mercato sulla darknet**  
+  Fonte: BleepingComputer, 28 Jan 2026, 12:49:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/>)
+
+- **Due difetti n8n di elevata gravità consentono l'esecuzione di codice remoto autenticato**  
+  Fonte: The Hacker News, 28 Jan 2026, 12:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html>)
+
+- **Dal triage alla caccia alle minacce: come l'intelligenza artificiale accelera le operazioni di sicurezza**  
+  Fonte: The Hacker News, 28 Jan 2026, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html>)
+
+- **Il difetto critico di vm2 Node.js consente l'escape dalla sandbox e l'esecuzione di codice arbitrario**  
+  Fonte: The Hacker News, 28 Jan 2026, 11:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html>)
+
+- **La nuova funzionalità di blocco di WhatsApp protegge gli utenti ad alto rischio dagli hacker**  
+  Fonte: BleepingComputer, 28 Jan 2026, 11:48:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/>)
+
+- **Mustang Panda implementa la backdoor COOLCLIENT aggiornata negli attacchi informatici governativi**  
+  Fonte: The Hacker News, 28 Jan 2026, 11:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html>)
+
+- **Riutilizzo della password sotto mentite spoglie: una soluzione rischiosa spesso trascurata**  
+  Fonte: The Hacker News, 28 Jan 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html>)
+
+- **Google avverte dello sfruttamento attivo della vulnerabilità WinRAR CVE-2025-8088**  
+  Fonte: The Hacker News, 28 Jan 2026, 09:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html>)
+
+- **Pacchetti falsi per il controllo ortografico Python su PyPI hanno fornito un trojan di accesso remoto nascosto**  
+  Fonte: The Hacker News, 28 Jan 2026, 09:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html>)
+
+- **Attenzione!Le false estensioni del browser ChatGPT stanno rubando le tue credenziali di accesso**  
+  Fonte: Graham Cluley, 28 Jan 2026, 09:20:29 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/beware-fake-chatgpt-browser-extensions-are-stealing-your-login-credentials>)
+
 - **Fortinet applica la patch CVE-2026-24858 dopo il rilevamento di uno sfruttamento SSO attivo di FortiOS**  
   Fonte: The Hacker News, 28 Jan 2026, 04:49:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html>)
@@ -18,53 +114,25 @@
   Fonte: BleepingComputer, 27 Jan 2026, 22:26:26 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/>)
 
-- **Difetto di attraversamento del percorso WinRAR ancora sfruttato da numerosi hacker**  
-  Fonte: BleepingComputer, 27 Jan 2026, 19:38:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/>)
-
 - **WhatsApp lancia la modalità di sicurezza in stile blocco per proteggere gli utenti presi di mira dallo spyware**  
   Fonte: The Hacker News, 27 Jan 2026, 16:54:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html>)
-
-- **Nike indaga sulla violazione dei dati dopo che una banda di estorsori ha fatto trapelare file**  
-  Fonte: BleepingComputer, 27 Jan 2026, 16:45:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/>)
 
 - **Gli esperti rilevano campagne informatiche legate al Pakistan rivolte a enti governativi indiani**  
   Fonte: The Hacker News, 27 Jan 2026, 16:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html>)
 
-- **Difetto critico di escape sandbox trovato nella popolare libreria VM2 NodeJS**  
-  Fonte: BleepingComputer, 27 Jan 2026, 16:35:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/>)
-
-- **Gli Stati Uniti accusano altri 31 sospetti collegati ad attacchi malware ai bancomat**  
-  Fonte: BleepingComputer, 27 Jan 2026, 16:27:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-31-more-suspects-linked-to-atm-malware-attacks/>)
-
 - **La correzione AI n. 85: ChatGPT riceve annunci, gli animali domestici ottengono terapisti IA e tutti si sbagliano sui LLM**  
   Fonte: Graham Cluley, 27 Jan 2026, 15:12:46 UTC  
   [Leggi](<https://grahamcluley.com/the-ai-fix-85/>)
-
-- **Dalla cifratura alla paura: la psicologia dietro le moderne estorsioni ransomware**  
-  Fonte: BleepingComputer, 27 Jan 2026, 15:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/>)
 
 - **Gli attacchi ClickFix si espandono utilizzando CAPTCHA falsi, script Microsoft e servizi Web affidabili**  
   Fonte: The Hacker News, 27 Jan 2026, 14:38:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html>)
 
-- **Oltre 6.000 server SmarterMail esposti ad attacchi di dirottamento automatizzati**  
-  Fonte: BleepingComputer, 27 Jan 2026, 14:09:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/>)
-
 - **Costruire un homeserver Matrix post-quantistico serverless**  
   Fonte: Cloudflare Blog - Security, 27 Jan 2026, 14:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/serverless-matrix-homeserver-workers/>)
-
-- **Sono stato preso in giro: la violazione dei dati di SoundCloud ha un impatto su 29,8 milioni di account**  
-  Fonte: BleepingComputer, 27 Jan 2026, 12:25:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/>)
 
 - **La costituzionalità dei mandati di Geofence**  
   Fonte: Schneier on Security, 27 Jan 2026, 12:01:47 UTC  
@@ -89,26 +157,6 @@
 - **Gli hacker collegati alla Cina utilizzano il framework PeckBirdy JavaScript C2 dal 2023**  
   Fonte: The Hacker News, 27 Jan 2026, 09:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/china-linked-hackers-have-used.html>)
-
-- **Il nuovo servizio malware garantisce estensioni di phishing sul web store di Chrome**  
-  Fonte: BleepingComputer, 26 Jan 2026, 23:46:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/>)
-
-- **I nuovi attacchi ClickFix abusano degli script Windows App-V per diffondere malware**  
-  Fonte: BleepingComputer, 26 Jan 2026, 21:42:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/>)
-
-- **Le patch Microsoft hanno sfruttato attivamente la vulnerabilità zero-day di Office**  
-  Fonte: BleepingComputer, 26 Jan 2026, 18:20:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/>)
-
-- **Errata configurazione di Cloudflare dietro la recente perdita del percorso BGP**  
-  Fonte: BleepingComputer, 26 Jan 2026, 17:50:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/>)
-
-- **L'UE avvia un'indagine su X sulle immagini sessuali generate da Grok**  
-  Fonte: BleepingComputer, 26 Jan 2026, 17:14:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/>)
 
 - **Utenti indiani presi di mira da una campagna di phishing fiscale che distribuiva il malware Blackmoon**  
   Fonte: The Hacker News, 26 Jan 2026, 17:01:00 UTC  
@@ -210,53 +258,5 @@
   Fonte: Graham Cluley, 22 Jan 2026, 09:18:39 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/european-space-agencys-cybersecurity-in-freefall-as-yet-another-breach-exposes-spacecraft-and-mission-data>)
 
-- **Gli attacchi automatizzati FortiGate sfruttano FortiCloud SSO per alterare le configurazioni del firewall**  
-  Fonte: The Hacker News, 22 Jan 2026, 05:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html>)
 
-- **Cisco corregge il CVE-2026-20045 Zero-Day attivamente sfruttato in Unified CM e Webex**  
-  Fonte: The Hacker News, 22 Jan 2026, 04:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html>)
-
-- **Podcast #451 di Smashing Security: Ho hackerato il governo e le tue cuffie saranno le prossime**  
-  Fonte: Graham Cluley, 22 Jan 2026, 00:30:42 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-451/>)
-
-- **La campagna nordcoreana PurpleBravo ha preso di mira 3.136 indirizzi IP tramite falsi colloqui di lavoro**  
-  Fonte: The Hacker News, 21 Jan 2026, 17:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html>)
-
-- **Zoom e GitLab rilasciano aggiornamenti di sicurezza che risolvono i difetti di bypass RCE, DoS e 2FA**  
-  Fonte: The Hacker News, 21 Jan 2026, 15:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html>)
-
-- **Il voto su Internet è troppo insicuro per essere utilizzato durante le elezioni**  
-  Fonte: Schneier on Security, 21 Jan 2026, 12:05:50 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/internet-voting-is-too-insecure-for-use-in-elections.html>)
-
-- **Webinar: come gli MSSP intelligenti utilizzano l'intelligenza artificiale per aumentare i margini con metà del personale**  
-  Fonte: The Hacker News, 21 Jan 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html>)
-
-- **Gli attacchi di negazione del servizio filo-russi prendono di mira il Regno Unito, avverte l’NCSC**  
-  Fonte: Graham Cluley, 21 Jan 2026, 10:48:52 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/pro-russian-denial-of-service-attacks-target-uk-ncsc-warns>)
-
-- **Le piattaforme di valutazione dell’esposizione segnalano uno spostamento dell’attenzione**  
-  Fonte: The Hacker News, 21 Jan 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html>)
-
-- **I difetti del framework AI Chainlit consentono il furto di dati tramite lettura di file e bug SSRF**  
-  Fonte: The Hacker News, 21 Jan 2026, 09:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html>)
-
-- **VoidLink Linux Malware Framework realizzato con l'assistenza dell'intelligenza artificiale raggiunge 88.000 righe di codice**  
-  Fonte: The Hacker News, 21 Jan 2026, 08:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html>)
-
-- **LastPass avverte di messaggi di manutenzione falsi che prendono di mira le password principali degli utenti**  
-  Fonte: The Hacker News, 21 Jan 2026, 06:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-28 06:24:01 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-29 06:35:24 UTC -->
