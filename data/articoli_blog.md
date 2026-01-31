@@ -2,6 +2,54 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: scoperte nuove specie di calamari**  
+  Fonte: Schneier on Security, 30 Jan 2026, 22:05:11 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html>)
+
+- **Lo scorso anno i portafogli crittografici hanno ricevuto la cifra record di 158 miliardi di dollari in fondi illeciti**  
+  Fonte: BleepingComputer, 30 Jan 2026, 18:49:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/>)
+
+- **Microsoft disabiliterà NTLM per impostazione predefinita nelle future versioni di Windows**  
+  Fonte: BleepingComputer, 30 Jan 2026, 17:08:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/>)
+
+- **L'operazione Switch Off smantella i principali servizi di streaming TV pirata**  
+  Fonte: BleepingComputer, 30 Jan 2026, 16:39:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/>)
+
+- **Le IA stanno migliorando nel trovare e sfruttare le vulnerabilità della sicurezza**  
+  Fonte: Schneier on Security, 30 Jan 2026, 15:35:15 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html>)
+
+- **Microsoft risolve il bug di Outlook che blocca l'accesso alle e-mail crittografate**  
+  Fonte: BleepingComputer, 30 Jan 2026, 14:48:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/>)
+
+- **I ricercatori scoprono estensioni di Chrome che abusano di link di affiliazione e rubano l'accesso a ChatGPT**  
+  Fonte: The Hacker News, 30 Jan 2026, 13:42:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html>)
+
+- **UAT-8099 collegato alla Cina prende di mira i server IIS in Asia con malware SEO BadIIS**  
+  Fonte: The Hacker News, 30 Jan 2026, 12:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html>)
+
+- **L'aggiornamento KB5074105 di Windows 11 risolve i problemi di avvio, accesso e attivazione**  
+  Fonte: BleepingComputer, 30 Jan 2026, 12:02:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/>)
+
+- **Badge, byte e ricatto**  
+  Fonte: The Hacker News, 30 Jan 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html>)
+
+- **Ex ingegnere di Google condannato per aver rubato 2.000 segreti commerciali dell'intelligenza artificiale per una startup cinese**  
+  Fonte: The Hacker News, 30 Jan 2026, 07:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html>)
+
+- **SmarterMail risolve un difetto critico RCE non autenticato con il punteggio CVSS 9.3**  
+  Fonte: The Hacker News, 30 Jan 2026, 07:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/smartermail-fixes-critical.html>)
+
 - **Due difetti Ivanti EPMM Zero-Day RCE sfruttati attivamente e rilasciati aggiornamenti di sicurezza**  
   Fonte: The Hacker News, 30 Jan 2026, 04:43:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html>)
@@ -58,10 +106,6 @@
   Fonte: The Hacker News, 29 Jan 2026, 13:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html>)
 
-- **Google lancia gli aggiornamenti delle funzionalità di protezione antifurto Android**  
-  Fonte: BleepingComputer, 29 Jan 2026, 11:56:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-rolls-out-android-theft-protection-feature-updates/>)
-
 - **Un sondaggio condotto su oltre 100 sistemi energetici rivela lacune critiche nella sicurezza informatica OT**  
   Fonte: The Hacker News, 29 Jan 2026, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html>)
@@ -81,22 +125,6 @@
 - **Podcast di Smashing Security n. 452: I peggiori assassini del dark web e Pegasus sul banco degli imputati**  
   Fonte: Graham Cluley, 29 Jan 2026, 00:30:58 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-452/>)
-
-- **Gli hacker al primo accesso passano a Tsundere Bot per attacchi ransomware**  
-  Fonte: BleepingComputer, 28 Jan 2026, 23:29:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/>)
-
-- **L’attacco informatico alla rete energetica polacca ha colpito circa 30 strutture**  
-  Fonte: BleepingComputer, 28 Jan 2026, 22:14:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/>)
-
-- **eScan conferma che il server di aggiornamento è stato violato per inviare aggiornamenti dannosi**  
-  Fonte: BleepingComputer, 28 Jan 2026, 21:00:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/>)
-
-- **L'assistente AI virale di Moltbot solleva preoccupazioni sulla sicurezza dei dati**  
-  Fonte: BleepingComputer, 28 Jan 2026, 20:26:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/>)
 
 - **Quattro arrestati per repressione di SWATting e doxing basati su Discord**  
   Fonte: Graham Cluley, 28 Jan 2026, 20:14:41 UTC  
@@ -190,9 +218,13 @@
   Fonte: The Hacker News, 27 Jan 2026, 09:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/china-linked-hackers-have-used.html>)
 
-- **Utenti indiani presi di mira da una campagna di phishing fiscale che distribuisce il malware Blackmoon**  
+- **Utenti indiani presi di mira da una campagna di phishing fiscale che distribuiva il malware Blackmoon**  
   Fonte: The Hacker News, 26 Jan 2026, 17:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html>)
+
+- **Chi gestisce la botnet Badbox 2.0?**  
+  Fonte: Krebs on Security, 26 Jan 2026, 16:11:38 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/>)
 
 - **Le estensioni AI dannose di VS Code con 1,5 milioni di installazioni rubano il codice sorgente degli sviluppatori**  
   Fonte: The Hacker News, 26 Jan 2026, 15:43:00 UTC  
@@ -222,7 +254,7 @@
   Fonte: The Hacker News, 24 Jan 2026, 08:21:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html>)
 
-- **Chi ha approvato questo agente?Ripensare l’accesso, la responsabilità e il rischio nell’era degli agenti di intelligenza artificiale**  
+- **Chi ha approvato questo agente?Ripensare accesso, responsabilità e rischio nell’era degli agenti IA**  
   Fonte: The Hacker News, 24 Jan 2026, 08:20:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html>)
 
@@ -230,33 +262,5 @@
   Fonte: The Hacker News, 24 Jan 2026, 08:09:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html>)
 
-- **Blog sui calamari del venerdì: i calamari giganti nell'universo di Star Trek**  
-  Fonte: Schneier on Security, 23 Jan 2026, 22:03:20 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html>)
 
-- **CISA aggiorna il catalogo KEV con quattro vulnerabilità del software sfruttate attivamente**  
-  Fonte: The Hacker News, 23 Jan 2026, 15:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html>)
-
-- **Fortinet conferma il bypass SSO FortiCloud attivo sui firewall FortiGate dotati di patch complete**  
-  Fonte: The Hacker News, 23 Jan 2026, 12:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html>)
-
-- **Le IA stanno migliorando nel trovare e sfruttare le vulnerabilità di Internet**  
-  Fonte: Schneier on Security, 23 Jan 2026, 12:01:19 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-internet-vulnerabilities.html>)
-
-- **TikTok costituisce una joint venture statunitense per continuare le operazioni ai sensi dell'ordine esecutivo del 2025**  
-  Fonte: The Hacker News, 23 Jan 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html>)
-
-- **L'attacco di phishing utilizza credenziali rubate per installare LogMeIn RMM per l'accesso permanente**  
-  Fonte: The Hacker News, 23 Jan 2026, 11:18:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html>)
-
-- **Microsoft segnala attacchi AitM Phishing e BEC multifase contro aziende del settore energetico**  
-  Fonte: The Hacker News, 23 Jan 2026, 08:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-30 06:36:46 UTC -->
+<!-- Ultimo aggiornamento: 2026-01-31 06:27:18 UTC -->
