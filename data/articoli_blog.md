@@ -2,6 +2,42 @@
 
 ## Ultimi 7 giorni
 
+- **OpenAI afferma che puoi fidarti delle risposte di ChatGPT, poiché dà il via alla preparazione del lancio degli annunci**  
+  Fonte: BleepingComputer, 01 Feb 2026, 02:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/>)
+
+- **OpenAI sta ritirando il famoso modello GPT-4o, afferma che GPT 5.2 è abbastanza buono**  
+  Fonte: BleepingComputer, 01 Feb 2026, 01:26:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/>)
+
+- **Gli Stati Uniti condannano un ex ingegnere di Google per aver inviato dati tecnologici sull'intelligenza artificiale alla Cina**  
+  Fonte: BleepingComputer, 31 Jan 2026, 17:33:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/>)
+
+- **La truffa del pagamento del cloud storage inonda le caselle di posta con rinnovi falsi**  
+  Fonte: BleepingComputer, 31 Jan 2026, 16:21:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/>)
+
+- **Mandiant descrive in dettaglio come ShinyHunters abusa dell'SSO per rubare dati sul cloud**  
+  Fonte: BleepingComputer, 31 Jan 2026, 15:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/>)
+
+- **Un ricercatore rivela prove di profili Instagram privati ​​che trapelano foto**  
+  Fonte: BleepingComputer, 31 Jan 2026, 14:27:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/>)
+
+- **La campagna informatica RedKitten collegata all'Iran prende di mira le ONG e gli attivisti per i diritti umani**  
+  Fonte: The Hacker News, 31 Jan 2026, 12:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html>)
+
+- **Mandiant scopre che gli attacchi Vishing in stile ShinyHunters rubano l'MFA per violare le piattaforme SaaS**  
+  Fonte: The Hacker News, 31 Jan 2026, 07:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html>)
+
+- **CERT Polska descrive in dettaglio gli attacchi informatici coordinati contro oltre 30 parchi eolici e solari**  
+  Fonte: The Hacker News, 31 Jan 2026, 07:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/01/poland-attributes-december-cyber.html>)
+
 - **Blog sui calamari del venerdì: scoperte nuove specie di calamari**  
   Fonte: Schneier on Security, 30 Jan 2026, 22:05:11 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html>)
@@ -42,7 +78,7 @@
   Fonte: The Hacker News, 30 Jan 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html>)
 
-- **Ex ingegnere di Google condannato per aver rubato 2.000 segreti commerciali dell'intelligenza artificiale per una startup cinese**  
+- **Ex ingegnere di Google condannato per aver rubato segreti dell'intelligenza artificiale per una startup cinese**  
   Fonte: The Hacker News, 30 Jan 2026, 07:35:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html>)
 
@@ -66,10 +102,6 @@
   Fonte: BleepingComputer, 29 Jan 2026, 22:07:33 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/>)
 
-- **L'attacco di hacking lascia i proprietari di auto russi chiusi fuori dai loro veicoli**  
-  Fonte: Graham Cluley, 29 Jan 2026, 20:57:05 UTC  
-  [Leggi](<https://www.fortra.com/blog/hacking-attack-leaves-russian-car-owners-locked-out-their-vehicles>)
-
 - **Google interrompe le reti proxy residenziali IPIDEA alimentate da malware**  
   Fonte: BleepingComputer, 29 Jan 2026, 19:29:17 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/>)
@@ -77,30 +109,6 @@
 - **I ricercatori trovano 175.000 server AI Ollama esposti pubblicamente in 130 paesi**  
   Fonte: The Hacker News, 29 Jan 2026, 18:37:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/researchers-find-175000-publicly.html>)
-
-- **La violazione del Match Group espone i dati di Hinge, Tinder, OkCupid e Match**  
-  Fonte: BleepingComputer, 29 Jan 2026, 18:09:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/>)
-
-- **Marquis accusa la violazione del ransomware dell'hacking del backup nel cloud di SonicWall**  
-  Fonte: BleepingComputer, 29 Jan 2026, 17:57:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/>)
-
-- **Non è un gioco per bambini: dal mod Roblox al compromesso della tua azienda**  
-  Fonte: BleepingComputer, 29 Jan 2026, 15:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/>)
-
-- **La botnet Aisuru stabilisce un nuovo record con un attacco DDoS da 31,4 Tbps**  
-  Fonte: BleepingComputer, 29 Jan 2026, 14:55:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/>)
-
-- **La nuova funzionalità di Microsoft Teams ti consentirà di segnalare chiamate sospette**  
-  Fonte: BleepingComputer, 29 Jan 2026, 14:49:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/>)
-
-- **La Francia multa di 5 milioni di euro l’agenzia per la disoccupazione per violazione di dati**  
-  Fonte: BleepingComputer, 29 Jan 2026, 13:36:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/>)
 
 - **Bollettino del ThreatsDay: nuovi RCE, arresti nella Darknet, bug del kernel e oltre 25 altre storie**  
   Fonte: The Hacker News, 29 Jan 2026, 13:01:00 UTC  
@@ -122,19 +130,11 @@
   Fonte: The Hacker News, 29 Jan 2026, 07:16:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html>)
 
-- **Podcast di Smashing Security n. 452: I peggiori assassini del dark web e Pegasus sul banco degli imputati**  
-  Fonte: Graham Cluley, 29 Jan 2026, 00:30:58 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-452/>)
-
-- **Quattro arrestati per repressione di SWATting e doxing basati su Discord**  
-  Fonte: Graham Cluley, 28 Jan 2026, 20:14:41 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/four-arrested-crackdown-discord-swatting-doxing>)
-
 - **Il falso assistente di codifica AI di Moltbot sul mercato VS Code elimina malware**  
   Fonte: The Hacker News, 28 Jan 2026, 17:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html>)
 
-- **ELECTRUM russo legato all’attacco informatico del dicembre 2025 alla rete elettrica polacca**  
+- **ELECTRUM allineato con la Russia legato all’attacco informatico del dicembre 2025 alla rete elettrica polacca**  
   Fonte: The Hacker News, 28 Jan 2026, 16:06:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html>)
 
@@ -166,10 +166,6 @@
   Fonte: The Hacker News, 28 Jan 2026, 09:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html>)
 
-- **Attenzione!Le false estensioni del browser ChatGPT stanno rubando le tue credenziali di accesso**  
-  Fonte: Graham Cluley, 28 Jan 2026, 09:20:29 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/beware-fake-chatgpt-browser-extensions-are-stealing-your-login-credentials>)
-
 - **Fortinet applica la patch CVE-2026-24858 dopo il rilevamento di uno sfruttamento SSO attivo di FortiOS**  
   Fonte: The Hacker News, 28 Jan 2026, 04:49:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html>)
@@ -181,10 +177,6 @@
 - **Gli esperti rilevano campagne informatiche legate al Pakistan rivolte a enti governativi indiani**  
   Fonte: The Hacker News, 27 Jan 2026, 16:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html>)
-
-- **La soluzione AI n. 85: ChatGPT riceve annunci pubblicitari, gli animali domestici ottengono terapisti IA e tutti si sbagliano sui LLM**  
-  Fonte: Graham Cluley, 27 Jan 2026, 15:12:46 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-85/>)
 
 - **Gli attacchi ClickFix si espandono utilizzando CAPTCHA falsi, script Microsoft e servizi Web affidabili**  
   Fonte: The Hacker News, 27 Jan 2026, 14:38:00 UTC  
@@ -246,21 +238,5 @@
   Fonte: The Hacker News, 26 Jan 2026, 08:54:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html>)
 
-- **Una campagna di phishing in più fasi prende di mira la Russia con Amnesia RAT e Ransomware**  
-  Fonte: The Hacker News, 24 Jan 2026, 11:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html>)
 
-- **Nuovo malware DynoWiper utilizzato nel tentativo di attacco dei vermi della sabbia al settore energetico polacco**  
-  Fonte: The Hacker News, 24 Jan 2026, 08:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html>)
-
-- **Chi ha approvato questo agente?Ripensare accesso, responsabilità e rischio nell’era degli agenti IA**  
-  Fonte: The Hacker News, 24 Jan 2026, 08:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html>)
-
-- **CISA aggiunge il difetto CVE-2024-37079 di VMware vCenter attivamente sfruttato al catalogo KEV**  
-  Fonte: The Hacker News, 24 Jan 2026, 08:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-01-31 06:27:18 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-01 06:38:14 UTC -->
