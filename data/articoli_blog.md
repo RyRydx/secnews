@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Server di aggiornamento antivirus eScan compromessi per diffondere malware multifase**  
+  Fonte: The Hacker News, 02 Feb 2026, 05:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/escan-antivirus-update-servers.html>)
+
+- **L'attacco aperto alla catena di fornitura VSX ha utilizzato un account di sviluppo compromesso per diffondere GlassWorm**  
+  Fonte: The Hacker News, 02 Feb 2026, 05:04:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html>)
+
+- **Le istanze MongoDB esposte sono ancora prese di mira da attacchi di estorsione di dati**  
+  Fonte: BleepingComputer, 01 Feb 2026, 16:27:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/>)
+
+- **La nuova funzionalità di privacy di Apple limita il rilevamento della posizione su iPhone e iPad**  
+  Fonte: BleepingComputer, 01 Feb 2026, 15:20:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/>)
+
 - **OpenAI afferma che puoi fidarti delle risposte di ChatGPT, poiché dà il via alla preparazione del lancio degli annunci**  
   Fonte: BleepingComputer, 01 Feb 2026, 02:00:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/>)
@@ -29,6 +45,10 @@
 - **La campagna informatica RedKitten collegata all'Iran prende di mira le ONG e gli attivisti per i diritti umani**  
   Fonte: The Hacker News, 31 Jan 2026, 12:02:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html>)
+
+- **L'FBI mette offline il famigerato forum sul ransomware RAMP**  
+  Fonte: Graham Cluley, 31 Jan 2026, 09:43:26 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-takes-notorious-ramp-ransomware-forum-offline>)
 
 - **Mandiant scopre che gli attacchi Vishing in stile ShinyHunters rubano l'MFA per violare le piattaforme SaaS**  
   Fonte: The Hacker News, 31 Jan 2026, 07:58:00 UTC  
@@ -66,7 +86,7 @@
   Fonte: The Hacker News, 30 Jan 2026, 13:42:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html>)
 
-- **UAT-8099 collegato alla Cina prende di mira i server IIS in Asia con malware SEO BadIIS**  
+- **UAT-8099 collegato alla Cina prende di mira i server IIS in Asia con il malware SEO BadIIS**  
   Fonte: The Hacker News, 30 Jan 2026, 12:08:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html>)
 
@@ -98,13 +118,9 @@
   Fonte: BleepingComputer, 29 Jan 2026, 22:08:19 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/>)
 
-- **Ivanti mette in guardia contro due falle EPMM sfruttate negli attacchi zero-day**  
-  Fonte: BleepingComputer, 29 Jan 2026, 22:07:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/>)
-
-- **Google interrompe le reti proxy residenziali IPIDEA alimentate da malware**  
-  Fonte: BleepingComputer, 29 Jan 2026, 19:29:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/>)
+- **L'attacco di hacking lascia i proprietari di auto russi chiusi fuori dai loro veicoli**  
+  Fonte: Graham Cluley, 29 Jan 2026, 20:57:05 UTC  
+  [Leggi](<https://www.fortra.com/blog/hacking-attack-leaves-russian-car-owners-locked-out-their-vehicles>)
 
 - **I ricercatori trovano 175.000 server AI Ollama esposti pubblicamente in 130 paesi**  
   Fonte: The Hacker News, 29 Jan 2026, 18:37:00 UTC  
@@ -130,11 +146,19 @@
   Fonte: The Hacker News, 29 Jan 2026, 07:16:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html>)
 
+- **Podcast di Smashing Security n. 452: I peggiori assassini del dark web e Pegasus sul banco degli imputati**  
+  Fonte: Graham Cluley, 29 Jan 2026, 00:30:58 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-452/>)
+
+- **Quattro arrestati per repressione di SWATting e doxing basati su Discord**  
+  Fonte: Graham Cluley, 28 Jan 2026, 20:14:41 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/four-arrested-crackdown-discord-swatting-doxing>)
+
 - **Il falso assistente di codifica AI di Moltbot sul mercato VS Code elimina malware**  
   Fonte: The Hacker News, 28 Jan 2026, 17:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html>)
 
-- **ELECTRUM allineato con la Russia legato all’attacco informatico del dicembre 2025 alla rete elettrica polacca**  
+- **ELECTRUM allineato alla Russia legato all’attacco informatico del dicembre 2025 alla rete elettrica polacca**  
   Fonte: The Hacker News, 28 Jan 2026, 16:06:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html>)
 
@@ -166,6 +190,10 @@
   Fonte: The Hacker News, 28 Jan 2026, 09:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html>)
 
+- **Attenzione!Le false estensioni del browser ChatGPT stanno rubando le tue credenziali di accesso**  
+  Fonte: Graham Cluley, 28 Jan 2026, 09:20:29 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/beware-fake-chatgpt-browser-extensions-are-stealing-your-login-credentials>)
+
 - **Fortinet applica la patch CVE-2026-24858 dopo il rilevamento di uno sfruttamento SSO attivo di FortiOS**  
   Fonte: The Hacker News, 28 Jan 2026, 04:49:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html>)
@@ -177,6 +205,10 @@
 - **Gli esperti rilevano campagne informatiche legate al Pakistan rivolte a enti governativi indiani**  
   Fonte: The Hacker News, 27 Jan 2026, 16:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html>)
+
+- **La soluzione AI n. 85: ChatGPT riceve annunci pubblicitari, gli animali domestici ottengono terapisti IA e tutti si sbagliano sui LLM**  
+  Fonte: Graham Cluley, 27 Jan 2026, 15:12:46 UTC  
+  [Leggi](<https://grahamcluley.com/the-ai-fix-85/>)
 
 - **Gli attacchi ClickFix si espandono utilizzando CAPTCHA falsi, script Microsoft e servizi Web affidabili**  
   Fonte: The Hacker News, 27 Jan 2026, 14:38:00 UTC  
@@ -214,10 +246,6 @@
   Fonte: The Hacker News, 26 Jan 2026, 17:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html>)
 
-- **Chi gestisce la botnet Badbox 2.0?**  
-  Fonte: Krebs on Security, 26 Jan 2026, 16:11:38 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/>)
-
 - **Le estensioni AI dannose di VS Code con 1,5 milioni di installazioni rubano il codice sorgente degli sviluppatori**  
   Fonte: The Hacker News, 26 Jan 2026, 15:43:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html>)
@@ -239,4 +267,4 @@
   [Leggi](<https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-02-01 06:38:14 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-02 06:52:44 UTC -->
