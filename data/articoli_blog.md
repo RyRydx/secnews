@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Violazione dell'hosting di Notepad++ attribuita al gruppo di hacking Lotus Blossom collegato alla Cina**  
+  Fonte: The Hacker News, 03 Feb 2026, 04:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html>)
+
+- **Il nuovo attacco GlassWorm prende di mira macOS tramite estensioni OpenVSX compromesse**  
+  Fonte: BleepingComputer, 02 Feb 2026, 22:04:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/>)
+
+- **Gli hacker russi sfruttano negli attacchi il bug di Microsoft Office recentemente corretto**  
+  Fonte: BleepingComputer, 02 Feb 2026, 21:00:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/>)
+
+- **Competenze dannose di MoltBot utilizzate per diffondere malware in grado di rubare password**  
+  Fonte: BleepingComputer, 02 Feb 2026, 19:11:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/>)
+
+- **Mozilla annuncia il passaggio alla disabilitazione di tutte le funzionalità AI di Firefox**  
+  Fonte: BleepingComputer, 02 Feb 2026, 18:09:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/>)
+
+- **I ricercatori scoprono 341 abilità dannose di ClawHub che rubano dati dagli utenti di OpenClaw**  
+  Fonte: The Hacker News, 02 Feb 2026, 17:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html>)
+
+- **Microsoft: il bug di arresto dell'aggiornamento di gennaio colpisce più PC Windows**  
+  Fonte: BleepingComputer, 02 Feb 2026, 17:17:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/>)
+
+- **Il bug di OpenClaw consente l'esecuzione di codice remoto con un clic tramite collegamento dannoso**  
+  Fonte: The Hacker News, 02 Feb 2026, 16:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html>)
+
+- **Per favore, non dare da mangiare ai Lapsus ShinyHunters sparsi**  
+  Fonte: Krebs on Security, 02 Feb 2026, 16:15:16 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/>)
+
+- **Microsoft avvia l'eliminazione graduale di NTLM con un piano in tre fasi per spostare Windows su Kerberos**  
+  Fonte: The Hacker News, 02 Feb 2026, 15:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html>)
+
+- **Il rapporto CTM360 avverte di un’impennata globale di false truffe sugli investimenti ad alto rendimento**  
+  Fonte: BleepingComputer, 02 Feb 2026, 15:34:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/>)
+
+- **Funzionalità di aggiornamento di Notepad++ compromessa dagli hacker statali cinesi per mesi**  
+  Fonte: BleepingComputer, 02 Feb 2026, 14:53:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/>)
+
+- **La violazione del Panera Bread colpisce 5,1 milioni di account, non 14 milioni di clienti**  
+  Fonte: BleepingComputer, 02 Feb 2026, 13:46:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/>)
+
+- **Assistenti di codifica AI che copiano segretamente tutto il codice in Cina**  
+  Fonte: Schneier on Security, 02 Feb 2026, 12:05:34 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html>)
+
+- **⚡ Riepilogo settimanale: botnet proxy, Office Zero-Day, riscatti MongoDB, attacchi AI e nuove minacce**  
+  Fonte: The Hacker News, 02 Feb 2026, 11:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html>)
+
+- **Proteggere il mercato medio attraverso l’intero ciclo di vita delle minacce**  
+  Fonte: The Hacker News, 02 Feb 2026, 11:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/securing-mid-market-across-complete.html>)
+
+- **Microsoft risolve il bug che causava la scomparsa dell'opzione di accesso tramite password**  
+  Fonte: BleepingComputer, 02 Feb 2026, 11:34:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/>)
+
+- **NationStates conferma la violazione dei dati e chiude il sito di gioco**  
+  Fonte: BleepingComputer, 02 Feb 2026, 10:05:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/>)
+
+- **Meccanismo di aggiornamento ufficiale di Notepad++ violato per distribuire malware a utenti selezionati**  
+  Fonte: The Hacker News, 02 Feb 2026, 08:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/notepad-official-update-mechanism.html>)
+
 - **Server di aggiornamento antivirus eScan compromessi per diffondere malware multifase**  
   Fonte: The Hacker News, 02 Feb 2026, 05:47:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/escan-antivirus-update-servers.html>)
@@ -30,18 +106,6 @@
   Fonte: BleepingComputer, 31 Jan 2026, 17:33:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/>)
 
-- **La truffa del pagamento del cloud storage inonda le caselle di posta con rinnovi falsi**  
-  Fonte: BleepingComputer, 31 Jan 2026, 16:21:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/>)
-
-- **Mandiant descrive in dettaglio come ShinyHunters abusa dell'SSO per rubare dati sul cloud**  
-  Fonte: BleepingComputer, 31 Jan 2026, 15:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/>)
-
-- **Un ricercatore rivela prove di profili Instagram privati ​​che trapelano foto**  
-  Fonte: BleepingComputer, 31 Jan 2026, 14:27:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/>)
-
 - **La campagna informatica RedKitten collegata all'Iran prende di mira le ONG e gli attivisti per i diritti umani**  
   Fonte: The Hacker News, 31 Jan 2026, 12:02:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html>)
@@ -62,25 +126,9 @@
   Fonte: Schneier on Security, 30 Jan 2026, 22:05:11 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html>)
 
-- **Lo scorso anno i portafogli crittografici hanno ricevuto la cifra record di 158 miliardi di dollari in fondi illeciti**  
-  Fonte: BleepingComputer, 30 Jan 2026, 18:49:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/>)
-
-- **Microsoft disabiliterà NTLM per impostazione predefinita nelle future versioni di Windows**  
-  Fonte: BleepingComputer, 30 Jan 2026, 17:08:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/>)
-
-- **L'operazione Switch Off smantella i principali servizi di streaming TV pirata**  
-  Fonte: BleepingComputer, 30 Jan 2026, 16:39:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/>)
-
 - **Le IA stanno migliorando nel trovare e sfruttare le vulnerabilità della sicurezza**  
   Fonte: Schneier on Security, 30 Jan 2026, 15:35:15 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html>)
-
-- **Microsoft risolve il bug di Outlook che blocca l'accesso alle e-mail crittografate**  
-  Fonte: BleepingComputer, 30 Jan 2026, 14:48:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/>)
 
 - **I ricercatori scoprono estensioni di Chrome che abusano di link di affiliazione e rubano l'accesso a ChatGPT**  
   Fonte: The Hacker News, 30 Jan 2026, 13:42:00 UTC  
@@ -89,10 +137,6 @@
 - **UAT-8099 collegato alla Cina prende di mira i server IIS in Asia con il malware SEO BadIIS**  
   Fonte: The Hacker News, 30 Jan 2026, 12:08:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html>)
-
-- **L'aggiornamento KB5074105 di Windows 11 risolve i problemi di avvio, accesso e attivazione**  
-  Fonte: BleepingComputer, 30 Jan 2026, 12:02:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/>)
 
 - **Badge, byte e ricatto**  
   Fonte: The Hacker News, 30 Jan 2026, 11:30:00 UTC  
@@ -109,14 +153,6 @@
 - **Due difetti Ivanti EPMM Zero-Day RCE sfruttati attivamente e rilasciati aggiornamenti di sicurezza**  
   Fonte: The Hacker News, 30 Jan 2026, 04:43:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html>)
-
-- **Microsoft collega gli errori di avvio di Windows 11 all'aggiornamento di dicembre 2025 non riuscito**  
-  Fonte: BleepingComputer, 30 Jan 2026, 00:21:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/>)
-
-- **Hugging Face è stato abusato per diffondere migliaia di varianti di malware Android**  
-  Fonte: BleepingComputer, 29 Jan 2026, 22:08:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/>)
 
 - **L'attacco di hacking lascia i proprietari di auto russi chiusi fuori dai loro veicoli**  
   Fonte: Graham Cluley, 29 Jan 2026, 20:57:05 UTC  
@@ -242,29 +278,5 @@
   Fonte: The Hacker News, 27 Jan 2026, 09:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/china-linked-hackers-have-used.html>)
 
-- **Utenti indiani presi di mira da una campagna di phishing fiscale che distribuiva il malware Blackmoon**  
-  Fonte: The Hacker News, 26 Jan 2026, 17:01:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html>)
 
-- **Le estensioni AI dannose di VS Code con 1,5 milioni di installazioni rubano il codice sorgente degli sviluppatori**  
-  Fonte: The Hacker News, 26 Jan 2026, 15:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html>)
-
-- **L’Irlanda propone di conferire alla polizia nuovi poteri di sorveglianza digitale**  
-  Fonte: Schneier on Security, 26 Jan 2026, 12:04:57 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html>)
-
-- **⚡ Riepilogo settimanale: difetti del firewall, malware creato dall'intelligenza artificiale, trappole del browser, CVE critici e altro**  
-  Fonte: The Hacker News, 26 Jan 2026, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html>)
-
-- **Vincere contro gli attacchi basati sull’intelligenza artificiale richiede un approccio difensivo combinato**  
-  Fonte: The Hacker News, 26 Jan 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html>)
-
-- **Gli hacker Konni implementano una backdoor PowerShell generata dall'intelligenza artificiale contro gli sviluppatori Blockchain**  
-  Fonte: The Hacker News, 26 Jan 2026, 08:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-02 06:52:44 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-03 06:38:17 UTC -->
