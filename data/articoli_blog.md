@@ -2,57 +2,53 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 489**  
+  Fonte: Troy Hunt, 04 Feb 2026, 02:31:18 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-489/>)
+
+- **Docker risolve il difetto critico dell'intelligenza artificiale Ask Gordon che consente l'esecuzione del codice tramite metadati dell'immagine**  
+  Fonte: The Hacker News, 03 Feb 2026, 16:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html>)
+
+- **[Webinar] Il progetto SOC più intelligente: scopri cosa creare, acquistare e automatizzare**  
+  Fonte: The Hacker News, 03 Feb 2026, 14:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html>)
+
+- **Gli hacker sfruttano il difetto RCE di Metro4Shell nel pacchetto npm della CLI nativa di React**  
+  Fonte: The Hacker News, 03 Feb 2026, 14:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html>)
+
+- **Microsoft fornisce le chiavi BitLocker dell'FBI**  
+  Fonte: Schneier on Security, 03 Feb 2026, 12:05:25 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/microsoft-is-giving-the-fbi-bitlocker-keys.html>)
+
+- **Quando le interruzioni del cloud si propagano su Internet**  
+  Fonte: The Hacker News, 03 Feb 2026, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html>)
+
+- **APT28 utilizza Microsoft Office CVE-2026-21509 negli attacchi malware incentrati sullo spionaggio**  
+  Fonte: The Hacker News, 03 Feb 2026, 09:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html>)
+
+- **Mozilla aggiunge l'opzione con un clic per disabilitare le funzionalità di intelligenza artificiale generativa in Firefox**  
+  Fonte: The Hacker News, 03 Feb 2026, 05:39:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html>)
+
 - **Violazione dell'hosting di Notepad++ attribuita al gruppo di hacking Lotus Blossom collegato alla Cina**  
   Fonte: The Hacker News, 03 Feb 2026, 04:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html>)
-
-- **Il nuovo attacco GlassWorm prende di mira macOS tramite estensioni OpenVSX compromesse**  
-  Fonte: BleepingComputer, 02 Feb 2026, 22:04:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/>)
-
-- **Gli hacker russi sfruttano negli attacchi il bug di Microsoft Office recentemente corretto**  
-  Fonte: BleepingComputer, 02 Feb 2026, 21:00:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/>)
-
-- **Competenze dannose di MoltBot utilizzate per diffondere malware in grado di rubare password**  
-  Fonte: BleepingComputer, 02 Feb 2026, 19:11:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/>)
-
-- **Mozilla annuncia il passaggio alla disabilitazione di tutte le funzionalità AI di Firefox**  
-  Fonte: BleepingComputer, 02 Feb 2026, 18:09:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/>)
 
 - **I ricercatori scoprono 341 abilità dannose di ClawHub che rubano dati dagli utenti di OpenClaw**  
   Fonte: The Hacker News, 02 Feb 2026, 17:49:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html>)
 
-- **Microsoft: il bug di arresto dell'aggiornamento di gennaio colpisce più PC Windows**  
-  Fonte: BleepingComputer, 02 Feb 2026, 17:17:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/>)
-
 - **Il bug di OpenClaw consente l'esecuzione di codice remoto con un clic tramite collegamento dannoso**  
   Fonte: The Hacker News, 02 Feb 2026, 16:28:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html>)
 
-- **Per favore, non dare da mangiare ai Lapsus ShinyHunters sparsi**  
-  Fonte: Krebs on Security, 02 Feb 2026, 16:15:16 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/>)
-
 - **Microsoft avvia l'eliminazione graduale di NTLM con un piano in tre fasi per spostare Windows su Kerberos**  
   Fonte: The Hacker News, 02 Feb 2026, 15:59:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html>)
-
-- **Il rapporto CTM360 avverte di un’impennata globale di false truffe sugli investimenti ad alto rendimento**  
-  Fonte: BleepingComputer, 02 Feb 2026, 15:34:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/>)
-
-- **Funzionalità di aggiornamento di Notepad++ compromessa dagli hacker statali cinesi per mesi**  
-  Fonte: BleepingComputer, 02 Feb 2026, 14:53:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/>)
-
-- **La violazione del Panera Bread colpisce 5,1 milioni di account, non 14 milioni di clienti**  
-  Fonte: BleepingComputer, 02 Feb 2026, 13:46:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/>)
 
 - **Assistenti di codifica AI che copiano segretamente tutto il codice in Cina**  
   Fonte: Schneier on Security, 02 Feb 2026, 12:05:34 UTC  
@@ -66,14 +62,6 @@
   Fonte: The Hacker News, 02 Feb 2026, 11:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/securing-mid-market-across-complete.html>)
 
-- **Microsoft risolve il bug che causava la scomparsa dell'opzione di accesso tramite password**  
-  Fonte: BleepingComputer, 02 Feb 2026, 11:34:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/>)
-
-- **NationStates conferma la violazione dei dati e chiude il sito di gioco**  
-  Fonte: BleepingComputer, 02 Feb 2026, 10:05:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/>)
-
 - **Meccanismo di aggiornamento ufficiale di Notepad++ violato per distribuire malware a utenti selezionati**  
   Fonte: The Hacker News, 02 Feb 2026, 08:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/notepad-official-update-mechanism.html>)
@@ -85,26 +73,6 @@
 - **L'attacco aperto alla catena di fornitura VSX ha utilizzato un account di sviluppo compromesso per diffondere GlassWorm**  
   Fonte: The Hacker News, 02 Feb 2026, 05:04:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html>)
-
-- **Le istanze MongoDB esposte sono ancora prese di mira da attacchi di estorsione di dati**  
-  Fonte: BleepingComputer, 01 Feb 2026, 16:27:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/>)
-
-- **La nuova funzionalità di privacy di Apple limita il rilevamento della posizione su iPhone e iPad**  
-  Fonte: BleepingComputer, 01 Feb 2026, 15:20:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/>)
-
-- **OpenAI afferma che puoi fidarti delle risposte di ChatGPT, poiché dà il via alla preparazione del lancio degli annunci**  
-  Fonte: BleepingComputer, 01 Feb 2026, 02:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/>)
-
-- **OpenAI sta ritirando il famoso modello GPT-4o, afferma che GPT 5.2 è abbastanza buono**  
-  Fonte: BleepingComputer, 01 Feb 2026, 01:26:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/>)
-
-- **Gli Stati Uniti condannano un ex ingegnere di Google per aver inviato dati tecnologici sull'intelligenza artificiale alla Cina**  
-  Fonte: BleepingComputer, 31 Jan 2026, 17:33:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/>)
 
 - **La campagna informatica RedKitten collegata all'Iran prende di mira le ONG e gli attivisti per i diritti umani**  
   Fonte: The Hacker News, 31 Jan 2026, 12:02:00 UTC  
@@ -230,53 +198,5 @@
   Fonte: Graham Cluley, 28 Jan 2026, 09:20:29 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/beware-fake-chatgpt-browser-extensions-are-stealing-your-login-credentials>)
 
-- **Fortinet applica la patch CVE-2026-24858 dopo il rilevamento di uno sfruttamento SSO attivo di FortiOS**  
-  Fonte: The Hacker News, 28 Jan 2026, 04:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html>)
 
-- **WhatsApp lancia la modalità di sicurezza in stile blocco per proteggere gli utenti presi di mira dallo spyware**  
-  Fonte: The Hacker News, 27 Jan 2026, 16:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html>)
-
-- **Gli esperti rilevano campagne informatiche legate al Pakistan rivolte a enti governativi indiani**  
-  Fonte: The Hacker News, 27 Jan 2026, 16:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html>)
-
-- **La soluzione AI n. 85: ChatGPT riceve annunci pubblicitari, gli animali domestici ottengono terapisti IA e tutti si sbagliano sui LLM**  
-  Fonte: Graham Cluley, 27 Jan 2026, 15:12:46 UTC  
-  [Leggi](<https://grahamcluley.com/the-ai-fix-85/>)
-
-- **Gli attacchi ClickFix si espandono utilizzando CAPTCHA falsi, script Microsoft e servizi Web affidabili**  
-  Fonte: The Hacker News, 27 Jan 2026, 14:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html>)
-
-- **Costruire un homeserver Matrix post-quantistico serverless**  
-  Fonte: Cloudflare Blog - Security, 27 Jan 2026, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/serverless-matrix-homeserver-workers/>)
-
-- **La costituzionalità dei mandati di Geofence**  
-  Fonte: Schneier on Security, 27 Jan 2026, 12:01:47 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/the-constitutionality-of-geofence-warrants.html>)
-
-- **CTEM nella pratica: definizione delle priorità, convalida e risultati che contano**  
-  Fonte: The Hacker News, 27 Jan 2026, 11:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html>)
-
-- **Microsoft Office Zero-Day (CVE-2026-21509) - Patch di emergenza rilasciata per lo sfruttamento attivo**  
-  Fonte: The Hacker News, 27 Jan 2026, 10:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html>)
-
-- **La vulnerabilità critica del Grist-Core consente attacchi RCE tramite formule di fogli di calcolo**  
-  Fonte: The Hacker News, 27 Jan 2026, 10:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html>)
-
-- **Aggiornamento settimanale 488**  
-  Fonte: Troy Hunt, 27 Jan 2026, 09:50:05 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-488/>)
-
-- **Gli hacker collegati alla Cina utilizzano il framework PeckBirdy JavaScript C2 dal 2023**  
-  Fonte: The Hacker News, 27 Jan 2026, 09:01:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/china-linked-hackers-have-used.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-03 06:38:17 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-04 06:38:37 UTC -->
