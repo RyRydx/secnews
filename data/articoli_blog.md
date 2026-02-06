@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Claude Opus 4.6 rileva oltre 500 difetti di elevata gravità nelle principali biblioteche open source**  
+  Fonte: The Hacker News, 06 Feb 2026, 05:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html>)
+
+- **Il Ministero della Scienza spagnolo chiude i sistemi dopo le denunce di violazione**  
+  Fonte: BleepingComputer, 05 Feb 2026, 21:23:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/>)
+
+- **Il gruppo di ransomware utilizza le VM del sistema ISP per la consegna furtiva del payload**  
+  Fonte: BleepingComputer, 05 Feb 2026, 20:57:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/>)
+
+- **Amministratore di Incognito Market condannato a 30 anni per aver gestito un impero della droga sul dark web da 105 milioni di dollari**  
+  Fonte: Graham Cluley, 05 Feb 2026, 20:15:09 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/incognito-market-admin-sentenced-30-years-105-million-dark-web-drug-empire>)
+
+- **Microsoft chiuderà Exchange Online EWS nell'aprile 2027**  
+  Fonte: BleepingComputer, 05 Feb 2026, 18:07:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/>)
+
+- **La botnet AISURU/Kimwolf lancia un attacco DDoS da record da 31,4 Tbps**  
+  Fonte: The Hacker News, 05 Feb 2026, 17:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html>)
+
+- **L'università italiana La Sapienza va offline dopo un attacco informatico**  
+  Fonte: BleepingComputer, 05 Feb 2026, 17:02:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/>)
+
+- **L'operatore rumeno dell'oleodotto Conpet rivela un attacco informatico**  
+  Fonte: BleepingComputer, 05 Feb 2026, 15:15:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/>)
+
+- **Quando i registri cloud non sono sufficienti, la rete dice la verità**  
+  Fonte: BleepingComputer, 05 Feb 2026, 15:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/>)
+
+- **Rapporto sulle minacce DDoS del quarto trimestre del 2025: un attacco record da 31,4 Tbps chiude un anno di massicci attacchi DDoS**  
+  Fonte: Cloudflare Blog - Security, 05 Feb 2026, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/ddos-threat-report-2025-q4/>)
+
+- **Bollettino del ThreatsDay: Codespaces RCE, AsyncRAT C2, abusi BYOVD, intrusioni nel cloud AI e oltre 15 storie**  
+  Fonte: The Hacker News, 05 Feb 2026, 12:57:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html>)
+
+- **La piattaforma di newsletter Substack avvisa gli utenti della violazione dei dati**  
+  Fonte: BleepingComputer, 05 Feb 2026, 12:54:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/>)
+
+- **Backdoor in Blocco note++**  
+  Fonte: Schneier on Security, 05 Feb 2026, 12:00:07 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html>)
+
+- **La guida dell'acquirente al controllo dell'utilizzo dell'intelligenza artificiale**  
+  Fonte: The Hacker News, 05 Feb 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html>)
+
+- **La violazione dei dati presso la società fintech Betterment espone 1,4 milioni di account**  
+  Fonte: BleepingComputer, 05 Feb 2026, 11:16:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/>)
+
+- **Gli hacker Infy riprendono le operazioni con i nuovi server C2 dopo la fine del blackout Internet in Iran**  
+  Fonte: The Hacker News, 05 Feb 2026, 10:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html>)
+
+- **L'ondata di spam Zendesk ritorna, inondando gli utenti con email di tipo "Attiva account".**  
+  Fonte: BleepingComputer, 05 Feb 2026, 10:22:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/>)
+
 - **Il difetto critico n8n CVE-2026-25049 consente l'esecuzione di comandi di sistema tramite flussi di lavoro dannosi**  
   Fonte: The Hacker News, 05 Feb 2026, 06:16:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html>)
@@ -34,7 +102,7 @@
   Fonte: The Hacker News, 04 Feb 2026, 17:24:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html>)
 
-- **CISA avverte di una falla GitLab vecchia di cinque anni sfruttata negli attacchi**  
+- **CISA mette in guardia contro una falla GitLab vecchia di cinque anni sfruttata negli attacchi**  
   Fonte: BleepingComputer, 04 Feb 2026, 15:42:31 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/>)
 
@@ -50,14 +118,6 @@
   Fonte: The Hacker News, 04 Feb 2026, 14:09:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html>)
 
-- **Il nuovo gruppo di spionaggio informatico Amaranth Dragon sfrutta la falla di WinRAR**  
-  Fonte: BleepingComputer, 04 Feb 2026, 14:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/>)
-
-- **Microsoft implementa il monitoraggio nativo di Sysmon in Windows 11**  
-  Fonte: BleepingComputer, 04 Feb 2026, 12:58:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/>)
-
 - **Gli Stati Uniti declassificano le informazioni sui satelliti spia JUMPSEAT**  
   Fonte: Schneier on Security, 04 Feb 2026, 12:02:10 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/02/us-declassifies-information-on-jumpseat-spy-satellites.html>)
@@ -65,10 +125,6 @@
 - **Orchid Security introduce l'osservabilità continua dell'identità per le applicazioni aziendali**  
   Fonte: The Hacker News, 04 Feb 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html>)
-
-- **Il proprietario del mercato della droga nel dark web Incognito viene condannato a 30 anni di prigione**  
-  Fonte: BleepingComputer, 04 Feb 2026, 11:24:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/>)
 
 - **I primi 90 secondi: in che modo le decisioni iniziali modellano le indagini sulla risposta agli incidenti**  
   Fonte: The Hacker News, 04 Feb 2026, 10:00:00 UTC  
@@ -78,11 +134,11 @@
   Fonte: The Hacker News, 04 Feb 2026, 07:42:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html>)
 
-- **Eclipse Foundation impone controlli di sicurezza pre-pubblicazione per le estensioni Open VSX**  
+- **Eclipse Foundation impone i controlli di sicurezza pre-pubblicazione per le estensioni Open VSX**  
   Fonte: The Hacker News, 04 Feb 2026, 06:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html>)
 
-- **CISA aggiunge il servizio RCE dell'Help Desk Web di SolarWinds attivamente sfruttato al catalogo KEV**  
+- **CISA aggiunge l'Help Desk Web di SolarWinds RCE attivamente sfruttato al catalogo KEV**  
   Fonte: The Hacker News, 04 Feb 2026, 05:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html>)
 
@@ -90,33 +146,9 @@
   Fonte: Troy Hunt, 04 Feb 2026, 02:31:18 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-489/>)
 
-- **Coinbase conferma una violazione interna collegata agli screenshot trapelati dello strumento di supporto**  
-  Fonte: BleepingComputer, 04 Feb 2026, 02:04:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/>)
-
-- **Step Finance afferma che i dispositivi dei dirigenti compromessi hanno portato a un furto di criptovalute da 40 milioni di dollari**  
-  Fonte: BleepingComputer, 03 Feb 2026, 21:33:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/>)
-
-- **Le scansioni Wave of Citrix NetScaler utilizzano migliaia di proxy residenziali**  
-  Fonte: BleepingComputer, 03 Feb 2026, 20:25:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/>)
-
-- **CISA segnala il difetto critico RCE di SolarWinds come sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 03 Feb 2026, 19:37:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/>)
-
-- **Iron Mountain: violazione dei dati limitata principalmente al materiale di marketing**  
-  Fonte: BleepingComputer, 03 Feb 2026, 16:49:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/>)
-
 - **Docker risolve il difetto critico dell'intelligenza artificiale Ask Gordon che consente l'esecuzione del codice tramite metadati dell'immagine**  
   Fonte: The Hacker News, 03 Feb 2026, 16:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html>)
-
-- **Gestione dell'identità degli agenti AI: un nuovo piano di controllo della sicurezza per i CISO**  
-  Fonte: BleepingComputer, 03 Feb 2026, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/>)
 
 - **[Webinar] Il progetto SOC più intelligente: scopri cosa creare, acquistare e automatizzare**  
   Fonte: The Hacker News, 03 Feb 2026, 14:14:00 UTC  
@@ -146,13 +178,17 @@
   Fonte: The Hacker News, 03 Feb 2026, 04:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html>)
 
-- **I ricercatori scoprono 341 abilità dannose di ClawHub che rubano dati dagli utenti di OpenClaw**  
+- **I ricercatori scoprono 341 abilità dannose di ClawHub che rubano dati agli utenti di OpenClaw**  
   Fonte: The Hacker News, 02 Feb 2026, 17:49:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html>)
 
 - **Il bug di OpenClaw consente l'esecuzione di codice remoto con un clic tramite collegamento dannoso**  
   Fonte: The Hacker News, 02 Feb 2026, 16:28:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html>)
+
+- **Per favore, non dare da mangiare ai Lapsus ShinyHunters sparsi**  
+  Fonte: Krebs on Security, 02 Feb 2026, 16:15:16 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/>)
 
 - **Microsoft avvia l'eliminazione graduale di NTLM con un piano in tre fasi per spostare Windows su Kerberos**  
   Fonte: The Hacker News, 02 Feb 2026, 15:59:00 UTC  
@@ -190,7 +226,7 @@
   Fonte: Graham Cluley, 31 Jan 2026, 09:43:26 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-takes-notorious-ramp-ransomware-forum-offline>)
 
-- **Mandiant scopre attacchi di vishing in stile ShinyHunters che rubano MFA per violare le piattaforme SaaS**  
+- **Mandiant scopre che gli attacchi Vishing in stile ShinyHunters rubano l'MFA per violare le piattaforme SaaS**  
   Fonte: The Hacker News, 31 Jan 2026, 07:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html>)
 
@@ -210,7 +246,7 @@
   Fonte: The Hacker News, 30 Jan 2026, 13:42:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html>)
 
-- **UAT-8099 collegato alla Cina prende di mira i server IIS in Asia con malware SEO BadIIS**  
+- **UAT-8099 collegato alla Cina prende di mira i server IIS in Asia con il malware SEO BadIIS**  
   Fonte: The Hacker News, 30 Jan 2026, 12:08:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html>)
 
@@ -226,37 +262,5 @@
   Fonte: The Hacker News, 30 Jan 2026, 07:09:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/smartermail-fixes-critical.html>)
 
-- **Due difetti Ivanti EPMM Zero-Day RCE sfruttati attivamente e rilasciati aggiornamenti di sicurezza**  
-  Fonte: The Hacker News, 30 Jan 2026, 04:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html>)
 
-- **L'attacco di hacking lascia i proprietari di auto russi chiusi fuori dai loro veicoli**  
-  Fonte: Graham Cluley, 29 Jan 2026, 20:57:05 UTC  
-  [Leggi](<https://www.fortra.com/blog/hacking-attack-leaves-russian-car-owners-locked-out-their-vehicles>)
-
-- **I ricercatori trovano 175.000 server AI Ollama esposti pubblicamente in 130 paesi**  
-  Fonte: The Hacker News, 29 Jan 2026, 18:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/researchers-find-175000-publicly.html>)
-
-- **Bollettino del ThreatsDay: nuovi RCE, busti della Darknet, bug del kernel e oltre 25 altre storie**  
-  Fonte: The Hacker News, 29 Jan 2026, 13:01:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html>)
-
-- **Un sondaggio condotto su oltre 100 sistemi energetici rivela lacune critiche nella sicurezza informatica OT**  
-  Fonte: The Hacker News, 29 Jan 2026, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html>)
-
-- **3 decisioni che i CISO devono prendere per prevenire il rischio di downtime nel 2026**  
-  Fonte: The Hacker News, 29 Jan 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html>)
-
-- **SolarWinds risolve quattro difetti critici dell'help desk Web con RCE non autenticato e bypass di autenticazione**  
-  Fonte: The Hacker News, 29 Jan 2026, 09:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html>)
-
-- **Google sconvolge IPIDEA, una delle reti proxy residenziali più grandi al mondo**  
-  Fonte: The Hacker News, 29 Jan 2026, 07:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-05 06:46:16 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-06 06:42:19 UTC -->
