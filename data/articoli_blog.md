@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: consigli per la pesca dei calamari**  
+  Fonte: Schneier on Security, 06 Feb 2026, 22:01:05 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html>)
+
+- **Sono negli Epstein Files**  
+  Fonte: Schneier on Security, 06 Feb 2026, 20:43:52 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/i-am-in-the-epstein-files.html>)
+
+- **La Germania avverte del dirottamento dell'account Signal contro figure di alto livello**  
+  Fonte: BleepingComputer, 06 Feb 2026, 20:00:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/>)
+
+- **Il toolkit DKnife Linux dirotta il traffico del router per spiare e distribuire malware**  
+  Fonte: BleepingComputer, 06 Feb 2026, 18:35:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/>)
+
+- **CISA avverte della falla SmarterMail RCE utilizzata negli attacchi ransomware**  
+  Fonte: BleepingComputer, 06 Feb 2026, 17:16:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/>)
+
+- **EDR, e-mail e SASE non riescono a cogliere l'intera classe di attacchi browser**  
+  Fonte: BleepingComputer, 06 Feb 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/>)
+
+- **Il framework DKnife AitM collegato alla Cina prende di mira i router per il dirottamento del traffico e la distribuzione di malware**  
+  Fonte: The Hacker News, 06 Feb 2026, 14:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html>)
+
+- **L'UE afferma che TikTok rischia una grossa multa per "design che crea dipendenza"**  
+  Fonte: BleepingComputer, 06 Feb 2026, 13:53:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/>)
+
+- **La CISA ordina la rimozione dei dispositivi edge non supportati per ridurre il rischio della rete federale**  
+  Fonte: The Hacker News, 06 Feb 2026, 13:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html>)
+
+- **Un uomo si dichiara colpevole di aver violato gli account Snapchat di quasi 600 donne**  
+  Fonte: BleepingComputer, 06 Feb 2026, 12:34:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/>)
+
+- **Il gruppo asiatico sostenuto dallo Stato TGR-STA-1030 viola 70 entità governative e infrastrutturali**  
+  Fonte: The Hacker News, 06 Feb 2026, 12:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html>)
+
+- **La modalità di blocco dell'iPhone protegge il Washington Post Reporter**  
+  Fonte: Schneier on Security, 06 Feb 2026, 12:00:36 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html>)
+
+- **In che modo Samsung Knox ti aiuta a fermare le violazioni della sicurezza della tua rete**  
+  Fonte: The Hacker News, 06 Feb 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html>)
+
+- **Flickr rivela una potenziale violazione dei dati esponendo nomi ed e-mail degli utenti**  
+  Fonte: BleepingComputer, 06 Feb 2026, 09:43:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/>)
+
+- **La CISA ordina alle agenzie federali di sostituire i dispositivi edge a fine vita**  
+  Fonte: BleepingComputer, 06 Feb 2026, 08:41:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/>)
+
+- **I pacchetti dYdX npm e PyPI compromessi forniscono ladri di portafogli e malware RAT**  
+  Fonte: The Hacker News, 06 Feb 2026, 08:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html>)
+
 - **Claude Opus 4.6 rileva oltre 500 difetti di elevata gravità nelle principali biblioteche open source**  
   Fonte: The Hacker News, 06 Feb 2026, 05:49:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html>)
@@ -58,23 +122,15 @@
   Fonte: The Hacker News, 05 Feb 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html>)
 
-- **La violazione dei dati presso la società fintech Betterment espone 1,4 milioni di account**  
-  Fonte: BleepingComputer, 05 Feb 2026, 11:16:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/>)
-
 - **Gli hacker Infy riprendono le operazioni con i nuovi server C2 dopo la fine del blackout Internet in Iran**  
   Fonte: The Hacker News, 05 Feb 2026, 10:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html>)
-
-- **L'ondata di spam Zendesk ritorna, inondando gli utenti con email di tipo "Attiva account".**  
-  Fonte: BleepingComputer, 05 Feb 2026, 10:22:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/>)
 
 - **Il difetto critico n8n CVE-2026-25049 consente l'esecuzione di comandi di sistema tramite flussi di lavoro dannosi**  
   Fonte: The Hacker News, 05 Feb 2026, 06:16:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html>)
 
-- **Le configurazioni dannose di NGINX abilitano campagne di dirottamento del traffico web su larga scala**  
+- **Configurazioni NGINX dannose abilitano campagne di dirottamento del traffico web su larga scala**  
   Fonte: The Hacker News, 05 Feb 2026, 04:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html>)
 
@@ -82,37 +138,13 @@
   Fonte: Graham Cluley, 05 Feb 2026, 00:30:54 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-453/>)
 
-- **Gli hacker compromettono i server NGINX per reindirizzare il traffico degli utenti**  
-  Fonte: BleepingComputer, 04 Feb 2026, 23:26:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/>)
-
-- **Difetti critici di n8n divulgati insieme agli exploit pubblici**  
-  Fonte: BleepingComputer, 04 Feb 2026, 21:14:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/>)
-
 - **Microsoft sviluppa uno scanner per rilevare backdoor in modelli linguistici di grandi dimensioni a peso aperto**  
   Fonte: The Hacker News, 04 Feb 2026, 17:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html>)
 
-- **CISA: falla VMware ESXi ora sfruttata negli attacchi ransomware**  
-  Fonte: BleepingComputer, 04 Feb 2026, 17:38:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/>)
-
 - **La campagna malware DEAD#VAX distribuisce AsyncRAT tramite file di phishing VHD ospitati su IPFS**  
   Fonte: The Hacker News, 04 Feb 2026, 17:24:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html>)
-
-- **CISA mette in guardia contro una falla GitLab vecchia di cinque anni sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 04 Feb 2026, 15:42:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/>)
-
-- **La spada a doppio taglio delle identità non umane**  
-  Fonte: BleepingComputer, 04 Feb 2026, 15:05:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/>)
-
-- **Lo strumento killer EDR utilizza il driver del kernel firmato dal software forense**  
-  Fonte: BleepingComputer, 04 Feb 2026, 14:17:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/>)
 
 - **Amaranth-Dragon, collegato alla Cina, sfrutta il difetto di WinRAR nelle campagne di spionaggio**  
   Fonte: The Hacker News, 04 Feb 2026, 14:09:00 UTC  
@@ -134,11 +166,11 @@
   Fonte: The Hacker News, 04 Feb 2026, 07:42:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html>)
 
-- **Eclipse Foundation impone i controlli di sicurezza pre-pubblicazione per le estensioni Open VSX**  
+- **Eclipse Foundation impone controlli di sicurezza pre-pubblicazione per le estensioni Open VSX**  
   Fonte: The Hacker News, 04 Feb 2026, 06:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html>)
 
-- **CISA aggiunge l'Help Desk Web di SolarWinds RCE attivamente sfruttato al catalogo KEV**  
+- **CISA aggiunge il servizio RCE dell'Help Desk Web di SolarWinds attivamente sfruttato al catalogo KEV**  
   Fonte: The Hacker News, 04 Feb 2026, 05:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html>)
 
@@ -178,7 +210,7 @@
   Fonte: The Hacker News, 03 Feb 2026, 04:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html>)
 
-- **I ricercatori scoprono 341 abilità dannose di ClawHub che rubano dati agli utenti di OpenClaw**  
+- **I ricercatori scoprono 341 abilità dannose di ClawHub che rubano dati dagli utenti di OpenClaw**  
   Fonte: The Hacker News, 02 Feb 2026, 17:49:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html>)
 
@@ -226,7 +258,7 @@
   Fonte: Graham Cluley, 31 Jan 2026, 09:43:26 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-takes-notorious-ramp-ransomware-forum-offline>)
 
-- **Mandiant scopre che gli attacchi Vishing in stile ShinyHunters rubano l'MFA per violare le piattaforme SaaS**  
+- **Mandiant scopre che gli attacchi vishing in stile ShinyHunters rubano l'MFA per violare le piattaforme SaaS**  
   Fonte: The Hacker News, 31 Jan 2026, 07:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html>)
 
@@ -234,33 +266,5 @@
   Fonte: The Hacker News, 31 Jan 2026, 07:05:00 UTC  
   [Leggi](<https://thehackernews.com/2026/01/poland-attributes-december-cyber.html>)
 
-- **Blog sui calamari del venerdì: scoperte nuove specie di calamari**  
-  Fonte: Schneier on Security, 30 Jan 2026, 22:05:11 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html>)
 
-- **Le IA stanno migliorando nel trovare e sfruttare le vulnerabilità della sicurezza**  
-  Fonte: Schneier on Security, 30 Jan 2026, 15:35:15 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html>)
-
-- **I ricercatori scoprono estensioni di Chrome che abusano di link di affiliazione e rubano l'accesso a ChatGPT**  
-  Fonte: The Hacker News, 30 Jan 2026, 13:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html>)
-
-- **UAT-8099 collegato alla Cina prende di mira i server IIS in Asia con il malware SEO BadIIS**  
-  Fonte: The Hacker News, 30 Jan 2026, 12:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html>)
-
-- **Badge, byte e ricatto**  
-  Fonte: The Hacker News, 30 Jan 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html>)
-
-- **Ex ingegnere di Google condannato per aver rubato segreti dell'intelligenza artificiale per una startup cinese**  
-  Fonte: The Hacker News, 30 Jan 2026, 07:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html>)
-
-- **SmarterMail risolve un difetto critico RCE non autenticato con il punteggio CVSS 9.3**  
-  Fonte: The Hacker News, 30 Jan 2026, 07:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/smartermail-fixes-critical.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-06 06:42:19 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-07 06:31:35 UTC -->
