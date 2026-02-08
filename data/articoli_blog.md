@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **L'attore statale prende di mira 155 paesi nello spionaggio "Campagne ombra" op**  
+  Fonte: BleepingComputer, 07 Feb 2026, 15:09:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/>)
+
+- **Il falso principe ereditario di Dubai rintracciato in una villa nigeriana dopo una truffa romantica da 2,5 milioni di dollari**  
+  Fonte: Graham Cluley, 07 Feb 2026, 13:19:52 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-dubai-crown-prince-tracked-to-nigerian-mansion-after-2-5m-romance-scam>)
+
+- **Le agenzie tedesche avvertono di phishing di segnale che prende di mira politici, militari e giornalisti**  
+  Fonte: The Hacker News, 07 Feb 2026, 11:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html>)
+
+- **La piattaforma di pagamento BridgePay conferma l'attacco ransomware all'origine dell'interruzione**  
+  Fonte: BleepingComputer, 07 Feb 2026, 09:47:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/>)
+
 - **Blog sui calamari del venerdì: consigli per la pesca dei calamari**  
   Fonte: Schneier on Security, 06 Feb 2026, 22:01:05 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html>)
@@ -98,10 +114,6 @@
   Fonte: BleepingComputer, 05 Feb 2026, 15:15:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/>)
 
-- **Quando i registri cloud non sono sufficienti, la rete dice la verità**  
-  Fonte: BleepingComputer, 05 Feb 2026, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/>)
-
 - **Rapporto sulle minacce DDoS del quarto trimestre del 2025: un attacco record da 31,4 Tbps chiude un anno di massicci attacchi DDoS**  
   Fonte: Cloudflare Blog - Security, 05 Feb 2026, 14:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/ddos-threat-report-2025-q4/>)
@@ -109,10 +121,6 @@
 - **Bollettino del ThreatsDay: Codespaces RCE, AsyncRAT C2, abusi BYOVD, intrusioni nel cloud AI e oltre 15 storie**  
   Fonte: The Hacker News, 05 Feb 2026, 12:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html>)
-
-- **La piattaforma di newsletter Substack avvisa gli utenti della violazione dei dati**  
-  Fonte: BleepingComputer, 05 Feb 2026, 12:54:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/>)
 
 - **Backdoor in Blocco note++**  
   Fonte: Schneier on Security, 05 Feb 2026, 12:00:07 UTC  
@@ -250,21 +258,5 @@
   Fonte: The Hacker News, 02 Feb 2026, 05:04:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html>)
 
-- **La campagna informatica RedKitten collegata all'Iran prende di mira le ONG e gli attivisti per i diritti umani**  
-  Fonte: The Hacker News, 31 Jan 2026, 12:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html>)
 
-- **L'FBI mette offline il famigerato forum sul ransomware RAMP**  
-  Fonte: Graham Cluley, 31 Jan 2026, 09:43:26 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-takes-notorious-ramp-ransomware-forum-offline>)
-
-- **Mandiant scopre che gli attacchi vishing in stile ShinyHunters rubano l'MFA per violare le piattaforme SaaS**  
-  Fonte: The Hacker News, 31 Jan 2026, 07:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html>)
-
-- **CERT Polska descrive in dettaglio gli attacchi informatici coordinati contro oltre 30 parchi eolici e solari**  
-  Fonte: The Hacker News, 31 Jan 2026, 07:05:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/01/poland-attributes-december-cyber.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-07 06:31:35 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-08 06:38:20 UTC -->
