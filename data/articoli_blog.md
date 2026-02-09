@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 490**  
+  Fonte: Troy Hunt, 09 Feb 2026, 04:19:39 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-490/>)
+
+- **Il nuovo strumento blocca gli attacchi impostori mascherati da comandi sicuri**  
+  Fonte: BleepingComputer, 08 Feb 2026, 15:26:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/>)
+
+- **OpenClaw integra la scansione VirusTotal per rilevare le abilità dannose di ClawHub**  
+  Fonte: The Hacker News, 08 Feb 2026, 07:32:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html>)
+
 - **L'attore statale prende di mira 155 paesi nello spionaggio "Campagne ombra" op**  
   Fonte: BleepingComputer, 07 Feb 2026, 15:09:46 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/>)
@@ -109,10 +121,6 @@
 - **L'università italiana La Sapienza va offline dopo un attacco informatico**  
   Fonte: BleepingComputer, 05 Feb 2026, 17:02:45 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/>)
-
-- **L'operatore rumeno dell'oleodotto Conpet rivela un attacco informatico**  
-  Fonte: BleepingComputer, 05 Feb 2026, 15:15:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/>)
 
 - **Rapporto sulle minacce DDoS del quarto trimestre del 2025: un attacco record da 31,4 Tbps chiude un anno di massicci attacchi DDoS**  
   Fonte: Cloudflare Blog - Security, 05 Feb 2026, 14:00:00 UTC  
@@ -250,13 +258,5 @@
   Fonte: The Hacker News, 02 Feb 2026, 08:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/notepad-official-update-mechanism.html>)
 
-- **Server di aggiornamento antivirus eScan compromessi per diffondere malware multifase**  
-  Fonte: The Hacker News, 02 Feb 2026, 05:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/escan-antivirus-update-servers.html>)
 
-- **L'attacco aperto alla catena di fornitura VSX ha utilizzato un account di sviluppo compromesso per diffondere GlassWorm**  
-  Fonte: The Hacker News, 02 Feb 2026, 05:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-08 06:38:20 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-09 06:55:36 UTC -->
