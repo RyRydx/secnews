@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Fortinet corregge il difetto critico SQLi che consente l'esecuzione di codice non autenticato**  
+  Fonte: The Hacker News, 10 Feb 2026, 04:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html>)
+
+- **Le cyberspie cinesi violano le quattro maggiori società di telecomunicazioni di Singapore**  
+  Fonte: BleepingComputer, 09 Feb 2026, 22:47:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/>)
+
+- **Gli hacker sfruttano i difetti WHD di SolarWinds per implementare lo strumento DFIR negli attacchi**  
+  Fonte: BleepingComputer, 09 Feb 2026, 20:28:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/>)
+
+- **Gli hacker violano la rete SmarterTools sfruttando una falla nel suo stesso software**  
+  Fonte: BleepingComputer, 09 Feb 2026, 19:08:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/>)
+
+- **L'UNC3886 collegato alla Cina prende di mira il settore delle telecomunicazioni di Singapore nella campagna di spionaggio informatico**  
+  Fonte: The Hacker News, 09 Feb 2026, 17:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html>)
+
+- **Indovinare la password senza intelligenza artificiale: come gli aggressori creano elenchi di parole mirate**  
+  Fonte: BleepingComputer, 09 Feb 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/>)
+
+- **L'Help Desk Web di SolarWinds viene sfruttato per RCE in attacchi multifase su server esposti**  
+  Fonte: The Hacker News, 09 Feb 2026, 14:42:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html>)
+
+- **BeyondTrust avverte di un difetto critico RCE nel software di supporto remoto**  
+  Fonte: BleepingComputer, 09 Feb 2026, 13:07:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/>)
+
+- **⚡ Riepilogo settimanale: malware AI Skill, DDoS da 31 Tbps, hacking di Notepad++, backdoor LLM e altro ancora**  
+  Fonte: The Hacker News, 09 Feb 2026, 12:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html>)
+
+- **Gli LLM stanno diventando molto migliori e più veloci nel trovare e sfruttare gli zero-day**  
+  Fonte: Schneier on Security, 09 Feb 2026, 12:04:29 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days.html>)
+
+- **Uomini accusati del programma FanDuel alimentato da migliaia di identità rubate**  
+  Fonte: BleepingComputer, 09 Feb 2026, 11:41:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/>)
+
+- **Come i migliori CISO risolvono il burnout e accelerano l'MTTR senza assunzioni aggiuntive**  
+  Fonte: The Hacker News, 09 Feb 2026, 11:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html>)
+
+- **Bloody Wolf prende di mira l'Uzbekistan e la Russia utilizzando NetSupport RAT nella campagna di spear-phishing**  
+  Fonte: The Hacker News, 09 Feb 2026, 10:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html>)
+
+- **Microsoft: Exchange Online contrassegna le e-mail legittime come phishing**  
+  Fonte: BleepingComputer, 09 Feb 2026, 10:47:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/>)
+
+- **La Commissione europea rivela una violazione che ha esposto i dati del personale**  
+  Fonte: BleepingComputer, 09 Feb 2026, 09:49:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/>)
+
+- **Il worm TeamPCP sfrutta l'infrastruttura cloud per creare un'infrastruttura criminale**  
+  Fonte: The Hacker News, 09 Feb 2026, 08:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html>)
+
+- **BeyondTrust risolve una vulnerabilità critica RCE pre-autenticazione nel supporto remoto e nel PRA**  
+  Fonte: The Hacker News, 09 Feb 2026, 08:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html>)
+
 - **Aggiornamento settimanale 490**  
   Fonte: Troy Hunt, 09 Feb 2026, 04:19:39 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-490/>)
@@ -58,17 +126,9 @@
   Fonte: The Hacker News, 06 Feb 2026, 14:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html>)
 
-- **L'UE afferma che TikTok rischia una grossa multa per "design che crea dipendenza"**  
-  Fonte: BleepingComputer, 06 Feb 2026, 13:53:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/>)
-
 - **La CISA ordina la rimozione dei dispositivi edge non supportati per ridurre il rischio della rete federale**  
   Fonte: The Hacker News, 06 Feb 2026, 13:43:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html>)
-
-- **Un uomo si dichiara colpevole di aver violato gli account Snapchat di quasi 600 donne**  
-  Fonte: BleepingComputer, 06 Feb 2026, 12:34:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/>)
 
 - **Il gruppo asiatico sostenuto dallo Stato TGR-STA-1030 viola 70 entità governative e infrastrutturali**  
   Fonte: The Hacker News, 06 Feb 2026, 12:07:00 UTC  
@@ -82,14 +142,6 @@
   Fonte: The Hacker News, 06 Feb 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html>)
 
-- **Flickr rivela una potenziale violazione dei dati esponendo nomi ed e-mail degli utenti**  
-  Fonte: BleepingComputer, 06 Feb 2026, 09:43:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/>)
-
-- **La CISA ordina alle agenzie federali di sostituire i dispositivi edge a fine vita**  
-  Fonte: BleepingComputer, 06 Feb 2026, 08:41:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/>)
-
 - **I pacchetti dYdX npm e PyPI compromessi forniscono ladri di portafogli e malware RAT**  
   Fonte: The Hacker News, 06 Feb 2026, 08:40:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html>)
@@ -98,29 +150,13 @@
   Fonte: The Hacker News, 06 Feb 2026, 05:49:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html>)
 
-- **Il Ministero della Scienza spagnolo chiude i sistemi dopo le denunce di violazione**  
-  Fonte: BleepingComputer, 05 Feb 2026, 21:23:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/>)
-
-- **Il gruppo di ransomware utilizza le VM del sistema ISP per la consegna furtiva del payload**  
-  Fonte: BleepingComputer, 05 Feb 2026, 20:57:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/>)
-
 - **Amministratore di Incognito Market condannato a 30 anni per aver gestito un impero della droga sul dark web da 105 milioni di dollari**  
   Fonte: Graham Cluley, 05 Feb 2026, 20:15:09 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/incognito-market-admin-sentenced-30-years-105-million-dark-web-drug-empire>)
 
-- **Microsoft chiuderà Exchange Online EWS nell'aprile 2027**  
-  Fonte: BleepingComputer, 05 Feb 2026, 18:07:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/>)
-
 - **La botnet AISURU/Kimwolf lancia un attacco DDoS da record da 31,4 Tbps**  
   Fonte: The Hacker News, 05 Feb 2026, 17:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html>)
-
-- **L'università italiana La Sapienza va offline dopo un attacco informatico**  
-  Fonte: BleepingComputer, 05 Feb 2026, 17:02:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/>)
 
 - **Rapporto sulle minacce DDoS del quarto trimestre del 2025: un attacco record da 31,4 Tbps chiude un anno di massicci attacchi DDoS**  
   Fonte: Cloudflare Blog - Security, 05 Feb 2026, 14:00:00 UTC  
@@ -146,7 +182,7 @@
   Fonte: The Hacker News, 05 Feb 2026, 06:16:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html>)
 
-- **Configurazioni NGINX dannose abilitano campagne di dirottamento del traffico web su larga scala**  
+- **Le configurazioni dannose di NGINX abilitano campagne di dirottamento del traffico web su larga scala**  
   Fonte: The Hacker News, 05 Feb 2026, 04:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html>)
 
@@ -218,45 +254,5 @@
   Fonte: The Hacker News, 03 Feb 2026, 09:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html>)
 
-- **Mozilla aggiunge l'opzione con un clic per disabilitare le funzionalità di intelligenza artificiale generativa in Firefox**  
-  Fonte: The Hacker News, 03 Feb 2026, 05:39:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html>)
 
-- **Violazione dell'hosting di Notepad++ attribuita al gruppo di hacking Lotus Blossom collegato alla Cina**  
-  Fonte: The Hacker News, 03 Feb 2026, 04:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html>)
-
-- **I ricercatori scoprono 341 abilità dannose di ClawHub che rubano dati dagli utenti di OpenClaw**  
-  Fonte: The Hacker News, 02 Feb 2026, 17:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html>)
-
-- **Il bug di OpenClaw consente l'esecuzione di codice remoto con un clic tramite collegamento dannoso**  
-  Fonte: The Hacker News, 02 Feb 2026, 16:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html>)
-
-- **Per favore, non dare da mangiare ai Lapsus ShinyHunters sparsi**  
-  Fonte: Krebs on Security, 02 Feb 2026, 16:15:16 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/>)
-
-- **Microsoft avvia l'eliminazione graduale di NTLM con un piano in tre fasi per spostare Windows su Kerberos**  
-  Fonte: The Hacker News, 02 Feb 2026, 15:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html>)
-
-- **Assistenti di codifica AI che copiano segretamente tutto il codice in Cina**  
-  Fonte: Schneier on Security, 02 Feb 2026, 12:05:34 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html>)
-
-- **⚡ Riepilogo settimanale: botnet proxy, Office Zero-Day, riscatti MongoDB, attacchi AI e nuove minacce**  
-  Fonte: The Hacker News, 02 Feb 2026, 11:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html>)
-
-- **Proteggere il mercato medio attraverso l’intero ciclo di vita delle minacce**  
-  Fonte: The Hacker News, 02 Feb 2026, 11:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/securing-mid-market-across-complete.html>)
-
-- **Meccanismo di aggiornamento ufficiale di Notepad++ violato per distribuire malware a utenti selezionati**  
-  Fonte: The Hacker News, 02 Feb 2026, 08:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/notepad-official-update-mechanism.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-09 06:55:36 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-10 06:55:31 UTC -->
