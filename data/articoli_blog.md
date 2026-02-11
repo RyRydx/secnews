@@ -2,37 +2,109 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft rilascia Windows 11 26H1 per CPU selezionate e future**  
+  Fonte: BleepingComputer, 11 Feb 2026, 02:06:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/>)
+
+- **La nuova botnet Linux SSHStalker utilizza IRC della vecchia scuola per le comunicazioni C2**  
+  Fonte: BleepingComputer, 10 Feb 2026, 23:09:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/>)
+
+- **Gli hacker nordcoreani utilizzano il nuovo malware macOS negli attacchi di furto di criptovalute**  
+  Fonte: BleepingComputer, 10 Feb 2026, 22:17:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/>)
+
+- **Patch Tuesday, edizione febbraio 2026**  
+  Fonte: Krebs on Security, 10 Feb 2026, 21:49:53 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/>)
+
+- **Il sito dannoso 7-Zip distribuisce il programma di installazione collegato allo strumento proxy**  
+  Fonte: BleepingComputer, 10 Feb 2026, 19:12:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/>)
+
+- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5075912 di Windows 10**  
+  Fonte: BleepingComputer, 10 Feb 2026, 19:06:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/>)
+
+- **Il Patch Tuesday di Microsoft di febbraio 2026 corregge 6 zero-day e 58 difetti**  
+  Fonte: BleepingComputer, 10 Feb 2026, 18:51:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/>)
+
+- **Aggiornamenti cumulativi KB5077181 e KB5075941 di Windows 11 rilasciati**  
+  Fonte: BleepingComputer, 10 Feb 2026, 18:43:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-and-kb5075941-cumulative-updates-released/>)
+
+- **Gli agenti della RPDC si spacciano per professionisti su LinkedIn per infiltrarsi nelle aziende**  
+  Fonte: The Hacker News, 10 Feb 2026, 17:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/dprk-operatives-impersonate.html>)
+
+- **Dati dei clienti del Gruppo Volvo Nord America esposti nell'hacking di Conduent**  
+  Fonte: BleepingComputer, 10 Feb 2026, 17:04:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/>)
+
+- **Microsoft lancia nuovi certificati Secure Boot prima della scadenza di giugno**  
+  Fonte: BleepingComputer, 10 Feb 2026, 17:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/>)
+
+- **L'interruzione di Microsoft 365 blocca l'interfaccia di amministrazione in Nord America**  
+  Fonte: BleepingComputer, 10 Feb 2026, 15:45:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/>)
+
+- **Come automatizzare l'indagine sugli incidenti AWS con Tines e l'intelligenza artificiale**  
+  Fonte: BleepingComputer, 10 Feb 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/>)
+
+- **Reynolds Ransomware incorpora il driver BYOVD per disabilitare gli strumenti di sicurezza EDR**  
+  Fonte: The Hacker News, 10 Feb 2026, 14:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html>)
+
+- **Dal ransomware alla residenza: dentro l'ascesa del parassita digitale**  
+  Fonte: The Hacker News, 10 Feb 2026, 13:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html>)
+
 - **Fortinet corregge il difetto critico SQLi che consente l'esecuzione di codice non autenticato**  
-  Fonte: The Hacker News, 10 Feb 2026, 04:38:00 UTC  
+  Fonte: The Hacker News, 10 Feb 2026, 13:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html>)
+
+- **Microsoft annuncia nuovi controlli di sicurezza Windows in stile mobile**  
+  Fonte: BleepingComputer, 10 Feb 2026, 13:16:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/>)
+
+- **Il malware ZeroDayRAT garantisce l'accesso completo ai dispositivi Android e iOS**  
+  Fonte: BleepingComputer, 10 Feb 2026, 13:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/>)
+
+- **Testo generato dall'intelligenza artificiale e corsa agli armamenti nel rilevamento**  
+  Fonte: Schneier on Security, 10 Feb 2026, 12:03:50 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/the-ai-generated-text-arms-race.html>)
+
+- **ZAST.AI raccoglie 6 milioni di dollari Pre-A per aumentare la sicurezza del codice "Zero falsi positivi" basata sull'intelligenza artificiale**  
+  Fonte: The Hacker News, 10 Feb 2026, 11:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html>)
+
+- **Warlock Ransomware viola SmarterTools attraverso il server SmarterMail senza patch**  
+  Fonte: The Hacker News, 10 Feb 2026, 10:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/warlock-ransomware-breaches.html>)
+
+- **Le autorità olandesi confermano i dati di contatto dei dipendenti scoperti in Ivanti Zero-Day Exploit**  
+  Fonte: The Hacker News, 10 Feb 2026, 08:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html>)
+
+- **Il fuggitivo dietro il programma di "macellazione di maiali" da 73 milioni di dollari viene condannato a 20 anni di prigione**  
+  Fonte: BleepingComputer, 10 Feb 2026, 08:17:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/>)
 
 - **Le cyberspie cinesi violano le quattro maggiori società di telecomunicazioni di Singapore**  
   Fonte: BleepingComputer, 09 Feb 2026, 22:47:53 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/>)
 
-- **Gli hacker sfruttano i difetti WHD di SolarWinds per implementare lo strumento DFIR negli attacchi**  
-  Fonte: BleepingComputer, 09 Feb 2026, 20:28:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/>)
-
-- **Gli hacker violano la rete SmarterTools sfruttando una falla nel suo stesso software**  
-  Fonte: BleepingComputer, 09 Feb 2026, 19:08:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/>)
-
 - **L'UNC3886 collegato alla Cina prende di mira il settore delle telecomunicazioni di Singapore nella campagna di spionaggio informatico**  
   Fonte: The Hacker News, 09 Feb 2026, 17:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html>)
 
-- **Indovinare la password senza intelligenza artificiale: come gli aggressori creano elenchi di parole mirate**  
-  Fonte: BleepingComputer, 09 Feb 2026, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/>)
-
 - **L'Help Desk Web di SolarWinds viene sfruttato per RCE in attacchi multifase su server esposti**  
   Fonte: The Hacker News, 09 Feb 2026, 14:42:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html>)
-
-- **BeyondTrust avverte di un difetto critico RCE nel software di supporto remoto**  
-  Fonte: BleepingComputer, 09 Feb 2026, 13:07:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/>)
 
 - **⚡ Riepilogo settimanale: malware AI Skill, DDoS da 31 Tbps, hacking di Notepad++, backdoor LLM e altro ancora**  
   Fonte: The Hacker News, 09 Feb 2026, 12:59:00 UTC  
@@ -42,10 +114,6 @@
   Fonte: Schneier on Security, 09 Feb 2026, 12:04:29 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/02/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days.html>)
 
-- **Uomini accusati del programma FanDuel alimentato da migliaia di identità rubate**  
-  Fonte: BleepingComputer, 09 Feb 2026, 11:41:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/>)
-
 - **Come i migliori CISO risolvono il burnout e accelerano l'MTTR senza assunzioni aggiuntive**  
   Fonte: The Hacker News, 09 Feb 2026, 11:23:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html>)
@@ -53,14 +121,6 @@
 - **Bloody Wolf prende di mira l'Uzbekistan e la Russia utilizzando NetSupport RAT nella campagna di spear-phishing**  
   Fonte: The Hacker News, 09 Feb 2026, 10:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html>)
-
-- **Microsoft: Exchange Online contrassegna le e-mail legittime come phishing**  
-  Fonte: BleepingComputer, 09 Feb 2026, 10:47:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/>)
-
-- **La Commissione europea rivela una violazione che ha esposto i dati del personale**  
-  Fonte: BleepingComputer, 09 Feb 2026, 09:49:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/>)
 
 - **Il worm TeamPCP sfrutta l'infrastruttura cloud per creare un'infrastruttura criminale**  
   Fonte: The Hacker News, 09 Feb 2026, 08:37:00 UTC  
@@ -74,17 +134,9 @@
   Fonte: Troy Hunt, 09 Feb 2026, 04:19:39 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-490/>)
 
-- **Il nuovo strumento blocca gli attacchi impostori mascherati da comandi sicuri**  
-  Fonte: BleepingComputer, 08 Feb 2026, 15:26:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/>)
-
 - **OpenClaw integra la scansione VirusTotal per rilevare le abilità dannose di ClawHub**  
   Fonte: The Hacker News, 08 Feb 2026, 07:32:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html>)
-
-- **L'attore statale prende di mira 155 paesi nello spionaggio "Campagne ombra" op**  
-  Fonte: BleepingComputer, 07 Feb 2026, 15:09:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/>)
 
 - **Il falso principe ereditario di Dubai rintracciato in una villa nigeriana dopo una truffa romantica da 2,5 milioni di dollari**  
   Fonte: Graham Cluley, 07 Feb 2026, 13:19:52 UTC  
@@ -94,10 +146,6 @@
   Fonte: The Hacker News, 07 Feb 2026, 11:15:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html>)
 
-- **La piattaforma di pagamento BridgePay conferma l'attacco ransomware all'origine dell'interruzione**  
-  Fonte: BleepingComputer, 07 Feb 2026, 09:47:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/>)
-
 - **Blog sui calamari del venerdì: consigli per la pesca dei calamari**  
   Fonte: Schneier on Security, 06 Feb 2026, 22:01:05 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html>)
@@ -105,22 +153,6 @@
 - **Sono negli Epstein Files**  
   Fonte: Schneier on Security, 06 Feb 2026, 20:43:52 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/02/i-am-in-the-epstein-files.html>)
-
-- **La Germania avverte del dirottamento dell'account Signal contro figure di alto livello**  
-  Fonte: BleepingComputer, 06 Feb 2026, 20:00:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/>)
-
-- **Il toolkit DKnife Linux dirotta il traffico del router per spiare e distribuire malware**  
-  Fonte: BleepingComputer, 06 Feb 2026, 18:35:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/>)
-
-- **CISA avverte della falla SmarterMail RCE utilizzata negli attacchi ransomware**  
-  Fonte: BleepingComputer, 06 Feb 2026, 17:16:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/>)
-
-- **EDR, e-mail e SASE non riescono a cogliere l'intera classe di attacchi browser**  
-  Fonte: BleepingComputer, 06 Feb 2026, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/>)
 
 - **Il framework DKnife AitM collegato alla Cina prende di mira i router per il dirottamento del traffico e la distribuzione di malware**  
   Fonte: The Hacker News, 06 Feb 2026, 14:56:00 UTC  
@@ -218,41 +250,5 @@
   Fonte: The Hacker News, 04 Feb 2026, 07:42:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html>)
 
-- **Eclipse Foundation impone controlli di sicurezza pre-pubblicazione per le estensioni Open VSX**  
-  Fonte: The Hacker News, 04 Feb 2026, 06:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html>)
 
-- **CISA aggiunge il servizio RCE dell'Help Desk Web di SolarWinds attivamente sfruttato al catalogo KEV**  
-  Fonte: The Hacker News, 04 Feb 2026, 05:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html>)
-
-- **Aggiornamento settimanale 489**  
-  Fonte: Troy Hunt, 04 Feb 2026, 02:31:18 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-489/>)
-
-- **Docker risolve il difetto critico dell'intelligenza artificiale Ask Gordon che consente l'esecuzione del codice tramite metadati dell'immagine**  
-  Fonte: The Hacker News, 03 Feb 2026, 16:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html>)
-
-- **[Webinar] Il progetto SOC più intelligente: scopri cosa creare, acquistare e automatizzare**  
-  Fonte: The Hacker News, 03 Feb 2026, 14:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html>)
-
-- **Gli hacker sfruttano il difetto RCE di Metro4Shell nel pacchetto npm della CLI nativa di React**  
-  Fonte: The Hacker News, 03 Feb 2026, 14:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html>)
-
-- **Microsoft fornisce le chiavi BitLocker dell'FBI**  
-  Fonte: Schneier on Security, 03 Feb 2026, 12:05:25 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/microsoft-is-giving-the-fbi-bitlocker-keys.html>)
-
-- **Quando le interruzioni del cloud si propagano su Internet**  
-  Fonte: The Hacker News, 03 Feb 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html>)
-
-- **APT28 utilizza Microsoft Office CVE-2026-21509 negli attacchi malware incentrati sullo spionaggio**  
-  Fonte: The Hacker News, 03 Feb 2026, 09:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-10 06:55:31 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-11 06:52:03 UTC -->
