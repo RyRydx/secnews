@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Apple risolve il difetto zero-day utilizzato negli attacchi "estremamente sofisticati".**  
+  Fonte: BleepingComputer, 12 Feb 2026, 01:06:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/>)
+
+- **Podcast #454 di Smashing Security: L’intelligenza artificiale non stava pianificando la fine dell’umanità.Gli esseri umani lo erano**  
+  Fonte: Graham Cluley, 12 Feb 2026, 00:30:32 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-454/>)
+
+- **Il difetto del Blocco note di Windows 11 consente l'esecuzione silenziosa dei file tramite i collegamenti Markdown**  
+  Fonte: BleepingComputer, 11 Feb 2026, 23:15:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/>)
+
+- **Componente aggiuntivo di Microsoft Store Outlook violato per rubare 4.000 account Microsoft**  
+  Fonte: BleepingComputer, 11 Feb 2026, 21:53:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/>)
+
+- **Una pazza banda di ransomware abusa dello strumento di monitoraggio dei dipendenti negli attacchi**  
+  Fonte: BleepingComputer, 11 Feb 2026, 19:29:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/>)
+
+- **La polizia arresta il venditore dello strumento di acquisizione del passcode MFA JokerOTP**  
+  Fonte: BleepingComputer, 11 Feb 2026, 19:14:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/>)
+
+- **Trovato il primo componente aggiuntivo dannoso per Outlook che ruba oltre 4.000 credenziali Microsoft**  
+  Fonte: The Hacker News, 11 Feb 2026, 17:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html>)
+
+- **Strategie proattive per la resilienza informatica con Wazuh**  
+  Fonte: BleepingComputer, 11 Feb 2026, 17:40:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/>)
+
+- **Le infezioni di LummaStealer aumentano dopo le campagne malware CastleLoader**  
+  Fonte: BleepingComputer, 11 Feb 2026, 17:02:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/>)
+
+- **APT36 e SideCopy lanciano campagne RAT multipiattaforma contro entità indiane**  
+  Fonte: The Hacker News, 11 Feb 2026, 14:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html>)
+
+- **L'ebook Ricablaggio della democrazia è in vendita**  
+  Fonte: Schneier on Security, 11 Feb 2026, 14:48:14 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html>)
+
+- **Oltre 60 fornitori di software rilasciano correzioni di sicurezza su piattaforme di sistema operativo, cloud e di rete**  
+  Fonte: The Hacker News, 11 Feb 2026, 13:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html>)
+
+- **Iniezione rapida tramite segnaletica stradale**  
+  Fonte: Schneier on Security, 11 Feb 2026, 12:03:22 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html>)
+
+- **La formazione esposta apre le porte al crypto-mining negli ambienti cloud Fortune 500**  
+  Fonte: The Hacker News, 11 Feb 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html>)
+
+- **Microsoft corregge 59 vulnerabilità, tra cui sei zero-day sfruttati attivamente**  
+  Fonte: The Hacker News, 11 Feb 2026, 10:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html>)
+
+- **La botnet SSHStalker utilizza IRC C2 per controllare i sistemi Linux tramite exploit del kernel legacy**  
+  Fonte: The Hacker News, 11 Feb 2026, 09:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html>)
+
+- **L'UNC1069 legato alla Corea del Nord utilizza esche artificiali per attaccare le organizzazioni di criptovaluta**  
+  Fonte: The Hacker News, 11 Feb 2026, 06:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html>)
+
 - **Microsoft rilascia Windows 11 26H1 per CPU selezionate e future**  
   Fonte: BleepingComputer, 11 Feb 2026, 02:06:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/>)
@@ -13,10 +81,6 @@
 - **Gli hacker nordcoreani utilizzano il nuovo malware macOS negli attacchi di furto di criptovalute**  
   Fonte: BleepingComputer, 10 Feb 2026, 22:17:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/>)
-
-- **Patch Tuesday, edizione febbraio 2026**  
-  Fonte: Krebs on Security, 10 Feb 2026, 21:49:53 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/>)
 
 - **Il sito dannoso 7-Zip distribuisce il programma di installazione collegato allo strumento proxy**  
   Fonte: BleepingComputer, 10 Feb 2026, 19:12:55 UTC  
@@ -42,18 +106,6 @@
   Fonte: BleepingComputer, 10 Feb 2026, 17:04:18 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/>)
 
-- **Microsoft lancia nuovi certificati Secure Boot prima della scadenza di giugno**  
-  Fonte: BleepingComputer, 10 Feb 2026, 17:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/>)
-
-- **L'interruzione di Microsoft 365 blocca l'interfaccia di amministrazione in Nord America**  
-  Fonte: BleepingComputer, 10 Feb 2026, 15:45:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/>)
-
-- **Come automatizzare l'indagine sugli incidenti AWS con Tines e l'intelligenza artificiale**  
-  Fonte: BleepingComputer, 10 Feb 2026, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/>)
-
 - **Reynolds Ransomware incorpora il driver BYOVD per disabilitare gli strumenti di sicurezza EDR**  
   Fonte: The Hacker News, 10 Feb 2026, 14:36:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html>)
@@ -65,14 +117,6 @@
 - **Fortinet corregge il difetto critico SQLi che consente l'esecuzione di codice non autenticato**  
   Fonte: The Hacker News, 10 Feb 2026, 13:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html>)
-
-- **Microsoft annuncia nuovi controlli di sicurezza Windows in stile mobile**  
-  Fonte: BleepingComputer, 10 Feb 2026, 13:16:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/>)
-
-- **Il malware ZeroDayRAT garantisce l'accesso completo ai dispositivi Android e iOS**  
-  Fonte: BleepingComputer, 10 Feb 2026, 13:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/>)
 
 - **Testo generato dall'intelligenza artificiale e corsa agli armamenti nel rilevamento**  
   Fonte: Schneier on Security, 10 Feb 2026, 12:03:50 UTC  
@@ -89,14 +133,6 @@
 - **Le autorità olandesi confermano i dati di contatto dei dipendenti scoperti in Ivanti Zero-Day Exploit**  
   Fonte: The Hacker News, 10 Feb 2026, 08:22:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html>)
-
-- **Il fuggitivo dietro il programma di "macellazione di maiali" da 73 milioni di dollari viene condannato a 20 anni di prigione**  
-  Fonte: BleepingComputer, 10 Feb 2026, 08:17:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/>)
-
-- **Le cyberspie cinesi violano le quattro maggiori società di telecomunicazioni di Singapore**  
-  Fonte: BleepingComputer, 09 Feb 2026, 22:47:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/>)
 
 - **L'UNC3886 collegato alla Cina prende di mira il settore delle telecomunicazioni di Singapore nella campagna di spionaggio informatico**  
   Fonte: The Hacker News, 09 Feb 2026, 17:01:00 UTC  
@@ -210,45 +246,5 @@
   Fonte: The Hacker News, 05 Feb 2026, 10:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html>)
 
-- **Il difetto critico n8n CVE-2026-25049 consente l'esecuzione di comandi di sistema tramite flussi di lavoro dannosi**  
-  Fonte: The Hacker News, 05 Feb 2026, 06:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html>)
 
-- **Le configurazioni dannose di NGINX abilitano campagne di dirottamento del traffico web su larga scala**  
-  Fonte: The Hacker News, 05 Feb 2026, 04:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html>)
-
-- **Podcast n. 453 di Smashing Security: The Epstein Files non nascondeva molto bene questo hacker**  
-  Fonte: Graham Cluley, 05 Feb 2026, 00:30:54 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-453/>)
-
-- **Microsoft sviluppa uno scanner per rilevare backdoor in modelli linguistici di grandi dimensioni a peso aperto**  
-  Fonte: The Hacker News, 04 Feb 2026, 17:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html>)
-
-- **La campagna malware DEAD#VAX distribuisce AsyncRAT tramite file di phishing VHD ospitati su IPFS**  
-  Fonte: The Hacker News, 04 Feb 2026, 17:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html>)
-
-- **Amaranth-Dragon, collegato alla Cina, sfrutta il difetto di WinRAR nelle campagne di spionaggio**  
-  Fonte: The Hacker News, 04 Feb 2026, 14:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html>)
-
-- **Gli Stati Uniti declassificano le informazioni sui satelliti spia JUMPSEAT**  
-  Fonte: Schneier on Security, 04 Feb 2026, 12:02:10 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/us-declassifies-information-on-jumpseat-spy-satellites.html>)
-
-- **Orchid Security introduce l'osservabilità continua dell'identità per le applicazioni aziendali**  
-  Fonte: The Hacker News, 04 Feb 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html>)
-
-- **I primi 90 secondi: in che modo le decisioni iniziali modellano le indagini sulla risposta agli incidenti**  
-  Fonte: The Hacker News, 04 Feb 2026, 10:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html>)
-
-- **Microsoft avverte che gli infostealer Python prendono di mira macOS tramite annunci e programmi di installazione falsi**  
-  Fonte: The Hacker News, 04 Feb 2026, 07:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-11 06:52:03 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-12 06:52:06 UTC -->
