@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **La Russia cerca di bloccare WhatsApp, Telegram nel blocco delle comunicazioni**  
+  Fonte: BleepingComputer, 12 Feb 2026, 22:57:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/>)
+
+- **Bitwarden introduce "Cupid Vault" per la condivisione sicura delle password**  
+  Fonte: BleepingComputer, 12 Feb 2026, 21:55:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/>)
+
+- **Difetto critico BeyondTrust RCE ora sfruttato negli attacchi, patch ora**  
+  Fonte: BleepingComputer, 12 Feb 2026, 21:34:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/>)
+
+- **Microsoft: i nuovi problemi di spoofing di Windows LNK non sono vulnerabilità**  
+  Fonte: BleepingComputer, 12 Feb 2026, 21:01:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/>)
+
+- **L'operatore rumeno dell'oleodotto Conpet conferma i dati rubati durante l'attacco**  
+  Fonte: BleepingComputer, 12 Feb 2026, 19:16:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/>)
+
+- **La violazione dei dati di Odido espone le informazioni personali di 6,2 milioni di clienti**  
+  Fonte: BleepingComputer, 12 Feb 2026, 18:18:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/>)
+
+- **Google segnala alcuni hacker sostenuti dallo Stato che utilizzano l'intelligenza artificiale Gemini per ricognizioni e supporto agli attacchi**  
+  Fonte: The Hacker News, 12 Feb 2026, 17:57:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html>)
+
+- **Plugin WordPress con 900.000 installazioni vulnerabile al difetto critico RCE**  
+  Fonte: BleepingComputer, 12 Feb 2026, 17:09:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/>)
+
+- **La campagna Lazarus inserisce pacchetti dannosi negli ecosistemi npm e PyPI**  
+  Fonte: The Hacker News, 12 Feb 2026, 16:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html>)
+
+- **L'infostealer AMOS prende di mira macOS tramite una popolare app AI**  
+  Fonte: BleepingComputer, 12 Feb 2026, 14:25:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/>)
+
+- **Le estensioni Chrome AI false con 300.000 utenti rubano credenziali ed e-mail**  
+  Fonte: BleepingComputer, 12 Feb 2026, 13:41:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-ai-chrome-extensions-with-300k-users-steal-credentials-emails/>)
+
+- **Sorveglianza della stampante 3D**  
+  Fonte: Schneier on Security, 12 Feb 2026, 12:01:31 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html>)
+
+- **Bollettino ThreatsDay: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days e oltre 25 storie**  
+  Fonte: The Hacker News, 12 Feb 2026, 11:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html>)
+
+- **Il divario CTEM: perché l’84% dei programmi di sicurezza resta indietro**  
+  Fonte: The Hacker News, 12 Feb 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html>)
+
+- **Un hacker polacco è stato accusato sette anni dopo la massiccia violazione dei dati di Morele.net**  
+  Fonte: Graham Cluley, 12 Feb 2026, 08:04:15 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/polish-hacker-charged-seven-years-after-massive-morele-net-data-breach>)
+
+- **L'83% degli exploit EPMM di Ivanti sono collegati a un IP singolo su un'infrastruttura di hosting antiproiettile**  
+  Fonte: The Hacker News, 12 Feb 2026, 07:32:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html>)
+
+- **Google afferma che gli hacker stanno abusando dell'intelligenza artificiale di Gemini per tutte le fasi degli attacchi**  
+  Fonte: BleepingComputer, 12 Feb 2026, 07:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/>)
+
+- **Apple risolve gli zero-day sfruttati che interessano iOS, macOS e altri dispositivi**  
+  Fonte: The Hacker News, 12 Feb 2026, 05:39:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html>)
+
 - **Apple risolve il difetto zero-day utilizzato negli attacchi "estremamente sofisticati".**  
   Fonte: BleepingComputer, 12 Feb 2026, 01:06:05 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/>)
@@ -30,13 +102,9 @@
   Fonte: The Hacker News, 11 Feb 2026, 17:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html>)
 
-- **Strategie proattive per la resilienza informatica con Wazuh**  
-  Fonte: BleepingComputer, 11 Feb 2026, 17:40:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/>)
-
-- **Le infezioni di LummaStealer aumentano dopo le campagne malware CastleLoader**  
-  Fonte: BleepingComputer, 11 Feb 2026, 17:02:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/>)
+- **La botnet Kimwolf palude la rete di anonimato I2P**  
+  Fonte: Krebs on Security, 11 Feb 2026, 16:08:11 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/>)
 
 - **APT36 e SideCopy lanciano campagne RAT multipiattaforma contro entità indiane**  
   Fonte: The Hacker News, 11 Feb 2026, 14:52:00 UTC  
@@ -70,41 +138,13 @@
   Fonte: The Hacker News, 11 Feb 2026, 06:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html>)
 
-- **Microsoft rilascia Windows 11 26H1 per CPU selezionate e future**  
-  Fonte: BleepingComputer, 11 Feb 2026, 02:06:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/>)
-
-- **La nuova botnet Linux SSHStalker utilizza IRC della vecchia scuola per le comunicazioni C2**  
-  Fonte: BleepingComputer, 10 Feb 2026, 23:09:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/>)
-
-- **Gli hacker nordcoreani utilizzano il nuovo malware macOS negli attacchi di furto di criptovalute**  
-  Fonte: BleepingComputer, 10 Feb 2026, 22:17:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/>)
-
-- **Il sito dannoso 7-Zip distribuisce il programma di installazione collegato allo strumento proxy**  
-  Fonte: BleepingComputer, 10 Feb 2026, 19:12:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/>)
-
-- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5075912 di Windows 10**  
-  Fonte: BleepingComputer, 10 Feb 2026, 19:06:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/>)
-
-- **Il Patch Tuesday di Microsoft di febbraio 2026 corregge 6 zero-day e 58 difetti**  
-  Fonte: BleepingComputer, 10 Feb 2026, 18:51:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/>)
-
-- **Aggiornamenti cumulativi KB5077181 e KB5075941 di Windows 11 rilasciati**  
-  Fonte: BleepingComputer, 10 Feb 2026, 18:43:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-and-kb5075941-cumulative-updates-released/>)
+- **Patch Tuesday, edizione febbraio 2026**  
+  Fonte: Krebs on Security, 10 Feb 2026, 21:49:53 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/>)
 
 - **Gli agenti della RPDC si spacciano per professionisti su LinkedIn per infiltrarsi nelle aziende**  
   Fonte: The Hacker News, 10 Feb 2026, 17:44:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/dprk-operatives-impersonate.html>)
-
-- **Dati dei clienti del Gruppo Volvo Nord America esposti nell'hacking di Conduent**  
-  Fonte: BleepingComputer, 10 Feb 2026, 17:04:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/>)
 
 - **Reynolds Ransomware incorpora il driver BYOVD per disabilitare gli strumenti di sicurezza EDR**  
   Fonte: The Hacker News, 10 Feb 2026, 14:36:00 UTC  
@@ -214,37 +254,5 @@
   Fonte: The Hacker News, 06 Feb 2026, 08:40:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html>)
 
-- **Claude Opus 4.6 rileva oltre 500 difetti di elevata gravità nelle principali biblioteche open source**  
-  Fonte: The Hacker News, 06 Feb 2026, 05:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html>)
 
-- **Amministratore di Incognito Market condannato a 30 anni per aver gestito un impero della droga sul dark web da 105 milioni di dollari**  
-  Fonte: Graham Cluley, 05 Feb 2026, 20:15:09 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/incognito-market-admin-sentenced-30-years-105-million-dark-web-drug-empire>)
-
-- **La botnet AISURU/Kimwolf lancia un attacco DDoS da record da 31,4 Tbps**  
-  Fonte: The Hacker News, 05 Feb 2026, 17:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html>)
-
-- **Rapporto sulle minacce DDoS del quarto trimestre del 2025: un attacco record da 31,4 Tbps chiude un anno di massicci attacchi DDoS**  
-  Fonte: Cloudflare Blog - Security, 05 Feb 2026, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/ddos-threat-report-2025-q4/>)
-
-- **Bollettino del ThreatsDay: Codespaces RCE, AsyncRAT C2, abusi BYOVD, intrusioni nel cloud AI e oltre 15 storie**  
-  Fonte: The Hacker News, 05 Feb 2026, 12:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html>)
-
-- **Backdoor in Blocco note++**  
-  Fonte: Schneier on Security, 05 Feb 2026, 12:00:07 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html>)
-
-- **La guida dell'acquirente al controllo dell'utilizzo dell'intelligenza artificiale**  
-  Fonte: The Hacker News, 05 Feb 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html>)
-
-- **Gli hacker Infy riprendono le operazioni con i nuovi server C2 dopo la fine del blackout Internet in Iran**  
-  Fonte: The Hacker News, 05 Feb 2026, 10:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-12 06:52:06 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-13 06:47:31 UTC -->
