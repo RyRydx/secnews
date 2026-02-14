@@ -2,6 +2,58 @@
 
 ## Ultimi 7 giorni
 
+- **I reclutatori di posti di lavoro falsi nascondono malware nelle sfide di codifica degli sviluppatori**  
+  Fonte: BleepingComputer, 13 Feb 2026, 22:35:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/>)
+
+- **Blogging sui calamari del venerdì: i calamari sognano?**  
+  Fonte: Schneier on Security, 13 Feb 2026, 22:08:39 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html>)
+
+- **Abusi degli artefatti di Claude LLM per spingere gli infostealer Mac nell'attacco ClickFix**  
+  Fonte: BleepingComputer, 13 Feb 2026, 20:21:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/>)
+
+- **Louis Vuitton, Dior e Tiffany multati di 25 milioni di dollari per violazione di dati**  
+  Fonte: BleepingComputer, 13 Feb 2026, 18:35:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/>)
+
+- **Google lega un presunto attore russo agli attacchi malware CANFAIL contro organizzazioni ucraine**  
+  Fonte: The Hacker News, 13 Feb 2026, 17:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html>)
+
+- **Google collega Cina, Iran, Russia e Corea del Nord alle operazioni informatiche coordinate del settore della difesa**  
+  Fonte: The Hacker News, 13 Feb 2026, 16:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html>)
+
+- **UAT-9921 distribuisce il malware VoidLink per colpire i settori tecnologico e finanziario**  
+  Fonte: The Hacker News, 13 Feb 2026, 15:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html>)
+
+- **Trasformare gli avvisi IBM QRadar in azioni con IP criminale**  
+  Fonte: BleepingComputer, 13 Feb 2026, 15:05:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/>)
+
+- **CISA segnala il difetto critico di Microsoft SCCM come sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 13 Feb 2026, 12:35:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/>)
+
+- **Estensioni Chrome dannose scoperte a rubare dati aziendali, email e cronologia di navigazione**  
+  Fonte: The Hacker News, 13 Feb 2026, 11:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html>)
+
+- **Aggiornamento di npm per rafforzare la catena di fornitura e punti da considerare**  
+  Fonte: The Hacker News, 13 Feb 2026, 10:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html>)
+
+- **Microsoft risolve il bug che bloccava l'avvio di Google Chrome**  
+  Fonte: BleepingComputer, 13 Feb 2026, 09:31:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/>)
+
+- **I ricercatori osservano lo sfruttamento in-the-wild della vulnerabilità BeyondTrust CVSS 9.9**  
+  Fonte: The Hacker News, 13 Feb 2026, 08:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/researchers-observe-in-wild.html>)
+
 - **La Russia cerca di bloccare WhatsApp, Telegram nel blocco delle comunicazioni**  
   Fonte: BleepingComputer, 12 Feb 2026, 22:57:54 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/>)
@@ -21,6 +73,10 @@
 - **L'operatore rumeno dell'oleodotto Conpet conferma i dati rubati durante l'attacco**  
   Fonte: BleepingComputer, 12 Feb 2026, 19:16:38 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/>)
+
+- **Avvertimenti urgenti dalle agenzie informatiche del Regno Unito e degli Stati Uniti dopo l'attacco alla rete energetica polacca**  
+  Fonte: Graham Cluley, 12 Feb 2026, 18:47:52 UTC  
+  [Leggi](<https://www.fortra.com/blog/urgent-warnings-uk-and-us-cyber-agencies-after-polish-energy-grid-attack>)
 
 - **La violazione dei dati di Odido espone le informazioni personali di 6,2 milioni di clienti**  
   Fonte: BleepingComputer, 12 Feb 2026, 18:18:14 UTC  
@@ -66,37 +122,13 @@
   Fonte: The Hacker News, 12 Feb 2026, 07:32:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html>)
 
-- **Google afferma che gli hacker stanno abusando dell'intelligenza artificiale di Gemini per tutte le fasi degli attacchi**  
-  Fonte: BleepingComputer, 12 Feb 2026, 07:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/>)
-
 - **Apple risolve gli zero-day sfruttati che interessano iOS, macOS e altri dispositivi**  
   Fonte: The Hacker News, 12 Feb 2026, 05:39:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html>)
 
-- **Apple risolve il difetto zero-day utilizzato negli attacchi "estremamente sofisticati".**  
-  Fonte: BleepingComputer, 12 Feb 2026, 01:06:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/>)
-
 - **Podcast #454 di Smashing Security: L’intelligenza artificiale non stava pianificando la fine dell’umanità.Gli esseri umani lo erano**  
   Fonte: Graham Cluley, 12 Feb 2026, 00:30:32 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-454/>)
-
-- **Il difetto del Blocco note di Windows 11 consente l'esecuzione silenziosa dei file tramite i collegamenti Markdown**  
-  Fonte: BleepingComputer, 11 Feb 2026, 23:15:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/>)
-
-- **Componente aggiuntivo di Microsoft Store Outlook violato per rubare 4.000 account Microsoft**  
-  Fonte: BleepingComputer, 11 Feb 2026, 21:53:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/>)
-
-- **Una pazza banda di ransomware abusa dello strumento di monitoraggio dei dipendenti negli attacchi**  
-  Fonte: BleepingComputer, 11 Feb 2026, 19:29:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/>)
-
-- **La polizia arresta il venditore dello strumento di acquisizione del passcode MFA JokerOTP**  
-  Fonte: BleepingComputer, 11 Feb 2026, 19:14:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/>)
 
 - **Trovato il primo componente aggiuntivo dannoso per Outlook che ruba oltre 4.000 credenziali Microsoft**  
   Fonte: The Hacker News, 11 Feb 2026, 17:45:00 UTC  
@@ -222,37 +254,5 @@
   Fonte: The Hacker News, 07 Feb 2026, 11:15:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html>)
 
-- **Blog sui calamari del venerdì: consigli per la pesca dei calamari**  
-  Fonte: Schneier on Security, 06 Feb 2026, 22:01:05 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html>)
 
-- **Sono negli Epstein Files**  
-  Fonte: Schneier on Security, 06 Feb 2026, 20:43:52 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/i-am-in-the-epstein-files.html>)
-
-- **Il framework DKnife AitM collegato alla Cina prende di mira i router per il dirottamento del traffico e la distribuzione di malware**  
-  Fonte: The Hacker News, 06 Feb 2026, 14:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html>)
-
-- **La CISA ordina la rimozione dei dispositivi edge non supportati per ridurre il rischio della rete federale**  
-  Fonte: The Hacker News, 06 Feb 2026, 13:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html>)
-
-- **Il gruppo asiatico sostenuto dallo Stato TGR-STA-1030 viola 70 entità governative e infrastrutturali**  
-  Fonte: The Hacker News, 06 Feb 2026, 12:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html>)
-
-- **La modalità di blocco dell'iPhone protegge il Washington Post Reporter**  
-  Fonte: Schneier on Security, 06 Feb 2026, 12:00:36 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html>)
-
-- **In che modo Samsung Knox ti aiuta a fermare le violazioni della sicurezza della tua rete**  
-  Fonte: The Hacker News, 06 Feb 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html>)
-
-- **I pacchetti dYdX npm e PyPI compromessi forniscono ladri di portafogli e malware RAT**  
-  Fonte: The Hacker News, 06 Feb 2026, 08:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-13 06:47:31 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-14 06:33:13 UTC -->
