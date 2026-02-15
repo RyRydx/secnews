@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Prossimi impegni di conferenza**  
+  Fonte: Schneier on Security, 14 Feb 2026, 17:04:59 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html>)
+
+- **Un attore delle minacce responsabile dell'83% dei recenti attacchi Ivanti RCE**  
+  Fonte: BleepingComputer, 14 Feb 2026, 16:02:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/>)
+
+- **Le lettere di posta ordinaria prendono di mira gli utenti di Trezor e Ledger in attacchi di furto di criptovalute**  
+  Fonte: BleepingComputer, 14 Feb 2026, 15:15:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/>)
+
 - **I reclutatori di posti di lavoro falsi nascondono malware nelle sfide di codifica degli sviluppatori**  
   Fonte: BleepingComputer, 13 Feb 2026, 22:35:37 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/>)
@@ -74,7 +86,7 @@
   Fonte: BleepingComputer, 12 Feb 2026, 19:16:38 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/>)
 
-- **Avvertimenti urgenti dalle agenzie informatiche del Regno Unito e degli Stati Uniti dopo l'attacco alla rete energetica polacca**  
+- **Avvertimenti urgenti da parte delle agenzie informatiche del Regno Unito e degli Stati Uniti dopo l'attacco alla rete energetica polacca**  
   Fonte: Graham Cluley, 12 Feb 2026, 18:47:52 UTC  
   [Leggi](<https://www.fortra.com/blog/urgent-warnings-uk-and-us-cyber-agencies-after-polish-energy-grid-attack>)
 
@@ -86,21 +98,13 @@
   Fonte: The Hacker News, 12 Feb 2026, 17:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html>)
 
-- **Plugin WordPress con 900.000 installazioni vulnerabile al difetto critico RCE**  
+- **Plugin WordPress con 900.000 installazioni vulnerabili a difetti critici RCE**  
   Fonte: BleepingComputer, 12 Feb 2026, 17:09:41 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/>)
 
 - **La campagna Lazarus inserisce pacchetti dannosi negli ecosistemi npm e PyPI**  
   Fonte: The Hacker News, 12 Feb 2026, 16:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html>)
-
-- **L'infostealer AMOS prende di mira macOS tramite una popolare app AI**  
-  Fonte: BleepingComputer, 12 Feb 2026, 14:25:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/>)
-
-- **Le estensioni Chrome AI false con 300.000 utenti rubano credenziali ed e-mail**  
-  Fonte: BleepingComputer, 12 Feb 2026, 13:41:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-ai-chrome-extensions-with-300k-users-steal-credentials-emails/>)
 
 - **Sorveglianza della stampante 3D**  
   Fonte: Schneier on Security, 12 Feb 2026, 12:01:31 UTC  
@@ -146,7 +150,7 @@
   Fonte: Schneier on Security, 11 Feb 2026, 14:48:14 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html>)
 
-- **Oltre 60 fornitori di software rilasciano correzioni di sicurezza su piattaforme di sistema operativo, cloud e di rete**  
+- **Oltre 60 fornitori di software rilasciano correzioni di sicurezza su sistemi operativi, cloud e piattaforme di rete**  
   Fonte: The Hacker News, 11 Feb 2026, 13:28:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html>)
 
@@ -246,13 +250,5 @@
   Fonte: The Hacker News, 08 Feb 2026, 07:32:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html>)
 
-- **Il falso principe ereditario di Dubai rintracciato in una villa nigeriana dopo una truffa romantica da 2,5 milioni di dollari**  
-  Fonte: Graham Cluley, 07 Feb 2026, 13:19:52 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-dubai-crown-prince-tracked-to-nigerian-mansion-after-2-5m-romance-scam>)
 
-- **Le agenzie tedesche avvertono di phishing di segnale che prende di mira politici, militari e giornalisti**  
-  Fonte: The Hacker News, 07 Feb 2026, 11:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-14 06:33:13 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-15 06:40:14 UTC -->
