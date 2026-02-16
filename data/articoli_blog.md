@@ -2,6 +2,30 @@
 
 ## Ultimi 7 giorni
 
+- **Canada Goose indaga sulla fuga di 600.000 record di clienti da parte di hacker**  
+  Fonte: BleepingComputer, 16 Feb 2026, 04:45:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/>)
+
+- **Il nuovo attacco ClickFix sfrutta nslookup per recuperare il payload di PowerShell tramite DNS**  
+  Fonte: BleepingComputer, 16 Feb 2026, 00:29:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/>)
+
+- **Windows 11 KB5077181 risolve gli errori di avvio legati ad aggiornamenti non riusciti**  
+  Fonte: BleepingComputer, 15 Feb 2026, 22:08:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/>)
+
+- **CTM360: campagna malware Lumma Stealer e Ninja Browser che abusa di Google Gruppi**  
+  Fonte: BleepingComputer, 15 Feb 2026, 16:30:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/>)
+
+- **I commenti di Pastebin spingono l'attacco JavaScript di ClickFix per dirottare gli scambi di criptovalute**  
+  Fonte: BleepingComputer, 15 Feb 2026, 15:17:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/>)
+
+- **Microsoft rivela un attacco ClickFix basato su DNS utilizzando Nslookup per lo staging del malware**  
+  Fonte: The Hacker News, 15 Feb 2026, 14:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html>)
+
 - **Prossimi impegni di conferenza**  
   Fonte: Schneier on Security, 14 Feb 2026, 17:04:59 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html>)
@@ -74,33 +98,13 @@
   Fonte: BleepingComputer, 12 Feb 2026, 21:55:24 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/>)
 
-- **Difetto critico BeyondTrust RCE ora sfruttato negli attacchi, patch ora**  
-  Fonte: BleepingComputer, 12 Feb 2026, 21:34:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/>)
-
-- **Microsoft: i nuovi problemi di spoofing di Windows LNK non sono vulnerabilità**  
-  Fonte: BleepingComputer, 12 Feb 2026, 21:01:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/>)
-
-- **L'operatore rumeno dell'oleodotto Conpet conferma i dati rubati durante l'attacco**  
-  Fonte: BleepingComputer, 12 Feb 2026, 19:16:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/>)
-
 - **Avvertimenti urgenti da parte delle agenzie informatiche del Regno Unito e degli Stati Uniti dopo l'attacco alla rete energetica polacca**  
   Fonte: Graham Cluley, 12 Feb 2026, 18:47:52 UTC  
   [Leggi](<https://www.fortra.com/blog/urgent-warnings-uk-and-us-cyber-agencies-after-polish-energy-grid-attack>)
 
-- **La violazione dei dati di Odido espone le informazioni personali di 6,2 milioni di clienti**  
-  Fonte: BleepingComputer, 12 Feb 2026, 18:18:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/>)
-
 - **Google segnala alcuni hacker sostenuti dallo Stato che utilizzano l'intelligenza artificiale Gemini per ricognizioni e supporto agli attacchi**  
   Fonte: The Hacker News, 12 Feb 2026, 17:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html>)
-
-- **Plugin WordPress con 900.000 installazioni vulnerabili a difetti critici RCE**  
-  Fonte: BleepingComputer, 12 Feb 2026, 17:09:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/>)
 
 - **La campagna Lazarus inserisce pacchetti dannosi negli ecosistemi npm e PyPI**  
   Fonte: The Hacker News, 12 Feb 2026, 16:55:00 UTC  
@@ -118,7 +122,7 @@
   Fonte: The Hacker News, 12 Feb 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html>)
 
-- **Un hacker polacco è stato accusato sette anni dopo la massiccia violazione dei dati di Morele.net**  
+- **Un hacker polacco è stato denunciato sette anni dopo la massiccia violazione dei dati di Morele.net**  
   Fonte: Graham Cluley, 12 Feb 2026, 08:04:15 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/polish-hacker-charged-seven-years-after-massive-morele-net-data-breach>)
 
@@ -242,13 +246,5 @@
   Fonte: The Hacker News, 09 Feb 2026, 08:03:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html>)
 
-- **Aggiornamento settimanale 490**  
-  Fonte: Troy Hunt, 09 Feb 2026, 04:19:39 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-490/>)
 
-- **OpenClaw integra la scansione VirusTotal per rilevare le abilità dannose di ClawHub**  
-  Fonte: The Hacker News, 08 Feb 2026, 07:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-15 06:40:14 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-16 06:53:46 UTC -->
