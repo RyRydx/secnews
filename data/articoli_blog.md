@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 491**  
+  Fonte: Troy Hunt, 17 Feb 2026, 05:09:12 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-491/>)
+
+- **Il Washington Hotel in Giappone rivela un incidente di infezione da ransomware**  
+  Fonte: BleepingComputer, 16 Feb 2026, 21:10:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/>)
+
+- **Eurail afferma che i dati dei viaggiatori rubati sono ora in vendita sul dark web**  
+  Fonte: BleepingComputer, 16 Feb 2026, 19:19:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/>)
+
+- **Uomo arrestato per aver chiesto una ricompensa dopo la fuga accidentale di dati dalla polizia**  
+  Fonte: BleepingComputer, 16 Feb 2026, 19:13:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/man-arrested-for-demanding-reward-after-accidental-police-data-leak/>)
+
+- **Infostealer ruba file di configurazione dell'agente AI OpenClaw e token gateway**  
+  Fonte: The Hacker News, 16 Feb 2026, 18:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html>)
+
+- **Uno studio svela 25 attacchi di recupero password nei principali gestori di password cloud**  
+  Fonte: The Hacker News, 16 Feb 2026, 18:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html>)
+
+- **Rilevato malware Infostealer che ruba i segreti di OpenClaw per la prima volta**  
+  Fonte: BleepingComputer, 16 Feb 2026, 17:32:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/>)
+
+- **Da password a passkey: rimanere conformi alla norma ISO 27001 in un'era senza password**  
+  Fonte: BleepingComputer, 16 Feb 2026, 15:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/>)
+
+- **Riepilogo settimanale: dirottamento dei componenti aggiuntivi di Outlook, patch 0-Day, botnet wormable e malware AI**  
+  Fonte: The Hacker News, 16 Feb 2026, 12:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html>)
+
+- **La CISA concede ai federali 3 giorni per correggere la falla BeyondTrust attivamente sfruttata**  
+  Fonte: BleepingComputer, 16 Feb 2026, 12:33:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/>)
+
+- **La catena di uccisione del Promptware**  
+  Fonte: Schneier on Security, 16 Feb 2026, 12:04:01 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html>)
+
+- **Società elettronica sicura e inclusiva: come la Lituania si sta preparando alle frodi informatiche basate sull’intelligenza artificiale**  
+  Fonte: The Hacker News, 16 Feb 2026, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html>)
+
+- **Il nuovo spyware mobile ZeroDayRAT consente la sorveglianza in tempo reale e il furto di dati**  
+  Fonte: The Hacker News, 16 Feb 2026, 10:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html>)
+
+- **Quest'anno Google applica le patch al primo virus zero-day di Chrome sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 16 Feb 2026, 08:19:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/>)
+
+- **Nuovo Chrome Zero-Day (CVE-2026-2441) sotto attacco attivo: rilascio della patch**  
+  Fonte: The Hacker News, 16 Feb 2026, 06:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html>)
+
 - **Canada Goose indaga sulla fuga di 600.000 record di clienti da parte di hacker**  
   Fonte: BleepingComputer, 16 Feb 2026, 04:45:32 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/>)
@@ -22,7 +82,7 @@
   Fonte: BleepingComputer, 15 Feb 2026, 15:17:27 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/>)
 
-- **Microsoft rivela un attacco ClickFix basato su DNS utilizzando Nslookup per lo staging del malware**  
+- **Microsoft rivela un attacco ClickFix basato su DNS che utilizza Nslookup per lo staging del malware**  
   Fonte: The Hacker News, 15 Feb 2026, 14:10:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html>)
 
@@ -46,14 +106,6 @@
   Fonte: Schneier on Security, 13 Feb 2026, 22:08:39 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html>)
 
-- **Abusi degli artefatti di Claude LLM per spingere gli infostealer Mac nell'attacco ClickFix**  
-  Fonte: BleepingComputer, 13 Feb 2026, 20:21:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/>)
-
-- **Louis Vuitton, Dior e Tiffany multati di 25 milioni di dollari per violazione di dati**  
-  Fonte: BleepingComputer, 13 Feb 2026, 18:35:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/>)
-
 - **Google lega un presunto attore russo agli attacchi malware CANFAIL contro organizzazioni ucraine**  
   Fonte: The Hacker News, 13 Feb 2026, 17:27:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html>)
@@ -66,14 +118,6 @@
   Fonte: The Hacker News, 13 Feb 2026, 15:23:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html>)
 
-- **Trasformare gli avvisi IBM QRadar in azioni con IP criminale**  
-  Fonte: BleepingComputer, 13 Feb 2026, 15:05:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/>)
-
-- **CISA segnala il difetto critico di Microsoft SCCM come sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 13 Feb 2026, 12:35:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/>)
-
 - **Estensioni Chrome dannose scoperte a rubare dati aziendali, email e cronologia di navigazione**  
   Fonte: The Hacker News, 13 Feb 2026, 11:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html>)
@@ -82,21 +126,9 @@
   Fonte: The Hacker News, 13 Feb 2026, 10:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html>)
 
-- **Microsoft risolve il bug che bloccava l'avvio di Google Chrome**  
-  Fonte: BleepingComputer, 13 Feb 2026, 09:31:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/>)
-
 - **I ricercatori osservano lo sfruttamento in-the-wild della vulnerabilità BeyondTrust CVSS 9.9**  
   Fonte: The Hacker News, 13 Feb 2026, 08:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/researchers-observe-in-wild.html>)
-
-- **La Russia cerca di bloccare WhatsApp, Telegram nel blocco delle comunicazioni**  
-  Fonte: BleepingComputer, 12 Feb 2026, 22:57:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/>)
-
-- **Bitwarden introduce "Cupid Vault" per la condivisione sicura delle password**  
-  Fonte: BleepingComputer, 12 Feb 2026, 21:55:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/>)
 
 - **Avvertimenti urgenti da parte delle agenzie informatiche del Regno Unito e degli Stati Uniti dopo l'attacco alla rete energetica polacca**  
   Fonte: Graham Cluley, 12 Feb 2026, 18:47:52 UTC  
@@ -122,7 +154,7 @@
   Fonte: The Hacker News, 12 Feb 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html>)
 
-- **Un hacker polacco è stato denunciato sette anni dopo la massiccia violazione dei dati di Morele.net**  
+- **Un hacker polacco è stato accusato sette anni dopo la massiccia violazione dei dati di Morele.net**  
   Fonte: Graham Cluley, 12 Feb 2026, 08:04:15 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/polish-hacker-charged-seven-years-after-massive-morele-net-data-breach>)
 
@@ -141,10 +173,6 @@
 - **Trovato il primo componente aggiuntivo dannoso per Outlook che ruba oltre 4.000 credenziali Microsoft**  
   Fonte: The Hacker News, 11 Feb 2026, 17:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html>)
-
-- **La botnet Kimwolf palude la rete di anonimato I2P**  
-  Fonte: Krebs on Security, 11 Feb 2026, 16:08:11 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/>)
 
 - **APT36 e SideCopy lanciano campagne RAT multipiattaforma contro entità indiane**  
   Fonte: The Hacker News, 11 Feb 2026, 14:52:00 UTC  
@@ -178,10 +206,6 @@
   Fonte: The Hacker News, 11 Feb 2026, 06:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html>)
 
-- **Patch Tuesday, edizione febbraio 2026**  
-  Fonte: Krebs on Security, 10 Feb 2026, 21:49:53 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/>)
-
 - **Gli agenti della RPDC si spacciano per professionisti su LinkedIn per infiltrarsi nelle aziende**  
   Fonte: The Hacker News, 10 Feb 2026, 17:44:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/dprk-operatives-impersonate.html>)
@@ -214,37 +238,5 @@
   Fonte: The Hacker News, 10 Feb 2026, 08:22:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html>)
 
-- **L'UNC3886 collegato alla Cina prende di mira il settore delle telecomunicazioni di Singapore nella campagna di spionaggio informatico**  
-  Fonte: The Hacker News, 09 Feb 2026, 17:01:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html>)
 
-- **L'Help Desk Web di SolarWinds viene sfruttato per RCE in attacchi multifase su server esposti**  
-  Fonte: The Hacker News, 09 Feb 2026, 14:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html>)
-
-- **⚡ Riepilogo settimanale: malware AI Skill, DDoS da 31 Tbps, hacking di Notepad++, backdoor LLM e altro ancora**  
-  Fonte: The Hacker News, 09 Feb 2026, 12:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html>)
-
-- **Gli LLM stanno diventando molto migliori e più veloci nel trovare e sfruttare gli zero-day**  
-  Fonte: Schneier on Security, 09 Feb 2026, 12:04:29 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days.html>)
-
-- **Come i migliori CISO risolvono il burnout e accelerano l'MTTR senza assunzioni aggiuntive**  
-  Fonte: The Hacker News, 09 Feb 2026, 11:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html>)
-
-- **Bloody Wolf prende di mira l'Uzbekistan e la Russia utilizzando NetSupport RAT nella campagna di spear-phishing**  
-  Fonte: The Hacker News, 09 Feb 2026, 10:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html>)
-
-- **Il worm TeamPCP sfrutta l'infrastruttura cloud per creare un'infrastruttura criminale**  
-  Fonte: The Hacker News, 09 Feb 2026, 08:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html>)
-
-- **BeyondTrust risolve una vulnerabilità critica RCE pre-autenticazione nel supporto remoto e nel PRA**  
-  Fonte: The Hacker News, 09 Feb 2026, 08:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-16 06:53:46 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-17 06:46:35 UTC -->
