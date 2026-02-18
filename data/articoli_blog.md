@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **La Spagna ordina a NordVPN e ProtonVPN di bloccare i siti di pirateria LaLiga**  
+  Fonte: BleepingComputer, 17 Feb 2026, 23:15:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/>)
+
+- **I difetti nelle popolari estensioni VSCode espongono gli sviluppatori ad attacchi**  
+  Fonte: BleepingComputer, 17 Feb 2026, 21:27:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/>)
+
+- **Hacker cinesi che sfruttano la falla zero-day di Dell dalla metà del 2024**  
+  Fonte: BleepingComputer, 17 Feb 2026, 20:15:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/>)
+
+- **Webinar: come i moderni team SOC utilizzano l'intelligenza artificiale e il contesto per indagare più rapidamente sulle violazioni del cloud**  
+  Fonte: The Hacker News, 17 Feb 2026, 19:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html>)
+
+- **Notepad++ aumenta la sicurezza degli aggiornamenti con il meccanismo di "doppio blocco".**  
+  Fonte: BleepingComputer, 17 Feb 2026, 18:29:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/>)
+
+- **I ricercatori dimostrano che Copilot e Grok possono essere utilizzati in modo improprio come proxy C2 malware**  
+  Fonte: The Hacker News, 17 Feb 2026, 18:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html>)
+
+- **La backdoor del firmware Keenadu infetta i tablet Android tramite aggiornamenti OTA firmati**  
+  Fonte: The Hacker News, 17 Feb 2026, 16:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html>)
+
+- **L'interruzione di Microsoft Teams colpisce gli utenti negli Stati Uniti e in Europa**  
+  Fonte: BleepingComputer, 17 Feb 2026, 15:37:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/>)
+
+- **Cosa hanno rivelato 5 milioni di app sui segreti di JavaScript**  
+  Fonte: BleepingComputer, 17 Feb 2026, 14:40:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/>)
+
+- **Nuova backdoor Keenadu trovata nel firmware Android e nelle app Google Play**  
+  Fonte: BleepingComputer, 17 Feb 2026, 14:05:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/>)
+
+- **L'attacco SmartLoader utilizza il server Oura MCP con trojan per distribuire StealC Infostealer**  
+  Fonte: The Hacker News, 17 Feb 2026, 12:42:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html>)
+
+- **Attacchi del canale laterale contro gli LLM**  
+  Fonte: Schneier on Security, 17 Feb 2026, 12:01:45 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html>)
+
+- **La Polonia arresta un sospetto legato all'operazione ransomware Phobos**  
+  Fonte: BleepingComputer, 17 Feb 2026, 11:31:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/>)
+
+- **La mia giornata sporcandomi le mani con un sistema NDR**  
+  Fonte: The Hacker News, 17 Feb 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html>)
+
+- **Ora anche l'Irlanda sta indagando su X sulle immagini sessuali realizzate da Grok**  
+  Fonte: BleepingComputer, 17 Feb 2026, 10:02:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/>)
+
+- **Microsoft scopre che i suggerimenti "Riepiloga con l'intelligenza artificiale" manipolano i consigli di Chatbot**  
+  Fonte: The Hacker News, 17 Feb 2026, 09:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html>)
+
+- **Apple testa la messaggistica RCS crittografata end-to-end nella beta per sviluppatori di iOS 26.4**  
+  Fonte: The Hacker News, 17 Feb 2026, 06:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html>)
+
 - **Aggiornamento settimanale 491**  
   Fonte: Troy Hunt, 17 Feb 2026, 05:09:12 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-491/>)
@@ -54,53 +122,17 @@
   Fonte: The Hacker News, 16 Feb 2026, 10:24:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html>)
 
-- **Quest'anno Google applica le patch al primo virus zero-day di Chrome sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 16 Feb 2026, 08:19:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/>)
-
 - **Nuovo Chrome Zero-Day (CVE-2026-2441) sotto attacco attivo: rilascio della patch**  
   Fonte: The Hacker News, 16 Feb 2026, 06:38:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html>)
 
-- **Canada Goose indaga sulla fuga di 600.000 record di clienti da parte di hacker**  
-  Fonte: BleepingComputer, 16 Feb 2026, 04:45:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/>)
-
-- **Il nuovo attacco ClickFix sfrutta nslookup per recuperare il payload di PowerShell tramite DNS**  
-  Fonte: BleepingComputer, 16 Feb 2026, 00:29:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/>)
-
-- **Windows 11 KB5077181 risolve gli errori di avvio legati ad aggiornamenti non riusciti**  
-  Fonte: BleepingComputer, 15 Feb 2026, 22:08:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/>)
-
-- **CTM360: campagna malware Lumma Stealer e Ninja Browser che abusa di Google Gruppi**  
-  Fonte: BleepingComputer, 15 Feb 2026, 16:30:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/>)
-
-- **I commenti di Pastebin spingono l'attacco JavaScript di ClickFix per dirottare gli scambi di criptovalute**  
-  Fonte: BleepingComputer, 15 Feb 2026, 15:17:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/>)
-
-- **Microsoft rivela un attacco ClickFix basato su DNS che utilizza Nslookup per lo staging del malware**  
+- **Microsoft rivela un attacco ClickFix basato su DNS utilizzando Nslookup per lo staging del malware**  
   Fonte: The Hacker News, 15 Feb 2026, 14:10:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html>)
 
 - **Prossimi impegni di conferenza**  
   Fonte: Schneier on Security, 14 Feb 2026, 17:04:59 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html>)
-
-- **Un attore delle minacce responsabile dell'83% dei recenti attacchi Ivanti RCE**  
-  Fonte: BleepingComputer, 14 Feb 2026, 16:02:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/>)
-
-- **Le lettere di posta ordinaria prendono di mira gli utenti di Trezor e Ledger in attacchi di furto di criptovalute**  
-  Fonte: BleepingComputer, 14 Feb 2026, 15:15:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/>)
-
-- **I reclutatori di posti di lavoro falsi nascondono malware nelle sfide di codifica degli sviluppatori**  
-  Fonte: BleepingComputer, 13 Feb 2026, 22:35:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/>)
 
 - **Blogging sui calamari del venerdì: i calamari sognano?**  
   Fonte: Schneier on Security, 13 Feb 2026, 22:08:39 UTC  
@@ -154,7 +186,7 @@
   Fonte: The Hacker News, 12 Feb 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html>)
 
-- **Un hacker polacco è stato accusato sette anni dopo la massiccia violazione dei dati di Morele.net**  
+- **Un hacker polacco è stato denunciato sette anni dopo la massiccia violazione dei dati di Morele.net**  
   Fonte: Graham Cluley, 12 Feb 2026, 08:04:15 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/polish-hacker-charged-seven-years-after-massive-morele-net-data-breach>)
 
@@ -202,41 +234,5 @@
   Fonte: The Hacker News, 11 Feb 2026, 09:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html>)
 
-- **L'UNC1069 legato alla Corea del Nord utilizza esche artificiali per attaccare le organizzazioni di criptovaluta**  
-  Fonte: The Hacker News, 11 Feb 2026, 06:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html>)
 
-- **Gli agenti della RPDC si spacciano per professionisti su LinkedIn per infiltrarsi nelle aziende**  
-  Fonte: The Hacker News, 10 Feb 2026, 17:44:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/dprk-operatives-impersonate.html>)
-
-- **Reynolds Ransomware incorpora il driver BYOVD per disabilitare gli strumenti di sicurezza EDR**  
-  Fonte: The Hacker News, 10 Feb 2026, 14:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html>)
-
-- **Dal ransomware alla residenza: dentro l'ascesa del parassita digitale**  
-  Fonte: The Hacker News, 10 Feb 2026, 13:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html>)
-
-- **Fortinet corregge il difetto critico SQLi che consente l'esecuzione di codice non autenticato**  
-  Fonte: The Hacker News, 10 Feb 2026, 13:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html>)
-
-- **Testo generato dall'intelligenza artificiale e corsa agli armamenti nel rilevamento**  
-  Fonte: Schneier on Security, 10 Feb 2026, 12:03:50 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/the-ai-generated-text-arms-race.html>)
-
-- **ZAST.AI raccoglie 6 milioni di dollari Pre-A per aumentare la sicurezza del codice "Zero falsi positivi" basata sull'intelligenza artificiale**  
-  Fonte: The Hacker News, 10 Feb 2026, 11:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html>)
-
-- **Warlock Ransomware viola SmarterTools attraverso il server SmarterMail senza patch**  
-  Fonte: The Hacker News, 10 Feb 2026, 10:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/warlock-ransomware-breaches.html>)
-
-- **Le autorità olandesi confermano i dati di contatto dei dipendenti scoperti in Ivanti Zero-Day Exploit**  
-  Fonte: The Hacker News, 10 Feb 2026, 08:22:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-17 06:46:35 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-18 06:51:09 UTC -->
