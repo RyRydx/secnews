@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Podcast di Smashing Security n. 455: Faccia a faccia: gli occhiali di Meta e il kill switch americano di Internet**  
+  Fonte: Graham Cluley, 19 Feb 2026, 00:30:44 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-455/>)
+
+- **Infrarossi critici CCTV Honeywell vulnerabili al difetto di bypass di autenticazione**  
+  Fonte: BleepingComputer, 18 Feb 2026, 20:58:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/>)
+
+- **Le piattaforme AI possono essere utilizzate in modo improprio per comunicazioni clandestine di malware**  
+  Fonte: BleepingComputer, 18 Feb 2026, 20:18:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/>)
+
+- **Citizen Lab trova lo strumento Cellebrite utilizzato sul telefono di un attivista keniota sotto custodia di polizia**  
+  Fonte: The Hacker News, 18 Feb 2026, 17:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html>)
+
+- **Telefoni VoIP Grandstream GXP1600 esposti all'esecuzione di codice remoto non autenticato**  
+  Fonte: The Hacker News, 18 Feb 2026, 16:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html>)
+
+- **I canali di Telegram mettono in luce la rapida trasformazione in arma dei difetti di SmarterMail**  
+  Fonte: BleepingComputer, 18 Feb 2026, 16:27:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/>)
+
+- **Microsoft: le regole anti-phishing hanno bloccato erroneamente email, messaggi di Teams**  
+  Fonte: BleepingComputer, 18 Feb 2026, 16:26:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/>)
+
+- **Violazione dei dati presso un'azienda fintech La cifra colpisce quasi 1 milione di account**  
+  Fonte: BleepingComputer, 18 Feb 2026, 14:01:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/>)
+
+- **Difetti critici riscontrati in quattro estensioni VS Code con oltre 125 milioni di installazioni**  
+  Fonte: The Hacker News, 18 Feb 2026, 13:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html>)
+
+- **L'intelligenza artificiale ha rilevato dodici nuove vulnerabilità in OpenSSL**  
+  Fonte: Schneier on Security, 18 Feb 2026, 12:03:10 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html>)
+
+- **Microsoft afferma che il bug fa sì che Copilot riepiloghi le e-mail riservate**  
+  Fonte: BleepingComputer, 18 Feb 2026, 12:03:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/>)
+
+- **Previsioni tecnologiche sulla sicurezza informatica per il 2026: operare in un mondo di instabilità permanente**  
+  Fonte: The Hacker News, 18 Feb 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html>)
+
+- **La polizia olandese arresta un uomo per "hacking" dopo avergli accidentalmente inviato file riservati**  
+  Fonte: Graham Cluley, 18 Feb 2026, 10:52:29 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/dutch-police-arrest-man-hacking-accidentally-sending-confidential-files>)
+
+- **L'uomo di Glendale viene condannato a 5 anni di prigione per il suo ruolo nel giro della droga nella darknet**  
+  Fonte: BleepingComputer, 18 Feb 2026, 10:50:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/>)
+
+- **Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 sfruttato dalla metà del 2024**  
+  Fonte: The Hacker News, 18 Feb 2026, 10:32:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html>)
+
+- **3 modi per avviare il tuo programma di flusso di lavoro intelligente**  
+  Fonte: The Hacker News, 18 Feb 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html>)
+
+- **Notepad++ Risolve il meccanismo di aggiornamento compromesso utilizzato per distribuire malware mirato**  
+  Fonte: The Hacker News, 18 Feb 2026, 07:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html>)
+
+- **CISA segnala quattro difetti di sicurezza sotto sfruttamento attivo nell'ultimo aggiornamento KEV**  
+  Fonte: The Hacker News, 18 Feb 2026, 06:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html>)
+
 - **La Spagna ordina a NordVPN e ProtonVPN di bloccare i siti di pirateria LaLiga**  
   Fonte: BleepingComputer, 17 Feb 2026, 23:15:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/>)
@@ -58,10 +130,6 @@
   Fonte: The Hacker News, 17 Feb 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html>)
 
-- **Ora anche l'Irlanda sta indagando su X sulle immagini sessuali realizzate da Grok**  
-  Fonte: BleepingComputer, 17 Feb 2026, 10:02:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/>)
-
 - **Microsoft scopre che i suggerimenti "Riepiloga con l'intelligenza artificiale" manipolano i consigli di Chatbot**  
   Fonte: The Hacker News, 17 Feb 2026, 09:31:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html>)
@@ -74,18 +142,6 @@
   Fonte: Troy Hunt, 17 Feb 2026, 05:09:12 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-491/>)
 
-- **Il Washington Hotel in Giappone rivela un incidente di infezione da ransomware**  
-  Fonte: BleepingComputer, 16 Feb 2026, 21:10:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/>)
-
-- **Eurail afferma che i dati dei viaggiatori rubati sono ora in vendita sul dark web**  
-  Fonte: BleepingComputer, 16 Feb 2026, 19:19:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/>)
-
-- **Uomo arrestato per aver chiesto una ricompensa dopo la fuga accidentale di dati dalla polizia**  
-  Fonte: BleepingComputer, 16 Feb 2026, 19:13:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/man-arrested-for-demanding-reward-after-accidental-police-data-leak/>)
-
 - **Infostealer ruba file di configurazione dell'agente AI OpenClaw e token gateway**  
   Fonte: The Hacker News, 16 Feb 2026, 18:43:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html>)
@@ -94,21 +150,9 @@
   Fonte: The Hacker News, 16 Feb 2026, 18:06:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html>)
 
-- **Rilevato malware Infostealer che ruba i segreti di OpenClaw per la prima volta**  
-  Fonte: BleepingComputer, 16 Feb 2026, 17:32:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/>)
-
-- **Da password a passkey: rimanere conformi alla norma ISO 27001 in un'era senza password**  
-  Fonte: BleepingComputer, 16 Feb 2026, 15:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/>)
-
 - **Riepilogo settimanale: dirottamento dei componenti aggiuntivi di Outlook, patch 0-Day, botnet wormable e malware AI**  
   Fonte: The Hacker News, 16 Feb 2026, 12:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html>)
-
-- **La CISA concede ai federali 3 giorni per correggere la falla BeyondTrust attivamente sfruttata**  
-  Fonte: BleepingComputer, 16 Feb 2026, 12:33:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/>)
 
 - **La catena di uccisione del Promptware**  
   Fonte: Schneier on Security, 16 Feb 2026, 12:04:01 UTC  
@@ -194,45 +238,5 @@
   Fonte: The Hacker News, 12 Feb 2026, 07:32:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html>)
 
-- **Apple risolve gli zero-day sfruttati che interessano iOS, macOS e altri dispositivi**  
-  Fonte: The Hacker News, 12 Feb 2026, 05:39:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html>)
 
-- **Podcast #454 di Smashing Security: L’intelligenza artificiale non stava pianificando la fine dell’umanità.Gli esseri umani lo erano**  
-  Fonte: Graham Cluley, 12 Feb 2026, 00:30:32 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-454/>)
-
-- **Trovato il primo componente aggiuntivo dannoso per Outlook che ruba oltre 4.000 credenziali Microsoft**  
-  Fonte: The Hacker News, 11 Feb 2026, 17:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html>)
-
-- **APT36 e SideCopy lanciano campagne RAT multipiattaforma contro entità indiane**  
-  Fonte: The Hacker News, 11 Feb 2026, 14:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html>)
-
-- **L'ebook Ricablaggio della democrazia è in vendita**  
-  Fonte: Schneier on Security, 11 Feb 2026, 14:48:14 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html>)
-
-- **Oltre 60 fornitori di software rilasciano correzioni di sicurezza su sistemi operativi, cloud e piattaforme di rete**  
-  Fonte: The Hacker News, 11 Feb 2026, 13:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html>)
-
-- **Iniezione rapida tramite segnaletica stradale**  
-  Fonte: Schneier on Security, 11 Feb 2026, 12:03:22 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html>)
-
-- **La formazione esposta apre le porte al crypto-mining negli ambienti cloud Fortune 500**  
-  Fonte: The Hacker News, 11 Feb 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html>)
-
-- **Microsoft corregge 59 vulnerabilità, tra cui sei zero-day sfruttati attivamente**  
-  Fonte: The Hacker News, 11 Feb 2026, 10:22:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html>)
-
-- **La botnet SSHStalker utilizza IRC C2 per controllare i sistemi Linux tramite exploit del kernel legacy**  
-  Fonte: The Hacker News, 11 Feb 2026, 09:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-18 06:51:09 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-19 06:50:12 UTC -->
