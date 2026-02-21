@@ -2,7 +2,79 @@
 
 ## Ultimi 7 giorni
 
-- **Tre ex ingegneri di Google incriminati per aver trasferito segreti commerciali all'Iran**  
+- **La polizia spagnola afferma di aver arrestato un hacker che prenotava camere d'albergo di lusso per un solo centesimo**  
+  Fonte: Graham Cluley, 20 Feb 2026, 22:54:10 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/spanish-police-say-they-have-arrested-hacker-who-booked-luxury-hotel-rooms-for-just-one-cent>)
+
+- **Blog sui calamari del venerdì: cartoni animati di calamari**  
+  Fonte: Schneier on Security, 20 Feb 2026, 22:05:15 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-cartoon-3.html>)
+
+- **Proxy del servizio di phishing "Starkiller" Pagine di accesso reali, MFA**  
+  Fonte: Krebs on Security, 20 Feb 2026, 20:00:30 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/>)
+
+- **Il gigante tecnologico giapponese Advantest colpito da un attacco ransomware**  
+  Fonte: BleepingComputer, 20 Feb 2026, 18:30:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/>)
+
+- **CISA: falla BeyondTrust RCE ora sfruttata negli attacchi ransomware**  
+  Fonte: BleepingComputer, 20 Feb 2026, 17:02:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/>)
+
+- **La violazione dei dati nel registro delle banche francesi colpisce 1,2 milioni di conti**  
+  Fonte: BleepingComputer, 20 Feb 2026, 16:20:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/>)
+
+- **Difetto BeyondTrust utilizzato per web shell, backdoor ed esfiltrazione di dati**  
+  Fonte: The Hacker News, 20 Feb 2026, 15:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html>)
+
+- **Perché il sogno dello spostamento a sinistra è diventato un incubo per la sicurezza e gli sviluppatori**  
+  Fonte: BleepingComputer, 20 Feb 2026, 14:45:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/>)
+
+- **Cline CLI 2.3.0 Supply Chain Attack ha installato OpenClaw sui sistemi degli sviluppatori**  
+  Fonte: The Hacker News, 20 Feb 2026, 14:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html>)
+
+- **PayPal rivela una violazione dei dati che ha esposto le informazioni dell'utente per 6 mesi**  
+  Fonte: BleepingComputer, 20 Feb 2026, 13:12:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/>)
+
+- **Ring annulla la sua partnership con Flock**  
+  Fonte: Schneier on Security, 20 Feb 2026, 12:08:51 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/ring-cancels-its-partnership-with-flock.html>)
+
+- **La campagna ClickFix abusa di siti compromessi per distribuire malware MIMICRAT**  
+  Fonte: The Hacker News, 20 Feb 2026, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html>)
+
+- **Il centro medico del Mississippi chiude tutte le cliniche dopo l'attacco ransomware**  
+  Fonte: BleepingComputer, 20 Feb 2026, 11:50:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/>)
+
+- **Identity Cyber ​​Scores: la nuova metrica che modella la cyber assicurazione nel 2026**  
+  Fonte: The Hacker News, 20 Feb 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html>)
+
+- **FBI: oltre 20 milioni di dollari rubati a causa dell'ondata di attacchi malware agli sportelli bancomat nel 2025**  
+  Fonte: BleepingComputer, 20 Feb 2026, 10:08:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/>)
+
+- **Un cittadino ucraino condannato a 5 anni in un caso di frode di un lavoratore informatico in Corea del Nord**  
+  Fonte: The Hacker News, 20 Feb 2026, 09:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html>)
+
+- **L'Ucraina ottiene 5 anni per aver aiutato i nordcoreani a infiltrarsi nelle aziende americane**  
+  Fonte: BleepingComputer, 20 Feb 2026, 09:00:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/>)
+
+- **L'FBI segnala 1.900 incidenti di jackpotting bancomat dal 2020, 20 milioni di dollari persi nel 2025**  
+  Fonte: The Hacker News, 20 Feb 2026, 08:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html>)
+
+- **Ex ingegneri di Google incriminati per aver trasferito segreti commerciali all'Iran**  
   Fonte: The Hacker News, 20 Feb 2026, 05:27:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html>)
 
@@ -50,10 +122,6 @@
   Fonte: BleepingComputer, 19 Feb 2026, 12:36:51 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/>)
 
-- **Gli hacker prendono di mira gli account Microsoft Entra negli attacchi di vishing del codice del dispositivo**  
-  Fonte: BleepingComputer, 19 Feb 2026, 12:30:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/>)
-
 - **IA dannosa**  
   Fonte: Schneier on Security, 19 Feb 2026, 12:05:39 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/02/malicious-ai.html>)
@@ -62,17 +130,9 @@
   Fonte: The Hacker News, 19 Feb 2026, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html>)
 
-- **La polizia arresta 651 sospetti nella repressione della criminalità informatica africana**  
-  Fonte: BleepingComputer, 19 Feb 2026, 11:24:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/>)
-
 - **App IPTV false diffondono massicci malware Android che prendono di mira gli utenti di servizi bancari mobili**  
   Fonte: The Hacker News, 19 Feb 2026, 10:24:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html>)
-
-- **Il nuovo malware bancario Android "Massiv" si presenta come un'app IPTV**  
-  Fonte: BleepingComputer, 19 Feb 2026, 10:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/>)
 
 - **La campagna CRESCENTHARVEST prende di mira i sostenitori della protesta iraniana con il malware RAT**  
   Fonte: The Hacker News, 19 Feb 2026, 08:13:00 UTC  
@@ -82,14 +142,6 @@
   Fonte: Graham Cluley, 19 Feb 2026, 00:30:44 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-455/>)
 
-- **Infrarossi critici CCTV Honeywell vulnerabili al difetto di bypass di autenticazione**  
-  Fonte: BleepingComputer, 18 Feb 2026, 20:58:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/>)
-
-- **Le piattaforme AI possono essere utilizzate in modo improprio per comunicazioni clandestine di malware**  
-  Fonte: BleepingComputer, 18 Feb 2026, 20:18:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/>)
-
 - **Citizen Lab trova lo strumento Cellebrite utilizzato sul telefono di un attivista keniota sotto custodia di polizia**  
   Fonte: The Hacker News, 18 Feb 2026, 17:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html>)
@@ -97,18 +149,6 @@
 - **Telefoni VoIP Grandstream GXP1600 esposti all'esecuzione di codice remoto non autenticato**  
   Fonte: The Hacker News, 18 Feb 2026, 16:35:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html>)
-
-- **I canali di Telegram mettono in luce la rapida trasformazione in arma dei difetti di SmarterMail**  
-  Fonte: BleepingComputer, 18 Feb 2026, 16:27:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/>)
-
-- **Microsoft: le regole anti-phishing hanno bloccato erroneamente email, messaggi di Teams**  
-  Fonte: BleepingComputer, 18 Feb 2026, 16:26:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/>)
-
-- **Violazione dei dati presso un'azienda fintech La cifra colpisce quasi 1 milione di account**  
-  Fonte: BleepingComputer, 18 Feb 2026, 14:01:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/>)
 
 - **Difetti critici riscontrati in quattro estensioni VS Code con oltre 125 milioni di installazioni**  
   Fonte: The Hacker News, 18 Feb 2026, 13:16:00 UTC  
@@ -214,33 +254,5 @@
   Fonte: Schneier on Security, 14 Feb 2026, 17:04:59 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html>)
 
-- **Blogging sui calamari del venerdì: i calamari sognano?**  
-  Fonte: Schneier on Security, 13 Feb 2026, 22:08:39 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html>)
 
-- **Google lega un presunto attore russo agli attacchi malware CANFAIL contro organizzazioni ucraine**  
-  Fonte: The Hacker News, 13 Feb 2026, 17:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html>)
-
-- **Google collega Cina, Iran, Russia e Corea del Nord alle operazioni informatiche coordinate del settore della difesa**  
-  Fonte: The Hacker News, 13 Feb 2026, 16:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html>)
-
-- **UAT-9921 distribuisce il malware VoidLink per colpire i settori tecnologico e finanziario**  
-  Fonte: The Hacker News, 13 Feb 2026, 15:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html>)
-
-- **Estensioni Chrome dannose scoperte a rubare dati aziendali, email e cronologia di navigazione**  
-  Fonte: The Hacker News, 13 Feb 2026, 11:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html>)
-
-- **Aggiornamento di npm per rafforzare la catena di fornitura e punti da considerare**  
-  Fonte: The Hacker News, 13 Feb 2026, 10:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html>)
-
-- **I ricercatori osservano lo sfruttamento in-the-wild della vulnerabilità CVSS 9.9 di BeyondTrust**  
-  Fonte: The Hacker News, 13 Feb 2026, 08:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/researchers-observe-in-wild.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-20 06:43:42 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-21 06:30:40 UTC -->
