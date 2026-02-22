@@ -2,7 +2,31 @@
 
 ## Ultimi 7 giorni
 
-- **La polizia spagnola afferma di aver arrestato un hacker che prenotava camere d'albergo di lusso per un solo centesimo**  
+- **Lo spyware Predator aggancia la SpringBoard di iOS per nascondere l'attività del microfono e della fotocamera**  
+  Fonte: BleepingComputer, 21 Feb 2026, 16:13:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/>)
+
+- **L'attore di minacce assistito dall'intelligenza artificiale compromette oltre 600 dispositivi FortiGate in 55 paesi**  
+  Fonte: The Hacker News, 21 Feb 2026, 14:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html>)
+
+- **Amazon: un hacker assistito dall'intelligenza artificiale ha violato 600 firewall Fortinet in 5 settimane**  
+  Fonte: BleepingComputer, 21 Feb 2026, 13:50:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/>)
+
+- **Anthropic lancia Claude Code Security per la scansione delle vulnerabilità basata sull'intelligenza artificiale**  
+  Fonte: The Hacker News, 21 Feb 2026, 07:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html>)
+
+- **CISA aggiunge due difetti di Roundcube attivamente sfruttati al catalogo KEV**  
+  Fonte: The Hacker News, 21 Feb 2026, 07:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html>)
+
+- **Il Consiglio della CE amplia il portafoglio di certificazioni sull’intelligenza artificiale per rafforzare la preparazione e la sicurezza della forza lavoro statunitense impegnata nell’intelligenza artificiale**  
+  Fonte: The Hacker News, 21 Feb 2026, 04:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html>)
+
+- **La polizia spagnola afferma di aver arrestato un hacker che prenotava camere d'albergo di lusso per appena un centesimo**  
   Fonte: Graham Cluley, 20 Feb 2026, 22:54:10 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/spanish-police-say-they-have-arrested-hacker-who-booked-luxury-hotel-rooms-for-just-one-cent>)
 
@@ -62,7 +86,7 @@
   Fonte: BleepingComputer, 20 Feb 2026, 10:08:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/>)
 
-- **Un cittadino ucraino condannato a 5 anni in un caso di frode di un lavoratore informatico in Corea del Nord**  
+- **Un cittadino ucraino condannato a 5 anni per un caso di frode su un lavoratore informatico in Corea del Nord**  
   Fonte: The Hacker News, 20 Feb 2026, 09:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html>)
 
@@ -113,14 +137,6 @@
 - **Bollettino del ThreatsDay: OpenSSL RCE, Foxit 0-Days, fuga di informazioni da Copilot, difetti delle password AI e oltre 20 storie**  
   Fonte: The Hacker News, 19 Feb 2026, 14:35:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html>)
-
-- **Un uomo nigeriano viene condannato a otto anni di carcere per aver hackerato studi fiscali**  
-  Fonte: BleepingComputer, 19 Feb 2026, 13:51:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/>)
-
-- **Il Texas fa causa a TP-Link per i rischi di hacking cinese e l'inganno degli utenti**  
-  Fonte: BleepingComputer, 19 Feb 2026, 12:36:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/>)
 
 - **IA dannosa**  
   Fonte: Schneier on Security, 19 Feb 2026, 12:05:39 UTC  
@@ -202,7 +218,7 @@
   Fonte: Schneier on Security, 17 Feb 2026, 12:01:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html>)
 
-- **La mia giornata sporcandomi le mani con un sistema NDR**  
+- **La mia giornata in cui mi sporco le mani con un sistema NDR**  
   Fonte: The Hacker News, 17 Feb 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html>)
 
@@ -242,17 +258,13 @@
   Fonte: The Hacker News, 16 Feb 2026, 10:24:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html>)
 
-- **Nuovo Chrome Zero-Day (CVE-2026-2441) sotto attacco attivo: rilascio della patch**  
+- **Nuovo Chrome Zero-Day (CVE-2026-2441) sotto attacco attivo: patch rilasciata**  
   Fonte: The Hacker News, 16 Feb 2026, 06:38:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html>)
 
-- **Microsoft rivela un attacco ClickFix basato su DNS utilizzando Nslookup per lo staging del malware**  
+- **Microsoft rivela un attacco ClickFix basato su DNS che utilizza Nslookup per lo staging del malware**  
   Fonte: The Hacker News, 15 Feb 2026, 14:10:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html>)
 
-- **Prossimi impegni di conferenza**  
-  Fonte: Schneier on Security, 14 Feb 2026, 17:04:59 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-02-21 06:30:40 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-22 06:36:58 UTC -->
