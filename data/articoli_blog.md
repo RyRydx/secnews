@@ -2,6 +2,10 @@
 
 ## Ultimi 7 giorni
 
+- **Arkanix Stealer si presenta come un esperimento di breve durata sul furto di informazioni sull'intelligenza artificiale**  
+  Fonte: BleepingComputer, 22 Feb 2026, 15:33:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/>)
+
 - **Lo spyware Predator aggancia la SpringBoard di iOS per nascondere l'attività del microfono e della fotocamera**  
   Fonte: BleepingComputer, 21 Feb 2026, 16:13:24 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/>)
@@ -86,7 +90,7 @@
   Fonte: BleepingComputer, 20 Feb 2026, 10:08:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/>)
 
-- **Un cittadino ucraino condannato a 5 anni per un caso di frode su un lavoratore informatico in Corea del Nord**  
+- **Un cittadino ucraino condannato a 5 anni in un caso di frode di un lavoratore informatico in Corea del Nord**  
   Fonte: The Hacker News, 20 Feb 2026, 09:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html>)
 
@@ -129,10 +133,6 @@
 - **La CISA ordina ai federali di correggere la falla Dell sfruttata attivamente entro 3 giorni**  
   Fonte: BleepingComputer, 19 Feb 2026, 15:30:37 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/>)
-
-- **Come gli infostealer trasformano le credenziali rubate in identità reali**  
-  Fonte: BleepingComputer, 19 Feb 2026, 15:05:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/>)
 
 - **Bollettino del ThreatsDay: OpenSSL RCE, Foxit 0-Days, fuga di informazioni da Copilot, difetti delle password AI e oltre 20 storie**  
   Fonte: The Hacker News, 19 Feb 2026, 14:35:00 UTC  
@@ -222,7 +222,7 @@
   Fonte: The Hacker News, 17 Feb 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html>)
 
-- **Microsoft scopre che i suggerimenti "Riassumi con l'intelligenza artificiale" manipolano i consigli di Chatbot**  
+- **Microsoft scopre che i suggerimenti "Riepiloga con l'intelligenza artificiale" manipolano i consigli di Chatbot**  
   Fonte: The Hacker News, 17 Feb 2026, 09:31:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html>)
 
@@ -258,13 +258,5 @@
   Fonte: The Hacker News, 16 Feb 2026, 10:24:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html>)
 
-- **Nuovo Chrome Zero-Day (CVE-2026-2441) sotto attacco attivo: patch rilasciata**  
-  Fonte: The Hacker News, 16 Feb 2026, 06:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html>)
 
-- **Microsoft rivela un attacco ClickFix basato su DNS che utilizza Nslookup per lo staging del malware**  
-  Fonte: The Hacker News, 15 Feb 2026, 14:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-22 06:36:58 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-23 06:54:49 UTC -->
