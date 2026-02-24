@@ -2,6 +2,62 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 492**  
+  Fonte: Troy Hunt, 24 Feb 2026, 00:38:59 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-492/>)
+
+- **App Android per la salute mentale con 14,7 milioni di installazioni piene di falle di sicurezza**  
+  Fonte: BleepingComputer, 23 Feb 2026, 22:59:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/>)
+
+- **La Spagna arresta presunti hacktivisti per siti governativi DDoS**  
+  Fonte: BleepingComputer, 23 Feb 2026, 21:59:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/>)
+
+- **APT28 ha preso di mira entità europee utilizzando macro malware basati su webhook**  
+  Fonte: The Hacker News, 23 Feb 2026, 19:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html>)
+
+- **Microsoft afferma che il bug nel classico Outlook nasconde il puntatore del mouse**  
+  Fonte: BleepingComputer, 23 Feb 2026, 19:40:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/>)
+
+- **La società di tecnologia pubblicitaria Optimizely conferma la violazione dei dati dopo l'attacco Vishing**  
+  Fonte: BleepingComputer, 23 Feb 2026, 18:04:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/>)
+
+- **La campagna Wormable XMRig utilizza l'exploit BYOVD e la bomba logica basata sul tempo**  
+  Fonte: The Hacker News, 23 Feb 2026, 17:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html>)
+
+- **Quando l’identità non è l’anello debole, l’accesso lo è ancora**  
+  Fonte: BleepingComputer, 23 Feb 2026, 15:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/>)
+
+- **⚡ Riepilogo settimanale: skimmer a doppio tocco, PromptSpy AI, DDoS da 30 Tbps, malware Docker e altro**  
+  Fonte: The Hacker News, 23 Feb 2026, 13:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html>)
+
+- **Sulla sicurezza dei gestori di password**  
+  Fonte: Schneier on Security, 23 Feb 2026, 12:03:33 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html>)
+
+- **In che modo gli endpoint esposti aumentano il rischio nell'infrastruttura LLM**  
+  Fonte: The Hacker News, 23 Feb 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html>)
+
+- **CISA: i difetti RoundCube corretti di recente ora vengono sfruttati negli attacchi**  
+  Fonte: BleepingComputer, 23 Feb 2026, 11:44:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/>)
+
+- **I pacchetti npm dannosi raccolgono chiavi crittografiche, segreti CI e token API**  
+  Fonte: The Hacker News, 23 Feb 2026, 10:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html>)
+
+- **MuddyWater si rivolge alle organizzazioni MENA con GhostFetch, CHAR e HTTP_VIP**  
+  Fonte: The Hacker News, 23 Feb 2026, 07:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html>)
+
 - **Arkanix Stealer si presenta come un esperimento di breve durata sul furto di informazioni sull'intelligenza artificiale**  
   Fonte: BleepingComputer, 22 Feb 2026, 15:33:26 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/>)
@@ -86,17 +142,9 @@
   Fonte: The Hacker News, 20 Feb 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html>)
 
-- **FBI: oltre 20 milioni di dollari rubati a causa dell'ondata di attacchi malware agli sportelli bancomat nel 2025**  
-  Fonte: BleepingComputer, 20 Feb 2026, 10:08:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/>)
-
 - **Un cittadino ucraino condannato a 5 anni in un caso di frode di un lavoratore informatico in Corea del Nord**  
   Fonte: The Hacker News, 20 Feb 2026, 09:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html>)
-
-- **L'Ucraina ottiene 5 anni per aver aiutato i nordcoreani a infiltrarsi nelle aziende americane**  
-  Fonte: BleepingComputer, 20 Feb 2026, 09:00:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/>)
 
 - **L'FBI segnala 1.900 incidenti di jackpotting bancomat dal 2020, 20 milioni di dollari persi nel 2025**  
   Fonte: The Hacker News, 20 Feb 2026, 08:05:00 UTC  
@@ -105,10 +153,6 @@
 - **Ex ingegneri di Google incriminati per aver trasferito segreti commerciali all'Iran**  
   Fonte: The Hacker News, 20 Feb 2026, 05:27:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html>)
-
-- **PromptSpy è il primo malware Android conosciuto a utilizzare l'intelligenza artificiale generativa in fase di esecuzione**  
-  Fonte: BleepingComputer, 19 Feb 2026, 22:36:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/>)
 
 - **Il malware Android PromptSpy abusa dell'intelligenza artificiale di Gemini per automatizzare la persistenza delle app recenti**  
   Fonte: The Hacker News, 19 Feb 2026, 17:52:00 UTC  
@@ -121,18 +165,6 @@
 - **Microsoft applica la patch all'escalation dei privilegi CVE-2026-26119 nell'interfaccia di amministrazione di Windows**  
   Fonte: The Hacker News, 19 Feb 2026, 17:40:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html>)
-
-- **Un difetto nei telefoni VoIP Grandstream consente l'intercettazione furtiva**  
-  Fonte: BleepingComputer, 19 Feb 2026, 17:16:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/>)
-
-- **Google ha bloccato oltre 1,75 milioni di invii di app al Play Store nel 2025**  
-  Fonte: BleepingComputer, 19 Feb 2026, 17:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/>)
-
-- **La CISA ordina ai federali di correggere la falla Dell sfruttata attivamente entro 3 giorni**  
-  Fonte: BleepingComputer, 19 Feb 2026, 15:30:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/>)
 
 - **Bollettino del ThreatsDay: OpenSSL RCE, Foxit 0-Days, fuga di informazioni da Copilot, difetti delle password AI e oltre 20 storie**  
   Fonte: The Hacker News, 19 Feb 2026, 14:35:00 UTC  
@@ -226,37 +258,5 @@
   Fonte: The Hacker News, 17 Feb 2026, 09:31:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html>)
 
-- **Apple testa la messaggistica RCS crittografata end-to-end nella beta per sviluppatori di iOS 26.4**  
-  Fonte: The Hacker News, 17 Feb 2026, 06:44:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html>)
 
-- **Aggiornamento settimanale 491**  
-  Fonte: Troy Hunt, 17 Feb 2026, 05:09:12 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-491/>)
-
-- **Infostealer ruba file di configurazione dell'agente AI OpenClaw e token gateway**  
-  Fonte: The Hacker News, 16 Feb 2026, 18:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html>)
-
-- **Uno studio svela 25 attacchi di recupero password nei principali gestori di password cloud**  
-  Fonte: The Hacker News, 16 Feb 2026, 18:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html>)
-
-- **Riepilogo settimanale: dirottamento dei componenti aggiuntivi di Outlook, patch 0-Day, botnet wormable e malware AI**  
-  Fonte: The Hacker News, 16 Feb 2026, 12:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html>)
-
-- **La catena di uccisione del Promptware**  
-  Fonte: Schneier on Security, 16 Feb 2026, 12:04:01 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html>)
-
-- **Società elettronica sicura e inclusiva: come la Lituania si sta preparando alle frodi informatiche basate sull’intelligenza artificiale**  
-  Fonte: The Hacker News, 16 Feb 2026, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html>)
-
-- **Il nuovo spyware mobile ZeroDayRAT consente la sorveglianza in tempo reale e il furto di dati**  
-  Fonte: The Hacker News, 16 Feb 2026, 10:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-23 06:54:49 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-24 06:48:24 UTC -->
