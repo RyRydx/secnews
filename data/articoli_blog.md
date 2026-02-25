@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **CISA conferma lo sfruttamento attivo della vulnerabilità FileZen CVE-2026-25108**  
+  Fonte: The Hacker News, 25 Feb 2026, 05:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html>)
+
+- **La campagna di phishing prende di mira le organizzazioni di trasporto e logistica negli Stati Uniti e in Europa**  
+  Fonte: BleepingComputer, 24 Feb 2026, 23:57:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/>)
+
+- **Wynn Resorts conferma la violazione dei dati dei dipendenti dopo la minaccia di estorsione**  
+  Fonte: BleepingComputer, 24 Feb 2026, 21:51:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/>)
+
+- **La piattaforma 1Campaign aiuta gli annunci Google dannosi a eludere il rilevamento**  
+  Fonte: BleepingComputer, 24 Feb 2026, 21:45:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/>)
+
+- **Il difetto RoguePilot nei codespace GitHub ha consentito a Copilot di divulgare GITHUB_TOKEN**  
+  Fonte: The Hacker News, 24 Feb 2026, 18:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html>)
+
+- **La violazione dei dati di CarGurus espone le informazioni di 12,4 milioni di account**  
+  Fonte: BleepingComputer, 24 Feb 2026, 18:08:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/>)
+
+- **Microsoft aggiunge i controlli dei dati Copilot a tutte le posizioni di archiviazione**  
+  Fonte: BleepingComputer, 24 Feb 2026, 17:30:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/>)
+
+- **Sicurezza dell’intelligenza artificiale al primo posto: perché i CISO devono aggiungere l’intento all’equazione**  
+  Fonte: BleepingComputer, 24 Feb 2026, 15:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/>)
+
+- **Il Regno Unito multa Reddit di 19 milioni di dollari per aver utilizzato illegalmente i dati dei bambini**  
+  Fonte: BleepingComputer, 24 Feb 2026, 14:54:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/>)
+
+- **UAC-0050 prende di mira un istituto finanziario europeo con dominio contraffatto e malware RMS**  
+  Fonte: The Hacker News, 24 Feb 2026, 14:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html>)
+
+- **I difetti critici di SolarWinds Serv-U offrono accesso root ai server**  
+  Fonte: BleepingComputer, 24 Feb 2026, 13:00:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/>)
+
+- **L’intelligenza artificiale fa bene alla democrazia?**  
+  Fonte: Schneier on Security, 24 Feb 2026, 12:06:13 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/is-ai-good-for-democracy.html>)
+
+- **La definizione delle priorità delle identità non è un problema di arretrati: è un problema di matematica dei rischi**  
+  Fonte: The Hacker News, 24 Feb 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html>)
+
+- **Il gruppo Lazarus utilizza il ransomware Medusa negli attacchi sanitari in Medio Oriente e negli Stati Uniti**  
+  Fonte: The Hacker News, 24 Feb 2026, 11:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html>)
+
+- **La banda di estorsori ShinyHunters rivendica la violazione di Odido che colpisce milioni di persone**  
+  Fonte: BleepingComputer, 24 Feb 2026, 11:40:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/>)
+
+- **Il gruppo nordcoreano Lazarus è collegato agli attacchi ransomware Medusa**  
+  Fonte: BleepingComputer, 24 Feb 2026, 11:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/>)
+
+- **UnsolicitedBooker prende di mira le telecomunicazioni dell'Asia centrale con le backdoor LuciDoor e MarsSnake**  
+  Fonte: The Hacker News, 24 Feb 2026, 09:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html>)
+
+- **Anthropic afferma che le aziende cinesi di intelligenza artificiale hanno utilizzato 16 milioni di query di Claude per copiare il modello**  
+  Fonte: The Hacker News, 24 Feb 2026, 06:04:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html>)
+
 - **Aggiornamento settimanale 492**  
   Fonte: Troy Hunt, 24 Feb 2026, 00:38:59 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-492/>)
@@ -46,10 +118,6 @@
   Fonte: The Hacker News, 23 Feb 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html>)
 
-- **CISA: i difetti RoundCube corretti di recente ora vengono sfruttati negli attacchi**  
-  Fonte: BleepingComputer, 23 Feb 2026, 11:44:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/>)
-
 - **I pacchetti npm dannosi raccolgono chiavi crittografiche, segreti CI e token API**  
   Fonte: The Hacker News, 23 Feb 2026, 10:20:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html>)
@@ -58,21 +126,9 @@
   Fonte: The Hacker News, 23 Feb 2026, 07:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html>)
 
-- **Arkanix Stealer si presenta come un esperimento di breve durata sul furto di informazioni sull'intelligenza artificiale**  
-  Fonte: BleepingComputer, 22 Feb 2026, 15:33:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/>)
-
-- **Lo spyware Predator aggancia la SpringBoard di iOS per nascondere l'attività del microfono e della fotocamera**  
-  Fonte: BleepingComputer, 21 Feb 2026, 16:13:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/>)
-
 - **L'attore di minacce assistito dall'intelligenza artificiale compromette oltre 600 dispositivi FortiGate in 55 paesi**  
   Fonte: The Hacker News, 21 Feb 2026, 14:49:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html>)
-
-- **Amazon: un hacker assistito dall'intelligenza artificiale ha violato 600 firewall Fortinet in 5 settimane**  
-  Fonte: BleepingComputer, 21 Feb 2026, 13:50:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/>)
 
 - **Anthropic lancia Claude Code Security per la scansione delle vulnerabilità basata sull'intelligenza artificiale**  
   Fonte: The Hacker News, 21 Feb 2026, 07:58:00 UTC  
@@ -86,7 +142,7 @@
   Fonte: The Hacker News, 21 Feb 2026, 04:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html>)
 
-- **La polizia spagnola afferma di aver arrestato un hacker che prenotava camere d'albergo di lusso per appena un centesimo**  
+- **La polizia spagnola afferma di aver arrestato un hacker che prenotava camere d'albergo di lusso per un solo centesimo**  
   Fonte: Graham Cluley, 20 Feb 2026, 22:54:10 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/spanish-police-say-they-have-arrested-hacker-who-booked-luxury-hotel-rooms-for-just-one-cent>)
 
@@ -98,33 +154,13 @@
   Fonte: Krebs on Security, 20 Feb 2026, 20:00:30 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/>)
 
-- **Il gigante tecnologico giapponese Advantest colpito da un attacco ransomware**  
-  Fonte: BleepingComputer, 20 Feb 2026, 18:30:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/>)
-
-- **CISA: falla BeyondTrust RCE ora sfruttata negli attacchi ransomware**  
-  Fonte: BleepingComputer, 20 Feb 2026, 17:02:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/>)
-
-- **La violazione dei dati nel registro delle banche francesi colpisce 1,2 milioni di conti**  
-  Fonte: BleepingComputer, 20 Feb 2026, 16:20:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/>)
-
 - **Difetto BeyondTrust utilizzato per web shell, backdoor ed esfiltrazione di dati**  
   Fonte: The Hacker News, 20 Feb 2026, 15:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html>)
 
-- **Perché il sogno dello spostamento a sinistra è diventato un incubo per la sicurezza e gli sviluppatori**  
-  Fonte: BleepingComputer, 20 Feb 2026, 14:45:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/>)
-
 - **Cline CLI 2.3.0 Supply Chain Attack ha installato OpenClaw sui sistemi degli sviluppatori**  
   Fonte: The Hacker News, 20 Feb 2026, 14:20:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html>)
-
-- **PayPal rivela una violazione dei dati che ha esposto le informazioni dell'utente per 6 mesi**  
-  Fonte: BleepingComputer, 20 Feb 2026, 13:12:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/>)
 
 - **Ring annulla la sua partnership con Flock**  
   Fonte: Schneier on Security, 20 Feb 2026, 12:08:51 UTC  
@@ -134,15 +170,11 @@
   Fonte: The Hacker News, 20 Feb 2026, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html>)
 
-- **Il centro medico del Mississippi chiude tutte le cliniche dopo l'attacco ransomware**  
-  Fonte: BleepingComputer, 20 Feb 2026, 11:50:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/>)
-
 - **Identity Cyber ​​Scores: la nuova metrica che modella la cyber assicurazione nel 2026**  
   Fonte: The Hacker News, 20 Feb 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html>)
 
-- **Un cittadino ucraino condannato a 5 anni in un caso di frode di un lavoratore informatico in Corea del Nord**  
+- **Un cittadino ucraino condannato a 5 anni per un caso di frode su un lavoratore informatico in Corea del Nord**  
   Fonte: The Hacker News, 20 Feb 2026, 09:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html>)
 
@@ -230,33 +262,5 @@
   Fonte: The Hacker News, 18 Feb 2026, 06:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html>)
 
-- **Webinar: come i moderni team SOC utilizzano l'intelligenza artificiale e il contesto per indagare più rapidamente sulle violazioni del cloud**  
-  Fonte: The Hacker News, 17 Feb 2026, 19:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html>)
 
-- **I ricercatori dimostrano che Copilot e Grok possono essere utilizzati in modo improprio come proxy C2 malware**  
-  Fonte: The Hacker News, 17 Feb 2026, 18:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html>)
-
-- **La backdoor del firmware Keenadu infetta i tablet Android tramite aggiornamenti OTA firmati**  
-  Fonte: The Hacker News, 17 Feb 2026, 16:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html>)
-
-- **L'attacco SmartLoader utilizza il server Oura MCP con trojan per distribuire StealC Infostealer**  
-  Fonte: The Hacker News, 17 Feb 2026, 12:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html>)
-
-- **Attacchi del canale laterale contro gli LLM**  
-  Fonte: Schneier on Security, 17 Feb 2026, 12:01:45 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html>)
-
-- **La mia giornata in cui mi sporco le mani con un sistema NDR**  
-  Fonte: The Hacker News, 17 Feb 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html>)
-
-- **Microsoft scopre che i suggerimenti "Riepiloga con l'intelligenza artificiale" manipolano i consigli di Chatbot**  
-  Fonte: The Hacker News, 17 Feb 2026, 09:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-24 06:48:24 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-25 06:52:40 UTC -->
