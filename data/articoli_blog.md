@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **Cisco SD-WAN Zero-Day CVE-2026-20127 sfruttato dal 2023 per l'accesso amministrativo**  
+  Fonte: The Hacker News, 26 Feb 2026, 06:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html>)
+
+- **Smashing Security podcast n. 456: Come perdere amici e persone DDoS**  
+  Fonte: Graham Cluley, 26 Feb 2026, 00:16:49 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-456/>)
+
+- **Il produttore di dispositivi medici UFP Technologies avverte del furto di dati durante un attacco informatico**  
+  Fonte: BleepingComputer, 25 Feb 2026, 23:02:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/>)
+
+- **Il falso colloquio di lavoro Next.js testa i dispositivi degli sviluppatori backdoor**  
+  Fonte: BleepingComputer, 25 Feb 2026, 21:47:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/>)
+
+- **Bug critico Cisco SD-WAN sfruttato negli attacchi zero-day dal 2023**  
+  Fonte: BleepingComputer, 25 Feb 2026, 18:01:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/>)
+
+- **Google interrompe la campagna UNC2814 GRIDTIDE dopo 53 violazioni in 42 paesi**  
+  Fonte: The Hacker News, 25 Feb 2026, 17:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html>)
+
+- **Le cyberspie cinesi hanno violato dozzine di società di telecomunicazioni e agenzie governative**  
+  Fonte: BleepingComputer, 25 Feb 2026, 17:00:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/>)
+
+- **I difetti del codice Claude consentono l'esecuzione di codice remoto e l'esfiltrazione della chiave API**  
+  Fonte: The Hacker News, 25 Feb 2026, 17:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html>)
+
+- **Marquis fa causa a SonicWall per violazione del backup che ha portato ad un attacco ransomware**  
+  Fonte: BleepingComputer, 25 Feb 2026, 15:54:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/>)
+
+- **SLH offre da 500 a 1.000 dollari per chiamata per reclutare donne per l'help desk IT Attacchi di vishing**  
+  Fonte: The Hacker News, 25 Feb 2026, 15:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html>)
+
+- **L'hype di OpenClaw: analisi delle chiacchiere dal deep e dal dark web open source**  
+  Fonte: BleepingComputer, 25 Feb 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/>)
+
+- **I 5 modi principali in cui il triage interrotto aumenta il rischio aziendale invece di ridurlo**  
+  Fonte: The Hacker News, 25 Feb 2026, 14:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html>)
+
+- **Zyxel avverte di un difetto RCE critico che colpisce oltre una dozzina di router**  
+  Fonte: BleepingComputer, 25 Feb 2026, 12:53:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/>)
+
+- **Pacchetti NuGet dannosi hanno rubato dati ASP.NET;npm Pacchetto eliminato Malware**  
+  Fonte: The Hacker News, 25 Feb 2026, 12:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html>)
+
+- **Dati di addestramento sull'IA sull'avvelenamento**  
+  Fonte: Schneier on Security, 25 Feb 2026, 12:01:23 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html>)
+
+- **I processi manuali mettono a rischio la sicurezza nazionale**  
+  Fonte: The Hacker News, 25 Feb 2026, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/manual-processes-are-putting-national.html>)
+
+- **Gli Stati Uniti sanzionano il broker russo per aver acquistato exploit zero-day rubati**  
+  Fonte: BleepingComputer, 25 Feb 2026, 10:31:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/>)
+
+- **Viene offerta una ricompensa di $ 10.000 se riesci ad hackerare le telecamere Ring per impedire loro di condividere i tuoi dati con Amazon**  
+  Fonte: Graham Cluley, 25 Feb 2026, 09:38:13 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/10-000-bounty-hack-ring-cameras>)
+
+- **Dipendente di un appaltatore della difesa incarcerato per aver venduto 8 Zero-Days a un broker russo**  
+  Fonte: The Hacker News, 25 Feb 2026, 08:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html>)
+
+- **Ex dirigente di L3Harris incarcerato per aver venduto zero-day a un broker di exploit russo**  
+  Fonte: BleepingComputer, 25 Feb 2026, 08:21:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/>)
+
+- **L'aggiornamento KB5077241 di Windows 11 migliora BitLocker e aggiunge lo strumento Sysmon**  
+  Fonte: BleepingComputer, 25 Feb 2026, 07:51:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/>)
+
+- **SolarWinds patch 4 difetti critici Serv-U 15.5 che consentono l'esecuzione del codice root**  
+  Fonte: The Hacker News, 25 Feb 2026, 07:04:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html>)
+
 - **CISA conferma lo sfruttamento attivo della vulnerabilità FileZen CVE-2026-25108**  
   Fonte: The Hacker News, 25 Feb 2026, 05:23:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html>)
@@ -30,21 +118,9 @@
   Fonte: BleepingComputer, 24 Feb 2026, 17:30:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/>)
 
-- **Sicurezza dell’intelligenza artificiale al primo posto: perché i CISO devono aggiungere l’intento all’equazione**  
-  Fonte: BleepingComputer, 24 Feb 2026, 15:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/>)
-
-- **Il Regno Unito multa Reddit di 19 milioni di dollari per aver utilizzato illegalmente i dati dei bambini**  
-  Fonte: BleepingComputer, 24 Feb 2026, 14:54:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/>)
-
 - **UAC-0050 prende di mira un istituto finanziario europeo con dominio contraffatto e malware RMS**  
   Fonte: The Hacker News, 24 Feb 2026, 14:21:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html>)
-
-- **I difetti critici di SolarWinds Serv-U offrono accesso root ai server**  
-  Fonte: BleepingComputer, 24 Feb 2026, 13:00:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/>)
 
 - **L’intelligenza artificiale fa bene alla democrazia?**  
   Fonte: Schneier on Security, 24 Feb 2026, 12:06:13 UTC  
@@ -58,14 +134,6 @@
   Fonte: The Hacker News, 24 Feb 2026, 11:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html>)
 
-- **La banda di estorsori ShinyHunters rivendica la violazione di Odido che colpisce milioni di persone**  
-  Fonte: BleepingComputer, 24 Feb 2026, 11:40:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/>)
-
-- **Il gruppo nordcoreano Lazarus è collegato agli attacchi ransomware Medusa**  
-  Fonte: BleepingComputer, 24 Feb 2026, 11:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/>)
-
 - **UnsolicitedBooker prende di mira le telecomunicazioni dell'Asia centrale con le backdoor LuciDoor e MarsSnake**  
   Fonte: The Hacker News, 24 Feb 2026, 09:54:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html>)
@@ -78,33 +146,13 @@
   Fonte: Troy Hunt, 24 Feb 2026, 00:38:59 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-492/>)
 
-- **App Android per la salute mentale con 14,7 milioni di installazioni piene di falle di sicurezza**  
-  Fonte: BleepingComputer, 23 Feb 2026, 22:59:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/>)
-
-- **La Spagna arresta presunti hacktivisti per siti governativi DDoS**  
-  Fonte: BleepingComputer, 23 Feb 2026, 21:59:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/>)
-
 - **APT28 ha preso di mira entità europee utilizzando macro malware basati su webhook**  
   Fonte: The Hacker News, 23 Feb 2026, 19:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html>)
 
-- **Microsoft afferma che il bug nel classico Outlook nasconde il puntatore del mouse**  
-  Fonte: BleepingComputer, 23 Feb 2026, 19:40:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/>)
-
-- **La società di tecnologia pubblicitaria Optimizely conferma la violazione dei dati dopo l'attacco Vishing**  
-  Fonte: BleepingComputer, 23 Feb 2026, 18:04:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/>)
-
 - **La campagna Wormable XMRig utilizza l'exploit BYOVD e la bomba logica basata sul tempo**  
   Fonte: The Hacker News, 23 Feb 2026, 17:59:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html>)
-
-- **Quando l’identità non è l’anello debole, l’accesso lo è ancora**  
-  Fonte: BleepingComputer, 23 Feb 2026, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/>)
 
 - **⚡ Riepilogo settimanale: skimmer a doppio tocco, PromptSpy AI, DDoS da 30 Tbps, malware Docker e altro**  
   Fonte: The Hacker News, 23 Feb 2026, 13:00:00 UTC  
@@ -218,49 +266,5 @@
   Fonte: The Hacker News, 19 Feb 2026, 08:13:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html>)
 
-- **Podcast di Smashing Security n. 455: Faccia a faccia: gli occhiali di Meta e il kill switch americano di Internet**  
-  Fonte: Graham Cluley, 19 Feb 2026, 00:30:44 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-455/>)
 
-- **Citizen Lab trova lo strumento Cellebrite utilizzato sul telefono di un attivista keniota sotto custodia di polizia**  
-  Fonte: The Hacker News, 18 Feb 2026, 17:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html>)
-
-- **Telefoni VoIP Grandstream GXP1600 esposti all'esecuzione di codice remoto non autenticato**  
-  Fonte: The Hacker News, 18 Feb 2026, 16:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html>)
-
-- **Difetti critici riscontrati in quattro estensioni VS Code con oltre 125 milioni di installazioni**  
-  Fonte: The Hacker News, 18 Feb 2026, 13:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html>)
-
-- **L'intelligenza artificiale ha rilevato dodici nuove vulnerabilità in OpenSSL**  
-  Fonte: Schneier on Security, 18 Feb 2026, 12:03:10 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html>)
-
-- **Previsioni tecnologiche sulla sicurezza informatica per il 2026: operare in un mondo di instabilità permanente**  
-  Fonte: The Hacker News, 18 Feb 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html>)
-
-- **La polizia olandese arresta un uomo per "hacking" dopo avergli accidentalmente inviato file riservati**  
-  Fonte: Graham Cluley, 18 Feb 2026, 10:52:29 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/dutch-police-arrest-man-hacking-accidentally-sending-confidential-files>)
-
-- **Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 sfruttato dalla metà del 2024**  
-  Fonte: The Hacker News, 18 Feb 2026, 10:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html>)
-
-- **3 modi per avviare il tuo programma di flusso di lavoro intelligente**  
-  Fonte: The Hacker News, 18 Feb 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html>)
-
-- **Notepad++ Risolve il meccanismo di aggiornamento compromesso utilizzato per distribuire malware mirato**  
-  Fonte: The Hacker News, 18 Feb 2026, 07:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html>)
-
-- **CISA segnala quattro difetti di sicurezza sotto sfruttamento attivo nell'ultimo aggiornamento KEV**  
-  Fonte: The Hacker News, 18 Feb 2026, 06:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-25 06:52:40 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-26 06:47:34 UTC -->
