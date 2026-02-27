@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Il tuo personale rappresenta il più grande rischio per la sicurezza: l’intelligenza artificiale sta peggiorando le cose**  
+  Fonte: Graham Cluley, 26 Feb 2026, 21:21:23 UTC  
+  [Leggi](<https://www.fortra.com/blog/your-staff-are-your-biggest-security-risk-ai-making-it-worse>)
+
+- **Le chiavi API di Google, precedentemente innocue, ora espongono i dati dell'intelligenza artificiale Gemini**  
+  Fonte: BleepingComputer, 26 Feb 2026, 20:55:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/>)
+
+- **La botnet Aeternum C2 memorizza comandi crittografati sulla Blockchain Polygon per evitare la rimozione**  
+  Fonte: The Hacker News, 26 Feb 2026, 18:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html>)
+
+- **Trend Micro avverte di difetti critici nell'esecuzione del codice Apex One**  
+  Fonte: BleepingComputer, 26 Feb 2026, 17:58:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/>)
+
+- **La violazione dei dati ManoMano della catena europea DYI colpisce 38 milioni di clienti**  
+  Fonte: BleepingComputer, 26 Feb 2026, 17:35:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/>)
+
+- **Il difetto critico PTX di Juniper Networks consente il pieno controllo del router**  
+  Fonte: BleepingComputer, 26 Feb 2026, 16:42:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/>)
+
+- **L'Olympique Marsiglia conferma il "tentato" attacco informatico dopo la fuga di dati**  
+  Fonte: BleepingComputer, 26 Feb 2026, 16:11:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/>)
+
+- **UAT-10027 prende di mira l'istruzione e la sanità negli Stati Uniti con Dohdoor Backdoor**  
+  Fonte: The Hacker News, 26 Feb 2026, 15:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html>)
+
+- **Bollettino del ThreatsDay: Kali Linux + Claude, crash trap di Chrome, difetti di WinRAR, LockBit e oltre 15 storie**  
+  Fonte: The Hacker News, 26 Feb 2026, 14:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html>)
+
+- **Il tasso di pagamento del ransomware scende al minimo storico mentre gli attacchi aumentano**  
+  Fonte: BleepingComputer, 26 Feb 2026, 14:00:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/>)
+
+- **Famigerata banda di ransomware presumibilmente ricattata da un falso ufficiale dell'FSB**  
+  Fonte: Graham Cluley, 26 Feb 2026, 13:40:32 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-gang-blackmailed-fake-fsb-officer>)
+
+- **Microsoft estende il ripristino di Windows a più dispositivi aziendali**  
+  Fonte: BleepingComputer, 26 Feb 2026, 13:04:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/>)
+
+- **Gli LLM generano password prevedibili**  
+  Fonte: Schneier on Security, 26 Feb 2026, 12:07:10 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/llms-generate-predictable-passwords.html>)
+
+- **L'esperto consiglia: preparati subito per il PQC**  
+  Fonte: The Hacker News, 26 Feb 2026, 12:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html>)
+
+- **New York fa causa a Valve per aver promosso il gioco d'azzardo illegale tramite bottini di gioco**  
+  Fonte: BleepingComputer, 26 Feb 2026, 11:44:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/>)
+
+- **Microsoft avverte gli sviluppatori di falsi repository di processi Next.js che forniscono malware in memoria**  
+  Fonte: The Hacker News, 26 Feb 2026, 10:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html>)
+
+- **Il pacchetto dannoso StripeApi NuGet ha imitato la libreria ufficiale e rubato token API**  
+  Fonte: The Hacker News, 26 Feb 2026, 10:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html>)
+
 - **Cisco SD-WAN Zero-Day CVE-2026-20127 sfruttato dal 2023 per l'accesso amministrativo**  
   Fonte: The Hacker News, 26 Feb 2026, 06:13:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html>)
@@ -66,10 +134,6 @@
   Fonte: The Hacker News, 25 Feb 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/manual-processes-are-putting-national.html>)
 
-- **Gli Stati Uniti sanzionano il broker russo per aver acquistato exploit zero-day rubati**  
-  Fonte: BleepingComputer, 25 Feb 2026, 10:31:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/>)
-
 - **Viene offerta una ricompensa di $ 10.000 se riesci ad hackerare le telecamere Ring per impedire loro di condividere i tuoi dati con Amazon**  
   Fonte: Graham Cluley, 25 Feb 2026, 09:38:13 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/10-000-bounty-hack-ring-cameras>)
@@ -77,14 +141,6 @@
 - **Dipendente di un appaltatore della difesa incarcerato per aver venduto 8 Zero-Days a un broker russo**  
   Fonte: The Hacker News, 25 Feb 2026, 08:49:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html>)
-
-- **Ex dirigente di L3Harris incarcerato per aver venduto zero-day a un broker di exploit russo**  
-  Fonte: BleepingComputer, 25 Feb 2026, 08:21:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/>)
-
-- **L'aggiornamento KB5077241 di Windows 11 migliora BitLocker e aggiunge lo strumento Sysmon**  
-  Fonte: BleepingComputer, 25 Feb 2026, 07:51:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/>)
 
 - **SolarWinds patch 4 difetti critici Serv-U 15.5 che consentono l'esecuzione del codice root**  
   Fonte: The Hacker News, 25 Feb 2026, 07:04:00 UTC  
@@ -94,29 +150,9 @@
   Fonte: The Hacker News, 25 Feb 2026, 05:23:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html>)
 
-- **La campagna di phishing prende di mira le organizzazioni di trasporto e logistica negli Stati Uniti e in Europa**  
-  Fonte: BleepingComputer, 24 Feb 2026, 23:57:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/>)
-
-- **Wynn Resorts conferma la violazione dei dati dei dipendenti dopo la minaccia di estorsione**  
-  Fonte: BleepingComputer, 24 Feb 2026, 21:51:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/>)
-
-- **La piattaforma 1Campaign aiuta gli annunci Google dannosi a eludere il rilevamento**  
-  Fonte: BleepingComputer, 24 Feb 2026, 21:45:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/>)
-
 - **Il difetto RoguePilot nei codespace GitHub ha consentito a Copilot di divulgare GITHUB_TOKEN**  
   Fonte: The Hacker News, 24 Feb 2026, 18:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html>)
-
-- **La violazione dei dati di CarGurus espone le informazioni di 12,4 milioni di account**  
-  Fonte: BleepingComputer, 24 Feb 2026, 18:08:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/>)
-
-- **Microsoft aggiunge i controlli dei dati Copilot a tutte le posizioni di archiviazione**  
-  Fonte: BleepingComputer, 24 Feb 2026, 17:30:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/>)
 
 - **UAC-0050 prende di mira un istituto finanziario europeo con dominio contraffatto e malware RMS**  
   Fonte: The Hacker News, 24 Feb 2026, 14:21:00 UTC  
@@ -154,7 +190,7 @@
   Fonte: The Hacker News, 23 Feb 2026, 17:59:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html>)
 
-- **⚡ Riepilogo settimanale: skimmer a doppio tocco, PromptSpy AI, DDoS da 30 Tbps, malware Docker e altro**  
+- **⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More**  
   Fonte: The Hacker News, 23 Feb 2026, 13:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html>)
 
@@ -222,7 +258,7 @@
   Fonte: The Hacker News, 20 Feb 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html>)
 
-- **Un cittadino ucraino condannato a 5 anni per un caso di frode su un lavoratore informatico in Corea del Nord**  
+- **Un cittadino ucraino condannato a 5 anni in un caso di frode di un lavoratore informatico in Corea del Nord**  
   Fonte: The Hacker News, 20 Feb 2026, 09:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html>)
 
@@ -230,41 +266,5 @@
   Fonte: The Hacker News, 20 Feb 2026, 08:05:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html>)
 
-- **Ex ingegneri di Google incriminati per aver trasferito segreti commerciali all'Iran**  
-  Fonte: The Hacker News, 20 Feb 2026, 05:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html>)
 
-- **Il malware Android PromptSpy abusa dell'intelligenza artificiale di Gemini per automatizzare la persistenza delle app recenti**  
-  Fonte: The Hacker News, 19 Feb 2026, 17:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html>)
-
-- **L'Operazione Red Card 2.0 dell'INTERPOL arresta 651 persone nella repressione della criminalità informatica in Africa**  
-  Fonte: The Hacker News, 19 Feb 2026, 17:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html>)
-
-- **Microsoft applica la patch all'escalation dei privilegi CVE-2026-26119 nell'interfaccia di amministrazione di Windows**  
-  Fonte: The Hacker News, 19 Feb 2026, 17:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html>)
-
-- **Bollettino del ThreatsDay: OpenSSL RCE, Foxit 0-Days, fuga di informazioni da Copilot, difetti delle password AI e oltre 20 storie**  
-  Fonte: The Hacker News, 19 Feb 2026, 14:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html>)
-
-- **IA dannosa**  
-  Fonte: Schneier on Security, 19 Feb 2026, 12:05:39 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/malicious-ai.html>)
-
-- **Dall'esposizione allo sfruttamento: come l'intelligenza artificiale riduce la finestra di risposta**  
-  Fonte: The Hacker News, 19 Feb 2026, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html>)
-
-- **App IPTV false diffondono massicci malware Android che prendono di mira gli utenti di servizi bancari mobili**  
-  Fonte: The Hacker News, 19 Feb 2026, 10:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html>)
-
-- **La campagna CRESCENTHARVEST prende di mira i sostenitori della protesta iraniana con il malware RAT**  
-  Fonte: The Hacker News, 19 Feb 2026, 08:13:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-26 06:47:34 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-27 06:41:00 UTC -->
