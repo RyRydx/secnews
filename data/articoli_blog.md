@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Il Pentagono designa il rischio della catena di approvvigionamento antropica a causa della controversia militare sull’intelligenza artificiale**  
+  Fonte: The Hacker News, 28 Feb 2026, 04:57:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html>)
+
+- **Blog sui calamari del venerdì: pesca dei calamari in Perù**  
+  Fonte: Schneier on Security, 27 Feb 2026, 22:04:45 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html>)
+
+- **Microsoft testa i miglioramenti alla sicurezza dei file batch di Windows 11**  
+  Fonte: BleepingComputer, 27 Feb 2026, 20:00:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/>)
+
+- **Gli hacker APT37 utilizzano nuovi malware per violare le reti air gap**  
+  Fonte: BleepingComputer, 27 Feb 2026, 19:21:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/>)
+
+- **La repressione condotta da Europol contro gli hacker di The Com porta a 30 arresti**  
+  Fonte: BleepingComputer, 27 Feb 2026, 18:20:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/>)
+
+- **Il Dipartimento di Giustizia sequestra 61 milioni di dollari in Tether legati a truffe crittografiche legate alla macellazione di maiali**  
+  Fonte: The Hacker News, 27 Feb 2026, 18:11:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html>)
+
+- **Oltre 900 istanze Sangoma FreePBX compromesse dai continui attacchi Web Shell**  
+  Fonte: The Hacker News, 27 Feb 2026, 17:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html>)
+
+- **CISA avverte che il malware RESURGE può essere dormiente sui dispositivi Ivanti**  
+  Fonte: BleepingComputer, 27 Feb 2026, 15:57:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/>)
+
+- **Il modulo dannoso Go Crypto ruba le password e distribuisce la backdoor di Rekoobe**  
+  Fonte: The Hacker News, 27 Feb 2026, 15:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html>)
+
+- **Patching di terze parti e impatto aziendale che tutti condividiamo**  
+  Fonte: BleepingComputer, 27 Feb 2026, 15:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/>)
+
+- **ScarCruft utilizza Zoho WorkDrive e malware USB per violare reti air-gapped**  
+  Fonte: The Hacker News, 27 Feb 2026, 12:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html>)
+
+- **Un uomo ucraino si dichiara colpevole di aver gestito un sito di identità false basato sull'intelligenza artificiale**  
+  Fonte: BleepingComputer, 27 Feb 2026, 12:30:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/>)
+
+- **Perché la rete Internet a due livelli di Teheran è così pericolosa**  
+  Fonte: Schneier on Security, 27 Feb 2026, 12:05:59 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html>)
+
+- **Attacchi di phishing contro persone in cerca di lavoro nella programmazione**  
+  Fonte: Schneier on Security, 27 Feb 2026, 12:04:28 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/02/phishing-attacks-against-people-seeking-programming-jobs.html>)
+
+- **Strumenti di gioco con trojan diffondono RAT basato su Java tramite browser e piattaforme di chat**  
+  Fonte: The Hacker News, 27 Feb 2026, 10:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html>)
+
+- **Cause Meta Files contro inserzionisti brasiliani, cinesi e vietnamiti per truffe di celebrità**  
+  Fonte: The Hacker News, 27 Feb 2026, 07:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html>)
+
+- **Maggiore trasparenza nell'utilizzo post-quantistico, nella messaggistica crittografata e nella sicurezza del routing**  
+  Fonte: Cloudflare Blog - Security, 27 Feb 2026, 06:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/radar-origin-pq-key-transparency-aspa/>)
+
 - **Il tuo personale rappresenta il più grande rischio per la sicurezza: l’intelligenza artificiale sta peggiorando le cose**  
   Fonte: Graham Cluley, 26 Feb 2026, 21:21:23 UTC  
   [Leggi](<https://www.fortra.com/blog/your-staff-are-your-biggest-security-risk-ai-making-it-worse>)
@@ -10,7 +78,7 @@
   Fonte: BleepingComputer, 26 Feb 2026, 20:55:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/>)
 
-- **La botnet Aeternum C2 memorizza comandi crittografati sulla Blockchain Polygon per evitare la rimozione**  
+- **La botnet Aeternum C2 memorizza comandi crittografati sulla Blockchain Polygon per evitare il takedown**  
   Fonte: The Hacker News, 26 Feb 2026, 18:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html>)
 
@@ -82,45 +150,21 @@
   Fonte: BleepingComputer, 25 Feb 2026, 23:02:16 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/>)
 
-- **Il falso colloquio di lavoro Next.js testa i dispositivi degli sviluppatori backdoor**  
-  Fonte: BleepingComputer, 25 Feb 2026, 21:47:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/>)
-
-- **Bug critico Cisco SD-WAN sfruttato negli attacchi zero-day dal 2023**  
-  Fonte: BleepingComputer, 25 Feb 2026, 18:01:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/>)
-
 - **Google interrompe la campagna UNC2814 GRIDTIDE dopo 53 violazioni in 42 paesi**  
   Fonte: The Hacker News, 25 Feb 2026, 17:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html>)
-
-- **Le cyberspie cinesi hanno violato dozzine di società di telecomunicazioni e agenzie governative**  
-  Fonte: BleepingComputer, 25 Feb 2026, 17:00:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/>)
 
 - **I difetti del codice Claude consentono l'esecuzione di codice remoto e l'esfiltrazione della chiave API**  
   Fonte: The Hacker News, 25 Feb 2026, 17:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html>)
 
-- **Marquis fa causa a SonicWall per violazione del backup che ha portato ad un attacco ransomware**  
-  Fonte: BleepingComputer, 25 Feb 2026, 15:54:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/>)
-
 - **SLH offre da 500 a 1.000 dollari per chiamata per reclutare donne per l'help desk IT Attacchi di vishing**  
   Fonte: The Hacker News, 25 Feb 2026, 15:06:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html>)
 
-- **L'hype di OpenClaw: analisi delle chiacchiere dal deep e dal dark web open source**  
-  Fonte: BleepingComputer, 25 Feb 2026, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/>)
-
 - **I 5 modi principali in cui il triage interrotto aumenta il rischio aziendale invece di ridurlo**  
   Fonte: The Hacker News, 25 Feb 2026, 14:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html>)
-
-- **Zyxel avverte di un difetto RCE critico che colpisce oltre una dozzina di router**  
-  Fonte: BleepingComputer, 25 Feb 2026, 12:53:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/>)
 
 - **Pacchetti NuGet dannosi hanno rubato dati ASP.NET;npm Pacchetto eliminato Malware**  
   Fonte: The Hacker News, 25 Feb 2026, 12:43:00 UTC  
@@ -190,7 +234,7 @@
   Fonte: The Hacker News, 23 Feb 2026, 17:59:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html>)
 
-- **⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More**  
+- **⚡ Riepilogo settimanale: skimmer a doppio tocco, PromptSpy AI, DDoS da 30 Tbps, malware Docker e altro**  
   Fonte: The Hacker News, 23 Feb 2026, 13:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html>)
 
@@ -222,49 +266,5 @@
   Fonte: The Hacker News, 21 Feb 2026, 07:21:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html>)
 
-- **Il Consiglio della CE amplia il portafoglio di certificazioni sull’intelligenza artificiale per rafforzare la preparazione e la sicurezza della forza lavoro statunitense impegnata nell’intelligenza artificiale**  
-  Fonte: The Hacker News, 21 Feb 2026, 04:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html>)
 
-- **La polizia spagnola afferma di aver arrestato un hacker che prenotava camere d'albergo di lusso per un solo centesimo**  
-  Fonte: Graham Cluley, 20 Feb 2026, 22:54:10 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/spanish-police-say-they-have-arrested-hacker-who-booked-luxury-hotel-rooms-for-just-one-cent>)
-
-- **Blog sui calamari del venerdì: cartoni animati di calamari**  
-  Fonte: Schneier on Security, 20 Feb 2026, 22:05:15 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-cartoon-3.html>)
-
-- **Proxy del servizio di phishing "Starkiller" Pagine di accesso reali, MFA**  
-  Fonte: Krebs on Security, 20 Feb 2026, 20:00:30 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/>)
-
-- **Difetto BeyondTrust utilizzato per web shell, backdoor ed esfiltrazione di dati**  
-  Fonte: The Hacker News, 20 Feb 2026, 15:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html>)
-
-- **Cline CLI 2.3.0 Supply Chain Attack ha installato OpenClaw sui sistemi degli sviluppatori**  
-  Fonte: The Hacker News, 20 Feb 2026, 14:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html>)
-
-- **Ring annulla la sua partnership con Flock**  
-  Fonte: Schneier on Security, 20 Feb 2026, 12:08:51 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/ring-cancels-its-partnership-with-flock.html>)
-
-- **La campagna ClickFix abusa di siti compromessi per distribuire malware MIMICRAT**  
-  Fonte: The Hacker News, 20 Feb 2026, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html>)
-
-- **Identity Cyber ​​Scores: la nuova metrica che modella la cyber assicurazione nel 2026**  
-  Fonte: The Hacker News, 20 Feb 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html>)
-
-- **Un cittadino ucraino condannato a 5 anni in un caso di frode di un lavoratore informatico in Corea del Nord**  
-  Fonte: The Hacker News, 20 Feb 2026, 09:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html>)
-
-- **L'FBI segnala 1.900 incidenti di jackpotting bancomat dal 2020, 20 milioni di dollari persi nel 2025**  
-  Fonte: The Hacker News, 20 Feb 2026, 08:05:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-27 06:41:00 UTC -->
+<!-- Ultimo aggiornamento: 2026-02-28 06:26:17 UTC -->
