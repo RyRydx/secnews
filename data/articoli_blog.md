@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **L'estensione QuickLens per Chrome ruba criptovalute e mostra l'attacco ClickFix**  
+  Fonte: BleepingComputer, 28 Feb 2026, 19:18:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/>)
+
+- **ClawJacked Flaw consente ai siti dannosi di prendere il controllo degli agenti AI locali di OpenClaw tramite WebSocket**  
+  Fonte: The Hacker News, 28 Feb 2026, 17:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html>)
+
+- **Rubati 4,8 milioni di dollari in criptovalute dopo che l'agenzia fiscale coreana ha scoperto il seed del portafoglio**  
+  Fonte: BleepingComputer, 28 Feb 2026, 15:17:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/>)
+
+- **Chi è il Botmaster Kimwolf "Dort"?**  
+  Fonte: Krebs on Security, 28 Feb 2026, 12:01:57 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/>)
+
+- **Migliaia di chiavi API pubbliche di Google Cloud esposte con Gemini Access dopo l'abilitazione dell'API**  
+  Fonte: The Hacker News, 28 Feb 2026, 09:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html>)
+
 - **Il Pentagono designa il rischio della catena di approvvigionamento antropica a causa della controversia militare sull’intelligenza artificiale**  
   Fonte: The Hacker News, 28 Feb 2026, 04:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html>)
@@ -78,7 +98,7 @@
   Fonte: BleepingComputer, 26 Feb 2026, 20:55:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/>)
 
-- **La botnet Aeternum C2 memorizza comandi crittografati sulla Blockchain Polygon per evitare il takedown**  
+- **La botnet Aeternum C2 memorizza comandi crittografati sulla Blockchain Polygon per evitare la rimozione**  
   Fonte: The Hacker News, 26 Feb 2026, 18:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html>)
 
@@ -126,10 +146,6 @@
   Fonte: The Hacker News, 26 Feb 2026, 12:06:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html>)
 
-- **New York fa causa a Valve per aver promosso il gioco d'azzardo illegale tramite bottini di gioco**  
-  Fonte: BleepingComputer, 26 Feb 2026, 11:44:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/>)
-
 - **Microsoft avverte gli sviluppatori di falsi repository di processi Next.js che forniscono malware in memoria**  
   Fonte: The Hacker News, 26 Feb 2026, 10:35:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html>)
@@ -145,10 +161,6 @@
 - **Smashing Security podcast n. 456: Come perdere amici e persone DDoS**  
   Fonte: Graham Cluley, 26 Feb 2026, 00:16:49 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-456/>)
-
-- **Il produttore di dispositivi medici UFP Technologies avverte del furto di dati durante un attacco informatico**  
-  Fonte: BleepingComputer, 25 Feb 2026, 23:02:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/>)
 
 - **Google interrompe la campagna UNC2814 GRIDTIDE dopo 53 violazioni in 42 paesi**  
   Fonte: The Hacker News, 25 Feb 2026, 17:46:00 UTC  
@@ -254,17 +266,5 @@
   Fonte: The Hacker News, 23 Feb 2026, 07:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html>)
 
-- **L'attore di minacce assistito dall'intelligenza artificiale compromette oltre 600 dispositivi FortiGate in 55 paesi**  
-  Fonte: The Hacker News, 21 Feb 2026, 14:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html>)
 
-- **Anthropic lancia Claude Code Security per la scansione delle vulnerabilità basata sull'intelligenza artificiale**  
-  Fonte: The Hacker News, 21 Feb 2026, 07:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html>)
-
-- **CISA aggiunge due difetti di Roundcube attivamente sfruttati al catalogo KEV**  
-  Fonte: The Hacker News, 21 Feb 2026, 07:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-02-28 06:26:17 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-01 06:34:47 UTC -->
