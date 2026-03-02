@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **L'attacco ClawJacked consente ai siti Web dannosi di prendere il controllo di OpenClaw per rubare dati**  
+  Fonte: BleepingComputer, 01 Mar 2026, 21:44:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/>)
+
+- **I televisori Samsung smetteranno di raccogliere i dati dei texani senza consenso esplicito**  
+  Fonte: BleepingComputer, 01 Mar 2026, 15:23:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/>)
+
 - **L'estensione QuickLens per Chrome ruba criptovalute e mostra l'attacco ClickFix**  
   Fonte: BleepingComputer, 28 Feb 2026, 19:18:52 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/>)
@@ -22,7 +30,7 @@
   Fonte: The Hacker News, 28 Feb 2026, 09:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html>)
 
-- **Il Pentagono designa il rischio della catena di approvvigionamento antropica a causa della controversia militare sull’intelligenza artificiale**  
+- **Il Pentagono designa il rischio della catena di approvvigionamento antropica per la controversia militare sull’intelligenza artificiale**  
   Fonte: The Hacker News, 28 Feb 2026, 04:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html>)
 
@@ -82,7 +90,7 @@
   Fonte: The Hacker News, 27 Feb 2026, 10:06:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html>)
 
-- **Cause Meta Files contro inserzionisti brasiliani, cinesi e vietnamiti per truffe di celebrità**  
+- **Cause di Meta Files contro inserzionisti brasiliani, cinesi e vietnamiti per truffe di celebrità**  
   Fonte: The Hacker News, 27 Feb 2026, 07:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html>)
 
@@ -126,17 +134,9 @@
   Fonte: The Hacker News, 26 Feb 2026, 14:28:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html>)
 
-- **Il tasso di pagamento del ransomware scende al minimo storico mentre gli attacchi aumentano**  
-  Fonte: BleepingComputer, 26 Feb 2026, 14:00:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/>)
-
 - **Famigerata banda di ransomware presumibilmente ricattata da un falso ufficiale dell'FSB**  
   Fonte: Graham Cluley, 26 Feb 2026, 13:40:32 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-gang-blackmailed-fake-fsb-officer>)
-
-- **Microsoft estende il ripristino di Windows a più dispositivi aziendali**  
-  Fonte: BleepingComputer, 26 Feb 2026, 13:04:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/>)
 
 - **Gli LLM generano password prevedibili**  
   Fonte: Schneier on Security, 26 Feb 2026, 12:07:10 UTC  
@@ -158,7 +158,7 @@
   Fonte: The Hacker News, 26 Feb 2026, 06:13:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html>)
 
-- **Smashing Security podcast n. 456: Come perdere amici e persone DDoS**  
+- **Podcast di Smashing Security n. 456: Come perdere amici e persone DDoS**  
   Fonte: Graham Cluley, 26 Feb 2026, 00:16:49 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-456/>)
 
@@ -190,7 +190,7 @@
   Fonte: The Hacker News, 25 Feb 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/manual-processes-are-putting-national.html>)
 
-- **Viene offerta una ricompensa di $ 10.000 se riesci ad hackerare le telecamere Ring per impedire loro di condividere i tuoi dati con Amazon**  
+- **Viene offerta una ricompensa di $ 10.000 se riesci a hackerare le telecamere Ring per impedire loro di condividere i tuoi dati con Amazon**  
   Fonte: Graham Cluley, 25 Feb 2026, 09:38:13 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/10-000-bounty-hack-ring-cameras>)
 
@@ -267,4 +267,4 @@
   [Leggi](<https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-03-01 06:34:47 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-02 06:45:25 UTC -->
