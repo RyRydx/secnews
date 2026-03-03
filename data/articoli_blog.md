@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Strumento CyberStrikeAI adottato dagli hacker per attacchi basati sull'intelligenza artificiale**  
+  Fonte: BleepingComputer, 03 Mar 2026, 00:06:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/>)
+
+- **Il sito falso di Google Security utilizza l'app PWA per rubare credenziali e codici MFA**  
+  Fonte: BleepingComputer, 02 Mar 2026, 20:23:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/>)
+
+- **Un uomo dell'Alabama si dichiara colpevole di hacking ed estorsioni a centinaia di donne**  
+  Fonte: BleepingComputer, 02 Mar 2026, 18:54:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/>)
+
+- **Donna della Florida incarcerata per un massiccio programma di frode sulle licenze Microsoft**  
+  Fonte: BleepingComputer, 02 Mar 2026, 17:30:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/>)
+
+- **New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel**  
+  Fonte: The Hacker News, 02 Mar 2026, 17:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html>)
+
+- **Google sviluppa certificati Merkle Tree per abilitare HTTPS resistente ai quantitativi in ​​Chrome**  
+  Fonte: The Hacker News, 02 Mar 2026, 16:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/google-develops-merkle-tree.html>)
+
+- **Il Regno Unito avverte dei rischi di attacchi informatici iraniani nel conflitto in Medio Oriente**  
+  Fonte: BleepingComputer, 02 Mar 2026, 15:54:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/>)
+
+- **In che modo i deepfake e gli attacchi injection stanno compromettendo la verifica dell'identità**  
+  Fonte: BleepingComputer, 02 Mar 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/>)
+
+- **⚡ Riepilogo settimanale: SD-WAN 0-Day, CVE critici, sonda Telegram, SDK proxy Smart TV e altro**  
+  Fonte: The Hacker News, 02 Mar 2026, 13:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html>)
+
+- **Anthropic conferma che Claude è fuori uso a causa di un'interruzione mondiale**  
+  Fonte: BleepingComputer, 02 Mar 2026, 12:23:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/>)
+
+- **Deanonimizzazione assistita da LLM**  
+  Fonte: Schneier on Security, 02 Mar 2026, 12:05:48 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html>)
+
+- **Come proteggere il tuo SaaS dagli attacchi bot con SafeLine WAF**  
+  Fonte: The Hacker News, 02 Mar 2026, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html>)
+
+- **APT28 legato a CVE-2026-21513 MSHTML 0-Day sfruttato prima del martedì della patch di febbraio 2026**  
+  Fonte: The Hacker News, 02 Mar 2026, 10:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html>)
+
+- **Gli hacker nordcoreani pubblicano pacchetti da 26 npm che nascondono Pastebin C2 per RAT multipiattaforma**  
+  Fonte: The Hacker News, 02 Mar 2026, 08:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html>)
+
+- **Aggiornamento settimanale 493**  
+  Fonte: Troy Hunt, 02 Mar 2026, 07:51:14 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-493/>)
+
 - **L'attacco ClawJacked consente ai siti Web dannosi di prendere il controllo di OpenClaw per rubare dati**  
   Fonte: BleepingComputer, 01 Mar 2026, 21:44:55 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/>)
@@ -14,7 +74,7 @@
   Fonte: BleepingComputer, 28 Feb 2026, 19:18:52 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/>)
 
-- **ClawJacked Flaw consente ai siti dannosi di prendere il controllo degli agenti AI locali di OpenClaw tramite WebSocket**  
+- **ClawJacked Flaw consente ai siti dannosi di prendere il controllo degli agenti AI locali OpenClaw tramite WebSocket**  
   Fonte: The Hacker News, 28 Feb 2026, 17:21:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html>)
 
@@ -30,7 +90,7 @@
   Fonte: The Hacker News, 28 Feb 2026, 09:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html>)
 
-- **Il Pentagono designa il rischio della catena di approvvigionamento antropica per la controversia militare sull’intelligenza artificiale**  
+- **Il Pentagono designa il rischio della catena di approvvigionamento antropica a causa della controversia militare sull’intelligenza artificiale**  
   Fonte: The Hacker News, 28 Feb 2026, 04:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html>)
 
@@ -58,7 +118,7 @@
   Fonte: The Hacker News, 27 Feb 2026, 17:59:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html>)
 
-- **CISA avverte che il malware RESURGE può essere dormiente sui dispositivi Ivanti**  
+- **CISA avverte che il malware RESURGE può rimanere dormiente sui dispositivi Ivanti**  
   Fonte: BleepingComputer, 27 Feb 2026, 15:57:04 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/>)
 
@@ -66,17 +126,9 @@
   Fonte: The Hacker News, 27 Feb 2026, 15:33:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html>)
 
-- **Patching di terze parti e impatto aziendale che tutti condividiamo**  
-  Fonte: BleepingComputer, 27 Feb 2026, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/>)
-
 - **ScarCruft utilizza Zoho WorkDrive e malware USB per violare reti air-gapped**  
   Fonte: The Hacker News, 27 Feb 2026, 12:43:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html>)
-
-- **Un uomo ucraino si dichiara colpevole di aver gestito un sito di identità false basato sull'intelligenza artificiale**  
-  Fonte: BleepingComputer, 27 Feb 2026, 12:30:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/>)
 
 - **Perché la rete Internet a due livelli di Teheran è così pericolosa**  
   Fonte: Schneier on Security, 27 Feb 2026, 12:05:59 UTC  
@@ -90,7 +142,7 @@
   Fonte: The Hacker News, 27 Feb 2026, 10:06:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html>)
 
-- **Cause di Meta Files contro inserzionisti brasiliani, cinesi e vietnamiti per truffe di celebrità**  
+- **Cause Meta Files contro inserzionisti brasiliani, cinesi e vietnamiti per truffe di celebrità**  
   Fonte: The Hacker News, 27 Feb 2026, 07:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html>)
 
@@ -102,29 +154,9 @@
   Fonte: Graham Cluley, 26 Feb 2026, 21:21:23 UTC  
   [Leggi](<https://www.fortra.com/blog/your-staff-are-your-biggest-security-risk-ai-making-it-worse>)
 
-- **Le chiavi API di Google, precedentemente innocue, ora espongono i dati dell'intelligenza artificiale Gemini**  
-  Fonte: BleepingComputer, 26 Feb 2026, 20:55:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/>)
-
 - **La botnet Aeternum C2 memorizza comandi crittografati sulla Blockchain Polygon per evitare la rimozione**  
   Fonte: The Hacker News, 26 Feb 2026, 18:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html>)
-
-- **Trend Micro avverte di difetti critici nell'esecuzione del codice Apex One**  
-  Fonte: BleepingComputer, 26 Feb 2026, 17:58:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/>)
-
-- **La violazione dei dati ManoMano della catena europea DYI colpisce 38 milioni di clienti**  
-  Fonte: BleepingComputer, 26 Feb 2026, 17:35:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/>)
-
-- **Il difetto critico PTX di Juniper Networks consente il pieno controllo del router**  
-  Fonte: BleepingComputer, 26 Feb 2026, 16:42:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/>)
-
-- **L'Olympique Marsiglia conferma il "tentato" attacco informatico dopo la fuga di dati**  
-  Fonte: BleepingComputer, 26 Feb 2026, 16:11:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/>)
 
 - **UAT-10027 prende di mira l'istruzione e la sanità negli Stati Uniti con Dohdoor Backdoor**  
   Fonte: The Hacker News, 26 Feb 2026, 15:17:00 UTC  
@@ -158,7 +190,7 @@
   Fonte: The Hacker News, 26 Feb 2026, 06:13:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html>)
 
-- **Podcast di Smashing Security n. 456: Come perdere amici e persone DDoS**  
+- **Smashing Security podcast n. 456: Come perdere amici e persone DDoS**  
   Fonte: Graham Cluley, 26 Feb 2026, 00:16:49 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-456/>)
 
@@ -230,41 +262,5 @@
   Fonte: The Hacker News, 24 Feb 2026, 09:54:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html>)
 
-- **Anthropic afferma che le aziende cinesi di intelligenza artificiale hanno utilizzato 16 milioni di query di Claude per copiare il modello**  
-  Fonte: The Hacker News, 24 Feb 2026, 06:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html>)
 
-- **Aggiornamento settimanale 492**  
-  Fonte: Troy Hunt, 24 Feb 2026, 00:38:59 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-492/>)
-
-- **APT28 ha preso di mira entità europee utilizzando macro malware basati su webhook**  
-  Fonte: The Hacker News, 23 Feb 2026, 19:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html>)
-
-- **La campagna Wormable XMRig utilizza l'exploit BYOVD e la bomba logica basata sul tempo**  
-  Fonte: The Hacker News, 23 Feb 2026, 17:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html>)
-
-- **⚡ Riepilogo settimanale: skimmer a doppio tocco, PromptSpy AI, DDoS da 30 Tbps, malware Docker e altro**  
-  Fonte: The Hacker News, 23 Feb 2026, 13:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html>)
-
-- **Sulla sicurezza dei gestori di password**  
-  Fonte: Schneier on Security, 23 Feb 2026, 12:03:33 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html>)
-
-- **In che modo gli endpoint esposti aumentano il rischio nell'infrastruttura LLM**  
-  Fonte: The Hacker News, 23 Feb 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html>)
-
-- **I pacchetti npm dannosi raccolgono chiavi crittografiche, segreti CI e token API**  
-  Fonte: The Hacker News, 23 Feb 2026, 10:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html>)
-
-- **MuddyWater si rivolge alle organizzazioni MENA con GhostFetch, CHAR e HTTP_VIP**  
-  Fonte: The Hacker News, 23 Feb 2026, 07:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-02 06:45:25 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-03 06:39:01 UTC -->
