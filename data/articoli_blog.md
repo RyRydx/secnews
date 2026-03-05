@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Podcast di Smashing Security n. 457: Come un capo della sicurezza informatica ha incastrato il suo stesso dipendente**  
+  Fonte: Graham Cluley, 05 Mar 2026, 00:33:23 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-457/>)
+
+- **Bitwarden aggiunge il supporto per l'accesso con passkey su Windows 11**  
+  Fonte: BleepingComputer, 04 Mar 2026, 22:34:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/>)
+
+- **L'attacco zero-click di Mail2Shell consente agli hacker di prendere il controllo dei server di posta di FreeScout**  
+  Fonte: BleepingComputer, 04 Mar 2026, 21:51:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/>)
+
+- **L'aggiornamento KB5075039 di Windows 10 risolve i problemi di Recovery Environment**  
+  Fonte: BleepingComputer, 04 Mar 2026, 21:03:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/>)
+
+- **I thread di posta elettronica falsi del supporto LastPass tentano di rubare le password del vault**  
+  Fonte: BleepingComputer, 04 Mar 2026, 20:44:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/>)
+
+- **Cisco avverte della massima gravità dei difetti FMC sicuri che forniscono l'accesso root**  
+  Fonte: BleepingComputer, 04 Mar 2026, 19:12:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/>)
+
+- **Kit di exploit Coruna iOS di livello spyware ora utilizzato negli attacchi di furto di criptovalute**  
+  Fonte: BleepingComputer, 04 Mar 2026, 19:06:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/>)
+
+- **Gli hacker inviano in massa email di estorsione HungerRush ai clienti dei ristoranti**  
+  Fonte: BleepingComputer, 04 Mar 2026, 18:44:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/>)
+
+- **L'FBI sequestra il forum sulla criminalità informatica LeakBase, dati di 142.000 membri**  
+  Fonte: BleepingComputer, 04 Mar 2026, 17:44:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/>)
+
+- **149 attacchi DDoS di hacktivisti hanno colpito 110 organizzazioni in 16 paesi dopo il conflitto in Medio Oriente**  
+  Fonte: The Hacker News, 04 Mar 2026, 17:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html>)
+
+- **L'azione coordinata da Europol distrugge la piattaforma di phishing Tycoon2FA**  
+  Fonte: BleepingComputer, 04 Mar 2026, 17:01:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/>)
+
+- **Il centro medico del Mississippi riapre le cliniche colpite da un attacco ransomware**  
+  Fonte: BleepingComputer, 04 Mar 2026, 15:28:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/>)
+
+- **Come un attacco di forza bruta ha smascherato una rete infrastrutturale ransomware**  
+  Fonte: BleepingComputer, 04 Mar 2026, 15:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-a-brute-force-attack-unmasked-a-ransomware-infrastructure-network/>)
+
+- **Coruna iOS Exploit Kit utilizza 23 exploit in cinque catene destinati a iOS 13–17.2.1**  
+  Fonte: The Hacker News, 04 Mar 2026, 13:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html>)
+
+- **Manipolazione delle funzionalità di riepilogo dell'intelligenza artificiale**  
+  Fonte: Schneier on Security, 04 Mar 2026, 12:06:01 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html>)
+
+- **Nuovo modello RFP per il controllo dell'utilizzo dell'intelligenza artificiale e la governance dell'intelligenza artificiale**  
+  Fonte: The Hacker News, 04 Mar 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html>)
+
+- **Pacchetti Laravel falsi su Packagist Distribuisci RAT su Windows, macOS e Linux**  
+  Fonte: The Hacker News, 04 Mar 2026, 09:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html>)
+
+- **Silver Dragon collegato ad APT41 prende di mira i governi che utilizzano Cobalt Strike e Google Drive C2**  
+  Fonte: The Hacker News, 04 Mar 2026, 08:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html>)
+
 - **CISA aggiunge il difetto CVE-2026-22719 di VMware Aria Operations attivamente sfruttato al catalogo KEV**  
   Fonte: The Hacker News, 04 Mar 2026, 04:35:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html>)
@@ -26,21 +98,9 @@
   Fonte: The Hacker News, 03 Mar 2026, 17:15:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html>)
 
-- **Google Chrome passa al ciclo di rilascio di due settimane per una maggiore stabilità**  
-  Fonte: BleepingComputer, 03 Mar 2026, 17:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/>)
-
 - **Hanno sequestrato 4,8 milioni di dollari in criptovalute... e poi hanno fornito la chiave principale a Internet**  
   Fonte: Graham Cluley, 03 Mar 2026, 16:09:08 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/they-seized-4-8m-in-crypto-then-gave-the-master-key-to-the-internet>)
-
-- **LexisNexis conferma la violazione dei dati mentre gli hacker trapelano file rubati**  
-  Fonte: BleepingComputer, 03 Mar 2026, 15:40:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/>)
-
-- **I pannelli di gestione dei siti compromessi sono un elemento caldo nei mercati del crimine informatico**  
-  Fonte: BleepingComputer, 03 Mar 2026, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/>)
 
 - **Costruire un livello 1 ad alto impatto: i 3 passaggi che i CISO devono seguire**  
   Fonte: The Hacker News, 03 Mar 2026, 14:30:00 UTC  
@@ -54,10 +114,6 @@
   Fonte: Schneier on Security, 03 Mar 2026, 12:04:29 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/on-moltbook.html>)
 
-- **Amazon: un drone colpisce i data center AWS danneggiati in Medio Oriente**  
-  Fonte: BleepingComputer, 03 Mar 2026, 11:44:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/>)
-
 - **Agenti IA: la prossima ondata di identità della materia oscura: potente, invisibile e non gestita**  
   Fonte: The Hacker News, 03 Mar 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html>)
@@ -66,23 +122,11 @@
   Fonte: The Hacker News, 03 Mar 2026, 11:10:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html>)
 
-- **Lo sviluppatore di giochi Star Citizen rivela una violazione che riguarda i dati degli utenti**  
-  Fonte: BleepingComputer, 03 Mar 2026, 10:50:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/>)
-
-- **La violazione dei dati dell’UH Cancer Center colpisce quasi 1,2 milioni di persone**  
-  Fonte: BleepingComputer, 03 Mar 2026, 09:48:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/>)
-
 - **Microsoft avverte che l'abuso di reindirizzamento OAuth fornisce malware a obiettivi governativi**  
   Fonte: The Hacker News, 03 Mar 2026, 09:20:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html>)
 
-- **Android riceve le patch per Qualcomm zero-day sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 03 Mar 2026, 08:19:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/>)
-
-- **Google conferma che è stato sfruttato CVE-2026-21385 nel componente Android di Qualcomm**  
+- **Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited**  
   Fonte: The Hacker News, 03 Mar 2026, 07:08:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html>)
 
@@ -98,27 +142,11 @@
   Fonte: Cloudflare Blog - Security, 03 Mar 2026, 06:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/email-security-phishing-gap-llm/>)
 
-- **Strumento CyberStrikeAI adottato dagli hacker per attacchi basati sull'intelligenza artificiale**  
-  Fonte: BleepingComputer, 03 Mar 2026, 00:06:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/>)
-
-- **Il sito falso di Google Security utilizza l'app PWA per rubare credenziali e codici MFA**  
-  Fonte: BleepingComputer, 02 Mar 2026, 20:23:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/>)
-
-- **Un uomo dell'Alabama si dichiara colpevole di hacking ed estorsioni a centinaia di donne**  
-  Fonte: BleepingComputer, 02 Mar 2026, 18:54:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/>)
-
-- **Donna della Florida incarcerata per un massiccio programma di frode sulle licenze Microsoft**  
-  Fonte: BleepingComputer, 02 Mar 2026, 17:30:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/>)
-
 - **La nuova vulnerabilità di Chrome consente alle estensioni dannose di aumentare i privilegi tramite Gemini Panel**  
   Fonte: The Hacker News, 02 Mar 2026, 17:08:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html>)
 
-- **Google sviluppa certificati Merkle Tree per abilitare HTTPS resistente ai quantitativi in ​​Chrome**  
+- **Google sviluppa certificati Merkle Tree per abilitare HTTPS resistente ai quanti in Chrome**  
   Fonte: The Hacker News, 02 Mar 2026, 16:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/google-develops-merkle-tree.html>)
 
@@ -146,7 +174,7 @@
   Fonte: Troy Hunt, 02 Mar 2026, 07:51:14 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-493/>)
 
-- **ClawJacked Flaw consente ai siti dannosi di prendere il controllo degli agenti AI locali OpenClaw tramite WebSocket**  
+- **ClawJacked Flaw consente ai siti dannosi di prendere il controllo degli agenti AI locali di OpenClaw tramite WebSocket**  
   Fonte: The Hacker News, 28 Feb 2026, 17:21:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html>)
 
@@ -238,53 +266,5 @@
   Fonte: The Hacker News, 26 Feb 2026, 10:09:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html>)
 
-- **Cisco SD-WAN Zero-Day CVE-2026-20127 sfruttato dal 2023 per l'accesso amministrativo**  
-  Fonte: The Hacker News, 26 Feb 2026, 06:13:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html>)
 
-- **Smashing Security podcast n. 456: Come perdere amici e persone DDoS**  
-  Fonte: Graham Cluley, 26 Feb 2026, 00:16:49 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-456/>)
-
-- **Google interrompe la campagna UNC2814 GRIDTIDE dopo 53 violazioni in 42 paesi**  
-  Fonte: The Hacker News, 25 Feb 2026, 17:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html>)
-
-- **I difetti del codice Claude consentono l'esecuzione di codice remoto e l'esfiltrazione della chiave API**  
-  Fonte: The Hacker News, 25 Feb 2026, 17:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html>)
-
-- **SLH offre da 500 a 1.000 dollari per chiamata per reclutare donne per l'help desk IT Attacchi di vishing**  
-  Fonte: The Hacker News, 25 Feb 2026, 15:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html>)
-
-- **I 5 modi principali in cui il triage interrotto aumenta il rischio aziendale invece di ridurlo**  
-  Fonte: The Hacker News, 25 Feb 2026, 14:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html>)
-
-- **Pacchetti NuGet dannosi hanno rubato dati ASP.NET;npm Pacchetto eliminato Malware**  
-  Fonte: The Hacker News, 25 Feb 2026, 12:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html>)
-
-- **Dati di addestramento sull'IA sull'avvelenamento**  
-  Fonte: Schneier on Security, 25 Feb 2026, 12:01:23 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html>)
-
-- **I processi manuali mettono a rischio la sicurezza nazionale**  
-  Fonte: The Hacker News, 25 Feb 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/manual-processes-are-putting-national.html>)
-
-- **Viene offerta una ricompensa di $ 10.000 se riesci a hackerare le telecamere Ring per impedire loro di condividere i tuoi dati con Amazon**  
-  Fonte: Graham Cluley, 25 Feb 2026, 09:38:13 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/10-000-bounty-hack-ring-cameras>)
-
-- **Dipendente di un appaltatore della difesa incarcerato per aver venduto 8 Zero-Days a un broker russo**  
-  Fonte: The Hacker News, 25 Feb 2026, 08:49:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html>)
-
-- **SolarWinds patch 4 difetti critici Serv-U 15.5 che consentono l'esecuzione del codice root**  
-  Fonte: The Hacker News, 25 Feb 2026, 07:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-04 06:35:39 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-05 06:39:03 UTC -->
