@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **Gli hacker statali cinesi prendono di mira le società di telecomunicazioni con un nuovo toolkit malware**  
+  Fonte: BleepingComputer, 05 Mar 2026, 23:19:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/>)
+
+- **Bing AI ha promosso un falso repository OpenClaw GitHub spingendo malware che rubano informazioni**  
+  Fonte: BleepingComputer, 05 Mar 2026, 22:37:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/>)
+
+- **Wikipedia colpita da un worm JavaScript che si autopropaga e vandalizza le pagine**  
+  Fonte: BleepingComputer, 05 Mar 2026, 20:42:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/>)
+
+- **Bug del plugin di abbonamento WordPress sfruttato per creare account amministratore**  
+  Fonte: BleepingComputer, 05 Mar 2026, 18:44:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/>)
+
+- **L'FBI arresta un sospetto legato al furto di criptovalute da 46 milioni di dollari da parte degli US Marshals**  
+  Fonte: BleepingComputer, 05 Mar 2026, 18:36:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/>)
+
+- **Israele ha violato le telecamere del traffico in Iran**  
+  Fonte: Schneier on Security, 05 Mar 2026, 17:31:53 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html>)
+
+- **Cisco conferma lo sfruttamento attivo delle vulnerabilità di due Catalyst SD-WAN Manager**  
+  Fonte: The Hacker News, 05 Mar 2026, 15:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html>)
+
+- **Prepararsi all'era quantistica: webinar sulla crittografia post-quantistica per i leader della sicurezza**  
+  Fonte: The Hacker News, 05 Mar 2026, 15:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html>)
+
+- **Google afferma che lo scorso anno sono stati sfruttati 90 zero-day negli attacchi**  
+  Fonte: BleepingComputer, 05 Mar 2026, 15:03:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/>)
+
+- **I dati del browser del 2026 rivelano i principali punti ciechi della sicurezza aziendale**  
+  Fonte: BleepingComputer, 05 Mar 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/>)
+
+- **Bollettino del ThreatsDay: scalping bot DDR5, monitoraggio TV Samsung, multa sulla privacy di Reddit e altro**  
+  Fonte: The Hacker News, 05 Mar 2026, 13:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html>)
+
+- **La polizia smantella il circuito del gioco d'azzardo online che sfrutta le donne ucraine**  
+  Fonte: BleepingComputer, 05 Mar 2026, 12:39:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/>)
+
+- **Dust Spectre prende di mira i funzionari iracheni con i nuovi malware SPLITDROP e GHOSTFORM**  
+  Fonte: The Hacker News, 05 Mar 2026, 12:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html>)
+
+- **App hackerata, parte della campagna di propaganda statunitense/israeliana contro l'Iran**  
+  Fonte: Schneier on Security, 05 Mar 2026, 11:28:48 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/hacked-app-part-of-us-israeli-propaganda-campaign-against-iran.html>)
+
+- **Dove finisce l’autenticazione a più fattori e inizia l’abuso delle credenziali**  
+  Fonte: The Hacker News, 05 Mar 2026, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html>)
+
+- **Cisco segnala più difetti SD-WAN come sfruttati attivamente negli attacchi**  
+  Fonte: BleepingComputer, 05 Mar 2026, 10:32:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/>)
+
+- **La campagna collegata ad APT28 distribuisce BadPaw Loader e MeowMeow Backdoor in Ucraina**  
+  Fonte: The Hacker News, 05 Mar 2026, 10:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html>)
+
+- **L'amministratore del ransomware Phobos si dichiara colpevole di associazione a delinquere per frode telematica**  
+  Fonte: BleepingComputer, 05 Mar 2026, 08:34:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/>)
+
+- **L'operazione guidata da Europol abbatte il magnate 2FA Phishing-as-a-Service collegato a 64.000 attacchi**  
+  Fonte: The Hacker News, 05 Mar 2026, 06:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html>)
+
+- **FBI ed Europol sequestrano il forum LeakBase utilizzato per scambiare credenziali rubate**  
+  Fonte: The Hacker News, 05 Mar 2026, 06:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html>)
+
 - **Podcast di Smashing Security n. 457: Come un capo della sicurezza informatica ha incastrato il suo stesso dipendente**  
   Fonte: Graham Cluley, 05 Mar 2026, 00:33:23 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-457/>)
@@ -26,33 +106,9 @@
   Fonte: BleepingComputer, 04 Mar 2026, 19:12:43 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/>)
 
-- **Kit di exploit Coruna iOS di livello spyware ora utilizzato negli attacchi di furto di criptovalute**  
-  Fonte: BleepingComputer, 04 Mar 2026, 19:06:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/>)
-
-- **Gli hacker inviano in massa email di estorsione HungerRush ai clienti dei ristoranti**  
-  Fonte: BleepingComputer, 04 Mar 2026, 18:44:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/>)
-
-- **L'FBI sequestra il forum sulla criminalità informatica LeakBase, dati di 142.000 membri**  
-  Fonte: BleepingComputer, 04 Mar 2026, 17:44:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/>)
-
 - **149 attacchi DDoS di hacktivisti hanno colpito 110 organizzazioni in 16 paesi dopo il conflitto in Medio Oriente**  
   Fonte: The Hacker News, 04 Mar 2026, 17:21:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html>)
-
-- **L'azione coordinata da Europol distrugge la piattaforma di phishing Tycoon2FA**  
-  Fonte: BleepingComputer, 04 Mar 2026, 17:01:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/>)
-
-- **Il centro medico del Mississippi riapre le cliniche colpite da un attacco ransomware**  
-  Fonte: BleepingComputer, 04 Mar 2026, 15:28:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/>)
-
-- **Come un attacco di forza bruta ha smascherato una rete infrastrutturale ransomware**  
-  Fonte: BleepingComputer, 04 Mar 2026, 15:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-a-brute-force-attack-unmasked-a-ransomware-infrastructure-network/>)
 
 - **Coruna iOS Exploit Kit utilizza 23 exploit in cinque catene destinati a iOS 13–17.2.1**  
   Fonte: The Hacker News, 04 Mar 2026, 13:28:00 UTC  
@@ -77,22 +133,6 @@
 - **CISA aggiunge il difetto CVE-2026-22719 di VMware Aria Operations attivamente sfruttato al catalogo KEV**  
   Fonte: The Hacker News, 04 Mar 2026, 04:35:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html>)
-
-- **CISA segnala il difetto RCE di VMware Aria Operations come sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 03 Mar 2026, 23:40:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/>)
-
-- **Il colosso produttore di vernici AkzoNobel conferma l'attacco informatico al sito americano**  
-  Fonte: BleepingComputer, 03 Mar 2026, 23:00:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/>)
-
-- **Account Facebook non disponibili in caso di interruzione mondiale**  
-  Fonte: BleepingComputer, 03 Mar 2026, 22:38:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/>)
-
-- **Microsoft: gli hacker abusano dei flussi di errori OAuth per diffondere malware**  
-  Fonte: BleepingComputer, 03 Mar 2026, 20:59:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/>)
 
 - **Lo spam del supporto tecnico falso distribuisce Havoc C2 personalizzato nelle organizzazioni**  
   Fonte: The Hacker News, 03 Mar 2026, 17:15:00 UTC  
@@ -126,7 +166,7 @@
   Fonte: The Hacker News, 03 Mar 2026, 09:20:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html>)
 
-- **Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited**  
+- **Google conferma che è stato sfruttato CVE-2026-21385 nel componente Android di Qualcomm**  
   Fonte: The Hacker News, 03 Mar 2026, 07:08:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html>)
 
@@ -226,45 +266,5 @@
   Fonte: The Hacker News, 27 Feb 2026, 07:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html>)
 
-- **Maggiore trasparenza nell'utilizzo post-quantistico, nella messaggistica crittografata e nella sicurezza del routing**  
-  Fonte: Cloudflare Blog - Security, 27 Feb 2026, 06:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/radar-origin-pq-key-transparency-aspa/>)
 
-- **Il tuo personale rappresenta il più grande rischio per la sicurezza: l’intelligenza artificiale sta peggiorando le cose**  
-  Fonte: Graham Cluley, 26 Feb 2026, 21:21:23 UTC  
-  [Leggi](<https://www.fortra.com/blog/your-staff-are-your-biggest-security-risk-ai-making-it-worse>)
-
-- **La botnet Aeternum C2 memorizza comandi crittografati sulla Blockchain Polygon per evitare la rimozione**  
-  Fonte: The Hacker News, 26 Feb 2026, 18:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html>)
-
-- **UAT-10027 prende di mira l'istruzione e la sanità negli Stati Uniti con Dohdoor Backdoor**  
-  Fonte: The Hacker News, 26 Feb 2026, 15:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html>)
-
-- **Bollettino del ThreatsDay: Kali Linux + Claude, crash trap di Chrome, difetti di WinRAR, LockBit e oltre 15 storie**  
-  Fonte: The Hacker News, 26 Feb 2026, 14:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html>)
-
-- **Famigerata banda di ransomware presumibilmente ricattata da un falso ufficiale dell'FSB**  
-  Fonte: Graham Cluley, 26 Feb 2026, 13:40:32 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-gang-blackmailed-fake-fsb-officer>)
-
-- **Gli LLM generano password prevedibili**  
-  Fonte: Schneier on Security, 26 Feb 2026, 12:07:10 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/llms-generate-predictable-passwords.html>)
-
-- **L'esperto consiglia: preparati subito per il PQC**  
-  Fonte: The Hacker News, 26 Feb 2026, 12:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html>)
-
-- **Microsoft avverte gli sviluppatori di falsi repository di processi Next.js che forniscono malware in memoria**  
-  Fonte: The Hacker News, 26 Feb 2026, 10:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html>)
-
-- **Il pacchetto dannoso StripeApi NuGet ha imitato la libreria ufficiale e rubato token API**  
-  Fonte: The Hacker News, 26 Feb 2026, 10:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-05 06:39:03 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-06 06:36:04 UTC -->
