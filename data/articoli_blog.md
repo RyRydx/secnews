@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: i calamari nella cucina dei monaci bizantini**  
+  Fonte: Schneier on Security, 06 Mar 2026, 22:03:17 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html>)
+
+- **La violazione consapevole di TriZetto espone i dati sanitari di 3,4 milioni di pazienti**  
+  Fonte: BleepingComputer, 06 Mar 2026, 19:50:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/>)
+
+- **Come gli hacker hanno aggirato l'MFA con un kit di phishing da 120 dollari, finché una rimozione globale non lo ha bloccato**  
+  Fonte: Graham Cluley, 06 Mar 2026, 17:58:41 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-bypassed-mfa-120-phishing-kit-global-takedown-shut-down>)
+
+- **Antropico e il Pentagono**  
+  Fonte: Schneier on Security, 06 Mar 2026, 17:07:40 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/anthropic-and-the-pentagon.html>)
+
+- **La CISA avvisa i federali di correggere i difetti iOS sfruttati negli attacchi di furto di criptovalute**  
+  Fonte: BleepingComputer, 06 Mar 2026, 15:57:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/>)
+
+- **Transparent Tribe utilizza l'intelligenza artificiale per produrre in serie impianti di malware in una campagna rivolta all'India**  
+  Fonte: The Hacker News, 06 Mar 2026, 15:11:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html>)
+
+- **Il Consiglio della CE amplia il portafoglio di certificazioni sull’intelligenza artificiale per rafforzare la preparazione e la sicurezza della forza lavoro statunitense impegnata nell’intelligenza artificiale**  
+  Fonte: BleepingComputer, 06 Mar 2026, 15:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/>)
+
+- **Le guide all'installazione di Fake Claude Code spingono gli infostealer negli attacchi InstallFix**  
+  Fonte: BleepingComputer, 06 Mar 2026, 15:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/>)
+
+- **Malware multifase VOID#GEIST che distribuisce XWorm, AsyncRAT e Xeno RAT**  
+  Fonte: The Hacker News, 06 Mar 2026, 14:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html>)
+
+- **Microsoft 365 Backup per aggiungere il ripristino a livello di file per un ripristino più rapido**  
+  Fonte: BleepingComputer, 06 Mar 2026, 14:21:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/>)
+
+- **Claude era solito hackerare il governo messicano**  
+  Fonte: Schneier on Security, 06 Mar 2026, 11:53:27 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/claude-used-to-hack-mexican-government.html>)
+
+- **La guida MSP per utilizzare la gestione del rischio basata sull'intelligenza artificiale per ampliare la sicurezza informatica**  
+  Fonte: The Hacker News, 06 Mar 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html>)
+
+- **Gli hacker MuddyWater legati all'Iran prendono di mira le reti statunitensi con la nuova backdoor Dindoor**  
+  Fonte: The Hacker News, 06 Mar 2026, 10:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html>)
+
+- **Un uomo del Ghana si dichiara colpevole di aver partecipato ad un giro di frode da 100 milioni di dollari**  
+  Fonte: BleepingComputer, 06 Mar 2026, 10:08:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/>)
+
+- **L'FBI indaga sulla violazione dei sistemi di sorveglianza e di intercettazione telefonica**  
+  Fonte: BleepingComputer, 06 Mar 2026, 08:44:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/>)
+
+- **Gli hacker legati alla Cina utilizzano TernDoor, PeerTime e BruteEntry negli attacchi alle telecomunicazioni in Sud America**  
+  Fonte: The Hacker News, 06 Mar 2026, 08:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html>)
+
+- **Microsoft rivela la campagna ClickFix che utilizza il terminale Windows per distribuire Lumma Stealer**  
+  Fonte: The Hacker News, 06 Mar 2026, 06:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html>)
+
+- **Difetti CVSS 9.8 di Hikvision e Rockwell Automation aggiunti al catalogo CISA KEV**  
+  Fonte: The Hacker News, 06 Mar 2026, 06:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html>)
+
 - **Gli hacker statali cinesi prendono di mira le società di telecomunicazioni con un nuovo toolkit malware**  
   Fonte: BleepingComputer, 05 Mar 2026, 23:19:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/>)
@@ -62,17 +134,9 @@
   Fonte: The Hacker News, 05 Mar 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html>)
 
-- **Cisco segnala più difetti SD-WAN come sfruttati attivamente negli attacchi**  
-  Fonte: BleepingComputer, 05 Mar 2026, 10:32:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/>)
-
 - **La campagna collegata ad APT28 distribuisce BadPaw Loader e MeowMeow Backdoor in Ucraina**  
   Fonte: The Hacker News, 05 Mar 2026, 10:10:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html>)
-
-- **L'amministratore del ransomware Phobos si dichiara colpevole di associazione a delinquere per frode telematica**  
-  Fonte: BleepingComputer, 05 Mar 2026, 08:34:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/>)
 
 - **L'operazione guidata da Europol abbatte il magnate 2FA Phishing-as-a-Service collegato a 64.000 attacchi**  
   Fonte: The Hacker News, 05 Mar 2026, 06:51:00 UTC  
@@ -85,26 +149,6 @@
 - **Podcast di Smashing Security n. 457: Come un capo della sicurezza informatica ha incastrato il suo stesso dipendente**  
   Fonte: Graham Cluley, 05 Mar 2026, 00:33:23 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-457/>)
-
-- **Bitwarden aggiunge il supporto per l'accesso con passkey su Windows 11**  
-  Fonte: BleepingComputer, 04 Mar 2026, 22:34:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/>)
-
-- **L'attacco zero-click di Mail2Shell consente agli hacker di prendere il controllo dei server di posta di FreeScout**  
-  Fonte: BleepingComputer, 04 Mar 2026, 21:51:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/>)
-
-- **L'aggiornamento KB5075039 di Windows 10 risolve i problemi di Recovery Environment**  
-  Fonte: BleepingComputer, 04 Mar 2026, 21:03:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/>)
-
-- **I thread di posta elettronica falsi del supporto LastPass tentano di rubare le password del vault**  
-  Fonte: BleepingComputer, 04 Mar 2026, 20:44:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/>)
-
-- **Cisco avverte della massima gravità dei difetti FMC sicuri che forniscono l'accesso root**  
-  Fonte: BleepingComputer, 04 Mar 2026, 19:12:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/>)
 
 - **149 attacchi DDoS di hacktivisti hanno colpito 110 organizzazioni in 16 paesi dopo il conflitto in Medio Oriente**  
   Fonte: The Hacker News, 04 Mar 2026, 17:21:00 UTC  
@@ -186,7 +230,7 @@
   Fonte: The Hacker News, 02 Mar 2026, 17:08:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html>)
 
-- **Google sviluppa certificati Merkle Tree per abilitare HTTPS resistente ai quanti in Chrome**  
+- **Google sviluppa certificati Merkle Tree per abilitare HTTPS resistente ai quantitativi in ​​Chrome**  
   Fonte: The Hacker News, 02 Mar 2026, 16:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/google-develops-merkle-tree.html>)
 
@@ -226,45 +270,5 @@
   Fonte: The Hacker News, 28 Feb 2026, 09:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html>)
 
-- **Il Pentagono designa il rischio della catena di approvvigionamento antropica a causa della controversia militare sull’intelligenza artificiale**  
-  Fonte: The Hacker News, 28 Feb 2026, 04:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html>)
 
-- **Blog sui calamari del venerdì: pesca dei calamari in Perù**  
-  Fonte: Schneier on Security, 27 Feb 2026, 22:04:45 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html>)
-
-- **Il Dipartimento di Giustizia sequestra 61 milioni di dollari in Tether legati a truffe crittografiche legate alla macellazione di maiali**  
-  Fonte: The Hacker News, 27 Feb 2026, 18:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html>)
-
-- **Oltre 900 istanze Sangoma FreePBX compromesse dai continui attacchi Web Shell**  
-  Fonte: The Hacker News, 27 Feb 2026, 17:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html>)
-
-- **Il modulo dannoso Go Crypto ruba le password e distribuisce la backdoor di Rekoobe**  
-  Fonte: The Hacker News, 27 Feb 2026, 15:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html>)
-
-- **ScarCruft utilizza Zoho WorkDrive e malware USB per violare reti air-gapped**  
-  Fonte: The Hacker News, 27 Feb 2026, 12:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html>)
-
-- **Perché la rete Internet a due livelli di Teheran è così pericolosa**  
-  Fonte: Schneier on Security, 27 Feb 2026, 12:05:59 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html>)
-
-- **Attacchi di phishing contro persone in cerca di lavoro nella programmazione**  
-  Fonte: Schneier on Security, 27 Feb 2026, 12:04:28 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/02/phishing-attacks-against-people-seeking-programming-jobs.html>)
-
-- **Strumenti di gioco con trojan diffondono RAT basato su Java tramite browser e piattaforme di chat**  
-  Fonte: The Hacker News, 27 Feb 2026, 10:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html>)
-
-- **Cause Meta Files contro inserzionisti brasiliani, cinesi e vietnamiti per truffe di celebrità**  
-  Fonte: The Hacker News, 27 Feb 2026, 07:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-06 06:36:04 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-07 06:28:28 UTC -->
