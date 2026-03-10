@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 494**  
+  Fonte: Troy Hunt, 10 Mar 2026, 01:29:35 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-494/>)
+
+- **Il phishing di Microsoft Teams prende di mira i dipendenti con il malware A0Backdoor**  
+  Fonte: BleepingComputer, 09 Mar 2026, 22:50:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/>)
+
+- **Google: gli attacchi cloud sfruttano più i difetti che le credenziali deboli**  
+  Fonte: BleepingComputer, 09 Mar 2026, 21:45:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/>)
+
+- **Il governo olandese avverte di attacchi di dirottamento di account Signal e WhatsApp**  
+  Fonte: BleepingComputer, 09 Mar 2026, 21:24:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/>)
+
+- **Ericsson US rivela la violazione dei dati dopo l'hacking del fornitore di servizi**  
+  Fonte: BleepingComputer, 09 Mar 2026, 19:07:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/>)
+
+- **Il pacchetto npm dannoso che si spaccia per programma di installazione di OpenClaw distribuisce RAT e ruba le credenziali di macOS**  
+  Fonte: The Hacker News, 09 Mar 2026, 18:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html>)
+
+- **Microsoft Teams contrassegnerà i bot di terze parti che tentano di partecipare alle riunioni**  
+  Fonte: BleepingComputer, 09 Mar 2026, 17:12:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/>)
+
+- **ShinyHunters denuncia gli attacchi di furto di dati Salesforce Aura in corso**  
+  Fonte: BleepingComputer, 09 Mar 2026, 17:12:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/>)
+
+- **L'FBI avverte di attacchi di phishing che si spacciano per funzionari di città e contea degli Stati Uniti**  
+  Fonte: BleepingComputer, 09 Mar 2026, 15:30:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/>)
+
+- **UNC4899 Violazione dell'azienda di crittografia dopo che lo sviluppatore AirDrop ha inserito il file trojan sul dispositivo di lavoro**  
+  Fonte: The Hacker News, 09 Mar 2026, 14:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html>)
+
+- **Perché i controlli delle password non riescono a cogliere gli account effettivamente desiderati dagli aggressori**  
+  Fonte: BleepingComputer, 09 Mar 2026, 14:10:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/>)
+
+- **Microsoft sta ancora lavorando per correggere i flash bianchi di Windows Explorer**  
+  Fonte: BleepingComputer, 09 Mar 2026, 14:10:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/>)
+
+- **Correzione delle vulnerabilità legate al contrabbando di richieste nelle distribuzioni di Pingora OSS**  
+  Fonte: Cloudflare Blog - Security, 09 Mar 2026, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/>)
+
+- **Difesa attiva: introduzione di uno scanner di vulnerabilità con stato per le API**  
+  Fonte: Cloudflare Blog - Security, 09 Mar 2026, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/vulnerability-scanner/>)
+
+- **⚡ Riepilogo settimanale: Qualcomm 0-Day, catene di exploit iOS, attacco AirSnitch e malware Vibe-Coded**  
+  Fonte: The Hacker News, 09 Mar 2026, 13:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html>)
+
+- **La piattaforma di sicurezza potrà finalmente offrire risultati soddisfacenti al mercato medio?**  
+  Fonte: The Hacker News, 09 Mar 2026, 11:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html>)
+
+- **Nuovo attacco contro il Wi-Fi**  
+  Fonte: Schneier on Security, 09 Mar 2026, 10:57:18 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/new-attack-against-wi-fi.html>)
+
+- **L'estensione di Chrome diventa dannosa dopo il trasferimento della proprietà, abilitando l'inserimento di codice e il furto di dati**  
+  Fonte: The Hacker News, 09 Mar 2026, 10:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html>)
+
+- **Exploit del server Web e Mimikatz utilizzati negli attacchi contro le infrastrutture critiche asiatiche**  
+  Fonte: The Hacker News, 09 Mar 2026, 07:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html>)
+
 - **Come gli assistenti AI stanno spostando gli obiettivi di sicurezza**  
   Fonte: Krebs on Security, 08 Mar 2026, 23:35:42 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/>)
@@ -54,21 +130,9 @@
   Fonte: The Hacker News, 06 Mar 2026, 15:11:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html>)
 
-- **Il Consiglio della CE amplia il portafoglio di certificazioni sull’intelligenza artificiale per rafforzare la preparazione e la sicurezza della forza lavoro statunitense impegnata nell’intelligenza artificiale**  
-  Fonte: BleepingComputer, 06 Mar 2026, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/>)
-
-- **Le guide all'installazione di Fake Claude Code spingono gli infostealer negli attacchi InstallFix**  
-  Fonte: BleepingComputer, 06 Mar 2026, 15:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/>)
-
 - **Malware VOID#GEIST multifase che distribuisce XWorm, AsyncRAT e Xeno RAT**  
   Fonte: The Hacker News, 06 Mar 2026, 14:33:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html>)
-
-- **Microsoft 365 Backup per aggiungere il ripristino a livello di file per un ripristino più rapido**  
-  Fonte: BleepingComputer, 06 Mar 2026, 14:21:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/>)
 
 - **Claude era solito hackerare il governo messicano**  
   Fonte: Schneier on Security, 06 Mar 2026, 11:53:27 UTC  
@@ -82,14 +146,6 @@
   Fonte: The Hacker News, 06 Mar 2026, 10:23:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html>)
 
-- **Un uomo del Ghana si dichiara colpevole di aver partecipato ad un giro di frode da 100 milioni di dollari**  
-  Fonte: BleepingComputer, 06 Mar 2026, 10:08:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/>)
-
-- **L'FBI indaga sulla violazione dei sistemi di sorveglianza e di intercettazione telefonica**  
-  Fonte: BleepingComputer, 06 Mar 2026, 08:44:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/>)
-
 - **Gli hacker legati alla Cina utilizzano TernDoor, PeerTime e BruteEntry negli attacchi alle telecomunicazioni in Sud America**  
   Fonte: The Hacker News, 06 Mar 2026, 08:22:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html>)
@@ -101,22 +157,6 @@
 - **Difetti CVSS 9.8 di Hikvision e Rockwell Automation aggiunti al catalogo CISA KEV**  
   Fonte: The Hacker News, 06 Mar 2026, 06:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html>)
-
-- **Gli hacker statali cinesi prendono di mira le società di telecomunicazioni con un nuovo toolkit malware**  
-  Fonte: BleepingComputer, 05 Mar 2026, 23:19:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/>)
-
-- **Bing AI ha promosso un falso repository OpenClaw GitHub spingendo malware che rubano informazioni**  
-  Fonte: BleepingComputer, 05 Mar 2026, 22:37:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/>)
-
-- **Wikipedia colpita da un worm JavaScript che si autopropaga e vandalizza le pagine**  
-  Fonte: BleepingComputer, 05 Mar 2026, 20:42:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/>)
-
-- **Bug del plugin di abbonamento WordPress sfruttato per creare account amministratore**  
-  Fonte: BleepingComputer, 05 Mar 2026, 18:44:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/>)
 
 - **Israele ha violato le telecamere del traffico in Iran**  
   Fonte: Schneier on Security, 05 Mar 2026, 17:31:53 UTC  
@@ -230,45 +270,5 @@
   Fonte: The Hacker News, 03 Mar 2026, 06:53:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html>)
 
-- **Come Cloudy traduce la sicurezza complessa in azione umana**  
-  Fonte: Cloudflare Blog - Security, 03 Mar 2026, 06:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/cloudy-upgrades-for-cloudflare-one/>)
 
-- **Da reattivo a proattivo: colmare il divario del phishing con i LLM**  
-  Fonte: Cloudflare Blog - Security, 03 Mar 2026, 06:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/email-security-phishing-gap-llm/>)
-
-- **La nuova vulnerabilità di Chrome consente alle estensioni dannose di aumentare i privilegi tramite Gemini Panel**  
-  Fonte: The Hacker News, 02 Mar 2026, 17:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html>)
-
-- **Google sviluppa certificati Merkle Tree per abilitare HTTPS resistente ai quantitativi in ​​Chrome**  
-  Fonte: The Hacker News, 02 Mar 2026, 16:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/google-develops-merkle-tree.html>)
-
-- **⚡ Riepilogo settimanale: SD-WAN 0-Day, CVE critici, sonda Telegram, SDK proxy Smart TV e altro**  
-  Fonte: The Hacker News, 02 Mar 2026, 13:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html>)
-
-- **Deanonimizzazione assistita da LLM**  
-  Fonte: Schneier on Security, 02 Mar 2026, 12:05:48 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html>)
-
-- **Come proteggere il tuo SaaS dagli attacchi bot con SafeLine WAF**  
-  Fonte: The Hacker News, 02 Mar 2026, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html>)
-
-- **APT28 legato a CVE-2026-21513 MSHTML 0-Day sfruttato prima del martedì della patch di febbraio 2026**  
-  Fonte: The Hacker News, 02 Mar 2026, 10:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html>)
-
-- **Gli hacker nordcoreani pubblicano pacchetti da 26 npm che nascondono Pastebin C2 per RAT multipiattaforma**  
-  Fonte: The Hacker News, 02 Mar 2026, 08:44:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html>)
-
-- **Aggiornamento settimanale 493**  
-  Fonte: Troy Hunt, 02 Mar 2026, 07:51:14 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-493/>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-09 06:51:10 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-10 06:37:00 UTC -->
