@@ -2,6 +2,110 @@
 
 ## Ultimi 7 giorni
 
+- **Cinque casse Rust dannose e bot IA sfruttano le pipeline CI/CD per rubare i segreti degli sviluppatori**  
+  Fonte: The Hacker News, 11 Mar 2026, 05:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html>)
+
+- **Microsoft Patch Tuesday, edizione di marzo 2026**  
+  Fonte: Krebs on Security, 11 Mar 2026, 00:32:51 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/>)
+
+- **Il nuovo killer EDR "BlackSanta" è stato individuato mentre prendeva di mira i dipartimenti delle risorse umane**  
+  Fonte: BleepingComputer, 10 Mar 2026, 22:57:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/>)
+
+- **Il nuovo malware Android BeatBanker si finge app Starlink per dirottare i dispositivi**  
+  Fonte: BleepingComputer, 10 Mar 2026, 21:27:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/>)
+
+- **La nuova tecnica "Zombie ZIP" consente al malware di oltrepassare gli strumenti di sicurezza**  
+  Fonte: BleepingComputer, 10 Mar 2026, 20:05:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/>)
+
+- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5078885 di Windows 10**  
+  Fonte: BleepingComputer, 10 Mar 2026, 18:23:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/>)
+
+- **Il Patch Tuesday di Microsoft di marzo 2026 corregge 2 zero-day e 79 difetti**  
+  Fonte: BleepingComputer, 10 Mar 2026, 17:49:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/>)
+
+- **Aggiornamenti cumulativi KB5079473 e KB5078883 di Windows 11 rilasciati**  
+  Fonte: BleepingComputer, 10 Mar 2026, 17:41:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/>)
+
+- **HPE avverte di un difetto critico di AOS-CX che consente la reimpostazione della password dell'amministratore**  
+  Fonte: BleepingComputer, 10 Mar 2026, 17:30:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/>)
+
+- **Dispositivi FortiGate sfruttati per violare le reti e rubare le credenziali degli account di servizio**  
+  Fonte: The Hacker News, 10 Mar 2026, 16:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html>)
+
+- **Come fermare le fughe di dati dell'intelligenza artificiale: una guida al webinar per il controllo dei flussi di lavoro agentici moderni**  
+  Fonte: The Hacker News, 10 Mar 2026, 16:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html>)
+
+- **Il malware KadNap infetta oltre 14.000 dispositivi Edge per alimentare botnet proxy Stealth**  
+  Fonte: The Hacker News, 10 Mar 2026, 16:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html>)
+
+- **Twitter ha sospeso 800 milioni di account l’anno scorso: allora perché la manipolazione rimane così dilagante?**  
+  Fonte: Graham Cluley, 10 Mar 2026, 15:54:37 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/twitter-suspended-800-million-accounts-last-year-so-why-does-manipulation-remain-so-rampant>)
+
+- **Microsoft offre accessi Windows resistenti al phishing tramite le passkey Entra**  
+  Fonte: BleepingComputer, 10 Mar 2026, 15:27:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/>)
+
+- **La nuova botnet KadNap dirotta i router ASUS per alimentare la rete proxy del crimine informatico**  
+  Fonte: BleepingComputer, 10 Mar 2026, 15:01:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/>)
+
+- **Il nuovo test di Turing: come le minacce utilizzano la geometria per dimostrare l'"umanità"**  
+  Fonte: BleepingComputer, 10 Mar 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/>)
+
+- **Nuovi difetti "LeakyLooker" in Google Looker Studio potrebbero abilitare query SQL cross-tenant**  
+  Fonte: The Hacker News, 10 Mar 2026, 13:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html>)
+
+- **Analisi degli attacchi multi-vettore in Log Explorer**  
+  Fonte: Cloudflare Blog - Security, 10 Mar 2026, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/>)
+
+- **CISA: la falla EPM di Ivanti, recentemente corretta, è ora attivamente sfruttata**  
+  Fonte: BleepingComputer, 10 Mar 2026, 11:36:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/>)
+
+- **La corsa al giorno zero è evitabile: una guida alla riduzione della superficie di attacco**  
+  Fonte: The Hacker News, 10 Mar 2026, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html>)
+
+- **APT28 utilizza il malware BEARDSHELL e COVENANT per spiare l'esercito ucraino**  
+  Fonte: The Hacker News, 10 Mar 2026, 10:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html>)
+
+- **Microsoft abilita gli aggiornamenti di sicurezza hotpatch di Windows per impostazione predefinita**  
+  Fonte: BleepingComputer, 10 Mar 2026, 10:35:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/>)
+
+- **Gli hacker APT28 distribuiscono una variante personalizzata dello strumento open source Covenant**  
+  Fonte: BleepingComputer, 10 Mar 2026, 10:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/>)
+
+- **Jailbreak dell'aereo da caccia F-35**  
+  Fonte: Schneier on Security, 10 Mar 2026, 09:50:23 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html>)
+
+- **Gli autori delle minacce eseguono una scansione di massa di Salesforce Experience Cloud tramite lo strumento AuraInspector modificato**  
+  Fonte: The Hacker News, 10 Mar 2026, 07:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html>)
+
+- **CISA segnala le vulnerabilità di SolarWinds, Ivanti e Workspace One come attivamente sfruttate**  
+  Fonte: The Hacker News, 10 Mar 2026, 06:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html>)
+
 - **Aggiornamento settimanale 494**  
   Fonte: Troy Hunt, 10 Mar 2026, 01:29:35 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-494/>)
@@ -14,41 +118,13 @@
   Fonte: BleepingComputer, 09 Mar 2026, 21:45:34 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/>)
 
-- **Il governo olandese avverte di attacchi di dirottamento di account Signal e WhatsApp**  
-  Fonte: BleepingComputer, 09 Mar 2026, 21:24:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/>)
-
-- **Ericsson US rivela la violazione dei dati dopo l'hacking del fornitore di servizi**  
-  Fonte: BleepingComputer, 09 Mar 2026, 19:07:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/>)
-
 - **Il pacchetto npm dannoso che si spaccia per programma di installazione di OpenClaw distribuisce RAT e ruba le credenziali di macOS**  
   Fonte: The Hacker News, 09 Mar 2026, 18:31:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html>)
 
-- **Microsoft Teams contrassegnerà i bot di terze parti che tentano di partecipare alle riunioni**  
-  Fonte: BleepingComputer, 09 Mar 2026, 17:12:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/>)
-
-- **ShinyHunters denuncia gli attacchi di furto di dati Salesforce Aura in corso**  
-  Fonte: BleepingComputer, 09 Mar 2026, 17:12:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/>)
-
-- **L'FBI avverte di attacchi di phishing che si spacciano per funzionari di città e contea degli Stati Uniti**  
-  Fonte: BleepingComputer, 09 Mar 2026, 15:30:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/>)
-
 - **UNC4899 Violazione dell'azienda di crittografia dopo che lo sviluppatore AirDrop ha inserito il file trojan sul dispositivo di lavoro**  
   Fonte: The Hacker News, 09 Mar 2026, 14:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html>)
-
-- **Perché i controlli delle password non riescono a cogliere gli account effettivamente desiderati dagli aggressori**  
-  Fonte: BleepingComputer, 09 Mar 2026, 14:10:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/>)
-
-- **Microsoft sta ancora lavorando per correggere i flash bianchi di Windows Explorer**  
-  Fonte: BleepingComputer, 09 Mar 2026, 14:10:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/>)
 
 - **Correzione delle vulnerabilità legate al contrabbando di richieste nelle distribuzioni di Pingora OSS**  
   Fonte: Cloudflare Blog - Security, 09 Mar 2026, 14:00:00 UTC  
@@ -82,25 +158,9 @@
   Fonte: Krebs on Security, 08 Mar 2026, 23:35:42 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/>)
 
-- **Il consulente del tribunale dell'UE afferma che le banche devono rimborsare immediatamente le vittime di phishing**  
-  Fonte: BleepingComputer, 08 Mar 2026, 15:25:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/>)
-
-- **Gli hacker abusano dei DNS .arpa e ipv6 per eludere le difese anti-phishing**  
-  Fonte: BleepingComputer, 08 Mar 2026, 14:12:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/>)
-
 - **La sicurezza OpenAI Codex ha scansionato 1,2 milioni di commit e ha rilevato 10.561 problemi di elevata gravità**  
   Fonte: The Hacker News, 07 Mar 2026, 16:28:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html>)
-
-- **Violazioni del ransomware Termite collegate agli attacchi ClickFix CastleRAT**  
-  Fonte: BleepingComputer, 07 Mar 2026, 16:14:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/>)
-
-- **Microsoft: gli hacker abusano dell'intelligenza artificiale in ogni fase degli attacchi informatici**  
-  Fonte: BleepingComputer, 07 Mar 2026, 15:15:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/>)
 
 - **Anthropic rileva 22 vulnerabilità di Firefox utilizzando il modello AI di Claude Opus 4.6**  
   Fonte: The Hacker News, 07 Mar 2026, 11:21:00 UTC  
@@ -110,10 +170,6 @@
   Fonte: Schneier on Security, 06 Mar 2026, 22:03:17 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html>)
 
-- **La violazione consapevole di TriZetto espone i dati sanitari di 3,4 milioni di pazienti**  
-  Fonte: BleepingComputer, 06 Mar 2026, 19:50:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/>)
-
 - **Come gli hacker hanno aggirato l'MFA con un kit di phishing da 120 dollari, finché una rimozione globale non lo ha bloccato**  
   Fonte: Graham Cluley, 06 Mar 2026, 17:58:41 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-bypassed-mfa-120-phishing-kit-global-takedown-shut-down>)
@@ -121,10 +177,6 @@
 - **Antropico e il Pentagono**  
   Fonte: Schneier on Security, 06 Mar 2026, 17:07:40 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/anthropic-and-the-pentagon.html>)
-
-- **La CISA avvisa i federali di correggere i difetti di iOS sfruttati negli attacchi di furto di criptovalute**  
-  Fonte: BleepingComputer, 06 Mar 2026, 15:57:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/>)
 
 - **Transparent Tribe utilizza l'intelligenza artificiale per produrre in serie impianti di malware in una campagna rivolta all'India**  
   Fonte: The Hacker News, 06 Mar 2026, 15:11:00 UTC  
@@ -226,49 +278,5 @@
   Fonte: The Hacker News, 04 Mar 2026, 08:14:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html>)
 
-- **CISA aggiunge il difetto CVE-2026-22719 di VMware Aria Operations attivamente sfruttato al catalogo KEV**  
-  Fonte: The Hacker News, 04 Mar 2026, 04:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html>)
 
-- **Lo spam del supporto tecnico falso distribuisce Havoc C2 personalizzato nelle organizzazioni**  
-  Fonte: The Hacker News, 03 Mar 2026, 17:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html>)
-
-- **Hanno sequestrato 4,8 milioni di dollari in criptovalute... e poi hanno fornito la chiave principale a Internet**  
-  Fonte: Graham Cluley, 03 Mar 2026, 16:09:08 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/they-seized-4-8m-in-crypto-then-gave-the-master-key-to-the-internet>)
-
-- **Costruire un livello 1 ad alto impatto: i 3 passaggi che i CISO devono seguire**  
-  Fonte: The Hacker News, 03 Mar 2026, 14:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html>)
-
-- **CyberStrikeAI open source implementato negli attacchi FortiGate guidati dall'intelligenza artificiale in 55 paesi**  
-  Fonte: The Hacker News, 03 Mar 2026, 14:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html>)
-
-- **Su Moltbook**  
-  Fonte: Schneier on Security, 03 Mar 2026, 12:04:29 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/on-moltbook.html>)
-
-- **Agenti IA: la prossima ondata di identità della materia oscura: potente, invisibile e non gestita**  
-  Fonte: The Hacker News, 03 Mar 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html>)
-
-- **La suite di phishing Starkiller utilizza il proxy inverso AitM per bypassare l'autenticazione a più fattori**  
-  Fonte: The Hacker News, 03 Mar 2026, 11:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html>)
-
-- **Microsoft avverte che l'abuso di reindirizzamento OAuth fornisce malware a obiettivi governativi**  
-  Fonte: The Hacker News, 03 Mar 2026, 09:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html>)
-
-- **Google conferma che è stato sfruttato CVE-2026-21385 nel componente Android di Qualcomm**  
-  Fonte: The Hacker News, 03 Mar 2026, 07:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html>)
-
-- **SloppyLemming prende di mira i governi del Pakistan e del Bangladesh utilizzando doppie catene di malware**  
-  Fonte: The Hacker News, 03 Mar 2026, 06:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-10 06:37:00 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-11 06:40:35 UTC -->
