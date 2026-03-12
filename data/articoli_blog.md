@@ -2,11 +2,83 @@
 
 ## Ultimi 7 giorni
 
+- **CISA segnala il bug RCE n8n attivamente sfruttato poiché 24.700 istanze rimangono esposte**  
+  Fonte: The Hacker News, 12 Mar 2026, 05:18:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html>)
+
+- **Podcast Smashing Security n. 458: Come non rubare 46 milioni di dollari al governo degli Stati Uniti**  
+  Fonte: Graham Cluley, 12 Mar 2026, 00:30:37 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-458/>)
+
+- **WhatsApp introduce gli account gestiti dai genitori per i preadolescenti**  
+  Fonte: BleepingComputer, 11 Mar 2026, 20:06:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/>)
+
+- **Il difetto SQLi nel plug-in Elementor Ally ha un impatto su oltre 250.000 siti WordPress**  
+  Fonte: BleepingComputer, 11 Mar 2026, 19:38:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/>)
+
+- **La CISA ordina ai federali di correggere la falla RCE n8n sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 11 Mar 2026, 18:21:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/>)
+
+- **Il gigante della tecnologia Medtech Stryker offline dopo l'attacco malware legato all'Iran**  
+  Fonte: BleepingComputer, 11 Mar 2026, 17:21:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/>)
+
+- **La nuova ondata di attacchi PhantomRaven NPM ruba i dati degli sviluppatori tramite 88 pacchetti**  
+  Fonte: BleepingComputer, 11 Mar 2026, 17:09:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/>)
+
+- **I ricercatori ingannano il browser AI Comet di Perplexity trasformandolo in una truffa di phishing in meno di quattro minuti**  
+  Fonte: The Hacker News, 11 Mar 2026, 16:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html>)
+
+- **Gli hacker sostenuti dall'Iran rivendicano un attacco Wiper alla società di tecnologia medica Stryker**  
+  Fonte: Krebs on Security, 11 Mar 2026, 16:20:13 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/>)
+
+- **I difetti critici di n8n consentono l'esecuzione di codice remoto e l'esposizione delle credenziali archiviate**  
+  Fonte: The Hacker News, 11 Mar 2026, 14:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html>)
+
+- **Meta aggiunge nuovi strumenti anti-truffa per WhatsApp, Facebook e Messenger**  
+  Fonte: BleepingComputer, 11 Mar 2026, 13:29:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/>)
+
+- **Meta disabilita 150.000 account collegati a centri antifrode del Sud-Est asiatico durante un giro di vite globale**  
+  Fonte: The Hacker News, 11 Mar 2026, 13:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html>)
+
+- **AI Security for Apps è ora disponibile a livello generale**  
+  Fonte: Cloudflare Blog - Security, 11 Mar 2026, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/ai-security-for-apps-ga/>)
+
+- **Decine di fornitori patchano difetti di sicurezza nei software aziendali e nei dispositivi di rete**  
+  Fonte: The Hacker News, 11 Mar 2026, 12:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html>)
+
+- **Cosa devono chiedere i board nell’era dello sfruttamento automatizzato dell’intelligenza artificiale**  
+  Fonte: The Hacker News, 11 Mar 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html>)
+
+- **Il Canada ha bisogno di un’IA pubblica nazionalizzata**  
+  Fonte: Schneier on Security, 11 Mar 2026, 11:04:06 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/canada-needs-nationalized-public-ai.html>)
+
+- **Microsoft corregge 84 difetti nel Patch Tuesday di marzo, inclusi due Zero-Day pubblici**  
+  Fonte: The Hacker News, 11 Mar 2026, 09:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html>)
+
+- **UNC6426 sfrutta l'attacco alla catena di fornitura nx npm per ottenere l'accesso amministrativo ad AWS in 72 ore**  
+  Fonte: The Hacker News, 11 Mar 2026, 07:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html>)
+
 - **Cinque casse Rust dannose e bot IA sfruttano le pipeline CI/CD per rubare i segreti degli sviluppatori**  
   Fonte: The Hacker News, 11 Mar 2026, 05:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html>)
 
-- **Microsoft Patch Tuesday, edizione di marzo 2026**  
+- **Edizione Microsoft Patch Tuesday, marzo 2026**  
   Fonte: Krebs on Security, 11 Mar 2026, 00:32:51 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/>)
 
@@ -50,7 +122,7 @@
   Fonte: The Hacker News, 10 Mar 2026, 16:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html>)
 
-- **Twitter ha sospeso 800 milioni di account l’anno scorso: allora perché la manipolazione rimane così dilagante?**  
+- **Twitter ha sospeso 800 milioni di account l’anno scorso: allora perché la manipolazione continua a essere così dilagante?**  
   Fonte: Graham Cluley, 10 Mar 2026, 15:54:37 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/twitter-suspended-800-million-accounts-last-year-so-why-does-manipulation-remain-so-rampant>)
 
@@ -62,10 +134,6 @@
   Fonte: BleepingComputer, 10 Mar 2026, 15:01:57 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/>)
 
-- **Il nuovo test di Turing: come le minacce utilizzano la geometria per dimostrare l'"umanità"**  
-  Fonte: BleepingComputer, 10 Mar 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/>)
-
 - **Nuovi difetti "LeakyLooker" in Google Looker Studio potrebbero abilitare query SQL cross-tenant**  
   Fonte: The Hacker News, 10 Mar 2026, 13:20:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html>)
@@ -74,25 +142,13 @@
   Fonte: Cloudflare Blog - Security, 10 Mar 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/>)
 
-- **CISA: la falla EPM di Ivanti, recentemente corretta, è ora attivamente sfruttata**  
-  Fonte: BleepingComputer, 10 Mar 2026, 11:36:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/>)
-
-- **La corsa al giorno zero è evitabile: una guida alla riduzione della superficie di attacco**  
+- **La corsa al giorno zero è evitabile: una guida per ridurre la superficie di attacco**  
   Fonte: The Hacker News, 10 Mar 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html>)
 
 - **APT28 utilizza il malware BEARDSHELL e COVENANT per spiare l'esercito ucraino**  
   Fonte: The Hacker News, 10 Mar 2026, 10:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html>)
-
-- **Microsoft abilita gli aggiornamenti di sicurezza hotpatch di Windows per impostazione predefinita**  
-  Fonte: BleepingComputer, 10 Mar 2026, 10:35:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/>)
-
-- **Gli hacker APT28 distribuiscono una variante personalizzata dello strumento open source Covenant**  
-  Fonte: BleepingComputer, 10 Mar 2026, 10:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/>)
 
 - **Jailbreak dell'aereo da caccia F-35**  
   Fonte: Schneier on Security, 10 Mar 2026, 09:50:23 UTC  
@@ -109,14 +165,6 @@
 - **Aggiornamento settimanale 494**  
   Fonte: Troy Hunt, 10 Mar 2026, 01:29:35 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-494/>)
-
-- **Il phishing di Microsoft Teams prende di mira i dipendenti con il malware A0Backdoor**  
-  Fonte: BleepingComputer, 09 Mar 2026, 22:50:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/>)
-
-- **Google: gli attacchi cloud sfruttano più i difetti che le credenziali deboli**  
-  Fonte: BleepingComputer, 09 Mar 2026, 21:45:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/>)
 
 - **Il pacchetto npm dannoso che si spaccia per programma di installazione di OpenClaw distribuisce RAT e ruba le credenziali di macOS**  
   Fonte: The Hacker News, 09 Mar 2026, 18:31:00 UTC  
@@ -138,7 +186,7 @@
   Fonte: The Hacker News, 09 Mar 2026, 13:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html>)
 
-- **La piattaforma di sicurezza potrà finalmente offrire risultati soddisfacenti al mercato medio?**  
+- **La piattaforma di sicurezza potrà finalmente raggiungere il mercato medio?**  
   Fonte: The Hacker News, 09 Mar 2026, 11:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html>)
 
@@ -182,7 +230,7 @@
   Fonte: The Hacker News, 06 Mar 2026, 15:11:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html>)
 
-- **Malware VOID#GEIST multifase che distribuisce XWorm, AsyncRAT e Xeno RAT**  
+- **Malware multifase VOID#GEIST che distribuisce XWorm, AsyncRAT e Xeno RAT**  
   Fonte: The Hacker News, 06 Mar 2026, 14:33:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html>)
 
@@ -246,37 +294,5 @@
   Fonte: The Hacker News, 05 Mar 2026, 06:51:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html>)
 
-- **FBI ed Europol sequestrano il forum LeakBase utilizzato per scambiare credenziali rubate**  
-  Fonte: The Hacker News, 05 Mar 2026, 06:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html>)
 
-- **Smashing Security podcast n. 457: come un capo della sicurezza informatica ha incastrato il suo stesso dipendente**  
-  Fonte: Graham Cluley, 05 Mar 2026, 00:33:23 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-457/>)
-
-- **149 attacchi DDoS di hacktivisti hanno colpito 110 organizzazioni in 16 paesi dopo il conflitto in Medio Oriente**  
-  Fonte: The Hacker News, 04 Mar 2026, 17:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html>)
-
-- **Coruna iOS Exploit Kit utilizza 23 exploit in cinque catene destinati a iOS 13–17.2.1**  
-  Fonte: The Hacker News, 04 Mar 2026, 13:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html>)
-
-- **Manipolazione delle funzionalità di riepilogo dell'intelligenza artificiale**  
-  Fonte: Schneier on Security, 04 Mar 2026, 12:06:01 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html>)
-
-- **Nuovo modello RFP per il controllo dell'utilizzo dell'intelligenza artificiale e la governance dell'intelligenza artificiale**  
-  Fonte: The Hacker News, 04 Mar 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html>)
-
-- **Pacchetti Laravel falsi su Packagist Distribuisci RAT su Windows, macOS e Linux**  
-  Fonte: The Hacker News, 04 Mar 2026, 09:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html>)
-
-- **Silver Dragon collegato ad APT41 prende di mira i governi che utilizzano Cobalt Strike e Google Drive C2**  
-  Fonte: The Hacker News, 04 Mar 2026, 08:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-11 06:40:35 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-12 06:42:33 UTC -->
