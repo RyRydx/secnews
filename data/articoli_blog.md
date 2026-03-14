@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft: gli utenti di Windows 11 non possono accedere all'unità C: su alcuni PC Samsung**  
+  Fonte: BleepingComputer, 13 Mar 2026, 22:11:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/>)
+
+- **Blog sui calamari del venerdì: aumento della popolazione di calamari nelle Falkland**  
+  Fonte: Schneier on Security, 13 Mar 2026, 21:05:22 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-increased-squid-population-in-the-falklands.html>)
+
+- **L'FBI cerca le vittime dei giochi Steam utilizzati per diffondere malware**  
+  Fonte: BleepingComputer, 13 Mar 2026, 20:52:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/>)
+
+- **Gli hacker cinesi prendono di mira le forze armate del sud-est asiatico con il malware AppleChris e MemFun**  
+  Fonte: The Hacker News, 13 Mar 2026, 17:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html>)
+
+- **Centro di ricerca nucleare polacco preso di mira da un attacco informatico**  
+  Fonte: BleepingComputer, 13 Mar 2026, 17:11:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/>)
+
+- **Meta interromperà il supporto della chat crittografata end-to-end di Instagram a partire da maggio 2026**  
+  Fonte: The Hacker News, 13 Mar 2026, 17:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html>)
+
+- **Microsoft indaga sui classici problemi di sincronizzazione e connessione di Outlook**  
+  Fonte: BleepingComputer, 13 Mar 2026, 16:53:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/>)
+
+- **L'INTERPOL smantella 45.000 IP dannosi e ne arresta 94 responsabili di criminalità informatica globale**  
+  Fonte: The Hacker News, 13 Mar 2026, 15:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html>)
+
+- **Da VMware al futuro: protezione dei dati durante la migrazione dell'hypervisor**  
+  Fonte: BleepingComputer, 13 Mar 2026, 14:15:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/>)
+
+- **Storm-2561 diffonde client VPN trojan tramite SEO Poisoning per rubare credenziali**  
+  Fonte: The Hacker News, 13 Mar 2026, 13:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html>)
+
+- **La polizia ha sottratto 45.000 indirizzi IP alla repressione del crimine informatico**  
+  Fonte: BleepingComputer, 13 Mar 2026, 13:28:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/>)
+
+- **Indagine su una nuova variante Click-Fix**  
+  Fonte: The Hacker News, 13 Mar 2026, 13:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html>)
+
+- **Siti VPN aziendali falsi utilizzati per rubare credenziali aziendali**  
+  Fonte: BleepingComputer, 13 Mar 2026, 13:23:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/>)
+
+- **Il mondo accademico e la “fuga dei cervelli legati all’intelligenza artificiale”**  
+  Fonte: Schneier on Security, 13 Mar 2026, 11:04:50 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/academia-and-the-ai-brain-drain.html>)
+
+- **Google risolve due Zero-Days di Chrome sfruttati in natura che interessavano Skia e V8**  
+  Fonte: The Hacker News, 13 Mar 2026, 09:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html>)
+
+- **Nove difetti di CrackArmor in Linux AppArmor consentono l'escalation del root e l'esclusione dell'isolamento del container**  
+  Fonte: The Hacker News, 13 Mar 2026, 08:18:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html>)
+
+- **Starbucks rivela una violazione dei dati che colpisce centinaia di dipendenti**  
+  Fonte: BleepingComputer, 13 Mar 2026, 08:16:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/>)
+
+- **Google risolve due nuovi zero-day di Chrome sfruttati negli attacchi**  
+  Fonte: BleepingComputer, 13 Mar 2026, 06:56:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/>)
+
+- **Le autorità interrompono la botnet proxy SocketEscort che sfrutta 369.000 IP in 163 paesi**  
+  Fonte: The Hacker News, 13 Mar 2026, 05:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html>)
+
 - **Veeam patch 7 difetti critici di backup e replica che consentono l'esecuzione di codice in modalità remota**  
   Fonte: The Hacker News, 13 Mar 2026, 04:15:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html>)
@@ -42,19 +118,7 @@
   Fonte: BleepingComputer, 12 Mar 2026, 15:22:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/>)
 
-- **Telus Digital conferma la violazione dopo che un hacker ha denunciato il furto di dati di 1 petabyte**  
-  Fonte: BleepingComputer, 12 Mar 2026, 14:40:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/>)
-
-- **Fare il possibile: i premi di viaggio si trasformano in valuta sotterranea.**  
-  Fonte: BleepingComputer, 12 Mar 2026, 14:05:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/>)
-
-- **Apple patcha i vecchi iPhone e iPad contro gli exploit Coruna**  
-  Fonte: BleepingComputer, 12 Mar 2026, 13:43:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/>)
-
-- **Come scalare il rilevamento del phishing nel tuo SOC: 3 passaggi per i CISO**  
+- **Come ampliare il rilevamento del phishing nel tuo SOC: 3 passaggi per i CISO**  
   Fonte: The Hacker News, 12 Mar 2026, 13:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html>)
 
@@ -65,10 +129,6 @@
 - **Il tuo account Signal è al sicuro, a meno che tu non cada in questo trucco**  
   Fonte: Graham Cluley, 12 Mar 2026, 12:12:48 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/signal-account-safe-unless-fall-for-this-trick>)
-
-- **Gli Stati Uniti accusano un altro negoziatore di ransomware collegato agli attacchi BlackCat**  
-  Fonte: BleepingComputer, 12 Mar 2026, 11:31:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/>)
 
 - **Gli aggressori non si limitano a inviare e-mail di phishing.Rendono il carico di lavoro del tuo SOC un'arma**  
   Fonte: The Hacker News, 12 Mar 2026, 11:30:00 UTC  
@@ -93,26 +153,6 @@
 - **Podcast Smashing Security n. 458: Come non rubare 46 milioni di dollari al governo degli Stati Uniti**  
   Fonte: Graham Cluley, 12 Mar 2026, 00:30:37 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-458/>)
-
-- **WhatsApp introduce gli account gestiti dai genitori per i preadolescenti**  
-  Fonte: BleepingComputer, 11 Mar 2026, 20:06:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/>)
-
-- **Il difetto SQLi nel plug-in Elementor Ally ha un impatto su oltre 250.000 siti WordPress**  
-  Fonte: BleepingComputer, 11 Mar 2026, 19:38:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/>)
-
-- **La CISA ordina ai federali di correggere la falla RCE n8n sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 11 Mar 2026, 18:21:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/>)
-
-- **Il gigante della tecnologia Medtech Stryker offline dopo l'attacco malware legato all'Iran**  
-  Fonte: BleepingComputer, 11 Mar 2026, 17:21:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/>)
-
-- **La nuova ondata di attacchi PhantomRaven NPM ruba i dati degli sviluppatori tramite 88 pacchetti**  
-  Fonte: BleepingComputer, 11 Mar 2026, 17:09:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/>)
 
 - **I ricercatori ingannano il browser AI Comet di Perplexity trasformandolo in una truffa di phishing in meno di quattro minuti**  
   Fonte: The Hacker News, 11 Mar 2026, 16:38:00 UTC  
@@ -158,7 +198,7 @@
   Fonte: The Hacker News, 11 Mar 2026, 05:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html>)
 
-- **Edizione Microsoft Patch Tuesday, marzo 2026**  
+- **Microsoft Patch Tuesday, edizione di marzo 2026**  
   Fonte: Krebs on Security, 11 Mar 2026, 00:32:51 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/>)
 
@@ -174,7 +214,7 @@
   Fonte: The Hacker News, 10 Mar 2026, 16:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html>)
 
-- **Twitter ha sospeso 800 milioni di account l’anno scorso: allora perché la manipolazione continua a essere così dilagante?**  
+- **Twitter ha sospeso 800 milioni di account l’anno scorso: allora perché la manipolazione rimane così dilagante?**  
   Fonte: Graham Cluley, 10 Mar 2026, 15:54:37 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/twitter-suspended-800-million-accounts-last-year-so-why-does-manipulation-remain-so-rampant>)
 
@@ -186,7 +226,7 @@
   Fonte: Cloudflare Blog - Security, 10 Mar 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/>)
 
-- **La corsa al giorno zero è evitabile: una guida per ridurre la superficie di attacco**  
+- **La corsa al giorno zero è evitabile: una guida alla riduzione della superficie di attacco**  
   Fonte: The Hacker News, 10 Mar 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html>)
 
@@ -230,7 +270,7 @@
   Fonte: The Hacker News, 09 Mar 2026, 13:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html>)
 
-- **La piattaforma di sicurezza potrà finalmente raggiungere il mercato medio?**  
+- **La piattaforma di sicurezza potrà finalmente offrire risultati soddisfacenti al mercato medio?**  
   Fonte: The Hacker News, 09 Mar 2026, 11:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html>)
 
@@ -258,45 +298,5 @@
   Fonte: The Hacker News, 07 Mar 2026, 11:21:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html>)
 
-- **Blog sui calamari del venerdì: i calamari nella cucina dei monaci bizantini**  
-  Fonte: Schneier on Security, 06 Mar 2026, 22:03:17 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html>)
 
-- **Come gli hacker hanno aggirato l'MFA con un kit di phishing da 120 dollari, finché una rimozione globale non lo ha bloccato**  
-  Fonte: Graham Cluley, 06 Mar 2026, 17:58:41 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-bypassed-mfa-120-phishing-kit-global-takedown-shut-down>)
-
-- **Antropico e il Pentagono**  
-  Fonte: Schneier on Security, 06 Mar 2026, 17:07:40 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/anthropic-and-the-pentagon.html>)
-
-- **Transparent Tribe utilizza l'intelligenza artificiale per produrre in serie impianti di malware in una campagna rivolta all'India**  
-  Fonte: The Hacker News, 06 Mar 2026, 15:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html>)
-
-- **Malware multifase VOID#GEIST che distribuisce XWorm, AsyncRAT e Xeno RAT**  
-  Fonte: The Hacker News, 06 Mar 2026, 14:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html>)
-
-- **Claude era solito hackerare il governo messicano**  
-  Fonte: Schneier on Security, 06 Mar 2026, 11:53:27 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/claude-used-to-hack-mexican-government.html>)
-
-- **La guida MSP per utilizzare la gestione del rischio basata sull'intelligenza artificiale per ampliare la sicurezza informatica**  
-  Fonte: The Hacker News, 06 Mar 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html>)
-
-- **Gli hacker MuddyWater legati all'Iran prendono di mira le reti statunitensi con la nuova backdoor Dindoor**  
-  Fonte: The Hacker News, 06 Mar 2026, 10:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html>)
-
-- **Gli hacker legati alla Cina utilizzano TernDoor, PeerTime e BruteEntry negli attacchi alle telecomunicazioni in Sud America**  
-  Fonte: The Hacker News, 06 Mar 2026, 08:22:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html>)
-
-- **Microsoft rivela la campagna ClickFix che utilizza il terminale Windows per distribuire Lumma Stealer**  
-  Fonte: The Hacker News, 06 Mar 2026, 06:44:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-13 06:40:09 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-14 06:35:51 UTC -->
