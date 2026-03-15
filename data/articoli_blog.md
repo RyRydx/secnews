@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft rilascia l'hotpatch OOB di Windows 11 per correggere il difetto RRAS RCE**  
+  Fonte: BleepingComputer, 14 Mar 2026, 21:48:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/>)
+
+- **I difetti dell'agente AI di OpenClaw potrebbero consentire l'iniezione rapida e l'esfiltrazione dei dati**  
+  Fonte: The Hacker News, 14 Mar 2026, 16:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html>)
+
+- **Prossimi impegni di conferenza**  
+  Fonte: Schneier on Security, 14 Mar 2026, 16:02:26 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/upcoming-speaking-engagements-54.html>)
+
+- **AppsFlyer Web SDK violato per diffondere codice JavaScript per il furto di criptovalute**  
+  Fonte: BleepingComputer, 14 Mar 2026, 14:36:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/>)
+
+- **GlassWorm abusi di attacchi alla catena di fornitura 72 Estensioni VSX aperte destinate agli sviluppatori**  
+  Fonte: The Hacker News, 14 Mar 2026, 12:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html>)
+
 - **Microsoft: gli utenti di Windows 11 non possono accedere all'unità C: su alcuni PC Samsung**  
   Fonte: BleepingComputer, 13 Mar 2026, 22:11:57 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/>)
@@ -42,7 +62,7 @@
   Fonte: The Hacker News, 13 Mar 2026, 13:38:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html>)
 
-- **La polizia ha sottratto 45.000 indirizzi IP alla repressione del crimine informatico**  
+- **La polizia ha sequestrato 45.000 indirizzi IP nel giro di vite contro la criminalità informatica**  
   Fonte: BleepingComputer, 13 Mar 2026, 13:28:33 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/>)
 
@@ -110,15 +130,7 @@
   Fonte: BleepingComputer, 12 Mar 2026, 16:59:20 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/>)
 
-- **Gli Stati Uniti interrompono la rete proxy CalzeEscort alimentata da malware Linux**  
-  Fonte: BleepingComputer, 12 Mar 2026, 16:19:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/>)
-
-- **Google ha pagato 17,1 milioni di dollari per le segnalazioni di vulnerabilità nel 2025**  
-  Fonte: BleepingComputer, 12 Mar 2026, 15:22:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/>)
-
-- **Come ampliare il rilevamento del phishing nel tuo SOC: 3 passaggi per i CISO**  
+- **Come scalare il rilevamento del phishing nel tuo SOC: 3 passaggi per i CISO**  
   Fonte: The Hacker News, 12 Mar 2026, 13:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html>)
 
@@ -226,7 +238,7 @@
   Fonte: Cloudflare Blog - Security, 10 Mar 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/>)
 
-- **La corsa al giorno zero è evitabile: una guida alla riduzione della superficie di attacco**  
+- **La corsa al giorno zero è evitabile: una guida per ridurre la superficie di attacco**  
   Fonte: The Hacker News, 10 Mar 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html>)
 
@@ -290,13 +302,5 @@
   Fonte: Krebs on Security, 08 Mar 2026, 23:35:42 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/>)
 
-- **La sicurezza OpenAI Codex ha scansionato 1,2 milioni di commit e ha rilevato 10.561 problemi di elevata gravità**  
-  Fonte: The Hacker News, 07 Mar 2026, 16:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html>)
 
-- **Anthropic rileva 22 vulnerabilità di Firefox utilizzando il modello AI di Claude Opus 4.6**  
-  Fonte: The Hacker News, 07 Mar 2026, 11:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-14 06:35:51 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-15 06:45:40 UTC -->
