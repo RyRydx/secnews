@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Android 17 blocca le app non accessibili dall'API di accessibilità per prevenire l'abuso di malware**  
+  Fonte: The Hacker News, 16 Mar 2026, 05:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html>)
+
+- **OpenAI afferma che gli annunci ChatGPT non vengono distribuiti a livello globale per ora**  
+  Fonte: BleepingComputer, 15 Mar 2026, 23:13:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/>)
+
+- **Betterleaks, un nuovo scanner di segreti open source per sostituire Gitleaks**  
+  Fonte: BleepingComputer, 15 Mar 2026, 14:17:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/>)
+
 - **Microsoft rilascia l'hotpatch OOB di Windows 11 per correggere il difetto RRAS RCE**  
   Fonte: BleepingComputer, 14 Mar 2026, 21:48:14 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/>)
@@ -18,7 +30,7 @@
   Fonte: BleepingComputer, 14 Mar 2026, 14:36:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/>)
 
-- **GlassWorm abusi di attacchi alla catena di fornitura 72 Estensioni VSX aperte destinate agli sviluppatori**  
+- **GlassWorm abusa degli attacchi alla catena di fornitura 72 Estensioni VSX aperte destinate agli sviluppatori**  
   Fonte: The Hacker News, 14 Mar 2026, 12:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html>)
 
@@ -110,10 +122,6 @@
   Fonte: BleepingComputer, 12 Mar 2026, 20:37:16 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/>)
 
-- **Malware Slopoly generato dall'intelligenza artificiale utilizzato nell'attacco ransomware Interlock**  
-  Fonte: BleepingComputer, 12 Mar 2026, 20:01:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/>)
-
 - **iPhone e iPad approvati per i dati classificati NATO**  
   Fonte: Schneier on Security, 12 Mar 2026, 19:59:54 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/iphones-and-ipads-approved-for-nato-classified-data.html>)
@@ -125,10 +133,6 @@
 - **Hive0163 utilizza malware Slopoly assistito dall'intelligenza artificiale per l'accesso persistente negli attacchi ransomware**  
   Fonte: The Hacker News, 12 Mar 2026, 17:02:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html>)
-
-- **Veeam avverte di difetti critici che espongono i server di backup ad attacchi RCE**  
-  Fonte: BleepingComputer, 12 Mar 2026, 16:59:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/>)
 
 - **Come scalare il rilevamento del phishing nel tuo SOC: 3 passaggi per i CISO**  
   Fonte: The Hacker News, 12 Mar 2026, 13:30:00 UTC  
@@ -226,7 +230,7 @@
   Fonte: The Hacker News, 10 Mar 2026, 16:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html>)
 
-- **Twitter ha sospeso 800 milioni di account l’anno scorso: allora perché la manipolazione rimane così dilagante?**  
+- **Twitter ha sospeso 800 milioni di account l’anno scorso: allora perché la manipolazione continua a essere così dilagante?**  
   Fonte: Graham Cluley, 10 Mar 2026, 15:54:37 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/twitter-suspended-800-million-accounts-last-year-so-why-does-manipulation-remain-so-rampant>)
 
@@ -238,7 +242,7 @@
   Fonte: Cloudflare Blog - Security, 10 Mar 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/>)
 
-- **La corsa al giorno zero è evitabile: una guida per ridurre la superficie di attacco**  
+- **La corsa al giorno zero è evitabile: una guida alla riduzione della superficie di attacco**  
   Fonte: The Hacker News, 10 Mar 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html>)
 
@@ -298,9 +302,5 @@
   Fonte: The Hacker News, 09 Mar 2026, 07:21:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html>)
 
-- **Come gli assistenti AI stanno spostando gli obiettivi di sicurezza**  
-  Fonte: Krebs on Security, 08 Mar 2026, 23:35:42 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/>)
 
-
-<!-- Ultimo aggiornamento: 2026-03-15 06:45:40 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-16 07:06:41 UTC -->
