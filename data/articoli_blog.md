@@ -2,6 +2,62 @@
 
 ## Ultimi 7 giorni
 
+- **CISA segnala la vulnerabilità Wing FTP attivamente sfruttata che perde i percorsi del server**  
+  Fonte: The Hacker News, 17 Mar 2026, 05:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html>)
+
+- **Aggiornamento settimanale 495**  
+  Fonte: Troy Hunt, 17 Mar 2026, 02:55:31 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-495/>)
+
+- **L'attacco GlassWorm utilizza token GitHub rubati per forzare il push di malware nei repository Python**  
+  Fonte: The Hacker News, 16 Mar 2026, 19:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html>)
+
+- **L'attacco Stryker ha cancellato decine di migliaia di dispositivi, senza bisogno di malware**  
+  Fonte: BleepingComputer, 16 Mar 2026, 19:17:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/>)
+
+- **CISA segnala la falla del server Wing FTP come sfruttata attivamente negli attacchi**  
+  Fonte: BleepingComputer, 16 Mar 2026, 18:00:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/>)
+
+- **La Companies House del Regno Unito conferma i dati aziendali esposti a falle di sicurezza**  
+  Fonte: BleepingComputer, 16 Mar 2026, 17:07:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/>)
+
+- **L'interruzione di Microsoft Exchange Online blocca l'accesso alle cassette postali**  
+  Fonte: BleepingComputer, 16 Mar 2026, 16:05:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/>)
+
+- **⚡ Riepilogo settimanale: Chrome 0-Days, router botnet, violazione di AWS, agenti IA non autorizzati e altro**  
+  Fonte: The Hacker News, 16 Mar 2026, 14:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html>)
+
+- **L’IA ombra è ovunque.Ecco come trovarlo e proteggerlo.**  
+  Fonte: BleepingComputer, 16 Mar 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/>)
+
+- **Microsoft rimuove l'app Samsung che blocca l'unità Windows C: dallo Store**  
+  Fonte: BleepingComputer, 16 Mar 2026, 13:14:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/>)
+
+- **Perché la convalida della sicurezza sta diventando agente**  
+  Fonte: The Hacker News, 16 Mar 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/why-security-validation-is-becoming.html>)
+
+- **Le campagne ClickFix diffondono MacSync macOS Infostealer tramite falsi programmi di installazione di strumenti AI**  
+  Fonte: The Hacker News, 16 Mar 2026, 11:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html>)
+
+- **Possibile nuovo risultato nella fattorizzazione quantistica**  
+  Fonte: Schneier on Security, 16 Mar 2026, 09:46:09 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html>)
+
+- **DRILLAPP Backdoor prende di mira l'Ucraina e abusa del debug di Microsoft Edge per spionaggio invisibile**  
+  Fonte: The Hacker News, 16 Mar 2026, 09:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html>)
+
 - **Android 17 blocca le app non accessibili dall'API di accessibilità per prevenire l'abuso di malware**  
   Fonte: The Hacker News, 16 Mar 2026, 05:43:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html>)
@@ -74,17 +130,9 @@
   Fonte: The Hacker News, 13 Mar 2026, 13:38:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html>)
 
-- **La polizia ha sequestrato 45.000 indirizzi IP nel giro di vite contro la criminalità informatica**  
-  Fonte: BleepingComputer, 13 Mar 2026, 13:28:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/>)
-
 - **Indagine su una nuova variante Click-Fix**  
   Fonte: The Hacker News, 13 Mar 2026, 13:28:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html>)
-
-- **Siti VPN aziendali falsi utilizzati per rubare credenziali aziendali**  
-  Fonte: BleepingComputer, 13 Mar 2026, 13:23:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/>)
 
 - **Il mondo accademico e la “fuga dei cervelli legati all’intelligenza artificiale”**  
   Fonte: Schneier on Security, 13 Mar 2026, 11:04:50 UTC  
@@ -98,14 +146,6 @@
   Fonte: The Hacker News, 13 Mar 2026, 08:18:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html>)
 
-- **Starbucks rivela una violazione dei dati che colpisce centinaia di dipendenti**  
-  Fonte: BleepingComputer, 13 Mar 2026, 08:16:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/>)
-
-- **Google risolve due nuovi zero-day di Chrome sfruttati negli attacchi**  
-  Fonte: BleepingComputer, 13 Mar 2026, 06:56:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/>)
-
 - **Le autorità interrompono la botnet proxy SocketEscort che sfrutta 369.000 IP in 163 paesi**  
   Fonte: The Hacker News, 13 Mar 2026, 05:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html>)
@@ -113,14 +153,6 @@
 - **Veeam patch 7 difetti critici di backup e replica che consentono l'esecuzione di codice in modalità remota**  
   Fonte: The Hacker News, 13 Mar 2026, 04:15:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html>)
-
-- **Il colosso canadese della vendita al dettaglio Loblaw avvisa i clienti della violazione dei dati**  
-  Fonte: BleepingComputer, 12 Mar 2026, 21:32:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/>)
-
-- **L'Hockey inglese indaga sulla violazione dei dati del ransomware**  
-  Fonte: BleepingComputer, 12 Mar 2026, 20:37:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/>)
 
 - **iPhone e iPad approvati per i dati classificati NATO**  
   Fonte: Schneier on Security, 12 Mar 2026, 19:59:54 UTC  
@@ -214,7 +246,7 @@
   Fonte: The Hacker News, 11 Mar 2026, 05:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html>)
 
-- **Microsoft Patch Tuesday, edizione di marzo 2026**  
+- **Microsoft Patch Tuesday, edizione marzo 2026**  
   Fonte: Krebs on Security, 11 Mar 2026, 00:32:51 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/>)
 
@@ -230,7 +262,7 @@
   Fonte: The Hacker News, 10 Mar 2026, 16:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html>)
 
-- **Twitter ha sospeso 800 milioni di account l’anno scorso: allora perché la manipolazione continua a essere così dilagante?**  
+- **Twitter ha sospeso 800 milioni di account l’anno scorso: allora perché la manipolazione rimane così dilagante?**  
   Fonte: Graham Cluley, 10 Mar 2026, 15:54:37 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/twitter-suspended-800-million-accounts-last-year-so-why-does-manipulation-remain-so-rampant>)
 
@@ -242,7 +274,7 @@
   Fonte: Cloudflare Blog - Security, 10 Mar 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/>)
 
-- **La corsa al giorno zero è evitabile: una guida alla riduzione della superficie di attacco**  
+- **La corsa al giorno zero è evitabile: una guida per ridurre la superficie di attacco**  
   Fonte: The Hacker News, 10 Mar 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html>)
 
@@ -258,49 +290,5 @@
   Fonte: The Hacker News, 10 Mar 2026, 07:17:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html>)
 
-- **CISA segnala le vulnerabilità di SolarWinds, Ivanti e Workspace One come attivamente sfruttate**  
-  Fonte: The Hacker News, 10 Mar 2026, 06:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html>)
 
-- **Aggiornamento settimanale 494**  
-  Fonte: Troy Hunt, 10 Mar 2026, 01:29:35 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-494/>)
-
-- **Il pacchetto npm dannoso che si spaccia per programma di installazione di OpenClaw distribuisce RAT e ruba le credenziali di macOS**  
-  Fonte: The Hacker News, 09 Mar 2026, 18:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html>)
-
-- **UNC4899 Violazione dell'azienda di crittografia dopo che lo sviluppatore AirDrop ha inserito il file trojan sul dispositivo di lavoro**  
-  Fonte: The Hacker News, 09 Mar 2026, 14:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html>)
-
-- **Correzione delle vulnerabilità legate al contrabbando di richieste nelle distribuzioni di Pingora OSS**  
-  Fonte: Cloudflare Blog - Security, 09 Mar 2026, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/>)
-
-- **Difesa attiva: introduzione di uno scanner di vulnerabilità con stato per le API**  
-  Fonte: Cloudflare Blog - Security, 09 Mar 2026, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/vulnerability-scanner/>)
-
-- **⚡ Riepilogo settimanale: Qualcomm 0-Day, catene di exploit iOS, attacco AirSnitch e malware Vibe-Coded**  
-  Fonte: The Hacker News, 09 Mar 2026, 13:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html>)
-
-- **La piattaforma di sicurezza potrà finalmente offrire risultati soddisfacenti al mercato medio?**  
-  Fonte: The Hacker News, 09 Mar 2026, 11:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html>)
-
-- **Nuovo attacco contro il Wi-Fi**  
-  Fonte: Schneier on Security, 09 Mar 2026, 10:57:18 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/new-attack-against-wi-fi.html>)
-
-- **L'estensione di Chrome diventa dannosa dopo il trasferimento della proprietà, abilitando l'inserimento di codice e il furto di dati**  
-  Fonte: The Hacker News, 09 Mar 2026, 10:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html>)
-
-- **Exploit del server Web e Mimikatz utilizzati negli attacchi contro le infrastrutture critiche asiatiche**  
-  Fonte: The Hacker News, 09 Mar 2026, 07:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-16 07:06:41 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-17 06:54:26 UTC -->
