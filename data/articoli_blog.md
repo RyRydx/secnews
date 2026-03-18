@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Difetto Telnetd critico senza patch (CVE-2026-32746) abilita RCE root non autenticato tramite la porta 23**  
+  Fonte: The Hacker News, 18 Mar 2026, 05:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html>)
+
+- **Apple invia il primo aggiornamento dei miglioramenti della sicurezza in background per correggere il difetto di WebKit**  
+  Fonte: BleepingComputer, 18 Mar 2026, 01:06:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/>)
+
+- **Il malware GlassWorm colpisce oltre 400 repository di codici su GitHub, npm, VSCode, OpenVSX**  
+  Fonte: BleepingComputer, 17 Mar 2026, 21:42:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/>)
+
+- **L’Europa sanziona le aziende cinesi e iraniane per attacchi informatici**  
+  Fonte: BleepingComputer, 17 Mar 2026, 18:41:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/>)
+
+- **I difetti dell'intelligenza artificiale in Amazon Bedrock, LangSmith e SGLang consentono l'esfiltrazione dei dati e l'RCE**  
+  Fonte: The Hacker News, 17 Mar 2026, 16:39:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html>)
+
+- **Il ransomware LeakNet utilizza ClickFix tramite siti compromessi e distribuisce il caricatore in-memoria Deno**  
+  Fonte: The Hacker News, 17 Mar 2026, 14:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html>)
+
+- **Le 5 principali cose che i CISO devono fare oggi per proteggere gli agenti IA**  
+  Fonte: BleepingComputer, 17 Mar 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/>)
+
+- **Un nuovo trucco per il rendering dei caratteri nasconde comandi dannosi dagli strumenti di intelligenza artificiale**  
+  Fonte: BleepingComputer, 17 Mar 2026, 13:59:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/>)
+
+- **Microsoft interrompe l'installazione forzata dell'app Microsoft 365 Copilot**  
+  Fonte: BleepingComputer, 17 Mar 2026, 13:54:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/>)
+
+- **Il ransomware LeakNet utilizza ClickFix, il runtime Deno in attacchi furtivi**  
+  Fonte: BleepingComputer, 17 Mar 2026, 12:09:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/>)
+
+- **Microsoft condivide la correzione per Windows C: problemi di accesso all'unità sui PC Samsung**  
+  Fonte: BleepingComputer, 17 Mar 2026, 12:03:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/>)
+
+- **L'intelligenza artificiale è ovunque, ma i CISO la stanno ancora proteggendo con competenze e strumenti del passato, secondo uno studio**  
+  Fonte: The Hacker News, 17 Mar 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html>)
+
+- **Il nuovo hotpatch di Windows 11 risolve il problema di visibilità del dispositivo Bluetooth**  
+  Fonte: BleepingComputer, 17 Mar 2026, 11:07:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/>)
+
+- **Microsoft: l'abilitazione del componente aggiuntivo per le riunioni di Teams interrompe Outlook Classic**  
+  Fonte: BleepingComputer, 17 Mar 2026, 10:37:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/>)
+
+- **La polizia sudcoreana pubblica accidentalmente la password del portafoglio di criptovaluta**  
+  Fonte: Schneier on Security, 17 Mar 2026, 10:01:43 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/south-korean-police-accidentally-post-cryptocurrency-wallet-password.html>)
+
+- **Konni implementa EndRAT tramite phishing e utilizza KakaoTalk per propagare malware**  
+  Fonte: The Hacker News, 17 Mar 2026, 09:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html>)
+
 - **CISA segnala la vulnerabilità Wing FTP attivamente sfruttata che perde i percorsi del server**  
   Fonte: The Hacker News, 17 Mar 2026, 05:23:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html>)
@@ -22,6 +86,10 @@
   Fonte: BleepingComputer, 16 Mar 2026, 18:00:22 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/>)
 
+- **Parcheggio gratuito in Russia dopo l’attacco Distributed Denial-of-Service che mette offline il sistema di parcheggio della città**  
+  Fonte: Graham Cluley, 16 Mar 2026, 17:27:34 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/free-parking-russia-distributed-denial-of-service-attack-parking-system>)
+
 - **La Companies House del Regno Unito conferma i dati aziendali esposti a falle di sicurezza**  
   Fonte: BleepingComputer, 16 Mar 2026, 17:07:25 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/>)
@@ -37,10 +105,6 @@
 - **L’IA ombra è ovunque.Ecco come trovarlo e proteggerlo.**  
   Fonte: BleepingComputer, 16 Mar 2026, 14:01:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/>)
-
-- **Microsoft rimuove l'app Samsung che blocca l'unità Windows C: dallo Store**  
-  Fonte: BleepingComputer, 16 Mar 2026, 13:14:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/>)
 
 - **Perché la convalida della sicurezza sta diventando agente**  
   Fonte: The Hacker News, 16 Mar 2026, 11:58:00 UTC  
@@ -62,18 +126,6 @@
   Fonte: The Hacker News, 16 Mar 2026, 05:43:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html>)
 
-- **OpenAI afferma che gli annunci ChatGPT non vengono distribuiti a livello globale per ora**  
-  Fonte: BleepingComputer, 15 Mar 2026, 23:13:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/>)
-
-- **Betterleaks, un nuovo scanner di segreti open source per sostituire Gitleaks**  
-  Fonte: BleepingComputer, 15 Mar 2026, 14:17:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/>)
-
-- **Microsoft rilascia l'hotpatch OOB di Windows 11 per correggere il difetto RRAS RCE**  
-  Fonte: BleepingComputer, 14 Mar 2026, 21:48:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/>)
-
 - **I difetti dell'agente AI di OpenClaw potrebbero consentire l'iniezione rapida e l'esfiltrazione dei dati**  
   Fonte: The Hacker News, 14 Mar 2026, 16:17:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html>)
@@ -82,49 +134,25 @@
   Fonte: Schneier on Security, 14 Mar 2026, 16:02:26 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/upcoming-speaking-engagements-54.html>)
 
-- **AppsFlyer Web SDK violato per diffondere codice JavaScript per il furto di criptovalute**  
-  Fonte: BleepingComputer, 14 Mar 2026, 14:36:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/>)
-
 - **GlassWorm abusa degli attacchi alla catena di fornitura 72 Estensioni VSX aperte destinate agli sviluppatori**  
   Fonte: The Hacker News, 14 Mar 2026, 12:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html>)
-
-- **Microsoft: gli utenti di Windows 11 non possono accedere all'unità C: su alcuni PC Samsung**  
-  Fonte: BleepingComputer, 13 Mar 2026, 22:11:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/>)
 
 - **Blog sui calamari del venerdì: aumento della popolazione di calamari nelle Falkland**  
   Fonte: Schneier on Security, 13 Mar 2026, 21:05:22 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-increased-squid-population-in-the-falklands.html>)
 
-- **L'FBI cerca le vittime dei giochi Steam utilizzati per diffondere malware**  
-  Fonte: BleepingComputer, 13 Mar 2026, 20:52:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/>)
-
 - **Gli hacker cinesi prendono di mira le forze armate del sud-est asiatico con il malware AppleChris e MemFun**  
   Fonte: The Hacker News, 13 Mar 2026, 17:33:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html>)
-
-- **Centro di ricerca nucleare polacco preso di mira da un attacco informatico**  
-  Fonte: BleepingComputer, 13 Mar 2026, 17:11:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/>)
 
 - **Meta interromperà il supporto della chat crittografata end-to-end di Instagram a partire da maggio 2026**  
   Fonte: The Hacker News, 13 Mar 2026, 17:09:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html>)
 
-- **Microsoft indaga sui classici problemi di sincronizzazione e connessione di Outlook**  
-  Fonte: BleepingComputer, 13 Mar 2026, 16:53:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/>)
-
 - **L'INTERPOL smantella 45.000 IP dannosi e ne arresta 94 responsabili di criminalità informatica globale**  
   Fonte: The Hacker News, 13 Mar 2026, 15:20:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html>)
-
-- **Da VMware al futuro: protezione dei dati durante la migrazione dell'hypervisor**  
-  Fonte: BleepingComputer, 13 Mar 2026, 14:15:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/>)
 
 - **Storm-2561 diffonde client VPN trojan tramite SEO Poisoning per rubare credenziali**  
   Fonte: The Hacker News, 13 Mar 2026, 13:38:00 UTC  
@@ -157,6 +185,10 @@
 - **iPhone e iPad approvati per i dati classificati NATO**  
   Fonte: Schneier on Security, 12 Mar 2026, 19:59:54 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/iphones-and-ipads-approved-for-nato-classified-data.html>)
+
+- **I truffatori utilizzano i documenti di pianificazione pubblica per prendere di mira i richiedenti il ​​permesso**  
+  Fonte: Graham Cluley, 12 Mar 2026, 18:31:52 UTC  
+  [Leggi](<https://www.fortra.com/blog/fraudsters-are-using-public-planning-records-target-permit-applicants>)
 
 - **Il malware VENON basato su Rust prende di mira 33 banche brasiliane con sovrapposizioni di furto di credenziali**  
   Fonte: The Hacker News, 12 Mar 2026, 17:31:00 UTC  
@@ -242,53 +274,5 @@
   Fonte: The Hacker News, 11 Mar 2026, 07:31:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html>)
 
-- **Cinque casse Rust dannose e bot IA sfruttano le pipeline CI/CD per rubare i segreti degli sviluppatori**  
-  Fonte: The Hacker News, 11 Mar 2026, 05:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html>)
 
-- **Microsoft Patch Tuesday, edizione marzo 2026**  
-  Fonte: Krebs on Security, 11 Mar 2026, 00:32:51 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/>)
-
-- **Dispositivi FortiGate sfruttati per violare le reti e rubare le credenziali degli account di servizio**  
-  Fonte: The Hacker News, 10 Mar 2026, 16:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html>)
-
-- **Come fermare le fughe di dati dell'intelligenza artificiale: una guida al webinar per il controllo dei flussi di lavoro agentici moderni**  
-  Fonte: The Hacker News, 10 Mar 2026, 16:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html>)
-
-- **Il malware KadNap infetta oltre 14.000 dispositivi Edge per alimentare botnet proxy Stealth**  
-  Fonte: The Hacker News, 10 Mar 2026, 16:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html>)
-
-- **Twitter ha sospeso 800 milioni di account l’anno scorso: allora perché la manipolazione rimane così dilagante?**  
-  Fonte: Graham Cluley, 10 Mar 2026, 15:54:37 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/twitter-suspended-800-million-accounts-last-year-so-why-does-manipulation-remain-so-rampant>)
-
-- **Nuovi difetti "LeakyLooker" in Google Looker Studio potrebbero abilitare query SQL cross-tenant**  
-  Fonte: The Hacker News, 10 Mar 2026, 13:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html>)
-
-- **Analisi degli attacchi multi-vettore in Log Explorer**  
-  Fonte: Cloudflare Blog - Security, 10 Mar 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/>)
-
-- **La corsa al giorno zero è evitabile: una guida per ridurre la superficie di attacco**  
-  Fonte: The Hacker News, 10 Mar 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html>)
-
-- **APT28 utilizza il malware BEARDSHELL e COVENANT per spiare l'esercito ucraino**  
-  Fonte: The Hacker News, 10 Mar 2026, 10:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html>)
-
-- **Jailbreak dell'aereo da caccia F-35**  
-  Fonte: Schneier on Security, 10 Mar 2026, 09:50:23 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html>)
-
-- **Gli autori delle minacce eseguono una scansione di massa di Salesforce Experience Cloud tramite lo strumento AuraInspector modificato**  
-  Fonte: The Hacker News, 10 Mar 2026, 07:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-17 06:54:26 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-18 06:51:46 UTC -->
