@@ -2,9 +2,81 @@
 
 ## Ultimi 7 giorni
 
-- **Difetto Telnetd critico senza patch (CVE-2026-32746) abilita RCE root non autenticato tramite la porta 23**  
-  Fonte: The Hacker News, 18 Mar 2026, 05:06:00 UTC  
+- **CISA mette in guardia contro Zimbra, exploit di difetti di SharePoint;Colpo zero-day di Cisco negli attacchi ransomware**  
+  Fonte: The Hacker News, 19 Mar 2026, 06:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html>)
+
+- **Podcast n. 459 di Smashing Security: questa truffa intelligente ha quasi violato l'ID Apple di un CEO del settore tecnologico**  
+  Fonte: Graham Cluley, 19 Mar 2026, 00:15:54 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-459/>)
+
+- **Aura conferma la violazione dei dati esponendo 900.000 contatti di marketing**  
+  Fonte: BleepingComputer, 18 Mar 2026, 22:56:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/>)
+
+- **La CISA ordina ai federali di correggere la falla Zimbra XSS sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 18 Mar 2026, 19:57:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/>)
+
+- **ConnectWise corregge un nuovo difetto che consente il dirottamento di ScreenConnect**  
+  Fonte: BleepingComputer, 18 Mar 2026, 18:10:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/>)
+
+- **L'OFAC sanziona la rete di lavoratori IT della RPDC che finanzia programmi di distruzione di massa attraverso falsi lavori remoti**  
+  Fonte: The Hacker News, 18 Mar 2026, 17:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html>)
+
+- **Una banda di ransomware sfrutta la falla di Cisco negli attacchi zero-day da gennaio**  
+  Fonte: BleepingComputer, 18 Mar 2026, 16:53:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/>)
+
+- **Il ransomware Interlock sfrutta Cisco FMC Zero-Day CVE-2026-20131 per l'accesso root**  
+  Fonte: The Hacker News, 18 Mar 2026, 16:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html>)
+
+- **Marchese: una banda di ransomware ha rubato i dati di 672.000 persone durante un attacco informatico**  
+  Fonte: BleepingComputer, 18 Mar 2026, 15:32:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/>)
+
+- **L’economia delle frodi sui rimborsi: sfruttare i principali rivenditori e le piattaforme di pagamento**  
+  Fonte: BleepingComputer, 18 Mar 2026, 14:05:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/>)
+
+- **Nuovo exploit iOS “Darksword” utilizzato nell’attacco infostealer sugli iPhone**  
+  Fonte: BleepingComputer, 18 Mar 2026, 14:02:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/>)
+
+- **Il sistema di posta elettronica di Nordstrom è stato abusato per inviare truffe crittografiche ai clienti**  
+  Fonte: BleepingComputer, 18 Mar 2026, 13:55:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/>)
+
+- **Difetto Telnetd critico senza patch (CVE-2026-32746) abilita RCE root non autenticato**  
+  Fonte: The Hacker News, 18 Mar 2026, 12:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html>)
+
+- **Claude Code Security e Magecart: individuare il modello di minaccia corretto**  
+  Fonte: The Hacker News, 18 Mar 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/claude-code-security-and-magecart.html>)
+
+- **9 difetti critici del KVM IP consentono l'accesso root non autenticato a quattro fornitori**  
+  Fonte: The Hacker News, 18 Mar 2026, 11:42:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html>)
+
+- **Occhiali AI e privacy di Meta**  
+  Fonte: Schneier on Security, 18 Mar 2026, 11:07:18 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/metas-ai-glasses-and-privacy.html>)
+
+- **Procedura dettagliata del prodotto: come il Mesh CSMA rivela e interrompe i percorsi di attacco ai gioielli della corona**  
+  Fonte: The Hacker News, 18 Mar 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html>)
+
+- **Il bug CVE-2026-3888 di Ubuntu consente agli aggressori di ottenere il root tramite systemd Cleanup Timing Exploit**  
+  Fonte: The Hacker News, 18 Mar 2026, 08:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html>)
+
+- **Apple risolve la vulnerabilità di WebKit abilitando il bypass della policy della stessa origine su iOS e macOS**  
+  Fonte: The Hacker News, 18 Mar 2026, 06:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html>)
 
 - **Apple invia il primo aggiornamento dei miglioramenti della sicurezza in background per correggere il difetto di WebKit**  
   Fonte: BleepingComputer, 18 Mar 2026, 01:06:31 UTC  
@@ -38,25 +110,13 @@
   Fonte: BleepingComputer, 17 Mar 2026, 13:54:37 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/>)
 
-- **Il ransomware LeakNet utilizza ClickFix, il runtime Deno in attacchi furtivi**  
+- **Il ransomware LeakNet utilizza ClickFix, runtime Deno in attacchi furtivi**  
   Fonte: BleepingComputer, 17 Mar 2026, 12:09:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/>)
-
-- **Microsoft condivide la correzione per Windows C: problemi di accesso all'unità sui PC Samsung**  
-  Fonte: BleepingComputer, 17 Mar 2026, 12:03:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/>)
 
 - **L'intelligenza artificiale è ovunque, ma i CISO la stanno ancora proteggendo con competenze e strumenti del passato, secondo uno studio**  
   Fonte: The Hacker News, 17 Mar 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html>)
-
-- **Il nuovo hotpatch di Windows 11 risolve il problema di visibilità del dispositivo Bluetooth**  
-  Fonte: BleepingComputer, 17 Mar 2026, 11:07:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/>)
-
-- **Microsoft: l'abilitazione del componente aggiuntivo per le riunioni di Teams interrompe Outlook Classic**  
-  Fonte: BleepingComputer, 17 Mar 2026, 10:37:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/>)
 
 - **La polizia sudcoreana pubblica accidentalmente la password del portafoglio di criptovaluta**  
   Fonte: Schneier on Security, 17 Mar 2026, 10:01:43 UTC  
@@ -78,33 +138,13 @@
   Fonte: The Hacker News, 16 Mar 2026, 19:37:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html>)
 
-- **L'attacco Stryker ha cancellato decine di migliaia di dispositivi, senza bisogno di malware**  
-  Fonte: BleepingComputer, 16 Mar 2026, 19:17:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/>)
-
-- **CISA segnala la falla del server Wing FTP come sfruttata attivamente negli attacchi**  
-  Fonte: BleepingComputer, 16 Mar 2026, 18:00:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/>)
-
 - **Parcheggio gratuito in Russia dopo l’attacco Distributed Denial-of-Service che mette offline il sistema di parcheggio della città**  
   Fonte: Graham Cluley, 16 Mar 2026, 17:27:34 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/free-parking-russia-distributed-denial-of-service-attack-parking-system>)
 
-- **La Companies House del Regno Unito conferma i dati aziendali esposti a falle di sicurezza**  
-  Fonte: BleepingComputer, 16 Mar 2026, 17:07:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/>)
-
-- **L'interruzione di Microsoft Exchange Online blocca l'accesso alle cassette postali**  
-  Fonte: BleepingComputer, 16 Mar 2026, 16:05:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/>)
-
 - **⚡ Riepilogo settimanale: Chrome 0-Days, router botnet, violazione di AWS, agenti IA non autorizzati e altro**  
   Fonte: The Hacker News, 16 Mar 2026, 14:17:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html>)
-
-- **L’IA ombra è ovunque.Ecco come trovarlo e proteggerlo.**  
-  Fonte: BleepingComputer, 16 Mar 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/>)
 
 - **Perché la convalida della sicurezza sta diventando agente**  
   Fonte: The Hacker News, 16 Mar 2026, 11:58:00 UTC  
@@ -134,7 +174,7 @@
   Fonte: Schneier on Security, 14 Mar 2026, 16:02:26 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/upcoming-speaking-engagements-54.html>)
 
-- **GlassWorm abusa degli attacchi alla catena di fornitura 72 Estensioni VSX aperte destinate agli sviluppatori**  
+- **GlassWorm abusi di attacchi alla catena di fornitura 72 Estensioni VSX aperte destinate agli sviluppatori**  
   Fonte: The Hacker News, 14 Mar 2026, 12:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html>)
 
@@ -198,7 +238,7 @@
   Fonte: The Hacker News, 12 Mar 2026, 17:02:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html>)
 
-- **Come scalare il rilevamento del phishing nel tuo SOC: 3 passaggi per i CISO**  
+- **Come ampliare il rilevamento del phishing nel tuo SOC: 3 passaggi per i CISO**  
   Fonte: The Hacker News, 12 Mar 2026, 13:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html>)
 
@@ -222,57 +262,5 @@
   Fonte: The Hacker News, 12 Mar 2026, 07:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html>)
 
-- **CISA segnala il bug RCE n8n attivamente sfruttato poiché 24.700 istanze rimangono esposte**  
-  Fonte: The Hacker News, 12 Mar 2026, 05:18:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html>)
 
-- **Annuncio della protezione dagli abusi degli account Cloudflare: previene gli attacchi fraudolenti da parte di bot e esseri umani**  
-  Fonte: Cloudflare Blog - Security, 12 Mar 2026, 05:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/account-abuse-protection/>)
-
-- **Podcast Smashing Security n. 458: Come non rubare 46 milioni di dollari al governo degli Stati Uniti**  
-  Fonte: Graham Cluley, 12 Mar 2026, 00:30:37 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-458/>)
-
-- **I ricercatori ingannano il browser AI Comet di Perplexity trasformandolo in una truffa di phishing in meno di quattro minuti**  
-  Fonte: The Hacker News, 11 Mar 2026, 16:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html>)
-
-- **Gli hacker sostenuti dall'Iran rivendicano un attacco Wiper alla società di tecnologia medica Stryker**  
-  Fonte: Krebs on Security, 11 Mar 2026, 16:20:13 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/>)
-
-- **I difetti critici di n8n consentono l'esecuzione di codice remoto e l'esposizione delle credenziali archiviate**  
-  Fonte: The Hacker News, 11 Mar 2026, 14:51:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html>)
-
-- **Meta disabilita 150.000 account collegati a centri antifrode del Sud-Est asiatico durante un giro di vite globale**  
-  Fonte: The Hacker News, 11 Mar 2026, 13:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html>)
-
-- **AI Security for Apps è ora disponibile a livello generale**  
-  Fonte: Cloudflare Blog - Security, 11 Mar 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/ai-security-for-apps-ga/>)
-
-- **Decine di fornitori patchano difetti di sicurezza nei software aziendali e nei dispositivi di rete**  
-  Fonte: The Hacker News, 11 Mar 2026, 12:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html>)
-
-- **Cosa devono chiedere i board nell’era dello sfruttamento automatizzato dell’intelligenza artificiale**  
-  Fonte: The Hacker News, 11 Mar 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html>)
-
-- **Il Canada ha bisogno di un’IA pubblica nazionalizzata**  
-  Fonte: Schneier on Security, 11 Mar 2026, 11:04:06 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/canada-needs-nationalized-public-ai.html>)
-
-- **Microsoft corregge 84 difetti nel Patch Tuesday di marzo, inclusi due Zero-Day pubblici**  
-  Fonte: The Hacker News, 11 Mar 2026, 09:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html>)
-
-- **UNC6426 sfrutta l'attacco alla catena di fornitura nx npm per ottenere l'accesso amministrativo ad AWS in 72 ore**  
-  Fonte: The Hacker News, 11 Mar 2026, 07:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-18 06:51:46 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-19 06:46:17 UTC -->
