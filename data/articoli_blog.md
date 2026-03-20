@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **Il DoJ interrompe 3 milioni di botnet IoT dietro attacchi DDoS globali record da 31,4 Tbps**  
+  Fonte: The Hacker News, 20 Mar 2026, 06:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html>)
+
+- **Apple avverte gli iPhone più vecchi vulnerabili agli attacchi del kit exploit DarkSword e Coruna**  
+  Fonte: The Hacker News, 20 Mar 2026, 05:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html>)
+
+- **I federali smantellano le botnet IoT dietro enormi attacchi DDoS**  
+  Fonte: Krebs on Security, 20 Mar 2026, 00:49:19 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/>)
+
+- **Navia rivela una violazione dei dati che colpisce 2,7 milioni di persone**  
+  Fonte: BleepingComputer, 19 Mar 2026, 20:43:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/>)
+
+- **Il nuovo difetto "PolyShell" consente RCE non autenticato sugli e-store Magento**  
+  Fonte: BleepingComputer, 19 Mar 2026, 20:01:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/>)
+
+- **Speagle Malware dirotta Cobra DocGuard per rubare dati tramite server compromessi**  
+  Fonte: The Hacker News, 19 Mar 2026, 19:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html>)
+
+- **54 killer EDR utilizzano BYOVD per sfruttare 35 driver vulnerabili firmati e disattivare la sicurezza**  
+  Fonte: The Hacker News, 19 Mar 2026, 18:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html>)
+
+- **Bitrefill accusa il gruppo nordcoreano Lazarus di attacco informatico**  
+  Fonte: BleepingComputer, 19 Mar 2026, 17:08:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/>)
+
+- **L'FBI sequestra il sito di fuga di dati di Handala dopo l'attacco informatico a Stryker**  
+  Fonte: BleepingComputer, 19 Mar 2026, 16:14:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/>)
+
+- **Gli hacker russi sfruttano la falla di Zimbra negli attacchi al governo ucraino**  
+  Fonte: BleepingComputer, 19 Mar 2026, 14:55:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/>)
+
+- **Bollettino del ThreatsDay: FortiGate RaaS, exploit Citrix, abusi MCP, phishing LiveChat e altro**  
+  Fonte: The Hacker News, 19 Mar 2026, 14:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html>)
+
+- **7 modi per prevenire l'escalation dei privilegi tramite la reimpostazione della password**  
+  Fonte: BleepingComputer, 19 Mar 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/>)
+
+- **La gravità massima del difetto Ubiquiti UniFi può consentire la presa del controllo dell'account**  
+  Fonte: BleepingComputer, 19 Mar 2026, 13:00:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/>)
+
+- **Il nuovo malware bancario Android Perseus monitora le app delle note per estrarre dati sensibili**  
+  Fonte: The Hacker News, 19 Mar 2026, 12:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html>)
+
+- **La CISA esorta le organizzazioni statunitensi a proteggere i sistemi Microsoft Intune dopo la violazione di Stryker**  
+  Fonte: BleepingComputer, 19 Mar 2026, 11:02:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/>)
+
+- **In che modo Ceros offre visibilità e controllo ai team di sicurezza in Claude Code**  
+  Fonte: The Hacker News, 19 Mar 2026, 10:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html>)
+
+- **Il nuovo malware Android “Perseus” controlla i segreti delle note dell’utente**  
+  Fonte: BleepingComputer, 19 Mar 2026, 10:13:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/>)
+
+- **Difetto critico di Microsoft SharePoint ora sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 19 Mar 2026, 10:06:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/>)
+
+- **Hackerare un robot aspirapolvere**  
+  Fonte: Schneier on Security, 19 Mar 2026, 09:47:30 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/hacking-a-robot-vacuum.html>)
+
+- **DarkSword iOS Exploit Kit utilizza 6 difetti e 3 zero-day per il controllo completo del dispositivo**  
+  Fonte: The Hacker News, 19 Mar 2026, 09:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html>)
+
 - **CISA mette in guardia contro Zimbra, exploit di difetti di SharePoint;Colpo zero-day di Cisco negli attacchi ransomware**  
   Fonte: The Hacker News, 19 Mar 2026, 06:05:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html>)
@@ -38,18 +118,6 @@
   Fonte: BleepingComputer, 18 Mar 2026, 15:32:39 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/>)
 
-- **L’economia delle frodi sui rimborsi: sfruttare i principali rivenditori e le piattaforme di pagamento**  
-  Fonte: BleepingComputer, 18 Mar 2026, 14:05:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/>)
-
-- **Nuovo exploit iOS “Darksword” utilizzato nell’attacco infostealer sugli iPhone**  
-  Fonte: BleepingComputer, 18 Mar 2026, 14:02:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/>)
-
-- **Il sistema di posta elettronica di Nordstrom è stato abusato per inviare truffe crittografiche ai clienti**  
-  Fonte: BleepingComputer, 18 Mar 2026, 13:55:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/>)
-
 - **Difetto Telnetd critico senza patch (CVE-2026-32746) abilita RCE root non autenticato**  
   Fonte: The Hacker News, 18 Mar 2026, 12:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html>)
@@ -78,18 +146,6 @@
   Fonte: The Hacker News, 18 Mar 2026, 06:31:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html>)
 
-- **Apple invia il primo aggiornamento dei miglioramenti della sicurezza in background per correggere il difetto di WebKit**  
-  Fonte: BleepingComputer, 18 Mar 2026, 01:06:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/>)
-
-- **Il malware GlassWorm colpisce oltre 400 repository di codici su GitHub, npm, VSCode, OpenVSX**  
-  Fonte: BleepingComputer, 17 Mar 2026, 21:42:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/>)
-
-- **L’Europa sanziona le aziende cinesi e iraniane per attacchi informatici**  
-  Fonte: BleepingComputer, 17 Mar 2026, 18:41:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/>)
-
 - **I difetti dell'intelligenza artificiale in Amazon Bedrock, LangSmith e SGLang consentono l'esfiltrazione dei dati e l'RCE**  
   Fonte: The Hacker News, 17 Mar 2026, 16:39:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html>)
@@ -97,22 +153,6 @@
 - **Il ransomware LeakNet utilizza ClickFix tramite siti compromessi e distribuisce il caricatore in-memoria Deno**  
   Fonte: The Hacker News, 17 Mar 2026, 14:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html>)
-
-- **Le 5 principali cose che i CISO devono fare oggi per proteggere gli agenti IA**  
-  Fonte: BleepingComputer, 17 Mar 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/>)
-
-- **Un nuovo trucco per il rendering dei caratteri nasconde comandi dannosi dagli strumenti di intelligenza artificiale**  
-  Fonte: BleepingComputer, 17 Mar 2026, 13:59:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/>)
-
-- **Microsoft interrompe l'installazione forzata dell'app Microsoft 365 Copilot**  
-  Fonte: BleepingComputer, 17 Mar 2026, 13:54:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/>)
-
-- **Il ransomware LeakNet utilizza ClickFix, runtime Deno in attacchi furtivi**  
-  Fonte: BleepingComputer, 17 Mar 2026, 12:09:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/>)
 
 - **L'intelligenza artificiale è ovunque, ma i CISO la stanno ancora proteggendo con competenze e strumenti del passato, secondo uno studio**  
   Fonte: The Hacker News, 17 Mar 2026, 11:30:00 UTC  
@@ -214,53 +254,5 @@
   Fonte: The Hacker News, 13 Mar 2026, 08:18:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html>)
 
-- **Le autorità interrompono la botnet proxy SocketEscort che sfrutta 369.000 IP in 163 paesi**  
-  Fonte: The Hacker News, 13 Mar 2026, 05:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html>)
 
-- **Veeam patch 7 difetti critici di backup e replica che consentono l'esecuzione di codice in modalità remota**  
-  Fonte: The Hacker News, 13 Mar 2026, 04:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html>)
-
-- **iPhone e iPad approvati per i dati classificati NATO**  
-  Fonte: Schneier on Security, 12 Mar 2026, 19:59:54 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/iphones-and-ipads-approved-for-nato-classified-data.html>)
-
-- **I truffatori utilizzano i documenti di pianificazione pubblica per prendere di mira i richiedenti il ​​permesso**  
-  Fonte: Graham Cluley, 12 Mar 2026, 18:31:52 UTC  
-  [Leggi](<https://www.fortra.com/blog/fraudsters-are-using-public-planning-records-target-permit-applicants>)
-
-- **Il malware VENON basato su Rust prende di mira 33 banche brasiliane con sovrapposizioni di furto di credenziali**  
-  Fonte: The Hacker News, 12 Mar 2026, 17:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html>)
-
-- **Hive0163 utilizza malware Slopoly assistito dall'intelligenza artificiale per l'accesso persistente negli attacchi ransomware**  
-  Fonte: The Hacker News, 12 Mar 2026, 17:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html>)
-
-- **Come ampliare il rilevamento del phishing nel tuo SOC: 3 passaggi per i CISO**  
-  Fonte: The Hacker News, 12 Mar 2026, 13:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html>)
-
-- **Bollettino del ThreatsDay: trappola OAuth, killer EDR, phishing di segnali, ZIP zombie, hacking della piattaforma AI e altro**  
-  Fonte: The Hacker News, 12 Mar 2026, 13:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html>)
-
-- **Il tuo account Signal è al sicuro, a meno che tu non cada in questo trucco**  
-  Fonte: Graham Cluley, 12 Mar 2026, 12:12:48 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/signal-account-safe-unless-fall-for-this-trick>)
-
-- **Gli aggressori non si limitano a inviare e-mail di phishing.Rendono il carico di lavoro del tuo SOC un'arma**  
-  Fonte: The Hacker News, 12 Mar 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html>)
-
-- **Apple rilascia aggiornamenti di sicurezza per i dispositivi iOS meno recenti presi di mira dall'exploit Coruna WebKit**  
-  Fonte: The Hacker News, 12 Mar 2026, 09:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html>)
-
-- **Sei famiglie di malware Android prendono di mira i pagamenti Pix, le app bancarie e i portafogli crittografici**  
-  Fonte: The Hacker News, 12 Mar 2026, 07:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-19 06:46:17 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-20 06:42:21 UTC -->
