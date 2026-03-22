@@ -2,6 +2,34 @@
 
 ## Ultimi 7 giorni
 
+- **La violazione dello scanner delle vulnerabilità ha inviato infostealer tramite GitHub Actions**  
+  Fonte: BleepingComputer, 21 Mar 2026, 17:30:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/>)
+
+- **Google aggiunge "Advanced Flow" per il sideload sicuro degli APK su Android**  
+  Fonte: BleepingComputer, 21 Mar 2026, 14:18:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/>)
+
+- **Avvisi di monitoraggio di Microsoft Azure sfruttati in modo improprio per attacchi di phishing callback**  
+  Fonte: BleepingComputer, 21 Mar 2026, 14:09:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/>)
+
+- **L'FBI avverte gli hacker russi di prendere di mira Signal e WhatsApp con attacchi di phishing di massa**  
+  Fonte: The Hacker News, 21 Mar 2026, 13:17:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html>)
+
+- **Oracle applica le patch critiche CVE-2026-21992 abilitando RCE non autenticato in Identity Manager**  
+  Fonte: The Hacker News, 21 Mar 2026, 10:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html>)
+
+- **L'attacco alla catena di fornitura innesca l'autodiffusione del CanisterWorm nei pacchetti da 47 npm**  
+  Fonte: The Hacker News, 21 Mar 2026, 08:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html>)
+
+- **CISA segnala Apple, Craft CMS, bug Laravel in KEV, patch ordini entro il 3 aprile 2026**  
+  Fonte: The Hacker News, 21 Mar 2026, 08:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html>)
+
 - **Blog sui calamari del venerdì: calamari volanti jumbo nel Pacifico meridionale**  
   Fonte: Schneier on Security, 20 Mar 2026, 21:06:59 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-jumbo-flying-squid-in-the-south-pacific.html>)
@@ -106,21 +134,9 @@
   Fonte: BleepingComputer, 19 Mar 2026, 17:08:24 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/>)
 
-- **L'FBI sequestra il sito di fuga di dati di Handala dopo l'attacco informatico di Stryker**  
-  Fonte: BleepingComputer, 19 Mar 2026, 16:14:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/>)
-
-- **Gli hacker russi sfruttano la falla di Zimbra negli attacchi al governo ucraino**  
-  Fonte: BleepingComputer, 19 Mar 2026, 14:55:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/>)
-
 - **Bollettino del ThreatsDay: FortiGate RaaS, exploit Citrix, abusi MCP, phishing LiveChat e altro**  
   Fonte: The Hacker News, 19 Mar 2026, 14:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html>)
-
-- **7 modi per prevenire l'escalation dei privilegi tramite la reimpostazione della password**  
-  Fonte: BleepingComputer, 19 Mar 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/>)
 
 - **Il nuovo malware bancario Android Perseus monitora le app delle note per estrarre dati sensibili**  
   Fonte: The Hacker News, 19 Mar 2026, 12:43:00 UTC  
@@ -242,17 +258,5 @@
   Fonte: The Hacker News, 16 Mar 2026, 05:43:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html>)
 
-- **I difetti dell'agente AI di OpenClaw potrebbero consentire l'iniezione rapida e l'esfiltrazione dei dati**  
-  Fonte: The Hacker News, 14 Mar 2026, 16:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html>)
 
-- **Prossimi impegni di conferenza**  
-  Fonte: Schneier on Security, 14 Mar 2026, 16:02:26 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/upcoming-speaking-engagements-54.html>)
-
-- **GlassWorm abusi di attacchi alla catena di fornitura 72 Estensioni VSX aperte destinate agli sviluppatori**  
-  Fonte: The Hacker News, 14 Mar 2026, 12:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-21 06:32:50 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-22 06:38:54 UTC -->
