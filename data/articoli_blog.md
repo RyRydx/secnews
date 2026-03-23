@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **Gli hacker sfruttano CVE-2025-32975 (CVSS 10.0) per dirottare i sistemi Quest KACE SMA senza patch**  
+  Fonte: The Hacker News, 23 Mar 2026, 06:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html>)
+
+- **Il malware VoidStealer ruba la chiave principale di Chrome tramite un trucco del debugger**  
+  Fonte: BleepingComputer, 22 Mar 2026, 14:32:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/>)
+
 - **La violazione dello scanner delle vulnerabilità ha inviato infostealer tramite GitHub Actions**  
   Fonte: BleepingComputer, 21 Mar 2026, 17:30:41 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/>)
@@ -46,7 +54,7 @@
   Fonte: The Hacker News, 20 Mar 2026, 17:47:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html>)
 
-- **La polizia ha bloccato 373.000 falsi siti CSAM nell'operazione Alice**  
+- **La polizia ha bloccato 373.000 falsi siti di materiale pedopornografico nell'ambito dell'operazione Alice**  
   Fonte: BleepingComputer, 20 Mar 2026, 17:19:02 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/>)
 
@@ -78,7 +86,7 @@
   Fonte: Graham Cluley, 20 Mar 2026, 10:18:08 UTC  
   [Leggi](<https://www.fortra.com/blog/leaknet-ransomware-what-you-need-know>)
 
-- **L’importanza dell’analisi comportamentale negli attacchi informatici abilitati all’intelligenza artificiale**  
+- **L’importanza dell’analisi comportamentale negli attacchi informatici basati sull’intelligenza artificiale**  
   Fonte: The Hacker News, 20 Mar 2026, 10:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html>)
 
@@ -130,10 +138,6 @@
   Fonte: The Hacker News, 19 Mar 2026, 18:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html>)
 
-- **Bitrefill accusa il gruppo nordcoreano Lazarus di attacco informatico**  
-  Fonte: BleepingComputer, 19 Mar 2026, 17:08:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/>)
-
 - **Bollettino del ThreatsDay: FortiGate RaaS, exploit Citrix, abusi MCP, phishing LiveChat e altro**  
   Fonte: The Hacker News, 19 Mar 2026, 14:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html>)
@@ -150,7 +154,7 @@
   Fonte: Schneier on Security, 19 Mar 2026, 09:47:30 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/hacking-a-robot-vacuum.html>)
 
-- **DarkSword iOS Exploit Kit utilizza 6 difetti e 3 zero-day per il controllo completo del dispositivo**  
+- **DarkSword iOS Exploit Kit utilizza 6 difetti, 3 zero-day per il controllo completo del dispositivo**  
   Fonte: The Hacker News, 19 Mar 2026, 09:14:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html>)
 
@@ -254,9 +258,5 @@
   Fonte: The Hacker News, 16 Mar 2026, 09:07:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html>)
 
-- **Android 17 blocca le app non accessibili dall'API di accessibilità per prevenire l'abuso di malware**  
-  Fonte: The Hacker News, 16 Mar 2026, 05:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-03-22 06:38:54 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-23 06:59:34 UTC -->
