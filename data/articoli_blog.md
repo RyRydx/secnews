@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **PTC avverte di una minaccia imminente derivante dal bug critico Windchill e FlexPLM RCE**  
+  Fonte: BleepingComputer, 24 Mar 2026, 23:04:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/>)
+
+- **Il popolare pacchetto LiteLLM PyPI con backdoor per rubare credenziali e token di autenticazione**  
+  Fonte: BleepingComputer, 24 Mar 2026, 22:29:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/>)
+
+- **La FCC vieta i nuovi router realizzati al di fuori degli Stati Uniti a causa dei rischi per la sicurezza**  
+  Fonte: BleepingComputer, 24 Mar 2026, 20:41:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/>)
+
+- **TeamPCP Backdoor LiteLLM versioni 1.82.7–1.82.8 tramite Trivy CI/CD Compromise**  
+  Fonte: The Hacker News, 24 Mar 2026, 18:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html>)
+
+- **Firefox ora dispone di una VPN integrata gratuita con limite dati mensile di 50 GB**  
+  Fonte: BleepingComputer, 24 Mar 2026, 17:23:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/>)
+
+- **Gli annunci di ricerca fiscale forniscono malware ScreenConnect utilizzando il driver Huawei per disattivare EDR**  
+  Fonte: The Hacker News, 24 Mar 2026, 17:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html>)
+
+- **5 insegnamenti dalla prima guida al mercato Gartner per agenti guardiani**  
+  Fonte: The Hacker News, 24 Mar 2026, 16:36:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html>)
+
+- **Gli hacker utilizzano curriculum falsi per rubare credenziali aziendali e utilizzare Crypto Miner**  
+  Fonte: The Hacker News, 24 Mar 2026, 16:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html>)
+
+- **Microsoft risolve il bug che causava problemi di sincronizzazione di Outlook classico con Gmail**  
+  Fonte: BleepingComputer, 24 Mar 2026, 15:12:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/>)
+
+- **Zero Trust: colmare il divario tra autenticazione e fiducia**  
+  Fonte: BleepingComputer, 24 Mar 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/>)
+
+- **HackerOne rivela la violazione dei dati dei dipendenti dopo l'hacking di Navia**  
+  Fonte: BleepingComputer, 24 Mar 2026, 14:01:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/>)
+
+- **Infinite Campus avverte di una violazione dopo che ShinyHunters ha denunciato il furto di dati**  
+  Fonte: BleepingComputer, 24 Mar 2026, 13:48:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/>)
+
+- **Il broker di accesso al ransomware Yanluowang viene condannato a 81 mesi di prigione**  
+  Fonte: BleepingComputer, 24 Mar 2026, 13:06:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/>)
+
+- **Il Ministero delle Finanze olandese rivela una violazione che colpisce i dipendenti**  
+  Fonte: BleepingComputer, 24 Mar 2026, 12:03:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/>)
+
+- **Il costo nascosto della specializzazione nella sicurezza informatica: perdita di competenze fondamentali**  
+  Fonte: The Hacker News, 24 Mar 2026, 12:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html>)
+
+- **La campagna fantasma utilizza pacchetti da 7 npm per rubare portafogli e credenziali crittografiche**  
+  Fonte: The Hacker News, 24 Mar 2026, 12:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html>)
+
+- **Il Team Mirai e la democrazia**  
+  Fonte: Schneier on Security, 24 Mar 2026, 11:03:56 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html>)
+
+- **TeamPCP hackera le azioni Checkmarx GitHub utilizzando credenziali CI rubate**  
+  Fonte: The Hacker News, 24 Mar 2026, 10:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html>)
+
+- **Gli Stati Uniti condannano un hacker russo a 6,75 anni per aver causato danni da ransomware di 9 milioni di dollari**  
+  Fonte: The Hacker News, 24 Mar 2026, 06:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html>)
+
+- **Citrix sollecita l'applicazione di patch al difetto critico di NetScaler che consente fughe di dati non autenticati**  
+  Fonte: The Hacker News, 24 Mar 2026, 05:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/citrix-urges-patching-critical.html>)
+
 - **Aggiornamento settimanale 496**  
   Fonte: Troy Hunt, 24 Mar 2026, 04:17:23 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-496/>)
@@ -30,25 +110,13 @@
   Fonte: The Hacker News, 23 Mar 2026, 18:09:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html>)
 
-- **Gli attacchi banali alla supply chain si diffondono nei repository Docker e GitHub**  
-  Fonte: BleepingComputer, 23 Mar 2026, 17:40:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/>)
-
 - **Attacco ai tergicristalli “CanisterWorm” contro l’Iran**  
   Fonte: Krebs on Security, 23 Mar 2026, 15:43:04 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/>)
 
-- **Varonis Atlas: proteggere l'intelligenza artificiale e i dati che la alimentano**  
-  Fonte: BleepingComputer, 23 Mar 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/>)
-
 - **⚡ Riepilogo settimanale: backdoor CI/CD, l'FBI acquista dati sulla posizione, WhatsApp abbandona i numeri e altro**  
   Fonte: The Hacker News, 23 Mar 2026, 13:14:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html>)
-
-- **La modifica del servizio Microsoft Exchange Online causa problemi di accesso alla posta elettronica**  
-  Fonte: BleepingComputer, 23 Mar 2026, 12:17:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/>)
 
 - **Abbiamo trovato otto vettori di attacco all'interno di AWS Bedrock.Ecco cosa possono fare gli aggressori con loro**  
   Fonte: The Hacker News, 23 Mar 2026, 11:55:00 UTC  
@@ -62,41 +130,13 @@
   Fonte: The Hacker News, 23 Mar 2026, 10:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html>)
 
-- **L'FBI avverte degli hacker di Handala che utilizzano Telegram per attacchi malware**  
-  Fonte: BleepingComputer, 23 Mar 2026, 09:45:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/>)
-
-- **La CISA ordina ai federali di correggere i difetti di DarkSword iOS durante gli attacchi sfruttati**  
-  Fonte: BleepingComputer, 23 Mar 2026, 08:37:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/>)
-
 - **Trivy Hack diffonde Infostealer tramite Docker, attiva Worm e Kubernetes Wiper**  
   Fonte: The Hacker News, 23 Mar 2026, 08:31:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html>)
 
-- **Il nuovo aggiornamento di emergenza KB5085516 corregge l'accesso all'account Microsoft**  
-  Fonte: BleepingComputer, 23 Mar 2026, 08:04:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/>)
-
 - **Gli hacker sfruttano CVE-2025-32975 (CVSS 10.0) per dirottare i sistemi Quest KACE SMA senza patch**  
   Fonte: The Hacker News, 23 Mar 2026, 06:15:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html>)
-
-- **Il malware VoidStealer ruba la chiave principale di Chrome tramite un trucco del debugger**  
-  Fonte: BleepingComputer, 22 Mar 2026, 14:32:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/>)
-
-- **La violazione dello scanner delle vulnerabilità ha inviato infostealer tramite GitHub Actions**  
-  Fonte: BleepingComputer, 21 Mar 2026, 17:30:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/>)
-
-- **Google aggiunge "Advanced Flow" per il sideload sicuro degli APK su Android**  
-  Fonte: BleepingComputer, 21 Mar 2026, 14:18:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/>)
-
-- **Avvisi di monitoraggio di Microsoft Azure sfruttati in modo improprio per attacchi di phishing callback**  
-  Fonte: BleepingComputer, 21 Mar 2026, 14:09:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/>)
 
 - **L'FBI avverte gli hacker russi di prendere di mira Signal e WhatsApp con attacchi di phishing di massa**  
   Fonte: The Hacker News, 21 Mar 2026, 13:17:00 UTC  
@@ -186,7 +226,7 @@
   Fonte: Schneier on Security, 19 Mar 2026, 09:47:30 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/hacking-a-robot-vacuum.html>)
 
-- **DarkSword iOS Exploit Kit utilizza 6 difetti e 3 zero-day per il controllo completo del dispositivo**  
+- **DarkSword iOS Exploit Kit utilizza 6 difetti, 3 zero-day per il controllo completo del dispositivo**  
   Fonte: The Hacker News, 19 Mar 2026, 09:14:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html>)
 
@@ -198,7 +238,7 @@
   Fonte: Graham Cluley, 19 Mar 2026, 00:15:54 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-459/>)
 
-- **L'OFAC sanziona la rete di lavoratori IT della RPDC che finanzia programmi di distruzione di massa attraverso falsi lavori remoti**  
+- **L'OFAC sanziona la rete di lavoratori IT della RPDC che finanzia programmi di armi di distruzione di massa attraverso falsi lavori remoti**  
   Fonte: The Hacker News, 18 Mar 2026, 17:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html>)
 
@@ -230,29 +270,5 @@
   Fonte: The Hacker News, 18 Mar 2026, 08:08:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html>)
 
-- **Apple risolve la vulnerabilità di WebKit abilitando il bypass della policy della stessa origine su iOS e macOS**  
-  Fonte: The Hacker News, 18 Mar 2026, 06:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html>)
 
-- **I difetti dell'intelligenza artificiale in Amazon Bedrock, LangSmith e SGLang consentono l'esfiltrazione dei dati e l'RCE**  
-  Fonte: The Hacker News, 17 Mar 2026, 16:39:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html>)
-
-- **Il ransomware LeakNet utilizza ClickFix tramite siti compromessi e distribuisce il caricatore in-memoria Deno**  
-  Fonte: The Hacker News, 17 Mar 2026, 14:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html>)
-
-- **L'intelligenza artificiale è ovunque, ma i CISO la stanno ancora proteggendo con competenze e strumenti del passato, secondo uno studio**  
-  Fonte: The Hacker News, 17 Mar 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html>)
-
-- **La polizia sudcoreana pubblica accidentalmente la password del portafoglio di criptovaluta**  
-  Fonte: Schneier on Security, 17 Mar 2026, 10:01:43 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/south-korean-police-accidentally-post-cryptocurrency-wallet-password.html>)
-
-- **Konni implementa EndRAT tramite phishing e utilizza KakaoTalk per propagare malware**  
-  Fonte: The Hacker News, 17 Mar 2026, 09:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-24 06:53:52 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-25 06:53:03 UTC -->
