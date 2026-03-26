@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **GitHub aggiunge il rilevamento dei bug basato sull'intelligenza artificiale per espandere la copertura della sicurezza**  
+  Fonte: BleepingComputer, 25 Mar 2026, 23:23:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/>)
+
+- **Gli attacchi PolyShell prendono di mira il 56% di tutti i negozi Magento vulnerabili**  
+  Fonte: BleepingComputer, 25 Mar 2026, 21:40:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/>)
+
+- **Il generatore di app Bubble AI è stato abusato per rubare le credenziali dell'account Microsoft**  
+  Fonte: BleepingComputer, 25 Mar 2026, 19:48:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/>)
+
+- **Il nuovo malware infostealer Torg Grabber prende di mira 728 portafogli crittografici**  
+  Fonte: BleepingComputer, 25 Mar 2026, 18:32:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/>)
+
+- **Amministratore di LeakBase arrestato in Russia per un massiccio mercato di credenziali rubate**  
+  Fonte: The Hacker News, 25 Mar 2026, 17:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html>)
+
+- **Citrix esorta gli amministratori a correggere i difetti di NetScaler il prima possibile**  
+  Fonte: BleepingComputer, 25 Mar 2026, 15:52:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/>)
+
+- **Il malware GlassWorm utilizza Solana Dead Drops per fornire RAT e rubare browser e dati crittografici**  
+  Fonte: The Hacker News, 25 Mar 2026, 14:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html>)
+
+- **I conti AI a pagamento sono ora una merce sotterranea di tendenza**  
+  Fonte: BleepingComputer, 25 Mar 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/>)
+
+- **Kali Linux 2026.1 rilasciato con 8 nuovi strumenti, nuova modalità BackTrack**  
+  Fonte: BleepingComputer, 25 Mar 2026, 12:31:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/>)
+
+- **La kill chain è obsoleta quando il tuo agente AI è la minaccia**  
+  Fonte: The Hacker News, 25 Mar 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html>)
+
+- **Hacker russo condannato a 2 anni per attacchi ransomware guidati da botnet TA551**  
+  Fonte: The Hacker News, 25 Mar 2026, 11:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html>)
+
+- **Il phishing del codice dispositivo colpisce oltre 340 organizzazioni Microsoft 365 in cinque paesi tramite l'abuso di OAuth**  
+  Fonte: The Hacker News, 25 Mar 2026, 11:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html>)
+
+- **TP-Link avvisa gli utenti di correggere il difetto critico di bypass dell'autenticazione del router**  
+  Fonte: BleepingComputer, 25 Mar 2026, 11:11:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/>)
+
+- **Il senatore Wyden avverte di un altro abuso della sezione 702**  
+  Fonte: Schneier on Security, 25 Mar 2026, 11:02:07 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/sen-wyden-warns-of-another-section-702-abuse.html>)
+
+- **Come un uomo ha utilizzato 10.000 bot per rubare 8.000.000 di dollari ad artisti musicali**  
+  Fonte: Graham Cluley, 25 Mar 2026, 10:22:04 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/10k-bots-steal-8-million-from-music-artists>)
+
+- **Il responsabile della botnet utilizzata negli attacchi ransomware viene condannato a 2 anni di carcere**  
+  Fonte: BleepingComputer, 25 Mar 2026, 08:47:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/>)
+
+- **La FCC vieta i nuovi router di fabbricazione estera per motivi di catena di fornitura e rischi informatici**  
+  Fonte: The Hacker News, 25 Mar 2026, 07:11:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html>)
+
 - **PTC avverte di una minaccia imminente derivante dal bug critico Windchill e FlexPLM RCE**  
   Fonte: BleepingComputer, 24 Mar 2026, 23:04:36 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/>)
@@ -42,22 +110,6 @@
   Fonte: BleepingComputer, 24 Mar 2026, 14:02:12 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/>)
 
-- **HackerOne rivela la violazione dei dati dei dipendenti dopo l'hacking di Navia**  
-  Fonte: BleepingComputer, 24 Mar 2026, 14:01:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/>)
-
-- **Infinite Campus avverte di una violazione dopo che ShinyHunters ha denunciato il furto di dati**  
-  Fonte: BleepingComputer, 24 Mar 2026, 13:48:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/>)
-
-- **Il broker di accesso al ransomware Yanluowang viene condannato a 81 mesi di prigione**  
-  Fonte: BleepingComputer, 24 Mar 2026, 13:06:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/>)
-
-- **Il Ministero delle Finanze olandese rivela una violazione che colpisce i dipendenti**  
-  Fonte: BleepingComputer, 24 Mar 2026, 12:03:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/>)
-
 - **Il costo nascosto della specializzazione nella sicurezza informatica: perdita di competenze fondamentali**  
   Fonte: The Hacker News, 24 Mar 2026, 12:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html>)
@@ -85,26 +137,6 @@
 - **Aggiornamento settimanale 496**  
   Fonte: Troy Hunt, 24 Mar 2026, 04:17:23 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-496/>)
-
-- **OpenAI lancia la libreria ChatGPT per archiviare i tuoi file personali**  
-  Fonte: BleepingComputer, 23 Mar 2026, 23:47:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/>)
-
-- **Mazda rivela una violazione della sicurezza che espone i dati di dipendenti e partner**  
-  Fonte: BleepingComputer, 23 Mar 2026, 22:12:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/>)
-
-- **La piattaforma di phishing Tycoon2FA ritorna dopo i recenti disordini della polizia**  
-  Fonte: BleepingComputer, 23 Mar 2026, 21:52:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/>)
-
-- **TeamPCP utilizza un wiper mirato all'Iran negli attacchi Kubernetes**  
-  Fonte: BleepingComputer, 23 Mar 2026, 20:09:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/>)
-
-- **Crunchyroll indaga sulla violazione dopo che un hacker afferma di aver rubato i dati di 6,8 milioni di utenti**  
-  Fonte: BleepingComputer, 23 Mar 2026, 19:21:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/>)
 
 - **Gli hacker nordcoreani abusano delle attività di esecuzione automatica di VS Code per distribuire malware StoatWaffle**  
   Fonte: The Hacker News, 23 Mar 2026, 18:09:00 UTC  
@@ -226,49 +258,9 @@
   Fonte: Schneier on Security, 19 Mar 2026, 09:47:30 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/hacking-a-robot-vacuum.html>)
 
-- **DarkSword iOS Exploit Kit utilizza 6 difetti, 3 zero-day per il controllo completo del dispositivo**  
+- **DarkSword iOS Exploit Kit utilizza 6 difetti e 3 zero-day per il controllo completo del dispositivo**  
   Fonte: The Hacker News, 19 Mar 2026, 09:14:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html>)
 
-- **CISA mette in guardia contro Zimbra, exploit di difetti di SharePoint;Colpo zero-day di Cisco negli attacchi ransomware**  
-  Fonte: The Hacker News, 19 Mar 2026, 06:05:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html>)
 
-- **Podcast n. 459 di Smashing Security: questa truffa intelligente ha quasi violato l'ID Apple di un CEO del settore tecnologico**  
-  Fonte: Graham Cluley, 19 Mar 2026, 00:15:54 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-459/>)
-
-- **L'OFAC sanziona la rete di lavoratori IT della RPDC che finanzia programmi di armi di distruzione di massa attraverso falsi lavori remoti**  
-  Fonte: The Hacker News, 18 Mar 2026, 17:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html>)
-
-- **Il ransomware Interlock sfrutta Cisco FMC Zero-Day CVE-2026-20131 per l'accesso root**  
-  Fonte: The Hacker News, 18 Mar 2026, 16:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html>)
-
-- **Difetto Telnetd critico senza patch (CVE-2026-32746) abilita RCE root non autenticato**  
-  Fonte: The Hacker News, 18 Mar 2026, 12:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html>)
-
-- **Claude Code Security e Magecart: individuare il modello di minaccia corretto**  
-  Fonte: The Hacker News, 18 Mar 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/claude-code-security-and-magecart.html>)
-
-- **9 difetti critici del KVM IP consentono l'accesso root non autenticato a quattro fornitori**  
-  Fonte: The Hacker News, 18 Mar 2026, 11:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html>)
-
-- **Occhiali AI e privacy di Meta**  
-  Fonte: Schneier on Security, 18 Mar 2026, 11:07:18 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/metas-ai-glasses-and-privacy.html>)
-
-- **Procedura dettagliata del prodotto: come il Mesh CSMA rivela e interrompe i percorsi di attacco ai gioielli della corona**  
-  Fonte: The Hacker News, 18 Mar 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html>)
-
-- **Il bug CVE-2026-3888 di Ubuntu consente agli aggressori di ottenere il root tramite systemd Cleanup Timing Exploit**  
-  Fonte: The Hacker News, 18 Mar 2026, 08:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-25 06:53:03 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-26 06:58:45 UTC -->
