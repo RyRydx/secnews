@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Il pacchetto Telnyx PyPI backdoor spinge malware nascosto nell'audio WAV**  
+  Fonte: BleepingComputer, 27 Mar 2026, 21:13:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/>)
+
+- **Blog sui calamari del venerdì: batteri bioluminescenti nei calamari**  
+  Fonte: Schneier on Security, 27 Mar 2026, 20:18:54 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html>)
+
+- **Apple invia avvisi di blocco schermo agli iPhone obsoleti in caso di exploit attivi basati sul Web**  
+  Fonte: The Hacker News, 27 Mar 2026, 17:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html>)
+
+- **TeamPCP invia versioni dannose di Telnyx a PyPI e nasconde lo stealer nei file WAV**  
+  Fonte: The Hacker News, 27 Mar 2026, 16:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html>)
+
+- **Gli avvisi falsi di VS Code su GitHub diffondono malware agli sviluppatori**  
+  Fonte: BleepingComputer, 27 Mar 2026, 16:51:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/>)
+
+- **Agentic GRC: i team ottengono la tecnologia.Il cambiamento di mentalità è ciò che manca.**  
+  Fonte: BleepingComputer, 27 Mar 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/>)
+
+- **Apri VSX Bug Lascia che le estensioni VS Code dannose ignorino i controlli di sicurezza pre-pubblicazione**  
+  Fonte: The Hacker News, 27 Mar 2026, 13:57:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html>)
+
+- **La Commissione europea indaga sulla violazione dopo l'hacking dell'account cloud di Amazon**  
+  Fonte: BleepingComputer, 27 Mar 2026, 12:22:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/>)
+
+- **Il phishing AitM prende di mira gli account aziendali TikTok utilizzando l'evasione dei tornelli Cloudflare**  
+  Fonte: The Hacker News, 27 Mar 2026, 12:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html>)
+
+- **Siamo in guerra**  
+  Fonte: The Hacker News, 27 Mar 2026, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/we-are-at-war.html>)
+
+- **La coalizione antipirateria rimuove l'app AnimePlay con 5 milioni di utenti**  
+  Fonte: BleepingComputer, 27 Mar 2026, 10:40:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/>)
+
+- **Bearlyfy colpisce le aziende russe con il ransomware Custom GenieLocker**  
+  Fonte: The Hacker News, 27 Mar 2026, 10:04:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html>)
+
+- **L'aggiornamento KB5079391 di Windows 11 introduce miglioramenti al controllo intelligente delle app**  
+  Fonte: BleepingComputer, 27 Mar 2026, 09:20:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/>)
+
+- **La polizia olandese rivela una violazione della sicurezza dopo un attacco di phishing**  
+  Fonte: BleepingComputer, 27 Mar 2026, 08:20:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/>)
+
+- **LangChain e LangGraph Flaws espongono file, segreti e database in framework AI ampiamente utilizzati**  
+  Fonte: The Hacker News, 27 Mar 2026, 08:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html>)
+
 - **La squadra di calcio dell'Ajax ha violato i dati dei tifosi e ha consentito il dirottamento dei biglietti**  
   Fonte: BleepingComputer, 26 Mar 2026, 20:37:25 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/>)
@@ -9,6 +69,10 @@
 - **CISA: nuova falla Langflow sfruttata attivamente per dirottare i flussi di lavoro dell'intelligenza artificiale**  
   Fonte: BleepingComputer, 26 Mar 2026, 19:17:43 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/>)
+
+- **Estorsione dati di World Leaks: cosa devi sapere**  
+  Fonte: Graham Cluley, 26 Mar 2026, 18:57:03 UTC  
+  [Leggi](<https://www.fortra.com/blog/world-leaks-data-extortion-what-you-need-know>)
 
 - **Red Menshen, legato alla Cina, utilizza impianti furtivi BPFDoor per spiare tramite le reti di telecomunicazioni**  
   Fonte: The Hacker News, 26 Mar 2026, 17:40:00 UTC  
@@ -50,10 +114,6 @@
   Fonte: The Hacker News, 26 Mar 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html>)
 
-- **Sospetto amministratore del malware RedLine infostealer estradato negli Stati Uniti**  
-  Fonte: BleepingComputer, 26 Mar 2026, 11:51:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/>)
-
 - **Bollettino del ThreatsDay: push PQC, caccia alle vulnerabilità dell'IA, trappole pirata, kit di phishing e altre 20 storie**  
   Fonte: The Hacker News, 26 Mar 2026, 11:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html>)
@@ -74,37 +134,13 @@
   Fonte: The Hacker News, 26 Mar 2026, 06:53:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html>)
 
-- **GitHub aggiunge il rilevamento dei bug basato sull'intelligenza artificiale per espandere la copertura della sicurezza**  
-  Fonte: BleepingComputer, 25 Mar 2026, 23:23:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/>)
-
-- **Gli attacchi PolyShell prendono di mira il 56% di tutti i negozi Magento vulnerabili**  
-  Fonte: BleepingComputer, 25 Mar 2026, 21:40:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/>)
-
-- **Il generatore di app Bubble AI è stato abusato per rubare le credenziali dell'account Microsoft**  
-  Fonte: BleepingComputer, 25 Mar 2026, 19:48:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/>)
-
-- **Il nuovo malware infostealer Torg Grabber prende di mira 728 portafogli crittografici**  
-  Fonte: BleepingComputer, 25 Mar 2026, 18:32:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/>)
-
 - **Amministratore di LeakBase arrestato in Russia per un massiccio mercato di credenziali rubate**  
   Fonte: The Hacker News, 25 Mar 2026, 17:35:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html>)
 
-- **Citrix esorta gli amministratori a correggere i difetti di NetScaler il prima possibile**  
-  Fonte: BleepingComputer, 25 Mar 2026, 15:52:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/>)
-
 - **Il malware GlassWorm utilizza Solana Dead Drops per fornire RAT e rubare browser e dati crittografici**  
   Fonte: The Hacker News, 25 Mar 2026, 14:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html>)
-
-- **I conti AI a pagamento sono ora una merce sotterranea di tendenza**  
-  Fonte: BleepingComputer, 25 Mar 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/>)
 
 - **La Kill Chain è obsoleta quando il tuo agente AI è la minaccia**  
   Fonte: The Hacker News, 25 Mar 2026, 11:58:00 UTC  
@@ -222,41 +258,5 @@
   Fonte: The Hacker News, 21 Mar 2026, 08:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html>)
 
-- **Blog sui calamari del venerdì: calamari volanti jumbo nel Pacifico meridionale**  
-  Fonte: Schneier on Security, 20 Mar 2026, 21:06:59 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-jumbo-flying-squid-in-the-south-pacific.html>)
 
-- **Azioni GitHub di Trivy Security Scanner violate, 75 tag dirottati per rubare segreti CI/CD**  
-  Fonte: The Hacker News, 20 Mar 2026, 17:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html>)
-
-- **Le strisce pedonali di Denver sono state violate per trasmettere messaggi anti-Trump**  
-  Fonte: Graham Cluley, 20 Mar 2026, 15:24:45 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/denvers-crosswalks-hacked-broadcast-anti-trump-messages>)
-
-- **Difetto critico di Langflow CVE-2026-33017 innesca attacchi entro 20 ore dalla divulgazione**  
-  Fonte: The Hacker News, 20 Mar 2026, 15:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html>)
-
-- **Proton Mail ha condiviso le informazioni dell'utente con la polizia**  
-  Fonte: Schneier on Security, 20 Mar 2026, 11:02:23 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/proton-mail-shared-user-information-with-the-police.html>)
-
-- **Google aggiunge un'attesa di 24 ore per il sideload delle app non verificate per ridurre malware e truffe**  
-  Fonte: The Hacker News, 20 Mar 2026, 10:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html>)
-
-- **Ransomware LeakNet: cosa devi sapere**  
-  Fonte: Graham Cluley, 20 Mar 2026, 10:18:08 UTC  
-  [Leggi](<https://www.fortra.com/blog/leaknet-ransomware-what-you-need-know>)
-
-- **L’importanza dell’analisi comportamentale negli attacchi informatici basati sull’intelligenza artificiale**  
-  Fonte: The Hacker News, 20 Mar 2026, 10:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html>)
-
-- **Il difetto di Magento PolyShell consente caricamenti non autenticati, RCE e acquisizione dell'account**  
-  Fonte: The Hacker News, 20 Mar 2026, 09:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-27 06:57:34 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-28 06:46:46 UTC -->
