@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **Hacker legati all'Iran violano l'e-mail personale del direttore dell'FBI e colpiscono Stryker con un attacco Wiper**  
+  Fonte: The Hacker News, 28 Mar 2026, 15:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html>)
+
+- **Il nuovo malware Infinity Stealer cattura i dati di macOS tramite esche ClickFix**  
+  Fonte: BleepingComputer, 28 Mar 2026, 14:35:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/>)
+
+- **Citrix NetScaler in Active Recon per CVE-2026-3055 (CVSS 9.3) Bug di sovralettura della memoria**  
+  Fonte: The Hacker News, 28 Mar 2026, 09:11:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html>)
+
+- **CISA aggiunge CVE-2025-53521 a KEV dopo lo sfruttamento attivo di APM BIG-IP F5**  
+  Fonte: The Hacker News, 28 Mar 2026, 07:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html>)
+
+- **TA446 utilizza il kit di exploit iOS DarkSword in una campagna di spear-phishing mirata**  
+  Fonte: The Hacker News, 28 Mar 2026, 07:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html>)
+
 - **Il pacchetto Telnyx PyPI backdoor spinge malware nascosto nell'audio WAV**  
   Fonte: BleepingComputer, 27 Mar 2026, 21:13:26 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/>)
@@ -90,7 +110,7 @@
   Fonte: BleepingComputer, 26 Mar 2026, 14:06:27 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/>)
 
-- **All'interno di un moderno attacco antifrode: dalle registrazioni di bot alle acquisizioni di account**  
+- **All'interno di un moderno attacco antifrode: dalle iscrizioni ai bot alle acquisizioni di account**  
   Fonte: BleepingComputer, 26 Mar 2026, 14:00:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/>)
 
@@ -98,17 +118,13 @@
   Fonte: The Hacker News, 26 Mar 2026, 13:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html>)
 
-- **Il difetto dell'estensione Claude ha consentito l'inserimento di prompt XSS senza clic tramite qualsiasi sito Web**  
+- **Il difetto dell'estensione Claude ha consentito l'inserimento di prompt XSS con zero clic tramite qualsiasi sito Web**  
   Fonte: The Hacker News, 26 Mar 2026, 13:11:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html>)
 
-- **Framework di exploit iOS di Coruna collegato agli attacchi di triangolazione**  
+- **Framework di exploit Coruna iOS collegato ad attacchi di triangolazione**  
   Fonte: BleepingComputer, 26 Mar 2026, 13:10:14 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/>)
-
-- **La Russia arresta il sospetto proprietario del forum sulla criminalità informatica LeakBase**  
-  Fonte: BleepingComputer, 26 Mar 2026, 12:50:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/>)
 
 - **Maestri dell'imitazione: come hacker e falsari d'arte perfezionano l'arte dell'inganno**  
   Fonte: The Hacker News, 26 Mar 2026, 11:58:00 UTC  
@@ -142,7 +158,7 @@
   Fonte: The Hacker News, 25 Mar 2026, 14:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html>)
 
-- **La Kill Chain è obsoleta quando il tuo agente AI è la minaccia**  
+- **La kill chain è obsoleta quando il tuo agente AI è la minaccia**  
   Fonte: The Hacker News, 25 Mar 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html>)
 
@@ -242,21 +258,5 @@
   Fonte: The Hacker News, 23 Mar 2026, 06:15:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html>)
 
-- **L'FBI avverte gli hacker russi di prendere di mira Signal e WhatsApp con attacchi di phishing di massa**  
-  Fonte: The Hacker News, 21 Mar 2026, 13:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html>)
 
-- **Oracle applica le patch critiche CVE-2026-21992 abilitando RCE non autenticato in Identity Manager**  
-  Fonte: The Hacker News, 21 Mar 2026, 10:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html>)
-
-- **L'attacco alla catena di fornitura innesca l'autodiffusione del CanisterWorm nei pacchetti da 47 npm**  
-  Fonte: The Hacker News, 21 Mar 2026, 08:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html>)
-
-- **CISA segnala Apple, Craft CMS, bug Laravel in KEV, patch ordini entro il 3 aprile 2026**  
-  Fonte: The Hacker News, 21 Mar 2026, 08:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-03-28 06:46:46 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-29 06:54:27 UTC -->
