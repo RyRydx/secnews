@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **La Commissione Europea conferma la violazione dei dati dopo l'hack su Europa.eu**  
+  Fonte: BleepingComputer, 30 Mar 2026, 06:42:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/>)
+
+- **L'FBI conferma l'hacking della casella di posta elettronica personale del direttore Patel**  
+  Fonte: BleepingComputer, 29 Mar 2026, 21:09:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/>)
+
+- **Un difetto di lettura dei file nel plugin Smart Slider ha un impatto su 500.000 siti WordPress**  
+  Fonte: BleepingComputer, 29 Mar 2026, 14:38:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/>)
+
 - **Hacker legati all'Iran violano l'e-mail personale del direttore dell'FBI e colpiscono Stryker con un attacco Wiper**  
   Fonte: The Hacker News, 28 Mar 2026, 15:40:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html>)
@@ -14,13 +26,13 @@
   Fonte: The Hacker News, 28 Mar 2026, 09:11:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html>)
 
-- **CISA aggiunge CVE-2025-53521 a KEV dopo lo sfruttamento attivo di APM BIG-IP F5**  
-  Fonte: The Hacker News, 28 Mar 2026, 07:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html>)
-
 - **TA446 utilizza il kit di exploit iOS DarkSword in una campagna di spear-phishing mirata**  
   Fonte: The Hacker News, 28 Mar 2026, 07:07:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html>)
+
+- **CISA aggiunge CVE-2025-53521 a KEV dopo lo sfruttamento attivo di APM BIG-IP F5**  
+  Fonte: The Hacker News, 28 Mar 2026, 07:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html>)
 
 - **Il pacchetto Telnyx PyPI backdoor spinge malware nascosto nell'audio WAV**  
   Fonte: BleepingComputer, 27 Mar 2026, 21:13:26 UTC  
@@ -106,25 +118,13 @@
   Fonte: BleepingComputer, 26 Mar 2026, 14:09:17 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/>)
 
-- **WhatsApp implementa più funzionalità AI e supporto multi-account iOS**  
-  Fonte: BleepingComputer, 26 Mar 2026, 14:06:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/>)
-
-- **All'interno di un moderno attacco antifrode: dalle iscrizioni ai bot alle acquisizioni di account**  
-  Fonte: BleepingComputer, 26 Mar 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/>)
-
 - **[Webinar] Smetti di indovinare.Impara a convalidare le tue difese contro gli attacchi reali**  
   Fonte: The Hacker News, 26 Mar 2026, 13:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html>)
 
-- **Il difetto dell'estensione Claude ha consentito l'inserimento di prompt XSS con zero clic tramite qualsiasi sito Web**  
+- **Il difetto dell'estensione Claude ha consentito l'inserimento di prompt XSS senza clic tramite qualsiasi sito Web**  
   Fonte: The Hacker News, 26 Mar 2026, 13:11:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html>)
-
-- **Framework di exploit Coruna iOS collegato ad attacchi di triangolazione**  
-  Fonte: BleepingComputer, 26 Mar 2026, 13:10:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/>)
 
 - **Maestri dell'imitazione: come hacker e falsari d'arte perfezionano l'arte dell'inganno**  
   Fonte: The Hacker News, 26 Mar 2026, 11:58:00 UTC  
@@ -158,7 +158,7 @@
   Fonte: The Hacker News, 25 Mar 2026, 14:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html>)
 
-- **La kill chain è obsoleta quando il tuo agente AI è la minaccia**  
+- **La Kill Chain è obsoleta quando il tuo agente AI è la minaccia**  
   Fonte: The Hacker News, 25 Mar 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html>)
 
@@ -190,7 +190,7 @@
   Fonte: The Hacker News, 24 Mar 2026, 17:05:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html>)
 
-- **5 insegnamenti dalla prima guida al mercato Gartner per agenti guardiani**  
+- **5 insegnamenti tratti dalla prima guida al mercato Gartner per agenti guardiani**  
   Fonte: The Hacker News, 24 Mar 2026, 16:36:05 UTC  
   [Leggi](<https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html>)
 
@@ -254,9 +254,5 @@
   Fonte: The Hacker News, 23 Mar 2026, 08:31:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html>)
 
-- **Gli hacker sfruttano CVE-2025-32975 (CVSS 10.0) per dirottare i sistemi Quest KACE SMA senza patch**  
-  Fonte: The Hacker News, 23 Mar 2026, 06:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-03-29 06:54:27 UTC -->
+<!-- Ultimo aggiornamento: 2026-03-30 07:16:46 UTC -->
