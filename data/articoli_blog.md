@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Podcast di Smashing Security n. 461: Quest'uomo ha nascosto 400 milioni di dollari in una canna da pesca.Poi è scomparso**  
+  Fonte: Graham Cluley, 01 Apr 2026, 23:26:02 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-461/>)
+
+- **Il nuovo malware CrystalRAT aggiunge funzionalità RAT, stealer e prankware**  
+  Fonte: BleepingComputer, 01 Apr 2026, 23:17:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/>)
+
+- **Apple espande gli aggiornamenti iOS 18 a più iPhone per bloccare gli attacchi DarkSword**  
+  Fonte: BleepingComputer, 01 Apr 2026, 21:50:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/>)
+
+- **Gli hacker sfruttano TrueConf zero-day per inviare aggiornamenti software dannosi**  
+  Fonte: BleepingComputer, 01 Apr 2026, 21:35:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/>)
+
+- **Il nuovo servizio EvilTokens alimenta gli attacchi di phishing del codice del dispositivo Microsoft**  
+  Fonte: BleepingComputer, 01 Apr 2026, 19:42:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/>)
+
+- **Il malware Android "NoVoice" su Google Play ha infettato 2,3 milioni di dispositivi**  
+  Fonte: BleepingComputer, 01 Apr 2026, 18:07:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/>)
+
+- **L’“Hackback” è la strategia ufficiale per la sicurezza informatica degli Stati Uniti?**  
+  Fonte: Schneier on Security, 01 Apr 2026, 16:57:35 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html>)
+
+- **La campagna di furto d'identità di CERT-UA ha diffuso il malware AGEWHEEZE in 1 milione di email**  
+  Fonte: The Hacker News, 01 Apr 2026, 16:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html>)
+
+- **Microsoft avverte del malware VBS fornito da WhatsApp che dirotta Windows tramite UAC Bypass**  
+  Fonte: The Hacker News, 01 Apr 2026, 14:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html>)
+
+- **L'accesso di routine sta alimentando le intrusioni moderne, come rileva un nuovo report sulle minacce**  
+  Fonte: BleepingComputer, 01 Apr 2026, 14:05:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/>)
+
+- **Bloccare il suggerimento, non il lavoro: la fine del "Dottore No"**  
+  Fonte: The Hacker News, 01 Apr 2026, 12:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html>)
+
+- **Il phishing di Casbaneiro prende di mira l'America Latina e l'Europa utilizzando esche PDF dinamici**  
+  Fonte: The Hacker News, 01 Apr 2026, 12:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html>)
+
+- **Nuovo Chrome Zero-Day CVE-2026-5281 in fase di sfruttamento attivo: rilascio della patch**  
+  Fonte: The Hacker News, 01 Apr 2026, 11:42:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html>)
+
+- **L’FBI mette in guardia dall’utilizzo di app mobili cinesi a causa dei rischi per la privacy**  
+  Fonte: BleepingComputer, 01 Apr 2026, 11:39:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/>)
+
+- **3 motivi per cui gli aggressori utilizzano i tuoi strumenti fidati contro di te (e perché non te lo aspetti)**  
+  Fonte: The Hacker News, 01 Apr 2026, 10:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html>)
+
+- **Google risolve il quarto zero-day di Chrome sfruttato negli attacchi nel 2026**  
+  Fonte: BleepingComputer, 01 Apr 2026, 10:25:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/>)
+
+- **Una tassonomia della sicurezza cognitiva**  
+  Fonte: Schneier on Security, 01 Apr 2026, 09:59:07 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/a-taxonomy-of-cognitive-security.html>)
+
+- **Presunto sviluppatore di malware RedLine estradato negli Stati Uniti**  
+  Fonte: Graham Cluley, 01 Apr 2026, 09:00:13 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/redline-malware-developer-extradited>)
+
+- **Google attribuisce l'attacco alla catena di fornitura Axios npm al gruppo nordcoreano UNC1069**  
+  Fonte: The Hacker News, 01 Apr 2026, 07:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html>)
+
 - **Il rilevamento del ransomware di Google Drive è ora attivo per impostazione predefinita per gli utenti paganti**  
   Fonte: BleepingComputer, 01 Apr 2026, 06:35:34 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/>)
@@ -38,29 +114,13 @@
   Fonte: The Hacker News, 31 Mar 2026, 18:28:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/android-developer-verification-rollout.html>)
 
-- **Codice sorgente Cisco rubato durante una violazione dell'ambiente di sviluppo collegato a Trivy**  
-  Fonte: BleepingComputer, 31 Mar 2026, 17:53:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/>)
-
 - **TrueConf Zero-Day sfruttato negli attacchi alle reti governative del sud-est asiatico**  
   Fonte: The Hacker News, 31 Mar 2026, 16:03:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html>)
 
-- **Come classificare gli agenti AI e dare priorità al rischio**  
-  Fonte: BleepingComputer, 31 Mar 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/>)
-
-- **Gli hacker compromettono il pacchetto Axios npm per rilasciare malware multipiattaforma**  
-  Fonte: BleepingComputer, 31 Mar 2026, 13:53:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/>)
-
 - **La vulnerabilità di Vertex AI espone i dati di Google Cloud e gli artefatti privati**  
   Fonte: The Hacker News, 31 Mar 2026, 13:09:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html>)
-
-- **Microsoft risolve gli arresti anomali di Outlook Classic causati dal componente aggiuntivo Riunione di Teams**  
-  Fonte: BleepingComputer, 31 Mar 2026, 12:04:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/>)
 
 - **La corsa agli armamenti dell’intelligenza artificiale: perché la gestione unificata dell’esposizione sta diventando una priorità nei consigli di amministrazione**  
   Fonte: The Hacker News, 31 Mar 2026, 11:50:00 UTC  
@@ -74,21 +134,9 @@
   Fonte: Schneier on Security, 31 Mar 2026, 11:05:32 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/inventors-of-quantum-cryptography-win-turing-award.html>)
 
-- **Hacker accusato di aver rubato 53 milioni di dollari dall'exchange di criptovalute Uranium**  
-  Fonte: BleepingComputer, 31 Mar 2026, 09:15:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/>)
-
-- **Il Ministero delle Finanze olandese mette offline il portale bancario del Tesoro dopo una violazione**  
-  Fonte: BleepingComputer, 31 Mar 2026, 07:52:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/>)
-
 - **Gli hacker iraniani violano l'e-mail personale del direttore dell'FBI e pubblicano online il suo CV e le sue foto**  
   Fonte: Graham Cluley, 31 Mar 2026, 07:37:52 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-breach-fbi-directors-personal-email-post-cv-and-photos-online>)
-
-- **La CISA ordina ai federali di applicare una patch alla falla Citrix sfruttata attivamente entro giovedì**  
-  Fonte: BleepingComputer, 31 Mar 2026, 07:05:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/>)
 
 - **L'attacco alla supply chain di Axios spinge il RAT multipiattaforma tramite un account npm compromesso**  
   Fonte: The Hacker News, 31 Mar 2026, 06:08:00 UTC  
@@ -97,10 +145,6 @@
 - **Aggiornamento settimanale 497**  
   Fonte: Troy Hunt, 31 Mar 2026, 00:41:44 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-497/>)
-
-- **La società di tecnologia sanitaria CareCloud afferma che gli hacker hanno rubato i dati dei pazienti**  
-  Fonte: BleepingComputer, 30 Mar 2026, 21:44:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/>)
 
 - **Mega aggiornamento HIBP: passkey, ricerche k-Anonymity, enormi miglioramenti della velocità e un'API di verifica del dominio in blocco**  
   Fonte: Troy Hunt, 30 Mar 2026, 18:42:30 UTC  
@@ -114,7 +158,7 @@
   Fonte: The Hacker News, 30 Mar 2026, 15:47:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html>)
 
-- **⚡ Riepilogo settimanale: celle dormienti per le telecomunicazioni, jailbreak LLM, controlli imposti dall'età di Apple nel Regno Unito e altro ancora**  
+- **⚡ Riepilogo settimanale: celle dormienti per le telecomunicazioni, jailbreak LLM, controlli imposti sull'età da parte di Apple nel Regno Unito e altro ancora**  
   Fonte: The Hacker News, 30 Mar 2026, 13:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html>)
 
@@ -202,7 +246,7 @@
   Fonte: The Hacker News, 26 Mar 2026, 13:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html>)
 
-- **Il difetto dell'estensione Claude ha consentito l'inserimento di prompt XSS senza clic tramite qualsiasi sito Web**  
+- **Il difetto dell'estensione Claude ha consentito l'inserimento di prompt XSS con zero clic tramite qualsiasi sito Web**  
   Fonte: The Hacker News, 26 Mar 2026, 13:11:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html>)
 
@@ -226,41 +270,5 @@
   Fonte: Schneier on Security, 26 Mar 2026, 11:06:39 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/as-the-us-midterms-approach-ai-is-going-to-emerge-as-a-key-issue-concerning-voters.html>)
 
-- **WebRTC Skimmer bypassa il CSP per rubare i dati di pagamento dai siti di e-commerce**  
-  Fonte: The Hacker News, 26 Mar 2026, 06:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html>)
 
-- **Amministratore di LeakBase arrestato in Russia per un massiccio mercato di credenziali rubate**  
-  Fonte: The Hacker News, 25 Mar 2026, 17:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html>)
-
-- **Il malware GlassWorm utilizza Solana Dead Drops per fornire RAT e rubare browser e dati crittografici**  
-  Fonte: The Hacker News, 25 Mar 2026, 14:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html>)
-
-- **La Kill Chain è obsoleta quando il tuo agente AI è la minaccia**  
-  Fonte: The Hacker News, 25 Mar 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html>)
-
-- **Hacker russo condannato a 2 anni per attacchi ransomware guidati da botnet TA551**  
-  Fonte: The Hacker News, 25 Mar 2026, 11:52:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html>)
-
-- **Il phishing del codice dispositivo colpisce oltre 340 organizzazioni Microsoft 365 in cinque paesi tramite l'abuso di OAuth**  
-  Fonte: The Hacker News, 25 Mar 2026, 11:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html>)
-
-- **Il senatore Wyden avverte di un altro abuso della sezione 702**  
-  Fonte: Schneier on Security, 25 Mar 2026, 11:02:07 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/sen-wyden-warns-of-another-section-702-abuse.html>)
-
-- **Come un uomo ha utilizzato 10.000 bot per rubare 8.000.000 di dollari ad artisti musicali**  
-  Fonte: Graham Cluley, 25 Mar 2026, 10:22:04 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/10k-bots-steal-8-million-from-music-artists>)
-
-- **La FCC vieta i nuovi router di fabbricazione estera per motivi di catena di fornitura e rischi informatici**  
-  Fonte: The Hacker News, 25 Mar 2026, 07:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-01 07:08:59 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-02 07:01:23 UTC -->
