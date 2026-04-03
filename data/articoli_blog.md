@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **CERT-EU: l'hacking della Commissione europea espone i dati di 30 entità dell'UE**  
+  Fonte: BleepingComputer, 03 Apr 2026, 06:33:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/>)
+
+- **Claude Code leak utilizzato per spingere malware infostealer su GitHub**  
+  Fonte: BleepingComputer, 02 Apr 2026, 20:30:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/>)
+
+- **Gli hacker sfruttano CVE-2025-55182 per violare 766 host Next.js e rubare credenziali**  
+  Fonte: The Hacker News, 02 Apr 2026, 19:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html>)
+
+- **Drift perde 280 milioni di dollari Gli hacker nordcoreani si impadroniscono dei poteri del Consiglio di Sicurezza**  
+  Fonte: BleepingComputer, 02 Apr 2026, 19:03:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/>)
+
+- **Gli Stati Uniti vietano tutti i router di consumo fabbricati all'estero**  
+  Fonte: Schneier on Security, 02 Apr 2026, 17:28:27 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html>)
+
+- **I proxy residenziali hanno eluso i controlli sulla reputazione IP nel 78% delle sessioni 4B**  
+  Fonte: BleepingComputer, 02 Apr 2026, 15:21:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/>)
+
+- **Cisco applica la patch 9.8 CVSS ai difetti IMC e SSM che consentono la compromissione del sistema remoto**  
+  Fonte: The Hacker News, 02 Apr 2026, 15:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html>)
+
+- **Gli avversari sfruttano le case sfitte per intercettare la posta nel crimine informatico ibrido**  
+  Fonte: BleepingComputer, 02 Apr 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/>)
+
+- **I nuovi difetti di Progress ShareFile possono essere concatenati negli attacchi RCE pre-autenticazione**  
+  Fonte: BleepingComputer, 02 Apr 2026, 13:33:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/>)
+
+- **Il gigante della tecnologia Medtech Stryker pienamente operativo dopo l'attacco di cancellazione dei dati**  
+  Fonte: BleepingComputer, 02 Apr 2026, 13:28:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/>)
+
+- **Bollettino del ThreatsDay: catene di pre-autenticazione, rootkit Android, evasione di CloudTrail e altre 10 storie**  
+  Fonte: The Hacker News, 02 Apr 2026, 12:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html>)
+
+- **I ricercatori scoprono operazioni minerarie che utilizzano esche ISO per diffondere RAT e minatori di criptovalute**  
+  Fonte: The Hacker News, 02 Apr 2026, 11:42:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html>)
+
+- **Il rapporto sullo stato dell'open source affidabile**  
+  Fonte: The Hacker News, 02 Apr 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html>)
+
+- **Il bypass critico dell'autenticazione Cisco IMC fornisce agli aggressori l'accesso amministrativo**  
+  Fonte: BleepingComputer, 02 Apr 2026, 11:01:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/>)
+
+- **Possibile strumento di hacking per iPhone del governo degli Stati Uniti trapelato**  
+  Fonte: Schneier on Security, 02 Apr 2026, 10:05:43 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html>)
+
+- **WhatsApp avvisa 200 utenti dopo l'installazione di uno spyware falso sull'app iOS;Un’azienda italiana affronta l’azione**  
+  Fonte: The Hacker News, 02 Apr 2026, 09:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html>)
+
+- **Microsoft collega il problema di Outlook classico ai problemi di recapito della posta elettronica**  
+  Fonte: BleepingComputer, 02 Apr 2026, 09:12:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/>)
+
+- **Oltre 14.000 istanze APM F5 BIG-IP ancora esposte ad attacchi RCE**  
+  Fonte: BleepingComputer, 02 Apr 2026, 08:25:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/>)
+
+- **Apple espande l'aggiornamento iOS 18.7.7 a più dispositivi per bloccare l'exploit di DarkSword**  
+  Fonte: The Hacker News, 02 Apr 2026, 07:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html>)
+
 - **Podcast di Smashing Security n. 461: Quest'uomo ha nascosto 400 milioni di dollari in una canna da pesca.Poi è scomparso**  
   Fonte: Graham Cluley, 01 Apr 2026, 23:26:02 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-461/>)
@@ -38,10 +114,6 @@
   Fonte: The Hacker News, 01 Apr 2026, 14:10:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html>)
 
-- **L'accesso di routine sta alimentando le intrusioni moderne, come rileva un nuovo report sulle minacce**  
-  Fonte: BleepingComputer, 01 Apr 2026, 14:05:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/>)
-
 - **Bloccare il suggerimento, non il lavoro: la fine del "Dottore No"**  
   Fonte: The Hacker News, 01 Apr 2026, 12:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html>)
@@ -54,17 +126,9 @@
   Fonte: The Hacker News, 01 Apr 2026, 11:42:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html>)
 
-- **L’FBI mette in guardia dall’utilizzo di app mobili cinesi a causa dei rischi per la privacy**  
-  Fonte: BleepingComputer, 01 Apr 2026, 11:39:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/>)
-
 - **3 motivi per cui gli aggressori utilizzano i tuoi strumenti fidati contro di te (e perché non te lo aspetti)**  
   Fonte: The Hacker News, 01 Apr 2026, 10:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html>)
-
-- **Google risolve il quarto zero-day di Chrome sfruttato negli attacchi nel 2026**  
-  Fonte: BleepingComputer, 01 Apr 2026, 10:25:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/>)
 
 - **Una tassonomia della sicurezza cognitiva**  
   Fonte: Schneier on Security, 01 Apr 2026, 09:59:07 UTC  
@@ -78,37 +142,9 @@
   Fonte: The Hacker News, 01 Apr 2026, 07:44:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html>)
 
-- **Il rilevamento del ransomware di Google Drive è ora attivo per impostazione predefinita per gli utenti paganti**  
-  Fonte: BleepingComputer, 01 Apr 2026, 06:35:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/>)
-
 - **Sorgente del codice Claude trapelata tramite errore di packaging npm, conferma antropica**  
   Fonte: The Hacker News, 01 Apr 2026, 06:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html>)
-
-- **Il nuovo aggiornamento di emergenza di Windows 11 risolve i problemi di installazione dell'aggiornamento di anteprima**  
-  Fonte: BleepingComputer, 01 Apr 2026, 05:33:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/>)
-
-- **Il codice sorgente di Claude Code è trapelato accidentalmente nel pacchetto NPM**  
-  Fonte: BleepingComputer, 01 Apr 2026, 00:32:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/>)
-
-- **Google ora ti consente di modificare il tuo indirizzo @gmail.com**  
-  Fonte: BleepingComputer, 31 Mar 2026, 23:13:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/>)
-
-- **Proton lancia la nuova piattaforma per conferenze "Meet" incentrata sulla privacy**  
-  Fonte: BleepingComputer, 31 Mar 2026, 22:42:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/>)
-
-- **GIGABYTE Control Center vulnerabile a difetti di scrittura di file arbitrari**  
-  Fonte: BleepingComputer, 31 Mar 2026, 22:28:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/>)
-
-- **Claude AI trova i bug RCE di Vim ed Emacs che si attivano all'apertura del file**  
-  Fonte: BleepingComputer, 31 Mar 2026, 21:45:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/>)
 
 - **Il lancio della verifica per sviluppatori Android inizia prima dell'entrata in vigore di settembre**  
   Fonte: The Hacker News, 31 Mar 2026, 18:28:00 UTC  
@@ -158,7 +194,7 @@
   Fonte: The Hacker News, 30 Mar 2026, 15:47:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html>)
 
-- **⚡ Riepilogo settimanale: celle dormienti per le telecomunicazioni, jailbreak LLM, controlli imposti sull'età da parte di Apple nel Regno Unito e altro ancora**  
+- **⚡ Riepilogo settimanale: celle dormienti per le telecomunicazioni, jailbreak LLM, controlli imposti dall'età di Apple nel Regno Unito e altro ancora**  
   Fonte: The Hacker News, 30 Mar 2026, 13:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html>)
 
@@ -234,41 +270,5 @@
   Fonte: The Hacker News, 27 Mar 2026, 08:07:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html>)
 
-- **Estorsione dati di World Leaks: cosa devi sapere**  
-  Fonte: Graham Cluley, 26 Mar 2026, 18:57:03 UTC  
-  [Leggi](<https://www.fortra.com/blog/world-leaks-data-extortion-what-you-need-know>)
 
-- **Red Menshen, legato alla Cina, utilizza impianti furtivi BPFDoor per spiare tramite le reti di telecomunicazioni**  
-  Fonte: The Hacker News, 26 Mar 2026, 17:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html>)
-
-- **[Webinar] Smetti di indovinare.Impara a convalidare le tue difese contro gli attacchi reali**  
-  Fonte: The Hacker News, 26 Mar 2026, 13:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html>)
-
-- **Il difetto dell'estensione Claude ha consentito l'inserimento di prompt XSS con zero clic tramite qualsiasi sito Web**  
-  Fonte: The Hacker News, 26 Mar 2026, 13:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html>)
-
-- **Maestri dell'imitazione: come hacker e falsari d'arte perfezionano l'arte dell'inganno**  
-  Fonte: The Hacker News, 26 Mar 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html>)
-
-- **Bollettino del ThreatsDay: push PQC, caccia alle vulnerabilità dell'IA, trappole pirata, kit di phishing e altre 20 storie**  
-  Fonte: The Hacker News, 26 Mar 2026, 11:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html>)
-
-- **Podcast Smashing Security n. 460: Non bussare mai alla porta di una base sottomarina nucleare per chiedere un selfie**  
-  Fonte: Graham Cluley, 26 Mar 2026, 11:27:56 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-460/>)
-
-- **Il kit Coruna iOS riutilizza il codice di exploit della triangolazione 2023 nei recenti attacchi di massa**  
-  Fonte: The Hacker News, 26 Mar 2026, 11:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html>)
-
-- **Con l’avvicinarsi delle elezioni di medio termine negli Stati Uniti, l’intelligenza artificiale emergerà come una questione chiave per gli elettori**  
-  Fonte: Schneier on Security, 26 Mar 2026, 11:06:39 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/as-the-us-midterms-approach-ai-is-going-to-emerge-as-a-key-issue-concerning-voters.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-02 07:01:23 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-03 06:58:28 UTC -->
