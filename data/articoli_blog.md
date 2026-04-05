@@ -2,13 +2,29 @@
 
 ## Ultimi 7 giorni
 
+- **36 pacchetti npm dannosi hanno sfruttato Redis e PostgreSQL per implementare impianti persistenti**  
+  Fonte: The Hacker News, 05 Apr 2026, 05:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html>)
+
+- **Le patch Fortinet hanno sfruttato attivamente CVE-2026-35616 in FortiClient EMS**  
+  Fonte: The Hacker News, 05 Apr 2026, 04:32:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html>)
+
+- **L'hacking di Axios npm ha utilizzato una falsa correzione degli errori di Teams per dirottare l'account del manutentore**  
+  Fonte: BleepingComputer, 04 Apr 2026, 20:30:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/>)
+
+- **Gli attacchi di phishing relativi al codice del dispositivo aumentano di 37 volte man mano che nuovi kit si diffondono online**  
+  Fonte: BleepingComputer, 04 Apr 2026, 14:17:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/>)
+
 - **Blog sui calamari del venerdì: strozzature di pesce giurassico sui calamari**  
   Fonte: Schneier on Security, 03 Apr 2026, 21:07:06 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html>)
 
 - **LinkedIn esegue la scansione segreta di oltre 6.000 estensioni Chrome e raccoglie dati**  
   Fonte: BleepingComputer, 03 Apr 2026, 20:40:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/>)
+  [Leggi](<https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/>)
 
 - **Hims & Hers avverte di una violazione dei dati dopo la violazione del ticket di supporto Zendesk**  
   Fonte: BleepingComputer, 03 Apr 2026, 17:41:11 UTC  
@@ -102,10 +118,6 @@
   Fonte: BleepingComputer, 02 Apr 2026, 13:33:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/>)
 
-- **Il gigante della tecnologia medica Stryker pienamente operativo dopo l'attacco di cancellazione dei dati**  
-  Fonte: BleepingComputer, 02 Apr 2026, 13:28:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/>)
-
 - **Bollettino del ThreatsDay: catene di pre-autenticazione, rootkit Android, evasione di CloudTrail e altre 10 storie**  
   Fonte: The Hacker News, 02 Apr 2026, 12:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html>)
@@ -117,10 +129,6 @@
 - **Il rapporto sullo stato dell'open source affidabile**  
   Fonte: The Hacker News, 02 Apr 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html>)
-
-- **Il bypass critico dell'autenticazione Cisco IMC fornisce agli aggressori l'accesso amministrativo**  
-  Fonte: BleepingComputer, 02 Apr 2026, 11:01:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/>)
 
 - **Possibile strumento di hacking per iPhone del governo degli Stati Uniti trapelato**  
   Fonte: Schneier on Security, 02 Apr 2026, 10:05:43 UTC  
@@ -178,7 +186,7 @@
   Fonte: The Hacker News, 01 Apr 2026, 07:44:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html>)
 
-- **Sorgente del codice Claude trapelata tramite errore di packaging npm, conferma antropica**  
+- **Sorgente del codice Claude trapelata tramite errore di packaging npm, conferma Anthropic**  
   Fonte: The Hacker News, 01 Apr 2026, 06:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html>)
 
@@ -258,21 +266,5 @@
   Fonte: Cloudflare Blog - Security, 30 Mar 2026, 06:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/client-side-security-open-to-everyone/>)
 
-- **Hacker legati all'Iran violano l'e-mail personale del direttore dell'FBI e colpiscono Stryker con un attacco Wiper**  
-  Fonte: The Hacker News, 28 Mar 2026, 15:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html>)
 
-- **Citrix NetScaler in Active Recon per CVE-2026-3055 (CVSS 9.3) Bug di sovralettura della memoria**  
-  Fonte: The Hacker News, 28 Mar 2026, 09:11:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html>)
-
-- **TA446 utilizza il kit di exploit iOS DarkSword in una campagna di spear-phishing mirata**  
-  Fonte: The Hacker News, 28 Mar 2026, 07:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html>)
-
-- **CISA aggiunge CVE-2025-53521 a KEV dopo lo sfruttamento attivo di APM BIG-IP F5**  
-  Fonte: The Hacker News, 28 Mar 2026, 07:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-04 06:49:02 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-05 06:55:08 UTC -->
