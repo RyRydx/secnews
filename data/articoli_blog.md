@@ -2,6 +2,30 @@
 
 ## Ultimi 7 giorni
 
+- **BKA identifica i leader REvil dietro 130 attacchi ransomware tedeschi**  
+  Fonte: The Hacker News, 06 Apr 2026, 06:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html>)
+
+- **Germania Doxes “UNKN”, capo di RU Ransomware Gangs REvil, GandCrab**  
+  Fonte: Krebs on Security, 06 Apr 2026, 02:07:17 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/>)
+
+- **Le truffe sulle violazioni del codice stradale passano ai codici QR nei nuovi testi di phishing**  
+  Fonte: BleepingComputer, 05 Apr 2026, 19:44:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/>)
+
+- **Nuova falla FortiClient EMS sfruttata negli attacchi, rilasciata patch di emergenza**  
+  Fonte: BleepingComputer, 05 Apr 2026, 18:45:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/>)
+
+- **Un attacco informatico da 285 milioni di dollari è riconducibile a un'operazione di ingegneria sociale della RPDC durata sei mesi**  
+  Fonte: The Hacker News, 05 Apr 2026, 18:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html>)
+
+- **Gli hacker sfruttano React2Shell in una campagna automatizzata di furto di credenziali**  
+  Fonte: BleepingComputer, 05 Apr 2026, 14:17:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/>)
+
 - **36 pacchetti npm dannosi hanno sfruttato Redis e PostgreSQL per implementare impianti persistenti**  
   Fonte: The Hacker News, 05 Apr 2026, 05:07:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html>)
@@ -102,21 +126,9 @@
   Fonte: Schneier on Security, 02 Apr 2026, 17:28:27 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html>)
 
-- **I proxy residenziali hanno eluso i controlli sulla reputazione IP nel 78% delle sessioni 4B**  
-  Fonte: BleepingComputer, 02 Apr 2026, 15:21:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/>)
-
 - **Cisco applica la patch 9.8 CVSS ai difetti IMC e SSM che consentono la compromissione del sistema remoto**  
   Fonte: The Hacker News, 02 Apr 2026, 15:21:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html>)
-
-- **Gli avversari sfruttano le case sfitte per intercettare la posta nel crimine informatico ibrido**  
-  Fonte: BleepingComputer, 02 Apr 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/>)
-
-- **I nuovi difetti di Progress ShareFile possono essere concatenati negli attacchi RCE pre-autenticazione**  
-  Fonte: BleepingComputer, 02 Apr 2026, 13:33:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/>)
 
 - **Bollettino del ThreatsDay: catene di pre-autenticazione, rootkit Android, evasione di CloudTrail e altre 10 storie**  
   Fonte: The Hacker News, 02 Apr 2026, 12:45:00 UTC  
@@ -238,7 +250,7 @@
   Fonte: The Hacker News, 30 Mar 2026, 15:47:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html>)
 
-- **⚡ Riepilogo settimanale: celle dormienti per le telecomunicazioni, jailbreak LLM, controlli imposti sull'età da parte di Apple nel Regno Unito e altro ancora**  
+- **⚡ Riepilogo settimanale: celle dormienti per le telecomunicazioni, jailbreak LLM, controlli imposti dall'età di Apple nel Regno Unito e altro ancora**  
   Fonte: The Hacker News, 30 Mar 2026, 13:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html>)
 
@@ -250,7 +262,7 @@
   Fonte: The Hacker News, 30 Mar 2026, 12:18:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html>)
 
-- **Lo stato dei segreti in espansione nel 2026: 9 punti salienti per i CISO**  
+- **L'espansione dello Stato dei Segreti nel 2026: 9 punti salienti per i CISO**  
   Fonte: The Hacker News, 30 Mar 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html>)
 
@@ -258,13 +270,5 @@
   Fonte: Schneier on Security, 30 Mar 2026, 11:08:24 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html>)
 
-- **Tre cluster legati alla Cina prendono di mira il governo del sud-est asiatico nella campagna informatica 2025**  
-  Fonte: The Hacker News, 30 Mar 2026, 07:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/three-china-linked-clusters-target.html>)
 
-- **Sicurezza lato client di Cloudflare: rilevamento più intelligente, ora aperto a tutti**  
-  Fonte: Cloudflare Blog - Security, 30 Mar 2026, 06:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/client-side-security-open-to-everyone/>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-05 06:55:08 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-06 07:18:48 UTC -->
