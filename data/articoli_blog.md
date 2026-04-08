@@ -2,6 +2,90 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft implementa una correzione per la ricerca interrotta nel menu Start di Windows**  
+  Fonte: BleepingComputer, 08 Apr 2026, 07:00:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/>)
+
+- **Gli hacker legati all'Iran interrompono le infrastrutture critiche degli Stati Uniti prendendo di mira i PLC esposti a Internet**  
+  Fonte: The Hacker News, 08 Apr 2026, 04:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html>)
+
+- **Gli hacker sfruttano un difetto critico nel plugin WordPress Ninja Forms**  
+  Fonte: BleepingComputer, 07 Apr 2026, 22:03:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/>)
+
+- **Cloudflare punta al 2029 per garantire la piena sicurezza post-quantistica**  
+  Fonte: Cloudflare Blog - Security, 07 Apr 2026, 21:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/post-quantum-roadmap/>)
+
+- **FBI: lo scorso anno gli americani hanno perso la cifra record di 21 miliardi di dollari a causa della criminalità informatica**  
+  Fonte: BleepingComputer, 07 Apr 2026, 20:41:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/>)
+
+- **I clienti Snowflake sono stati colpiti da attacchi di furto di dati dopo la violazione dell'integratore SaaS**  
+  Fonte: BleepingComputer, 07 Apr 2026, 19:39:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/>)
+
+- **Gli Stati Uniti mettono in guardia contro gli hacker iraniani che prendono di mira infrastrutture critiche**  
+  Fonte: BleepingComputer, 07 Apr 2026, 18:02:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/>)
+
+- **La sicurezza informatica nell’era del software istantaneo**  
+  Fonte: Schneier on Security, 07 Apr 2026, 17:07:52 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html>)
+
+- **La Russia ha violato i router per rubare i token di Microsoft Office**  
+  Fonte: Krebs on Security, 07 Apr 2026, 17:02:44 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/>)
+
+- **Gravità massima La vulnerabilità Flowise RCE ora viene sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 07 Apr 2026, 17:02:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/>)
+
+- **APT28, collegata allo Stato russo, sfrutta i router SOHO nella campagna globale di dirottamento DNS**  
+  Fonte: The Hacker News, 07 Apr 2026, 16:48:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html>)
+
+- **[Webinar] Come colmare le lacune di identità nel 2026 prima che l'intelligenza artificiale sfrutti i rischi aziendali**  
+  Fonte: The Hacker News, 07 Apr 2026, 16:29:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html>)
+
+- **Le autorità interrompono i dirottamenti DNS dei router utilizzati per rubare gli accessi a Microsoft 365**  
+  Fonte: BleepingComputer, 07 Apr 2026, 15:51:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/>)
+
+- **Docker CVE-2026-34040 consente agli aggressori di ignorare l'autorizzazione e ottenere l'accesso all'host**  
+  Fonte: The Hacker News, 07 Apr 2026, 15:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html>)
+
+- **Perché il tuo strumento di pentest automatizzato ha appena sbattuto contro un muro**  
+  Fonte: BleepingComputer, 07 Apr 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/>)
+
+- **Oltre 1.000 istanze ComfyUI esposte prese di mira nella campagna botnet di criptomining**  
+  Fonte: The Hacker News, 07 Apr 2026, 12:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html>)
+
+- **Il costo nascosto degli incidenti ricorrenti relativi alle credenziali**  
+  Fonte: The Hacker News, 07 Apr 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html>)
+
+- **La polizia di Hong Kong può costringerti a rivelare le tue chiavi di crittografia**  
+  Fonte: Schneier on Security, 07 Apr 2026, 09:45:33 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html>)
+
+- **Ergastolo per gli operatori truffatori cambogiani: ma farà la differenza?**  
+  Fonte: Graham Cluley, 07 Apr 2026, 08:57:17 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/life-imprisonment-cambodian-scam-operators>)
+
+- **Il nuovo attacco GPUBreach consente l'escalation completa dei privilegi della CPU tramite bit-flip GDDR6**  
+  Fonte: The Hacker News, 07 Apr 2026, 08:38:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html>)
+
+- **Storm-1175, collegato alla Cina, sfrutta Zero-Days per distribuire rapidamente il ransomware Medusa**  
+  Fonte: The Hacker News, 07 Apr 2026, 06:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html>)
+
 - **Flowise AI Agent Builder con sfruttamento attivo di CVSS 10.0 RCE;Oltre 12.000 istanze esposte**  
   Fonte: The Hacker News, 07 Apr 2026, 05:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html>)
@@ -50,14 +134,6 @@
   Fonte: The Hacker News, 06 Apr 2026, 16:24:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html>)
 
-- **La CISA ordina ai federali di correggere la falla sfruttata di Fortinet EMS entro venerdì**  
-  Fonte: BleepingComputer, 06 Apr 2026, 16:02:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/>)
-
-- **Perché il semplice monitoraggio delle violazioni non è più sufficiente**  
-  Fonte: BleepingComputer, 06 Apr 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/>)
-
 - **Attacchi informatici multi-OS: come i SOC risolvono un rischio critico in 3 passaggi**  
   Fonte: The Hacker News, 06 Apr 2026, 13:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html>)
@@ -86,21 +162,9 @@
   Fonte: Krebs on Security, 06 Apr 2026, 02:07:17 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/>)
 
-- **Le truffe sulle violazioni del codice stradale passano ai codici QR nei nuovi testi di phishing**  
-  Fonte: BleepingComputer, 05 Apr 2026, 19:44:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/>)
-
-- **Nuova falla FortiClient EMS sfruttata negli attacchi, rilasciata patch di emergenza**  
-  Fonte: BleepingComputer, 05 Apr 2026, 18:45:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/>)
-
 - **Un attacco informatico da 285 milioni di dollari è riconducibile a un'operazione di ingegneria sociale della RPDC durata sei mesi**  
   Fonte: The Hacker News, 05 Apr 2026, 18:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html>)
-
-- **Gli hacker sfruttano React2Shell in una campagna automatizzata di furto di credenziali**  
-  Fonte: BleepingComputer, 05 Apr 2026, 14:17:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/>)
 
 - **36 pacchetti npm dannosi hanno sfruttato Redis e PostgreSQL per implementare impianti persistenti**  
   Fonte: The Hacker News, 05 Apr 2026, 05:07:00 UTC  
@@ -110,21 +174,9 @@
   Fonte: The Hacker News, 05 Apr 2026, 04:32:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html>)
 
-- **L'hacking di Axios npm ha utilizzato una falsa correzione degli errori di Teams per dirottare l'account del manutentore**  
-  Fonte: BleepingComputer, 04 Apr 2026, 20:30:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/>)
-
-- **Gli attacchi di phishing relativi al codice del dispositivo aumentano di 37 volte man mano che nuovi kit si diffondono online**  
-  Fonte: BleepingComputer, 04 Apr 2026, 14:17:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/>)
-
 - **Blog sui calamari del venerdì: strozzature di pesce giurassico sui calamari**  
   Fonte: Schneier on Security, 03 Apr 2026, 21:07:06 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html>)
-
-- **LinkedIn esegue la scansione segreta di oltre 6.000 estensioni Chrome e raccoglie dati**  
-  Fonte: BleepingComputer, 03 Apr 2026, 20:40:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/>)
 
 - **TA416 collegato alla Cina prende di mira i governi europei con PlugX e phishing basato su OAuth**  
   Fonte: The Hacker News, 03 Apr 2026, 17:34:00 UTC  
@@ -238,37 +290,5 @@
   Fonte: The Hacker News, 01 Apr 2026, 07:44:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html>)
 
-- **Sorgente del codice Claude trapelata tramite errore di packaging npm, conferma Anthropic**  
-  Fonte: The Hacker News, 01 Apr 2026, 06:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html>)
 
-- **Il lancio della verifica per sviluppatori Android inizia prima dell'entrata in vigore di settembre**  
-  Fonte: The Hacker News, 31 Mar 2026, 18:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/android-developer-verification-rollout.html>)
-
-- **TrueConf Zero-Day sfruttato negli attacchi alle reti governative del sud-est asiatico**  
-  Fonte: The Hacker News, 31 Mar 2026, 16:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html>)
-
-- **La vulnerabilità di Vertex AI espone i dati di Google Cloud e gli artefatti privati**  
-  Fonte: The Hacker News, 31 Mar 2026, 13:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html>)
-
-- **La corsa agli armamenti dell’intelligenza artificiale: perché la gestione unificata dell’esposizione sta diventando una priorità nei consigli di amministrazione**  
-  Fonte: The Hacker News, 31 Mar 2026, 11:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html>)
-
-- **Silver Fox espande la campagna informatica in Asia con AtlasCross RAT e domini falsi**  
-  Fonte: The Hacker News, 31 Mar 2026, 11:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html>)
-
-- **Gli inventori della crittografia quantistica vincono il Premio Turing**  
-  Fonte: Schneier on Security, 31 Mar 2026, 11:05:32 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/03/inventors-of-quantum-cryptography-win-turing-award.html>)
-
-- **Gli hacker iraniani violano l'e-mail personale del direttore dell'FBI e pubblicano online il suo CV e le sue foto**  
-  Fonte: Graham Cluley, 31 Mar 2026, 07:37:52 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-breach-fbi-directors-personal-email-post-cv-and-photos-online>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-07 07:04:40 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-08 07:07:07 UTC -->
