@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft sospende gli account di sviluppo per progetti open source di alto profilo**  
+  Fonte: BleepingComputer, 09 Apr 2026, 06:46:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/>)
+
+- **Podcast di Smashing Security n. 462: LinkedIn ti sta spiando e tu non hai acconsentito a nulla**  
+  Fonte: Graham Cluley, 08 Apr 2026, 23:27:17 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-462/>)
+
+- **Gli hacker utilizzano il trucco SVG di grandi dimensioni per nascondere il ladro di carte di credito**  
+  Fonte: BleepingComputer, 08 Apr 2026, 22:34:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/>)
+
+- **Google: nuovi hacker UNC6783 rubano i ticket di supporto Zendesk aziendali**  
+  Fonte: BleepingComputer, 08 Apr 2026, 21:46:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/>)
+
+- **New macOS stealer campaign uses Script Editor in ClickFix attack**  
+  Fonte: BleepingComputer, 08 Apr 2026, 18:55:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/>)
+
+- **CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday**  
+  Fonte: BleepingComputer, 08 Apr 2026, 18:15:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/>)
+
+- **La nuova variante Chaos prende di mira le distribuzioni cloud configurate in modo errato e aggiunge il proxy SOCKS**  
+  Fonte: The Hacker News, 08 Apr 2026, 17:51:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html>)
+
+- **Un bug di 13 anni in ActiveMQ consente agli hacker di eseguire comandi da remoto**  
+  Fonte: BleepingComputer, 08 Apr 2026, 17:26:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/>)
+
+- **La botnet Masjesu emerge come servizio DDoS for Hire rivolto ai dispositivi IoT globali**  
+  Fonte: The Hacker News, 08 Apr 2026, 16:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html>)
+
+- **Una GPU da $ 30.000 è efficace nel crackare le password?**  
+  Fonte: BleepingComputer, 08 Apr 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/>)
+
+- **APT28 utilizza il malware PRISMEX nella campagna contro l'Ucraina e gli alleati della NATO**  
+  Fonte: The Hacker News, 08 Apr 2026, 13:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html>)
+
+- **Riduzione della superficie di attacco IAM attraverso le piattaforme di visibilità e intelligence delle identità (IVIP)**  
+  Fonte: The Hacker News, 08 Apr 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html>)
+
+- **Compromesso della catena di fornitura Python**  
+  Fonte: Schneier on Security, 08 Apr 2026, 10:25:53 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html>)
+
+- **Claude Mythos di Anthropic trova migliaia di difetti zero-day nei principali sistemi**  
+  Fonte: The Hacker News, 08 Apr 2026, 09:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html>)
+
+- **Gli hacker coreani del Nord hanno diffuso 1.700 pacchetti dannosi su npm, PyPI, Go e Rust**  
+  Fonte: The Hacker News, 08 Apr 2026, 07:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html>)
+
 - **Microsoft implementa una correzione per la ricerca interrotta nel menu Start di Windows**  
   Fonte: BleepingComputer, 08 Apr 2026, 07:00:55 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/>)
@@ -94,22 +154,6 @@
   Fonte: Troy Hunt, 07 Apr 2026, 01:53:05 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-498/>)
 
-- **Le autorità tedesche identificano i boss dei ransomware REvil e GandCrab**  
-  Fonte: BleepingComputer, 06 Apr 2026, 23:54:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/>)
-
-- **Il nuovo attacco GPUBreach consente il controllo del sistema tramite il martello della GPU**  
-  Fonte: BleepingComputer, 06 Apr 2026, 21:44:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/>)
-
-- **Un ricercatore scontento fa trapelare l'exploit zero-day di Windows “BlueHammer”.**  
-  Fonte: BleepingComputer, 06 Apr 2026, 19:19:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/>)
-
-- **Microsoft risolve il bug di Outlook classico che causava problemi di recapito della posta elettronica**  
-  Fonte: BleepingComputer, 06 Apr 2026, 19:19:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/>)
-
 - **Meta-ruling e crittografia del New Mexico**  
   Fonte: Schneier on Security, 06 Apr 2026, 19:09:58 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html>)
@@ -117,18 +161,6 @@
 - **La campagna di diffusione delle password collegata all'Iran prende di mira oltre 300 organizzazioni Microsoft 365 israeliane**  
   Fonte: The Hacker News, 06 Apr 2026, 18:37:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html>)
-
-- **Microsoft rimuove l'Assistente supporto e ripristino da Windows**  
-  Fonte: BleepingComputer, 06 Apr 2026, 17:45:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/>)
-
-- **Microsoft collega l'affiliato del ransomware Medusa agli attacchi zero-day**  
-  Fonte: BleepingComputer, 06 Apr 2026, 16:56:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/>)
-
-- **Furto di criptovalute da 280 milioni di dollari legato a un'operazione di persona di 6 mesi**  
-  Fonte: BleepingComputer, 06 Apr 2026, 16:35:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/>)
 
 - **Gli hacker legati alla RPDC utilizzano GitHub come C2 negli attacchi multifase contro la Corea del Sud**  
   Fonte: The Hacker News, 06 Apr 2026, 16:24:00 UTC  
@@ -242,53 +274,5 @@
   Fonte: The Hacker News, 02 Apr 2026, 09:51:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html>)
 
-- **Apple espande l'aggiornamento iOS 18.7.7 a più dispositivi per bloccare l'exploit di DarkSword**  
-  Fonte: The Hacker News, 02 Apr 2026, 07:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html>)
 
-- **Podcast di Smashing Security n. 461: Quest'uomo ha nascosto 400 milioni di dollari in una canna da pesca.Poi è scomparso**  
-  Fonte: Graham Cluley, 01 Apr 2026, 23:26:02 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-461/>)
-
-- **L’“Hackback” è la strategia ufficiale per la sicurezza informatica degli Stati Uniti?**  
-  Fonte: Schneier on Security, 01 Apr 2026, 16:57:35 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html>)
-
-- **La campagna di furto d'identità di CERT-UA ha diffuso il malware AGEWHEEZE in 1 milione di email**  
-  Fonte: The Hacker News, 01 Apr 2026, 16:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html>)
-
-- **Microsoft avverte del malware VBS fornito da WhatsApp che dirotta Windows tramite UAC Bypass**  
-  Fonte: The Hacker News, 01 Apr 2026, 14:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html>)
-
-- **Bloccare il suggerimento, non il lavoro: la fine del "Dottore No"**  
-  Fonte: The Hacker News, 01 Apr 2026, 12:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html>)
-
-- **Il phishing di Casbaneiro prende di mira l'America Latina e l'Europa utilizzando esche PDF dinamici**  
-  Fonte: The Hacker News, 01 Apr 2026, 12:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html>)
-
-- **Nuovo Chrome Zero-Day CVE-2026-5281 in fase di sfruttamento attivo: rilascio della patch**  
-  Fonte: The Hacker News, 01 Apr 2026, 11:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html>)
-
-- **3 motivi per cui gli aggressori utilizzano i tuoi strumenti fidati contro di te (e perché non te lo aspetti)**  
-  Fonte: The Hacker News, 01 Apr 2026, 10:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html>)
-
-- **Una tassonomia della sicurezza cognitiva**  
-  Fonte: Schneier on Security, 01 Apr 2026, 09:59:07 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/a-taxonomy-of-cognitive-security.html>)
-
-- **Presunto sviluppatore di malware RedLine estradato negli Stati Uniti**  
-  Fonte: Graham Cluley, 01 Apr 2026, 09:00:13 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/redline-malware-developer-extradited>)
-
-- **Google attribuisce l'attacco alla catena di fornitura Axios npm al gruppo nordcoreano UNC1069**  
-  Fonte: The Hacker News, 01 Apr 2026, 07:44:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-08 07:07:07 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-09 07:11:40 UTC -->
