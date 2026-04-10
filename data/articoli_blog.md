@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Nuovo malware “LucidRook” utilizzato in attacchi mirati contro ONG e università**  
+  Fonte: BleepingComputer, 09 Apr 2026, 22:04:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/>)
+
+- **Nuovi attacchi di phishing VENOM rubano gli accessi Microsoft dei dirigenti senior**  
+  Fonte: BleepingComputer, 09 Apr 2026, 21:37:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/>)
+
+- **ChipSoft, fornitore di soluzioni IT per il settore sanitario, colpito da un attacco ransomware**  
+  Fonte: BleepingComputer, 09 Apr 2026, 19:46:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/>)
+
+- **Google Chrome aggiunge la protezione dagli infostealer contro il furto dei cookie di sessione**  
+  Fonte: BleepingComputer, 09 Apr 2026, 18:33:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/>)
+
+- **Il difetto dell'SDK di EngageLab ha esposto 50 milioni di utenti Android, incluse 30 milioni di installazioni di portafogli crittografici**  
+  Fonte: The Hacker News, 09 Apr 2026, 17:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html>)
+
+- **UAT-10362 prende di mira le ONG taiwanesi con il malware LucidRook nelle campagne di spear-phishing**  
+  Fonte: The Hacker News, 09 Apr 2026, 16:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html>)
+
+- **Aggiornamenti di Smart Slider dirottati per spingere versioni dannose di WordPress e Joomla**  
+  Fonte: BleepingComputer, 09 Apr 2026, 16:15:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/>)
+
+- **Quando gli aggressori hanno già le chiavi, l’AMF è solo un’altra porta da aprire**  
+  Fonte: BleepingComputer, 09 Apr 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/>)
+
+- **Bollettino del ThreatsDay: botnet P2P ibrida, Apache RCE di 13 anni e altre 18 storie**  
+  Fonte: The Hacker News, 09 Apr 2026, 12:57:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html>)
+
+- **Webinar: Dal rumore al segnale: quale sarà il prossimo obiettivo degli autori delle minacce**  
+  Fonte: BleepingComputer, 09 Apr 2026, 12:20:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/>)
+
+- **I rischi nascosti per la sicurezza dell’intelligenza artificiale ombra nelle imprese**  
+  Fonte: The Hacker News, 09 Apr 2026, 11:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html>)
+
+- **Adobe Reader Zero-Day sfruttato tramite PDF dannosi da dicembre 2025**  
+  Fonte: The Hacker News, 09 Apr 2026, 11:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html>)
+
+- **Sulla pessima sicurezza nel cloud di Microsoft**  
+  Fonte: Schneier on Security, 09 Apr 2026, 10:51:36 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html>)
+
+- **La campagna di hack-for-hire dai legami aspri prende di mira i giornalisti nella regione MENA**  
+  Fonte: The Hacker News, 09 Apr 2026, 10:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html>)
+
+- **Eurail afferma che la violazione dei dati di dicembre ha avuto un impatto su 300.000 persone**  
+  Fonte: BleepingComputer, 09 Apr 2026, 10:31:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/>)
+
+- **Gli hacker sfruttano la falla zero-day di Acrobat Reader da dicembre**  
+  Fonte: BleepingComputer, 09 Apr 2026, 09:22:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/>)
+
+- **Gli hacker rubano 3,6 milioni di dollari dal gigante dei bancomat Bitcoin Depot**  
+  Fonte: BleepingComputer, 09 Apr 2026, 07:44:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/>)
+
 - **Microsoft sospende gli account di sviluppo per progetti open source di alto profilo**  
   Fonte: BleepingComputer, 09 Apr 2026, 06:46:26 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/>)
@@ -18,11 +86,11 @@
   Fonte: BleepingComputer, 08 Apr 2026, 21:46:27 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/>)
 
-- **New macOS stealer campaign uses Script Editor in ClickFix attack**  
+- **La nuova campagna stealer di macOS utilizza Script Editor nell'attacco ClickFix**  
   Fonte: BleepingComputer, 08 Apr 2026, 18:55:43 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/>)
 
-- **CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday**  
+- **La CISA ordina ai federali di correggere la falla EPMM di Ivanti entro domenica**  
   Fonte: BleepingComputer, 08 Apr 2026, 18:15:27 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/>)
 
@@ -30,17 +98,9 @@
   Fonte: The Hacker News, 08 Apr 2026, 17:51:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html>)
 
-- **Un bug di 13 anni in ActiveMQ consente agli hacker di eseguire comandi da remoto**  
-  Fonte: BleepingComputer, 08 Apr 2026, 17:26:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/>)
-
 - **La botnet Masjesu emerge come servizio DDoS for Hire rivolto ai dispositivi IoT globali**  
   Fonte: The Hacker News, 08 Apr 2026, 16:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html>)
-
-- **Una GPU da $ 30.000 è efficace nel crackare le password?**  
-  Fonte: BleepingComputer, 08 Apr 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/>)
 
 - **APT28 utilizza il malware PRISMEX nella campagna contro l'Ucraina e gli alleati della NATO**  
   Fonte: The Hacker News, 08 Apr 2026, 13:50:00 UTC  
@@ -62,33 +122,13 @@
   Fonte: The Hacker News, 08 Apr 2026, 07:47:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html>)
 
-- **Microsoft implementa una correzione per la ricerca interrotta nel menu Start di Windows**  
-  Fonte: BleepingComputer, 08 Apr 2026, 07:00:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/>)
-
 - **Gli hacker legati all'Iran interrompono le infrastrutture critiche degli Stati Uniti prendendo di mira i PLC esposti a Internet**  
   Fonte: The Hacker News, 08 Apr 2026, 04:23:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html>)
 
-- **Gli hacker sfruttano un difetto critico nel plugin WordPress Ninja Forms**  
-  Fonte: BleepingComputer, 07 Apr 2026, 22:03:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/>)
-
 - **Cloudflare punta al 2029 per garantire la piena sicurezza post-quantistica**  
   Fonte: Cloudflare Blog - Security, 07 Apr 2026, 21:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/post-quantum-roadmap/>)
-
-- **FBI: lo scorso anno gli americani hanno perso la cifra record di 21 miliardi di dollari a causa della criminalità informatica**  
-  Fonte: BleepingComputer, 07 Apr 2026, 20:41:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/>)
-
-- **I clienti Snowflake sono stati colpiti da attacchi di furto di dati dopo la violazione dell'integratore SaaS**  
-  Fonte: BleepingComputer, 07 Apr 2026, 19:39:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/>)
-
-- **Gli Stati Uniti mettono in guardia contro gli hacker iraniani che prendono di mira infrastrutture critiche**  
-  Fonte: BleepingComputer, 07 Apr 2026, 18:02:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/>)
 
 - **La sicurezza informatica nell’era del software istantaneo**  
   Fonte: Schneier on Security, 07 Apr 2026, 17:07:52 UTC  
@@ -98,10 +138,6 @@
   Fonte: Krebs on Security, 07 Apr 2026, 17:02:44 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/>)
 
-- **Gravità massima La vulnerabilità Flowise RCE ora viene sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 07 Apr 2026, 17:02:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/>)
-
 - **APT28, collegata allo Stato russo, sfrutta i router SOHO nella campagna globale di dirottamento DNS**  
   Fonte: The Hacker News, 07 Apr 2026, 16:48:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html>)
@@ -110,17 +146,9 @@
   Fonte: The Hacker News, 07 Apr 2026, 16:29:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html>)
 
-- **Le autorità interrompono i dirottamenti DNS dei router utilizzati per rubare gli accessi a Microsoft 365**  
-  Fonte: BleepingComputer, 07 Apr 2026, 15:51:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/>)
-
 - **Docker CVE-2026-34040 consente agli aggressori di ignorare l'autorizzazione e ottenere l'accesso all'host**  
   Fonte: The Hacker News, 07 Apr 2026, 15:15:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html>)
-
-- **Perché il tuo strumento di pentest automatizzato ha appena sbattuto contro un muro**  
-  Fonte: BleepingComputer, 07 Apr 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/>)
 
 - **Oltre 1.000 istanze ComfyUI esposte prese di mira nella campagna botnet di criptomining**  
   Fonte: The Hacker News, 07 Apr 2026, 12:46:00 UTC  
@@ -182,7 +210,7 @@
   Fonte: Schneier on Security, 06 Apr 2026, 10:52:32 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html>)
 
-- **Qilin e Warlock Ransomware utilizzano driver vulnerabili per disattivare oltre 300 strumenti EDR**  
+- **Qilin e Warlock Ransomware utilizzano driver vulnerabili per disabilitare oltre 300 strumenti EDR**  
   Fonte: The Hacker News, 06 Apr 2026, 10:07:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html>)
 
@@ -242,37 +270,5 @@
   Fonte: The Hacker News, 03 Apr 2026, 08:35:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html>)
 
-- **Gli hacker sfruttano CVE-2025-55182 per violare 766 host Next.js e rubare credenziali**  
-  Fonte: The Hacker News, 02 Apr 2026, 19:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html>)
 
-- **Gli Stati Uniti vietano tutti i router di consumo fabbricati all'estero**  
-  Fonte: Schneier on Security, 02 Apr 2026, 17:28:27 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html>)
-
-- **Cisco applica la patch 9.8 CVSS ai difetti IMC e SSM che consentono la compromissione del sistema remoto**  
-  Fonte: The Hacker News, 02 Apr 2026, 15:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html>)
-
-- **Bollettino del ThreatsDay: catene di pre-autenticazione, rootkit Android, evasione di CloudTrail e altre 10 storie**  
-  Fonte: The Hacker News, 02 Apr 2026, 12:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html>)
-
-- **I ricercatori scoprono operazioni minerarie che utilizzano esche ISO per diffondere RAT e minatori di criptovalute**  
-  Fonte: The Hacker News, 02 Apr 2026, 11:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html>)
-
-- **Il rapporto sullo stato dell'open source affidabile**  
-  Fonte: The Hacker News, 02 Apr 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html>)
-
-- **Possibile strumento di hacking per iPhone del governo degli Stati Uniti trapelato**  
-  Fonte: Schneier on Security, 02 Apr 2026, 10:05:43 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html>)
-
-- **WhatsApp avvisa 200 utenti dopo l'installazione di uno spyware falso sull'app iOS;Un’azienda italiana affronta l’azione**  
-  Fonte: The Hacker News, 02 Apr 2026, 09:51:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-09 07:11:40 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-10 07:16:32 UTC -->
