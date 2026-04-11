@@ -2,6 +2,58 @@
 
 ## Ultimi 7 giorni
 
+- **ChatGPT lancia un nuovo abbonamento Pro da $ 100 per sfidare Claude**  
+  Fonte: BleepingComputer, 11 Apr 2026, 02:08:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/>)
+
+- **Blog sui calamari del venerdì: pesca eccessiva di calamari nel Pacifico meridionale**  
+  Fonte: Schneier on Security, 10 Apr 2026, 21:03:27 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html>)
+
+- **Quasi 4.000 dispositivi industriali statunitensi esposti ad attacchi informatici iraniani**  
+  Fonte: BleepingComputer, 10 Apr 2026, 15:52:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/>)
+
+- **L’analisi di un miliardo di registrazioni di interventi di bonifica CISA KEV mette in luce i limiti della sicurezza su scala umana**  
+  Fonte: BleepingComputer, 10 Apr 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/>)
+
+- **La campagna GlassWorm utilizza Zig Dropper per infettare più IDE per sviluppatori**  
+  Fonte: The Hacker News, 10 Apr 2026, 13:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html>)
+
+- **CPUID violato per fornire malware tramite CPU-Z, download di HWMonitor**  
+  Fonte: BleepingComputer, 10 Apr 2026, 13:12:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/>)
+
+- **Microsoft: dipendenti canadesi presi di mira da attacchi pirati sui salari**  
+  Fonte: BleepingComputer, 10 Apr 2026, 11:56:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/>)
+
+- **Le estensioni del browser sono il nuovo canale di consumo dell'intelligenza artificiale di cui nessuno parla**  
+  Fonte: The Hacker News, 10 Apr 2026, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html>)
+
+- **Google implementa la crittografia end-to-end di Gmail sui dispositivi mobili**  
+  Fonte: BleepingComputer, 10 Apr 2026, 10:44:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/>)
+
+- **Il senatore Sanders parla con Claude di intelligenza artificiale e privacy**  
+  Fonte: Schneier on Security, 10 Apr 2026, 10:41:06 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html>)
+
+- **Google lancia DBSC in Chrome 146 per bloccare il furto di sessione su Windows**  
+  Fonte: The Hacker News, 10 Apr 2026, 07:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html>)
+
+- **Marimo RCE Flaw CVE-2026-39987 sfruttato entro 10 ore dalla divulgazione**  
+  Fonte: The Hacker News, 10 Apr 2026, 07:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html>)
+
+- **Aggiornamento Smart Slider 3 Pro backdoor distribuito tramite server Nextend compromessi**  
+  Fonte: The Hacker News, 10 Apr 2026, 06:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html>)
+
 - **Nuovo malware “LucidRook” utilizzato in attacchi mirati contro ONG e università**  
   Fonte: BleepingComputer, 09 Apr 2026, 22:04:31 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/>)
@@ -10,7 +62,7 @@
   Fonte: BleepingComputer, 09 Apr 2026, 21:37:04 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/>)
 
-- **ChipSoft, fornitore di soluzioni IT per il settore sanitario, colpito da un attacco ransomware**  
+- **Il fornitore di soluzioni IT sanitarie ChipSoft colpito da un attacco ransomware**  
   Fonte: BleepingComputer, 09 Apr 2026, 19:46:44 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/>)
 
@@ -66,33 +118,9 @@
   Fonte: BleepingComputer, 09 Apr 2026, 09:22:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/>)
 
-- **Gli hacker rubano 3,6 milioni di dollari dal gigante dei bancomat Bitcoin Depot**  
-  Fonte: BleepingComputer, 09 Apr 2026, 07:44:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/>)
-
-- **Microsoft sospende gli account di sviluppo per progetti open source di alto profilo**  
-  Fonte: BleepingComputer, 09 Apr 2026, 06:46:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/>)
-
 - **Podcast di Smashing Security n. 462: LinkedIn ti sta spiando e tu non hai acconsentito a nulla**  
   Fonte: Graham Cluley, 08 Apr 2026, 23:27:17 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-462/>)
-
-- **Gli hacker utilizzano il trucco SVG di grandi dimensioni per nascondere il ladro di carte di credito**  
-  Fonte: BleepingComputer, 08 Apr 2026, 22:34:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/>)
-
-- **Google: nuovi hacker UNC6783 rubano i ticket di supporto Zendesk aziendali**  
-  Fonte: BleepingComputer, 08 Apr 2026, 21:46:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/>)
-
-- **La nuova campagna stealer di macOS utilizza Script Editor nell'attacco ClickFix**  
-  Fonte: BleepingComputer, 08 Apr 2026, 18:55:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/>)
-
-- **La CISA ordina ai federali di correggere la falla EPMM di Ivanti entro domenica**  
-  Fonte: BleepingComputer, 08 Apr 2026, 18:15:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/>)
 
 - **La nuova variante Chaos prende di mira le distribuzioni cloud configurate in modo errato e aggiunge il proxy SOCKS**  
   Fonte: The Hacker News, 08 Apr 2026, 17:51:00 UTC  
@@ -210,7 +238,7 @@
   Fonte: Schneier on Security, 06 Apr 2026, 10:52:32 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html>)
 
-- **Qilin e Warlock Ransomware utilizzano driver vulnerabili per disabilitare oltre 300 strumenti EDR**  
+- **Qilin e Warlock Ransomware utilizzano driver vulnerabili per disattivare oltre 300 strumenti EDR**  
   Fonte: The Hacker News, 06 Apr 2026, 10:07:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html>)
 
@@ -234,41 +262,5 @@
   Fonte: The Hacker News, 05 Apr 2026, 04:32:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html>)
 
-- **Blog sui calamari del venerdì: strozzature di pesce giurassico sui calamari**  
-  Fonte: Schneier on Security, 03 Apr 2026, 21:07:06 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html>)
 
-- **TA416 collegato alla Cina prende di mira i governi europei con PlugX e phishing basato su OAuth**  
-  Fonte: The Hacker News, 03 Apr 2026, 17:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html>)
-
-- **Dettagli Microsoft Shell Web PHP controllate da cookie persistenti tramite Cron su server Linux**  
-  Fonte: The Hacker News, 03 Apr 2026, 15:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html>)
-
-- **Azienda che registra e pubblica segretamente riunioni Zoom**  
-  Fonte: Schneier on Security, 03 Apr 2026, 11:08:17 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html>)
-
-- **UNC1069 L'ingegneria sociale del manutentore di Axios ha portato ad un attacco alla catena di fornitura npm**  
-  Fonte: The Hacker News, 03 Apr 2026, 11:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html>)
-
-- **Perché il rischio di terze parti rappresenta la lacuna più grande nella posizione di sicurezza dei tuoi clienti**  
-  Fonte: The Hacker News, 03 Apr 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html>)
-
-- **Truffatore romantico nigeriano incarcerato dopo essere stato scoperto da un altro truffatore**  
-  Fonte: Graham Cluley, 03 Apr 2026, 09:38:30 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/nigerian-romance-scammer-jailed>)
-
-- **La nuova variante SparkCat nelle app iOS e Android ruba le immagini delle frasi di recupero del portafoglio crittografico**  
-  Fonte: The Hacker News, 03 Apr 2026, 09:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html>)
-
-- **Drift perde 285 milioni di dollari in un attacco di ingegneria sociale nonce durevole legato alla RPDC**  
-  Fonte: The Hacker News, 03 Apr 2026, 08:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-10 07:16:32 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-11 06:50:56 UTC -->
