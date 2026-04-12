@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Violazione CPUID Distribuisce STX RAT tramite download di CPU-Z e HWMonitor con trojan**  
+  Fonte: The Hacker News, 12 Apr 2026, 05:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html>)
+
+- **Adobe Patches sfrutta attivamente il difetto di Acrobat Reader CVE-2026-34621**  
+  Fonte: The Hacker News, 12 Apr 2026, 04:25:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html>)
+
+- **Oltre 20.000 vittime di frodi crittografiche identificate nella repressione internazionale**  
+  Fonte: BleepingComputer, 11 Apr 2026, 14:20:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/>)
+
+- **Citizen Lab: le forze dell'ordine hanno utilizzato Webloc per tracciare 500 milioni di dispositivi tramite dati pubblicitari**  
+  Fonte: The Hacker News, 11 Apr 2026, 06:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html>)
+
 - **ChatGPT lancia un nuovo abbonamento Pro da $ 100 per sfidare Claude**  
   Fonte: BleepingComputer, 11 Apr 2026, 02:08:16 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/>)
@@ -13,6 +29,10 @@
 - **Quasi 4.000 dispositivi industriali statunitensi esposti ad attacchi informatici iraniani**  
   Fonte: BleepingComputer, 10 Apr 2026, 15:52:45 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/>)
+
+- **Le truffe basate sull'intelligenza artificiale e sulle criptovalute costano miliardi agli americani, riferisce l'FBI**  
+  Fonte: Graham Cluley, 10 Apr 2026, 15:36:41 UTC  
+  [Leggi](<https://www.fortra.com/blog/ai-and-cryptocurrency-scams-are-costing-americans-billions-fbi-reports>)
 
 - **L’analisi di un miliardo di registrazioni di interventi di bonifica CISA KEV mette in luce i limiti della sicurezza su scala umana**  
   Fonte: BleepingComputer, 10 Apr 2026, 14:01:11 UTC  
@@ -62,7 +82,7 @@
   Fonte: BleepingComputer, 09 Apr 2026, 21:37:04 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/>)
 
-- **Il fornitore di soluzioni IT sanitarie ChipSoft colpito da un attacco ransomware**  
+- **ChipSoft, fornitore di soluzioni IT per il settore sanitario, colpito da un attacco ransomware**  
   Fonte: BleepingComputer, 09 Apr 2026, 19:46:44 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/>)
 
@@ -113,10 +133,6 @@
 - **Eurail afferma che la violazione dei dati di dicembre ha avuto un impatto su 300.000 persone**  
   Fonte: BleepingComputer, 09 Apr 2026, 10:31:54 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/>)
-
-- **Gli hacker sfruttano la falla zero-day di Acrobat Reader da dicembre**  
-  Fonte: BleepingComputer, 09 Apr 2026, 09:22:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/>)
 
 - **Podcast di Smashing Security n. 462: LinkedIn ti sta spiando e tu non hai acconsentito a nulla**  
   Fonte: Graham Cluley, 08 Apr 2026, 23:27:17 UTC  
@@ -254,13 +270,5 @@
   Fonte: The Hacker News, 05 Apr 2026, 18:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html>)
 
-- **36 pacchetti npm dannosi hanno sfruttato Redis e PostgreSQL per implementare impianti persistenti**  
-  Fonte: The Hacker News, 05 Apr 2026, 05:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html>)
 
-- **Le patch Fortinet hanno sfruttato attivamente CVE-2026-35616 in FortiClient EMS**  
-  Fonte: The Hacker News, 05 Apr 2026, 04:32:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-11 06:50:56 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-12 07:04:24 UTC -->
