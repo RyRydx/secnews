@@ -2,6 +2,10 @@
 
 ## Ultimi 7 giorni
 
+- **Difetto critico RCE pre-autenticazione di Marimo ora sotto sfruttamento attivo**  
+  Fonte: BleepingComputer, 12 Apr 2026, 14:20:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/>)
+
 - **Violazione CPUID Distribuisce STX RAT tramite download di CPU-Z e HWMonitor con trojan**  
   Fonte: The Hacker News, 12 Apr 2026, 05:54:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html>)
@@ -130,10 +134,6 @@
   Fonte: The Hacker News, 09 Apr 2026, 10:40:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html>)
 
-- **Eurail afferma che la violazione dei dati di dicembre ha avuto un impatto su 300.000 persone**  
-  Fonte: BleepingComputer, 09 Apr 2026, 10:31:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/>)
-
 - **Podcast di Smashing Security n. 462: LinkedIn ti sta spiando e tu non hai acconsentito a nulla**  
   Fonte: Graham Cluley, 08 Apr 2026, 23:27:17 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-462/>)
@@ -254,21 +254,9 @@
   Fonte: Schneier on Security, 06 Apr 2026, 10:52:32 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html>)
 
-- **Qilin e Warlock Ransomware utilizzano driver vulnerabili per disattivare oltre 300 strumenti EDR**  
+- **Qilin e Warlock Ransomware utilizzano driver vulnerabili per disabilitare oltre 300 strumenti EDR**  
   Fonte: The Hacker News, 06 Apr 2026, 10:07:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html>)
 
-- **BKA identifica i leader REvil dietro 130 attacchi ransomware tedeschi**  
-  Fonte: The Hacker News, 06 Apr 2026, 06:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html>)
 
-- **Germania Doxes “UNKN”, capo di RU Ransomware Gangs REvil, GandCrab**  
-  Fonte: Krebs on Security, 06 Apr 2026, 02:07:17 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/>)
-
-- **Un attacco informatico da 285 milioni di dollari è riconducibile a un'operazione di ingegneria sociale della RPDC durata sei mesi**  
-  Fonte: The Hacker News, 05 Apr 2026, 18:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-12 07:04:24 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-13 07:49:11 UTC -->
