@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 499**  
+  Fonte: Troy Hunt, 14 Apr 2026, 06:30:56 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-499/>)
+
+- **ShowDoc RCE Flaw CVE-2025-0520 sfruttato attivamente su server senza patch**  
+  Fonte: The Hacker News, 14 Apr 2026, 05:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html>)
+
+- **CISA aggiunge 6 difetti noti sfruttati nei software Fortinet, Microsoft e Adobe**  
+  Fonte: The Hacker News, 14 Apr 2026, 05:39:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html>)
+
+- **La violazione dei dati del colosso europeo delle palestre Basic-Fit colpisce 1 milione di iscritti**  
+  Fonte: BleepingComputer, 13 Apr 2026, 21:50:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/>)
+
+- **Dati analitici rubati di Rockstar Games trapelati da una banda di estorsori**  
+  Fonte: BleepingComputer, 13 Apr 2026, 20:08:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/>)
+
+- **Un difetto critico nella libreria wolfSSL consente l'uso di certificati contraffatti**  
+  Fonte: BleepingComputer, 13 Apr 2026, 19:56:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/>)
+
+- **La rimozione da parte dell'FBI del servizio di phishing W3LL porta all'arresto dello sviluppatore**  
+  Fonte: BleepingComputer, 13 Apr 2026, 18:55:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/>)
+
+- **OpenAI ruota i certificati macOS dopo che l'attacco Axios ha colpito il flusso di lavoro di firma del codice**  
+  Fonte: BleepingComputer, 13 Apr 2026, 17:39:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/>)
+
+- **La nuova violazione dei dati di Booking.com impone la reimpostazione del PIN di prenotazione**  
+  Fonte: BleepingComputer, 13 Apr 2026, 17:30:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/>)
+
+- **Il malware JanelaRAT prende di mira le banche dell'America Latina con 14.739 attacchi in Brasile nel 2025**  
+  Fonte: The Hacker News, 13 Apr 2026, 17:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html>)
+
+- **Sull'anteprima Mythos di Anthropic e sul progetto Glasswing**  
+  Fonte: Schneier on Security, 13 Apr 2026, 16:52:57 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html>)
+
+- **Adobe lancia una soluzione di emergenza per Acrobat, il difetto zero-day di Reader**  
+  Fonte: BleepingComputer, 13 Apr 2026, 15:37:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/>)
+
+- **L'FBI e la polizia indonesiana smantellano la rete di phishing W3LL dietro tentativi di frode da 20 milioni di dollari**  
+  Fonte: The Hacker News, 13 Apr 2026, 14:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html>)
+
+- **La “Tempesta” silenziosa: il nuovo infostealer dirotta le sessioni e decrittografa lato server**  
+  Fonte: BleepingComputer, 13 Apr 2026, 14:05:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/>)
+
+- **⚡ Riepilogo settimanale: spionaggio della fibra ottica, rootkit di Windows, ricerca delle vulnerabilità dell'intelligenza artificiale e altro ancora**  
+  Fonte: The Hacker News, 13 Apr 2026, 13:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html>)
+
+- **Il tuo MTTD sembra fantastico.Il tuo divario post-avviso no**  
+  Fonte: The Hacker News, 13 Apr 2026, 11:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html>)
+
+- **Chatbot AI e fiducia**  
+  Fonte: Schneier on Security, 13 Apr 2026, 10:10:45 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/ai-chatbots-and-trust.html>)
+
+- **L'APT37 della Corea del Nord utilizza il social engineering di Facebook per diffondere il malware RokRAT**  
+  Fonte: The Hacker News, 13 Apr 2026, 09:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html>)
+
+- **OpenAI revoca il certificato dell'app macOS dopo un incidente dannoso nella catena di fornitura di Axios**  
+  Fonte: The Hacker News, 13 Apr 2026, 06:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html>)
+
 - **Difetto critico RCE pre-autenticazione di Marimo ora sotto sfruttamento attivo**  
   Fonte: BleepingComputer, 12 Apr 2026, 14:20:31 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/>)
@@ -34,7 +110,7 @@
   Fonte: BleepingComputer, 10 Apr 2026, 15:52:45 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/>)
 
-- **Le truffe basate sull'intelligenza artificiale e sulle criptovalute costano miliardi agli americani, riferisce l'FBI**  
+- **Le truffe legate all’intelligenza artificiale e alle criptovalute costano miliardi agli americani, riferisce l’FBI**  
   Fonte: Graham Cluley, 10 Apr 2026, 15:36:41 UTC  
   [Leggi](<https://www.fortra.com/blog/ai-and-cryptocurrency-scams-are-costing-americans-billions-fbi-reports>)
 
@@ -58,10 +134,6 @@
   Fonte: The Hacker News, 10 Apr 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html>)
 
-- **Google implementa la crittografia end-to-end di Gmail sui dispositivi mobili**  
-  Fonte: BleepingComputer, 10 Apr 2026, 10:44:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/>)
-
 - **Il senatore Sanders parla con Claude di intelligenza artificiale e privacy**  
   Fonte: Schneier on Security, 10 Apr 2026, 10:41:06 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html>)
@@ -78,22 +150,6 @@
   Fonte: The Hacker News, 10 Apr 2026, 06:28:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html>)
 
-- **Nuovo malware “LucidRook” utilizzato in attacchi mirati contro ONG e università**  
-  Fonte: BleepingComputer, 09 Apr 2026, 22:04:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/>)
-
-- **Nuovi attacchi di phishing VENOM rubano gli accessi Microsoft dei dirigenti senior**  
-  Fonte: BleepingComputer, 09 Apr 2026, 21:37:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/>)
-
-- **ChipSoft, fornitore di soluzioni IT per il settore sanitario, colpito da un attacco ransomware**  
-  Fonte: BleepingComputer, 09 Apr 2026, 19:46:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/>)
-
-- **Google Chrome aggiunge la protezione dagli infostealer contro il furto dei cookie di sessione**  
-  Fonte: BleepingComputer, 09 Apr 2026, 18:33:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/>)
-
 - **Il difetto dell'SDK di EngageLab ha esposto 50 milioni di utenti Android, incluse 30 milioni di installazioni di portafogli crittografici**  
   Fonte: The Hacker News, 09 Apr 2026, 17:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html>)
@@ -102,21 +158,9 @@
   Fonte: The Hacker News, 09 Apr 2026, 16:23:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html>)
 
-- **Aggiornamenti di Smart Slider dirottati per spingere versioni dannose di WordPress e Joomla**  
-  Fonte: BleepingComputer, 09 Apr 2026, 16:15:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/>)
-
-- **Quando gli aggressori hanno già le chiavi, l’AMF è solo un’altra porta da aprire**  
-  Fonte: BleepingComputer, 09 Apr 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/>)
-
 - **Bollettino del ThreatsDay: botnet P2P ibrida, Apache RCE di 13 anni e altre 18 storie**  
   Fonte: The Hacker News, 09 Apr 2026, 12:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html>)
-
-- **Webinar: Dal rumore al segnale: quale sarà il prossimo obiettivo degli autori delle minacce**  
-  Fonte: BleepingComputer, 09 Apr 2026, 12:20:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/>)
 
 - **I rischi nascosti per la sicurezza dell’intelligenza artificiale ombra nelle imprese**  
   Fonte: The Hacker News, 09 Apr 2026, 11:31:00 UTC  
@@ -214,49 +258,5 @@
   Fonte: The Hacker News, 07 Apr 2026, 08:38:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html>)
 
-- **Storm-1175, collegato alla Cina, sfrutta Zero-Days per distribuire rapidamente il ransomware Medusa**  
-  Fonte: The Hacker News, 07 Apr 2026, 06:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html>)
 
-- **Flowise AI Agent Builder con sfruttamento attivo di CVSS 10.0 RCE;Oltre 12.000 istanze esposte**  
-  Fonte: The Hacker News, 07 Apr 2026, 05:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html>)
-
-- **Aggiornamento settimanale 498**  
-  Fonte: Troy Hunt, 07 Apr 2026, 01:53:05 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-498/>)
-
-- **Meta-ruling e crittografia del New Mexico**  
-  Fonte: Schneier on Security, 06 Apr 2026, 19:09:58 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html>)
-
-- **La campagna di diffusione delle password collegata all'Iran prende di mira oltre 300 organizzazioni Microsoft 365 israeliane**  
-  Fonte: The Hacker News, 06 Apr 2026, 18:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html>)
-
-- **Gli hacker legati alla RPDC utilizzano GitHub come C2 negli attacchi multifase contro la Corea del Sud**  
-  Fonte: The Hacker News, 06 Apr 2026, 16:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html>)
-
-- **Attacchi informatici multi-OS: come i SOC risolvono un rischio critico in 3 passaggi**  
-  Fonte: The Hacker News, 06 Apr 2026, 13:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html>)
-
-- **⚡ Riepilogo settimanale: hack di Axios, Chrome 0-Day, exploit Fortinet, spyware Paragon e altro ancora**  
-  Fonte: The Hacker News, 06 Apr 2026, 12:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html>)
-
-- **Come LiteLLM ha trasformato le macchine degli sviluppatori in archivi di credenziali per gli aggressori**  
-  Fonte: The Hacker News, 06 Apr 2026, 11:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html>)
-
-- **Google vuole passare alla crittografia post-quantistica entro il 2029**  
-  Fonte: Schneier on Security, 06 Apr 2026, 10:52:32 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html>)
-
-- **Qilin e Warlock Ransomware utilizzano driver vulnerabili per disabilitare oltre 300 strumenti EDR**  
-  Fonte: The Hacker News, 06 Apr 2026, 10:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-13 07:49:11 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-14 07:19:01 UTC -->
