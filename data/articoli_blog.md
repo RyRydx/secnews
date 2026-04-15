@@ -2,6 +2,98 @@
 
 ## Ultimi 7 giorni
 
+- **OpenAI lancia GPT-5.4-Cyber ​​con accesso esteso per i team di sicurezza**  
+  Fonte: The Hacker News, 15 Apr 2026, 04:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html>)
+
+- **Microsoft aggiunge protezioni Windows per file dannosi di Desktop remoto**  
+  Fonte: BleepingComputer, 14 Apr 2026, 22:23:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/>)
+
+- **Lo scambio di criptovalute Kraken è stato estorto da hacker dopo una violazione interna**  
+  Fonte: BleepingComputer, 14 Apr 2026, 21:58:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/>)
+
+- **Patch Tuesday, edizione aprile 2026**  
+  Fonte: Krebs on Security, 14 Apr 2026, 21:47:59 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/>)
+
+- **Oltre 100 estensioni del Chrome Web Store rubano account utente e dati**  
+  Fonte: BleepingComputer, 14 Apr 2026, 20:33:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/>)
+
+- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5082200 di Windows 10**  
+  Fonte: BleepingComputer, 14 Apr 2026, 18:09:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/>)
+
+- **McGraw-Hill conferma la violazione dei dati a seguito di minaccia di estorsione**  
+  Fonte: BleepingComputer, 14 Apr 2026, 18:07:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/>)
+
+- **Rilasciati gli aggiornamenti cumulativi di Windows 11 KB5083769 e KB5082052**  
+  Fonte: BleepingComputer, 14 Apr 2026, 17:46:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/>)
+
+- **Il Patch Tuesday di Microsoft di aprile 2026 corregge 167 difetti, 2 zero-day**  
+  Fonte: BleepingComputer, 14 Apr 2026, 17:41:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/>)
+
+- **L'app Fake Ledger Live sull'App Store di Apple ha rubato 9,5 milioni di dollari in criptovalute**  
+  Fonte: BleepingComputer, 14 Apr 2026, 16:37:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/>)
+
+- **Prossimi impegni di conferenza**  
+  Fonte: Schneier on Security, 14 Apr 2026, 16:01:47 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html>)
+
+- **Nuovi difetti del compositore PHP consentono l'esecuzione di comandi arbitrari: rilasciate le patch**  
+  Fonte: The Hacker News, 14 Apr 2026, 15:57:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html>)
+
+- **Microsoft implementa una procedura rapida per ripristinare gli account di sviluppo hardware di Windows**  
+  Fonte: BleepingComputer, 14 Apr 2026, 15:53:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/>)
+
+- **Google aggiunge un parser DNS basato su Rust nel modem Pixel 10 per migliorare la sicurezza**  
+  Fonte: The Hacker News, 14 Apr 2026, 14:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html>)
+
+- **La truffa Pushpaganda basata sull'intelligenza artificiale sfrutta Google Discover per diffondere scareware e frodi pubblicitarie**  
+  Fonte: The Hacker News, 14 Apr 2026, 14:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html>)
+
+- **5 modi in cui Zero Trust massimizza la sicurezza dell'identità**  
+  Fonte: BleepingComputer, 14 Apr 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/>)
+
+- **Protezione delle identità non umane: revoca automatizzata, OAuth e autorizzazioni con ambito**  
+  Fonte: Cloudflare Blog - Security, 14 Apr 2026, 13:00:10 UTC  
+  [Leggi](<https://blog.cloudflare.com/improved-developer-security/>)
+
+- **Adozione scalabile di MCP: la nostra architettura di riferimento per implementazioni aziendali più semplici, sicure ed economiche di MCP**  
+  Fonte: Cloudflare Blog - Security, 14 Apr 2026, 13:00:10 UTC  
+  [Leggi](<https://blog.cloudflare.com/enterprise-mcp/>)
+
+- **OAuth gestito per l'accesso: rendi le app interne pronte per l'agente in un clic**  
+  Fonte: Cloudflare Blog - Security, 14 Apr 2026, 13:00:10 UTC  
+  [Leggi](<https://blog.cloudflare.com/managed-oauth-for-access/>)
+
+- **Come gli hacker pensano all'intelligenza artificiale**  
+  Fonte: Schneier on Security, 14 Apr 2026, 10:49:50 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html>)
+
+- **Mirax Android RAT trasforma i dispositivi in ​​proxy SOCKS5, raggiungendo 220.000 tramite Meta Ads**  
+  Fonte: The Hacker News, 14 Apr 2026, 10:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html>)
+
+- **L'analisi di 216 milioni di risultati sulla sicurezza mostra un aumento di 4 volte del rischio critico (rapporto 2026)**  
+  Fonte: The Hacker News, 14 Apr 2026, 10:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html>)
+
+- **108 estensioni dannose di Chrome rubano dati di Google e Telegram, colpendo 20.000 utenti**  
+  Fonte: The Hacker News, 14 Apr 2026, 08:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html>)
+
 - **Aggiornamento settimanale 499**  
   Fonte: Troy Hunt, 14 Apr 2026, 06:30:56 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-499/>)
@@ -34,10 +126,6 @@
   Fonte: BleepingComputer, 13 Apr 2026, 17:39:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/>)
 
-- **La nuova violazione dei dati di Booking.com impone la reimpostazione del PIN di prenotazione**  
-  Fonte: BleepingComputer, 13 Apr 2026, 17:30:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/>)
-
 - **Il malware JanelaRAT prende di mira le banche dell'America Latina con 14.739 attacchi in Brasile nel 2025**  
   Fonte: The Hacker News, 13 Apr 2026, 17:15:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html>)
@@ -46,17 +134,9 @@
   Fonte: Schneier on Security, 13 Apr 2026, 16:52:57 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html>)
 
-- **Adobe lancia una soluzione di emergenza per Acrobat, il difetto zero-day di Reader**  
-  Fonte: BleepingComputer, 13 Apr 2026, 15:37:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/>)
-
 - **L'FBI e la polizia indonesiana smantellano la rete di phishing W3LL dietro tentativi di frode da 20 milioni di dollari**  
   Fonte: The Hacker News, 13 Apr 2026, 14:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html>)
-
-- **La “Tempesta” silenziosa: il nuovo infostealer dirotta le sessioni e decrittografa lato server**  
-  Fonte: BleepingComputer, 13 Apr 2026, 14:05:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/>)
 
 - **⚡ Riepilogo settimanale: spionaggio della fibra ottica, rootkit di Windows, ricerca delle vulnerabilità dell'intelligenza artificiale e altro ancora**  
   Fonte: The Hacker News, 13 Apr 2026, 13:01:00 UTC  
@@ -78,10 +158,6 @@
   Fonte: The Hacker News, 13 Apr 2026, 06:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html>)
 
-- **Difetto critico RCE pre-autenticazione di Marimo ora sotto sfruttamento attivo**  
-  Fonte: BleepingComputer, 12 Apr 2026, 14:20:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/>)
-
 - **Violazione CPUID Distribuisce STX RAT tramite download di CPU-Z e HWMonitor con trojan**  
   Fonte: The Hacker News, 12 Apr 2026, 05:54:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html>)
@@ -90,45 +166,21 @@
   Fonte: The Hacker News, 12 Apr 2026, 04:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html>)
 
-- **Oltre 20.000 vittime di frodi crittografiche identificate nella repressione internazionale**  
-  Fonte: BleepingComputer, 11 Apr 2026, 14:20:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/>)
-
 - **Citizen Lab: le forze dell'ordine hanno utilizzato Webloc per tracciare 500 milioni di dispositivi tramite dati pubblicitari**  
   Fonte: The Hacker News, 11 Apr 2026, 06:02:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html>)
-
-- **ChatGPT lancia un nuovo abbonamento Pro da $ 100 per sfidare Claude**  
-  Fonte: BleepingComputer, 11 Apr 2026, 02:08:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/>)
 
 - **Blog sui calamari del venerdì: pesca eccessiva di calamari nel Pacifico meridionale**  
   Fonte: Schneier on Security, 10 Apr 2026, 21:03:27 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html>)
 
-- **Quasi 4.000 dispositivi industriali statunitensi esposti ad attacchi informatici iraniani**  
-  Fonte: BleepingComputer, 10 Apr 2026, 15:52:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/>)
-
 - **Le truffe legate all’intelligenza artificiale e alle criptovalute costano miliardi agli americani, riferisce l’FBI**  
   Fonte: Graham Cluley, 10 Apr 2026, 15:36:41 UTC  
   [Leggi](<https://www.fortra.com/blog/ai-and-cryptocurrency-scams-are-costing-americans-billions-fbi-reports>)
 
-- **L’analisi di un miliardo di registrazioni di interventi di bonifica CISA KEV mette in luce i limiti della sicurezza su scala umana**  
-  Fonte: BleepingComputer, 10 Apr 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/>)
-
 - **La campagna GlassWorm utilizza Zig Dropper per infettare più IDE per sviluppatori**  
   Fonte: The Hacker News, 10 Apr 2026, 13:23:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html>)
-
-- **CPUID violato per fornire malware tramite CPU-Z, download di HWMonitor**  
-  Fonte: BleepingComputer, 10 Apr 2026, 13:12:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/>)
-
-- **Microsoft: dipendenti canadesi presi di mira da attacchi pirati sui salari**  
-  Fonte: BleepingComputer, 10 Apr 2026, 11:56:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/>)
 
 - **Le estensioni del browser sono il nuovo canale di consumo dell'intelligenza artificiale di cui nessuno parla**  
   Fonte: The Hacker News, 10 Apr 2026, 11:00:00 UTC  
@@ -210,53 +262,5 @@
   Fonte: The Hacker News, 08 Apr 2026, 07:47:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html>)
 
-- **Gli hacker legati all'Iran interrompono le infrastrutture critiche degli Stati Uniti prendendo di mira i PLC esposti a Internet**  
-  Fonte: The Hacker News, 08 Apr 2026, 04:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html>)
 
-- **Cloudflare punta al 2029 per garantire la piena sicurezza post-quantistica**  
-  Fonte: Cloudflare Blog - Security, 07 Apr 2026, 21:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/post-quantum-roadmap/>)
-
-- **La sicurezza informatica nell’era del software istantaneo**  
-  Fonte: Schneier on Security, 07 Apr 2026, 17:07:52 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html>)
-
-- **La Russia ha violato i router per rubare i token di Microsoft Office**  
-  Fonte: Krebs on Security, 07 Apr 2026, 17:02:44 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/>)
-
-- **APT28, collegata allo Stato russo, sfrutta i router SOHO nella campagna globale di dirottamento DNS**  
-  Fonte: The Hacker News, 07 Apr 2026, 16:48:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html>)
-
-- **[Webinar] Come colmare le lacune di identità nel 2026 prima che l'intelligenza artificiale sfrutti i rischi aziendali**  
-  Fonte: The Hacker News, 07 Apr 2026, 16:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html>)
-
-- **Docker CVE-2026-34040 consente agli aggressori di ignorare l'autorizzazione e ottenere l'accesso all'host**  
-  Fonte: The Hacker News, 07 Apr 2026, 15:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html>)
-
-- **Oltre 1.000 istanze ComfyUI esposte prese di mira nella campagna botnet di criptomining**  
-  Fonte: The Hacker News, 07 Apr 2026, 12:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html>)
-
-- **Il costo nascosto degli incidenti ricorrenti relativi alle credenziali**  
-  Fonte: The Hacker News, 07 Apr 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html>)
-
-- **La polizia di Hong Kong può costringerti a rivelare le tue chiavi di crittografia**  
-  Fonte: Schneier on Security, 07 Apr 2026, 09:45:33 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html>)
-
-- **Ergastolo per gli operatori truffatori cambogiani: ma farà la differenza?**  
-  Fonte: Graham Cluley, 07 Apr 2026, 08:57:17 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/life-imprisonment-cambodian-scam-operators>)
-
-- **Il nuovo attacco GPUBreach consente l'escalation completa dei privilegi della CPU tramite bit-flip GDDR6**  
-  Fonte: The Hacker News, 07 Apr 2026, 08:38:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-14 07:19:01 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-15 07:18:54 UTC -->
