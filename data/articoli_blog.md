@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **UAC-0247 prende di mira le cliniche e il governo ucraini nella campagna malware contro il furto di dati**  
+  Fonte: The Hacker News, 16 Apr 2026, 06:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html>)
+
+- **Podcast n. 463 di Smashing Security: questa società di intelligenza artificiale ha fatto trapelare il proprio codice.Ha anche costruito qualcosa di terrificante**  
+  Fonte: Graham Cluley, 15 Apr 2026, 23:24:44 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-463/>)
+
+- **Difetto critico di bypass dell'autenticazione dell'interfaccia utente di Nginx ora sfruttato attivamente in natura**  
+  Fonte: BleepingComputer, 15 Apr 2026, 22:35:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/>)
+
+- **Nuovo malware AgingFly utilizzato negli attacchi al governo e agli ospedali ucraini**  
+  Fonte: BleepingComputer, 15 Apr 2026, 21:57:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/>)
+
+- **Suite di plugin WordPress violata per inviare malware a migliaia di siti**  
+  Fonte: BleepingComputer, 15 Apr 2026, 20:33:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/>)
+
+- **Software firmato utilizzato in modo improprio per distribuire script che distruggono l'antivirus**  
+  Fonte: BleepingComputer, 15 Apr 2026, 17:59:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/>)
+
+- **Webhook n8n abusati da ottobre 2025 per diffondere malware tramite e-mail di phishing**  
+  Fonte: The Hacker News, 15 Apr 2026, 17:09:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html>)
+
+- **Microsoft paga 2,3 milioni di dollari per difetti nel cloud e nell'intelligenza artificiale durante Zero Day Quest**  
+  Fonte: BleepingComputer, 15 Apr 2026, 16:20:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/>)
+
+- **CISA segnala la vulnerabilità di Windows Task Host come sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 15 Apr 2026, 14:51:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/>)
+
+- **Reti mobili: protezione del settore dei trasporti**  
+  Fonte: BleepingComputer, 15 Apr 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/>)
+
+- **Il difetto nginx-ui (CVE-2026-33032) sfruttato attivamente consente il takeover completo del server Nginx**  
+  Fonte: The Hacker News, 15 Apr 2026, 12:56:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html>)
+
+- **Il Patch Tuesday di aprile risolve difetti critici su SAP, Adobe, Microsoft, Fortinet e altri**  
+  Fonte: The Hacker News, 15 Apr 2026, 12:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html>)
+
+- **Microsoft: gli aggiornamenti di aprile attivano i prompt dei tasti BitLocker su alcuni server**  
+  Fonte: BleepingComputer, 15 Apr 2026, 11:41:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/>)
+
+- **IA deterministica + agentica: l'architettura richiesta per la convalida dell'esposizione**  
+  Fonte: The Hacker News, 15 Apr 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html>)
+
+- **108 estensioni Chrome dannose sorprese a rubare dati di Google e Telegram da 20.000 utenti**  
+  Fonte: Graham Cluley, 15 Apr 2026, 11:05:56 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-chrome-extensions-steal-google-telegram-data>)
+
+- **Difesa in profondità, stile medievale**  
+  Fonte: Schneier on Security, 15 Apr 2026, 10:47:55 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/defense-in-depth-medieval-style.html>)
+
+- **Microsoft risolve il bug dietro gli aggiornamenti automatici di Windows Server 2025**  
+  Fonte: BleepingComputer, 15 Apr 2026, 10:24:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/>)
+
+- **Microsoft rilascia patch per SharePoint Zero-Day e altre 168 nuove vulnerabilità**  
+  Fonte: The Hacker News, 15 Apr 2026, 08:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html>)
+
 - **OpenAI lancia GPT-5.4-Cyber ​​con accesso esteso per i team di sicurezza**  
   Fonte: The Hacker News, 15 Apr 2026, 04:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html>)
@@ -10,7 +82,7 @@
   Fonte: BleepingComputer, 14 Apr 2026, 22:23:33 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/>)
 
-- **Lo scambio di criptovalute Kraken è stato estorto da hacker dopo una violazione interna**  
+- **Lo scambio di criptovalute Kraken è stato estorto dagli hacker dopo una violazione interna**  
   Fonte: BleepingComputer, 14 Apr 2026, 21:58:31 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/>)
 
@@ -34,25 +106,13 @@
   Fonte: BleepingComputer, 14 Apr 2026, 17:46:31 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/>)
 
-- **Il Patch Tuesday di Microsoft di aprile 2026 corregge 167 difetti, 2 zero-day**  
-  Fonte: BleepingComputer, 14 Apr 2026, 17:41:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/>)
-
-- **L'app Fake Ledger Live sull'App Store di Apple ha rubato 9,5 milioni di dollari in criptovalute**  
-  Fonte: BleepingComputer, 14 Apr 2026, 16:37:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/>)
-
 - **Prossimi impegni di conferenza**  
   Fonte: Schneier on Security, 14 Apr 2026, 16:01:47 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html>)
 
-- **Nuovi difetti del compositore PHP consentono l'esecuzione di comandi arbitrari: rilasciate le patch**  
+- **I nuovi difetti del compositore PHP consentono l'esecuzione di comandi arbitrari: rilasciate le patch**  
   Fonte: The Hacker News, 14 Apr 2026, 15:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html>)
-
-- **Microsoft implementa una procedura rapida per ripristinare gli account di sviluppo hardware di Windows**  
-  Fonte: BleepingComputer, 14 Apr 2026, 15:53:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/>)
 
 - **Google aggiunge un parser DNS basato su Rust nel modem Pixel 10 per migliorare la sicurezza**  
   Fonte: The Hacker News, 14 Apr 2026, 14:56:00 UTC  
@@ -61,10 +121,6 @@
 - **La truffa Pushpaganda basata sull'intelligenza artificiale sfrutta Google Discover per diffondere scareware e frodi pubblicitarie**  
   Fonte: The Hacker News, 14 Apr 2026, 14:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html>)
-
-- **5 modi in cui Zero Trust massimizza la sicurezza dell'identità**  
-  Fonte: BleepingComputer, 14 Apr 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/>)
 
 - **Protezione delle identità non umane: revoca automatizzata, OAuth e autorizzazioni con ambito**  
   Fonte: Cloudflare Blog - Security, 14 Apr 2026, 13:00:10 UTC  
@@ -105,26 +161,6 @@
 - **CISA aggiunge 6 difetti noti sfruttati nei software Fortinet, Microsoft e Adobe**  
   Fonte: The Hacker News, 14 Apr 2026, 05:39:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html>)
-
-- **La violazione dei dati del colosso europeo delle palestre Basic-Fit colpisce 1 milione di iscritti**  
-  Fonte: BleepingComputer, 13 Apr 2026, 21:50:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/>)
-
-- **Dati analitici rubati di Rockstar Games trapelati da una banda di estorsori**  
-  Fonte: BleepingComputer, 13 Apr 2026, 20:08:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/>)
-
-- **Un difetto critico nella libreria wolfSSL consente l'uso di certificati contraffatti**  
-  Fonte: BleepingComputer, 13 Apr 2026, 19:56:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/>)
-
-- **La rimozione da parte dell'FBI del servizio di phishing W3LL porta all'arresto dello sviluppatore**  
-  Fonte: BleepingComputer, 13 Apr 2026, 18:55:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/>)
-
-- **OpenAI ruota i certificati macOS dopo che l'attacco Axios ha colpito il flusso di lavoro di firma del codice**  
-  Fonte: BleepingComputer, 13 Apr 2026, 17:39:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/>)
 
 - **Il malware JanelaRAT prende di mira le banche dell'America Latina con 14.739 attacchi in Brasile nel 2025**  
   Fonte: The Hacker News, 13 Apr 2026, 17:15:00 UTC  
@@ -230,37 +266,5 @@
   Fonte: The Hacker News, 09 Apr 2026, 10:40:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html>)
 
-- **Podcast di Smashing Security n. 462: LinkedIn ti sta spiando e tu non hai acconsentito a nulla**  
-  Fonte: Graham Cluley, 08 Apr 2026, 23:27:17 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-462/>)
 
-- **La nuova variante Chaos prende di mira le distribuzioni cloud configurate in modo errato e aggiunge il proxy SOCKS**  
-  Fonte: The Hacker News, 08 Apr 2026, 17:51:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html>)
-
-- **La botnet Masjesu emerge come servizio DDoS for Hire rivolto ai dispositivi IoT globali**  
-  Fonte: The Hacker News, 08 Apr 2026, 16:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html>)
-
-- **APT28 utilizza il malware PRISMEX nella campagna contro l'Ucraina e gli alleati della NATO**  
-  Fonte: The Hacker News, 08 Apr 2026, 13:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html>)
-
-- **Riduzione della superficie di attacco IAM attraverso le piattaforme di visibilità e intelligence delle identità (IVIP)**  
-  Fonte: The Hacker News, 08 Apr 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html>)
-
-- **Compromesso della catena di fornitura Python**  
-  Fonte: Schneier on Security, 08 Apr 2026, 10:25:53 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html>)
-
-- **Claude Mythos di Anthropic trova migliaia di difetti zero-day nei principali sistemi**  
-  Fonte: The Hacker News, 08 Apr 2026, 09:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html>)
-
-- **Gli hacker coreani del Nord hanno diffuso 1.700 pacchetti dannosi su npm, PyPI, Go e Rust**  
-  Fonte: The Hacker News, 08 Apr 2026, 07:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-15 07:18:54 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-16 07:20:14 UTC -->
