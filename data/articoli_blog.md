@@ -2,6 +2,98 @@
 
 ## Ultimi 7 giorni
 
+- **Un uomo ottiene 30 mesi per aver venduto migliaia di account DraftKings violati**  
+  Fonte: BleepingComputer, 17 Apr 2026, 07:10:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/>)
+
+- **Gli zero-day di Windows trapelati di recente ora sfruttati negli attacchi**  
+  Fonte: BleepingComputer, 17 Apr 2026, 06:14:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/>)
+
+- **L'operazione PowerOFF sequestra 53 domini DDoS ed espone 3 milioni di account criminali**  
+  Fonte: The Hacker News, 17 Apr 2026, 05:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html>)
+
+- **Apache ActiveMQ CVE-2026-34197 aggiunto a CISA KEV durante lo sfruttamento attivo**  
+  Fonte: The Hacker News, 17 Apr 2026, 03:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html>)
+
+- **Ecco cosa può fare l'IA Agentic con l'API Have I Been Pwned**  
+  Fonte: Troy Hunt, 16 Apr 2026, 23:09:24 UTC  
+  [Leggi](<https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/>)
+
+- **L'operazione PowerOFF identifica 75.000 utenti DDoS e rimuove 53 domini**  
+  Fonte: BleepingComputer, 16 Apr 2026, 22:26:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/>)
+
+- **Malware ZionSiphon progettato per sabotare i sistemi di trattamento dell'acqua**  
+  Fonte: BleepingComputer, 16 Apr 2026, 22:04:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/>)
+
+- **Il nuovo PoC zero-day di Microsoft Defender "RedSun" garantisce i privilegi di SISTEMA**  
+  Fonte: BleepingComputer, 16 Apr 2026, 20:19:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/>)
+
+- **La botnet PowMix appena scoperta colpisce i lavoratori cechi utilizzando traffico C2 randomizzato**  
+  Fonte: The Hacker News, 16 Apr 2026, 17:52:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html>)
+
+- **Gli hacker sfruttano la falla di Marimo per distribuire il malware NKAbuse di Hugging Face**  
+  Fonte: BleepingComputer, 16 Apr 2026, 16:58:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/>)
+
+- **Google espande l'uso dell'intelligenza artificiale di Gemini per combattere gli annunci dannosi sulla sua piattaforma**  
+  Fonte: BleepingComputer, 16 Apr 2026, 15:24:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/>)
+
+- **La nuova piattaforma di vishing ATHR utilizza agenti vocali AI per attacchi automatizzati**  
+  Fonte: BleepingComputer, 16 Apr 2026, 14:09:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/>)
+
+- **La maggior parte dei "SOC AI" sono semplicemente un triage più veloce.Non è abbastanza.**  
+  Fonte: BleepingComputer, 16 Apr 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/>)
+
+- **Bollettino del ThreatsDay: Defender 0-Day, SonicWall Brute-Force, Excel RCE di 17 anni e altre 15 storie**  
+  Fonte: The Hacker News, 16 Apr 2026, 13:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html>)
+
+- **Cisco afferma che il difetto critico dei servizi Webex richiede l'intervento del cliente**  
+  Fonte: BleepingComputer, 16 Apr 2026, 12:01:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/>)
+
+- **[Webinar] Trova ed elimina le identità non umane orfane nel tuo ambiente**  
+  Fonte: The Hacker News, 16 Apr 2026, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html>)
+
+- **Cisco applica patch a quattro servizi di identità critici e difetti Webex che abilitano l'esecuzione del codice**  
+  Fonte: The Hacker News, 16 Apr 2026, 11:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html>)
+
+- **La violazione dei dati presso il colosso edtech McGraw Hill colpisce 13,5 milioni di account**  
+  Fonte: BleepingComputer, 16 Apr 2026, 10:35:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/>)
+
+- **Passeggero nascosto?Come Taboola indirizza le sessioni bancarie registrate a Temu**  
+  Fonte: The Hacker News, 16 Apr 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html>)
+
+- **L'abuso del plugin Obsidian fornisce PHANTOMPULSE RAT in attacchi finanziari mirati e criptovalute**  
+  Fonte: The Hacker News, 16 Apr 2026, 10:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html>)
+
+- **Fiducia umana negli agenti IA**  
+  Fonte: Schneier on Security, 16 Apr 2026, 09:41:24 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html>)
+
+- **Cittadini statunitensi dietro la "laptop farm" di un lavoratore informatico della RPDC mandati in prigione**  
+  Fonte: BleepingComputer, 16 Apr 2026, 08:32:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/>)
+
+- **Microsoft: l'installazione dell'aggiornamento di aprile di Windows Server 2025 potrebbe non riuscire**  
+  Fonte: BleepingComputer, 16 Apr 2026, 07:37:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/>)
+
 - **UAC-0247 prende di mira le cliniche e il governo ucraini nella campagna malware contro il furto di dati**  
   Fonte: The Hacker News, 16 Apr 2026, 06:20:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html>)
@@ -18,29 +110,9 @@
   Fonte: BleepingComputer, 15 Apr 2026, 21:57:17 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/>)
 
-- **Suite di plugin WordPress violata per inviare malware a migliaia di siti**  
-  Fonte: BleepingComputer, 15 Apr 2026, 20:33:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/>)
-
-- **Software firmato utilizzato in modo improprio per distribuire script che distruggono l'antivirus**  
-  Fonte: BleepingComputer, 15 Apr 2026, 17:59:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/>)
-
 - **Webhook n8n abusati da ottobre 2025 per diffondere malware tramite e-mail di phishing**  
   Fonte: The Hacker News, 15 Apr 2026, 17:09:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html>)
-
-- **Microsoft paga 2,3 milioni di dollari per difetti nel cloud e nell'intelligenza artificiale durante Zero Day Quest**  
-  Fonte: BleepingComputer, 15 Apr 2026, 16:20:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/>)
-
-- **CISA segnala la vulnerabilità di Windows Task Host come sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 15 Apr 2026, 14:51:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/>)
-
-- **Reti mobili: protezione del settore dei trasporti**  
-  Fonte: BleepingComputer, 15 Apr 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/>)
 
 - **Il difetto nginx-ui (CVE-2026-33032) sfruttato attivamente consente il takeover completo del server Nginx**  
   Fonte: The Hacker News, 15 Apr 2026, 12:56:00 UTC  
@@ -49,10 +121,6 @@
 - **Il Patch Tuesday di aprile risolve difetti critici su SAP, Adobe, Microsoft, Fortinet e altri**  
   Fonte: The Hacker News, 15 Apr 2026, 12:37:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html>)
-
-- **Microsoft: gli aggiornamenti di aprile attivano i prompt dei tasti BitLocker su alcuni server**  
-  Fonte: BleepingComputer, 15 Apr 2026, 11:41:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/>)
 
 - **IA deterministica + agentica: l'architettura richiesta per la convalida dell'esposizione**  
   Fonte: The Hacker News, 15 Apr 2026, 11:30:00 UTC  
@@ -66,10 +134,6 @@
   Fonte: Schneier on Security, 15 Apr 2026, 10:47:55 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/defense-in-depth-medieval-style.html>)
 
-- **Microsoft risolve il bug dietro gli aggiornamenti automatici di Windows Server 2025**  
-  Fonte: BleepingComputer, 15 Apr 2026, 10:24:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/>)
-
 - **Microsoft rilascia patch per SharePoint Zero-Day e altre 168 nuove vulnerabilità**  
   Fonte: The Hacker News, 15 Apr 2026, 08:40:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html>)
@@ -78,33 +142,9 @@
   Fonte: The Hacker News, 15 Apr 2026, 04:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html>)
 
-- **Microsoft aggiunge protezioni Windows per file dannosi di Desktop remoto**  
-  Fonte: BleepingComputer, 14 Apr 2026, 22:23:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/>)
-
-- **Lo scambio di criptovalute Kraken è stato estorto dagli hacker dopo una violazione interna**  
-  Fonte: BleepingComputer, 14 Apr 2026, 21:58:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/>)
-
 - **Patch Tuesday, edizione aprile 2026**  
   Fonte: Krebs on Security, 14 Apr 2026, 21:47:59 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/>)
-
-- **Oltre 100 estensioni del Chrome Web Store rubano account utente e dati**  
-  Fonte: BleepingComputer, 14 Apr 2026, 20:33:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/>)
-
-- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5082200 di Windows 10**  
-  Fonte: BleepingComputer, 14 Apr 2026, 18:09:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/>)
-
-- **McGraw-Hill conferma la violazione dei dati a seguito di minaccia di estorsione**  
-  Fonte: BleepingComputer, 14 Apr 2026, 18:07:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/>)
-
-- **Rilasciati gli aggiornamenti cumulativi di Windows 11 KB5083769 e KB5082052**  
-  Fonte: BleepingComputer, 14 Apr 2026, 17:46:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/>)
 
 - **Prossimi impegni di conferenza**  
   Fonte: Schneier on Security, 14 Apr 2026, 16:01:47 UTC  
@@ -234,37 +274,5 @@
   Fonte: The Hacker News, 10 Apr 2026, 07:37:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html>)
 
-- **Aggiornamento Smart Slider 3 Pro backdoor distribuito tramite server Nextend compromessi**  
-  Fonte: The Hacker News, 10 Apr 2026, 06:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html>)
 
-- **Il difetto dell'SDK di EngageLab ha esposto 50 milioni di utenti Android, incluse 30 milioni di installazioni di portafogli crittografici**  
-  Fonte: The Hacker News, 09 Apr 2026, 17:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html>)
-
-- **UAT-10362 prende di mira le ONG taiwanesi con il malware LucidRook nelle campagne di spear-phishing**  
-  Fonte: The Hacker News, 09 Apr 2026, 16:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html>)
-
-- **Bollettino del ThreatsDay: botnet P2P ibrida, Apache RCE di 13 anni e altre 18 storie**  
-  Fonte: The Hacker News, 09 Apr 2026, 12:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html>)
-
-- **I rischi nascosti per la sicurezza dell’intelligenza artificiale ombra nelle imprese**  
-  Fonte: The Hacker News, 09 Apr 2026, 11:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html>)
-
-- **Adobe Reader Zero-Day sfruttato tramite PDF dannosi da dicembre 2025**  
-  Fonte: The Hacker News, 09 Apr 2026, 11:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html>)
-
-- **Sulla pessima sicurezza nel cloud di Microsoft**  
-  Fonte: Schneier on Security, 09 Apr 2026, 10:51:36 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html>)
-
-- **La campagna di hack-for-hire dai legami aspri prende di mira i giornalisti nella regione MENA**  
-  Fonte: The Hacker News, 09 Apr 2026, 10:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-16 07:20:14 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-17 07:20:07 UTC -->
