@@ -2,6 +2,58 @@
 
 ## Ultimi 7 giorni
 
+- **Mirai Variant Nexcorium sfrutta CVE-2024-3721 per dirottare i DVR TBK per botnet DDoS**  
+  Fonte: The Hacker News, 18 Apr 2026, 06:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html>)
+
+- **Blog sui calamari del venerdì: nuovo video sui calamari giganti**  
+  Fonte: Schneier on Security, 17 Apr 2026, 21:05:07 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html>)
+
+- **Il ransomware Payouts King utilizza le macchine virtuali QEMU per aggirare la sicurezza degli endpoint**  
+  Fonte: BleepingComputer, 17 Apr 2026, 19:10:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/>)
+
+- **L'exchange Grinex accusa l'"intelligence occidentale" di un attacco informatico da 13,7 milioni di dollari**  
+  Fonte: BleepingComputer, 17 Apr 2026, 15:08:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/>)
+
+- **All'interno di una guida sotterranea: come gli attori della minaccia controllano i negozi di carte di credito rubate**  
+  Fonte: BleepingComputer, 17 Apr 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/>)
+
+- **Tre Microsoft Defender Zero-Day sfruttati attivamente;Due ancora senza patch**  
+  Fonte: The Hacker News, 17 Apr 2026, 13:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html>)
+
+- **Webinar: Dal phishing alle conseguenze — Perché gli MSP devono ripensare sia la sicurezza che il ripristino**  
+  Fonte: BleepingComputer, 17 Apr 2026, 12:20:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/>)
+
+- **Singer perde i risparmi di una vita a causa di un portafoglio falso scaricato dall'Apple App Store**  
+  Fonte: Graham Cluley, 17 Apr 2026, 11:36:58 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/singer-loses-life-savings-fake-wallet>)
+
+- **Miti e sicurezza informatica**  
+  Fonte: Schneier on Security, 17 Apr 2026, 11:02:37 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html>)
+
+- **Google blocca gli annunci pubblicitari che violano le norme 8.3B nel 2025 e lancia la revisione della privacy di Android 17**  
+  Fonte: The Hacker News, 17 Apr 2026, 10:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html>)
+
+- **CISA segnala la falla di Apache ActiveMQ come sfruttata attivamente negli attacchi**  
+  Fonte: BleepingComputer, 17 Apr 2026, 09:30:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/>)
+
+- **Microsoft: alcuni server Windows entrano in cicli di riavvio dopo le patch di aprile**  
+  Fonte: BleepingComputer, 17 Apr 2026, 07:59:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/>)
+
+- **Il NIST limita l'arricchimento CVE dopo un aumento del 263% delle segnalazioni di vulnerabilità**  
+  Fonte: The Hacker News, 17 Apr 2026, 07:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html>)
+
 - **Un uomo ottiene 30 mesi per aver venduto migliaia di account DraftKings violati**  
   Fonte: BleepingComputer, 17 Apr 2026, 07:10:32 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/>)
@@ -42,6 +94,10 @@
   Fonte: BleepingComputer, 16 Apr 2026, 16:58:06 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/>)
 
+- **A volte cambiare la password della tua casella di posta elettronica non è sufficiente**  
+  Fonte: Graham Cluley, 16 Apr 2026, 15:37:52 UTC  
+  [Leggi](<https://www.fortra.com/blog/sometimes-changing-password-your-email-mailbox-isnt-enough>)
+
 - **Google espande l'uso dell'intelligenza artificiale di Gemini per combattere gli annunci dannosi sulla sua piattaforma**  
   Fonte: BleepingComputer, 16 Apr 2026, 15:24:14 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/>)
@@ -58,10 +114,6 @@
   Fonte: The Hacker News, 16 Apr 2026, 13:05:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html>)
 
-- **Cisco afferma che il difetto critico dei servizi Webex richiede l'intervento del cliente**  
-  Fonte: BleepingComputer, 16 Apr 2026, 12:01:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/>)
-
 - **[Webinar] Trova ed elimina le identità non umane orfane nel tuo ambiente**  
   Fonte: The Hacker News, 16 Apr 2026, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html>)
@@ -69,14 +121,6 @@
 - **Cisco applica patch a quattro servizi di identità critici e difetti Webex che abilitano l'esecuzione del codice**  
   Fonte: The Hacker News, 16 Apr 2026, 11:27:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html>)
-
-- **La violazione dei dati presso il colosso edtech McGraw Hill colpisce 13,5 milioni di account**  
-  Fonte: BleepingComputer, 16 Apr 2026, 10:35:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/>)
-
-- **Passeggero nascosto?Come Taboola indirizza le sessioni bancarie registrate a Temu**  
-  Fonte: The Hacker News, 16 Apr 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html>)
 
 - **L'abuso del plugin Obsidian fornisce PHANTOMPULSE RAT in attacchi finanziari mirati e criptovalute**  
   Fonte: The Hacker News, 16 Apr 2026, 10:20:00 UTC  
@@ -86,14 +130,6 @@
   Fonte: Schneier on Security, 16 Apr 2026, 09:41:24 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html>)
 
-- **Cittadini statunitensi dietro la "laptop farm" di un lavoratore informatico della RPDC mandati in prigione**  
-  Fonte: BleepingComputer, 16 Apr 2026, 08:32:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/>)
-
-- **Microsoft: l'installazione dell'aggiornamento di aprile di Windows Server 2025 potrebbe non riuscire**  
-  Fonte: BleepingComputer, 16 Apr 2026, 07:37:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/>)
-
 - **UAC-0247 prende di mira le cliniche e il governo ucraini nella campagna malware contro il furto di dati**  
   Fonte: The Hacker News, 16 Apr 2026, 06:20:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html>)
@@ -101,14 +137,6 @@
 - **Podcast n. 463 di Smashing Security: questa società di intelligenza artificiale ha fatto trapelare il proprio codice.Ha anche costruito qualcosa di terrificante**  
   Fonte: Graham Cluley, 15 Apr 2026, 23:24:44 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-463/>)
-
-- **Difetto critico di bypass dell'autenticazione dell'interfaccia utente di Nginx ora sfruttato attivamente in natura**  
-  Fonte: BleepingComputer, 15 Apr 2026, 22:35:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/>)
-
-- **Nuovo malware AgingFly utilizzato negli attacchi al governo e agli ospedali ucraini**  
-  Fonte: BleepingComputer, 15 Apr 2026, 21:57:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/>)
 
 - **Webhook n8n abusati da ottobre 2025 per diffondere malware tramite e-mail di phishing**  
   Fonte: The Hacker News, 15 Apr 2026, 17:09:00 UTC  
@@ -242,37 +270,5 @@
   Fonte: The Hacker News, 12 Apr 2026, 04:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html>)
 
-- **Citizen Lab: le forze dell'ordine hanno utilizzato Webloc per tracciare 500 milioni di dispositivi tramite dati pubblicitari**  
-  Fonte: The Hacker News, 11 Apr 2026, 06:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html>)
 
-- **Blog sui calamari del venerdì: pesca eccessiva di calamari nel Pacifico meridionale**  
-  Fonte: Schneier on Security, 10 Apr 2026, 21:03:27 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html>)
-
-- **Le truffe legate all’intelligenza artificiale e alle criptovalute costano miliardi agli americani, riferisce l’FBI**  
-  Fonte: Graham Cluley, 10 Apr 2026, 15:36:41 UTC  
-  [Leggi](<https://www.fortra.com/blog/ai-and-cryptocurrency-scams-are-costing-americans-billions-fbi-reports>)
-
-- **La campagna GlassWorm utilizza Zig Dropper per infettare più IDE per sviluppatori**  
-  Fonte: The Hacker News, 10 Apr 2026, 13:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html>)
-
-- **Le estensioni del browser sono il nuovo canale di consumo dell'intelligenza artificiale di cui nessuno parla**  
-  Fonte: The Hacker News, 10 Apr 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html>)
-
-- **Il senatore Sanders parla con Claude di intelligenza artificiale e privacy**  
-  Fonte: Schneier on Security, 10 Apr 2026, 10:41:06 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html>)
-
-- **Google lancia DBSC in Chrome 146 per bloccare il furto di sessione su Windows**  
-  Fonte: The Hacker News, 10 Apr 2026, 07:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html>)
-
-- **Marimo RCE Flaw CVE-2026-39987 sfruttato entro 10 ore dalla divulgazione**  
-  Fonte: The Hacker News, 10 Apr 2026, 07:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-17 07:20:07 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-18 06:56:52 UTC -->
