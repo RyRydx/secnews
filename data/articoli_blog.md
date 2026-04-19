@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **Un difetto critico nella libreria Protobuf consente l'esecuzione di codice JavaScript**  
+  Fonte: BleepingComputer, 18 Apr 2026, 15:09:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/>)
+
+- **Incolla con il tasto destro del mouse di Microsoft Teams interrotto dal bug di aggiornamento di Edge**  
+  Fonte: BleepingComputer, 18 Apr 2026, 14:11:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/>)
+
+- **NAKIVO v11.2: Difesa ransomware, Replica più veloce, vSphere 9 e Supporto Proxmox VE 9.0**  
+  Fonte: BleepingComputer, 18 Apr 2026, 13:45:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/>)
+
+- **[Webinar] Elimina le identità fantasma prima che espongano i tuoi dati aziendali**  
+  Fonte: The Hacker News, 18 Apr 2026, 08:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html>)
+
+- **Un attacco informatico da 13,74 milioni di dollari chiude l'exchange Grinex sanzionato dopo affermazioni di intelligence**  
+  Fonte: The Hacker News, 18 Apr 2026, 07:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html>)
+
 - **Mirai Variant Nexcorium sfrutta CVE-2024-3721 per dirottare i DVR TBK per botnet DDoS**  
   Fonte: The Hacker News, 18 Apr 2026, 06:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html>)
@@ -98,25 +118,9 @@
   Fonte: Graham Cluley, 16 Apr 2026, 15:37:52 UTC  
   [Leggi](<https://www.fortra.com/blog/sometimes-changing-password-your-email-mailbox-isnt-enough>)
 
-- **Google espande l'uso dell'intelligenza artificiale di Gemini per combattere gli annunci dannosi sulla sua piattaforma**  
-  Fonte: BleepingComputer, 16 Apr 2026, 15:24:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/>)
-
-- **La nuova piattaforma di vishing ATHR utilizza agenti vocali AI per attacchi automatizzati**  
-  Fonte: BleepingComputer, 16 Apr 2026, 14:09:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/>)
-
-- **La maggior parte dei "SOC AI" sono semplicemente un triage più veloce.Non è abbastanza.**  
-  Fonte: BleepingComputer, 16 Apr 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/>)
-
 - **Bollettino del ThreatsDay: Defender 0-Day, SonicWall Brute-Force, Excel RCE di 17 anni e altre 15 storie**  
   Fonte: The Hacker News, 16 Apr 2026, 13:05:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html>)
-
-- **[Webinar] Trova ed elimina le identità non umane orfane nel tuo ambiente**  
-  Fonte: The Hacker News, 16 Apr 2026, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html>)
 
 - **Cisco applica patch a quattro servizi di identità critici e difetti Webex che abilitano l'esecuzione del codice**  
   Fonte: The Hacker News, 16 Apr 2026, 11:27:00 UTC  
@@ -178,7 +182,7 @@
   Fonte: Schneier on Security, 14 Apr 2026, 16:01:47 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html>)
 
-- **I nuovi difetti del compositore PHP consentono l'esecuzione di comandi arbitrari: rilasciate le patch**  
+- **Nuovi difetti del compositore PHP consentono l'esecuzione di comandi arbitrari: rilasciate le patch**  
   Fonte: The Hacker News, 14 Apr 2026, 15:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html>)
 
@@ -262,13 +266,5 @@
   Fonte: The Hacker News, 13 Apr 2026, 06:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html>)
 
-- **Violazione CPUID Distribuisce STX RAT tramite download di CPU-Z e HWMonitor con trojan**  
-  Fonte: The Hacker News, 12 Apr 2026, 05:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html>)
 
-- **Adobe Patches sfrutta attivamente il difetto di Acrobat Reader CVE-2026-34621**  
-  Fonte: The Hacker News, 12 Apr 2026, 04:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-18 06:56:52 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-19 07:07:44 UTC -->
