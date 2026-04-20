@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **La violazione di Vercel legata al contesto L'hacking dell'intelligenza artificiale espone le credenziali limitate dei clienti**  
+  Fonte: The Hacker News, 20 Apr 2026, 03:35:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html>)
+
+- **Vercel conferma la violazione poiché gli hacker affermano di vendere dati rubati**  
+  Fonte: BleepingComputer, 19 Apr 2026, 17:32:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/>)
+
+- **Avvisi di modifica dell'account Apple abusati per inviare e-mail di phishing**  
+  Fonte: BleepingComputer, 19 Apr 2026, 16:03:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/>)
+
+- **Il NIST interromperà la valutazione dei difetti non prioritari a causa dell'aumento del volume**  
+  Fonte: BleepingComputer, 19 Apr 2026, 14:17:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/>)
+
 - **Un difetto critico nella libreria Protobuf consente l'esecuzione di codice JavaScript**  
   Fonte: BleepingComputer, 18 Apr 2026, 15:09:44 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/>)
@@ -10,7 +26,7 @@
   Fonte: BleepingComputer, 18 Apr 2026, 14:11:21 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/>)
 
-- **NAKIVO v11.2: Difesa ransomware, Replica più veloce, vSphere 9 e Supporto Proxmox VE 9.0**  
+- **NAKIVO v11.2: Difesa ransomware, Replica più veloce, supporto vSphere 9 e Proxmox VE 9.0**  
   Fonte: BleepingComputer, 18 Apr 2026, 13:45:54 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/>)
 
@@ -30,7 +46,7 @@
   Fonte: Schneier on Security, 17 Apr 2026, 21:05:07 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html>)
 
-- **Il ransomware Payouts King utilizza le macchine virtuali QEMU per aggirare la sicurezza degli endpoint**  
+- **Il ransomware Payouts King utilizza le VM QEMU per aggirare la sicurezza degli endpoint**  
   Fonte: BleepingComputer, 17 Apr 2026, 19:10:19 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/>)
 
@@ -98,21 +114,9 @@
   Fonte: BleepingComputer, 16 Apr 2026, 22:26:34 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/>)
 
-- **Malware ZionSiphon progettato per sabotare i sistemi di trattamento dell'acqua**  
-  Fonte: BleepingComputer, 16 Apr 2026, 22:04:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/>)
-
-- **Il nuovo PoC zero-day di Microsoft Defender "RedSun" garantisce i privilegi di SISTEMA**  
-  Fonte: BleepingComputer, 16 Apr 2026, 20:19:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/>)
-
 - **La botnet PowMix appena scoperta colpisce i lavoratori cechi utilizzando traffico C2 randomizzato**  
   Fonte: The Hacker News, 16 Apr 2026, 17:52:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html>)
-
-- **Gli hacker sfruttano la falla di Marimo per distribuire il malware NKAbuse di Hugging Face**  
-  Fonte: BleepingComputer, 16 Apr 2026, 16:58:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/>)
 
 - **A volte cambiare la password della tua casella di posta elettronica non è sufficiente**  
   Fonte: Graham Cluley, 16 Apr 2026, 15:37:52 UTC  
@@ -154,7 +158,7 @@
   Fonte: The Hacker News, 15 Apr 2026, 12:37:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html>)
 
-- **IA deterministica + agentica: l'architettura richiesta per la convalida dell'esposizione**  
+- **IA deterministica + agentica: i requisiti per la convalida dell'esposizione dell'architettura**  
   Fonte: The Hacker News, 15 Apr 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html>)
 
@@ -166,7 +170,7 @@
   Fonte: Schneier on Security, 15 Apr 2026, 10:47:55 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/defense-in-depth-medieval-style.html>)
 
-- **Microsoft rilascia patch per SharePoint Zero-Day e altre 168 nuove vulnerabilità**  
+- **Microsoft rilascia patch per SharePoint Zero-Day e 168 altre nuove vulnerabilità**  
   Fonte: The Hacker News, 15 Apr 2026, 08:40:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html>)
 
@@ -182,7 +186,7 @@
   Fonte: Schneier on Security, 14 Apr 2026, 16:01:47 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html>)
 
-- **Nuovi difetti del compositore PHP consentono l'esecuzione di comandi arbitrari: rilasciate le patch**  
+- **I nuovi difetti del compositore PHP consentono l'esecuzione di comandi arbitrari: rilasciate le patch**  
   Fonte: The Hacker News, 14 Apr 2026, 15:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html>)
 
@@ -262,9 +266,5 @@
   Fonte: The Hacker News, 13 Apr 2026, 09:15:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html>)
 
-- **OpenAI revoca il certificato dell'app macOS dopo un incidente dannoso nella catena di fornitura di Axios**  
-  Fonte: The Hacker News, 13 Apr 2026, 06:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-04-19 07:07:44 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-20 07:52:10 UTC -->
