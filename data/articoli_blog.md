@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Oltre 1.300 server Microsoft SharePoint vulnerabili agli attacchi di spoofing**  
+  Fonte: BleepingComputer, 22 Apr 2026, 06:53:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/>)
+
+- **Aggiornamento settimanale 500**  
+  Fonte: Troy Hunt, 21 Apr 2026, 23:51:44 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-500/>)
+
+- **L'agenzia governativa francese conferma la violazione mentre l'hacker si offre di vendere dati**  
+  Fonte: BleepingComputer, 21 Apr 2026, 21:46:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/>)
+
+- **Nuovo data wiper Lotus utilizzato contro le aziende venezuelane del settore energetico e dei servizi pubblici**  
+  Fonte: BleepingComputer, 21 Apr 2026, 18:38:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/>)
+
+- **Il server SystemBC C2 rivela oltre 1.570 vittime nell'operazione Gentlemen Ransomware**  
+  Fonte: The Hacker News, 21 Apr 2026, 18:18:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html>)
+
+- **22 BRIDGE:BREAK I difetti mettono a nudo migliaia di convertitori seriale-IP Lantronix e Silex**  
+  Fonte: The Hacker News, 21 Apr 2026, 15:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html>)
+
+- **Il membro di "Scattered Spider" "Tylerb" si dichiara colpevole**  
+  Fonte: Krebs on Security, 21 Apr 2026, 14:53:59 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/>)
+
+- **Il negoziatore di ransomware si dichiara colpevole di aver aiutato gli attacchi BlackCat nel 2023**  
+  Fonte: The Hacker News, 21 Apr 2026, 14:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html>)
+
+- **Bloccare le frodi in ogni fase del percorso del cliente senza aggiungere attriti**  
+  Fonte: BleepingComputer, 21 Apr 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/>)
+
+- **Il Regno Unito indaga su Telegram, sito di chat per adolescenti, per preoccupazioni relative alla condivisione di contenuti CSAM**  
+  Fonte: BleepingComputer, 21 Apr 2026, 13:49:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/>)
+
+- **5 luoghi in cui i SOC maturi mantengono l'MTTR veloce e altri perdono tempo**  
+  Fonte: The Hacker News, 21 Apr 2026, 13:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html>)
+
+- **La campagna NGate prende di mira il Brasile e trojan HandyPay per rubare dati NFC e PIN**  
+  Fonte: The Hacker News, 21 Apr 2026, 12:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html>)
+
+- **CISA segnala la nuova falla SD-WAN come sfruttata attivamente negli attacchi**  
+  Fonte: BleepingComputer, 21 Apr 2026, 12:30:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/>)
+
+- **Nessun exploit necessario: come gli aggressori varcano la porta principale tramite attacchi basati sull'identità**  
+  Fonte: The Hacker News, 21 Apr 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html>)
+
+- **La falla Apache ActiveMQ sfruttata attivamente colpisce 6.400 server**  
+  Fonte: BleepingComputer, 21 Apr 2026, 11:17:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/>)
+
+- **Compagnia di sorveglianza messicana**  
+  Fonte: Schneier on Security, 21 Apr 2026, 11:04:59 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html>)
+
+- **Google corregge il difetto dell'IDE Antigravity che abilita l'esecuzione del codice di prompt injection**  
+  Fonte: The Hacker News, 21 Apr 2026, 10:22:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html>)
+
+- **L'ex negoziatore di ransomware si dichiara colpevole degli attacchi BlackCat**  
+  Fonte: BleepingComputer, 21 Apr 2026, 10:12:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/>)
+
+- **Il malware Android NGate utilizza l'app HandyPay NFC per rubare i dati delle carte**  
+  Fonte: BleepingComputer, 21 Apr 2026, 09:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/>)
+
 - **La CISA aggiunge 8 difetti sfruttati al KEV e fissa le scadenze federali di aprile-maggio 2026**  
   Fonte: The Hacker News, 21 Apr 2026, 06:23:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html>)
@@ -34,17 +110,9 @@
   Fonte: BleepingComputer, 20 Apr 2026, 14:01:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/>)
 
-- **⚡ Riepilogo settimanale: hack di Vercel, frode push, abuso di QEMU, emersione di nuovi RAT Android e altro**  
+- **⚡ Riepilogo settimanale: attacchi hacker a Vercel, frodi push, abuso di QEMU, emersione di nuovi RAT Android e altro**  
   Fonte: The Hacker News, 20 Apr 2026, 13:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html>)
-
-- **L'hacker britannico Scattered Spider si dichiara colpevole di furto di criptovalute**  
-  Fonte: BleepingComputer, 20 Apr 2026, 13:33:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/>)
-
-- **Microsoft testa la velocità di Windows Explorer e i miglioramenti delle prestazioni**  
-  Fonte: BleepingComputer, 20 Apr 2026, 12:04:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/>)
 
 - **Perché la maggior parte delle distribuzioni di intelligenza artificiale si bloccano dopo la demo**  
   Fonte: The Hacker News, 20 Apr 2026, 11:30:00 UTC  
@@ -58,14 +126,6 @@
   Fonte: The Hacker News, 20 Apr 2026, 10:42:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html>)
 
-- **Microsoft ritira l'aggiornamento del servizio causando errori di avvio di Teams**  
-  Fonte: BleepingComputer, 20 Apr 2026, 09:40:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/>)
-
-- **Microsoft rilascia aggiornamenti di emergenza per risolvere i problemi di Windows Server**  
-  Fonte: BleepingComputer, 20 Apr 2026, 08:30:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/>)
-
 - **I ricercatori rilevano il malware ZionSiphon che prende di mira i sistemi OT di desalinizzazione e acqua israeliani**  
   Fonte: The Hacker News, 20 Apr 2026, 07:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html>)
@@ -73,26 +133,6 @@
 - **La violazione di Vercel legata al contesto L'hacking dell'intelligenza artificiale espone le credenziali limitate dei clienti**  
   Fonte: The Hacker News, 20 Apr 2026, 03:35:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html>)
-
-- **Vercel conferma la violazione poiché gli hacker affermano di vendere dati rubati**  
-  Fonte: BleepingComputer, 19 Apr 2026, 17:32:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/>)
-
-- **Avvisi di modifica dell'account Apple abusati per inviare e-mail di phishing**  
-  Fonte: BleepingComputer, 19 Apr 2026, 16:03:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/>)
-
-- **Il NIST interromperà la valutazione dei difetti non prioritari a causa dell'aumento del volume**  
-  Fonte: BleepingComputer, 19 Apr 2026, 14:17:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/>)
-
-- **Un difetto critico nella libreria Protobuf consente l'esecuzione di codice JavaScript**  
-  Fonte: BleepingComputer, 18 Apr 2026, 15:09:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/>)
-
-- **Incolla con il tasto destro del mouse di Microsoft Teams interrotto dal bug di aggiornamento di Edge**  
-  Fonte: BleepingComputer, 18 Apr 2026, 14:11:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/>)
 
 - **[Webinar] Elimina le identità fantasma prima che espongano i tuoi dati aziendali**  
   Fonte: The Hacker News, 18 Apr 2026, 08:07:00 UTC  
@@ -186,7 +226,7 @@
   Fonte: The Hacker News, 15 Apr 2026, 12:37:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html>)
 
-- **IA deterministica + agentica: l'architettura richiesta per la convalida dell'esposizione**  
+- **IA deterministica + agentica: i requisiti per la convalida dell'esposizione dell'architettura**  
   Fonte: The Hacker News, 15 Apr 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html>)
 
@@ -202,57 +242,5 @@
   Fonte: The Hacker News, 15 Apr 2026, 08:40:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html>)
 
-- **OpenAI lancia GPT-5.4-Cyber ​​con accesso esteso per i team di sicurezza**  
-  Fonte: The Hacker News, 15 Apr 2026, 04:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html>)
 
-- **Patch Tuesday, edizione aprile 2026**  
-  Fonte: Krebs on Security, 14 Apr 2026, 21:47:59 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/>)
-
-- **Prossimi impegni di conferenza**  
-  Fonte: Schneier on Security, 14 Apr 2026, 16:01:47 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html>)
-
-- **I nuovi difetti del compositore PHP consentono l'esecuzione di comandi arbitrari: rilasciate le patch**  
-  Fonte: The Hacker News, 14 Apr 2026, 15:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html>)
-
-- **Google aggiunge un parser DNS basato su Rust nel modem Pixel 10 per migliorare la sicurezza**  
-  Fonte: The Hacker News, 14 Apr 2026, 14:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html>)
-
-- **La truffa Pushpaganda basata sull'intelligenza artificiale sfrutta Google Discover per diffondere scareware e frodi pubblicitarie**  
-  Fonte: The Hacker News, 14 Apr 2026, 14:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html>)
-
-- **Protezione delle identità non umane: revoca automatizzata, OAuth e autorizzazioni con ambito**  
-  Fonte: Cloudflare Blog - Security, 14 Apr 2026, 13:00:10 UTC  
-  [Leggi](<https://blog.cloudflare.com/improved-developer-security/>)
-
-- **Adozione scalabile di MCP: la nostra architettura di riferimento per implementazioni aziendali più semplici, sicure ed economiche di MCP**  
-  Fonte: Cloudflare Blog - Security, 14 Apr 2026, 13:00:10 UTC  
-  [Leggi](<https://blog.cloudflare.com/enterprise-mcp/>)
-
-- **OAuth gestito per l'accesso: rendi le app interne pronte per l'agente in un clic**  
-  Fonte: Cloudflare Blog - Security, 14 Apr 2026, 13:00:10 UTC  
-  [Leggi](<https://blog.cloudflare.com/managed-oauth-for-access/>)
-
-- **Come gli hacker pensano all'intelligenza artificiale**  
-  Fonte: Schneier on Security, 14 Apr 2026, 10:49:50 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html>)
-
-- **Mirax Android RAT trasforma i dispositivi in ​​proxy SOCKS5, raggiungendo 220.000 tramite Meta Ads**  
-  Fonte: The Hacker News, 14 Apr 2026, 10:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html>)
-
-- **L'analisi di 216 milioni di risultati sulla sicurezza mostra un aumento di 4 volte del rischio critico (rapporto 2026)**  
-  Fonte: The Hacker News, 14 Apr 2026, 10:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html>)
-
-- **108 estensioni dannose di Chrome rubano dati di Google e Telegram, colpendo 20.000 utenti**  
-  Fonte: The Hacker News, 14 Apr 2026, 08:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-21 07:23:04 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-22 07:20:32 UTC -->
