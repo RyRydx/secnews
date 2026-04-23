@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **Podcast Smashing Security n. 464: Rockstar è stata hackerata.I dati erano spazzatura.I segreti che rivelava non lo erano**  
+  Fonte: Graham Cluley, 22 Apr 2026, 22:20:26 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-464-rockstar-got-hacked-the-data-was-junk-the-secrets-it-revealed-were-not/>)
+
+- **Apple risolve un bug che consente all'FBI di recuperare i messaggi Signal cancellati**  
+  Fonte: BleepingComputer, 22 Apr 2026, 20:58:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/>)
+
+- **La nuova campagna Mirai sfrutta il difetto RCE nei router EoL D-Link**  
+  Fonte: BleepingComputer, 22 Apr 2026, 20:04:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/>)
+
+- **Una banda di ransomware Kyber gioca con la crittografia post-quantistica su Windows**  
+  Fonte: BleepingComputer, 22 Apr 2026, 18:52:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/>)
+
+- **Immagini Docker KICS dannose ed estensioni VS Code colpiscono la catena di fornitura di Checkmarx**  
+  Fonte: The Hacker News, 22 Apr 2026, 17:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html>)
+
+- **Un worm autopropagante della supply chain dirotta i pacchetti npm per rubare i token degli sviluppatori**  
+  Fonte: The Hacker News, 22 Apr 2026, 17:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html>)
+
+- **Harvester distribuisce la backdoor Linux GoGra nell'Asia meridionale utilizzando l'API Microsoft Graph**  
+  Fonte: The Hacker News, 22 Apr 2026, 15:28:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html>)
+
+- **La Spagna smantella un'importante piattaforma di pirateria manga da 4,7 milioni di dollari e ne arresta quattro**  
+  Fonte: BleepingComputer, 22 Apr 2026, 15:06:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/>)
+
+- **Frode interna Caller-as-a-Service: l'economia della truffa ha un processo di assunzione**  
+  Fonte: BleepingComputer, 22 Apr 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/>)
+
+- **Il nuovo attacco npm alla catena di fornitura si diffonde automaticamente per rubare token di autenticazione**  
+  Fonte: BleepingComputer, 22 Apr 2026, 12:57:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/>)
+
+- **Microsoft Teams per ottenere la modalità efficienza su PC con risorse limitate**  
+  Fonte: BleepingComputer, 22 Apr 2026, 12:24:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/>)
+
+- **ICE utilizza spyware di grafite**  
+  Fonte: Schneier on Security, 22 Apr 2026, 11:02:25 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html>)
+
+- **Il malware Lotus Wiper prende di mira i sistemi energetici venezuelani con un attacco distruttivo**  
+  Fonte: The Hacker News, 22 Apr 2026, 10:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html>)
+
+- **Combinazioni tossiche: quando le autorizzazioni tra app costituiscono un rischio**  
+  Fonte: The Hacker News, 22 Apr 2026, 10:41:36 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html>)
+
+- **Microsoft riconduce i problemi di Universal Print alla modifica del codice API Graph**  
+  Fonte: BleepingComputer, 22 Apr 2026, 10:15:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/>)
+
+- **Il nuovo malware GoGra per Linux utilizza l'API Microsoft Graph per le comunicazioni**  
+  Fonte: BleepingComputer, 22 Apr 2026, 10:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/>)
+
+- **Microsoft corregge il bug critico di escalation dei privilegi ASP.NET Core CVE-2026-40372**  
+  Fonte: The Hacker News, 22 Apr 2026, 09:29:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html>)
+
+- **Microsoft rilascia patch di emergenza per un difetto critico di ASP.NET**  
+  Fonte: BleepingComputer, 22 Apr 2026, 08:08:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/>)
+
+- **La nuova variante LOTUSLITE di Mustang Panda prende di mira le banche indiane e gli ambienti politici della Corea del Sud**  
+  Fonte: The Hacker News, 22 Apr 2026, 07:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html>)
+
+- **Il difetto del sandbox Cohere AI Terrarium consente l'esecuzione del codice root e la fuga del container**  
+  Fonte: The Hacker News, 22 Apr 2026, 07:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html>)
+
 - **Oltre 1.300 server Microsoft SharePoint vulnerabili agli attacchi di spoofing**  
   Fonte: BleepingComputer, 22 Apr 2026, 06:53:02 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/>)
@@ -50,17 +130,9 @@
   Fonte: The Hacker News, 21 Apr 2026, 12:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html>)
 
-- **CISA segnala la nuova falla SD-WAN come sfruttata attivamente negli attacchi**  
-  Fonte: BleepingComputer, 21 Apr 2026, 12:30:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/>)
-
 - **Nessun exploit necessario: come gli aggressori varcano la porta principale tramite attacchi basati sull'identità**  
   Fonte: The Hacker News, 21 Apr 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html>)
-
-- **La falla Apache ActiveMQ sfruttata attivamente colpisce 6.400 server**  
-  Fonte: BleepingComputer, 21 Apr 2026, 11:17:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/>)
 
 - **Compagnia di sorveglianza messicana**  
   Fonte: Schneier on Security, 21 Apr 2026, 11:04:59 UTC  
@@ -70,47 +142,15 @@
   Fonte: The Hacker News, 21 Apr 2026, 10:22:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html>)
 
-- **L'ex negoziatore di ransomware si dichiara colpevole degli attacchi BlackCat**  
-  Fonte: BleepingComputer, 21 Apr 2026, 10:12:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/>)
-
-- **Il malware Android NGate utilizza l'app HandyPay NFC per rubare i dati delle carte**  
-  Fonte: BleepingComputer, 21 Apr 2026, 09:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/>)
-
 - **La CISA aggiunge 8 difetti sfruttati al KEV e fissa le scadenze federali di aprile-maggio 2026**  
   Fonte: The Hacker News, 21 Apr 2026, 06:23:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html>)
-
-- **KelpDAO subisce una rapina da 290 milioni di dollari legata agli hacker di Lazarus**  
-  Fonte: BleepingComputer, 20 Apr 2026, 22:23:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/>)
-
-- **L'Apple App Store cinese è stato infiltrato da app wallet che rubano criptovalute**  
-  Fonte: BleepingComputer, 20 Apr 2026, 21:52:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/>)
-
-- **Il ransomware Gentlemen ora utilizza SystemBC per attacchi basati su bot**  
-  Fonte: BleepingComputer, 20 Apr 2026, 20:02:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/>)
-
-- **Il sito web di Seiko USA è stato deturpato poiché un hacker denuncia il furto dei dati dei clienti**  
-  Fonte: BleepingComputer, 20 Apr 2026, 18:22:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/>)
 
 - **SGLang CVE-2026-5760 (CVSS 9.8) abilita RCE tramite file modello GGUF dannosi**  
   Fonte: The Hacker News, 20 Apr 2026, 17:14:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html>)
 
-- **Microsoft: sempre più team vengono sfruttati in attacchi di impersonificazione all'helpdesk**  
-  Fonte: BleepingComputer, 20 Apr 2026, 15:11:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/>)
-
-- **Il mito del backup che sta mettendo a rischio le aziende**  
-  Fonte: BleepingComputer, 20 Apr 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/>)
-
-- **⚡ Riepilogo settimanale: attacchi hacker a Vercel, frodi push, abuso di QEMU, emersione di nuovi RAT Android e altro**  
+- **⚡ Riepilogo settimanale: hack di Vercel, frode push, abuso di QEMU, emersione di nuovi RAT Android e altro**  
   Fonte: The Hacker News, 20 Apr 2026, 13:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html>)
 
@@ -206,41 +246,5 @@
   Fonte: Schneier on Security, 16 Apr 2026, 09:41:24 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html>)
 
-- **UAC-0247 prende di mira le cliniche e il governo ucraini nella campagna malware contro il furto di dati**  
-  Fonte: The Hacker News, 16 Apr 2026, 06:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html>)
 
-- **Podcast n. 463 di Smashing Security: questa società di intelligenza artificiale ha fatto trapelare il proprio codice.Ha anche costruito qualcosa di terrificante**  
-  Fonte: Graham Cluley, 15 Apr 2026, 23:24:44 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-463/>)
-
-- **Webhook n8n abusati da ottobre 2025 per diffondere malware tramite e-mail di phishing**  
-  Fonte: The Hacker News, 15 Apr 2026, 17:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html>)
-
-- **Il difetto nginx-ui (CVE-2026-33032) sfruttato attivamente consente il takeover completo del server Nginx**  
-  Fonte: The Hacker News, 15 Apr 2026, 12:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html>)
-
-- **Il Patch Tuesday di aprile risolve difetti critici su SAP, Adobe, Microsoft, Fortinet e altri**  
-  Fonte: The Hacker News, 15 Apr 2026, 12:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html>)
-
-- **IA deterministica + agentica: i requisiti per la convalida dell'esposizione dell'architettura**  
-  Fonte: The Hacker News, 15 Apr 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html>)
-
-- **108 estensioni Chrome dannose sorprese a rubare dati di Google e Telegram da 20.000 utenti**  
-  Fonte: Graham Cluley, 15 Apr 2026, 11:05:56 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-chrome-extensions-steal-google-telegram-data>)
-
-- **Difesa in profondità, stile medievale**  
-  Fonte: Schneier on Security, 15 Apr 2026, 10:47:55 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/defense-in-depth-medieval-style.html>)
-
-- **Microsoft rilascia patch per SharePoint Zero-Day e 168 altre nuove vulnerabilità**  
-  Fonte: The Hacker News, 15 Apr 2026, 08:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-22 07:20:32 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-23 07:23:30 UTC -->
