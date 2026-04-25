@@ -2,11 +2,83 @@
 
 ## Ultimi 7 giorni
 
+- **La CISA aggiunge 4 difetti sfruttati al KEV e fissa la scadenza federale a maggio 2026**  
+  Fonte: The Hacker News, 25 Apr 2026, 05:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html>)
+
+- **ADT conferma la violazione dei dati dopo la minaccia di fuga di ShinyHunters**  
+  Fonte: BleepingComputer, 24 Apr 2026, 22:53:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/>)
+
+- **Blog di Friday Squid: come Squid è sopravvissuto agli eventi di estinzione**  
+  Fonte: Schneier on Security, 24 Apr 2026, 21:03:23 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html>)
+
+- **Il malware Firestarter sopravvive agli aggiornamenti del firewall Cisco e alle patch di sicurezza**  
+  Fonte: BleepingComputer, 24 Apr 2026, 20:34:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/>)
+
+- **Windows Update ottiene nuovi controlli per ridurre i riavvii forzati**  
+  Fonte: BleepingComputer, 24 Apr 2026, 20:08:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/>)
+
+- **Nuovo gruppo di estorsione BlackFile collegato a un'ondata di attacchi vishing**  
+  Fonte: BleepingComputer, 24 Apr 2026, 18:26:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/>)
+
+- **Microsoft rilascerà le passkey Entra su Windows a fine aprile**  
+  Fonte: BleepingComputer, 24 Apr 2026, 18:13:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/>)
+
+- **La nuova falla "Pack2TheRoot" fornisce agli hacker l'accesso root su Linux**  
+  Fonte: BleepingComputer, 24 Apr 2026, 17:28:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/>)
+
+- **FIRESTARTER La backdoor ha colpito il dispositivo federale Cisco Firepower, sopravvive alle patch di sicurezza**  
+  Fonte: The Hacker News, 24 Apr 2026, 17:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html>)
+
+- **Dipendenti della NASA ingannati in un programma di phishing cinese contro il software di difesa statunitense**  
+  Fonte: The Hacker News, 24 Apr 2026, 14:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html>)
+
+- **DORA e resilienza operativa: gestione delle credenziali come controllo del rischio finanziario**  
+  Fonte: BleepingComputer, 24 Apr 2026, 14:10:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/>)
+
+- **Oltre 10.000 server Zimbra vulnerabili agli attacchi XSS in corso**  
+  Fonte: BleepingComputer, 24 Apr 2026, 13:35:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/>)
+
+- **Colmare il divario di autorità dell'agente AI: osservabilità continua come motore decisionale**  
+  Fonte: The Hacker News, 24 Apr 2026, 11:49:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html>)
+
+- **26 app FakeWallet trovate sull'App Store di Apple che prendono di mira le frasi dei semi di criptovaluta**  
+  Fonte: The Hacker News, 24 Apr 2026, 11:48:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html>)
+
+- **Microsoft ora consente agli amministratori di disinstallare Copilot sui dispositivi aziendali**  
+  Fonte: BleepingComputer, 24 Apr 2026, 11:38:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/>)
+
+- **Nascondere i tracker Bluetooth nella posta**  
+  Fonte: Schneier on Security, 24 Apr 2026, 11:01:03 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/hiding-bluetooth-trackers-in-mail.html>)
+
+- **Tropic Trooper utilizza SumatraPDF e GitHub con trojan per distribuire AdaptixC2**  
+  Fonte: The Hacker News, 24 Apr 2026, 09:29:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html>)
+
+- **Difetto LMDeploy CVE-2026-33626 sfruttato entro 13 ore dalla divulgazione**  
+  Fonte: The Hacker News, 24 Apr 2026, 07:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html>)
+
 - **Gli hacker sfruttano il bug di caricamento dei file nel plugin WordPress Breeze Cache**  
   Fonte: BleepingComputer, 23 Apr 2026, 21:33:45 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/>)
 
-- **Pacchetto npm CLI di Bitwarden compromesso per rubare le credenziali dello sviluppatore**  
+- **Pacchetto npm della CLI di Bitwarden compromesso per rubare le credenziali dello sviluppatore**  
   Fonte: BleepingComputer, 23 Apr 2026, 19:21:01 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/>)
 
@@ -14,7 +86,7 @@
   Fonte: BleepingComputer, 23 Apr 2026, 18:59:39 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/>)
 
-- **UNC6692 impersona l'helpdesk IT tramite Microsoft Teams per distribuire il malware SNOW**  
+- **UNC6692 impersona l'help desk IT tramite Microsoft Teams per distribuire il malware SNOW**  
   Fonte: The Hacker News, 23 Apr 2026, 18:16:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html>)
 
@@ -34,21 +106,9 @@
   Fonte: The Hacker News, 23 Apr 2026, 13:42:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html>)
 
-- **Microsoft: alcuni utenti di Teams non possono partecipare alle riunioni dopo l'aggiornamento di Edge**  
-  Fonte: BleepingComputer, 23 Apr 2026, 13:18:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/>)
-
-- **Bollettino del ThreatsDay: hack DeFi da 290 milioni di dollari, abuso di macOS LotL, fattorie SIM ProxySmart e 25 nuove storie**  
+- **Bollettino del ThreatsDay: hack DeFi da 290 milioni di dollari, abuso di macOS LotL, aziende SIM ProxySmart e 25 nuove storie**  
   Fonte: The Hacker News, 23 Apr 2026, 13:17:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html>)
-
-- **Il Regno Unito mette in guardia contro gli hacker cinesi che utilizzano reti proxy per eludere il rilevamento**  
-  Fonte: BleepingComputer, 23 Apr 2026, 12:28:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/>)
-
-- **Il nuovo gruppo APT GopherWhisper abusa di Outlook, Slack e Discord per le comunicazioni**  
-  Fonte: BleepingComputer, 23 Apr 2026, 12:06:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/>)
 
 - **[Webinar] Mythos Reality Check: sconfiggere lo sfruttamento automatizzato alla velocità dell'intelligenza artificiale**  
   Fonte: The Hacker News, 23 Apr 2026, 12:03:00 UTC  
@@ -57,10 +117,6 @@
 - **Il progetto Glasswing ha dimostrato che l'intelligenza artificiale può trovare i bug.Chi li risolverà?**  
   Fonte: The Hacker News, 23 Apr 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html>)
-
-- **La CISA ordina ai federali di correggere la falla BlueHammer sfruttata come zero-day**  
-  Fonte: BleepingComputer, 23 Apr 2026, 11:05:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/>)
 
 - **L'FBI estrae i messaggi di segnale cancellati dal database delle notifiche di iPhone**  
   Fonte: Schneier on Security, 23 Apr 2026, 11:05:42 UTC  
@@ -82,18 +138,6 @@
   Fonte: Graham Cluley, 22 Apr 2026, 22:20:26 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-464-rockstar-got-hacked-the-data-was-junk-the-secrets-it-revealed-were-not/>)
 
-- **Apple risolve un bug che consente all'FBI di recuperare i messaggi Signal cancellati**  
-  Fonte: BleepingComputer, 22 Apr 2026, 20:58:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/>)
-
-- **La nuova campagna Mirai sfrutta il difetto RCE nei router EoL D-Link**  
-  Fonte: BleepingComputer, 22 Apr 2026, 20:04:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/>)
-
-- **Una banda di ransomware Kyber gioca con la crittografia post-quantistica su Windows**  
-  Fonte: BleepingComputer, 22 Apr 2026, 18:52:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/>)
-
 - **Immagini Docker KICS dannose ed estensioni VS Code colpiscono la catena di fornitura di Checkmarx**  
   Fonte: The Hacker News, 22 Apr 2026, 17:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html>)
@@ -105,14 +149,6 @@
 - **Harvester distribuisce la backdoor Linux GoGra nell'Asia meridionale utilizzando l'API Microsoft Graph**  
   Fonte: The Hacker News, 22 Apr 2026, 15:28:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html>)
-
-- **La Spagna smantella un'importante piattaforma di pirateria manga da 4,7 milioni di dollari e ne arresta quattro**  
-  Fonte: BleepingComputer, 22 Apr 2026, 15:06:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/>)
-
-- **Frode interna Caller-as-a-Service: l'economia della truffa ha un processo di assunzione**  
-  Fonte: BleepingComputer, 22 Apr 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/>)
 
 - **ICE utilizza spyware di grafite**  
   Fonte: Schneier on Security, 22 Apr 2026, 11:02:25 UTC  
@@ -218,29 +254,5 @@
   Fonte: The Hacker News, 18 Apr 2026, 07:59:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html>)
 
-- **Mirai Variant Nexcorium sfrutta CVE-2024-3721 per dirottare i DVR TBK per botnet DDoS**  
-  Fonte: The Hacker News, 18 Apr 2026, 06:01:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html>)
 
-- **Blog sui calamari del venerdì: nuovo video sui calamari giganti**  
-  Fonte: Schneier on Security, 17 Apr 2026, 21:05:07 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html>)
-
-- **Tre Microsoft Defender Zero-Day sfruttati attivamente;Due ancora senza patch**  
-  Fonte: The Hacker News, 17 Apr 2026, 13:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html>)
-
-- **Singer perde i risparmi di una vita a causa di un portafoglio falso scaricato dall'Apple App Store**  
-  Fonte: Graham Cluley, 17 Apr 2026, 11:36:58 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/singer-loses-life-savings-fake-wallet>)
-
-- **Miti e sicurezza informatica**  
-  Fonte: Schneier on Security, 17 Apr 2026, 11:02:37 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html>)
-
-- **Google blocca gli annunci pubblicitari che violano le norme 8.3B nel 2025 e lancia la revisione della privacy di Android 17**  
-  Fonte: The Hacker News, 17 Apr 2026, 10:47:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-24 07:48:53 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-25 07:03:14 UTC -->
