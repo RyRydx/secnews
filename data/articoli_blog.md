@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft lancia il programma Windows Insider rinnovato**  
+  Fonte: BleepingComputer, 25 Apr 2026, 17:07:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/>)
+
+- **L'autore della minaccia utilizza Microsoft Teams per distribuire il nuovo malware "Snow".**  
+  Fonte: BleepingComputer, 25 Apr 2026, 15:07:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/>)
+
+- **I ricercatori scoprono il software di ingegneria per il targeting del malware pre-Stuxnet "fast16".**  
+  Fonte: The Hacker News, 25 Apr 2026, 09:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html>)
+
 - **La CISA aggiunge 4 difetti sfruttati al KEV e fissa la scadenza federale a maggio 2026**  
   Fonte: The Hacker News, 25 Apr 2026, 05:08:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html>)
@@ -78,7 +90,7 @@
   Fonte: BleepingComputer, 23 Apr 2026, 21:33:45 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/>)
 
-- **Pacchetto npm della CLI di Bitwarden compromesso per rubare le credenziali dello sviluppatore**  
+- **Pacchetto npm CLI di Bitwarden compromesso per rubare le credenziali dello sviluppatore**  
   Fonte: BleepingComputer, 23 Apr 2026, 19:21:01 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/>)
 
@@ -94,19 +106,11 @@
   Fonte: BleepingComputer, 23 Apr 2026, 16:05:12 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/>)
 
-- **Il gigante dei cosmetici Rituals rivela una violazione dei dati che colpisce i clienti**  
-  Fonte: BleepingComputer, 23 Apr 2026, 14:16:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/>)
-
-- **Le reimpostazioni periodiche delle password non sono così sicure come pensi**  
-  Fonte: BleepingComputer, 23 Apr 2026, 14:10:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/>)
-
 - **La CLI Bitwarden è stata compromessa nella campagna in corso sulla catena di fornitura Checkmarx**  
   Fonte: The Hacker News, 23 Apr 2026, 13:42:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html>)
 
-- **Bollettino del ThreatsDay: hack DeFi da 290 milioni di dollari, abuso di macOS LotL, aziende SIM ProxySmart e 25 nuove storie**  
+- **Bollettino del ThreatsDay: hack DeFi da 290 milioni di dollari, abuso di macOS LotL, fattorie SIM ProxySmart e 25 nuove storie**  
   Fonte: The Hacker News, 23 Apr 2026, 13:17:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html>)
 
@@ -166,7 +170,7 @@
   Fonte: The Hacker News, 22 Apr 2026, 09:29:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html>)
 
-- **La nuova variante LOTUSLITE di Mustang Panda prende di mira le banche indiane e gli ambienti politici della Corea del Sud**  
+- **La nuova variante LOTUSLITE della Mustang Panda prende di mira le banche indiane e gli ambienti politici della Corea del Sud**  
   Fonte: The Hacker News, 22 Apr 2026, 07:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html>)
 
@@ -222,7 +226,7 @@
   Fonte: The Hacker News, 20 Apr 2026, 17:14:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html>)
 
-- **⚡ Riepilogo settimanale: hack di Vercel, frode push, abuso di QEMU, emersione di nuovi RAT Android e altro**  
+- **⚡ Riepilogo settimanale: attacchi hacker a Vercel, frodi push, abuso di QEMU, emersione di nuovi RAT Android e altro**  
   Fonte: The Hacker News, 20 Apr 2026, 13:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html>)
 
@@ -246,13 +250,5 @@
   Fonte: The Hacker News, 20 Apr 2026, 03:35:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html>)
 
-- **[Webinar] Elimina le identità fantasma prima che espongano i tuoi dati aziendali**  
-  Fonte: The Hacker News, 18 Apr 2026, 08:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html>)
 
-- **Un attacco informatico da 13,74 milioni di dollari chiude l'exchange Grinex sanzionato dopo affermazioni di intelligence**  
-  Fonte: The Hacker News, 18 Apr 2026, 07:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-25 07:03:14 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-26 07:17:24 UTC -->
