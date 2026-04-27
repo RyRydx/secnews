@@ -2,6 +2,10 @@
 
 ## Ultimi 7 giorni
 
+- **La società di servizi americana Itron rivela una violazione della rete IT interna**  
+  Fonte: BleepingComputer, 26 Apr 2026, 14:22:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/>)
+
 - **Microsoft lancia il programma Windows Insider rinnovato**  
   Fonte: BleepingComputer, 25 Apr 2026, 17:07:13 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/>)
@@ -82,7 +86,7 @@
   Fonte: The Hacker News, 24 Apr 2026, 09:29:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html>)
 
-- **Difetto LMDeploy CVE-2026-33626 sfruttato entro 13 ore dalla divulgazione**  
+- **LMDeploy CVE-2026-33626 Difetto sfruttato entro 13 ore dalla divulgazione**  
   Fonte: The Hacker News, 24 Apr 2026, 07:24:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html>)
 
@@ -101,10 +105,6 @@
 - **UNC6692 impersona l'help desk IT tramite Microsoft Teams per distribuire il malware SNOW**  
   Fonte: The Hacker News, 23 Apr 2026, 18:16:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html>)
-
-- **La nuova violazione della catena di approvvigionamento di Checkmarx influisce sullo strumento di analisi KICS**  
-  Fonte: BleepingComputer, 23 Apr 2026, 16:05:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/>)
 
 - **La CLI Bitwarden è stata compromessa nella campagna in corso sulla catena di fornitura Checkmarx**  
   Fonte: The Hacker News, 23 Apr 2026, 13:42:00 UTC  
@@ -170,7 +170,7 @@
   Fonte: The Hacker News, 22 Apr 2026, 09:29:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html>)
 
-- **La nuova variante LOTUSLITE della Mustang Panda prende di mira le banche indiane e gli ambienti politici della Corea del Sud**  
+- **La nuova variante LOTUSLITE di Mustang Panda prende di mira le banche indiane e gli ambienti politici della Corea del Sud**  
   Fonte: The Hacker News, 22 Apr 2026, 07:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html>)
 
@@ -226,7 +226,7 @@
   Fonte: The Hacker News, 20 Apr 2026, 17:14:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html>)
 
-- **⚡ Riepilogo settimanale: attacchi hacker a Vercel, frodi push, abuso di QEMU, emersione di nuovi RAT Android e altro**  
+- **⚡ Riepilogo settimanale: hack di Vercel, frode push, abuso di QEMU, emersione di nuovi RAT Android e altro**  
   Fonte: The Hacker News, 20 Apr 2026, 13:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html>)
 
@@ -242,13 +242,5 @@
   Fonte: The Hacker News, 20 Apr 2026, 10:42:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html>)
 
-- **I ricercatori rilevano il malware ZionSiphon che prende di mira i sistemi OT di desalinizzazione e acqua israeliani**  
-  Fonte: The Hacker News, 20 Apr 2026, 07:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html>)
 
-- **La violazione di Vercel legata al contesto L'hacking dell'intelligenza artificiale espone le credenziali limitate dei clienti**  
-  Fonte: The Hacker News, 20 Apr 2026, 03:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-26 07:17:24 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-27 08:05:58 UTC -->
