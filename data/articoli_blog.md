@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft corregge il difetto del ruolo ID Entra che consentiva l'acquisizione dell'entità servizio**  
+  Fonte: The Hacker News, 28 Apr 2026, 06:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html>)
+
+- **Microsoft conferma lo sfruttamento attivo della shell Windows CVE-2026-32202**  
+  Fonte: The Hacker News, 28 Apr 2026, 05:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html>)
+
+- **Aggiornamento settimanale 501**  
+  Fonte: Troy Hunt, 28 Apr 2026, 05:01:42 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-501/>)
+
+- **Difetto di creazione dell'account Robinhood abusato per inviare e-mail di phishing**  
+  Fonte: BleepingComputer, 27 Apr 2026, 23:11:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/>)
+
+- **Gli attacchi malware GlassWorm ritornano tramite 73 estensioni "dormienti" OpenVSX**  
+  Fonte: BleepingComputer, 27 Apr 2026, 21:41:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/>)
+
+- **Il Canada ne arresta tre per aver utilizzato un dispositivo “SMS blaster” a Toronto**  
+  Fonte: BleepingComputer, 27 Apr 2026, 20:00:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/>)
+
+- **Presunto hacker Silk Typhoon estradato negli Stati Uniti per spionaggio informatico**  
+  Fonte: BleepingComputer, 27 Apr 2026, 19:56:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/>)
+
+- **FTC: gli americani hanno perso oltre 2,1 miliardi di dollari a causa delle truffe sui social media nel 2025**  
+  Fonte: BleepingComputer, 27 Apr 2026, 16:27:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/>)
+
+- **Pacchetto PyPI con 1,1 milioni di download mensili violato per spingere infostealer**  
+  Fonte: BleepingComputer, 27 Apr 2026, 15:17:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/>)
+
+- **La violazione dei dati del gigante della sicurezza domestica ADT colpisce 5,5 milioni di persone**  
+  Fonte: BleepingComputer, 27 Apr 2026, 14:43:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/>)
+
+- **Webinar: individuare gli attacchi informatici prima che inizino**  
+  Fonte: BleepingComputer, 27 Apr 2026, 14:25:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/>)
+
+- **Checkmarx conferma i dati del repository GitHub pubblicati sul Dark Web dopo l'attacco del 23 marzo**  
+  Fonte: The Hacker News, 27 Apr 2026, 14:19:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html>)
+
+- **Medtronic conferma la violazione dopo che gli hacker hanno denunciato il furto di 9 milioni di record**  
+  Fonte: BleepingComputer, 27 Apr 2026, 13:50:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/>)
+
+- **⚡ Riepilogo settimanale: malware Fast16, lancio di XChat, backdoor federale, monitoraggio dei dipendenti AI e altro**  
+  Fonte: The Hacker News, 27 Apr 2026, 13:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html>)
+
+- **Il riciclatore di denaro collegato a una rapina di criptovalute da 230 milioni di dollari viene condannato a 70 mesi di prigione**  
+  Fonte: BleepingComputer, 27 Apr 2026, 13:01:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/>)
+
+- **Gli attacchi vocali deepfake stanno superando le difese: cosa dovrebbero sapere i leader della sicurezza**  
+  Fonte: BleepingComputer, 27 Apr 2026, 13:00:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/>)
+
+- **Microsoft afferma che l'interruzione di Outlook.com sta causando errori di accesso**  
+  Fonte: BleepingComputer, 27 Apr 2026, 12:03:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/>)
+
+- **Mythos ha cambiato i conti sulla scoperta delle vulnerabilità.La maggior parte delle squadre non è pronta per la riparazione**  
+  Fonte: The Hacker News, 27 Apr 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html>)
+
+- **PhantomCore sfrutta le vulnerabilità di TrueConf per violare le reti russe**  
+  Fonte: The Hacker News, 27 Apr 2026, 11:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html>)
+
+- **I ricercatori scoprono 73 estensioni di codice VS false che distribuiscono malware GlassWorm v2**  
+  Fonte: The Hacker News, 27 Apr 2026, 11:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html>)
+
+- **Lettera crittografata medievale decodificata**  
+  Fonte: Schneier on Security, 27 Apr 2026, 11:04:41 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html>)
+
+- **La falsa truffa CAPTCHA IRSF e 120 campagne Keitaro guidano SMS globali e frodi crittografiche**  
+  Fonte: The Hacker News, 27 Apr 2026, 06:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html>)
+
 - **La società di servizi americana Itron rivela una violazione della rete IT interna**  
   Fonte: BleepingComputer, 26 Apr 2026, 14:22:34 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/>)
@@ -22,33 +110,9 @@
   Fonte: The Hacker News, 25 Apr 2026, 05:08:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html>)
 
-- **ADT conferma la violazione dei dati dopo la minaccia di fuga di ShinyHunters**  
-  Fonte: BleepingComputer, 24 Apr 2026, 22:53:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/>)
-
 - **Blog di Friday Squid: come Squid è sopravvissuto agli eventi di estinzione**  
   Fonte: Schneier on Security, 24 Apr 2026, 21:03:23 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html>)
-
-- **Il malware Firestarter sopravvive agli aggiornamenti del firewall Cisco e alle patch di sicurezza**  
-  Fonte: BleepingComputer, 24 Apr 2026, 20:34:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/>)
-
-- **Windows Update ottiene nuovi controlli per ridurre i riavvii forzati**  
-  Fonte: BleepingComputer, 24 Apr 2026, 20:08:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/>)
-
-- **Nuovo gruppo di estorsione BlackFile collegato a un'ondata di attacchi vishing**  
-  Fonte: BleepingComputer, 24 Apr 2026, 18:26:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/>)
-
-- **Microsoft rilascerà le passkey Entra su Windows a fine aprile**  
-  Fonte: BleepingComputer, 24 Apr 2026, 18:13:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/>)
-
-- **La nuova falla "Pack2TheRoot" fornisce agli hacker l'accesso root su Linux**  
-  Fonte: BleepingComputer, 24 Apr 2026, 17:28:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/>)
 
 - **FIRESTARTER La backdoor ha colpito il dispositivo federale Cisco Firepower, sopravvive alle patch di sicurezza**  
   Fonte: The Hacker News, 24 Apr 2026, 17:06:00 UTC  
@@ -58,14 +122,6 @@
   Fonte: The Hacker News, 24 Apr 2026, 14:13:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html>)
 
-- **DORA e resilienza operativa: gestione delle credenziali come controllo del rischio finanziario**  
-  Fonte: BleepingComputer, 24 Apr 2026, 14:10:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/>)
-
-- **Oltre 10.000 server Zimbra vulnerabili agli attacchi XSS in corso**  
-  Fonte: BleepingComputer, 24 Apr 2026, 13:35:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/>)
-
 - **Colmare il divario di autorità dell'agente AI: osservabilità continua come motore decisionale**  
   Fonte: The Hacker News, 24 Apr 2026, 11:49:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html>)
@@ -73,10 +129,6 @@
 - **26 app FakeWallet trovate sull'App Store di Apple che prendono di mira le frasi dei semi di criptovaluta**  
   Fonte: The Hacker News, 24 Apr 2026, 11:48:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html>)
-
-- **Microsoft ora consente agli amministratori di disinstallare Copilot sui dispositivi aziendali**  
-  Fonte: BleepingComputer, 24 Apr 2026, 11:38:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/>)
 
 - **Nascondere i tracker Bluetooth nella posta**  
   Fonte: Schneier on Security, 24 Apr 2026, 11:01:03 UTC  
@@ -86,21 +138,9 @@
   Fonte: The Hacker News, 24 Apr 2026, 09:29:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html>)
 
-- **LMDeploy CVE-2026-33626 Difetto sfruttato entro 13 ore dalla divulgazione**  
+- **Difetto LMDeploy CVE-2026-33626 sfruttato entro 13 ore dalla divulgazione**  
   Fonte: The Hacker News, 24 Apr 2026, 07:24:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html>)
-
-- **Gli hacker sfruttano il bug di caricamento dei file nel plugin WordPress Breeze Cache**  
-  Fonte: BleepingComputer, 23 Apr 2026, 21:33:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/>)
-
-- **Pacchetto npm CLI di Bitwarden compromesso per rubare le credenziali dello sviluppatore**  
-  Fonte: BleepingComputer, 23 Apr 2026, 19:21:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/>)
-
-- **Gli attacchi ransomware Trigona utilizzano uno strumento di esfiltrazione personalizzato per rubare dati**  
-  Fonte: BleepingComputer, 23 Apr 2026, 18:59:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/>)
 
 - **UNC6692 impersona l'help desk IT tramite Microsoft Teams per distribuire il malware SNOW**  
   Fonte: The Hacker News, 23 Apr 2026, 18:16:00 UTC  
@@ -218,29 +258,5 @@
   Fonte: The Hacker News, 21 Apr 2026, 10:22:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html>)
 
-- **La CISA aggiunge 8 difetti sfruttati al KEV e fissa le scadenze federali di aprile-maggio 2026**  
-  Fonte: The Hacker News, 21 Apr 2026, 06:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html>)
 
-- **SGLang CVE-2026-5760 (CVSS 9.8) abilita RCE tramite file modello GGUF dannosi**  
-  Fonte: The Hacker News, 20 Apr 2026, 17:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html>)
-
-- **⚡ Riepilogo settimanale: hack di Vercel, frode push, abuso di QEMU, emersione di nuovi RAT Android e altro**  
-  Fonte: The Hacker News, 20 Apr 2026, 13:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html>)
-
-- **Perché la maggior parte delle distribuzioni di intelligenza artificiale si bloccano dopo la demo**  
-  Fonte: The Hacker News, 20 Apr 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html>)
-
-- **"Satoshi Nakamoto" è davvero tornato Adam?**  
-  Fonte: Schneier on Security, 20 Apr 2026, 11:07:25 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/is-satoshi-nakamoto-really-adam-back.html>)
-
-- **La vulnerabilità nella progettazione di MCP antropici consente l'RCE, minacciando la catena di fornitura dell'intelligenza artificiale**  
-  Fonte: The Hacker News, 20 Apr 2026, 10:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-27 08:05:58 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-28 08:07:45 UTC -->
