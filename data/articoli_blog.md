@@ -2,6 +2,86 @@
 
 ## Ultimi 7 giorni
 
+- **Google corregge CVSS 10 Gemini CLI CI RCE e i difetti del cursore abilitano l'esecuzione del codice**  
+  Fonte: The Hacker News, 30 Apr 2026, 07:07:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html>)
+
+- **Podcast n. 465 di Smashing Security: questo sviluppatore voleva imbrogliare Roblox.È costato milioni**  
+  Fonte: Graham Cluley, 29 Apr 2026, 23:15:23 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-465/>)
+
+- **Pacchetti SAP npm ufficiali compromessi per rubare credenziali**  
+  Fonte: BleepingComputer, 29 Apr 2026, 22:43:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/>)
+
+- **Il popolare plugin di reindirizzamento di WordPress ha nascosto per anni una backdoor dormiente**  
+  Fonte: BleepingComputer, 29 Apr 2026, 22:13:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/>)
+
+- **Gli hacker sfruttano i difetti RCE nel task scheduler di Qinglong per il cryptomining**  
+  Fonte: BleepingComputer, 29 Apr 2026, 20:50:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/>)
+
+- **Hacker arrestati per aver violato e venduto 610.000 account Roblox**  
+  Fonte: BleepingComputer, 29 Apr 2026, 18:32:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/>)
+
+- **Pacchetti npm relativi a SAP compromessi in un attacco alla supply chain con furto di credenziali**  
+  Fonte: The Hacker News, 29 Apr 2026, 16:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html>)
+
+- **cPanel, l'aggiornamento di emergenza WHM risolve il bug critico di bypass dell'autenticazione**  
+  Fonte: BleepingComputer, 29 Apr 2026, 15:51:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/>)
+
+- **La nuova ondata di attacchi della RPDC utilizza malware npm inserito nell'intelligenza artificiale, aziende false e RAT**  
+  Fonte: The Hacker News, 29 Apr 2026, 14:43:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html>)
+
+- **La polizia europea smantella una rete di frodi sugli investimenti in criptovalute da 50 milioni di euro**  
+  Fonte: BleepingComputer, 29 Apr 2026, 14:27:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/>)
+
+- **Imparare dalla violazione di Vercel: espansione incontrollata di Shadow AI e OAuth**  
+  Fonte: BleepingComputer, 29 Apr 2026, 13:05:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/>)
+
+- **GitHub risolve il difetto RCE che dava accesso a milioni di repository privati**  
+  Fonte: BleepingComputer, 29 Apr 2026, 12:41:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/>)
+
+- **Il presunto hacker Silk Typhoon estradato negli Stati Uniti per affrontare accuse**  
+  Fonte: Graham Cluley, 29 Apr 2026, 12:14:48 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/silk-typhoon-hacker-extradited-united-states>)
+
+- **Webinar: come automatizzare la convalida dell'esposizione per adeguarsi alla velocità degli attacchi IA**  
+  Fonte: The Hacker News, 29 Apr 2026, 12:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html>)
+
+- **Cosa cercare in una piattaforma di gestione dell'esposizione (e cosa sbaglia la maggior parte di esse)**  
+  Fonte: The Hacker News, 29 Apr 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html>)
+
+- **La CISA ordina ai federali di correggere la falla di Windows sfruttata come zero-day**  
+  Fonte: BleepingComputer, 29 Apr 2026, 10:29:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/>)
+
+- **Claude Mythos ha trovato 271 Zero-Days in Firefox**  
+  Fonte: Schneier on Security, 29 Apr 2026, 10:12:17 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html>)
+
+- **Vulnerabilità critica identificata nell'autenticazione cPanel: aggiorna immediatamente il tuo server**  
+  Fonte: The Hacker News, 29 Apr 2026, 09:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/critical-cpanel-authentication.html>)
+
+- **CISA aggiunge a KEV i difetti di ConnectWise e Windows sfruttati attivamente**  
+  Fonte: The Hacker News, 29 Apr 2026, 08:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html>)
+
+- **Microsoft afferma che la modifica del backend ha interrotto la chat e le chiamate di Teams Free**  
+  Fonte: BleepingComputer, 29 Apr 2026, 08:38:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/>)
+
 - **LiteLLM CVE-2026-42208 SQL Injection sfruttata entro 36 ore dalla divulgazione**  
   Fonte: The Hacker News, 29 Apr 2026, 05:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html>)
@@ -38,14 +118,6 @@
   Fonte: The Hacker News, 28 Apr 2026, 14:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html>)
 
-- **Microsoft ritirerà il TLS legacy in Exchange Online a partire da luglio**  
-  Fonte: BleepingComputer, 28 Apr 2026, 13:18:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/>)
-
-- **All'interno di un playbook OPSEC: come gli attori della minaccia eludono il rilevamento**  
-  Fonte: BleepingComputer, 28 Apr 2026, 12:50:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/>)
-
 - **Perché il trasferimento sicuro dei dati è il collo di bottiglia Zero Trust di cui nessuno parla**  
   Fonte: The Hacker News, 28 Apr 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html>)
@@ -62,17 +134,9 @@
   Fonte: The Hacker News, 28 Apr 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html>)
 
-- **Microsoft: i nuovi avvisi di Desktop remoto potrebbero essere visualizzati in modo errato**  
-  Fonte: BleepingComputer, 28 Apr 2026, 09:51:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/>)
-
 - **La polizia francese arresta un hacker "HexDex" di 21 anni per oltre 100 presunte violazioni di dati**  
   Fonte: Graham Cluley, 28 Apr 2026, 08:43:16 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/french-police-arrest-hexdex-hacker>)
-
-- **Microsoft chiede agli utenti iPhone di autenticarsi nuovamente dopo l'interruzione di Outlook**  
-  Fonte: BleepingComputer, 28 Apr 2026, 08:37:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/>)
 
 - **L'hacker cinese Silk Typhoon estradato negli Stati Uniti per attacchi informatici alla ricerca sul COVID**  
   Fonte: The Hacker News, 28 Apr 2026, 07:57:00 UTC  
@@ -89,30 +153,6 @@
 - **Aggiornamento settimanale 501**  
   Fonte: Troy Hunt, 28 Apr 2026, 05:01:42 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-501/>)
-
-- **Difetto di creazione dell'account Robinhood abusato per inviare e-mail di phishing**  
-  Fonte: BleepingComputer, 27 Apr 2026, 23:11:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/>)
-
-- **Gli attacchi malware GlassWorm ritornano tramite 73 estensioni "dormienti" OpenVSX**  
-  Fonte: BleepingComputer, 27 Apr 2026, 21:41:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/>)
-
-- **Il Canada ne arresta tre per aver utilizzato un dispositivo “SMS blaster” a Toronto**  
-  Fonte: BleepingComputer, 27 Apr 2026, 20:00:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/>)
-
-- **Presunto hacker Silk Typhoon estradato negli Stati Uniti per spionaggio informatico**  
-  Fonte: BleepingComputer, 27 Apr 2026, 19:56:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/>)
-
-- **FTC: gli americani hanno perso oltre 2,1 miliardi di dollari a causa delle truffe sui social media nel 2025**  
-  Fonte: BleepingComputer, 27 Apr 2026, 16:27:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/>)
-
-- **Pacchetto PyPI con 1,1 milioni di download mensili violato per spingere infostealer**  
-  Fonte: BleepingComputer, 27 Apr 2026, 15:17:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/>)
 
 - **Checkmarx conferma i dati del repository GitHub pubblicati sul Dark Web dopo l'attacco del 23 marzo**  
   Fonte: The Hacker News, 27 Apr 2026, 14:19:00 UTC  
@@ -218,37 +258,5 @@
   Fonte: The Hacker News, 23 Apr 2026, 08:06:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html>)
 
-- **Podcast Smashing Security n. 464: Rockstar è stata hackerata.I dati erano spazzatura.I segreti che rivelava non lo erano**  
-  Fonte: Graham Cluley, 22 Apr 2026, 22:20:26 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-464-rockstar-got-hacked-the-data-was-junk-the-secrets-it-revealed-were-not/>)
 
-- **Immagini Docker KICS dannose ed estensioni VS Code colpiscono la catena di fornitura di Checkmarx**  
-  Fonte: The Hacker News, 22 Apr 2026, 17:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html>)
-
-- **Un worm autopropagante della supply chain dirotta i pacchetti npm per rubare i token degli sviluppatori**  
-  Fonte: The Hacker News, 22 Apr 2026, 17:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html>)
-
-- **Harvester distribuisce la backdoor Linux GoGra nell'Asia meridionale utilizzando l'API Microsoft Graph**  
-  Fonte: The Hacker News, 22 Apr 2026, 15:28:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html>)
-
-- **ICE utilizza spyware di grafite**  
-  Fonte: Schneier on Security, 22 Apr 2026, 11:02:25 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html>)
-
-- **Il malware Lotus Wiper prende di mira i sistemi energetici venezuelani con un attacco distruttivo**  
-  Fonte: The Hacker News, 22 Apr 2026, 10:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html>)
-
-- **Combinazioni tossiche: quando le autorizzazioni tra app costituiscono un rischio**  
-  Fonte: The Hacker News, 22 Apr 2026, 10:41:36 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html>)
-
-- **Microsoft corregge il bug critico di escalation dei privilegi ASP.NET Core CVE-2026-40372**  
-  Fonte: The Hacker News, 22 Apr 2026, 09:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-29 08:00:40 UTC -->
+<!-- Ultimo aggiornamento: 2026-04-30 08:04:33 UTC -->
