@@ -2,11 +2,83 @@
 
 ## Ultimi 7 giorni
 
+- **I negoziatori statunitensi di ransomware ricevono 4 anni di prigione per gli attacchi BlackCat**  
+  Fonte: BleepingComputer, 01 May 2026, 07:47:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/>)
+
+- **Il nuovo servizio di phishing Bluekit include un assistente AI, 40 modelli**  
+  Fonte: BleepingComputer, 30 Apr 2026, 18:58:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/>)
+
+- **Il leader rumeno dello schiacciamento online viene condannato a 4 anni di prigione**  
+  Fonte: BleepingComputer, 30 Apr 2026, 17:45:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/>)
+
+- **L'FBI collega i criminali informatici al forte aumento degli attacchi di furto di merci**  
+  Fonte: BleepingComputer, 30 Apr 2026, 16:32:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/>)
+
+- **PyTorch Lightning e il client Intercom colpiscono negli attacchi alla catena di fornitura per rubare credenziali**  
+  Fonte: The Hacker News, 30 Apr 2026, 16:31:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html>)
+
+- **L'aggiornamento KB5083769 di aprile di Windows 11 provoca errori del software di backup**  
+  Fonte: BleepingComputer, 30 Apr 2026, 15:23:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/>)
+
+- **Numerosi attacchi anti-DDoS contro gli ISP brasiliani**  
+  Fonte: Krebs on Security, 30 Apr 2026, 14:04:26 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/>)
+
+- **Cosa succede nelle prime 24 ore dopo la pubblicazione di una nuova risorsa**  
+  Fonte: BleepingComputer, 30 Apr 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/>)
+
+- **La crittografia post-quantistica per Cloudflare IPsec è generalmente disponibile**  
+  Fonte: Cloudflare Blog - Security, 30 Apr 2026, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/post-quantum-ipsec/>)
+
+- **Bollettino del ThreatsDay: fallimenti di SMS Blaster, difetti di OpenEMR, 600.000 attacchi Roblox e altre 25 storie**  
+  Fonte: The Hacker News, 30 Apr 2026, 13:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html>)
+
+- **Il nuovo difetto “Copy Fail” di Linux dà agli hacker il root sulle principali distribuzioni**  
+  Fonte: BleepingComputer, 30 Apr 2026, 13:54:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/>)
+
+- **La nuova backdoor Python utilizza il servizio di tunneling per rubare le credenziali del browser e del cloud**  
+  Fonte: The Hacker News, 30 Apr 2026, 12:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html>)
+
+- **Bug critici nel cPanel e nel WHM sfruttati come zero-day, PoC ora disponibile**  
+  Fonte: BleepingComputer, 30 Apr 2026, 11:40:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/>)
+
+- **Strumenti amministrativi di spoofing della distribuzione EtherRAT tramite GitHub Facades**  
+  Fonte: The Hacker News, 30 Apr 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html>)
+
+- **La polizia smantella 9 centri di truffe crittografiche e arresta 276 sospetti**  
+  Fonte: BleepingComputer, 30 Apr 2026, 11:21:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/>)
+
+- **Malware veloce16**  
+  Fonte: Schneier on Security, 30 Apr 2026, 10:22:02 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/04/fast16-malware.html>)
+
+- **La nuova vulnerabilità "Copia non riuscita" di Linux consente l'accesso root sulle principali distribuzioni**  
+  Fonte: The Hacker News, 30 Apr 2026, 09:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html>)
+
+- **Gli hacker di Handala legati all’Iran diffondono dati dei marines americani e inviano agghiaccianti minacce su WhatsApp**  
+  Fonte: Graham Cluley, 30 Apr 2026, 08:13:48 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/iran-handala-hackers-leak-us-marines-data-chilling-whatsapp-threats>)
+
 - **Google corregge CVSS 10 Gemini CLI CI RCE e i difetti del cursore abilitano l'esecuzione del codice**  
   Fonte: The Hacker News, 30 Apr 2026, 07:07:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html>)
 
-- **Podcast n. 465 di Smashing Security: questo sviluppatore voleva imbrogliare Roblox.È costato milioni**  
+- **Podcast di Smashing Security n. 465: questo sviluppatore voleva imbrogliare Roblox.È costato milioni**  
   Fonte: Graham Cluley, 29 Apr 2026, 23:15:23 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-465/>)
 
@@ -26,7 +98,7 @@
   Fonte: BleepingComputer, 29 Apr 2026, 18:32:15 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/>)
 
-- **Pacchetti npm relativi a SAP compromessi in un attacco alla supply chain con furto di credenziali**  
+- **Pacchetti npm relativi a SAP compromessi in un attacco alla catena di fornitura con furto di credenziali**  
   Fonte: The Hacker News, 29 Apr 2026, 16:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html>)
 
@@ -42,15 +114,7 @@
   Fonte: BleepingComputer, 29 Apr 2026, 14:27:36 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/>)
 
-- **Imparare dalla violazione di Vercel: espansione incontrollata di Shadow AI e OAuth**  
-  Fonte: BleepingComputer, 29 Apr 2026, 13:05:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/>)
-
-- **GitHub risolve il difetto RCE che dava accesso a milioni di repository privati**  
-  Fonte: BleepingComputer, 29 Apr 2026, 12:41:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/>)
-
-- **Il presunto hacker Silk Typhoon estradato negli Stati Uniti per affrontare accuse**  
+- **Il presunto hacker del Silk Typhoon è stato estradato negli Stati Uniti per affrontare le accuse**  
   Fonte: Graham Cluley, 29 Apr 2026, 12:14:48 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/silk-typhoon-hacker-extradited-united-states>)
 
@@ -61,10 +125,6 @@
 - **Cosa cercare in una piattaforma di gestione dell'esposizione (e cosa sbaglia la maggior parte di esse)**  
   Fonte: The Hacker News, 29 Apr 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html>)
-
-- **La CISA ordina ai federali di correggere la falla di Windows sfruttata come zero-day**  
-  Fonte: BleepingComputer, 29 Apr 2026, 10:29:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/>)
 
 - **Claude Mythos ha trovato 271 Zero-Days in Firefox**  
   Fonte: Schneier on Security, 29 Apr 2026, 10:12:17 UTC  
@@ -78,25 +138,9 @@
   Fonte: The Hacker News, 29 Apr 2026, 08:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html>)
 
-- **Microsoft afferma che la modifica del backend ha interrotto la chat e le chiamate di Teams Free**  
-  Fonte: BleepingComputer, 29 Apr 2026, 08:38:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/>)
-
 - **LiteLLM CVE-2026-42208 SQL Injection sfruttata entro 36 ore dalla divulgazione**  
   Fonte: The Hacker News, 29 Apr 2026, 05:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html>)
-
-- **Il ransomware VECT 2.0 danneggiato agisce come un pulitore di dati per file di grandi dimensioni**  
-  Fonte: BleepingComputer, 28 Apr 2026, 21:25:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/>)
-
-- **Gli hacker stanno sfruttando un difetto critico SQLi di pre-autenticazione di LiteLLM**  
-  Fonte: BleepingComputer, 28 Apr 2026, 21:07:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/>)
-
-- **Il servizio video Vimeo conferma che Anodot ha violato i dati utente esposti**  
-  Fonte: BleepingComputer, 28 Apr 2026, 19:04:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/>)
 
 - **I ricercatori scoprono un difetto critico di GitHub CVE-2026-3854 RCE sfruttabile tramite Single Git Push**  
   Fonte: The Hacker News, 28 Apr 2026, 18:19:00 UTC  
@@ -105,14 +149,6 @@
 - **La LofyGang brasiliana riemerge dopo tre anni con la campagna LofyStealer di Minecraft**  
   Fonte: The Hacker News, 28 Apr 2026, 17:39:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html>)
-
-- **Gli Stati Uniti accusano l'arresto dell'hacker di Scattered Spider in Finlandia**  
-  Fonte: BleepingComputer, 28 Apr 2026, 15:39:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/>)
-
-- **Checkmarx conferma che gli hacker di LAPSUS$ hanno fatto trapelare i dati GitHub rubati**  
-  Fonte: BleepingComputer, 28 Apr 2026, 14:50:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/>)
 
 - **Il ransomware VECT 2.0 distrugge in modo irreversibile i file superiori a 131 KB su Windows, Linux, ESXi**  
   Fonte: The Hacker News, 28 Apr 2026, 14:01:00 UTC  
@@ -218,45 +254,5 @@
   Fonte: The Hacker News, 24 Apr 2026, 09:29:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html>)
 
-- **LMDeploy CVE-2026-33626 Difetto sfruttato entro 13 ore dalla divulgazione**  
-  Fonte: The Hacker News, 24 Apr 2026, 07:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html>)
 
-- **UNC6692 impersona l'help desk IT tramite Microsoft Teams per distribuire il malware SNOW**  
-  Fonte: The Hacker News, 23 Apr 2026, 18:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html>)
-
-- **La CLI Bitwarden è stata compromessa nella campagna in corso sulla catena di fornitura Checkmarx**  
-  Fonte: The Hacker News, 23 Apr 2026, 13:42:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html>)
-
-- **Bollettino del ThreatsDay: hack DeFi da 290 milioni di dollari, abuso di macOS LotL, fattorie SIM ProxySmart e 25 nuove storie**  
-  Fonte: The Hacker News, 23 Apr 2026, 13:17:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html>)
-
-- **[Webinar] Mythos Reality Check: sconfiggere lo sfruttamento automatizzato alla velocità dell'intelligenza artificiale**  
-  Fonte: The Hacker News, 23 Apr 2026, 12:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html>)
-
-- **Il progetto Glasswing ha dimostrato che l'intelligenza artificiale può trovare i bug.Chi li risolverà?**  
-  Fonte: The Hacker News, 23 Apr 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html>)
-
-- **L'FBI estrae i messaggi di segnale cancellati dal database delle notifiche di iPhone**  
-  Fonte: Schneier on Security, 23 Apr 2026, 11:05:42 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html>)
-
-- **GopherWhisper collegato alla Cina infetta 12 sistemi governativi mongoli con Go Backdoor**  
-  Fonte: The Hacker News, 23 Apr 2026, 09:04:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html>)
-
-- **Vercel rileva altri account compromessi nella violazione collegata a Context.ai**  
-  Fonte: The Hacker News, 23 Apr 2026, 08:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html>)
-
-- **Apple risolve un difetto di iOS che consentiva all'FBI di recuperare i messaggi di segnale cancellati**  
-  Fonte: The Hacker News, 23 Apr 2026, 08:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-04-30 08:04:33 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-01 08:02:35 UTC -->
