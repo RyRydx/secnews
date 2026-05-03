@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **CISA aggiunge a KEV il bug di accesso root di Linux attivamente sfruttato CVE-2026-31431**  
+  Fonte: The Hacker News, 03 May 2026, 06:26:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html>)
+
+- **Difetto critico del cPanel sfruttato in massa negli attacchi ransomware "Sorry".**  
+  Fonte: BleepingComputer, 02 May 2026, 21:54:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/>)
+
+- **Gli attacchi ConsentFix v3 prendono di mira Azure con un abuso OAuth automatizzato**  
+  Fonte: BleepingComputer, 02 May 2026, 14:32:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/>)
+
 - **Trellix conferma la violazione del codice sorgente con accesso non autorizzato al repository**  
   Fonte: The Hacker News, 02 May 2026, 06:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html>)
@@ -26,7 +38,7 @@
   Fonte: BleepingComputer, 01 May 2026, 16:26:28 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/story-retracted/>)
 
-- **Gruppi di criminalità informatica che utilizzano il Vishing e l'abuso di SSO negli attacchi rapidi di estorsione SaaS**  
+- **Gruppi di criminalità informatica che utilizzano il Vishing e l'abuso SSO negli attacchi rapidi di estorsione SaaS**  
   Fonte: The Hacker News, 01 May 2026, 14:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html>)
 
@@ -94,10 +106,6 @@
   Fonte: Krebs on Security, 30 Apr 2026, 14:04:26 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/>)
 
-- **Cosa succede nelle prime 24 ore dopo la pubblicazione di una nuova risorsa**  
-  Fonte: BleepingComputer, 30 Apr 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/>)
-
 - **La crittografia post-quantistica per Cloudflare IPsec è generalmente disponibile**  
   Fonte: Cloudflare Blog - Security, 30 Apr 2026, 14:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/post-quantum-ipsec/>)
@@ -105,10 +113,6 @@
 - **Bollettino del ThreatsDay: fallimenti di SMS Blaster, difetti di OpenEMR, 600.000 attacchi Roblox e altre 25 storie**  
   Fonte: The Hacker News, 30 Apr 2026, 13:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html>)
-
-- **Il nuovo difetto “Copy Fail” di Linux dà agli hacker il root sulle principali distribuzioni**  
-  Fonte: BleepingComputer, 30 Apr 2026, 13:54:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/>)
 
 - **La nuova backdoor Python utilizza il servizio di tunneling per rubare le credenziali del browser e del cloud**  
   Fonte: The Hacker News, 30 Apr 2026, 12:36:00 UTC  
@@ -134,11 +138,11 @@
   Fonte: The Hacker News, 30 Apr 2026, 07:07:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html>)
 
-- **Podcast di Smashing Security n. 465: questo sviluppatore voleva imbrogliare Roblox.È costato milioni**  
+- **Podcast n. 465 di Smashing Security: questo sviluppatore voleva imbrogliare Roblox.È costato milioni**  
   Fonte: Graham Cluley, 29 Apr 2026, 23:15:23 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-465/>)
 
-- **Pacchetti npm relativi a SAP compromessi in un attacco alla catena di fornitura con furto di credenziali**  
+- **Pacchetti npm relativi a SAP compromessi in un attacco alla supply chain con furto di credenziali**  
   Fonte: The Hacker News, 29 Apr 2026, 16:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html>)
 
@@ -146,7 +150,7 @@
   Fonte: The Hacker News, 29 Apr 2026, 14:43:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html>)
 
-- **Il presunto hacker del Silk Typhoon è stato estradato negli Stati Uniti per affrontare le accuse**  
+- **Il presunto hacker Silk Typhoon estradato negli Stati Uniti per affrontare accuse**  
   Fonte: Graham Cluley, 29 Apr 2026, 12:14:48 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/silk-typhoon-hacker-extradited-united-states>)
 
@@ -250,9 +254,5 @@
   Fonte: The Hacker News, 27 Apr 2026, 06:33:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html>)
 
-- **I ricercatori scoprono il software di ingegneria per il targeting del malware pre-Stuxnet "fast16".**  
-  Fonte: The Hacker News, 25 Apr 2026, 09:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-05-02 07:19:22 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-03 07:48:45 UTC -->
