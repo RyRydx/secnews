@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **La repressione globale arresta 276 persone, chiude 9 centri di truffe crittografiche e sequestra 701 milioni di dollari**  
+  Fonte: The Hacker News, 04 May 2026, 05:59:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html>)
+
+- **La struttura conferma la violazione dei dati, ShinyHunters rivendica l'attacco**  
+  Fonte: BleepingComputer, 03 May 2026, 22:16:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/>)
+
+- **Microsoft Defender contrassegna erroneamente i certificati DigiCert come Trojan:Win32/Cerdigent.A!dha**  
+  Fonte: BleepingComputer, 03 May 2026, 18:11:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/>)
+
+- **Telegram Mini App abusate per truffe crittografiche e distribuzione di malware Android**  
+  Fonte: BleepingComputer, 03 May 2026, 14:11:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/>)
+
 - **CISA aggiunge a KEV il bug di accesso root di Linux attivamente sfruttato CVE-2026-31431**  
   Fonte: The Hacker News, 03 May 2026, 06:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html>)
@@ -86,21 +102,9 @@
   Fonte: BleepingComputer, 30 Apr 2026, 18:58:50 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/>)
 
-- **Il leader rumeno dello schiacciamento online viene condannato a 4 anni di prigione**  
-  Fonte: BleepingComputer, 30 Apr 2026, 17:45:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/>)
-
-- **L'FBI collega i criminali informatici al forte aumento degli attacchi di furto di merci**  
-  Fonte: BleepingComputer, 30 Apr 2026, 16:32:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/>)
-
 - **PyTorch Lightning e il client Intercom colpiscono negli attacchi alla catena di fornitura per rubare credenziali**  
   Fonte: The Hacker News, 30 Apr 2026, 16:31:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html>)
-
-- **L'aggiornamento KB5083769 di aprile di Windows 11 provoca errori del software di backup**  
-  Fonte: BleepingComputer, 30 Apr 2026, 15:23:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/>)
 
 - **Numerosi attacchi anti-DDoS contro gli ISP brasiliani**  
   Fonte: Krebs on Security, 30 Apr 2026, 14:04:26 UTC  
@@ -250,9 +254,5 @@
   Fonte: Schneier on Security, 27 Apr 2026, 11:04:41 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html>)
 
-- **La falsa truffa CAPTCHA IRSF e 120 campagne Keitaro guidano SMS globali e frodi crittografiche**  
-  Fonte: The Hacker News, 27 Apr 2026, 06:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-05-03 07:48:45 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-04 08:17:09 UTC -->
