@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Weaver Bug critico per l'ecologia sfruttato negli attacchi da marzo**  
+  Fonte: BleepingComputer, 04 May 2026, 22:12:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/>)
+
+- **Amazon SES è sempre più abusato di phishing per eludere il rilevamento**  
+  Fonte: BleepingComputer, 04 May 2026, 20:03:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/>)
+
+- **Una campagna di phishing colpisce oltre 80 organizzazioni utilizzando gli strumenti RMM SimpleHelp e ScreenConnect**  
+  Fonte: The Hacker News, 04 May 2026, 18:06:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html>)
+
+- **Il pacchetto PyTorch Lightning con backdoor elimina il ladro di credenziali**  
+  Fonte: BleepingComputer, 04 May 2026, 17:15:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/>)
+
+- **Patch di avanzamento Bug critico di automazione MOVEit che abilita il bypass dell'autenticazione**  
+  Fonte: The Hacker News, 04 May 2026, 16:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/progress-patches-critical-moveit.html>)
+
+- **Trellix rivela una violazione dei dati dopo l'hacking del repository del codice sorgente**  
+  Fonte: BleepingComputer, 04 May 2026, 16:25:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/>)
+
+- **⚡ Riepilogo settimanale: phishing basato sull'intelligenza artificiale, strumento di spionaggio Android, exploit Linux, GitHub RCE e altro**  
+  Fonte: The Hacker News, 04 May 2026, 14:23:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html>)
+
+- **Non hackerano, prendono in prestito: come i truffatori prendono di mira le cooperative di credito**  
+  Fonte: BleepingComputer, 04 May 2026, 13:42:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/>)
+
+- **I progressi segnalano un difetto critico di bypass dell'autenticazione di MOVEit Automation**  
+  Fonte: BleepingComputer, 04 May 2026, 12:18:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/>)
+
+- **Webinar: Perché gli MSP devono ripensare le strategie di sicurezza e backup**  
+  Fonte: BleepingComputer, 04 May 2026, 12:16:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/>)
+
+- **2026: l’anno degli attacchi assistiti dall’intelligenza artificiale**  
+  Fonte: The Hacker News, 04 May 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html>)
+
+- **Silver Fox distribuisce il malware ABCDoor tramite phishing a tema fiscale in India e Russia**  
+  Fonte: The Hacker News, 04 May 2026, 11:57:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html>)
+
+- **Un adolescente presumibilmente hacker di Scattered Spider arrestato in Finlandia rischia l'estradizione negli Stati Uniti**  
+  Fonte: Graham Cluley, 04 May 2026, 11:42:44 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-scattered-spider-hacker-extradition>)
+
+- **CISA afferma che il difetto "Copy Fail" ora viene sfruttato per eseguire il root dei sistemi Linux**  
+  Fonte: BleepingComputer, 04 May 2026, 11:28:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/>)
+
+- **Microsoft conferma che gli aggiornamenti Windows di aprile causano errori di backup**  
+  Fonte: BleepingComputer, 04 May 2026, 10:40:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/>)
+
+- **Hacking del Polimercato**  
+  Fonte: Schneier on Security, 04 May 2026, 09:46:31 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html>)
+
+- **Vulnerabilità critica di cPanel sfruttata come arma per colpire reti governative e MSP**  
+  Fonte: The Hacker News, 04 May 2026, 09:27:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html>)
+
 - **La repressione globale arresta 276 persone, chiude 9 centri di truffe crittografiche e sequestra 701 milioni di dollari**  
   Fonte: The Hacker News, 04 May 2026, 05:59:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html>)
@@ -38,69 +106,33 @@
   Fonte: BleepingComputer, 02 May 2026, 00:18:05 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/>)
 
-- **La società di tecnologia educativa Instructure rivela un incidente informatico e ne indaga l'impatto**  
-  Fonte: BleepingComputer, 01 May 2026, 23:43:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/>)
-
 - **30.000 account Facebook violati tramite la campagna di phishing di Google AppSheet**  
   Fonte: The Hacker News, 01 May 2026, 18:09:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html>)
-
-- **Quindicenne arrestato per violazione di dati da parte dell'agenzia governativa francese**  
-  Fonte: BleepingComputer, 01 May 2026, 17:52:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/>)
-
-- **La storia è stata ritirata**  
-  Fonte: BleepingComputer, 01 May 2026, 16:26:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/story-retracted/>)
 
 - **Gruppi di criminalità informatica che utilizzano il Vishing e l'abuso SSO negli attacchi rapidi di estorsione SaaS**  
   Fonte: The Hacker News, 01 May 2026, 14:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html>)
 
-- **Criminal IP e Securonix ThreatQ collaborano per migliorare le operazioni di intelligence sulle minacce**  
-  Fonte: BleepingComputer, 01 May 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/>)
-
 - **Gli hacker legati alla Cina prendono di mira i governi asiatici, lo Stato della NATO, i giornalisti e gli attivisti**  
   Fonte: The Hacker News, 01 May 2026, 14:02:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html>)
-
-- **Microsoft corregge la visualizzazione errata degli avvisi di Desktop remoto**  
-  Fonte: BleepingComputer, 01 May 2026, 12:46:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/>)
 
 - **Un negoziatore di ransomware lavorava per una banda di ransomware**  
   Fonte: Schneier on Security, 01 May 2026, 11:18:43 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html>)
 
-- **Microsoft ora consente agli amministratori di scegliere le app dello Store preinstallate da disinstallare**  
-  Fonte: BleepingComputer, 01 May 2026, 11:10:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/>)
-
 - **Le cinque principali sfide di vendita che costano agli MSP le entrate legate alla sicurezza informatica**  
   Fonte: The Hacker News, 01 May 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html>)
 
-- **Aggiornamento Windows 11 KB5083631 rilasciato con 34 modifiche e correzioni**  
-  Fonte: BleepingComputer, 01 May 2026, 10:00:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/>)
-
-- **Due professionisti della sicurezza informatica ricevono condanne a 4 anni per attacchi ransomware BlackCat**  
+- **Due professionisti della sicurezza informatica vengono condannati a 4 anni per attacchi ransomware BlackCat**  
   Fonte: The Hacker News, 01 May 2026, 09:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html>)
 
 - **Le gemme Ruby avvelenate e i moduli Go sfruttano le pipeline CI per il furto di credenziali**  
   Fonte: The Hacker News, 01 May 2026, 09:43:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html>)
-
-- **I negoziatori statunitensi di ransomware ricevono 4 anni di prigione per gli attacchi BlackCat**  
-  Fonte: BleepingComputer, 01 May 2026, 07:47:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/>)
-
-- **Il nuovo servizio di phishing Bluekit include un assistente AI, 40 modelli**  
-  Fonte: BleepingComputer, 30 Apr 2026, 18:58:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/>)
 
 - **PyTorch Lightning e il client Intercom colpiscono negli attacchi alla catena di fornitura per rubare credenziali**  
   Fonte: The Hacker News, 30 Apr 2026, 16:31:00 UTC  
@@ -142,7 +174,7 @@
   Fonte: The Hacker News, 30 Apr 2026, 07:07:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html>)
 
-- **Podcast n. 465 di Smashing Security: questo sviluppatore voleva imbrogliare Roblox.È costato milioni**  
+- **Podcast di Smashing Security n. 465: questo sviluppatore voleva imbrogliare Roblox.È costato milioni**  
   Fonte: Graham Cluley, 29 Apr 2026, 23:15:23 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-465/>)
 
@@ -218,41 +250,5 @@
   Fonte: The Hacker News, 28 Apr 2026, 07:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html>)
 
-- **Microsoft corregge il difetto del ruolo ID Entra che consentiva l'acquisizione dell'entità servizio**  
-  Fonte: The Hacker News, 28 Apr 2026, 06:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html>)
 
-- **Microsoft conferma lo sfruttamento attivo della shell Windows CVE-2026-32202**  
-  Fonte: The Hacker News, 28 Apr 2026, 05:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html>)
-
-- **Aggiornamento settimanale 501**  
-  Fonte: Troy Hunt, 28 Apr 2026, 05:01:42 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-501/>)
-
-- **Checkmarx conferma i dati del repository GitHub pubblicati sul Dark Web dopo l'attacco del 23 marzo**  
-  Fonte: The Hacker News, 27 Apr 2026, 14:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html>)
-
-- **⚡ Riepilogo settimanale: malware Fast16, lancio di XChat, backdoor federale, monitoraggio dei dipendenti AI e altro**  
-  Fonte: The Hacker News, 27 Apr 2026, 13:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html>)
-
-- **Mythos ha cambiato i conti sulla scoperta delle vulnerabilità.La maggior parte delle squadre non è pronta per la riparazione**  
-  Fonte: The Hacker News, 27 Apr 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html>)
-
-- **PhantomCore sfrutta le vulnerabilità di TrueConf per violare le reti russe**  
-  Fonte: The Hacker News, 27 Apr 2026, 11:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html>)
-
-- **I ricercatori scoprono 73 estensioni di codice VS false che distribuiscono malware GlassWorm v2**  
-  Fonte: The Hacker News, 27 Apr 2026, 11:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html>)
-
-- **Lettera crittografata medievale decodificata**  
-  Fonte: Schneier on Security, 27 Apr 2026, 11:04:41 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-04 08:17:09 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-05 07:55:17 UTC -->
