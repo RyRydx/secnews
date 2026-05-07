@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Le vulnerabilità della libreria vm2 Node.js consentono l'escape del sandbox e l'esecuzione di codice arbitrario**  
+  Fonte: The Hacker News, 07 May 2026, 04:15:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html>)
+
+- **Podcast di Smashing Security n. 466: Meta vede tutto, la copia fallisce e viene ingaggiato un deepfake**  
+  Fonte: Graham Cluley, 06 May 2026, 23:30:49 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-466/>)
+
+- **Gli hacker abusano degli annunci Google per il phishing dell'accesso di GoDaddy ManageWP**  
+  Fonte: BleepingComputer, 06 May 2026, 21:36:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/>)
+
+- **La botnet xlabs_v1 basata su Mirai sfrutta ADB per dirottare i dispositivi IoT per attacchi DDoS**  
+  Fonte: The Hacker News, 06 May 2026, 20:21:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html>)
+
+- **Il bug critico della sandbox VM2 consente agli aggressori di eseguire codice sugli host**  
+  Fonte: BleepingComputer, 06 May 2026, 18:38:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/>)
+
+- **Il nuovo difetto Cisco DoS richiede il riavvio manuale per ripristinare i dispositivi**  
+  Fonte: BleepingComputer, 06 May 2026, 18:06:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/>)
+
+- **Gli sviluppatori di DAEMON Tools confermano la violazione e rilasciano una versione priva di malware**  
+  Fonte: BleepingComputer, 06 May 2026, 16:43:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/>)
+
+- **Perché gli attacchi ransomware hanno successo anche quando esistono i backup**  
+  Fonte: BleepingComputer, 06 May 2026, 14:04:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/>)
+
+- **Gli hacker di MuddyWater utilizzano il ransomware Chaos come esca negli attacchi**  
+  Fonte: BleepingComputer, 06 May 2026, 13:02:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/>)
+
+- **MuddyWater utilizza Microsoft Teams per rubare credenziali in un attacco ransomware false flag**  
+  Fonte: The Hacker News, 06 May 2026, 13:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html>)
+
+- **Webinar: perché gli incidenti di rete aumentano e come colmare le lacune nella risposta**  
+  Fonte: BleepingComputer, 06 May 2026, 12:56:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/>)
+
+- **The Hacker News lancia i "Cybersecurity Stars Awards 2026": le iscrizioni sono ora aperte**  
+  Fonte: The Hacker News, 06 May 2026, 12:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html>)
+
+- **I tuoi agenti IA sono già all'interno del perimetro.Sai cosa stanno facendo?**  
+  Fonte: The Hacker News, 06 May 2026, 10:57:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html>)
+
+- **Attacco Rowhammer contro i chip NVIDIA**  
+  Fonte: Schneier on Security, 06 May 2026, 10:36:59 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html>)
+
+- **Palo Alto Networks avverte del firewall RCE zero-day sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 06 May 2026, 09:18:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/>)
+
+- **Le app Android di Google ottengono la verifica pubblica per fermare gli attacchi alla catena di fornitura**  
+  Fonte: The Hacker News, 06 May 2026, 09:13:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/android-apps-get-public-verification.html>)
+
+- **Collegamento a Windows Phone sfruttato da CloudZ RAT per rubare credenziali e OTP**  
+  Fonte: The Hacker News, 06 May 2026, 08:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html>)
+
 - **Il difetto PAN-OS di Palo Alto durante lo sfruttamento attivo consente l'esecuzione di codice remoto**  
   Fonte: The Hacker News, 06 May 2026, 06:14:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html>)
@@ -58,10 +126,6 @@
   Fonte: The Hacker News, 05 May 2026, 11:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html>)
 
-- **Google ora offre fino a 1,5 milioni di dollari per alcuni exploit Android**  
-  Fonte: BleepingComputer, 05 May 2026, 11:24:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/>)
-
 - **Malware DarkSword**  
   Fonte: Schneier on Security, 05 May 2026, 10:42:03 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/darksword-malware.html>)
@@ -70,21 +134,9 @@
   Fonte: The Hacker News, 05 May 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html>)
 
-- **Il negoziatore del "cold case" della banda di estorsori di Karakurt viene condannato a 8,5 anni di prigione**  
-  Fonte: BleepingComputer, 05 May 2026, 10:13:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/>)
-
-- **Il malware CloudZ sfrutta Microsoft Phone Link per rubare SMS e OTP**  
-  Fonte: BleepingComputer, 05 May 2026, 10:03:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/>)
-
 - **ScarCruft hackera la piattaforma di gioco per distribuire il malware BirdCall su Android e Windows**  
   Fonte: The Hacker News, 05 May 2026, 09:07:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html>)
-
-- **Gli hacker di ScarCruft diffondono il malware BirdCall per Android tramite la piattaforma di gioco**  
-  Fonte: BleepingComputer, 05 May 2026, 09:04:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/>)
 
 - **Weaver E-cology RCE Flaw CVE-2026-22679 Sfruttato attivamente tramite API di debug**  
   Fonte: The Hacker News, 05 May 2026, 07:37:00 UTC  
@@ -94,29 +146,13 @@
   Fonte: The Hacker News, 05 May 2026, 06:35:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html>)
 
-- **Weaver Bug critico per l'ecologia sfruttato negli attacchi da marzo**  
-  Fonte: BleepingComputer, 04 May 2026, 22:12:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/>)
-
-- **I ricercatori segnalano Amazon SES abusato di phishing per eludere il rilevamento**  
-  Fonte: BleepingComputer, 04 May 2026, 20:03:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/>)
-
 - **Una campagna di phishing colpisce oltre 80 organizzazioni utilizzando gli strumenti RMM SimpleHelp e ScreenConnect**  
   Fonte: The Hacker News, 04 May 2026, 18:06:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html>)
 
-- **Il pacchetto PyTorch Lightning con backdoor elimina il ladro di credenziali**  
-  Fonte: BleepingComputer, 04 May 2026, 17:15:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/>)
-
 - **Patch di avanzamento Bug critico di automazione MOVEit che abilita il bypass dell'autenticazione**  
   Fonte: The Hacker News, 04 May 2026, 16:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/progress-patches-critical-moveit.html>)
-
-- **Trellix rivela una violazione dei dati dopo l'hacking del repository del codice sorgente**  
-  Fonte: BleepingComputer, 04 May 2026, 16:25:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/>)
 
 - **⚡ Riepilogo settimanale: phishing basato sull'intelligenza artificiale, strumento di spionaggio Android, exploit Linux, GitHub RCE e altro**  
   Fonte: The Hacker News, 04 May 2026, 14:23:00 UTC  
@@ -214,49 +250,5 @@
   Fonte: The Hacker News, 30 Apr 2026, 09:24:00 UTC  
   [Leggi](<https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html>)
 
-- **Gli hacker di Handala legati all’Iran diffondono dati dei marines americani e inviano agghiaccianti minacce su WhatsApp**  
-  Fonte: Graham Cluley, 30 Apr 2026, 08:13:48 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/iran-handala-hackers-leak-us-marines-data-chilling-whatsapp-threats>)
 
-- **Google corregge CVSS 10 Gemini CLI CI RCE e i difetti del cursore abilitano l'esecuzione del codice**  
-  Fonte: The Hacker News, 30 Apr 2026, 07:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html>)
-
-- **Podcast n. 465 di Smashing Security: questo sviluppatore voleva imbrogliare Roblox.È costato milioni**  
-  Fonte: Graham Cluley, 29 Apr 2026, 23:15:23 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-465/>)
-
-- **Pacchetti npm relativi a SAP compromessi in un attacco alla supply chain con furto di credenziali**  
-  Fonte: The Hacker News, 29 Apr 2026, 16:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html>)
-
-- **La nuova ondata di attacchi della RPDC utilizza malware npm inserito nell'intelligenza artificiale, aziende false e RAT**  
-  Fonte: The Hacker News, 29 Apr 2026, 14:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html>)
-
-- **Il presunto hacker Silk Typhoon estradato negli Stati Uniti per affrontare accuse**  
-  Fonte: Graham Cluley, 29 Apr 2026, 12:14:48 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/silk-typhoon-hacker-extradited-united-states>)
-
-- **Webinar: come automatizzare la convalida dell'esposizione per adeguarsi alla velocità degli attacchi IA**  
-  Fonte: The Hacker News, 29 Apr 2026, 12:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html>)
-
-- **Cosa cercare in una piattaforma di gestione dell'esposizione (e cosa sbaglia la maggior parte di esse)**  
-  Fonte: The Hacker News, 29 Apr 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html>)
-
-- **Claude Mythos ha trovato 271 Zero-Days in Firefox**  
-  Fonte: Schneier on Security, 29 Apr 2026, 10:12:17 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html>)
-
-- **Vulnerabilità critica identificata nell'autenticazione cPanel: aggiorna immediatamente il tuo server**  
-  Fonte: The Hacker News, 29 Apr 2026, 09:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/critical-cpanel-authentication.html>)
-
-- **CISA aggiunge a KEV i difetti di ConnectWise e Windows sfruttati attivamente**  
-  Fonte: The Hacker News, 29 Apr 2026, 08:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-06 08:08:29 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-07 08:15:27 UTC -->
