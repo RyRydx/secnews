@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **L'exploit LPE Dirty Frag del kernel Linux consente l'accesso root nelle principali distribuzioni**  
+  Fonte: The Hacker News, 08 May 2026, 05:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html>)
+
+- **La violazione della tela sconvolge scuole e università a livello nazionale**  
+  Fonte: Krebs on Security, 08 May 2026, 02:58:46 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/>)
+
+- **Portali di accesso Canvas violati nella campagna di estorsione di massa di ShinyHunters**  
+  Fonte: BleepingComputer, 07 May 2026, 22:36:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/>)
+
+- **Il nuovo malware TCLBanker si diffonde autonomamente su WhatsApp e Outlook**  
+  Fonte: BleepingComputer, 07 May 2026, 22:06:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/>)
+
+- **Il nuovo worm PCPJack ruba le credenziali e ripulisce le infezioni TeamPCP**  
+  Fonte: BleepingComputer, 07 May 2026, 18:35:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/>)
+
+- **L'Australia avverte degli attacchi ClickFix che diffondono il malware Vidar Stealer**  
+  Fonte: BleepingComputer, 07 May 2026, 18:00:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/>)
+
+- **Ivanti EPMM CVE-2026-6973 RCE in regime di sfruttamento attivo garantisce l'accesso a livello di amministratore**  
+  Fonte: The Hacker News, 07 May 2026, 17:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html>)
+
+- **PCPJack Credential Stealer sfrutta 5 CVE per diffondersi come worm nei sistemi cloud**  
+  Fonte: The Hacker News, 07 May 2026, 17:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html>)
+
+- **Ivanti avverte di una nuova falla EPMM sfruttata negli attacchi zero-day**  
+  Fonte: BleepingComputer, 07 May 2026, 15:20:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/>)
+
+- **Il browser sta distruggendo il tuo DLP: come i dati sfuggono ai controlli moderni**  
+  Fonte: BleepingComputer, 07 May 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/>)
+
+- **Un clic, spegnimento totale: il webinar "Paziente Zero" sull'eliminazione delle violazioni stealth**  
+  Fonte: The Hacker News, 07 May 2026, 13:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html>)
+
+- **Americani condannati per aver gestito "laptop farm" per conto della Corea del Nord**  
+  Fonte: BleepingComputer, 07 May 2026, 13:45:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/>)
+
+- **PAN-OS RCE Exploit in uso attivo che abilita l'accesso root e lo spionaggio**  
+  Fonte: The Hacker News, 07 May 2026, 13:34:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html>)
+
+- **Come Cloudflare ha risposto alla vulnerabilità Linux "Copy Fail".**  
+  Fonte: Cloudflare Blog - Security, 07 May 2026, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/>)
+
+- **Membro di una gang di criptovalute ottiene 6,5 anni per il ruolo in una rapina da 230 milioni di dollari**  
+  Fonte: BleepingComputer, 07 May 2026, 12:11:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/>)
+
+- **Webinar: Perché gli attacchi moderni richiedono sia sicurezza che ripristino**  
+  Fonte: BleepingComputer, 07 May 2026, 12:00:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/>)
+
+- **Bollettino ThreatsDay: password Edge in testo normale, ICS 0-Days, avvisi Patch-or-Die e oltre 25 nuove storie**  
+  Fonte: The Hacker News, 07 May 2026, 11:33:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html>)
+
+- **Occhiali intelligenti per le autorità**  
+  Fonte: Schneier on Security, 07 May 2026, 11:07:07 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html>)
+
+- **Il firewall zero-day di Palo Alto Networks è stato sfruttato per quasi un mese**  
+  Fonte: BleepingComputer, 07 May 2026, 10:57:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/>)
+
+- **Preparazione al giorno zero: le lacune operative che ostacolano la risposta agli incidenti**  
+  Fonte: The Hacker News, 07 May 2026, 10:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html>)
+
+- **Il sito Web falso di Claude AI fornisce il nuovo malware Windows "Beagle".**  
+  Fonte: BleepingComputer, 07 May 2026, 10:02:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/>)
+
+- **I pacchetti PyPI distribuiscono malware ZiChatBot tramite le API Zulip su Windows e Linux**  
+  Fonte: The Hacker News, 07 May 2026, 09:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html>)
+
 - **Le vulnerabilità della libreria vm2 Node.js consentono l'escape del sandbox e l'esecuzione di codice arbitrario**  
   Fonte: The Hacker News, 07 May 2026, 04:15:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html>)
@@ -30,21 +118,9 @@
   Fonte: BleepingComputer, 06 May 2026, 16:43:30 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/>)
 
-- **Perché gli attacchi ransomware hanno successo anche quando esistono i backup**  
-  Fonte: BleepingComputer, 06 May 2026, 14:04:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/>)
-
-- **Gli hacker di MuddyWater utilizzano il ransomware Chaos come esca negli attacchi**  
-  Fonte: BleepingComputer, 06 May 2026, 13:02:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/>)
-
 - **MuddyWater utilizza Microsoft Teams per rubare credenziali in un attacco ransomware false flag**  
   Fonte: The Hacker News, 06 May 2026, 13:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html>)
-
-- **Webinar: perché gli incidenti di rete aumentano e come colmare le lacune nella risposta**  
-  Fonte: BleepingComputer, 06 May 2026, 12:56:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/>)
 
 - **The Hacker News lancia i "Cybersecurity Stars Awards 2026": le iscrizioni sono ora aperte**  
   Fonte: The Hacker News, 06 May 2026, 12:03:00 UTC  
@@ -57,10 +133,6 @@
 - **Attacco Rowhammer contro i chip NVIDIA**  
   Fonte: Schneier on Security, 06 May 2026, 10:36:59 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html>)
-
-- **Palo Alto Networks avverte del firewall RCE zero-day sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 06 May 2026, 09:18:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/>)
 
 - **Le app Android di Google ottengono la verifica pubblica per fermare gli attacchi alla catena di fornitura**  
   Fonte: The Hacker News, 06 May 2026, 09:13:00 UTC  
@@ -78,22 +150,6 @@
   Fonte: Troy Hunt, 06 May 2026, 00:14:13 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-502/>)
 
-- **Il nuovo malware furtivo Quasar Linux prende di mira gli sviluppatori di software**  
-  Fonte: BleepingComputer, 05 May 2026, 22:01:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/>)
-
-- **Un hacker infrastrutturale denuncia il furto di dati da 8.800 scuole e università**  
-  Fonte: BleepingComputer, 05 May 2026, 21:20:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/>)
-
-- **DAEMON Tools ha subito trojan nell'attacco alla catena di fornitura per implementare backdoor**  
-  Fonte: BleepingComputer, 05 May 2026, 19:21:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/>)
-
-- **Uno studente ha hackerato la linea ferroviaria ad alta velocità di Taiwan per attivare i freni di emergenza**  
-  Fonte: BleepingComputer, 05 May 2026, 17:34:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/>)
-
 - **Il difetto critico Apache HTTP/2 (CVE-2026-23918) consente DoS e potenziale RCE**  
   Fonte: The Hacker News, 05 May 2026, 16:19:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html>)
@@ -102,21 +158,9 @@
   Fonte: The Hacker News, 05 May 2026, 16:07:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html>)
 
-- **La FTC vieta al broker di dati Kochava di vendere i dati sulla posizione degli americani**  
-  Fonte: BleepingComputer, 05 May 2026, 14:39:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/>)
-
 - **UAT-8302 collegato alla Cina prende di mira i governi che utilizzano malware APT condiviso in tutte le regioni**  
   Fonte: The Hacker News, 05 May 2026, 14:19:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html>)
-
-- **Il punto cieco EOL nel tuo feed CVE: cosa manca agli strumenti SCA**  
-  Fonte: BleepingComputer, 05 May 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/>)
-
-- **La violazione dei dati di Vimeo espone le informazioni personali di 119.000 persone**  
-  Fonte: BleepingComputer, 05 May 2026, 13:03:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/>)
 
 - **Gli aggressori della backdoor sono a conoscenza e la maggior parte dei team di sicurezza non l'ha ancora chiusa**  
   Fonte: The Hacker News, 05 May 2026, 11:58:00 UTC  
@@ -198,7 +242,7 @@
   Fonte: The Hacker News, 01 May 2026, 14:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html>)
 
-- **Gli hacker legati alla Cina prendono di mira i governi asiatici, lo Stato della NATO, i giornalisti e gli attivisti**  
+- **Gli hacker legati alla Cina prendono di mira i governi asiatici, lo stato della NATO, i giornalisti e gli attivisti**  
   Fonte: The Hacker News, 01 May 2026, 14:02:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html>)
 
@@ -210,7 +254,7 @@
   Fonte: The Hacker News, 01 May 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html>)
 
-- **Due professionisti della sicurezza informatica ricevono condanne a 4 anni per attacchi ransomware BlackCat**  
+- **Due professionisti della sicurezza informatica vengono condannati a 4 anni per attacchi ransomware BlackCat**  
   Fonte: The Hacker News, 01 May 2026, 09:56:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html>)
 
@@ -218,37 +262,5 @@
   Fonte: The Hacker News, 01 May 2026, 09:43:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html>)
 
-- **PyTorch Lightning e il client Intercom colpiscono negli attacchi alla catena di fornitura per rubare credenziali**  
-  Fonte: The Hacker News, 30 Apr 2026, 16:31:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html>)
 
-- **Numerosi attacchi anti-DDoS contro gli ISP brasiliani**  
-  Fonte: Krebs on Security, 30 Apr 2026, 14:04:26 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/>)
-
-- **La crittografia post-quantistica per Cloudflare IPsec è generalmente disponibile**  
-  Fonte: Cloudflare Blog - Security, 30 Apr 2026, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/post-quantum-ipsec/>)
-
-- **Bollettino del ThreatsDay: fallimenti di SMS Blaster, difetti di OpenEMR, 600.000 attacchi Roblox e altre 25 storie**  
-  Fonte: The Hacker News, 30 Apr 2026, 13:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html>)
-
-- **La nuova backdoor Python utilizza il servizio di tunneling per rubare le credenziali del browser e del cloud**  
-  Fonte: The Hacker News, 30 Apr 2026, 12:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html>)
-
-- **Strumenti amministrativi di spoofing della distribuzione EtherRAT tramite GitHub Facades**  
-  Fonte: The Hacker News, 30 Apr 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html>)
-
-- **Malware veloce16**  
-  Fonte: Schneier on Security, 30 Apr 2026, 10:22:02 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/04/fast16-malware.html>)
-
-- **La nuova vulnerabilità "Copia non riuscita" di Linux consente l'accesso root sulle principali distribuzioni**  
-  Fonte: The Hacker News, 30 Apr 2026, 09:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-07 08:15:27 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-08 07:16:32 UTC -->
