@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: i calamari giganti vivono nelle acque dell'Australia occidentale**  
+  Fonte: Schneier on Security, 08 May 2026, 21:03:28 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html>)
+
+- **Il trojan bancario TCLBANKER prende di mira le piattaforme finanziarie tramite WhatsApp e Outlook worm**  
+  Fonte: The Hacker News, 08 May 2026, 18:12:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html>)
+
+- **Scommesse privilegiate su Polymarket**  
+  Fonte: Schneier on Security, 08 May 2026, 17:49:01 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/insider-betting-on-polymarket.html>)
+
+- **NVIDIA conferma che la violazione dei dati di GeForce NOW ha colpito gli utenti armeni**  
+  Fonte: BleepingComputer, 08 May 2026, 16:18:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/>)
+
+- **Un lavoratore su otto nel Regno Unito ha venduto le password aziendali e i capi pensano che vada bene**  
+  Fonte: Graham Cluley, 08 May 2026, 15:20:45 UTC  
+  [Leggi](<https://www.fortra.com/blog/one-eight-uk-workers-has-sold-their-company-passwords-and-bosses-think-its-fine>)
+
+- **Le app di cronologia chiamate false hanno rubato i pagamenti agli utenti dopo 7,3 milioni di download dal Play Store**  
+  Fonte: The Hacker News, 08 May 2026, 15:08:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html>)
+
+- **All'interno del Dipartimento 4: la scuola segreta russa per hacker**  
+  Fonte: Graham Cluley, 08 May 2026, 14:36:50 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/inside-department-4-russias-secret-school-for-hackers>)
+
+- **Perché un numero maggiore di analisti non risolverà il problema degli avvisi del tuo SOC**  
+  Fonte: BleepingComputer, 08 May 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/>)
+
+- **Un clic, spegnimento totale: il webinar "Patient Zero" sull'eliminazione delle violazioni stealth**  
+  Fonte: The Hacker News, 08 May 2026, 14:01:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html>)
+
+- **Violazione del codice sorgente di Trellix rivendicata dagli hacker di RansomHouse**  
+  Fonte: BleepingComputer, 08 May 2026, 13:23:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/>)
+
+- **La CISA concede ai federali quattro giorni per correggere la falla di Ivanti sfruttata come zero-day**  
+  Fonte: BleepingComputer, 08 May 2026, 12:16:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/>)
+
+- **Quasar Linux RAT ruba le credenziali degli sviluppatori per aver compromesso la catena di fornitura del software**  
+  Fonte: The Hacker News, 08 May 2026, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html>)
+
+- **La violazione dei dati di Zara ha esposto le informazioni personali di 197.000 persone**  
+  Fonte: BleepingComputer, 08 May 2026, 10:42:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/>)
+
+- **Una minaccia mancata alla settimana: cosa rivelano 25 milioni di avvisi sul rischio di bassa gravità**  
+  Fonte: The Hacker News, 08 May 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html>)
+
+- **Lo Sri Lanka effettua 37 arresti mentre fa irruzione in un altro centro anti-truffa**  
+  Fonte: Graham Cluley, 08 May 2026, 09:30:20 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/sri-lanka-37-arrests-scam-centre>)
+
+- **Ex appaltatore governativo condannato per aver cancellato dozzine di database federali**  
+  Fonte: BleepingComputer, 08 May 2026, 08:45:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/>)
+
+- **La nuova backdoor Linux PamDOORa utilizza i moduli PAM per rubare le credenziali SSH**  
+  Fonte: The Hacker News, 08 May 2026, 08:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html>)
+
+- **Il nuovo zero-day Linux "Dirty Frag" dà il root su tutte le principali distribuzioni**  
+  Fonte: BleepingComputer, 08 May 2026, 07:45:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/>)
+
 - **L'exploit LPE Dirty Frag del kernel Linux consente l'accesso root nelle principali distribuzioni**  
   Fonte: The Hacker News, 08 May 2026, 05:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html>)
@@ -42,15 +114,11 @@
   Fonte: BleepingComputer, 07 May 2026, 14:01:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/>)
 
-- **Un clic, spegnimento totale: il webinar "Paziente Zero" sull'eliminazione delle violazioni stealth**  
-  Fonte: The Hacker News, 07 May 2026, 13:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html>)
-
 - **Americani condannati per aver gestito "laptop farm" per conto della Corea del Nord**  
   Fonte: BleepingComputer, 07 May 2026, 13:45:48 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/>)
 
-- **PAN-OS RCE Exploit in uso attivo che abilita l'accesso root e lo spionaggio**  
+- **PAN-OS RCE Exploit in uso attivo che consente l'accesso root e lo spionaggio**  
   Fonte: The Hacker News, 07 May 2026, 13:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html>)
 
@@ -62,10 +130,6 @@
   Fonte: BleepingComputer, 07 May 2026, 12:11:53 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/>)
 
-- **Webinar: Perché gli attacchi moderni richiedono sia sicurezza che ripristino**  
-  Fonte: BleepingComputer, 07 May 2026, 12:00:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/>)
-
 - **Bollettino ThreatsDay: password Edge in testo normale, ICS 0-Days, avvisi Patch-or-Die e oltre 25 nuove storie**  
   Fonte: The Hacker News, 07 May 2026, 11:33:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html>)
@@ -74,17 +138,9 @@
   Fonte: Schneier on Security, 07 May 2026, 11:07:07 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html>)
 
-- **Il firewall zero-day di Palo Alto Networks è stato sfruttato per quasi un mese**  
-  Fonte: BleepingComputer, 07 May 2026, 10:57:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/>)
-
 - **Preparazione al giorno zero: le lacune operative che ostacolano la risposta agli incidenti**  
   Fonte: The Hacker News, 07 May 2026, 10:54:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html>)
-
-- **Il sito Web falso di Claude AI fornisce il nuovo malware Windows "Beagle".**  
-  Fonte: BleepingComputer, 07 May 2026, 10:02:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/>)
 
 - **I pacchetti PyPI distribuiscono malware ZiChatBot tramite le API Zulip su Windows e Linux**  
   Fonte: The Hacker News, 07 May 2026, 09:20:00 UTC  
@@ -98,25 +154,9 @@
   Fonte: Graham Cluley, 06 May 2026, 23:30:49 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-466/>)
 
-- **Gli hacker abusano degli annunci Google per il phishing dell'accesso di GoDaddy ManageWP**  
-  Fonte: BleepingComputer, 06 May 2026, 21:36:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/>)
-
 - **La botnet xlabs_v1 basata su Mirai sfrutta ADB per dirottare i dispositivi IoT per attacchi DDoS**  
   Fonte: The Hacker News, 06 May 2026, 20:21:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html>)
-
-- **Il bug critico della sandbox VM2 consente agli aggressori di eseguire codice sugli host**  
-  Fonte: BleepingComputer, 06 May 2026, 18:38:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/>)
-
-- **Il nuovo difetto Cisco DoS richiede il riavvio manuale per ripristinare i dispositivi**  
-  Fonte: BleepingComputer, 06 May 2026, 18:06:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/>)
-
-- **Gli sviluppatori di DAEMON Tools confermano la violazione e rilasciano una versione priva di malware**  
-  Fonte: BleepingComputer, 06 May 2026, 16:43:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/>)
 
 - **MuddyWater utilizza Microsoft Teams per rubare credenziali in un attacco ransomware false flag**  
   Fonte: The Hacker News, 06 May 2026, 13:00:00 UTC  
@@ -230,37 +270,5 @@
   Fonte: The Hacker News, 03 May 2026, 06:26:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html>)
 
-- **Trellix conferma la violazione del codice sorgente con accesso non autorizzato al repository**  
-  Fonte: The Hacker News, 02 May 2026, 06:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html>)
 
-- **30.000 account Facebook violati tramite la campagna di phishing di Google AppSheet**  
-  Fonte: The Hacker News, 01 May 2026, 18:09:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html>)
-
-- **Gruppi di criminalità informatica che utilizzano il Vishing e l'abuso SSO negli attacchi rapidi di estorsione SaaS**  
-  Fonte: The Hacker News, 01 May 2026, 14:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html>)
-
-- **Gli hacker legati alla Cina prendono di mira i governi asiatici, lo stato della NATO, i giornalisti e gli attivisti**  
-  Fonte: The Hacker News, 01 May 2026, 14:02:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html>)
-
-- **Un negoziatore di ransomware lavorava per una banda di ransomware**  
-  Fonte: Schneier on Security, 01 May 2026, 11:18:43 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html>)
-
-- **Le cinque principali sfide di vendita che costano agli MSP le entrate legate alla sicurezza informatica**  
-  Fonte: The Hacker News, 01 May 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html>)
-
-- **Due professionisti della sicurezza informatica vengono condannati a 4 anni per attacchi ransomware BlackCat**  
-  Fonte: The Hacker News, 01 May 2026, 09:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html>)
-
-- **Le gemme Ruby avvelenate e i moduli Go sfruttano le pipeline CI per il furto di credenziali**  
-  Fonte: The Hacker News, 01 May 2026, 09:43:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-08 07:16:32 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-09 07:44:00 UTC -->
