@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Sito JDownloader violato per sostituire i programmi di installazione con malware Python RAT**  
+  Fonte: BleepingComputer, 09 May 2026, 19:27:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/>)
+
+- **Il falso repository OpenAI su Hugging Face distribuisce malware infostealer**  
+  Fonte: BleepingComputer, 09 May 2026, 14:26:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/>)
+
+- **cPanel, correzioni di rilascio WHM per tre nuove vulnerabilità: patch ora**  
+  Fonte: The Hacker News, 09 May 2026, 07:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html>)
+
 - **Blog sui calamari del venerdì: i calamari giganti vivono nelle acque dell'Australia occidentale**  
   Fonte: Schneier on Security, 08 May 2026, 21:03:28 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html>)
@@ -34,7 +46,7 @@
   Fonte: BleepingComputer, 08 May 2026, 14:02:12 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/>)
 
-- **Un clic, spegnimento totale: il webinar "Patient Zero" sull'eliminazione delle violazioni stealth**  
+- **Un clic, spegnimento totale: il webinar "Paziente Zero" sull'eliminazione delle violazioni stealth**  
   Fonte: The Hacker News, 08 May 2026, 14:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html>)
 
@@ -50,7 +62,7 @@
   Fonte: The Hacker News, 08 May 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html>)
 
-- **La violazione dei dati di Zara ha esposto le informazioni personali di 197.000 persone**  
+- **La violazione dei dati di Zara ha rivelato le informazioni personali di 197.000 persone**  
   Fonte: BleepingComputer, 08 May 2026, 10:42:22 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/>)
 
@@ -114,21 +126,13 @@
   Fonte: BleepingComputer, 07 May 2026, 14:01:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/>)
 
-- **Americani condannati per aver gestito "laptop farm" per conto della Corea del Nord**  
-  Fonte: BleepingComputer, 07 May 2026, 13:45:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/>)
-
-- **PAN-OS RCE Exploit in uso attivo che consente l'accesso root e lo spionaggio**  
+- **PAN-OS RCE Exploit in uso attivo che abilita l'accesso root e lo spionaggio**  
   Fonte: The Hacker News, 07 May 2026, 13:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html>)
 
 - **Come Cloudflare ha risposto alla vulnerabilità Linux "Copy Fail".**  
   Fonte: Cloudflare Blog - Security, 07 May 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/>)
-
-- **Membro di una gang di criptovalute ottiene 6,5 anni per il ruolo in una rapina da 230 milioni di dollari**  
-  Fonte: BleepingComputer, 07 May 2026, 12:11:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/>)
 
 - **Bollettino ThreatsDay: password Edge in testo normale, ICS 0-Days, avvisi Patch-or-Die e oltre 25 nuove storie**  
   Fonte: The Hacker News, 07 May 2026, 11:33:00 UTC  
@@ -266,9 +270,5 @@
   Fonte: The Hacker News, 04 May 2026, 05:59:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html>)
 
-- **CISA aggiunge a KEV il bug di accesso root di Linux attivamente sfruttato CVE-2026-31431**  
-  Fonte: The Hacker News, 03 May 2026, 06:26:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-05-09 07:44:00 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-10 07:57:58 UTC -->
