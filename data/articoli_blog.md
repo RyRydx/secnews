@@ -2,6 +2,30 @@
 
 ## Ultimi 7 giorni
 
+- **Il repository falso del filtro privacy OpenAI raggiunge il primo posto su Hugging Face, attira 244.000 download**  
+  Fonte: The Hacker News, 11 May 2026, 07:05:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html>)
+
+- **Diamo il benvenuto al governo costaricano per Have I Been Pwned**  
+  Fonte: Troy Hunt, 11 May 2026, 00:24:17 UTC  
+  [Leggi](<https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/>)
+
+- **Aggiornamento settimanale 503**  
+  Fonte: Troy Hunt, 10 May 2026, 23:52:52 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-503/>)
+
+- **Gli hacker abusano degli annunci Google e delle chat di Claude.ai per diffondere malware per Mac**  
+  Fonte: BleepingComputer, 10 May 2026, 17:52:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/>)
+
+- **La polizia chiude il riavvio del mercato Crimenetwork e arresta l'amministratore**  
+  Fonte: BleepingComputer, 10 May 2026, 14:16:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/>)
+
+- **La vulnerabilità di lettura fuori limite di Ollama consente la perdita di memoria del processo remoto**  
+  Fonte: The Hacker News, 10 May 2026, 12:41:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html>)
+
 - **Sito JDownloader violato per sostituire i programmi di installazione con malware Python RAT**  
   Fonte: BleepingComputer, 09 May 2026, 19:27:58 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/>)
@@ -10,7 +34,7 @@
   Fonte: BleepingComputer, 09 May 2026, 14:26:03 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/>)
 
-- **cPanel, correzioni di rilascio WHM per tre nuove vulnerabilità: patch ora**  
+- **cPanel, correzioni di rilascio di WHM per tre nuove vulnerabilità: patch ora**  
   Fonte: The Hacker News, 09 May 2026, 07:16:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html>)
 
@@ -22,7 +46,7 @@
   Fonte: The Hacker News, 08 May 2026, 18:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html>)
 
-- **Scommesse privilegiate su Polymarket**  
+- **Scommesse privilegiate sul Polymarket**  
   Fonte: Schneier on Security, 08 May 2026, 17:49:01 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/insider-betting-on-polymarket.html>)
 
@@ -46,7 +70,7 @@
   Fonte: BleepingComputer, 08 May 2026, 14:02:12 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/>)
 
-- **Un clic, spegnimento totale: il webinar "Paziente Zero" sull'eliminazione delle violazioni stealth**  
+- **Un clic, spegnimento totale: il webinar "Patient Zero" sull'eliminazione delle violazioni stealth**  
   Fonte: The Hacker News, 08 May 2026, 14:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html>)
 
@@ -118,15 +142,7 @@
   Fonte: The Hacker News, 07 May 2026, 17:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html>)
 
-- **Ivanti avverte di una nuova falla EPMM sfruttata negli attacchi zero-day**  
-  Fonte: BleepingComputer, 07 May 2026, 15:20:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/>)
-
-- **Il browser sta distruggendo il tuo DLP: come i dati sfuggono ai controlli moderni**  
-  Fonte: BleepingComputer, 07 May 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/>)
-
-- **PAN-OS RCE Exploit in uso attivo che abilita l'accesso root e lo spionaggio**  
+- **PAN-OS RCE Exploit in uso attivo che consente l'accesso root e lo spionaggio**  
   Fonte: The Hacker News, 07 May 2026, 13:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html>)
 
@@ -266,9 +282,5 @@
   Fonte: The Hacker News, 04 May 2026, 09:27:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html>)
 
-- **La repressione globale arresta 276 persone, chiude 9 centri di truffe crittografiche e sequestra 701 milioni di dollari**  
-  Fonte: The Hacker News, 04 May 2026, 05:59:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-05-10 07:57:58 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-11 08:59:15 UTC -->
