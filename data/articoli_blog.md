@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Instructure raggiunge un accordo di riscatto con ShinyHunters per fermare la perdita di tela di 3,65 TB**  
+  Fonte: The Hacker News, 12 May 2026, 07:37:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html>)
+
+- **OpenAI lancia Daybreak per il rilevamento delle vulnerabilità e la convalida delle patch basati sull'intelligenza artificiale**  
+  Fonte: The Hacker News, 12 May 2026, 06:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html>)
+
+- **iOS 26.5 porta la messaggistica RCS crittografata end-to-end predefinita tra iPhone e Android**  
+  Fonte: The Hacker News, 12 May 2026, 05:18:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html>)
+
+- **GM accetta un accordo da 12,75 milioni di dollari in California per la vendita dei dati dei conducenti**  
+  Fonte: BleepingComputer, 11 May 2026, 22:40:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/>)
+
+- **Accogliendo favorevolmente il governo del Bangladesh a Have I Been Pwned**  
+  Fonte: Troy Hunt, 11 May 2026, 22:27:32 UTC  
+  [Leggi](<https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/>)
+
+- **Pacchetto ufficiale CheckMarx Jenkins compromesso con infostealer**  
+  Fonte: BleepingComputer, 11 May 2026, 22:03:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/>)
+
+- **Il nuovo strumento GhostLock abusa dell'API di Windows per bloccare l'accesso ai file**  
+  Fonte: BleepingComputer, 11 May 2026, 22:02:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/>)
+
+- **TeamPCP compromette il plug-in AST di Checkmarx Jenkins settimane dopo l'attacco alla catena di fornitura KICS**  
+  Fonte: The Hacker News, 11 May 2026, 18:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html>)
+
+- **cPanel CVE-2026-41940 sotto sfruttamento attivo per distribuire la backdoor del Filemanager**  
+  Fonte: The Hacker News, 11 May 2026, 17:54:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html>)
+
+- **Gli hacker hanno utilizzato l'intelligenza artificiale per sviluppare il primo bypass Zero-Day 2FA per lo sfruttamento di massa**  
+  Fonte: The Hacker News, 11 May 2026, 15:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html>)
+
+- **Instructure conferma che gli hacker hanno utilizzato la falla Canvas per deturpare i portali**  
+  Fonte: BleepingComputer, 11 May 2026, 15:26:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/>)
+
+- **Perché la modifica delle password non pone fine a una violazione di Active Directory**  
+  Fonte: BleepingComputer, 11 May 2026, 13:53:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/>)
+
+- **Google: gli hacker hanno utilizzato l'intelligenza artificiale per sviluppare exploit zero-day per lo strumento di amministrazione web**  
+  Fonte: BleepingComputer, 11 May 2026, 13:02:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/>)
+
+- **⚡ Riepilogo settimanale: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmer e altro**  
+  Fonte: The Hacker News, 11 May 2026, 12:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html>)
+
+- **Webinar questa settimana: La sola prevenzione non è sufficiente contro gli attacchi moderni**  
+  Fonte: BleepingComputer, 11 May 2026, 12:30:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/>)
+
+- **La tua squadra viola non è viola: è solo rossa e blu nella stessa stanza**  
+  Fonte: The Hacker News, 11 May 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html>)
+
+- **LLM e steganografia del testo nel testo**  
+  Fonte: Schneier on Security, 11 May 2026, 11:04:29 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html>)
+
+- **Il banchiere Android TrickMo adotta la blockchain TON per le comunicazioni segrete**  
+  Fonte: BleepingComputer, 11 May 2026, 09:03:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/>)
+
 - **Il repository falso del filtro privacy OpenAI raggiunge il primo posto su Hugging Face, attira 244.000 download**  
   Fonte: The Hacker News, 11 May 2026, 07:05:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html>)
@@ -46,7 +118,7 @@
   Fonte: The Hacker News, 08 May 2026, 18:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html>)
 
-- **Scommesse privilegiate sul Polymarket**  
+- **Scommesse privilegiate su Polymarket**  
   Fonte: Schneier on Security, 08 May 2026, 17:49:01 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/insider-betting-on-polymarket.html>)
 
@@ -78,17 +150,9 @@
   Fonte: BleepingComputer, 08 May 2026, 13:23:23 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/>)
 
-- **La CISA concede ai federali quattro giorni per correggere la falla di Ivanti sfruttata come zero-day**  
-  Fonte: BleepingComputer, 08 May 2026, 12:16:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/>)
-
 - **Quasar Linux RAT ruba le credenziali degli sviluppatori per aver compromesso la catena di fornitura del software**  
   Fonte: The Hacker News, 08 May 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html>)
-
-- **La violazione dei dati di Zara ha rivelato le informazioni personali di 197.000 persone**  
-  Fonte: BleepingComputer, 08 May 2026, 10:42:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/>)
 
 - **Una minaccia mancata alla settimana: cosa rivelano 25 milioni di avvisi sul rischio di bassa gravità**  
   Fonte: The Hacker News, 08 May 2026, 10:30:00 UTC  
@@ -98,17 +162,9 @@
   Fonte: Graham Cluley, 08 May 2026, 09:30:20 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/sri-lanka-37-arrests-scam-centre>)
 
-- **Ex appaltatore governativo condannato per aver cancellato dozzine di database federali**  
-  Fonte: BleepingComputer, 08 May 2026, 08:45:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/>)
-
 - **La nuova backdoor Linux PamDOORa utilizza i moduli PAM per rubare le credenziali SSH**  
   Fonte: The Hacker News, 08 May 2026, 08:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html>)
-
-- **Il nuovo zero-day Linux "Dirty Frag" dà il root su tutte le principali distribuzioni**  
-  Fonte: BleepingComputer, 08 May 2026, 07:45:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/>)
 
 - **L'exploit LPE Dirty Frag del kernel Linux consente l'accesso root nelle principali distribuzioni**  
   Fonte: The Hacker News, 08 May 2026, 05:12:00 UTC  
@@ -118,22 +174,6 @@
   Fonte: Krebs on Security, 08 May 2026, 02:58:46 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/>)
 
-- **Portali di accesso Canvas violati nella campagna di estorsione di massa di ShinyHunters**  
-  Fonte: BleepingComputer, 07 May 2026, 22:36:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/>)
-
-- **Il nuovo malware TCLBanker si diffonde autonomamente su WhatsApp e Outlook**  
-  Fonte: BleepingComputer, 07 May 2026, 22:06:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/>)
-
-- **Il nuovo worm PCPJack ruba le credenziali e ripulisce le infezioni TeamPCP**  
-  Fonte: BleepingComputer, 07 May 2026, 18:35:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/>)
-
-- **L'Australia avverte degli attacchi ClickFix che diffondono il malware Vidar Stealer**  
-  Fonte: BleepingComputer, 07 May 2026, 18:00:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/>)
-
 - **Ivanti EPMM CVE-2026-6973 RCE in regime di sfruttamento attivo garantisce l'accesso a livello di amministratore**  
   Fonte: The Hacker News, 07 May 2026, 17:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html>)
@@ -142,7 +182,7 @@
   Fonte: The Hacker News, 07 May 2026, 17:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html>)
 
-- **PAN-OS RCE Exploit in uso attivo che consente l'accesso root e lo spionaggio**  
+- **PAN-OS RCE Exploit in uso attivo che abilita l'accesso root e lo spionaggio**  
   Fonte: The Hacker News, 07 May 2026, 13:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html>)
 
@@ -242,45 +282,5 @@
   Fonte: The Hacker News, 05 May 2026, 09:07:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html>)
 
-- **Weaver E-cology RCE Flaw CVE-2026-22679 Sfruttato attivamente tramite API di debug**  
-  Fonte: The Hacker News, 05 May 2026, 07:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html>)
 
-- **Microsoft dettaglia una campagna di phishing rivolta a 35.000 utenti in 26 paesi**  
-  Fonte: The Hacker News, 05 May 2026, 06:35:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html>)
-
-- **Una campagna di phishing colpisce oltre 80 organizzazioni utilizzando gli strumenti RMM SimpleHelp e ScreenConnect**  
-  Fonte: The Hacker News, 04 May 2026, 18:06:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html>)
-
-- **Patch di avanzamento Bug critico di automazione MOVEit che abilita il bypass dell'autenticazione**  
-  Fonte: The Hacker News, 04 May 2026, 16:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/progress-patches-critical-moveit.html>)
-
-- **⚡ Riepilogo settimanale: phishing basato sull'intelligenza artificiale, strumento di spionaggio Android, exploit Linux, GitHub RCE e altro**  
-  Fonte: The Hacker News, 04 May 2026, 14:23:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html>)
-
-- **2026: l’anno degli attacchi assistiti dall’intelligenza artificiale**  
-  Fonte: The Hacker News, 04 May 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html>)
-
-- **Silver Fox distribuisce il malware ABCDoor tramite phishing a tema fiscale in India e Russia**  
-  Fonte: The Hacker News, 04 May 2026, 11:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html>)
-
-- **Un adolescente presumibilmente hacker di Scattered Spider arrestato in Finlandia rischia l'estradizione negli Stati Uniti**  
-  Fonte: Graham Cluley, 04 May 2026, 11:42:44 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-scattered-spider-hacker-extradition>)
-
-- **Hacking del Polimercato**  
-  Fonte: Schneier on Security, 04 May 2026, 09:46:31 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html>)
-
-- **Vulnerabilità critica di cPanel sfruttata come arma per colpire reti governative e MSP**  
-  Fonte: The Hacker News, 04 May 2026, 09:27:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-11 08:59:15 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-12 08:26:57 UTC -->
