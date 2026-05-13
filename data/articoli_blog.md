@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **Android aggiunge la registrazione delle intrusioni per sofisticate indagini forensi sullo spyware**  
+  Fonte: The Hacker News, 13 May 2026, 06:55:42 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html>)
+
+- **Il governo degli Stati Uniti cerca testimonianze di Instructure sul massiccio attacco informatico Canvas**  
+  Fonte: BleepingComputer, 12 May 2026, 23:09:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/>)
+
+- **Patch Tuesday, edizione maggio 2026**  
+  Fonte: Krebs on Security, 12 May 2026, 21:46:45 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/>)
+
+- **Il Regno Unito multa il fornitore di acqua per 1,3 milioni di dollari per aver esposto i dati di 664.000 clienti**  
+  Fonte: BleepingComputer, 12 May 2026, 20:17:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/>)
+
+- **Webinar: colmare le lacune nella risposta agli incidenti di rete**  
+  Fonte: BleepingComputer, 12 May 2026, 19:46:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/>)
+
+- **Signal aggiunge avvisi di sicurezza per attacchi di ingegneria sociale e phishing**  
+  Fonte: BleepingComputer, 12 May 2026, 19:40:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/>)
+
+- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5087544 di Windows 10**  
+  Fonte: BleepingComputer, 12 May 2026, 18:58:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/>)
+
+- **Fortinet avverte di difetti critici RCE in FortiSandbox e FortiAuthenticator**  
+  Fonte: BleepingComputer, 12 May 2026, 18:23:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/>)
+
+- **Aggiornamenti cumulativi KB5089549 e KB5087420 di Windows 11 rilasciati**  
+  Fonte: BleepingComputer, 12 May 2026, 18:09:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/>)
+
+- **Il Patch Tuesday di maggio 2026 di Microsoft corregge 120 difetti, senza zero-day**  
+  Fonte: BleepingComputer, 12 May 2026, 18:08:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/>)
+
+- **Škoda avverte della violazione dei dati dei clienti dopo l'hacking del negozio online**  
+  Fonte: BleepingComputer, 12 May 2026, 17:07:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/>)
+
+- **Android 17 per espandere le chiamate anti-truffa bancaria e la protezione della privacy**  
+  Fonte: BleepingComputer, 12 May 2026, 17:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/>)
+
+- **La nuova vulnerabilità Exim BDAT espone le build GnuTLS a una potenziale esecuzione di codice**  
+  Fonte: The Hacker News, 12 May 2026, 16:44:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html>)
+
+- **RubyGems sospende le nuove iscrizioni dopo il caricamento di centinaia di pacchetti dannosi**  
+  Fonte: The Hacker News, 12 May 2026, 14:47:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html>)
+
+- **La nuova variante TrickMo utilizza TON C2 e SOCKS5 per creare pivot di rete Android**  
+  Fonte: The Hacker News, 12 May 2026, 12:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html>)
+
+- **Webinar: Quali sono gli avvisi SOC più rischiosi che rimangono senza risposta e in che modo Radiant Security può essere d'aiuto**  
+  Fonte: The Hacker News, 12 May 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html>)
+
+- **Mini Shai-Hulud Worm compromette TanStack, Mistral AI, Guardrails AI e altri pacchetti**  
+  Fonte: The Hacker News, 12 May 2026, 11:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html>)
+
+- **Le navi d'attacco Shai Hulud hanno firmato pacchetti TanStack e Mistral npm dannosi**  
+  Fonte: BleepingComputer, 12 May 2026, 11:29:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/>)
+
+- **Vulnerabilità Linux Copy.Fail**  
+  Fonte: Schneier on Security, 12 May 2026, 11:06:12 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html>)
+
+- **SAP risolve le vulnerabilità critiche in Commerce Cloud e S/4HANA**  
+  Fonte: BleepingComputer, 12 May 2026, 11:04:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/>)
+
+- **Perché l'IA Agentic è il prossimo punto cieco della sicurezza**  
+  Fonte: The Hacker News, 12 May 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html>)
+
+- **L'infrastruttura raggiunge un "accordo" con ShinyHunters per fermare la fuga di dati**  
+  Fonte: BleepingComputer, 12 May 2026, 09:23:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/>)
+
 - **Instructure raggiunge un accordo di riscatto con ShinyHunters per fermare la perdita di tela di 3,65 TB**  
   Fonte: The Hacker News, 12 May 2026, 07:37:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html>)
@@ -26,10 +114,6 @@
   Fonte: BleepingComputer, 11 May 2026, 22:03:06 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/>)
 
-- **Il nuovo strumento GhostLock abusa dell'API di Windows per bloccare l'accesso ai file**  
-  Fonte: BleepingComputer, 11 May 2026, 22:02:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/>)
-
 - **TeamPCP compromette il plug-in AST di Checkmarx Jenkins settimane dopo l'attacco alla catena di fornitura KICS**  
   Fonte: The Hacker News, 11 May 2026, 18:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html>)
@@ -42,25 +126,9 @@
   Fonte: The Hacker News, 11 May 2026, 15:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html>)
 
-- **Instructure conferma che gli hacker hanno utilizzato la falla Canvas per deturpare i portali**  
-  Fonte: BleepingComputer, 11 May 2026, 15:26:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/>)
-
-- **Perché la modifica delle password non pone fine a una violazione di Active Directory**  
-  Fonte: BleepingComputer, 11 May 2026, 13:53:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/>)
-
-- **Google: gli hacker hanno utilizzato l'intelligenza artificiale per sviluppare exploit zero-day per lo strumento di amministrazione web**  
-  Fonte: BleepingComputer, 11 May 2026, 13:02:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/>)
-
 - **⚡ Riepilogo settimanale: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmer e altro**  
   Fonte: The Hacker News, 11 May 2026, 12:36:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html>)
-
-- **Webinar questa settimana: La sola prevenzione non è sufficiente contro gli attacchi moderni**  
-  Fonte: BleepingComputer, 11 May 2026, 12:30:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/>)
 
 - **La tua squadra viola non è viola: è solo rossa e blu nella stessa stanza**  
   Fonte: The Hacker News, 11 May 2026, 11:30:00 UTC  
@@ -69,10 +137,6 @@
 - **LLM e steganografia del testo nel testo**  
   Fonte: Schneier on Security, 11 May 2026, 11:04:29 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html>)
-
-- **Il banchiere Android TrickMo adotta la blockchain TON per le comunicazioni segrete**  
-  Fonte: BleepingComputer, 11 May 2026, 09:03:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/>)
 
 - **Il repository falso del filtro privacy OpenAI raggiunge il primo posto su Hugging Face, attira 244.000 download**  
   Fonte: The Hacker News, 11 May 2026, 07:05:00 UTC  
@@ -86,25 +150,9 @@
   Fonte: Troy Hunt, 10 May 2026, 23:52:52 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-503/>)
 
-- **Gli hacker abusano degli annunci Google e delle chat di Claude.ai per diffondere malware per Mac**  
-  Fonte: BleepingComputer, 10 May 2026, 17:52:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/>)
-
-- **La polizia chiude il riavvio del mercato Crimenetwork e arresta l'amministratore**  
-  Fonte: BleepingComputer, 10 May 2026, 14:16:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/>)
-
 - **La vulnerabilità di lettura fuori limite di Ollama consente la perdita di memoria del processo remoto**  
   Fonte: The Hacker News, 10 May 2026, 12:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html>)
-
-- **Sito JDownloader violato per sostituire i programmi di installazione con malware Python RAT**  
-  Fonte: BleepingComputer, 09 May 2026, 19:27:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/>)
-
-- **Il falso repository OpenAI su Hugging Face distribuisce malware infostealer**  
-  Fonte: BleepingComputer, 09 May 2026, 14:26:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/>)
 
 - **cPanel, correzioni di rilascio di WHM per tre nuove vulnerabilità: patch ora**  
   Fonte: The Hacker News, 09 May 2026, 07:16:00 UTC  
@@ -122,10 +170,6 @@
   Fonte: Schneier on Security, 08 May 2026, 17:49:01 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/insider-betting-on-polymarket.html>)
 
-- **NVIDIA conferma che la violazione dei dati di GeForce NOW ha colpito gli utenti armeni**  
-  Fonte: BleepingComputer, 08 May 2026, 16:18:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/>)
-
 - **Un lavoratore su otto nel Regno Unito ha venduto le password aziendali e i capi pensano che vada bene**  
   Fonte: Graham Cluley, 08 May 2026, 15:20:45 UTC  
   [Leggi](<https://www.fortra.com/blog/one-eight-uk-workers-has-sold-their-company-passwords-and-bosses-think-its-fine>)
@@ -138,17 +182,9 @@
   Fonte: Graham Cluley, 08 May 2026, 14:36:50 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/inside-department-4-russias-secret-school-for-hackers>)
 
-- **Perché un numero maggiore di analisti non risolverà il problema degli avvisi del tuo SOC**  
-  Fonte: BleepingComputer, 08 May 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/>)
-
 - **Un clic, spegnimento totale: il webinar "Patient Zero" sull'eliminazione delle violazioni stealth**  
   Fonte: The Hacker News, 08 May 2026, 14:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html>)
-
-- **Violazione del codice sorgente di Trellix rivendicata dagli hacker di RansomHouse**  
-  Fonte: BleepingComputer, 08 May 2026, 13:23:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/>)
 
 - **Quasar Linux RAT ruba le credenziali degli sviluppatori per aver compromesso la catena di fornitura del software**  
   Fonte: The Hacker News, 08 May 2026, 11:00:00 UTC  
@@ -242,45 +278,5 @@
   Fonte: The Hacker News, 06 May 2026, 08:34:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html>)
 
-- **Il difetto PAN-OS di Palo Alto durante lo sfruttamento attivo consente l'esecuzione di codice remoto**  
-  Fonte: The Hacker News, 06 May 2026, 06:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html>)
 
-- **Aggiornamento settimanale 502**  
-  Fonte: Troy Hunt, 06 May 2026, 00:14:13 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-502/>)
-
-- **Il difetto critico Apache HTTP/2 (CVE-2026-23918) consente DoS e potenziale RCE**  
-  Fonte: The Hacker News, 05 May 2026, 16:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html>)
-
-- **L'attacco alla catena di fornitura di DAEMON Tools compromette gli installatori ufficiali con malware**  
-  Fonte: The Hacker News, 05 May 2026, 16:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html>)
-
-- **UAT-8302 collegato alla Cina prende di mira i governi che utilizzano malware APT condiviso in tutte le regioni**  
-  Fonte: The Hacker News, 05 May 2026, 14:19:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html>)
-
-- **Gli aggressori della backdoor sono a conoscenza e la maggior parte dei team di sicurezza non l'ha ancora chiusa**  
-  Fonte: The Hacker News, 05 May 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html>)
-
-- **MetInfo CMS CVE-2026-29014 sfruttato per attacchi di esecuzione di codice in modalità remota**  
-  Fonte: The Hacker News, 05 May 2026, 11:56:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html>)
-
-- **Malware DarkSword**  
-  Fonte: Schneier on Security, 05 May 2026, 10:42:03 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/darksword-malware.html>)
-
-- **Abbiamo scansionato 1 milione di servizi IA esposti.Ecco quanto è effettivamente pessima la sicurezza**  
-  Fonte: The Hacker News, 05 May 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html>)
-
-- **ScarCruft hackera la piattaforma di gioco per distribuire il malware BirdCall su Android e Windows**  
-  Fonte: The Hacker News, 05 May 2026, 09:07:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-12 08:26:57 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-13 08:33:52 UTC -->
