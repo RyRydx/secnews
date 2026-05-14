@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **La nuova falla Fragnesia Linux consente agli aggressori di ottenere i privilegi di root**  
+  Fonte: BleepingComputer, 14 May 2026, 07:34:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/>)
+
+- **Il nuovo Fragnesia Linux Kernel LPE garantisce l'accesso root tramite la corruzione della cache della pagina**  
+  Fonte: The Hacker News, 14 May 2026, 07:06:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html>)
+
+- **Un difetto del modulo di riscrittura NGINX di 18 anni consente RCE non autenticato**  
+  Fonte: The Hacker News, 14 May 2026, 06:00:09 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html>)
+
+- **Diamo il benvenuto al governo delle Bahamas per Have I Been Pwned**  
+  Fonte: Troy Hunt, 14 May 2026, 03:49:29 UTC  
+  [Leggi](<https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/>)
+
+- **Podcast di Smashing Security n. 467: Come ShinyHunters ha hackerato le più grandi università del mondo**  
+  Fonte: Graham Cluley, 13 May 2026, 23:05:09 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-467/>)
+
+- **West Pharmaceutical afferma che gli hacker hanno rubato dati e sistemi crittografati**  
+  Fonte: BleepingComputer, 13 May 2026, 22:23:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/>)
+
+- **Gli hacker iraniani hanno preso di mira un importante produttore di elettronica sudcoreano**  
+  Fonte: BleepingComputer, 13 May 2026, 21:59:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/>)
+
+- **Il nuovo difetto critico del mailer Exim consente l'esecuzione di codice in modalità remota**  
+  Fonte: BleepingComputer, 13 May 2026, 20:23:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/>)
+
+- **Windows BitLocker zero-day consente l'accesso alle unità protette, PoC rilasciato**  
+  Fonte: BleepingComputer, 13 May 2026, 16:37:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/>)
+
+- **Webinar di domani: Perché la sicurezza da sola non basta a fermare gli attacchi moderni**  
+  Fonte: BleepingComputer, 13 May 2026, 15:45:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/>)
+
+- **Microsoft risolve il problema di ripristino di BitLocker solo per gli utenti di Windows 11**  
+  Fonte: BleepingComputer, 13 May 2026, 15:42:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/>)
+
+- **Microsoft risolve il bug di Windows Autopatch installando driver limitati**  
+  Fonte: BleepingComputer, 13 May 2026, 14:36:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/>)
+
+- **Il sistema MDASH AI di Microsoft rileva 16 difetti di Windows risolti nel Patch Tuesday**  
+  Fonte: The Hacker News, 13 May 2026, 13:46:02 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html>)
+
+- **Azienda energetica azera colpita da ripetuti sfruttamenti di Microsoft Exchange**  
+  Fonte: The Hacker News, 13 May 2026, 13:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html>)
+
+- **Foxconn conferma l'attacco informatico rivendicato dal gruppo di ransomware Nitrogen**  
+  Fonte: BleepingComputer, 13 May 2026, 12:49:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/>)
+
+- **73 secondi per violare, 24 ore per applicare la patch: il caso della convalida autonoma**  
+  Fonte: BleepingComputer, 13 May 2026, 12:30:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/>)
+
+- **Microsoft afferma che alcuni utenti non possono installare Office su dispositivi Windows 365**  
+  Fonte: BleepingComputer, 13 May 2026, 11:53:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/>)
+
+- **[Webinar] In che modo i percorsi di attacco moderni attraversano codice, pipeline e cloud**  
+  Fonte: The Hacker News, 13 May 2026, 11:52:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html>)
+
+- **La maggior parte dei programmi di riparazione non conferma mai che la correzione ha effettivamente funzionato**  
+  Fonte: The Hacker News, 13 May 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html>)
+
+- **GPT-5.5 di OpenAI è altrettanto efficace nel trovare le vulnerabilità della sicurezza**  
+  Fonte: Schneier on Security, 13 May 2026, 11:03:03 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html>)
+
+- **Microsoft corregge 138 vulnerabilità, inclusi difetti RCE DNS e Netlogon**  
+  Fonte: The Hacker News, 13 May 2026, 10:36:10 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html>)
+
+- **GemStuffer abusa di oltre 150 RubyGems per esfiltrare i dati rubati dal portale del Consiglio del Regno Unito**  
+  Fonte: The Hacker News, 13 May 2026, 08:08:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html>)
+
 - **Android aggiunge la registrazione delle intrusioni per sofisticate indagini forensi sullo spyware**  
   Fonte: The Hacker News, 13 May 2026, 06:55:42 UTC  
   [Leggi](<https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html>)
@@ -26,30 +114,6 @@
   Fonte: BleepingComputer, 12 May 2026, 19:40:31 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/>)
 
-- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5087544 di Windows 10**  
-  Fonte: BleepingComputer, 12 May 2026, 18:58:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/>)
-
-- **Fortinet avverte di difetti critici RCE in FortiSandbox e FortiAuthenticator**  
-  Fonte: BleepingComputer, 12 May 2026, 18:23:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/>)
-
-- **Aggiornamenti cumulativi KB5089549 e KB5087420 di Windows 11 rilasciati**  
-  Fonte: BleepingComputer, 12 May 2026, 18:09:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/>)
-
-- **Il Patch Tuesday di maggio 2026 di Microsoft corregge 120 difetti, senza zero-day**  
-  Fonte: BleepingComputer, 12 May 2026, 18:08:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/>)
-
-- **Škoda avverte della violazione dei dati dei clienti dopo l'hacking del negozio online**  
-  Fonte: BleepingComputer, 12 May 2026, 17:07:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/>)
-
-- **Android 17 per espandere le chiamate anti-truffa bancaria e la protezione della privacy**  
-  Fonte: BleepingComputer, 12 May 2026, 17:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/>)
-
 - **La nuova vulnerabilità Exim BDAT espone le build GnuTLS a una potenziale esecuzione di codice**  
   Fonte: The Hacker News, 12 May 2026, 16:44:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html>)
@@ -70,25 +134,13 @@
   Fonte: The Hacker News, 12 May 2026, 11:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html>)
 
-- **Le navi d'attacco Shai Hulud hanno firmato pacchetti TanStack e Mistral npm dannosi**  
-  Fonte: BleepingComputer, 12 May 2026, 11:29:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/>)
-
 - **Vulnerabilità Linux Copy.Fail**  
   Fonte: Schneier on Security, 12 May 2026, 11:06:12 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html>)
 
-- **SAP risolve le vulnerabilità critiche in Commerce Cloud e S/4HANA**  
-  Fonte: BleepingComputer, 12 May 2026, 11:04:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/>)
-
 - **Perché l'IA Agentic è il prossimo punto cieco della sicurezza**  
   Fonte: The Hacker News, 12 May 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html>)
-
-- **L'infrastruttura raggiunge un "accordo" con ShinyHunters per fermare la fuga di dati**  
-  Fonte: BleepingComputer, 12 May 2026, 09:23:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/>)
 
 - **Instructure raggiunge un accordo di riscatto con ShinyHunters per fermare la perdita di tela di 3,65 TB**  
   Fonte: The Hacker News, 12 May 2026, 07:37:00 UTC  
@@ -102,17 +154,9 @@
   Fonte: The Hacker News, 12 May 2026, 05:18:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html>)
 
-- **GM accetta un accordo da 12,75 milioni di dollari in California per la vendita dei dati dei conducenti**  
-  Fonte: BleepingComputer, 11 May 2026, 22:40:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/>)
-
 - **Accogliendo favorevolmente il governo del Bangladesh a Have I Been Pwned**  
   Fonte: Troy Hunt, 11 May 2026, 22:27:32 UTC  
   [Leggi](<https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/>)
-
-- **Pacchetto ufficiale CheckMarx Jenkins compromesso con infostealer**  
-  Fonte: BleepingComputer, 11 May 2026, 22:03:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/>)
 
 - **TeamPCP compromette il plug-in AST di Checkmarx Jenkins settimane dopo l'attacco alla catena di fornitura KICS**  
   Fonte: The Hacker News, 11 May 2026, 18:30:00 UTC  
@@ -166,7 +210,7 @@
   Fonte: The Hacker News, 08 May 2026, 18:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html>)
 
-- **Scommesse privilegiate su Polymarket**  
+- **Scommesse privilegiate sul Polymarket**  
   Fonte: Schneier on Security, 08 May 2026, 17:49:01 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/insider-betting-on-polymarket.html>)
 
@@ -242,41 +286,5 @@
   Fonte: The Hacker News, 07 May 2026, 09:20:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html>)
 
-- **Le vulnerabilità della libreria vm2 Node.js consentono l'escape del sandbox e l'esecuzione di codice arbitrario**  
-  Fonte: The Hacker News, 07 May 2026, 04:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html>)
 
-- **Podcast di Smashing Security n. 466: Meta vede tutto, la copia fallisce e viene ingaggiato un deepfake**  
-  Fonte: Graham Cluley, 06 May 2026, 23:30:49 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-466/>)
-
-- **La botnet xlabs_v1 basata su Mirai sfrutta ADB per dirottare i dispositivi IoT per attacchi DDoS**  
-  Fonte: The Hacker News, 06 May 2026, 20:21:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html>)
-
-- **MuddyWater utilizza Microsoft Teams per rubare credenziali in un attacco ransomware false flag**  
-  Fonte: The Hacker News, 06 May 2026, 13:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html>)
-
-- **The Hacker News lancia i "Cybersecurity Stars Awards 2026": le iscrizioni sono ora aperte**  
-  Fonte: The Hacker News, 06 May 2026, 12:03:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html>)
-
-- **I tuoi agenti IA sono già all'interno del perimetro.Sai cosa stanno facendo?**  
-  Fonte: The Hacker News, 06 May 2026, 10:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html>)
-
-- **Attacco Rowhammer contro i chip NVIDIA**  
-  Fonte: Schneier on Security, 06 May 2026, 10:36:59 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html>)
-
-- **Le app Android di Google ottengono la verifica pubblica per fermare gli attacchi alla catena di fornitura**  
-  Fonte: The Hacker News, 06 May 2026, 09:13:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/android-apps-get-public-verification.html>)
-
-- **Collegamento a Windows Phone sfruttato da CloudZ RAT per rubare credenziali e OTP**  
-  Fonte: The Hacker News, 06 May 2026, 08:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-13 08:33:52 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-14 08:28:39 UTC -->
