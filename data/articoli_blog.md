@@ -2,6 +2,98 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft Exchange Server on-premise CVE-2026-42897 sfruttato tramite posta elettronica predisposta**  
+  Fonte: The Hacker News, 15 May 2026, 06:19:04 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html>)
+
+- **CISA aggiunge Cisco SD-WAN CVE-2026-20182 a KEV dopo gli exploit dell'accesso amministrativo**  
+  Fonte: The Hacker News, 15 May 2026, 05:28:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html>)
+
+- **Gli hacker di TeamPCP pubblicizzano la vendita di repository di codici Mistral AI**  
+  Fonte: BleepingComputer, 14 May 2026, 22:50:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/>)
+
+- **Gli hacker sfruttano il difetto di bypass dell'autenticazione nel plugin WordPress Burst Statistics**  
+  Fonte: BleepingComputer, 14 May 2026, 21:07:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/>)
+
+- **Cisco avverte di una nuova falla critica SD-WAN sfruttata negli attacchi zero-day**  
+  Fonte: BleepingComputer, 14 May 2026, 20:09:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/>)
+
+- **Il presunto boss del Dream Market è stato arrestato dopo che i lingotti d'oro sono stati spediti al suo indirizzo di casa**  
+  Fonte: Graham Cluley, 14 May 2026, 19:46:35 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/dream-market-kingpin-arrested-gold-bars>)
+
+- **OpenAI conferma la violazione della sicurezza nell'attacco alla catena di fornitura TanStack**  
+  Fonte: BleepingComputer, 14 May 2026, 19:07:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/>)
+
+- **Windows 11 e Microsoft Edge violati al Pwn2Own Berlin 2026**  
+  Fonte: BleepingComputer, 14 May 2026, 18:53:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/>)
+
+- **Bypass di autenticazione del controller SD-WAN Cisco Catalyst sfruttato attivamente per ottenere l'accesso amministrativo**  
+  Fonte: The Hacker News, 14 May 2026, 17:45:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html>)
+
+- **Backdoor stealer trovata in 3 versioni Node-IPC che prendevano di mira i segreti degli sviluppatori**  
+  Fonte: The Hacker News, 14 May 2026, 17:22:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html>)
+
+- **Bollettino del ThreatsDay: PAN-OS RCE, bug Mythos cURL, attacchi tokenizzatore AI e oltre 10 storie**  
+  Fonte: The Hacker News, 14 May 2026, 16:07:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html>)
+
+- **Prossimi impegni di conferenza**  
+  Fonte: Schneier on Security, 14 May 2026, 16:01:06 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html>)
+
+- **La vulnerabilità NGINX di 18 anni consente DoS, potenziale RCE**  
+  Fonte: BleepingComputer, 14 May 2026, 15:43:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/>)
+
+- **Crimini legati ai carichi informatici: come il crimine informatico viene utilizzato per rubare le merci**  
+  Fonte: BleepingComputer, 14 May 2026, 15:21:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/>)
+
+- **Ghostwriter prende di mira il governo ucraino con il phishing PDF georecintato, Cobalt Strike**  
+  Fonte: The Hacker News, 14 May 2026, 14:00:37 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html>)
+
+- **Gli hacker di KongTuke ora utilizzano Microsoft Teams per violazioni aziendali**  
+  Fonte: BleepingComputer, 14 May 2026, 12:12:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/>)
+
+- **PraisonAI CVE-2026-44338 Bypass di autenticazione mirato entro poche ore dalla divulgazione**  
+  Fonte: The Hacker News, 14 May 2026, 11:40:14 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html>)
+
+- **Come le allucinazioni legate all'intelligenza artificiale stanno creando rischi reali per la sicurezza**  
+  Fonte: The Hacker News, 14 May 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html>)
+
+- **Quanto è pericolosa l’intelligenza artificiale Mythos di Anthropic?**  
+  Fonte: Schneier on Security, 14 May 2026, 11:04:27 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html>)
+
+- **Dell conferma che il suo software SupportAssist causa arresti anomali del BSOD di Windows**  
+  Fonte: BleepingComputer, 14 May 2026, 10:03:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/>)
+
+- **Quando il ransomware diventa fisico: i criminali informatici si rivolgono alle minacce di violenza**  
+  Fonte: Graham Cluley, 14 May 2026, 09:28:05 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-physical-threats-violence>)
+
+- **Gli zero-day di Windows espongono i bypass di BitLocker e l'escalation dei privilegi CTFMON**  
+  Fonte: The Hacker News, 14 May 2026, 09:25:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html>)
+
+- **Gli Stati Uniti accusano l'arresto in Germania del presunto amministratore di Dream Market**  
+  Fonte: BleepingComputer, 14 May 2026, 08:55:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/>)
+
 - **La nuova falla Fragnesia Linux consente agli aggressori di ottenere i privilegi di root**  
   Fonte: BleepingComputer, 14 May 2026, 07:34:19 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/>)
@@ -38,18 +130,6 @@
   Fonte: BleepingComputer, 13 May 2026, 16:37:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/>)
 
-- **Webinar di domani: Perché la sicurezza da sola non basta a fermare gli attacchi moderni**  
-  Fonte: BleepingComputer, 13 May 2026, 15:45:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/>)
-
-- **Microsoft risolve il problema di ripristino di BitLocker solo per gli utenti di Windows 11**  
-  Fonte: BleepingComputer, 13 May 2026, 15:42:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/>)
-
-- **Microsoft risolve il bug di Windows Autopatch installando driver limitati**  
-  Fonte: BleepingComputer, 13 May 2026, 14:36:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/>)
-
 - **Il sistema MDASH AI di Microsoft rileva 16 difetti di Windows risolti nel Patch Tuesday**  
   Fonte: The Hacker News, 13 May 2026, 13:46:02 UTC  
   [Leggi](<https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html>)
@@ -57,18 +137,6 @@
 - **Azienda energetica azera colpita da ripetuti sfruttamenti di Microsoft Exchange**  
   Fonte: The Hacker News, 13 May 2026, 13:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html>)
-
-- **Foxconn conferma l'attacco informatico rivendicato dal gruppo di ransomware Nitrogen**  
-  Fonte: BleepingComputer, 13 May 2026, 12:49:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/>)
-
-- **73 secondi per violare, 24 ore per applicare la patch: il caso della convalida autonoma**  
-  Fonte: BleepingComputer, 13 May 2026, 12:30:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/>)
-
-- **Microsoft afferma che alcuni utenti non possono installare Office su dispositivi Windows 365**  
-  Fonte: BleepingComputer, 13 May 2026, 11:53:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/>)
 
 - **[Webinar] In che modo i percorsi di attacco moderni attraversano codice, pipeline e cloud**  
   Fonte: The Hacker News, 13 May 2026, 11:52:43 UTC  
@@ -86,7 +154,7 @@
   Fonte: The Hacker News, 13 May 2026, 10:36:10 UTC  
   [Leggi](<https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html>)
 
-- **GemStuffer abusa di oltre 150 RubyGems per esfiltrare i dati rubati dal portale del Consiglio del Regno Unito**  
+- **GemStuffer abusa di oltre 150 RubyGems per esfiltrare i dati rubati del portale del Consiglio del Regno Unito**  
   Fonte: The Hacker News, 13 May 2026, 08:08:54 UTC  
   [Leggi](<https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html>)
 
@@ -94,25 +162,9 @@
   Fonte: The Hacker News, 13 May 2026, 06:55:42 UTC  
   [Leggi](<https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html>)
 
-- **Il governo degli Stati Uniti cerca testimonianze di Instructure sul massiccio attacco informatico Canvas**  
-  Fonte: BleepingComputer, 12 May 2026, 23:09:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/>)
-
 - **Patch Tuesday, edizione maggio 2026**  
   Fonte: Krebs on Security, 12 May 2026, 21:46:45 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/>)
-
-- **Il Regno Unito multa il fornitore di acqua per 1,3 milioni di dollari per aver esposto i dati di 664.000 clienti**  
-  Fonte: BleepingComputer, 12 May 2026, 20:17:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/>)
-
-- **Webinar: colmare le lacune nella risposta agli incidenti di rete**  
-  Fonte: BleepingComputer, 12 May 2026, 19:46:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/>)
-
-- **Signal aggiunge avvisi di sicurezza per attacchi di ingegneria sociale e phishing**  
-  Fonte: BleepingComputer, 12 May 2026, 19:40:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/>)
 
 - **La nuova vulnerabilità Exim BDAT espone le build GnuTLS a una potenziale esecuzione di codice**  
   Fonte: The Hacker News, 12 May 2026, 16:44:00 UTC  
@@ -210,7 +262,7 @@
   Fonte: The Hacker News, 08 May 2026, 18:12:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html>)
 
-- **Scommesse privilegiate sul Polymarket**  
+- **Scommesse privilegiate su Polymarket**  
   Fonte: Schneier on Security, 08 May 2026, 17:49:01 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/insider-betting-on-polymarket.html>)
 
@@ -246,45 +298,5 @@
   Fonte: The Hacker News, 08 May 2026, 08:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html>)
 
-- **L'exploit LPE Dirty Frag del kernel Linux consente l'accesso root nelle principali distribuzioni**  
-  Fonte: The Hacker News, 08 May 2026, 05:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html>)
 
-- **La violazione della tela sconvolge scuole e università a livello nazionale**  
-  Fonte: Krebs on Security, 08 May 2026, 02:58:46 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/>)
-
-- **Ivanti EPMM CVE-2026-6973 RCE in regime di sfruttamento attivo garantisce l'accesso a livello di amministratore**  
-  Fonte: The Hacker News, 07 May 2026, 17:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html>)
-
-- **PCPJack Credential Stealer sfrutta 5 CVE per diffondersi come worm nei sistemi cloud**  
-  Fonte: The Hacker News, 07 May 2026, 17:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html>)
-
-- **PAN-OS RCE Exploit in uso attivo che abilita l'accesso root e lo spionaggio**  
-  Fonte: The Hacker News, 07 May 2026, 13:34:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html>)
-
-- **Come Cloudflare ha risposto alla vulnerabilità Linux "Copy Fail".**  
-  Fonte: Cloudflare Blog - Security, 07 May 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/>)
-
-- **Bollettino ThreatsDay: password Edge in testo normale, ICS 0-Days, avvisi Patch-or-Die e oltre 25 nuove storie**  
-  Fonte: The Hacker News, 07 May 2026, 11:33:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html>)
-
-- **Occhiali intelligenti per le autorità**  
-  Fonte: Schneier on Security, 07 May 2026, 11:07:07 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html>)
-
-- **Preparazione al giorno zero: le lacune operative che ostacolano la risposta agli incidenti**  
-  Fonte: The Hacker News, 07 May 2026, 10:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html>)
-
-- **I pacchetti PyPI distribuiscono malware ZiChatBot tramite le API Zulip su Windows e Linux**  
-  Fonte: The Hacker News, 07 May 2026, 09:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-14 08:28:39 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-15 08:39:31 UTC -->
