@@ -2,6 +2,62 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: Bigfin Squid**  
+  Fonte: Schneier on Security, 16 May 2026, 01:03:31 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html>)
+
+- **Bug del plugin WordPress Funnel Builder sfruttato per rubare carte di credito**  
+  Fonte: BleepingComputer, 15 May 2026, 19:30:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/>)
+
+- **Microsoft Exchange, Windows 11 hackerato il secondo giorno di Pwn2Own**  
+  Fonte: BleepingComputer, 15 May 2026, 17:47:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/>)
+
+- **Il popolare pacchetto node-ipc npm è stato compromesso per rubare le credenziali**  
+  Fonte: BleepingComputer, 15 May 2026, 17:10:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/>)
+
+- **Turla trasforma la backdoor di Kazuar in una botnet P2P modulare per l'accesso persistente**  
+  Fonte: The Hacker News, 15 May 2026, 17:10:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html>)
+
+- **I difetti del plug-in WordPress di Avada Builder consentono il furto di credenziali del sito**  
+  Fonte: BleepingComputer, 15 May 2026, 15:56:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/>)
+
+- **Microsoft fa marcia indietro: Edge interrompe il caricamento delle password in memoria**  
+  Fonte: BleepingComputer, 15 May 2026, 14:49:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/>)
+
+- **All'interno di REMUS Infostealer: furto di sessioni, MaaS ed evoluzione rapida**  
+  Fonte: BleepingComputer, 15 May 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/>)
+
+- **Quattro difetti di OpenClaw consentono il furto di dati, l'escalation dei privilegi e la persistenza**  
+  Fonte: The Hacker News, 15 May 2026, 13:35:04 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html>)
+
+- **Microsoft eseguirà il rollback automatico dei driver Windows difettosi**  
+  Fonte: BleepingComputer, 15 May 2026, 12:29:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/>)
+
+- **Bypassare i controlli di verifica dell'età sulla fotocamera**  
+  Fonte: Schneier on Security, 15 May 2026, 11:06:32 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html>)
+
+- **Cosa ti diranno 45 giorni trascorsi a osservare i tuoi strumenti sulla tua reale superficie di attacco**  
+  Fonte: The Hacker News, 15 May 2026, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html>)
+
+- **L'attacco alla catena di fornitura TanStack colpisce due dispositivi dei dipendenti OpenAI e forza gli aggiornamenti di macOS**  
+  Fonte: The Hacker News, 15 May 2026, 10:54:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html>)
+
+- **Microsoft avverte della vulnerabilità zero-day di Exchange sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 15 May 2026, 09:40:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/>)
+
 - **Microsoft Exchange Server on-premise CVE-2026-42897 sfruttato tramite posta elettronica predisposta**  
   Fonte: The Hacker News, 15 May 2026, 06:19:04 UTC  
   [Leggi](<https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html>)
@@ -62,10 +118,6 @@
   Fonte: The Hacker News, 14 May 2026, 14:00:37 UTC  
   [Leggi](<https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html>)
 
-- **Gli hacker di KongTuke ora utilizzano Microsoft Teams per violazioni aziendali**  
-  Fonte: BleepingComputer, 14 May 2026, 12:12:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/>)
-
 - **PraisonAI CVE-2026-44338 Bypass di autenticazione mirato entro poche ore dalla divulgazione**  
   Fonte: The Hacker News, 14 May 2026, 11:40:14 UTC  
   [Leggi](<https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html>)
@@ -78,10 +130,6 @@
   Fonte: Schneier on Security, 14 May 2026, 11:04:27 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html>)
 
-- **Dell conferma che il suo software SupportAssist causa arresti anomali del BSOD di Windows**  
-  Fonte: BleepingComputer, 14 May 2026, 10:03:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/>)
-
 - **Quando il ransomware diventa fisico: i criminali informatici si rivolgono alle minacce di violenza**  
   Fonte: Graham Cluley, 14 May 2026, 09:28:05 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-physical-threats-violence>)
@@ -89,14 +137,6 @@
 - **Gli zero-day di Windows espongono i bypass di BitLocker e l'escalation dei privilegi CTFMON**  
   Fonte: The Hacker News, 14 May 2026, 09:25:50 UTC  
   [Leggi](<https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html>)
-
-- **Gli Stati Uniti accusano l'arresto in Germania del presunto amministratore di Dream Market**  
-  Fonte: BleepingComputer, 14 May 2026, 08:55:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/>)
-
-- **La nuova falla Fragnesia Linux consente agli aggressori di ottenere i privilegi di root**  
-  Fonte: BleepingComputer, 14 May 2026, 07:34:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/>)
 
 - **Il nuovo Fragnesia Linux Kernel LPE garantisce l'accesso root tramite la corruzione della cache della pagina**  
   Fonte: The Hacker News, 14 May 2026, 07:06:15 UTC  
@@ -113,22 +153,6 @@
 - **Podcast di Smashing Security n. 467: Come ShinyHunters ha hackerato le più grandi università del mondo**  
   Fonte: Graham Cluley, 13 May 2026, 23:05:09 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-467/>)
-
-- **West Pharmaceutical afferma che gli hacker hanno rubato dati e sistemi crittografati**  
-  Fonte: BleepingComputer, 13 May 2026, 22:23:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/>)
-
-- **Gli hacker iraniani hanno preso di mira un importante produttore di elettronica sudcoreano**  
-  Fonte: BleepingComputer, 13 May 2026, 21:59:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/>)
-
-- **Il nuovo difetto critico del mailer Exim consente l'esecuzione di codice in modalità remota**  
-  Fonte: BleepingComputer, 13 May 2026, 20:23:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/>)
-
-- **Windows BitLocker zero-day consente l'accesso alle unità protette, PoC rilasciato**  
-  Fonte: BleepingComputer, 13 May 2026, 16:37:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/>)
 
 - **Il sistema MDASH AI di Microsoft rileva 16 difetti di Windows risolti nel Patch Tuesday**  
   Fonte: The Hacker News, 13 May 2026, 13:46:02 UTC  
@@ -154,7 +178,7 @@
   Fonte: The Hacker News, 13 May 2026, 10:36:10 UTC  
   [Leggi](<https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html>)
 
-- **GemStuffer abusa di oltre 150 RubyGems per esfiltrare i dati rubati del portale del Consiglio del Regno Unito**  
+- **GemStuffer abusa di oltre 150 RubyGems per esfiltrare i dati rubati dal portale del Consiglio del Regno Unito**  
   Fonte: The Hacker News, 13 May 2026, 08:08:54 UTC  
   [Leggi](<https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html>)
 
@@ -250,53 +274,5 @@
   Fonte: The Hacker News, 10 May 2026, 12:41:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html>)
 
-- **cPanel, correzioni di rilascio di WHM per tre nuove vulnerabilità: patch ora**  
-  Fonte: The Hacker News, 09 May 2026, 07:16:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html>)
 
-- **Blog sui calamari del venerdì: i calamari giganti vivono nelle acque dell'Australia occidentale**  
-  Fonte: Schneier on Security, 08 May 2026, 21:03:28 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html>)
-
-- **Il trojan bancario TCLBANKER prende di mira le piattaforme finanziarie tramite WhatsApp e Outlook worm**  
-  Fonte: The Hacker News, 08 May 2026, 18:12:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html>)
-
-- **Scommesse privilegiate su Polymarket**  
-  Fonte: Schneier on Security, 08 May 2026, 17:49:01 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/insider-betting-on-polymarket.html>)
-
-- **Un lavoratore su otto nel Regno Unito ha venduto le password aziendali e i capi pensano che vada bene**  
-  Fonte: Graham Cluley, 08 May 2026, 15:20:45 UTC  
-  [Leggi](<https://www.fortra.com/blog/one-eight-uk-workers-has-sold-their-company-passwords-and-bosses-think-its-fine>)
-
-- **Le app di cronologia chiamate false hanno rubato i pagamenti agli utenti dopo 7,3 milioni di download dal Play Store**  
-  Fonte: The Hacker News, 08 May 2026, 15:08:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html>)
-
-- **All'interno del Dipartimento 4: la scuola segreta russa per hacker**  
-  Fonte: Graham Cluley, 08 May 2026, 14:36:50 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/inside-department-4-russias-secret-school-for-hackers>)
-
-- **Un clic, spegnimento totale: il webinar "Patient Zero" sull'eliminazione delle violazioni stealth**  
-  Fonte: The Hacker News, 08 May 2026, 14:01:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html>)
-
-- **Quasar Linux RAT ruba le credenziali degli sviluppatori per aver compromesso la catena di fornitura del software**  
-  Fonte: The Hacker News, 08 May 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html>)
-
-- **Una minaccia mancata alla settimana: cosa rivelano 25 milioni di avvisi sul rischio di bassa gravità**  
-  Fonte: The Hacker News, 08 May 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html>)
-
-- **Lo Sri Lanka effettua 37 arresti mentre fa irruzione in un altro centro anti-truffa**  
-  Fonte: Graham Cluley, 08 May 2026, 09:30:20 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/sri-lanka-37-arrests-scam-centre>)
-
-- **La nuova backdoor Linux PamDOORa utilizza i moduli PAM per rubare le credenziali SSH**  
-  Fonte: The Hacker News, 08 May 2026, 08:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-15 08:39:31 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-16 07:50:56 UTC -->
