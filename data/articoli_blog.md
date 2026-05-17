@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **La violazione del token GitHub di Grafana ha portato al download di Codebase e a tentativi di estorsione**  
+  Fonte: The Hacker News, 17 May 2026, 07:13:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html>)
+
+- **Microsoft rifiuta il report sulle vulnerabilità critiche di Azure, non viene rilasciato alcun CVE**  
+  Fonte: BleepingComputer, 16 May 2026, 20:55:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/>)
+
+- **Il difetto del Funnel Builder durante lo sfruttamento attivo consente la scrematura del checkout di WooCommerce**  
+  Fonte: The Hacker News, 16 May 2026, 15:20:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html>)
+
+- **Gli hacker russi trasformano la backdoor di Kazuar in una botnet P2P modulare**  
+  Fonte: BleepingComputer, 16 May 2026, 14:15:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/>)
+
 - **Blog sui calamari del venerdì: Bigfin Squid**  
   Fonte: Schneier on Security, 16 May 2026, 01:03:31 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html>)
@@ -106,14 +122,6 @@
   Fonte: Schneier on Security, 14 May 2026, 16:01:06 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html>)
 
-- **La vulnerabilità NGINX di 18 anni consente DoS, potenziale RCE**  
-  Fonte: BleepingComputer, 14 May 2026, 15:43:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/>)
-
-- **Crimini legati ai carichi informatici: come il crimine informatico viene utilizzato per rubare le merci**  
-  Fonte: BleepingComputer, 14 May 2026, 15:21:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/>)
-
 - **Ghostwriter prende di mira il governo ucraino con il phishing PDF georecintato, Cobalt Strike**  
   Fonte: The Hacker News, 14 May 2026, 14:00:37 UTC  
   [Leggi](<https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html>)
@@ -178,7 +186,7 @@
   Fonte: The Hacker News, 13 May 2026, 10:36:10 UTC  
   [Leggi](<https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html>)
 
-- **GemStuffer abusa di oltre 150 RubyGems per esfiltrare i dati rubati dal portale del Consiglio del Regno Unito**  
+- **GemStuffer abusa di oltre 150 RubyGems per esfiltrare i dati rubati del portale del Consiglio del Regno Unito**  
   Fonte: The Hacker News, 13 May 2026, 08:08:54 UTC  
   [Leggi](<https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html>)
 
@@ -275,4 +283,4 @@
   [Leggi](<https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-05-16 07:50:56 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-17 08:10:27 UTC -->
