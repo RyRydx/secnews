@@ -2,6 +2,42 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft conferma i problemi di installazione dell'aggiornamento di sicurezza di Windows 11**  
+  Fonte: BleepingComputer, 18 May 2026, 08:33:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/>)
+
+- **Exploit disponibile per il nuovo difetto di escalation root DirtyDecrypt Linux**  
+  Fonte: BleepingComputer, 18 May 2026, 07:18:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/>)
+
+- **Malware pre-Stuxnet Fast16 manomesso con simulazioni di armi nucleari**  
+  Fonte: The Hacker News, 18 May 2026, 06:46:37 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html>)
+
+- **Gli hacker guadagnano $ 1.298.250 per 47 zero-day al Pwn2Own Berlin 2026**  
+  Fonte: BleepingComputer, 18 May 2026, 05:33:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/>)
+
+- **MiniPlasma Windows 0-Day consente l'escalation dei privilegi di SISTEMA su sistemi completamente patchati**  
+  Fonte: The Hacker News, 18 May 2026, 04:59:21 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html>)
+
+- **Aggiornamento settimanale 504**  
+  Fonte: Troy Hunt, 18 May 2026, 03:46:55 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-504/>)
+
+- **Il nuovo exploit zero-day di Windows "MiniPlasma" fornisce l'accesso al SISTEMA, PoC rilasciato**  
+  Fonte: BleepingComputer, 17 May 2026, 22:30:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/>)
+
+- **Tycoon2FA prende il controllo degli account Microsoft 365 tramite phishing del codice dispositivo**  
+  Fonte: BleepingComputer, 17 May 2026, 14:43:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/>)
+
+- **NGINX CVE-2026-42945 sfruttato in natura, causando arresti anomali dei lavoratori e possibili RCE**  
+  Fonte: The Hacker News, 17 May 2026, 11:57:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html>)
+
 - **La violazione del token GitHub di Grafana ha portato al download di Codebase e a tentativi di estorsione**  
   Fonte: The Hacker News, 17 May 2026, 07:13:33 UTC  
   [Leggi](<https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html>)
@@ -82,29 +118,9 @@
   Fonte: The Hacker News, 15 May 2026, 05:28:03 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html>)
 
-- **Gli hacker di TeamPCP pubblicizzano la vendita di repository di codici Mistral AI**  
-  Fonte: BleepingComputer, 14 May 2026, 22:50:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/>)
-
-- **Gli hacker sfruttano il difetto di bypass dell'autenticazione nel plugin WordPress Burst Statistics**  
-  Fonte: BleepingComputer, 14 May 2026, 21:07:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/>)
-
-- **Cisco avverte di una nuova falla critica SD-WAN sfruttata negli attacchi zero-day**  
-  Fonte: BleepingComputer, 14 May 2026, 20:09:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/>)
-
 - **Il presunto boss del Dream Market è stato arrestato dopo che i lingotti d'oro sono stati spediti al suo indirizzo di casa**  
   Fonte: Graham Cluley, 14 May 2026, 19:46:35 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/dream-market-kingpin-arrested-gold-bars>)
-
-- **OpenAI conferma la violazione della sicurezza nell'attacco alla catena di fornitura TanStack**  
-  Fonte: BleepingComputer, 14 May 2026, 19:07:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/>)
-
-- **Windows 11 e Microsoft Edge violati al Pwn2Own Berlin 2026**  
-  Fonte: BleepingComputer, 14 May 2026, 18:53:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/>)
 
 - **Bypass di autenticazione del controller SD-WAN Cisco Catalyst sfruttato attivamente per ottenere l'accesso amministrativo**  
   Fonte: The Hacker News, 14 May 2026, 17:45:20 UTC  
@@ -250,11 +266,11 @@
   Fonte: The Hacker News, 11 May 2026, 17:54:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html>)
 
-- **Gli hacker hanno utilizzato l'intelligenza artificiale per sviluppare il primo bypass Zero-Day 2FA per lo sfruttamento di massa**  
+- **Gli hacker hanno utilizzato l'intelligenza artificiale per sviluppare il primo bypass 2FA Zero-Day per lo sfruttamento di massa**  
   Fonte: The Hacker News, 11 May 2026, 15:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html>)
 
-- **⚡ Riepilogo settimanale: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmer e altro**  
+- **⚡ Riepilogo settimanale: Rootkit Linux, Crypto Stealer macOS, WebSocket Skimmer e altro**  
   Fonte: The Hacker News, 11 May 2026, 12:36:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html>)
 
@@ -266,21 +282,5 @@
   Fonte: Schneier on Security, 11 May 2026, 11:04:29 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html>)
 
-- **Il repository falso del filtro privacy OpenAI raggiunge il primo posto su Hugging Face, attira 244.000 download**  
-  Fonte: The Hacker News, 11 May 2026, 07:05:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html>)
 
-- **Diamo il benvenuto al governo costaricano per Have I Been Pwned**  
-  Fonte: Troy Hunt, 11 May 2026, 00:24:17 UTC  
-  [Leggi](<https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/>)
-
-- **Aggiornamento settimanale 503**  
-  Fonte: Troy Hunt, 10 May 2026, 23:52:52 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-503/>)
-
-- **La vulnerabilità di lettura fuori limite di Ollama consente la perdita di memoria del processo remoto**  
-  Fonte: The Hacker News, 10 May 2026, 12:41:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-17 08:10:27 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-18 09:40:35 UTC -->
