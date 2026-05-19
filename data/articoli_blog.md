@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Nx Console 18.95.0 compromessa ha preso di mira gli sviluppatori di VS Code con il furto di credenziali**  
+  Fonte: The Hacker News, 19 May 2026, 07:49:23 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html>)
+
+- **Tag di azione GitHub popolari reindirizzati all'impostore Impegno per rubare credenziali CI/CD**  
+  Fonte: The Hacker News, 19 May 2026, 05:28:06 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html>)
+
+- **Mini Shai-Hulud invia pacchetti npm AntV dannosi tramite un account manutentore compromesso**  
+  Fonte: The Hacker News, 19 May 2026, 04:54:17 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html>)
+
+- **L'"Operazione Ramz" dell'INTERPOL sequestra 53 server malware e phishing**  
+  Fonte: BleepingComputer, 18 May 2026, 22:15:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/>)
+
+- **La variante SHub dell'infostealer per macOS falsifica gli aggiornamenti di sicurezza di Apple**  
+  Fonte: BleepingComputer, 18 May 2026, 21:42:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/>)
+
+- **L'amministratore CISA ha rubato le chiavi AWS GovCloud su Github**  
+  Fonte: Krebs on Security, 18 May 2026, 20:48:21 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/>)
+
+- **5 passaggi per gestire gli strumenti di Shadow AI senza rallentare i dipendenti**  
+  Fonte: BleepingComputer, 18 May 2026, 18:45:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/>)
+
+- **Il malware Shai-Hulud trapelato alimenta la nuova campagna di infostealer npm**  
+  Fonte: BleepingComputer, 18 May 2026, 17:28:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/>)
+
+- **L'operazione Ramz dell'INTERPOL interrompe le reti della criminalità informatica nell'area MENA con 201 arresti**  
+  Fonte: The Hacker News, 18 May 2026, 17:21:18 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html>)
+
+- **⚡ Riepilogo settimanale: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit e altro**  
+  Fonte: The Hacker News, 18 May 2026, 13:50:17 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html>)
+
+- **Grafana afferma che il token GitHub rubato consente agli hacker di rubare la codebase**  
+  Fonte: BleepingComputer, 18 May 2026, 13:46:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/>)
+
+- **Come ridurre l'esposizione al phishing prima che si trasformi in un'interruzione dell'attività**  
+  Fonte: The Hacker News, 18 May 2026, 13:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html>)
+
+- **Le workstation degli sviluppatori fanno ora parte della catena di fornitura del software**  
+  Fonte: The Hacker News, 18 May 2026, 11:23:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html>)
+
+- **Microsoft testa la barra delle applicazioni regolabile e il menu Start in Windows 11**  
+  Fonte: BleepingComputer, 18 May 2026, 11:14:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/>)
+
+- **Exploit zero-day contro Windows BitLocker**  
+  Fonte: Schneier on Security, 18 May 2026, 11:08:13 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html>)
+
+- **Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, difetti di escalation dei privilegi**  
+  Fonte: The Hacker News, 18 May 2026, 10:54:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html>)
+
+- **MiniPlasma Windows 0-Day consente l'escalation dei privilegi di SISTEMA su sistemi completamente patchati**  
+  Fonte: The Hacker News, 18 May 2026, 08:57:34 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html>)
+
+- **Quattro pacchetti npm dannosi forniscono infostealer e malware DDoS Phantom Bot**  
+  Fonte: The Hacker News, 18 May 2026, 08:57:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html>)
+
 - **Microsoft conferma i problemi di installazione dell'aggiornamento di sicurezza di Windows 11**  
   Fonte: BleepingComputer, 18 May 2026, 08:33:14 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/>)
@@ -14,13 +86,13 @@
   Fonte: The Hacker News, 18 May 2026, 06:46:37 UTC  
   [Leggi](<https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html>)
 
+- **Progetto Glasswing: cosa ci ha mostrato Mythos**  
+  Fonte: Cloudflare Blog - Security, 18 May 2026, 06:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/cyber-frontier-models/>)
+
 - **Gli hacker guadagnano $ 1.298.250 per 47 zero-day al Pwn2Own Berlin 2026**  
   Fonte: BleepingComputer, 18 May 2026, 05:33:20 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/>)
-
-- **MiniPlasma Windows 0-Day consente l'escalation dei privilegi di SISTEMA su sistemi completamente patchati**  
-  Fonte: The Hacker News, 18 May 2026, 04:59:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html>)
 
 - **Aggiornamento settimanale 504**  
   Fonte: Troy Hunt, 18 May 2026, 03:46:55 UTC  
@@ -66,49 +138,25 @@
   Fonte: BleepingComputer, 15 May 2026, 17:47:25 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/>)
 
-- **Il popolare pacchetto node-ipc npm è stato compromesso per rubare le credenziali**  
-  Fonte: BleepingComputer, 15 May 2026, 17:10:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/>)
-
 - **Turla trasforma la backdoor di Kazuar in una botnet P2P modulare per l'accesso persistente**  
   Fonte: The Hacker News, 15 May 2026, 17:10:25 UTC  
   [Leggi](<https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html>)
-
-- **I difetti del plug-in WordPress di Avada Builder consentono il furto di credenziali del sito**  
-  Fonte: BleepingComputer, 15 May 2026, 15:56:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/>)
-
-- **Microsoft fa marcia indietro: Edge interrompe il caricamento delle password in memoria**  
-  Fonte: BleepingComputer, 15 May 2026, 14:49:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/>)
-
-- **All'interno di REMUS Infostealer: furto di sessioni, MaaS ed evoluzione rapida**  
-  Fonte: BleepingComputer, 15 May 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/>)
 
 - **Quattro difetti di OpenClaw consentono il furto di dati, l'escalation dei privilegi e la persistenza**  
   Fonte: The Hacker News, 15 May 2026, 13:35:04 UTC  
   [Leggi](<https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html>)
 
-- **Microsoft eseguirà il rollback automatico dei driver Windows difettosi**  
-  Fonte: BleepingComputer, 15 May 2026, 12:29:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/>)
-
 - **Bypassare i controlli di verifica dell'età sulla fotocamera**  
   Fonte: Schneier on Security, 15 May 2026, 11:06:32 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html>)
 
-- **Cosa ti diranno 45 giorni trascorsi a osservare i tuoi strumenti sulla tua reale superficie di attacco**  
+- **Ciò che 45 giorni trascorsi a osservare i tuoi strumenti ti diranno sulla tua reale superficie di attacco**  
   Fonte: The Hacker News, 15 May 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html>)
 
 - **L'attacco alla catena di fornitura TanStack colpisce due dispositivi dei dipendenti OpenAI e forza gli aggiornamenti di macOS**  
   Fonte: The Hacker News, 15 May 2026, 10:54:44 UTC  
   [Leggi](<https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html>)
-
-- **Microsoft avverte della vulnerabilità zero-day di Exchange sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 15 May 2026, 09:40:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/>)
 
 - **Microsoft Exchange Server on-premise CVE-2026-42897 sfruttato tramite posta elettronica predisposta**  
   Fonte: The Hacker News, 15 May 2026, 06:19:04 UTC  
@@ -178,7 +226,7 @@
   Fonte: Graham Cluley, 13 May 2026, 23:05:09 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-467/>)
 
-- **Il sistema MDASH AI di Microsoft rileva 16 difetti di Windows risolti nel Patch Tuesday**  
+- **Il sistema di intelligenza artificiale MDASH di Microsoft rileva 16 difetti di Windows risolti nel Patch Tuesday**  
   Fonte: The Hacker News, 13 May 2026, 13:46:02 UTC  
   [Leggi](<https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html>)
 
@@ -202,7 +250,7 @@
   Fonte: The Hacker News, 13 May 2026, 10:36:10 UTC  
   [Leggi](<https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html>)
 
-- **GemStuffer abusa di oltre 150 RubyGems per esfiltrare i dati rubati del portale del Consiglio del Regno Unito**  
+- **GemStuffer abusa di oltre 150 RubyGems per esfiltrare i dati rubati dal portale del Consiglio del Regno Unito**  
   Fonte: The Hacker News, 13 May 2026, 08:08:54 UTC  
   [Leggi](<https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html>)
 
@@ -242,45 +290,5 @@
   Fonte: The Hacker News, 12 May 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html>)
 
-- **Instructure raggiunge un accordo di riscatto con ShinyHunters per fermare la perdita di tela di 3,65 TB**  
-  Fonte: The Hacker News, 12 May 2026, 07:37:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html>)
 
-- **OpenAI lancia Daybreak per il rilevamento delle vulnerabilità e la convalida delle patch basati sull'intelligenza artificiale**  
-  Fonte: The Hacker News, 12 May 2026, 06:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html>)
-
-- **iOS 26.5 porta la messaggistica RCS crittografata end-to-end predefinita tra iPhone e Android**  
-  Fonte: The Hacker News, 12 May 2026, 05:18:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html>)
-
-- **Accogliendo favorevolmente il governo del Bangladesh a Have I Been Pwned**  
-  Fonte: Troy Hunt, 11 May 2026, 22:27:32 UTC  
-  [Leggi](<https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/>)
-
-- **TeamPCP compromette il plug-in AST di Checkmarx Jenkins settimane dopo l'attacco alla catena di fornitura KICS**  
-  Fonte: The Hacker News, 11 May 2026, 18:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html>)
-
-- **cPanel CVE-2026-41940 sotto sfruttamento attivo per distribuire la backdoor del Filemanager**  
-  Fonte: The Hacker News, 11 May 2026, 17:54:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html>)
-
-- **Gli hacker hanno utilizzato l'intelligenza artificiale per sviluppare il primo bypass 2FA Zero-Day per lo sfruttamento di massa**  
-  Fonte: The Hacker News, 11 May 2026, 15:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html>)
-
-- **⚡ Riepilogo settimanale: Rootkit Linux, Crypto Stealer macOS, WebSocket Skimmer e altro**  
-  Fonte: The Hacker News, 11 May 2026, 12:36:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html>)
-
-- **La tua squadra viola non è viola: è solo rossa e blu nella stessa stanza**  
-  Fonte: The Hacker News, 11 May 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html>)
-
-- **LLM e steganografia del testo nel testo**  
-  Fonte: Schneier on Security, 11 May 2026, 11:04:29 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-18 09:40:35 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-19 08:59:09 UTC -->
