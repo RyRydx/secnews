@@ -2,9 +2,89 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft avverte dei nuovi zero-day Defender sfruttati negli attacchi**  
+  Fonte: BleepingComputer, 21 May 2026, 07:49:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/>)
+
+- **Un difetto del kernel Linux di 9 anni consente l'esecuzione dei comandi root sulle principali distribuzioni**  
+  Fonte: The Hacker News, 21 May 2026, 07:35:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html>)
+
+- **GitHub collega la violazione dei repository all'attacco alla catena di fornitura TanStack npm**  
+  Fonte: BleepingComputer, 21 May 2026, 06:54:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/>)
+
+- **Repository interni GitHub violati tramite l'estensione dannosa del codice VS della console Nx**  
+  Fonte: The Hacker News, 21 May 2026, 04:27:01 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/github-internal-repositories-breached.html>)
+
+- **Un difetto estremamente critico di Drupal Core espone i siti PostgreSQL agli attacchi RCE**  
+  Fonte: The Hacker News, 21 May 2026, 03:44:11 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html>)
+
+- **Podcast di Smashing Security n. 468: Hacking sui treni ad alta velocità e tosaerba omicidi**  
+  Fonte: Graham Cluley, 20 May 2026, 23:04:42 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-468/>)
+
+- **L'Ucraina identifica un operatore di infostealer legato a 28.000 account rubati**  
+  Fonte: BleepingComputer, 20 May 2026, 21:36:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/>)
+
+- **Gli hacker aggirano l'MFA VPN di SonicWall a causa di patch incomplete**  
+  Fonte: BleepingComputer, 20 May 2026, 21:19:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/>)
+
+- **Microsoft Open Source RAMPART e Clarity per proteggere gli agenti IA durante lo sviluppo**  
+  Fonte: The Hacker News, 20 May 2026, 17:06:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html>)
+
+- **Violazione di Grafana causata dalla mancata rotazione del token dopo l'attacco TanStack**  
+  Fonte: BleepingComputer, 20 May 2026, 15:46:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/>)
+
+- **Microsoft rimuove il servizio di firma malware dietro gli attacchi ransomware**  
+  Fonte: The Hacker News, 20 May 2026, 14:36:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html>)
+
+- **Sulla sicurezza dell'intelligenza artificiale**  
+  Fonte: Schneier on Security, 20 May 2026, 14:21:20 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/on-ai-security.html>)
+
+- **L'identità da sola non è sufficiente: perché la sicurezza dei dispositivi deve condividere il carico**  
+  Fonte: BleepingComputer, 20 May 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/>)
+
+- **Aggiornamento critico Drupal per correggere bug con alto rischio di sfruttamento**  
+  Fonte: BleepingComputer, 20 May 2026, 12:52:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/>)
+
+- **Webworm distribuisce backdoor EchoCreep e GraphWorm utilizzando Discord e l'API MS Graph**  
+  Fonte: The Hacker News, 20 May 2026, 12:51:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html>)
+
+- **L'agente AI sta arrivando.Sei pronto?**  
+  Fonte: The Hacker News, 20 May 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html>)
+
+- **Violazione di GitHub: l'hacking dei dispositivi dei dipendenti ha portato all'esfiltrazione di oltre 3.800 repository interni**  
+  Fonte: The Hacker News, 20 May 2026, 11:38:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html>)
+
+- **Rilasciato l'exploit per la nuova falla di escalation root di PinTheft Arch Linux**  
+  Fonte: BleepingComputer, 20 May 2026, 10:52:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/>)
+
+- **Il typosquatting non è più un problema per gli utenti.È un problema di catena di fornitura**  
+  Fonte: The Hacker News, 20 May 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html>)
+
 - **L'FBI avverte studenti e personale che ShinyHunters potrebbe venire a bussare dopo la violazione di Canvas**  
   Fonte: Graham Cluley, 20 May 2026, 08:28:36 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-canvas-breach>)
+
+- **Microsoft rilascia soluzioni di mitigazione per l'exploit YellowKey BitLocker Bypass CVE-2026-45585**  
+  Fonte: The Hacker News, 20 May 2026, 08:28:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html>)
 
 - **GitHub conferma la violazione di 3.800 repository tramite l'estensione VSCode dannosa**  
   Fonte: BleepingComputer, 20 May 2026, 08:14:08 UTC  
@@ -22,10 +102,6 @@
   Fonte: BleepingComputer, 20 May 2026, 05:08:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/>)
 
-- **GitHub indagando su TeamPCP ha denunciato la violazione di circa 4.000 repository interni**  
-  Fonte: The Hacker News, 20 May 2026, 04:01:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html>)
-
 - **Un difetto di gravità massima in ChromaDB per le app AI consente il dirottamento del server**  
   Fonte: BleepingComputer, 19 May 2026, 22:25:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/>)
@@ -42,49 +118,17 @@
   Fonte: BleepingComputer, 19 May 2026, 19:45:39 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/>)
 
-- **Reimpostazione della password self-service di Microsoft abusata negli attacchi di furto di dati di Azure**  
-  Fonte: BleepingComputer, 19 May 2026, 19:35:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/>)
-
 - **Il sistema di frode pubblicitaria Trapdoor su Android ha raggiunto 659 milioni di richieste di offerte giornaliere utilizzando 455 app**  
   Fonte: The Hacker News, 19 May 2026, 16:38:12 UTC  
   [Leggi](<https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html>)
-
-- **Microsoft prevede di migliorare la qualità dei driver di Windows 11 nel 2026**  
-  Fonte: BleepingComputer, 19 May 2026, 16:22:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/>)
-
-- **Microsoft incolpa l'aggiornamento di macOS per le richieste di posizione di Teams non ignorabili**  
-  Fonte: BleepingComputer, 19 May 2026, 16:10:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/>)
 
 - **PoC DirtyDecrypt rilasciato per la vulnerabilità LPE CVE-2026-31635 del kernel Linux**  
   Fonte: The Hacker News, 19 May 2026, 14:56:26 UTC  
   [Leggi](<https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html>)
 
-- **La nuova ondata di malware Shai-Hulud compromette pacchetti da 600 npm**  
-  Fonte: BleepingComputer, 19 May 2026, 14:30:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/>)
-
-- **7-Eleven conferma la violazione dei dati rivendicata dalla banda ShinyHunters**  
-  Fonte: BleepingComputer, 19 May 2026, 14:16:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/>)
-
-- **Le vulnerabilità critiche di Microsoft sono raddoppiate: dall'esposizione all'escalation**  
-  Fonte: BleepingComputer, 19 May 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/>)
-
-- **Webinar: I colli di bottiglia nascosti nella risposta agli incidenti di rete**  
-  Fonte: BleepingComputer, 19 May 2026, 12:14:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/>)
-
 - **Il nuovo clic di phishing: come il consenso OAuth ignora l'MFA**  
   Fonte: The Hacker News, 19 May 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html>)
-
-- **Microsoft conferma i problemi di patch nelle reti Windows limitate**  
-  Fonte: BleepingComputer, 19 May 2026, 11:22:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/>)
 
 - **Laurie Anderson mi sta citando**  
   Fonte: Schneier on Security, 19 May 2026, 11:00:01 UTC  
@@ -98,11 +142,11 @@
   Fonte: The Hacker News, 19 May 2026, 09:23:15 UTC  
   [Leggi](<https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html>)
 
-- **Nx Console 18.95.0 compromessa ha preso di mira gli sviluppatori di VS Code con il furto di credenziali**  
+- **Nx Console 18.95.0 compromessa ha preso di mira gli sviluppatori di codice VS con il furto di credenziali**  
   Fonte: The Hacker News, 19 May 2026, 07:49:23 UTC  
   [Leggi](<https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html>)
 
-- **Tag di azione GitHub popolari reindirizzati all'impostore Impegno per rubare credenziali CI/CD**  
+- **Tag di azione GitHub popolari reindirizzati all'impostore Impegno a rubare credenziali CI/CD**  
   Fonte: The Hacker News, 19 May 2026, 05:28:06 UTC  
   [Leggi](<https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html>)
 
@@ -186,7 +230,7 @@
   Fonte: Schneier on Security, 15 May 2026, 11:06:32 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html>)
 
-- **Ciò che 45 giorni trascorsi a osservare i tuoi strumenti ti diranno sulla tua reale superficie di attacco**  
+- **Cosa ti diranno 45 giorni trascorsi a osservare i tuoi strumenti sulla tua reale superficie di attacco**  
   Fonte: The Hacker News, 15 May 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html>)
 
@@ -246,45 +290,5 @@
   Fonte: The Hacker News, 14 May 2026, 09:25:50 UTC  
   [Leggi](<https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html>)
 
-- **Il nuovo Fragnesia Linux Kernel LPE garantisce l'accesso root tramite la corruzione della cache della pagina**  
-  Fonte: The Hacker News, 14 May 2026, 07:06:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html>)
 
-- **Un difetto del modulo di riscrittura NGINX di 18 anni consente RCE non autenticato**  
-  Fonte: The Hacker News, 14 May 2026, 06:00:09 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html>)
-
-- **Diamo il benvenuto al governo delle Bahamas per Have I Been Pwned**  
-  Fonte: Troy Hunt, 14 May 2026, 03:49:29 UTC  
-  [Leggi](<https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/>)
-
-- **Podcast di Smashing Security n. 467: Come ShinyHunters ha hackerato le più grandi università del mondo**  
-  Fonte: Graham Cluley, 13 May 2026, 23:05:09 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-467/>)
-
-- **Il sistema di intelligenza artificiale MDASH di Microsoft rileva 16 difetti di Windows risolti nel Patch Tuesday**  
-  Fonte: The Hacker News, 13 May 2026, 13:46:02 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html>)
-
-- **Azienda energetica azera colpita da ripetuti sfruttamenti di Microsoft Exchange**  
-  Fonte: The Hacker News, 13 May 2026, 13:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html>)
-
-- **[Webinar] In che modo i percorsi di attacco moderni attraversano codice, pipeline e cloud**  
-  Fonte: The Hacker News, 13 May 2026, 11:52:43 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html>)
-
-- **La maggior parte dei programmi di riparazione non conferma mai che la correzione ha effettivamente funzionato**  
-  Fonte: The Hacker News, 13 May 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html>)
-
-- **GPT-5.5 di OpenAI è altrettanto efficace nel trovare le vulnerabilità della sicurezza**  
-  Fonte: Schneier on Security, 13 May 2026, 11:03:03 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html>)
-
-- **Microsoft corregge 138 vulnerabilità, inclusi difetti RCE DNS e Netlogon**  
-  Fonte: The Hacker News, 13 May 2026, 10:36:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-20 08:53:37 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-21 08:56:56 UTC -->
