@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **CISA aggiunge le vulnerabilità sfruttate di Langflow e Trend Micro Apex One a KEV**  
+  Fonte: The Hacker News, 22 May 2026, 05:47:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html>)
+
+- **Cisco applica la patch CVSS 10.0 per un difetto dell'API REST del carico di lavoro sicuro che consente l'accesso ai dati**  
+  Fonte: The Hacker News, 22 May 2026, 05:36:18 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html>)
+
+- **Il presunto robot Kimwolf "Dort" arrestato e accusato negli Stati Uniti e in Canada**  
+  Fonte: Krebs on Security, 21 May 2026, 21:50:25 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/>)
+
+- **Google ha accidentalmente esposto i dettagli del difetto non risolto di Chromium**  
+  Fonte: BleepingComputer, 21 May 2026, 18:13:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/>)
+
+- **I difensori restano indietro, mentre l’intelligenza artificiale riscrive le regole di una violazione dei dati**  
+  Fonte: Graham Cluley, 21 May 2026, 17:13:28 UTC  
+  [Leggi](<https://www.fortra.com/blog/defenders-fall-behind-ai-rewrites-rules-data-breach>)
+
+- **Exploit di danneggiamento della memoria del kernel macOS**  
+  Fonte: Schneier on Security, 21 May 2026, 16:03:37 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html>)
+
+- **Apple ha bloccato oltre 11 miliardi di dollari di frodi sull’App Store in 6 anni**  
+  Fonte: BleepingComputer, 21 May 2026, 15:11:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/>)
+
+- **Il malware Showboat Linux colpisce le telecomunicazioni del Medio Oriente con la backdoor proxy SOCKS5**  
+  Fonte: The Hacker News, 21 May 2026, 14:17:09 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html>)
+
+- **All'interno di un drenaggio di criptovalute: come individuarlo prima che svuoti il ​​tuo portafoglio**  
+  Fonte: BleepingComputer, 21 May 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/>)
+
+- **Gli hacker cinesi prendono di mira le società di telecomunicazioni con il nuovo malware Linux e Windows**  
+  Fonte: BleepingComputer, 21 May 2026, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/>)
+
+- **La gravità massima del difetto Cisco Secure Workload fornisce privilegi di amministratore del sito**  
+  Fonte: BleepingComputer, 21 May 2026, 13:58:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/>)
+
+- **La polizia sequestra il servizio "First VPN" utilizzato in attacchi ransomware e furto di dati**  
+  Fonte: BleepingComputer, 21 May 2026, 13:09:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/>)
+
+- **Bollettino del ThreatsDay: rootkit Linux, router 0-Day, intrusioni IA, kit truffe e 25 nuove storie**  
+  Fonte: The Hacker News, 21 May 2026, 11:52:14 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html>)
+
+- **Il progetto Flipper One ha bisogno dell'aiuto della comunità per costruire una piattaforma Linux aperta**  
+  Fonte: BleepingComputer, 21 May 2026, 11:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/>)
+
+- **Microsoft avverte di due vulnerabilità del Defender sfruttate attivamente**  
+  Fonte: The Hacker News, 21 May 2026, 10:55:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html>)
+
+- **Quando l'identità è la via d'attacco**  
+  Fonte: The Hacker News, 21 May 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/when-identity-is-attack-path.html>)
+
 - **Microsoft avverte dei nuovi zero-day Defender sfruttati negli attacchi**  
   Fonte: BleepingComputer, 21 May 2026, 07:49:48 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/>)
@@ -86,37 +150,9 @@
   Fonte: The Hacker News, 20 May 2026, 08:28:26 UTC  
   [Leggi](<https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html>)
 
-- **GitHub conferma la violazione di 3.800 repository tramite l'estensione VSCode dannosa**  
-  Fonte: BleepingComputer, 20 May 2026, 08:14:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/>)
-
-- **Microsoft condivide la mitigazione per YellowKey Windows zero-day**  
-  Fonte: BleepingComputer, 20 May 2026, 07:31:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/>)
-
 - **La violazione di GitHub di Grafana espone il codice sorgente tramite l'attacco TanStack npm**  
   Fonte: The Hacker News, 20 May 2026, 05:12:06 UTC  
   [Leggi](<https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html>)
-
-- **GitHub indaga sulla violazione dei repository interni rivendicata da TeamPCP**  
-  Fonte: BleepingComputer, 20 May 2026, 05:08:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/>)
-
-- **Un difetto di gravità massima in ChromaDB per le app AI consente il dirottamento del server**  
-  Fonte: BleepingComputer, 19 May 2026, 22:25:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/>)
-
-- **Servizio di criminalità informatica interrotto per aver abusato della piattaforma Microsoft per firmare malware**  
-  Fonte: BleepingComputer, 19 May 2026, 21:47:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/>)
-
-- **Discord implementa la crittografia end-to-end su chiamate vocali e videochiamate**  
-  Fonte: BleepingComputer, 19 May 2026, 20:37:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/>)
-
-- **FBI: nel 2025 gli americani hanno perso oltre 388 milioni di dollari a causa di truffe che utilizzavano bancomat crittografici**  
-  Fonte: BleepingComputer, 19 May 2026, 19:45:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/>)
 
 - **Il sistema di frode pubblicitaria Trapdoor su Android ha raggiunto 659 milioni di richieste di offerte giornaliere utilizzando 455 app**  
   Fonte: The Hacker News, 19 May 2026, 16:38:12 UTC  
@@ -238,57 +274,5 @@
   Fonte: The Hacker News, 15 May 2026, 10:54:44 UTC  
   [Leggi](<https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html>)
 
-- **Microsoft Exchange Server on-premise CVE-2026-42897 sfruttato tramite posta elettronica predisposta**  
-  Fonte: The Hacker News, 15 May 2026, 06:19:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html>)
 
-- **CISA aggiunge Cisco SD-WAN CVE-2026-20182 a KEV dopo gli exploit dell'accesso amministrativo**  
-  Fonte: The Hacker News, 15 May 2026, 05:28:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html>)
-
-- **Il presunto boss del Dream Market è stato arrestato dopo che i lingotti d'oro sono stati spediti al suo indirizzo di casa**  
-  Fonte: Graham Cluley, 14 May 2026, 19:46:35 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/dream-market-kingpin-arrested-gold-bars>)
-
-- **Bypass di autenticazione del controller SD-WAN Cisco Catalyst sfruttato attivamente per ottenere l'accesso amministrativo**  
-  Fonte: The Hacker News, 14 May 2026, 17:45:20 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html>)
-
-- **Backdoor stealer trovata in 3 versioni Node-IPC che prendevano di mira i segreti degli sviluppatori**  
-  Fonte: The Hacker News, 14 May 2026, 17:22:43 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html>)
-
-- **Bollettino del ThreatsDay: PAN-OS RCE, bug Mythos cURL, attacchi tokenizzatore AI e oltre 10 storie**  
-  Fonte: The Hacker News, 14 May 2026, 16:07:46 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html>)
-
-- **Prossimi impegni di conferenza**  
-  Fonte: Schneier on Security, 14 May 2026, 16:01:06 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html>)
-
-- **Ghostwriter prende di mira il governo ucraino con il phishing PDF georecintato, Cobalt Strike**  
-  Fonte: The Hacker News, 14 May 2026, 14:00:37 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html>)
-
-- **PraisonAI CVE-2026-44338 Bypass di autenticazione mirato entro poche ore dalla divulgazione**  
-  Fonte: The Hacker News, 14 May 2026, 11:40:14 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html>)
-
-- **Come le allucinazioni legate all'intelligenza artificiale stanno creando rischi reali per la sicurezza**  
-  Fonte: The Hacker News, 14 May 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html>)
-
-- **Quanto è pericolosa l’intelligenza artificiale Mythos di Anthropic?**  
-  Fonte: Schneier on Security, 14 May 2026, 11:04:27 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html>)
-
-- **Quando il ransomware diventa fisico: i criminali informatici si rivolgono alle minacce di violenza**  
-  Fonte: Graham Cluley, 14 May 2026, 09:28:05 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-physical-threats-violence>)
-
-- **Gli zero-day di Windows espongono i bypass di BitLocker e l'escalation dei privilegi CTFMON**  
-  Fonte: The Hacker News, 14 May 2026, 09:25:50 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-21 08:56:56 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-22 08:48:59 UTC -->
