@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Plugin cPanel LiteSpeed ​​CVE-2026-48172 sfruttato per eseguire script come root**  
+  Fonte: The Hacker News, 23 May 2026, 07:35:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html>)
+
+- **Bug di Drupal Core SQL Injection sfruttato attivamente, aggiunto a CISA KEV**  
+  Fonte: The Hacker News, 23 May 2026, 07:23:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html>)
+
+- **Blog sui calamari del venerdì: regolamentazione della pesca dei calamari nel Pacifico meridionale**  
+  Fonte: Schneier on Security, 22 May 2026, 21:04:16 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-regulating-squid-fishing-in-the-south-pacific.html>)
+
+- **Prima VPN smantellata in seguito a una rimozione globale per l'utilizzo da parte di 25 gruppi ransomware**  
+  Fonte: The Hacker News, 22 May 2026, 17:35:02 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html>)
+
+- **I Paesi Bassi sequestrano 800 server di società di hosting consentendo attacchi informatici**  
+  Fonte: BleepingComputer, 22 May 2026, 17:24:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/>)
+
+- **I legislatori chiedono risposte mentre la CISA cerca di contenere la fuga di dati**  
+  Fonte: Krebs on Security, 22 May 2026, 16:34:24 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/>)
+
+- **Ghostwriter prende di mira gli enti governativi ucraini con il malware phishing Prometheus**  
+  Fonte: The Hacker News, 22 May 2026, 16:20:32 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html>)
+
+- **Ex dirigenti statunitensi si dichiarano colpevoli di favoreggiamento dei truffatori del supporto tecnico**  
+  Fonte: BleepingComputer, 22 May 2026, 15:32:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/>)
+
+- **Perdita di sicurezza CISA**  
+  Fonte: Schneier on Security, 22 May 2026, 13:58:30 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/cisa-security-leak.html>)
+
+- **Trend Micro avverte dello sfruttamento zero-day di Apex One**  
+  Fonte: BleepingComputer, 22 May 2026, 13:39:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/>)
+
+- **Drupal: difetto critico di SQL injection ora preso di mira dagli attacchi**  
+  Fonte: BleepingComputer, 22 May 2026, 13:14:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/>)
+
+- **Perché i chargeback sono solo un pezzo del puzzle antifrode**  
+  Fonte: BleepingComputer, 22 May 2026, 13:09:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/>)
+
+- **Ubiquiti corregge tre vulnerabilità del sistema operativo UniFi di massima gravità**  
+  Fonte: BleepingComputer, 22 May 2026, 12:00:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/>)
+
+- **L'attacco Megalodon GitHub prende di mira 5.561 repository con flussi di lavoro CI/CD dannosi**  
+  Fonte: The Hacker News, 22 May 2026, 11:55:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html>)
+
+- **Rendere sfruttabili i driver vulnerabili senza hardware: la prospettiva BYOVD**  
+  Fonte: The Hacker News, 22 May 2026, 11:38:12 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html>)
+
+- **Stati Uniti e Canada arrestano e accusano il sospetto amministratore della botnet Kimwolf**  
+  Fonte: BleepingComputer, 22 May 2026, 09:01:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/>)
+
+- **L'operatore botnet DDoS Kimwolf è stato arrestato in Canada per attacchi DDoS a pagamento**  
+  Fonte: The Hacker News, 22 May 2026, 08:50:18 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html>)
+
 - **CISA aggiunge le vulnerabilità sfruttate di Langflow e Trend Micro Apex One a KEV**  
   Fonte: The Hacker News, 22 May 2026, 05:47:33 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html>)
@@ -74,10 +142,6 @@
   Fonte: The Hacker News, 21 May 2026, 07:35:53 UTC  
   [Leggi](<https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html>)
 
-- **GitHub collega la violazione dei repository all'attacco alla catena di fornitura TanStack npm**  
-  Fonte: BleepingComputer, 21 May 2026, 06:54:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/>)
-
 - **Repository interni GitHub violati tramite l'estensione dannosa del codice VS della console Nx**  
   Fonte: The Hacker News, 21 May 2026, 04:27:01 UTC  
   [Leggi](<https://thehackernews.com/2026/05/github-internal-repositories-breached.html>)
@@ -90,21 +154,9 @@
   Fonte: Graham Cluley, 20 May 2026, 23:04:42 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-468/>)
 
-- **L'Ucraina identifica un operatore di infostealer legato a 28.000 account rubati**  
-  Fonte: BleepingComputer, 20 May 2026, 21:36:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/>)
-
-- **Gli hacker aggirano l'MFA VPN di SonicWall a causa di patch incomplete**  
-  Fonte: BleepingComputer, 20 May 2026, 21:19:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/>)
-
 - **Microsoft Open Source RAMPART e Clarity per proteggere gli agenti IA durante lo sviluppo**  
   Fonte: The Hacker News, 20 May 2026, 17:06:54 UTC  
   [Leggi](<https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html>)
-
-- **Violazione di Grafana causata dalla mancata rotazione del token dopo l'attacco TanStack**  
-  Fonte: BleepingComputer, 20 May 2026, 15:46:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/>)
 
 - **Microsoft rimuove il servizio di firma malware dietro gli attacchi ransomware**  
   Fonte: The Hacker News, 20 May 2026, 14:36:44 UTC  
@@ -113,14 +165,6 @@
 - **Sulla sicurezza dell'intelligenza artificiale**  
   Fonte: Schneier on Security, 20 May 2026, 14:21:20 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/on-ai-security.html>)
-
-- **L'identità da sola non è sufficiente: perché la sicurezza dei dispositivi deve condividere il carico**  
-  Fonte: BleepingComputer, 20 May 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/>)
-
-- **Aggiornamento critico Drupal per correggere bug con alto rischio di sfruttamento**  
-  Fonte: BleepingComputer, 20 May 2026, 12:52:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/>)
 
 - **Webworm distribuisce backdoor EchoCreep e GraphWorm utilizzando Discord e l'API MS Graph**  
   Fonte: The Hacker News, 20 May 2026, 12:51:43 UTC  
@@ -133,10 +177,6 @@
 - **Violazione di GitHub: l'hacking dei dispositivi dei dipendenti ha portato all'esfiltrazione di oltre 3.800 repository interni**  
   Fonte: The Hacker News, 20 May 2026, 11:38:43 UTC  
   [Leggi](<https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html>)
-
-- **Rilasciato l'exploit per la nuova falla di escalation root di PinTheft Arch Linux**  
-  Fonte: BleepingComputer, 20 May 2026, 10:52:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/>)
 
 - **Il typosquatting non è più un problema per gli utenti.È un problema di catena di fornitura**  
   Fonte: The Hacker News, 20 May 2026, 10:30:00 UTC  
@@ -250,29 +290,5 @@
   Fonte: The Hacker News, 16 May 2026, 15:20:48 UTC  
   [Leggi](<https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html>)
 
-- **Blog sui calamari del venerdì: Bigfin Squid**  
-  Fonte: Schneier on Security, 16 May 2026, 01:03:31 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html>)
 
-- **Turla trasforma la backdoor di Kazuar in una botnet P2P modulare per l'accesso persistente**  
-  Fonte: The Hacker News, 15 May 2026, 17:10:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html>)
-
-- **Quattro difetti di OpenClaw consentono il furto di dati, l'escalation dei privilegi e la persistenza**  
-  Fonte: The Hacker News, 15 May 2026, 13:35:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html>)
-
-- **Bypassare i controlli di verifica dell'età sulla fotocamera**  
-  Fonte: Schneier on Security, 15 May 2026, 11:06:32 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html>)
-
-- **Cosa ti diranno 45 giorni trascorsi a osservare i tuoi strumenti sulla tua reale superficie di attacco**  
-  Fonte: The Hacker News, 15 May 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html>)
-
-- **L'attacco alla catena di fornitura TanStack colpisce due dispositivi dei dipendenti OpenAI e forza gli aggiornamenti di macOS**  
-  Fonte: The Hacker News, 15 May 2026, 10:54:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-22 08:48:59 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-23 08:06:02 UTC -->
