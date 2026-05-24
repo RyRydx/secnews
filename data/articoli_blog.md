@@ -2,6 +2,34 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 505**  
+  Fonte: Troy Hunt, 24 May 2026, 01:34:54 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-505/>)
+
+- **Pacchetti Laravel Lang dirottati per distribuire malware per il furto di credenziali**  
+  Fonte: BleepingComputer, 23 May 2026, 20:48:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/>)
+
+- **npm aggiunge controlli di pubblicazione e installazione di pacchetti controllati da 2FA contro gli attacchi alla catena di fornitura**  
+  Fonte: The Hacker News, 23 May 2026, 16:35:10 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html>)
+
+- **L'attacco alla supply chain di Packagist infetta 8 pacchetti utilizzando malware Linux ospitato su GitHub**  
+  Fonte: The Hacker News, 23 May 2026, 16:07:51 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html>)
+
+- **L'Italia interrompe l'app antipirateria CINEMAGOAL che rubava i codici di autenticazione dello streaming**  
+  Fonte: BleepingComputer, 23 May 2026, 14:23:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/>)
+
+- **Claude Mythos AI individua 10.000 difetti di elevata gravità in software ampiamente utilizzati**  
+  Fonte: The Hacker News, 23 May 2026, 11:55:35 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html>)
+
+- **Pacchetti PHP Laravel-Lang compromessi per fornire un ladro di credenziali multipiattaforma**  
+  Fonte: The Hacker News, 23 May 2026, 09:51:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html>)
+
 - **Plugin cPanel LiteSpeed ​​CVE-2026-48172 sfruttato per eseguire script come root**  
   Fonte: The Hacker News, 23 May 2026, 07:35:13 UTC  
   [Leggi](<https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html>)
@@ -74,7 +102,7 @@
   Fonte: The Hacker News, 22 May 2026, 05:47:33 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html>)
 
-- **Cisco applica la patch CVSS 10.0 per un difetto dell'API REST del carico di lavoro sicuro che consente l'accesso ai dati**  
+- **Cisco applica una patch a CVSS 10.0 per un difetto dell'API REST del carico di lavoro sicuro che abilita l'accesso ai dati**  
   Fonte: The Hacker News, 22 May 2026, 05:36:18 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html>)
 
@@ -122,10 +150,6 @@
   Fonte: The Hacker News, 21 May 2026, 11:52:14 UTC  
   [Leggi](<https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html>)
 
-- **Il progetto Flipper One ha bisogno dell'aiuto della comunità per costruire una piattaforma Linux aperta**  
-  Fonte: BleepingComputer, 21 May 2026, 11:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/>)
-
 - **Microsoft avverte di due vulnerabilità del Defender sfruttate attivamente**  
   Fonte: The Hacker News, 21 May 2026, 10:55:57 UTC  
   [Leggi](<https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html>)
@@ -133,10 +157,6 @@
 - **Quando l'identità è la via d'attacco**  
   Fonte: The Hacker News, 21 May 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/when-identity-is-attack-path.html>)
-
-- **Microsoft avverte dei nuovi zero-day Defender sfruttati negli attacchi**  
-  Fonte: BleepingComputer, 21 May 2026, 07:49:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/>)
 
 - **Un difetto del kernel Linux di 9 anni consente l'esecuzione dei comandi root sulle principali distribuzioni**  
   Fonte: The Hacker News, 21 May 2026, 07:35:53 UTC  
@@ -174,7 +194,7 @@
   Fonte: The Hacker News, 20 May 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html>)
 
-- **Violazione di GitHub: l'hacking dei dispositivi dei dipendenti ha portato all'esfiltrazione di oltre 3.800 repository interni**  
+- **GitHub violato: l'hacking dei dispositivi dei dipendenti ha portato all'esfiltrazione di oltre 3.800 repository interni**  
   Fonte: The Hacker News, 20 May 2026, 11:38:43 UTC  
   [Leggi](<https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html>)
 
@@ -190,7 +210,7 @@
   Fonte: The Hacker News, 20 May 2026, 08:28:26 UTC  
   [Leggi](<https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html>)
 
-- **La violazione di GitHub di Grafana espone il codice sorgente tramite l'attacco TanStack npm**  
+- **La violazione di Grafana GitHub espone il codice sorgente tramite l'attacco TanStack npm**  
   Fonte: The Hacker News, 20 May 2026, 05:12:06 UTC  
   [Leggi](<https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html>)
 
@@ -282,13 +302,5 @@
   Fonte: The Hacker News, 17 May 2026, 11:57:53 UTC  
   [Leggi](<https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html>)
 
-- **La violazione del token GitHub di Grafana ha portato al download di Codebase e a tentativi di estorsione**  
-  Fonte: The Hacker News, 17 May 2026, 07:13:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html>)
 
-- **Il difetto del Funnel Builder durante lo sfruttamento attivo consente la scrematura del checkout di WooCommerce**  
-  Fonte: The Hacker News, 16 May 2026, 15:20:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-23 08:06:02 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-24 08:17:57 UTC -->
