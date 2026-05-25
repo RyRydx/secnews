@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **L'attacco alla catena di fornitura TrapDoor diffonde malware per il furto di credenziali tramite npm, PyPI e CratesIO**  
+  Fonte: The Hacker News, 25 May 2026, 05:59:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html>)
+
+- **Difetto di Ghost CMS SQL injection sfruttato nella campagna ClickFix su larga scala**  
+  Fonte: BleepingComputer, 24 May 2026, 14:12:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/>)
+
 - **Aggiornamento settimanale 505**  
   Fonte: Troy Hunt, 24 May 2026, 01:34:54 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-505/>)
@@ -142,10 +150,6 @@
   Fonte: BleepingComputer, 21 May 2026, 13:58:33 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/>)
 
-- **La polizia sequestra il servizio "First VPN" utilizzato in attacchi ransomware e furto di dati**  
-  Fonte: BleepingComputer, 21 May 2026, 13:09:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/>)
-
 - **Bollettino del ThreatsDay: rootkit Linux, router 0-Day, intrusioni IA, kit truffe e 25 nuove storie**  
   Fonte: The Hacker News, 21 May 2026, 11:52:14 UTC  
   [Leggi](<https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html>)
@@ -278,29 +282,5 @@
   Fonte: The Hacker News, 18 May 2026, 10:54:05 UTC  
   [Leggi](<https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html>)
 
-- **MiniPlasma Windows 0-Day consente l'escalation dei privilegi di SISTEMA su sistemi completamente patchati**  
-  Fonte: The Hacker News, 18 May 2026, 08:57:34 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html>)
 
-- **Quattro pacchetti npm dannosi forniscono infostealer e malware DDoS Phantom Bot**  
-  Fonte: The Hacker News, 18 May 2026, 08:57:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html>)
-
-- **Malware pre-Stuxnet Fast16 manomesso con simulazioni di armi nucleari**  
-  Fonte: The Hacker News, 18 May 2026, 06:46:37 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html>)
-
-- **Progetto Glasswing: cosa ci ha mostrato Mythos**  
-  Fonte: Cloudflare Blog - Security, 18 May 2026, 06:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/cyber-frontier-models/>)
-
-- **Aggiornamento settimanale 504**  
-  Fonte: Troy Hunt, 18 May 2026, 03:46:55 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-504/>)
-
-- **NGINX CVE-2026-42945 sfruttato in natura, causando arresti anomali dei lavoratori e possibili RCE**  
-  Fonte: The Hacker News, 17 May 2026, 11:57:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-24 08:17:57 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-25 09:48:32 UTC -->
