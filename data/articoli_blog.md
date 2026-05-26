@@ -2,6 +2,58 @@
 
 ## Ultimi 7 giorni
 
+- **La CISA ordina ai federali di applicare una patch alla vulnerabilità Drupal sfruttata attivamente**  
+  Fonte: BleepingComputer, 26 May 2026, 08:46:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/>)
+
+- **Microsoft: la ricerca del controller di dominio potrebbe non riuscire su Windows Server 2016**  
+  Fonte: BleepingComputer, 26 May 2026, 07:41:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/>)
+
+- **Gli hacker iraniani utilizzano MiniFast e MiniJunk V2 tramite phishing e SEO Poisoning**  
+  Fonte: The Hacker News, 26 May 2026, 07:13:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html>)
+
+- **La violazione dei dati di 7-Eleven espone le informazioni personali di 185.000 persone**  
+  Fonte: BleepingComputer, 26 May 2026, 07:01:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/>)
+
+- **Sfruttato il difetto di KnowledgeDeliver LMS per implementare Godzilla e Cobalt Strike**  
+  Fonte: The Hacker News, 26 May 2026, 05:19:38 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html>)
+
+- **Accogliendo favorevolmente il governo del Bhutan per Have I Been Pwned**  
+  Fonte: Troy Hunt, 25 May 2026, 22:52:15 UTC  
+  [Leggi](<https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/>)
+
+- **Il modello limitato Claude Mythos di Anthropic potrebbe arrivare su Claude Code**  
+  Fonte: BleepingComputer, 25 May 2026, 17:07:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/>)
+
+- **⚡ Riepilogo settimanale: difetti di Linux, Defender 0-Days, router botnet e caos nella supply chain**  
+  Fonte: The Hacker News, 25 May 2026, 14:13:27 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html>)
+
+- **I Paesi Bassi sequestrano 800 server e ne arrestano 2 per aver favorito attacchi informatici**  
+  Fonte: Krebs on Security, 25 May 2026, 13:21:49 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/>)
+
+- **L'FBI avverte del servizio di phishing Kali365 che prende di mira gli account Microsoft 365**  
+  Fonte: BleepingComputer, 25 May 2026, 12:45:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/>)
+
+- **Ghost CMS CVE-2026-26980 sfruttato per dirottare oltre 700 siti per attacchi ClickFix**  
+  Fonte: The Hacker News, 25 May 2026, 12:02:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html>)
+
+- **L'Alert Firehose finalmente incontra la sua corrispondenza**  
+  Fonte: The Hacker News, 25 May 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html>)
+
+- **Lazarus utilizza il RAT di sola memoria RemotePE contro aziende finanziarie e crittografiche**  
+  Fonte: The Hacker News, 25 May 2026, 09:32:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html>)
+
 - **L'attacco alla catena di fornitura TrapDoor diffonde malware per il furto di credenziali tramite npm, PyPI e CratesIO**  
   Fonte: The Hacker News, 25 May 2026, 05:59:13 UTC  
   [Leggi](<https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html>)
@@ -110,17 +162,13 @@
   Fonte: The Hacker News, 22 May 2026, 05:47:33 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html>)
 
-- **Cisco applica una patch a CVSS 10.0 per un difetto dell'API REST del carico di lavoro sicuro che abilita l'accesso ai dati**  
+- **Cisco applica la patch CVSS 10.0 per un difetto dell'API REST del carico di lavoro sicuro che consente l'accesso ai dati**  
   Fonte: The Hacker News, 22 May 2026, 05:36:18 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html>)
 
 - **Il presunto robot Kimwolf "Dort" arrestato e accusato negli Stati Uniti e in Canada**  
   Fonte: Krebs on Security, 21 May 2026, 21:50:25 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/>)
-
-- **Google ha accidentalmente esposto i dettagli del difetto non risolto di Chromium**  
-  Fonte: BleepingComputer, 21 May 2026, 18:13:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/>)
 
 - **I difensori restano indietro, mentre l’intelligenza artificiale riscrive le regole di una violazione dei dati**  
   Fonte: Graham Cluley, 21 May 2026, 17:13:28 UTC  
@@ -130,25 +178,9 @@
   Fonte: Schneier on Security, 21 May 2026, 16:03:37 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html>)
 
-- **Apple ha bloccato oltre 11 miliardi di dollari di frodi sull’App Store in 6 anni**  
-  Fonte: BleepingComputer, 21 May 2026, 15:11:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/>)
-
 - **Il malware Showboat Linux colpisce le telecomunicazioni del Medio Oriente con la backdoor proxy SOCKS5**  
   Fonte: The Hacker News, 21 May 2026, 14:17:09 UTC  
   [Leggi](<https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html>)
-
-- **All'interno di un drenaggio di criptovalute: come individuarlo prima che svuoti il ​​tuo portafoglio**  
-  Fonte: BleepingComputer, 21 May 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/>)
-
-- **Gli hacker cinesi prendono di mira le società di telecomunicazioni con il nuovo malware Linux e Windows**  
-  Fonte: BleepingComputer, 21 May 2026, 14:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/>)
-
-- **La gravità massima del difetto Cisco Secure Workload fornisce privilegi di amministratore del sito**  
-  Fonte: BleepingComputer, 21 May 2026, 13:58:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/>)
 
 - **Bollettino del ThreatsDay: rootkit Linux, router 0-Day, intrusioni IA, kit truffe e 25 nuove storie**  
   Fonte: The Hacker News, 21 May 2026, 11:52:14 UTC  
@@ -198,7 +230,7 @@
   Fonte: The Hacker News, 20 May 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html>)
 
-- **GitHub violato: l'hacking dei dispositivi dei dipendenti ha portato all'esfiltrazione di oltre 3.800 repository interni**  
+- **Violazione di GitHub: l'hacking dei dispositivi dei dipendenti ha portato all'esfiltrazione di oltre 3.800 repository interni**  
   Fonte: The Hacker News, 20 May 2026, 11:38:43 UTC  
   [Leggi](<https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html>)
 
@@ -214,7 +246,7 @@
   Fonte: The Hacker News, 20 May 2026, 08:28:26 UTC  
   [Leggi](<https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html>)
 
-- **La violazione di Grafana GitHub espone il codice sorgente tramite l'attacco TanStack npm**  
+- **La violazione di GitHub di Grafana espone il codice sorgente tramite l'attacco TanStack npm**  
   Fonte: The Hacker News, 20 May 2026, 05:12:06 UTC  
   [Leggi](<https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html>)
 
@@ -238,49 +270,5 @@
   Fonte: The Hacker News, 19 May 2026, 10:44:45 UTC  
   [Leggi](<https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html>)
 
-- **Le vulnerabilità del gateway di posta elettronica sicuro di SEPPMail consentono l'accesso al traffico di posta e RCE**  
-  Fonte: The Hacker News, 19 May 2026, 09:23:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html>)
 
-- **Nx Console 18.95.0 compromessa ha preso di mira gli sviluppatori di codice VS con il furto di credenziali**  
-  Fonte: The Hacker News, 19 May 2026, 07:49:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html>)
-
-- **Tag di azione GitHub popolari reindirizzati all'impostore Impegno a rubare credenziali CI/CD**  
-  Fonte: The Hacker News, 19 May 2026, 05:28:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html>)
-
-- **Mini Shai-Hulud invia pacchetti npm AntV dannosi tramite un account manutentore compromesso**  
-  Fonte: The Hacker News, 19 May 2026, 04:54:17 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html>)
-
-- **L'amministratore CISA ha rubato le chiavi AWS GovCloud su Github**  
-  Fonte: Krebs on Security, 18 May 2026, 20:48:21 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/>)
-
-- **L'operazione Ramz dell'INTERPOL interrompe le reti della criminalità informatica nell'area MENA con 201 arresti**  
-  Fonte: The Hacker News, 18 May 2026, 17:21:18 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html>)
-
-- **⚡ Riepilogo settimanale: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit e altro**  
-  Fonte: The Hacker News, 18 May 2026, 13:50:17 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html>)
-
-- **Come ridurre l'esposizione al phishing prima che si trasformi in un'interruzione dell'attività**  
-  Fonte: The Hacker News, 18 May 2026, 13:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html>)
-
-- **Le workstation degli sviluppatori fanno ora parte della catena di fornitura del software**  
-  Fonte: The Hacker News, 18 May 2026, 11:23:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html>)
-
-- **Exploit zero-day contro Windows BitLocker**  
-  Fonte: Schneier on Security, 18 May 2026, 11:08:13 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html>)
-
-- **Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, difetti di escalation dei privilegi**  
-  Fonte: The Hacker News, 18 May 2026, 10:54:05 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-25 09:48:32 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-26 09:36:14 UTC -->
