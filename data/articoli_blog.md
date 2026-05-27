@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **La polizia olandese arresta un sospetto legato all'attacco hacker alla squadra di calcio dell'Ajax**  
+  Fonte: BleepingComputer, 27 May 2026, 09:09:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/>)
+
+- **Aggiornamento Windows 11 KB5089573 rilasciato con miglioramenti delle prestazioni**  
+  Fonte: BleepingComputer, 27 May 2026, 08:33:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/>)
+
+- **I consigli di AI Chatbot reindirizzano gli utenti a siti malware di cryptojacking**  
+  Fonte: The Hacker News, 27 May 2026, 07:45:52 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html>)
+
+- **Difetto di KnowledgeDeliver sfruttato come zero-day per installare web shell**  
+  Fonte: BleepingComputer, 26 May 2026, 20:07:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/>)
+
+- **Charter conferma la violazione dei dati dopo la minaccia di estorsione di ShinyHunters**  
+  Fonte: BleepingComputer, 26 May 2026, 19:46:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/>)
+
+- **L'FBI avverte del kit di phishing Kali365 che penetra negli account Microsoft 365 senza richiedere alcuna password**  
+  Fonte: Graham Cluley, 26 May 2026, 16:24:02 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-kali365-phishing-kit-breaks-microsoft-365-accounts-no-password-required>)
+
+- **MuddyWater utilizza il caricamento laterale DLL nella campagna di spionaggio rivolta a 9 paesi**  
+  Fonte: The Hacker News, 26 May 2026, 15:48:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html>)
+
+- **Identificazione delle persone che utilizzano router Wi-Fi**  
+  Fonte: Schneier on Security, 26 May 2026, 15:02:06 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html>)
+
+- **Come Varonis Atlas integra l'API Claude Compliance per la governance dell'intelligenza artificiale**  
+  Fonte: BleepingComputer, 26 May 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/>)
+
+- **Microsoft Defender ora può isolare automaticamente gli endpoint compromessi**  
+  Fonte: BleepingComputer, 26 May 2026, 12:19:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/>)
+
+- **Webinar: Troppi strumenti stanno rallentando la risposta agli incidenti di rete**  
+  Fonte: BleepingComputer, 26 May 2026, 12:16:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/>)
+
+- **[Webinar THN] I nuovi attacchi DDoS basati sull'intelligenza artificiale sono più intelligenti.Impara come reagire**  
+  Fonte: The Hacker News, 26 May 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html>)
+
+- **Microsoft applica una patch al difetto CVE-2026-45659 di SharePoint RCE nelle versioni server**  
+  Fonte: The Hacker News, 26 May 2026, 11:49:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html>)
+
+- **Bombardamento immediato dell'AMF: perché il tuo secondo fattore non ti sta salvando**  
+  Fonte: The Hacker News, 26 May 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html>)
+
+- **CERT-In consiglia l'applicazione di patch entro 12 ore per i difetti riscontrati in Internet durante gli attacchi assistiti dall'intelligenza artificiale**  
+  Fonte: The Hacker News, 26 May 2026, 09:13:02 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html>)
+
 - **La CISA ordina ai federali di applicare una patch alla vulnerabilità Drupal sfruttata attivamente**  
   Fonte: BleepingComputer, 26 May 2026, 08:46:45 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/>)
@@ -106,10 +166,6 @@
   Fonte: The Hacker News, 22 May 2026, 17:35:02 UTC  
   [Leggi](<https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html>)
 
-- **I Paesi Bassi sequestrano 800 server di società di hosting consentendo attacchi informatici**  
-  Fonte: BleepingComputer, 22 May 2026, 17:24:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/>)
-
 - **I legislatori chiedono risposte mentre la CISA cerca di contenere la fuga di dati**  
   Fonte: Krebs on Security, 22 May 2026, 16:34:24 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/>)
@@ -118,29 +174,9 @@
   Fonte: The Hacker News, 22 May 2026, 16:20:32 UTC  
   [Leggi](<https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html>)
 
-- **Ex dirigenti statunitensi si dichiarano colpevoli di favoreggiamento dei truffatori del supporto tecnico**  
-  Fonte: BleepingComputer, 22 May 2026, 15:32:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/>)
-
 - **Perdita di sicurezza CISA**  
   Fonte: Schneier on Security, 22 May 2026, 13:58:30 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/cisa-security-leak.html>)
-
-- **Trend Micro avverte dello sfruttamento zero-day di Apex One**  
-  Fonte: BleepingComputer, 22 May 2026, 13:39:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/>)
-
-- **Drupal: difetto critico di SQL injection ora preso di mira dagli attacchi**  
-  Fonte: BleepingComputer, 22 May 2026, 13:14:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/>)
-
-- **Perché i chargeback sono solo un pezzo del puzzle antifrode**  
-  Fonte: BleepingComputer, 22 May 2026, 13:09:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/>)
-
-- **Ubiquiti corregge tre vulnerabilità del sistema operativo UniFi di massima gravità**  
-  Fonte: BleepingComputer, 22 May 2026, 12:00:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/>)
 
 - **L'attacco Megalodon GitHub prende di mira 5.561 repository con flussi di lavoro CI/CD dannosi**  
   Fonte: The Hacker News, 22 May 2026, 11:55:24 UTC  
@@ -149,10 +185,6 @@
 - **Rendere sfruttabili i driver vulnerabili senza hardware: la prospettiva BYOVD**  
   Fonte: The Hacker News, 22 May 2026, 11:38:12 UTC  
   [Leggi](<https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html>)
-
-- **Stati Uniti e Canada arrestano e accusano il sospetto amministratore della botnet Kimwolf**  
-  Fonte: BleepingComputer, 22 May 2026, 09:01:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/>)
 
 - **L'operatore botnet DDoS Kimwolf è stato arrestato in Canada per attacchi DDoS a pagamento**  
   Fonte: The Hacker News, 22 May 2026, 08:50:18 UTC  
@@ -238,37 +270,5 @@
   Fonte: The Hacker News, 20 May 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html>)
 
-- **L'FBI avverte studenti e personale che ShinyHunters potrebbe venire a bussare dopo la violazione di Canvas**  
-  Fonte: Graham Cluley, 20 May 2026, 08:28:36 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-canvas-breach>)
 
-- **Microsoft rilascia soluzioni di mitigazione per l'exploit YellowKey BitLocker Bypass CVE-2026-45585**  
-  Fonte: The Hacker News, 20 May 2026, 08:28:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html>)
-
-- **La violazione di GitHub di Grafana espone il codice sorgente tramite l'attacco TanStack npm**  
-  Fonte: The Hacker News, 20 May 2026, 05:12:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html>)
-
-- **Il sistema di frode pubblicitaria Trapdoor su Android ha raggiunto 659 milioni di richieste di offerte giornaliere utilizzando 455 app**  
-  Fonte: The Hacker News, 19 May 2026, 16:38:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html>)
-
-- **PoC DirtyDecrypt rilasciato per la vulnerabilità LPE CVE-2026-31635 del kernel Linux**  
-  Fonte: The Hacker News, 19 May 2026, 14:56:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html>)
-
-- **Il nuovo clic di phishing: come il consenso OAuth ignora l'MFA**  
-  Fonte: The Hacker News, 19 May 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html>)
-
-- **Laurie Anderson mi sta citando**  
-  Fonte: Schneier on Security, 19 May 2026, 11:00:01 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/laurie-anderson-is-quoting-me.html>)
-
-- **Drupal rilascerà aggiornamenti urgenti sulla sicurezza di base il 20 maggio, ai siti è stato detto di prepararsi**  
-  Fonte: The Hacker News, 19 May 2026, 10:44:45 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-26 09:36:14 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-27 09:28:49 UTC -->
