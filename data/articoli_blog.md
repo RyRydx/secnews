@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Sestorsore condannato a 33 anni per aver preso di mira 145 bambini**  
+  Fonte: BleepingComputer, 28 May 2026, 09:25:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/>)
+
+- **JINX-0164 prende di mira le aziende di criptovaluta con esche di reclutamento false e malware macOS**  
+  Fonte: The Hacker News, 28 May 2026, 07:54:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html>)
+
+- **Podcast Smashing Security n. 469: Ciò che il tuo anello Oura non ti dirà**  
+  Fonte: Graham Cluley, 27 May 2026, 23:05:09 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-469/>)
+
+- **Il malware di mining GPU si diffonde tramite avvelenamento SEO e chatbot AI**  
+  Fonte: BleepingComputer, 27 May 2026, 21:31:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/>)
+
+- **Le campagne Grandoreiro Malware e BTMOB RAT sono rivolte agli utenti Windows e Android**  
+  Fonte: The Hacker News, 27 May 2026, 16:10:21 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html>)
+
+- **Il pacchetto npm dannoso ha rubato file dalla directory utente di Claude AI tramite GitHub**  
+  Fonte: The Hacker News, 27 May 2026, 15:44:29 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html>)
+
+- **Rapporto sulla criminalità su Internet del 2025 dell’FBI**  
+  Fonte: Schneier on Security, 27 May 2026, 14:02:44 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html>)
+
+- **È possibile applicare regole complesse per le password di Active Directory senza frustrare gli utenti?**  
+  Fonte: BleepingComputer, 27 May 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/>)
+
+- **5 passaggi per gestire gli strumenti di Shadow AI senza rallentare i dipendenti**  
+  Fonte: The Hacker News, 27 May 2026, 13:28:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html>)
+
+- **La botnet Glassworm è stata interrotta dopo la rimozione della resiliente infrastruttura C2**  
+  Fonte: BleepingComputer, 27 May 2026, 13:28:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/>)
+
+- **L'FBI avverte di attacchi di furto di dati personali da parte di una banda di estorsori**  
+  Fonte: BleepingComputer, 27 May 2026, 11:51:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/>)
+
+- **La rimozione del malware GlassWorm interrompe l'infrastruttura di attacco della catena di fornitura degli sviluppatori**  
+  Fonte: The Hacker News, 27 May 2026, 11:48:37 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html>)
+
+- **3 passaggi del SOC che eliminano tempestivamente i rischi di incidenti**  
+  Fonte: The Hacker News, 27 May 2026, 11:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html>)
+
+- **La vulnerabilità di Gitea espone immagini di contenitori privati ​​senza autenticazione**  
+  Fonte: The Hacker News, 27 May 2026, 10:06:32 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html>)
+
+- **CISA concede ai federali 4 giorni per correggere il difetto del plugin cPanel attivamente sfruttato**  
+  Fonte: BleepingComputer, 27 May 2026, 10:06:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/>)
+
 - **La polizia olandese arresta un sospetto legato all'attacco hacker alla squadra di calcio dell'Ajax**  
   Fonte: BleepingComputer, 27 May 2026, 09:09:03 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/>)
@@ -74,10 +134,6 @@
   Fonte: The Hacker News, 26 May 2026, 07:13:05 UTC  
   [Leggi](<https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html>)
 
-- **La violazione dei dati di 7-Eleven espone le informazioni personali di 185.000 persone**  
-  Fonte: BleepingComputer, 26 May 2026, 07:01:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/>)
-
 - **Sfruttato il difetto di KnowledgeDeliver LMS per implementare Godzilla e Cobalt Strike**  
   Fonte: The Hacker News, 26 May 2026, 05:19:38 UTC  
   [Leggi](<https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html>)
@@ -86,10 +142,6 @@
   Fonte: Troy Hunt, 25 May 2026, 22:52:15 UTC  
   [Leggi](<https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/>)
 
-- **Il modello limitato Claude Mythos di Anthropic potrebbe arrivare su Claude Code**  
-  Fonte: BleepingComputer, 25 May 2026, 17:07:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/>)
-
 - **⚡ Riepilogo settimanale: difetti di Linux, Defender 0-Days, router botnet e caos nella supply chain**  
   Fonte: The Hacker News, 25 May 2026, 14:13:27 UTC  
   [Leggi](<https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html>)
@@ -97,10 +149,6 @@
 - **I Paesi Bassi sequestrano 800 server e ne arrestano 2 per aver favorito attacchi informatici**  
   Fonte: Krebs on Security, 25 May 2026, 13:21:49 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/>)
-
-- **L'FBI avverte del servizio di phishing Kali365 che prende di mira gli account Microsoft 365**  
-  Fonte: BleepingComputer, 25 May 2026, 12:45:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/>)
 
 - **Ghost CMS CVE-2026-26980 sfruttato per dirottare oltre 700 siti per attacchi ClickFix**  
   Fonte: The Hacker News, 25 May 2026, 12:02:46 UTC  
@@ -118,17 +166,9 @@
   Fonte: The Hacker News, 25 May 2026, 05:59:13 UTC  
   [Leggi](<https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html>)
 
-- **Difetto di Ghost CMS SQL injection sfruttato nella campagna ClickFix su larga scala**  
-  Fonte: BleepingComputer, 24 May 2026, 14:12:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/>)
-
 - **Aggiornamento settimanale 505**  
   Fonte: Troy Hunt, 24 May 2026, 01:34:54 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-505/>)
-
-- **Pacchetti Laravel Lang dirottati per distribuire malware per il furto di credenziali**  
-  Fonte: BleepingComputer, 23 May 2026, 20:48:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/>)
 
 - **npm aggiunge controlli di pubblicazione e installazione di pacchetti controllati da 2FA contro gli attacchi alla catena di fornitura**  
   Fonte: The Hacker News, 23 May 2026, 16:35:10 UTC  
@@ -137,10 +177,6 @@
 - **L'attacco alla supply chain di Packagist infetta 8 pacchetti utilizzando malware Linux ospitato su GitHub**  
   Fonte: The Hacker News, 23 May 2026, 16:07:51 UTC  
   [Leggi](<https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html>)
-
-- **L'Italia interrompe l'app antipirateria CINEMAGOAL che rubava i codici di autenticazione dello streaming**  
-  Fonte: BleepingComputer, 23 May 2026, 14:23:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/>)
 
 - **Claude Mythos AI individua 10.000 difetti di elevata gravità in software ampiamente utilizzati**  
   Fonte: The Hacker News, 23 May 2026, 11:55:35 UTC  
@@ -194,7 +230,7 @@
   Fonte: The Hacker News, 22 May 2026, 05:47:33 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html>)
 
-- **Cisco applica la patch CVSS 10.0 per un difetto dell'API REST del carico di lavoro sicuro che consente l'accesso ai dati**  
+- **Cisco applica una patch a CVSS 10.0 per un difetto dell'API REST del carico di lavoro sicuro che abilita l'accesso ai dati**  
   Fonte: The Hacker News, 22 May 2026, 05:36:18 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html>)
 
@@ -226,49 +262,5 @@
   Fonte: The Hacker News, 21 May 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/when-identity-is-attack-path.html>)
 
-- **Un difetto del kernel Linux di 9 anni consente l'esecuzione dei comandi root sulle principali distribuzioni**  
-  Fonte: The Hacker News, 21 May 2026, 07:35:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html>)
 
-- **Repository interni GitHub violati tramite l'estensione dannosa del codice VS della console Nx**  
-  Fonte: The Hacker News, 21 May 2026, 04:27:01 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/github-internal-repositories-breached.html>)
-
-- **Un difetto estremamente critico di Drupal Core espone i siti PostgreSQL agli attacchi RCE**  
-  Fonte: The Hacker News, 21 May 2026, 03:44:11 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html>)
-
-- **Podcast di Smashing Security n. 468: Hacking sui treni ad alta velocità e tosaerba omicidi**  
-  Fonte: Graham Cluley, 20 May 2026, 23:04:42 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-468/>)
-
-- **Microsoft Open Source RAMPART e Clarity per proteggere gli agenti IA durante lo sviluppo**  
-  Fonte: The Hacker News, 20 May 2026, 17:06:54 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html>)
-
-- **Microsoft rimuove il servizio di firma malware dietro gli attacchi ransomware**  
-  Fonte: The Hacker News, 20 May 2026, 14:36:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html>)
-
-- **Sulla sicurezza dell'intelligenza artificiale**  
-  Fonte: Schneier on Security, 20 May 2026, 14:21:20 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/on-ai-security.html>)
-
-- **Webworm distribuisce backdoor EchoCreep e GraphWorm utilizzando Discord e l'API MS Graph**  
-  Fonte: The Hacker News, 20 May 2026, 12:51:43 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html>)
-
-- **L'agente AI sta arrivando.Sei pronto?**  
-  Fonte: The Hacker News, 20 May 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html>)
-
-- **Violazione di GitHub: l'hacking dei dispositivi dei dipendenti ha portato all'esfiltrazione di oltre 3.800 repository interni**  
-  Fonte: The Hacker News, 20 May 2026, 11:38:43 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html>)
-
-- **Il typosquatting non è più un problema per gli utenti.È un problema di catena di fornitura**  
-  Fonte: The Hacker News, 20 May 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-27 09:28:49 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-28 09:45:54 UTC -->
