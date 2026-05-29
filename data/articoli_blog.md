@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **La violazione dei dati di Charter Communications colpisce 4,9 milioni di account**  
+  Fonte: BleepingComputer, 29 May 2026, 08:29:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/>)
+
+- **La polizia arresta un uomo dopo l'attacco alla squadra di calcio dell'Ajax**  
+  Fonte: Graham Cluley, 29 May 2026, 08:04:39 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/police-arrest-hack-ajax-football>)
+
+- **Kimsuky distribuisce HTTPSpy, espande l'arsenale con HelloDoor e tunnel VS Code**  
+  Fonte: The Hacker News, 29 May 2026, 05:57:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html>)
+
+- **Anthropic conferma che i modelli di classe Claude Mythos verranno lanciati al pubblico**  
+  Fonte: BleepingComputer, 29 May 2026, 00:21:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/>)
+
+- **Gli hacker di GreyVibe utilizzano ChatGPT, Gemini per potenziare gli attacchi informatici**  
+  Fonte: BleepingComputer, 28 May 2026, 22:24:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/>)
+
+- **Il servizio malware Android BTMOB genera payload di phishing personalizzati**  
+  Fonte: BleepingComputer, 28 May 2026, 21:10:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/>)
+
+- **L'FBI mette in guardia contro i falsi siti web della FIFA che gestiscono schemi di frode alla Coppa del Mondo**  
+  Fonte: BleepingComputer, 28 May 2026, 19:08:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/>)
+
+- **Gli hacker sfruttano la falla di FortiClient EMS per diffondere malware infostealer**  
+  Fonte: BleepingComputer, 28 May 2026, 17:25:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/>)
+
+- **La vulnerabilità critica RCE di Gogs consente a qualsiasi utente autenticato di eseguire codice arbitrario**  
+  Fonte: The Hacker News, 28 May 2026, 17:24:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html>)
+
+- **Gli autori delle minacce sfruttano il difetto critico di FortiClient EMS per implementare il furto di credenziali**  
+  Fonte: The Hacker News, 28 May 2026, 15:26:04 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/threat-actors-exploit-critical.html>)
+
+- **La nuova falla zero-day di Gog consente agli hacker di ottenere l'esecuzione di codice in modalità remota**  
+  Fonte: BleepingComputer, 28 May 2026, 14:25:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/>)
+
+- **In che modo SIEM aiuta gli MSP a ridurre il rumore e a bloccare le minacce più rapidamente**  
+  Fonte: BleepingComputer, 28 May 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/>)
+
+- **Microsoft si oppone alle divulgazioni pubbliche zero-day in seguito alla rimozione dell'account del ricercatore GitHub**  
+  Fonte: The Hacker News, 28 May 2026, 13:53:52 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html>)
+
+- **MyPillow è presente sul sito di leak della banda di ransomware, ma nega che sia stato violato**  
+  Fonte: Graham Cluley, 28 May 2026, 13:39:39 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/mypillow-ransomware-leak-site-denies-breach>)
+
+- **Bollettino ThreatsDay: plug-in di sicurezza Claude, Azure Priv-Esc, bypass MFA Kali365, truffe FIFA +15 altro**  
+  Fonte: The Hacker News, 28 May 2026, 13:33:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html>)
+
+- **Un rumeno condannato a 5 anni di carcere per aver violato la rete governativa dell'Oregon**  
+  Fonte: BleepingComputer, 28 May 2026, 12:43:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/>)
+
+- **Webinar: Perché gli incidenti di rete richiedono troppo tempo per essere risolti**  
+  Fonte: BleepingComputer, 28 May 2026, 12:20:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/>)
+
+- **Nuovo report sull’utilizzo dell’intelligenza artificiale: il rischio dell’intelligenza artificiale aziendale è fortemente concentrato in un piccolo gruppo di “utenti esperti” dell’intelligenza artificiale**  
+  Fonte: The Hacker News, 28 May 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html>)
+
+- **Carnival Cruise conferma che la violazione dei dati ha colpito quasi 6 milioni di persone**  
+  Fonte: BleepingComputer, 28 May 2026, 10:49:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/>)
+
 - **Sestorsore condannato a 33 anni per aver preso di mira 145 bambini**  
   Fonte: BleepingComputer, 28 May 2026, 09:25:59 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/>)
@@ -42,10 +118,6 @@
   Fonte: BleepingComputer, 27 May 2026, 13:28:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/>)
 
-- **L'FBI avverte di attacchi di furto di dati personali da parte di una banda di estorsori**  
-  Fonte: BleepingComputer, 27 May 2026, 11:51:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/>)
-
 - **La rimozione del malware GlassWorm interrompe l'infrastruttura di attacco della catena di fornitura degli sviluppatori**  
   Fonte: The Hacker News, 27 May 2026, 11:48:37 UTC  
   [Leggi](<https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html>)
@@ -58,29 +130,9 @@
   Fonte: The Hacker News, 27 May 2026, 10:06:32 UTC  
   [Leggi](<https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html>)
 
-- **CISA concede ai federali 4 giorni per correggere il difetto del plugin cPanel attivamente sfruttato**  
-  Fonte: BleepingComputer, 27 May 2026, 10:06:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/>)
-
-- **La polizia olandese arresta un sospetto legato all'attacco hacker alla squadra di calcio dell'Ajax**  
-  Fonte: BleepingComputer, 27 May 2026, 09:09:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/>)
-
-- **Aggiornamento Windows 11 KB5089573 rilasciato con miglioramenti delle prestazioni**  
-  Fonte: BleepingComputer, 27 May 2026, 08:33:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/>)
-
 - **I consigli di AI Chatbot reindirizzano gli utenti a siti malware di cryptojacking**  
   Fonte: The Hacker News, 27 May 2026, 07:45:52 UTC  
   [Leggi](<https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html>)
-
-- **Difetto di KnowledgeDeliver sfruttato come zero-day per installare web shell**  
-  Fonte: BleepingComputer, 26 May 2026, 20:07:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/>)
-
-- **Charter conferma la violazione dei dati dopo la minaccia di estorsione di ShinyHunters**  
-  Fonte: BleepingComputer, 26 May 2026, 19:46:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/>)
 
 - **L'FBI avverte del kit di phishing Kali365 che penetra negli account Microsoft 365 senza richiedere alcuna password**  
   Fonte: Graham Cluley, 26 May 2026, 16:24:02 UTC  
@@ -93,18 +145,6 @@
 - **Identificazione delle persone che utilizzano router Wi-Fi**  
   Fonte: Schneier on Security, 26 May 2026, 15:02:06 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html>)
-
-- **Come Varonis Atlas integra l'API Claude Compliance per la governance dell'intelligenza artificiale**  
-  Fonte: BleepingComputer, 26 May 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/>)
-
-- **Microsoft Defender ora può isolare automaticamente gli endpoint compromessi**  
-  Fonte: BleepingComputer, 26 May 2026, 12:19:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/>)
-
-- **Webinar: Troppi strumenti stanno rallentando la risposta agli incidenti di rete**  
-  Fonte: BleepingComputer, 26 May 2026, 12:16:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/>)
 
 - **[Webinar THN] I nuovi attacchi DDoS basati sull'intelligenza artificiale sono più intelligenti.Impara come reagire**  
   Fonte: The Hacker News, 26 May 2026, 11:58:00 UTC  
@@ -121,14 +161,6 @@
 - **CERT-In consiglia l'applicazione di patch entro 12 ore per i difetti riscontrati in Internet durante gli attacchi assistiti dall'intelligenza artificiale**  
   Fonte: The Hacker News, 26 May 2026, 09:13:02 UTC  
   [Leggi](<https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html>)
-
-- **La CISA ordina ai federali di applicare una patch alla vulnerabilità Drupal sfruttata attivamente**  
-  Fonte: BleepingComputer, 26 May 2026, 08:46:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/>)
-
-- **Microsoft: la ricerca del controller di dominio potrebbe non riuscire su Windows Server 2016**  
-  Fonte: BleepingComputer, 26 May 2026, 07:41:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/>)
 
 - **Gli hacker iraniani utilizzano MiniFast e MiniJunk V2 tramite phishing e SEO Poisoning**  
   Fonte: The Hacker News, 26 May 2026, 07:13:05 UTC  
@@ -222,45 +254,5 @@
   Fonte: The Hacker News, 22 May 2026, 11:38:12 UTC  
   [Leggi](<https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html>)
 
-- **L'operatore botnet DDoS Kimwolf è stato arrestato in Canada per attacchi DDoS a pagamento**  
-  Fonte: The Hacker News, 22 May 2026, 08:50:18 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html>)
 
-- **CISA aggiunge le vulnerabilità sfruttate di Langflow e Trend Micro Apex One a KEV**  
-  Fonte: The Hacker News, 22 May 2026, 05:47:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html>)
-
-- **Cisco applica una patch a CVSS 10.0 per un difetto dell'API REST del carico di lavoro sicuro che abilita l'accesso ai dati**  
-  Fonte: The Hacker News, 22 May 2026, 05:36:18 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html>)
-
-- **Il presunto robot Kimwolf "Dort" arrestato e accusato negli Stati Uniti e in Canada**  
-  Fonte: Krebs on Security, 21 May 2026, 21:50:25 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/>)
-
-- **I difensori restano indietro, mentre l’intelligenza artificiale riscrive le regole di una violazione dei dati**  
-  Fonte: Graham Cluley, 21 May 2026, 17:13:28 UTC  
-  [Leggi](<https://www.fortra.com/blog/defenders-fall-behind-ai-rewrites-rules-data-breach>)
-
-- **Exploit di danneggiamento della memoria del kernel macOS**  
-  Fonte: Schneier on Security, 21 May 2026, 16:03:37 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html>)
-
-- **Il malware Showboat Linux colpisce le telecomunicazioni del Medio Oriente con la backdoor proxy SOCKS5**  
-  Fonte: The Hacker News, 21 May 2026, 14:17:09 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html>)
-
-- **Bollettino del ThreatsDay: rootkit Linux, router 0-Day, intrusioni IA, kit truffe e 25 nuove storie**  
-  Fonte: The Hacker News, 21 May 2026, 11:52:14 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html>)
-
-- **Microsoft avverte di due vulnerabilità del Defender sfruttate attivamente**  
-  Fonte: The Hacker News, 21 May 2026, 10:55:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html>)
-
-- **Quando l'identità è la via d'attacco**  
-  Fonte: The Hacker News, 21 May 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/when-identity-is-attack-path.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-28 09:45:54 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-29 09:36:22 UTC -->
