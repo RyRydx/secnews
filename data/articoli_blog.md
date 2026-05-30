@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) in caso di sfruttamento attivo**  
+  Fonte: The Hacker News, 30 May 2026, 06:41:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html>)
+
+- **Blog di calamari del venerdì: un altro calamaro**  
+  Fonte: Schneier on Security, 29 May 2026, 21:05:33 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-another-squid.html>)
+
+- **Collegamenti di condivisione ChatGPT abusati per ospitare pagine di interruzione false per diffondere malware**  
+  Fonte: BleepingComputer, 29 May 2026, 18:21:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/>)
+
+- **California AG fa causa a 23andMe per violazione del 2023 che espone dati sanitari**  
+  Fonte: BleepingComputer, 29 May 2026, 18:08:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/>)
+
+- **La vulnerabilità ChatGPhish trasforma i riepiloghi Web ChatGPT in una superficie di phishing**  
+  Fonte: The Hacker News, 29 May 2026, 18:07:12 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html>)
+
+- **Gli aggressori utilizzano l'agente LLM per il post-sfruttamento dopo l'exploit Marimo CVE-2026-39987**  
+  Fonte: The Hacker News, 29 May 2026, 14:39:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html>)
+
+- **Dagli attacchi da 5 dollari alle piattaforme basate su botnet: il mercato DDoS-as-a-Service**  
+  Fonte: BleepingComputer, 29 May 2026, 14:32:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/>)
+
+- **Il governo olandese interrompe la botnet malware con 17 milioni di dispositivi infetti**  
+  Fonte: BleepingComputer, 29 May 2026, 14:26:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/>)
+
+- **Google Chrome aggiunge la protezione dal furto dei cookie di sessione per tutti gli utenti**  
+  Fonte: BleepingComputer, 29 May 2026, 12:08:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/>)
+
+- **Il nuovo GREYVIBE legato alla Russia prende di mira l’Ucraina con attacchi informatici basati sull’intelligenza artificiale**  
+  Fonte: The Hacker News, 29 May 2026, 11:31:59 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html>)
+
+- **Un uomo mandato in prigione per aver venduto i dati di 7 milioni di anziani americani**  
+  Fonte: BleepingComputer, 29 May 2026, 11:07:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/>)
+
+- **Effetti agghiaccianti**  
+  Fonte: Schneier on Security, 29 May 2026, 11:02:22 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/05/chilling-effects.html>)
+
+- **Cosa rivelano 2.000 app codificate Vibe sui limiti della maggior parte degli stack di sicurezza**  
+  Fonte: The Hacker News, 29 May 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html>)
+
+- **Gli Stati Uniti accusano l'ingegnere della sicurezza di Google di insider trading di Polymarket**  
+  Fonte: BleepingComputer, 29 May 2026, 10:11:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/>)
+
+- **Il dannoso Sicoob NuGet ruba le credenziali bancarie mentre i pacchetti npm prendono di mira i segreti del cloud**  
+  Fonte: The Hacker News, 29 May 2026, 09:11:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html>)
+
 - **La violazione dei dati di Charter Communications colpisce 4,9 milioni di account**  
   Fonte: BleepingComputer, 29 May 2026, 08:29:40 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/>)
@@ -18,7 +78,7 @@
   Fonte: BleepingComputer, 29 May 2026, 00:21:03 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/>)
 
-- **Gli hacker di GreyVibe utilizzano ChatGPT, Gemini per potenziare gli attacchi informatici**  
+- **Gli hacker di GreyVibe utilizzano ChatGPT, Gemini per alimentare gli attacchi informatici**  
   Fonte: BleepingComputer, 28 May 2026, 22:24:49 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/>)
 
@@ -62,25 +122,9 @@
   Fonte: The Hacker News, 28 May 2026, 13:33:16 UTC  
   [Leggi](<https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html>)
 
-- **Un rumeno condannato a 5 anni di carcere per aver violato la rete governativa dell'Oregon**  
-  Fonte: BleepingComputer, 28 May 2026, 12:43:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/>)
-
-- **Webinar: Perché gli incidenti di rete richiedono troppo tempo per essere risolti**  
-  Fonte: BleepingComputer, 28 May 2026, 12:20:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/>)
-
 - **Nuovo report sull’utilizzo dell’intelligenza artificiale: il rischio dell’intelligenza artificiale aziendale è fortemente concentrato in un piccolo gruppo di “utenti esperti” dell’intelligenza artificiale**  
   Fonte: The Hacker News, 28 May 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html>)
-
-- **Carnival Cruise conferma che la violazione dei dati ha colpito quasi 6 milioni di persone**  
-  Fonte: BleepingComputer, 28 May 2026, 10:49:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/>)
-
-- **Sestorsore condannato a 33 anni per aver preso di mira 145 bambini**  
-  Fonte: BleepingComputer, 28 May 2026, 09:25:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/>)
 
 - **JINX-0164 prende di mira le aziende di criptovaluta con esche di reclutamento false e malware macOS**  
   Fonte: The Hacker News, 28 May 2026, 07:54:48 UTC  
@@ -89,10 +133,6 @@
 - **Podcast Smashing Security n. 469: Ciò che il tuo anello Oura non ti dirà**  
   Fonte: Graham Cluley, 27 May 2026, 23:05:09 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-469/>)
-
-- **Il malware di mining GPU si diffonde tramite avvelenamento SEO e chatbot AI**  
-  Fonte: BleepingComputer, 27 May 2026, 21:31:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/>)
 
 - **Le campagne Grandoreiro Malware e BTMOB RAT sono rivolte agli utenti Windows e Android**  
   Fonte: The Hacker News, 27 May 2026, 16:10:21 UTC  
@@ -106,17 +146,9 @@
   Fonte: Schneier on Security, 27 May 2026, 14:02:44 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html>)
 
-- **È possibile applicare regole complesse per le password di Active Directory senza frustrare gli utenti?**  
-  Fonte: BleepingComputer, 27 May 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/>)
-
 - **5 passaggi per gestire gli strumenti di Shadow AI senza rallentare i dipendenti**  
   Fonte: The Hacker News, 27 May 2026, 13:28:48 UTC  
   [Leggi](<https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html>)
-
-- **La botnet Glassworm è stata interrotta dopo la rimozione della resiliente infrastruttura C2**  
-  Fonte: BleepingComputer, 27 May 2026, 13:28:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/>)
 
 - **La rimozione del malware GlassWorm interrompe l'infrastruttura di attacco della catena di fornitura degli sviluppatori**  
   Fonte: The Hacker News, 27 May 2026, 11:48:37 UTC  
@@ -218,41 +250,5 @@
   Fonte: The Hacker News, 23 May 2026, 09:51:13 UTC  
   [Leggi](<https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html>)
 
-- **Plugin cPanel LiteSpeed ​​CVE-2026-48172 sfruttato per eseguire script come root**  
-  Fonte: The Hacker News, 23 May 2026, 07:35:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html>)
 
-- **Bug di Drupal Core SQL Injection sfruttato attivamente, aggiunto a CISA KEV**  
-  Fonte: The Hacker News, 23 May 2026, 07:23:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html>)
-
-- **Blog sui calamari del venerdì: regolamentazione della pesca dei calamari nel Pacifico meridionale**  
-  Fonte: Schneier on Security, 22 May 2026, 21:04:16 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-regulating-squid-fishing-in-the-south-pacific.html>)
-
-- **Prima VPN smantellata in seguito a una rimozione globale per l'utilizzo da parte di 25 gruppi ransomware**  
-  Fonte: The Hacker News, 22 May 2026, 17:35:02 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html>)
-
-- **I legislatori chiedono risposte mentre la CISA cerca di contenere la fuga di dati**  
-  Fonte: Krebs on Security, 22 May 2026, 16:34:24 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/>)
-
-- **Ghostwriter prende di mira gli enti governativi ucraini con il malware phishing Prometheus**  
-  Fonte: The Hacker News, 22 May 2026, 16:20:32 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html>)
-
-- **Perdita di sicurezza CISA**  
-  Fonte: Schneier on Security, 22 May 2026, 13:58:30 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/cisa-security-leak.html>)
-
-- **L'attacco Megalodon GitHub prende di mira 5.561 repository con flussi di lavoro CI/CD dannosi**  
-  Fonte: The Hacker News, 22 May 2026, 11:55:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html>)
-
-- **Rendere sfruttabili i driver vulnerabili senza hardware: la prospettiva BYOVD**  
-  Fonte: The Hacker News, 22 May 2026, 11:38:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-29 09:36:22 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-30 08:17:02 UTC -->
