@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **Difetto di bypass dell'autenticazione VPN di Palo Alto GlobalProtect ora sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 30 May 2026, 18:02:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/>)
+
+- **Il nuovo difetto CIFSwitch Linux dà origine a più distribuzioni**  
+  Fonte: BleepingComputer, 30 May 2026, 14:16:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/>)
+
 - **PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) in caso di sfruttamento attivo**  
   Fonte: The Hacker News, 30 May 2026, 06:41:26 UTC  
   [Leggi](<https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html>)
@@ -101,14 +109,6 @@
 - **Gli autori delle minacce sfruttano il difetto critico di FortiClient EMS per implementare il furto di credenziali**  
   Fonte: The Hacker News, 28 May 2026, 15:26:04 UTC  
   [Leggi](<https://thehackernews.com/2026/05/threat-actors-exploit-critical.html>)
-
-- **La nuova falla zero-day di Gog consente agli hacker di ottenere l'esecuzione di codice in modalità remota**  
-  Fonte: BleepingComputer, 28 May 2026, 14:25:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/>)
-
-- **In che modo SIEM aiuta gli MSP a ridurre il rumore e a bloccare le minacce più rapidamente**  
-  Fonte: BleepingComputer, 28 May 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/>)
 
 - **Microsoft si oppone alle divulgazioni pubbliche zero-day in seguito alla rimozione dell'account del ricercatore GitHub**  
   Fonte: The Hacker News, 28 May 2026, 13:53:52 UTC  
@@ -230,25 +230,5 @@
   Fonte: The Hacker News, 25 May 2026, 05:59:13 UTC  
   [Leggi](<https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html>)
 
-- **Aggiornamento settimanale 505**  
-  Fonte: Troy Hunt, 24 May 2026, 01:34:54 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-505/>)
 
-- **npm aggiunge controlli di pubblicazione e installazione di pacchetti controllati da 2FA contro gli attacchi alla catena di fornitura**  
-  Fonte: The Hacker News, 23 May 2026, 16:35:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html>)
-
-- **L'attacco alla supply chain di Packagist infetta 8 pacchetti utilizzando malware Linux ospitato su GitHub**  
-  Fonte: The Hacker News, 23 May 2026, 16:07:51 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html>)
-
-- **Claude Mythos AI individua 10.000 difetti di elevata gravità in software ampiamente utilizzati**  
-  Fonte: The Hacker News, 23 May 2026, 11:55:35 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html>)
-
-- **Pacchetti PHP Laravel-Lang compromessi per fornire un ladro di credenziali multipiattaforma**  
-  Fonte: The Hacker News, 23 May 2026, 09:51:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-30 08:17:02 UTC -->
+<!-- Ultimo aggiornamento: 2026-05-31 08:34:01 UTC -->
