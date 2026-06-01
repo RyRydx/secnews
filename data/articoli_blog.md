@@ -2,6 +2,34 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft risolve i problemi di installazione dell'aggiornamento di sicurezza di Windows KB5089549**  
+  Fonte: BleepingComputer, 01 Jun 2026, 10:59:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/>)
+
+- **Token di autenticazione del codice OpenAI rubati nell'attacco alla catena di fornitura codexui-android npm**  
+  Fonte: The Hacker News, 01 Jun 2026, 09:31:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html>)
+
+- **Difetto critico di WP Maps Pro sfruttato attivamente per creare account amministratore**  
+  Fonte: The Hacker News, 01 Jun 2026, 08:45:29 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html>)
+
+- **Dopo 1.000 violazioni dei dati, il ritardo nella divulgazione è peggiore che mai**  
+  Fonte: Troy Hunt, 01 Jun 2026, 08:22:52 UTC  
+  [Leggi](<https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/>)
+
+- **Aggiornamento settimanale 506**  
+  Fonte: Troy Hunt, 01 Jun 2026, 03:32:33 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-506/>)
+
+- **Bug di WP Maps Pro sfruttato per creare account amministratore su siti WordPress**  
+  Fonte: BleepingComputer, 31 May 2026, 14:06:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/>)
+
+- **Le autorità olandesi smantellano botnet collegate a 17 milioni di dispositivi infetti**  
+  Fonte: The Hacker News, 31 May 2026, 12:22:12 UTC  
+  [Leggi](<https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html>)
+
 - **Difetto di bypass dell'autenticazione VPN di Palo Alto GlobalProtect ora sfruttato negli attacchi**  
   Fonte: BleepingComputer, 30 May 2026, 18:02:51 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/>)
@@ -94,14 +122,6 @@
   Fonte: BleepingComputer, 28 May 2026, 21:10:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/>)
 
-- **L'FBI mette in guardia contro i falsi siti web della FIFA che gestiscono schemi di frode alla Coppa del Mondo**  
-  Fonte: BleepingComputer, 28 May 2026, 19:08:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/>)
-
-- **Gli hacker sfruttano la falla di FortiClient EMS per diffondere malware infostealer**  
-  Fonte: BleepingComputer, 28 May 2026, 17:25:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/>)
-
 - **La vulnerabilità critica RCE di Gogs consente a qualsiasi utente autenticato di eseguire codice arbitrario**  
   Fonte: The Hacker News, 28 May 2026, 17:24:44 UTC  
   [Leggi](<https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html>)
@@ -122,7 +142,7 @@
   Fonte: The Hacker News, 28 May 2026, 13:33:16 UTC  
   [Leggi](<https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html>)
 
-- **Nuovo report sull’utilizzo dell’intelligenza artificiale: il rischio dell’intelligenza artificiale aziendale è fortemente concentrato in un piccolo gruppo di “utenti esperti” dell’intelligenza artificiale**  
+- **Nuovo report sull’utilizzo dell’intelligenza artificiale: il rischio aziendale legato all’intelligenza artificiale è fortemente concentrato in un piccolo gruppo di “utenti esperti” dell’intelligenza artificiale**  
   Fonte: The Hacker News, 28 May 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html>)
 
@@ -222,13 +242,5 @@
   Fonte: The Hacker News, 25 May 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html>)
 
-- **Lazarus utilizza il RAT di sola memoria RemotePE contro aziende finanziarie e crittografiche**  
-  Fonte: The Hacker News, 25 May 2026, 09:32:54 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html>)
 
-- **L'attacco alla catena di fornitura TrapDoor diffonde malware per il furto di credenziali tramite npm, PyPI e CratesIO**  
-  Fonte: The Hacker News, 25 May 2026, 05:59:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-05-31 08:34:01 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-01 11:10:11 UTC -->
