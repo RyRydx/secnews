@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **SideCopy collegato al Pakistan prende di mira il Ministero delle Finanze dell'Afghanistan con Xeno RAT**  
+  Fonte: The Hacker News, 02 Jun 2026, 09:05:40 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html>)
+
+- **Dashlane rivela un attacco di forza bruta e sono stati scaricati depositi crittografati di meno di 20 utenti**  
+  Fonte: The Hacker News, 02 Jun 2026, 03:55:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html>)
+
+- **Gli hacker prendono il controllo di migliaia di siti per attacchi ClickFix e FakeUpdate**  
+  Fonte: BleepingComputer, 01 Jun 2026, 22:14:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/>)
+
+- **Pacchetti Red Hat npm compromessi per rubare le credenziali dello sviluppatore**  
+  Fonte: BleepingComputer, 01 Jun 2026, 21:38:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/>)
+
+- **La Spagna arresta un doxer che diffonde dati sensibili di dipendenti governativi**  
+  Fonte: BleepingComputer, 01 Jun 2026, 21:28:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/>)
+
+- **Utenti del gestore password Dashlane bloccati da attacchi di forza bruta**  
+  Fonte: BleepingComputer, 01 Jun 2026, 18:17:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/>)
+
+- **L'attacco alla catena di fornitura Miasma compromette i pacchetti npm di Red Hat con un worm che ruba credenziali**  
+  Fonte: The Hacker News, 01 Jun 2026, 17:40:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html>)
+
+- **Gli hacker hanno utilizzato il bot di supporto AI di Meta per sequestrare gli account Instagram**  
+  Fonte: Krebs on Security, 01 Jun 2026, 17:32:50 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/>)
+
+- **La campagna malware di WordPress nasconde i payload nei profili Steam**  
+  Fonte: BleepingComputer, 01 Jun 2026, 17:04:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/>)
+
+- **La divulgazione delle vulnerabilità nell’era dell’intelligenza artificiale**  
+  Fonte: Schneier on Security, 01 Jun 2026, 16:49:39 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html>)
+
+- **Microsoft indaga sui problemi di accesso ai file delle app di Office e di Teams**  
+  Fonte: BleepingComputer, 01 Jun 2026, 14:36:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/>)
+
+- **Corsa contro il tempo: perché sono importanti gli avvisi di vulnerabilità più rapidi**  
+  Fonte: BleepingComputer, 01 Jun 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/>)
+
+- **⚡ Riepilogo settimanale: nuovo difetto di Linux, exploit PAN-OS, attacchi basati sull'intelligenza artificiale, phishing OAuth e altro ancora**  
+  Fonte: The Hacker News, 01 Jun 2026, 13:59:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html>)
+
+- **Difetto critico di Windows Netlogon RCE ora sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 01 Jun 2026, 12:30:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/>)
+
+- **Webinar di domani: Dall'allarme alla risoluzione nella risposta agli incidenti di rete**  
+  Fonte: BleepingComputer, 01 Jun 2026, 12:01:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/>)
+
+- **Gruppi allineati alla Cina intensificano gli attacchi: la Trama del Drago colpisce Repubblica Ceca e Taiwan**  
+  Fonte: The Hacker News, 01 Jun 2026, 11:54:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html>)
+
+- **Microsoft risolve le interruzioni che influiscono sulla configurazione dell'MFA e sul servizio MySignIn**  
+  Fonte: BleepingComputer, 01 Jun 2026, 11:40:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/>)
+
+- **La piattaforma per la crescita della sicurezza: perché gli MSP stanno andando oltre gli strumenti vCISO**  
+  Fonte: The Hacker News, 01 Jun 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html>)
+
 - **Microsoft risolve i problemi di installazione dell'aggiornamento di sicurezza di Windows KB5089549**  
   Fonte: BleepingComputer, 01 Jun 2026, 10:59:43 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/>)
@@ -50,10 +122,6 @@
   Fonte: BleepingComputer, 29 May 2026, 18:21:36 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/>)
 
-- **California AG fa causa a 23andMe per violazione del 2023 che espone dati sanitari**  
-  Fonte: BleepingComputer, 29 May 2026, 18:08:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/>)
-
 - **La vulnerabilità ChatGPhish trasforma i riepiloghi Web ChatGPT in una superficie di phishing**  
   Fonte: The Hacker News, 29 May 2026, 18:07:12 UTC  
   [Leggi](<https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html>)
@@ -62,25 +130,9 @@
   Fonte: The Hacker News, 29 May 2026, 14:39:56 UTC  
   [Leggi](<https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html>)
 
-- **Dagli attacchi da 5 dollari alle piattaforme basate su botnet: il mercato DDoS-as-a-Service**  
-  Fonte: BleepingComputer, 29 May 2026, 14:32:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/>)
-
-- **Il governo olandese interrompe la botnet malware con 17 milioni di dispositivi infetti**  
-  Fonte: BleepingComputer, 29 May 2026, 14:26:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/>)
-
-- **Google Chrome aggiunge la protezione dal furto dei cookie di sessione per tutti gli utenti**  
-  Fonte: BleepingComputer, 29 May 2026, 12:08:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/>)
-
 - **Il nuovo GREYVIBE legato alla Russia prende di mira l’Ucraina con attacchi informatici basati sull’intelligenza artificiale**  
   Fonte: The Hacker News, 29 May 2026, 11:31:59 UTC  
   [Leggi](<https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html>)
-
-- **Un uomo mandato in prigione per aver venduto i dati di 7 milioni di anziani americani**  
-  Fonte: BleepingComputer, 29 May 2026, 11:07:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/>)
 
 - **Effetti agghiaccianti**  
   Fonte: Schneier on Security, 29 May 2026, 11:02:22 UTC  
@@ -90,17 +142,9 @@
   Fonte: The Hacker News, 29 May 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html>)
 
-- **Gli Stati Uniti accusano l'ingegnere della sicurezza di Google di insider trading di Polymarket**  
-  Fonte: BleepingComputer, 29 May 2026, 10:11:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/>)
-
 - **Il dannoso Sicoob NuGet ruba le credenziali bancarie mentre i pacchetti npm prendono di mira i segreti del cloud**  
   Fonte: The Hacker News, 29 May 2026, 09:11:25 UTC  
   [Leggi](<https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html>)
-
-- **La violazione dei dati di Charter Communications colpisce 4,9 milioni di account**  
-  Fonte: BleepingComputer, 29 May 2026, 08:29:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/>)
 
 - **La polizia arresta un uomo dopo l'attacco alla squadra di calcio dell'Ajax**  
   Fonte: Graham Cluley, 29 May 2026, 08:04:39 UTC  
@@ -109,18 +153,6 @@
 - **Kimsuky distribuisce HTTPSpy, espande l'arsenale con HelloDoor e tunnel VS Code**  
   Fonte: The Hacker News, 29 May 2026, 05:57:41 UTC  
   [Leggi](<https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html>)
-
-- **Anthropic conferma che i modelli di classe Claude Mythos verranno lanciati al pubblico**  
-  Fonte: BleepingComputer, 29 May 2026, 00:21:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/>)
-
-- **Gli hacker di GreyVibe utilizzano ChatGPT, Gemini per alimentare gli attacchi informatici**  
-  Fonte: BleepingComputer, 28 May 2026, 22:24:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/>)
-
-- **Il servizio malware Android BTMOB genera payload di phishing personalizzati**  
-  Fonte: BleepingComputer, 28 May 2026, 21:10:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/>)
 
 - **La vulnerabilità critica RCE di Gogs consente a qualsiasi utente autenticato di eseguire codice arbitrario**  
   Fonte: The Hacker News, 28 May 2026, 17:24:44 UTC  
@@ -210,37 +242,5 @@
   Fonte: The Hacker News, 26 May 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html>)
 
-- **CERT-In consiglia l'applicazione di patch entro 12 ore per i difetti riscontrati in Internet durante gli attacchi assistiti dall'intelligenza artificiale**  
-  Fonte: The Hacker News, 26 May 2026, 09:13:02 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html>)
 
-- **Gli hacker iraniani utilizzano MiniFast e MiniJunk V2 tramite phishing e SEO Poisoning**  
-  Fonte: The Hacker News, 26 May 2026, 07:13:05 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html>)
-
-- **Sfruttato il difetto di KnowledgeDeliver LMS per implementare Godzilla e Cobalt Strike**  
-  Fonte: The Hacker News, 26 May 2026, 05:19:38 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html>)
-
-- **Accogliendo favorevolmente il governo del Bhutan per Have I Been Pwned**  
-  Fonte: Troy Hunt, 25 May 2026, 22:52:15 UTC  
-  [Leggi](<https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/>)
-
-- **⚡ Riepilogo settimanale: difetti di Linux, Defender 0-Days, router botnet e caos nella supply chain**  
-  Fonte: The Hacker News, 25 May 2026, 14:13:27 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html>)
-
-- **I Paesi Bassi sequestrano 800 server e ne arrestano 2 per aver favorito attacchi informatici**  
-  Fonte: Krebs on Security, 25 May 2026, 13:21:49 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/>)
-
-- **Ghost CMS CVE-2026-26980 sfruttato per dirottare oltre 700 siti per attacchi ClickFix**  
-  Fonte: The Hacker News, 25 May 2026, 12:02:46 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html>)
-
-- **L'Alert Firehose finalmente incontra la sua corrispondenza**  
-  Fonte: The Hacker News, 25 May 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-01 11:10:11 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-02 10:04:07 UTC -->
