@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **CISA aggiunge il difetto CVE-2026-45247 di Magento RCE sfruttato al catalogo KEV**  
+  Fonte: The Hacker News, 04 Jun 2026, 07:19:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html>)
+
+- **DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets**  
+  Fonte: The Hacker News, 04 Jun 2026, 06:06:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html>)
+
+- **Podcast Smashing Security n. 470: questo difetto di sicurezza dell'intelligenza artificiale potrebbe essere impossibile da risolvere**  
+  Fonte: Graham Cluley, 03 Jun 2026, 23:15:58 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-470/>)
+
+- **Gli hacker cinesi utilizzano il nuovo malware Atlas RAT negli attacchi informatici europei**  
+  Fonte: BleepingComputer, 03 Jun 2026, 21:45:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/>)
+
+- **Gli Stati Uniti sanzionano l'exchange di criptovalute Nobitex utilizzato dagli autori iraniani di ransomware**  
+  Fonte: BleepingComputer, 03 Jun 2026, 20:31:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/>)
+
+- **La CISA avverte di attacchi informatici contro i sistemi di monitoraggio dei serbatoi di carburante**  
+  Fonte: BleepingComputer, 03 Jun 2026, 20:21:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/>)
+
+- **WhatsApp, le notifiche Slack potrebbero dirottare Google Gemini su Android**  
+  Fonte: The Hacker News, 03 Jun 2026, 19:11:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html>)
+
+- **Il nuovo attacco DoS "HTTP/2 Bomb" manda in crash i server web in meno di un minuto**  
+  Fonte: BleepingComputer, 03 Jun 2026, 19:08:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/>)
+
+- **Google DoubleClick abusato nella nuova campagna Malspam per fornire DesckVB RAT**  
+  Fonte: The Hacker News, 03 Jun 2026, 16:29:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html>)
+
+- **CISA avverte di attacchi attivi che sfruttano bug Android e Linux**  
+  Fonte: BleepingComputer, 03 Jun 2026, 15:36:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/>)
+
+- **Oltre lo Zero-Day: guarda la tua rete come un utente malintenzionato |Webinar con HD Moore**  
+  Fonte: The Hacker News, 03 Jun 2026, 14:56:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html>)
+
+- **Le app Android Microsoft 365 consentono a qualsiasi app di rubare token di account tramite il flag di debug rimanente**  
+  Fonte: The Hacker News, 03 Jun 2026, 14:56:35 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html>)
+
+- **Come si presentano 345 giorni di esposizione non testata in una banca**  
+  Fonte: BleepingComputer, 03 Jun 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/>)
+
+- **Lo strumento AI autonomo rileva un difetto RCE vecchio di 2 anni in Redis (CVE-2026-23479)**  
+  Fonte: The Hacker News, 03 Jun 2026, 13:47:09 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html>)
+
+- **One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens**  
+  Fonte: The Hacker News, 03 Jun 2026, 12:58:22 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html>)
+
+- **Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)**  
+  Fonte: The Hacker News, 03 Jun 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html>)
+
+- **Acer sta lavorando per applicare una patch per la massima gravità zero-day nei router Wave 7**  
+  Fonte: BleepingComputer, 03 Jun 2026, 11:35:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/>)
+
+- **AI Used to Decrypt Medieval Ciphers**  
+  Fonte: Schneier on Security, 03 Jun 2026, 11:04:40 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html>)
+
 - **La vulnerabilità senza patch dell'URI di ricerca di Windows consente agli aggressori di rubare gli hash NTLMv2**  
   Fonte: The Hacker News, 03 Jun 2026, 10:18:52 UTC  
   [Leggi](<https://thehackernews.com/2026/06/unpatched-windows-search-uri.html>)
@@ -34,7 +106,7 @@
   Fonte: BleepingComputer, 02 Jun 2026, 22:52:40 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/>)
 
-- **OpenAI aggiorna GPT-5.5, poiché prevede di ritirare i modelli ChatGPT legacy**  
+- **OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models**  
   Fonte: BleepingComputer, 02 Jun 2026, 22:44:50 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/>)
 
@@ -50,7 +122,7 @@
   Fonte: BleepingComputer, 02 Jun 2026, 20:01:20 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/>)
 
-- **L'aggiornamento Android di Google di giugno 2026 corregge 124 difetti, uno sfruttato attivamente**  
+- **Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited**  
   Fonte: The Hacker News, 02 Jun 2026, 18:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html>)
 
@@ -62,31 +134,11 @@
   Fonte: The Hacker News, 02 Jun 2026, 18:14:42 UTC  
   [Leggi](<https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html>)
 
-- **L'interruzione di Microsoft Exchange Online causa ritardi ed errori di posta elettronica**  
-  Fonte: BleepingComputer, 02 Jun 2026, 17:02:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/>)
-
-- **Gli utenti di Instagram sono stati bloccati dopo che Meta AI ha abusato di rubare account**  
-  Fonte: BleepingComputer, 02 Jun 2026, 15:47:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/>)
-
-- **Perché il browser è ora in prima linea per la sicurezza dell’intelligenza artificiale**  
-  Fonte: BleepingComputer, 02 Jun 2026, 14:30:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/>)
-
-- **CISA segnala la falla Oracle di due anni fa come sfruttata attivamente negli attacchi**  
-  Fonte: BleepingComputer, 02 Jun 2026, 12:40:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/>)
-
 - **Lo sfruttamento basato sull’intelligenza artificiale sta distruggendo la gestione delle vulnerabilità.Ecco come gestirlo.**  
   Fonte: The Hacker News, 02 Jun 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html>)
 
-- **Google risolve uno zero-day Android sfruttato attivamente, 124 difetti**  
-  Fonte: BleepingComputer, 02 Jun 2026, 11:10:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/>)
-
-- **L'intersezione tra crittografia e intelligenza artificiale**  
+- **The Intersection of Encryption and AI**  
   Fonte: Schneier on Security, 02 Jun 2026, 11:06:25 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html>)
 
@@ -106,14 +158,6 @@
   Fonte: The Hacker News, 02 Jun 2026, 03:55:25 UTC  
   [Leggi](<https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html>)
 
-- **Gli hacker prendono il controllo di migliaia di siti per attacchi ClickFix e FakeUpdate**  
-  Fonte: BleepingComputer, 01 Jun 2026, 22:14:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/>)
-
-- **Pacchetti Red Hat npm compromessi per rubare le credenziali dello sviluppatore**  
-  Fonte: BleepingComputer, 01 Jun 2026, 21:38:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/>)
-
 - **L'attacco alla catena di fornitura Miasma compromette i pacchetti npm di Red Hat con un worm che ruba credenziali**  
   Fonte: The Hacker News, 01 Jun 2026, 17:40:28 UTC  
   [Leggi](<https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html>)
@@ -130,11 +174,11 @@
   Fonte: The Hacker News, 01 Jun 2026, 13:59:54 UTC  
   [Leggi](<https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html>)
 
-- **Gruppi allineati alla Cina intensificano gli attacchi: la Trama del Drago colpisce Repubblica Ceca e Taiwan**  
+- **China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan**  
   Fonte: The Hacker News, 01 Jun 2026, 11:54:24 UTC  
   [Leggi](<https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html>)
 
-- **La piattaforma per la crescita della sicurezza: perché gli MSP stanno andando oltre gli strumenti vCISO**  
+- **The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools**  
   Fonte: The Hacker News, 01 Jun 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html>)
 
@@ -154,11 +198,11 @@
   Fonte: Troy Hunt, 01 Jun 2026, 03:32:33 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-506/>)
 
-- **Le autorità olandesi smantellano botnet collegate a 17 milioni di dispositivi infetti**  
+- **Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices**  
   Fonte: The Hacker News, 31 May 2026, 12:22:12 UTC  
   [Leggi](<https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html>)
 
-- **PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) in caso di sfruttamento attivo**  
+- **PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation**  
   Fonte: The Hacker News, 30 May 2026, 06:41:26 UTC  
   [Leggi](<https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html>)
 
@@ -174,7 +218,7 @@
   Fonte: The Hacker News, 29 May 2026, 14:39:56 UTC  
   [Leggi](<https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html>)
 
-- **Il nuovo GREYVIBE legato alla Russia prende di mira l’Ucraina con attacchi informatici basati sull’intelligenza artificiale**  
+- **New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks**  
   Fonte: The Hacker News, 29 May 2026, 11:31:59 UTC  
   [Leggi](<https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html>)
 
@@ -222,37 +266,5 @@
   Fonte: The Hacker News, 28 May 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html>)
 
-- **JINX-0164 prende di mira le aziende di criptovaluta con esche di reclutamento false e malware macOS**  
-  Fonte: The Hacker News, 28 May 2026, 07:54:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html>)
 
-- **Podcast Smashing Security n. 469: Ciò che il tuo anello Oura non ti dirà**  
-  Fonte: Graham Cluley, 27 May 2026, 23:05:09 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-469/>)
-
-- **Le campagne Grandoreiro Malware e BTMOB RAT sono rivolte agli utenti Windows e Android**  
-  Fonte: The Hacker News, 27 May 2026, 16:10:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html>)
-
-- **Il pacchetto npm dannoso ha rubato file dalla directory utente di Claude AI tramite GitHub**  
-  Fonte: The Hacker News, 27 May 2026, 15:44:29 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html>)
-
-- **Rapporto sulla criminalità su Internet del 2025 dell’FBI**  
-  Fonte: Schneier on Security, 27 May 2026, 14:02:44 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html>)
-
-- **5 passaggi per gestire gli strumenti di Shadow AI senza rallentare i dipendenti**  
-  Fonte: The Hacker News, 27 May 2026, 13:28:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html>)
-
-- **La rimozione del malware GlassWorm interrompe l'infrastruttura di attacco della catena di fornitura degli sviluppatori**  
-  Fonte: The Hacker News, 27 May 2026, 11:48:37 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html>)
-
-- **3 passaggi del SOC che eliminano tempestivamente i rischi di incidenti**  
-  Fonte: The Hacker News, 27 May 2026, 11:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-03 10:42:47 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-04 09:44:09 UTC -->
