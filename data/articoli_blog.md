@@ -2,11 +2,103 @@
 
 ## Ultimi 7 giorni
 
-- **CISA aggiunge il difetto CVE-2026-45247 di Magento RCE sfruttato al catalogo KEV**  
-  Fonte: The Hacker News, 04 Jun 2026, 07:19:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html>)
+- **Gli hacker sfruttano il difetto critico del plugin Everest Forms Pro WordPress per prendere il controllo dei siti**  
+  Fonte: The Hacker News, 05 Jun 2026, 08:38:59 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html>)
 
-- **DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets**  
+- **Le truffe legate alla Coppa del Mondo FIFA 2026 sono già attive: siti falsi, malware bancario e accessi rubati**  
+  Fonte: The Hacker News, 05 Jun 2026, 07:01:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html>)
+
+- **Cisco avverte di SD-WAN zero-day senza patch sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 05 Jun 2026, 06:24:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/>)
+
+- **PCPJack dirotta 230 server AWS, Google Cloud e Azure per la rete di inoltro SMTP nascosta**  
+  Fonte: The Hacker News, 05 Jun 2026, 05:34:19 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html>)
+
+- **Brave Software rilascia Origin per un'esperienza di navigazione a pagamento e senza eccessi**  
+  Fonte: BleepingComputer, 04 Jun 2026, 21:37:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/>)
+
+- **Hola Browser per Windows compromesso per fornire cryptominer**  
+  Fonte: BleepingComputer, 04 Jun 2026, 21:27:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/>)
+
+- **La campagna di furto di carte di credito abusa di Stripe per ospitare informazioni di pagamento rubate**  
+  Fonte: BleepingComputer, 04 Jun 2026, 20:47:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/>)
+
+- **Il chatbot AI di Meta è responsabile del furto degli account Instagram in pochi secondi**  
+  Fonte: Graham Cluley, 04 Jun 2026, 19:53:59 UTC  
+  [Leggi](<https://www.fortra.com/blog/metas-own-ai-chatbot-blame-instagram-accounts-being-stolen-seconds>)
+
+- **La violazione dei dati di DentaQuest ha esposto informazioni su 2,6 milioni di account**  
+  Fonte: BleepingComputer, 04 Jun 2026, 18:36:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/>)
+
+- **Cisco applica la patch CVE-2026-20230 in Unified CM mentre il codice di exploit diventa pubblico**  
+  Fonte: The Hacker News, 04 Jun 2026, 16:55:51 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html>)
+
+- **L’agenzia alimentare delle Nazioni Unite denuncia violazioni che colpiscono 600.000 famiglie di Gaza**  
+  Fonte: BleepingComputer, 04 Jun 2026, 16:38:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/>)
+
+- **Il nuovo malware IronWorm colpisce 36 pacchetti durante un attacco alla catena di fornitura npm**  
+  Fonte: BleepingComputer, 04 Jun 2026, 15:25:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/>)
+
+- **Claude Code GitHub Azione Difetto Lascia che un problema dannoso dirotti i repository**  
+  Fonte: The Hacker News, 04 Jun 2026, 15:15:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html>)
+
+- **L'intelligenza artificiale sta trasformando la difesa, ma solo un'infrastruttura IT sicura potrà massimizzarla**  
+  Fonte: The Hacker News, 04 Jun 2026, 15:10:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html>)
+
+- **Gli hacker cercano di colmare le lacune del tuo programma di vulnerabilità: ecco il loro manuale**  
+  Fonte: BleepingComputer, 04 Jun 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/>)
+
+- **Bollettino del ThreatsDay: agenti AI andati male, strumenti C2 imprecisi, trucchi ClickFix, backdoor JS e oltre 20 nuove storie**  
+  Fonte: The Hacker News, 04 Jun 2026, 14:00:49 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html>)
+
+- **Microsoft attribuisce la colpa degli aggiornamenti imprevisti dei driver di Windows al problema della memorizzazione nella cache**  
+  Fonte: BleepingComputer, 04 Jun 2026, 13:41:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/>)
+
+- **La polizia smantella il mercato delle carte d'identità false utilizzato dai trafficanti di migranti**  
+  Fonte: BleepingComputer, 04 Jun 2026, 12:29:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/>)
+
+- **TA4922 collegato alla Cina espande gli attacchi di phishing a Regno Unito, Germania, Italia e Sud Africa**  
+  Fonte: The Hacker News, 04 Jun 2026, 12:22:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html>)
+
+- **La backdoor FlutterShell si diffonde su macOS tramite annunci dannosi di Google e YouTube**  
+  Fonte: The Hacker News, 04 Jun 2026, 11:19:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html>)
+
+- **Cisco avverte di un difetto critico di Unified CM con il codice di exploit PoC**  
+  Fonte: BleepingComputer, 04 Jun 2026, 11:09:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/>)
+
+- **Hackerare il chatbot AI di Meta**  
+  Fonte: Schneier on Security, 04 Jun 2026, 11:04:09 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html>)
+
+- **Siti falsi che imitano strumenti open source occupano una posizione elevata su Google per diffondere malware tramite TDS**  
+  Fonte: The Hacker News, 04 Jun 2026, 09:51:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html>)
+
+- **Gli hacker hanno spiato per cinque mesi la casella di posta Outlook di un dirigente della Borsa**  
+  Fonte: The Hacker News, 04 Jun 2026, 09:33:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html>)
+
+- **Il Dipartimento di Giustizia interrompe le reti di frode crittografica nel sud-est asiatico e congela beni per 3,8 milioni di dollari**  
   Fonte: The Hacker News, 04 Jun 2026, 06:06:25 UTC  
   [Leggi](<https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html>)
 
@@ -34,13 +126,21 @@
   Fonte: BleepingComputer, 03 Jun 2026, 19:08:19 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/>)
 
+- **GitHub Dev Attack con un clic consente agli aggressori di rubare token GitHub OAuth completi**  
+  Fonte: The Hacker News, 03 Jun 2026, 17:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html>)
+
+- **Lo strumento AI autonomo rileva un difetto RCE vecchio di 2 anni in Redis (CVE-2026-23479)**  
+  Fonte: The Hacker News, 03 Jun 2026, 16:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html>)
+
+- **CISA aggiunge il difetto CVE-2026-45247 di Magento RCE sfruttato al catalogo KEV**  
+  Fonte: The Hacker News, 03 Jun 2026, 16:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html>)
+
 - **Google DoubleClick abusato nella nuova campagna Malspam per fornire DesckVB RAT**  
   Fonte: The Hacker News, 03 Jun 2026, 16:29:16 UTC  
   [Leggi](<https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html>)
-
-- **CISA avverte di attacchi attivi che sfruttano bug Android e Linux**  
-  Fonte: BleepingComputer, 03 Jun 2026, 15:36:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/>)
 
 - **Oltre lo Zero-Day: guarda la tua rete come un utente malintenzionato |Webinar con HD Moore**  
   Fonte: The Hacker News, 03 Jun 2026, 14:56:46 UTC  
@@ -50,27 +150,11 @@
   Fonte: The Hacker News, 03 Jun 2026, 14:56:35 UTC  
   [Leggi](<https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html>)
 
-- **Come si presentano 345 giorni di esposizione non testata in una banca**  
-  Fonte: BleepingComputer, 03 Jun 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/>)
-
-- **Lo strumento AI autonomo rileva un difetto RCE vecchio di 2 anni in Redis (CVE-2026-23479)**  
-  Fonte: The Hacker News, 03 Jun 2026, 13:47:09 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html>)
-
-- **One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens**  
-  Fonte: The Hacker News, 03 Jun 2026, 12:58:22 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html>)
-
-- **Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)**  
+- **Riduzione della superficie di attacco IAM attraverso le piattaforme di visibilità e intelligence delle identità (IVIP)**  
   Fonte: The Hacker News, 03 Jun 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html>)
 
-- **Acer sta lavorando per applicare una patch per la massima gravità zero-day nei router Wave 7**  
-  Fonte: BleepingComputer, 03 Jun 2026, 11:35:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/>)
-
-- **AI Used to Decrypt Medieval Ciphers**  
+- **AI utilizzata per decrittografare i cifrari medievali**  
   Fonte: Schneier on Security, 03 Jun 2026, 11:04:40 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html>)
 
@@ -78,21 +162,9 @@
   Fonte: The Hacker News, 03 Jun 2026, 10:18:52 UTC  
   [Leggi](<https://thehackernews.com/2026/06/unpatched-windows-search-uri.html>)
 
-- **La polizia smantella 9 gruppi criminali impegnati nella repressione dello streaming illegale**  
-  Fonte: BleepingComputer, 03 Jun 2026, 10:12:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/>)
-
-- **Google aggiunge la protezione Android contro le chiamate truffe deepfake dell'intelligenza artificiale**  
-  Fonte: BleepingComputer, 03 Jun 2026, 09:02:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/>)
-
 - **La nuova vulnerabilità HTTP/2 Bomb consente DoS remoto su NGINX, Apache, IIS, Envoy e Cloudflare**  
   Fonte: The Hacker News, 03 Jun 2026, 08:33:35 UTC  
   [Leggi](<https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html>)
-
-- **VS Code zero-day consente agli hacker di rubare i token GitHub con un clic**  
-  Fonte: BleepingComputer, 03 Jun 2026, 06:50:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/>)
 
 - **Weedhack attacca gli utenti di Minecraft, CountLoader raggiunge 86K, i minatori si diffondono tramite contenuti piratati**  
   Fonte: The Hacker News, 03 Jun 2026, 06:16:54 UTC  
@@ -102,27 +174,7 @@
   Fonte: Troy Hunt, 03 Jun 2026, 03:40:17 UTC  
   [Leggi](<https://www.troyhunt.com/welcoming-the-philippine-government-to-have-i-been-pwned/>)
 
-- **Il progetto Coreutils di Microsoft porta i comandi Linux su Windows**  
-  Fonte: BleepingComputer, 02 Jun 2026, 22:52:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/>)
-
-- **OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models**  
-  Fonte: BleepingComputer, 02 Jun 2026, 22:44:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/>)
-
-- **Difetto critico di Kirki sfruttato per dirottare gli account amministratore di WordPress**  
-  Fonte: BleepingComputer, 02 Jun 2026, 22:12:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/>)
-
-- **Oltre 116.000 sistemi Minecraft infettati dalla campagna malware WeedHack**  
-  Fonte: BleepingComputer, 02 Jun 2026, 21:54:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/>)
-
-- **Il toolkit ransomware creato dall'intelligenza artificiale automatizza l'evasione EDR e il rilevamento AD**  
-  Fonte: BleepingComputer, 02 Jun 2026, 20:01:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/>)
-
-- **Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited**  
+- **L'aggiornamento Android di Google di giugno 2026 corregge 124 difetti, uno sfruttato attivamente**  
   Fonte: The Hacker News, 02 Jun 2026, 18:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html>)
 
@@ -138,7 +190,7 @@
   Fonte: The Hacker News, 02 Jun 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html>)
 
-- **The Intersection of Encryption and AI**  
+- **L'intersezione tra crittografia e intelligenza artificiale**  
   Fonte: Schneier on Security, 02 Jun 2026, 11:06:25 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html>)
 
@@ -174,11 +226,11 @@
   Fonte: The Hacker News, 01 Jun 2026, 13:59:54 UTC  
   [Leggi](<https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html>)
 
-- **China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan**  
+- **Gruppi allineati alla Cina intensificano gli attacchi: la Trama del Drago colpisce Repubblica Ceca e Taiwan**  
   Fonte: The Hacker News, 01 Jun 2026, 11:54:24 UTC  
   [Leggi](<https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html>)
 
-- **The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools**  
+- **La piattaforma per la crescita della sicurezza: perché gli MSP stanno andando oltre gli strumenti vCISO**  
   Fonte: The Hacker News, 01 Jun 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html>)
 
@@ -198,11 +250,11 @@
   Fonte: Troy Hunt, 01 Jun 2026, 03:32:33 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-506/>)
 
-- **Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices**  
+- **Le autorità olandesi smantellano botnet collegate a 17 milioni di dispositivi infetti**  
   Fonte: The Hacker News, 31 May 2026, 12:22:12 UTC  
   [Leggi](<https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html>)
 
-- **PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation**  
+- **PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) in caso di sfruttamento attivo**  
   Fonte: The Hacker News, 30 May 2026, 06:41:26 UTC  
   [Leggi](<https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html>)
 
@@ -218,7 +270,7 @@
   Fonte: The Hacker News, 29 May 2026, 14:39:56 UTC  
   [Leggi](<https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html>)
 
-- **New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks**  
+- **Il nuovo GREYVIBE legato alla Russia prende di mira l’Ucraina con attacchi informatici basati sull’intelligenza artificiale**  
   Fonte: The Hacker News, 29 May 2026, 11:31:59 UTC  
   [Leggi](<https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html>)
 
@@ -230,41 +282,5 @@
   Fonte: The Hacker News, 29 May 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html>)
 
-- **Il dannoso Sicoob NuGet ruba le credenziali bancarie mentre i pacchetti npm prendono di mira i segreti del cloud**  
-  Fonte: The Hacker News, 29 May 2026, 09:11:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html>)
 
-- **La polizia arresta un uomo dopo l'attacco alla squadra di calcio dell'Ajax**  
-  Fonte: Graham Cluley, 29 May 2026, 08:04:39 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/police-arrest-hack-ajax-football>)
-
-- **Kimsuky distribuisce HTTPSpy, espande l'arsenale con HelloDoor e tunnel VS Code**  
-  Fonte: The Hacker News, 29 May 2026, 05:57:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html>)
-
-- **La vulnerabilità critica RCE di Gogs consente a qualsiasi utente autenticato di eseguire codice arbitrario**  
-  Fonte: The Hacker News, 28 May 2026, 17:24:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html>)
-
-- **Gli autori delle minacce sfruttano il difetto critico di FortiClient EMS per implementare il furto di credenziali**  
-  Fonte: The Hacker News, 28 May 2026, 15:26:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/threat-actors-exploit-critical.html>)
-
-- **Microsoft si oppone alle divulgazioni pubbliche zero-day in seguito alla rimozione dell'account del ricercatore GitHub**  
-  Fonte: The Hacker News, 28 May 2026, 13:53:52 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html>)
-
-- **MyPillow è presente sul sito di leak della banda di ransomware, ma nega che sia stato violato**  
-  Fonte: Graham Cluley, 28 May 2026, 13:39:39 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/mypillow-ransomware-leak-site-denies-breach>)
-
-- **Bollettino ThreatsDay: plug-in di sicurezza Claude, Azure Priv-Esc, bypass MFA Kali365, truffe FIFA +15 altro**  
-  Fonte: The Hacker News, 28 May 2026, 13:33:16 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html>)
-
-- **Nuovo report sull’utilizzo dell’intelligenza artificiale: il rischio aziendale legato all’intelligenza artificiale è fortemente concentrato in un piccolo gruppo di “utenti esperti” dell’intelligenza artificiale**  
-  Fonte: The Hacker News, 28 May 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-04 09:44:09 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-05 09:31:16 UTC -->
