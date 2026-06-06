@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **L'agente AI scopre 21 Zero-Day in FFmpeg;Le patch di Chrome registrano 429 bug**  
+  Fonte: The Hacker News, 06 Jun 2026, 07:28:30 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html>)
+
+- **Il worm Miasma colpisce 73 repository Microsoft GitHub in un grave attacco alla catena di fornitura**  
+  Fonte: The Hacker News, 06 Jun 2026, 06:58:04 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html>)
+
+- **Difetto CVE-2026-20245 di Cisco Catalyst SD-WAN Manager sfruttato attivamente – Nessuna patch disponibile**  
+  Fonte: The Hacker News, 06 Jun 2026, 04:19:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html>)
+
+- **Sui siti Web Toshiba e Muji vengono visualizzate richieste di accesso sospette a Polyfill**  
+  Fonte: BleepingComputer, 05 Jun 2026, 21:54:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/>)
+
+- **CISA: gli hacker ora sfruttano la falla SolarWinds Serv-U per mandare in crash i server**  
+  Fonte: BleepingComputer, 05 Jun 2026, 19:15:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/>)
+
+- **L'APT cinese distribuisce nuovo malware per mantenere l'accesso alle reti compromesse**  
+  Fonte: BleepingComputer, 05 Jun 2026, 18:09:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/>)
+
+- **IronWorm e la nuova variante del Miasma Worm colpiscono npm negli attacchi alla catena di fornitura**  
+  Fonte: The Hacker News, 05 Jun 2026, 18:05:30 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html>)
+
+- **Il venditore del Dark web Nemesis Market riceve 26 anni per aver venduto droga**  
+  Fonte: BleepingComputer, 05 Jun 2026, 17:50:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/>)
+
+- **Hai ricevuto un messaggio LinkedIn da un reclutatore?Potrebbe trattarsi dell'intelligence cinese, avvertono l'FBI e l'MI5**  
+  Fonte: Graham Cluley, 05 Jun 2026, 17:13:31 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/linkedin-recruiter-chinese-intelligence-fbi-mi5>)
+
+- **Lo spyware Android Asin prende di mira gli utenti arabi tramite le app Fake News, PDF e War Map**  
+  Fonte: The Hacker News, 05 Jun 2026, 14:53:40 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html>)
+
+- **Oltre 900 sistemi di misurazione dei serbatoi delle stazioni di servizio negli Stati Uniti esposti ad attacchi**  
+  Fonte: BleepingComputer, 05 Jun 2026, 14:50:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/>)
+
+- **Cosa conferma il DBIR 2026: gli attacchi vivono nel browser**  
+  Fonte: BleepingComputer, 05 Jun 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/>)
+
+- **Verme AI**  
+  Fonte: Schneier on Security, 05 Jun 2026, 13:21:23 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/ai-worm.html>)
+
+- **Il nuovo cluster di minacce OP-512 prende di mira i server Microsoft IIS con framework Web Shell personalizzato**  
+  Fonte: The Hacker News, 05 Jun 2026, 12:33:38 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html>)
+
+- **Solo il 10% dei SOC afferma di ottenere un valore eccellente dall’intelligenza artificiale.Ecco cosa deve offrire la seconda ondata**  
+  Fonte: The Hacker News, 05 Jun 2026, 11:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html>)
+
 - **Gli hacker sfruttano il difetto critico del plugin Everest Forms Pro WordPress per prendere il controllo dei siti**  
   Fonte: The Hacker News, 05 Jun 2026, 08:38:59 UTC  
   [Leggi](<https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html>)
@@ -70,10 +130,6 @@
   Fonte: BleepingComputer, 04 Jun 2026, 13:41:42 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/>)
 
-- **La polizia smantella il mercato delle carte d'identità false utilizzato dai trafficanti di migranti**  
-  Fonte: BleepingComputer, 04 Jun 2026, 12:29:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/>)
-
 - **TA4922 collegato alla Cina espande gli attacchi di phishing a Regno Unito, Germania, Italia e Sud Africa**  
   Fonte: The Hacker News, 04 Jun 2026, 12:22:25 UTC  
   [Leggi](<https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html>)
@@ -81,10 +137,6 @@
 - **La backdoor FlutterShell si diffonde su macOS tramite annunci dannosi di Google e YouTube**  
   Fonte: The Hacker News, 04 Jun 2026, 11:19:53 UTC  
   [Leggi](<https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html>)
-
-- **Cisco avverte di un difetto critico di Unified CM con il codice di exploit PoC**  
-  Fonte: BleepingComputer, 04 Jun 2026, 11:09:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/>)
 
 - **Hackerare il chatbot AI di Meta**  
   Fonte: Schneier on Security, 04 Jun 2026, 11:04:09 UTC  
@@ -106,25 +158,9 @@
   Fonte: Graham Cluley, 03 Jun 2026, 23:15:58 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-470/>)
 
-- **Gli hacker cinesi utilizzano il nuovo malware Atlas RAT negli attacchi informatici europei**  
-  Fonte: BleepingComputer, 03 Jun 2026, 21:45:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/>)
-
-- **Gli Stati Uniti sanzionano l'exchange di criptovalute Nobitex utilizzato dagli autori iraniani di ransomware**  
-  Fonte: BleepingComputer, 03 Jun 2026, 20:31:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/>)
-
-- **La CISA avverte di attacchi informatici contro i sistemi di monitoraggio dei serbatoi di carburante**  
-  Fonte: BleepingComputer, 03 Jun 2026, 20:21:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/>)
-
 - **WhatsApp, le notifiche Slack potrebbero dirottare Google Gemini su Android**  
   Fonte: The Hacker News, 03 Jun 2026, 19:11:15 UTC  
   [Leggi](<https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html>)
-
-- **Il nuovo attacco DoS "HTTP/2 Bomb" manda in crash i server web in meno di un minuto**  
-  Fonte: BleepingComputer, 03 Jun 2026, 19:08:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/>)
 
 - **GitHub Dev Attack con un clic consente agli aggressori di rubare token GitHub OAuth completi**  
   Fonte: The Hacker News, 03 Jun 2026, 17:58:00 UTC  
@@ -254,33 +290,5 @@
   Fonte: The Hacker News, 31 May 2026, 12:22:12 UTC  
   [Leggi](<https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html>)
 
-- **PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) in caso di sfruttamento attivo**  
-  Fonte: The Hacker News, 30 May 2026, 06:41:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html>)
 
-- **Blog di calamari del venerdì: un altro calamaro**  
-  Fonte: Schneier on Security, 29 May 2026, 21:05:33 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-another-squid.html>)
-
-- **La vulnerabilità ChatGPhish trasforma i riepiloghi Web ChatGPT in una superficie di phishing**  
-  Fonte: The Hacker News, 29 May 2026, 18:07:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html>)
-
-- **Gli aggressori utilizzano l'agente LLM per il post-sfruttamento dopo l'exploit Marimo CVE-2026-39987**  
-  Fonte: The Hacker News, 29 May 2026, 14:39:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html>)
-
-- **Il nuovo GREYVIBE legato alla Russia prende di mira l’Ucraina con attacchi informatici basati sull’intelligenza artificiale**  
-  Fonte: The Hacker News, 29 May 2026, 11:31:59 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html>)
-
-- **Effetti agghiaccianti**  
-  Fonte: Schneier on Security, 29 May 2026, 11:02:22 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/05/chilling-effects.html>)
-
-- **Cosa rivelano 2.000 app codificate Vibe sui limiti della maggior parte degli stack di sicurezza**  
-  Fonte: The Hacker News, 29 May 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-05 09:31:16 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-06 08:24:21 UTC -->
