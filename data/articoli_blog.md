@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Difetto critico di Everest Forms Pro sfruttato per prendere il controllo dei siti WordPress**  
+  Fonte: BleepingComputer, 06 Jun 2026, 14:09:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/>)
+
+- **La nuova modalità di blocco ChatGPT limita gli strumenti che potrebbero consentire l'esfiltrazione dei dati**  
+  Fonte: The Hacker News, 06 Jun 2026, 13:36:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html>)
+
+- **Le app gratuite stanno silenziosamente trasformando le Smart TV in proxy web-scraping per l'intelligenza artificiale**  
+  Fonte: The Hacker News, 06 Jun 2026, 08:29:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html>)
+
+- **CISA aggiunge il difetto DoS Serv-U di SolarWinds attivamente sfruttato al catalogo KEV**  
+  Fonte: The Hacker News, 06 Jun 2026, 08:14:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html>)
+
 - **L'agente AI scopre 21 Zero-Day in FFmpeg;Le patch di Chrome registrano 429 bug**  
   Fonte: The Hacker News, 06 Jun 2026, 07:28:30 UTC  
   [Leggi](<https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html>)
@@ -126,10 +142,6 @@
   Fonte: The Hacker News, 04 Jun 2026, 14:00:49 UTC  
   [Leggi](<https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html>)
 
-- **Microsoft attribuisce la colpa degli aggiornamenti imprevisti dei driver di Windows al problema della memorizzazione nella cache**  
-  Fonte: BleepingComputer, 04 Jun 2026, 13:41:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/>)
-
 - **TA4922 collegato alla Cina espande gli attacchi di phishing a Regno Unito, Germania, Italia e Sud Africa**  
   Fonte: The Hacker News, 04 Jun 2026, 12:22:25 UTC  
   [Leggi](<https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html>)
@@ -162,7 +174,7 @@
   Fonte: The Hacker News, 03 Jun 2026, 19:11:15 UTC  
   [Leggi](<https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html>)
 
-- **GitHub Dev Attack con un clic consente agli aggressori di rubare token GitHub OAuth completi**  
+- **Microsoft risolve l'attacco GitHub Dev con un clic che consente agli aggressori di rubare token OAuth**  
   Fonte: The Hacker News, 03 Jun 2026, 17:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html>)
 
@@ -291,4 +303,4 @@
   [Leggi](<https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-06-06 08:24:21 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-07 08:44:09 UTC -->
