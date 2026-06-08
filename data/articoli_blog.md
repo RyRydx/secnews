@@ -2,6 +2,30 @@
 
 ## Ultimi 7 giorni
 
+- **UNC3753 Utilizzo di vishing e intrusioni fisiche nella campagna di estorsione per furto di dati negli Stati Uniti**  
+  Fonte: The Hacker News, 08 Jun 2026, 07:39:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html>)
+
+- **VS Code aggiunge un ritardo di aggiornamento automatico dell'estensione di 2 ore per limitare gli attacchi alla catena di fornitura**  
+  Fonte: The Hacker News, 08 Jun 2026, 06:08:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html>)
+
+- **Oltre 20.000 account Instagram rubati durante l'hacking del supporto Meta AI**  
+  Fonte: BleepingComputer, 08 Jun 2026, 06:00:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/>)
+
+- **Prova l'Intelligent Terminal, un terminale Windows basato sull'intelligenza artificiale**  
+  Fonte: BleepingComputer, 07 Jun 2026, 23:20:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/>)
+
+- **La botnet C0XMO si diffonde tramite la falla del router DD-WRT e uccide il malware rivale**  
+  Fonte: BleepingComputer, 07 Jun 2026, 14:17:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/>)
+
+- **Silent Ransom Group prende di mira gli studi legali con false chiamate di supporto IT**  
+  Fonte: BleepingComputer, 07 Jun 2026, 14:09:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/>)
+
 - **Difetto critico di Everest Forms Pro sfruttato per prendere il controllo dei siti WordPress**  
   Fonte: BleepingComputer, 06 Jun 2026, 14:09:26 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/>)
@@ -110,21 +134,9 @@
   Fonte: Graham Cluley, 04 Jun 2026, 19:53:59 UTC  
   [Leggi](<https://www.fortra.com/blog/metas-own-ai-chatbot-blame-instagram-accounts-being-stolen-seconds>)
 
-- **La violazione dei dati di DentaQuest ha esposto informazioni su 2,6 milioni di account**  
-  Fonte: BleepingComputer, 04 Jun 2026, 18:36:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/>)
-
 - **Cisco applica la patch CVE-2026-20230 in Unified CM mentre il codice di exploit diventa pubblico**  
   Fonte: The Hacker News, 04 Jun 2026, 16:55:51 UTC  
   [Leggi](<https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html>)
-
-- **L’agenzia alimentare delle Nazioni Unite denuncia violazioni che colpiscono 600.000 famiglie di Gaza**  
-  Fonte: BleepingComputer, 04 Jun 2026, 16:38:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/>)
-
-- **Il nuovo malware IronWorm colpisce 36 pacchetti durante un attacco alla catena di fornitura npm**  
-  Fonte: BleepingComputer, 04 Jun 2026, 15:25:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/>)
 
 - **Claude Code GitHub Azione Difetto Lascia che un problema dannoso dirotti i repository**  
   Fonte: The Hacker News, 04 Jun 2026, 15:15:26 UTC  
@@ -133,10 +145,6 @@
 - **L'intelligenza artificiale sta trasformando la difesa, ma solo un'infrastruttura IT sicura potrà massimizzarla**  
   Fonte: The Hacker News, 04 Jun 2026, 15:10:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html>)
-
-- **Gli hacker cercano di colmare le lacune del tuo programma di vulnerabilità: ecco il loro manuale**  
-  Fonte: BleepingComputer, 04 Jun 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/>)
 
 - **Bollettino del ThreatsDay: agenti AI andati male, strumenti C2 imprecisi, trucchi ClickFix, backdoor JS e oltre 20 nuove storie**  
   Fonte: The Hacker News, 04 Jun 2026, 14:00:49 UTC  
@@ -166,7 +174,7 @@
   Fonte: The Hacker News, 04 Jun 2026, 06:06:25 UTC  
   [Leggi](<https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html>)
 
-- **Podcast Smashing Security n. 470: questo difetto di sicurezza dell'intelligenza artificiale potrebbe essere impossibile da risolvere**  
+- **Smashing Security podcast n. 470: questo difetto di sicurezza dell'intelligenza artificiale potrebbe essere impossibile da risolvere**  
   Fonte: Graham Cluley, 03 Jun 2026, 23:15:58 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-470/>)
 
@@ -282,25 +290,5 @@
   Fonte: The Hacker News, 01 Jun 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html>)
 
-- **Token di autenticazione del codice OpenAI rubati nell'attacco alla catena di fornitura codexui-android npm**  
-  Fonte: The Hacker News, 01 Jun 2026, 09:31:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html>)
 
-- **Difetto critico di WP Maps Pro sfruttato attivamente per creare account amministratore**  
-  Fonte: The Hacker News, 01 Jun 2026, 08:45:29 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html>)
-
-- **Dopo 1.000 violazioni dei dati, il ritardo nella divulgazione è peggiore che mai**  
-  Fonte: Troy Hunt, 01 Jun 2026, 08:22:52 UTC  
-  [Leggi](<https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/>)
-
-- **Aggiornamento settimanale 506**  
-  Fonte: Troy Hunt, 01 Jun 2026, 03:32:33 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-506/>)
-
-- **Le autorità olandesi smantellano botnet collegate a 17 milioni di dispositivi infetti**  
-  Fonte: The Hacker News, 31 May 2026, 12:22:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-07 08:44:09 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-08 10:17:50 UTC -->
