@@ -2,6 +2,98 @@
 
 ## Ultimi 7 giorni
 
+- **La CISA concede ai federali 3 giorni per correggere il bug della VPN Check Point sfruttato come zero-day**  
+  Fonte: BleepingComputer, 09 Jun 2026, 08:18:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/>)
+
+- **Google corregge il nuovo difetto zero-day di Chrome sfruttato in natura**  
+  Fonte: BleepingComputer, 09 Jun 2026, 06:56:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/>)
+
+- **LiteLLM Flaw CVE-2026-42271 Sfruttato in natura, catene a RCE non autenticato**  
+  Fonte: The Hacker News, 09 Jun 2026, 06:26:14 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html>)
+
+- **Il malware Android NFCShare si diffonde tramite falsi aggiornamenti delle app bancarie su GitHub**  
+  Fonte: BleepingComputer, 08 Jun 2026, 22:11:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/>)
+
+- **SoFi conferma la violazione dei dati di terze parti presso la filiale di Hong Kong**  
+  Fonte: BleepingComputer, 08 Jun 2026, 21:55:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/>)
+
+- **La nuova funzionalità Apple modifica automaticamente le password compromesse**  
+  Fonte: BleepingComputer, 08 Jun 2026, 21:03:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/>)
+
+- **Il nuovo attacco Shai-Hulud trojanizza 19 pacchetti PyPI incentrati sulla scienza**  
+  Fonte: BleepingComputer, 08 Jun 2026, 20:41:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/>)
+
+- **Il difetto del kernel Linux di un carattere consente l'accesso root locale, gli exploit sono ora pubblici**  
+  Fonte: The Hacker News, 08 Jun 2026, 20:17:39 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html>)
+
+- **WhatsApp afferma di aver interrotto nuovi attacchi di phishing spyware NSO**  
+  Fonte: BleepingComputer, 08 Jun 2026, 18:40:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/>)
+
+- **Meta Blocks il nuovo attacco di phishing su WhatsApp del gruppo NSO, File Contempt Order**  
+  Fonte: The Hacker News, 08 Jun 2026, 17:08:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html>)
+
+- **Vulnerabilità critica di Zcash trovata e risolta**  
+  Fonte: Schneier on Security, 08 Jun 2026, 17:06:53 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html>)
+
+- **Gogs applica patch critiche zero-day consentendo l'esecuzione di codice remoto**  
+  Fonte: BleepingComputer, 08 Jun 2026, 16:18:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/>)
+
+- **Il bug critico del sistema operativo UniFi consente agli hacker di ottenere il root senza autenticazione**  
+  Fonte: BleepingComputer, 08 Jun 2026, 15:51:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/>)
+
+- **Sfruttato un difetto critico della VPN Check Point per bypassare le password nelle configurazioni IKEv1**  
+  Fonte: The Hacker News, 08 Jun 2026, 14:17:39 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html>)
+
+- **Riduci la complessità delle operazioni di sicurezza con Wazuh Cloud**  
+  Fonte: BleepingComputer, 08 Jun 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/>)
+
+- **Il phishing basato sull'intelligenza artificiale sta schiacciando i SOC con il volume degli avvisi: come ridurre il sovraccarico del livello 1**  
+  Fonte: The Hacker News, 08 Jun 2026, 13:19:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html>)
+
+- **⚡ Riepilogo settimanale: hack dell'account Instagram, Android Zero-Day, GitHub Worm e altro ancora**  
+  Fonte: The Hacker News, 08 Jun 2026, 13:18:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html>)
+
+- **Check Point collega gli attacchi zero-day VPN al gruppo di ransomware Qilin**  
+  Fonte: BleepingComputer, 08 Jun 2026, 13:05:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/>)
+
+- **Trasformare gli indicatori di minaccia di Cloudflare in regole WAF in tempo reale**  
+  Fonte: Cloudflare Blog - Security, 08 Jun 2026, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/realtime-threat-intel-waf-rules/>)
+
+- **La forchetta più difficile**  
+  Fonte: The Hacker News, 08 Jun 2026, 11:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/the-hardest-fork.html>)
+
+- **L'Università di Oxford rivela una violazione dei dati dopo l'attacco alla piattaforma di lavoro**  
+  Fonte: BleepingComputer, 08 Jun 2026, 11:14:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/>)
+
+- **Aggiornamento del progetto Glasswing di Anthropic**  
+  Fonte: Schneier on Security, 08 Jun 2026, 11:01:47 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html>)
+
+- **VerdantBamboo distribuisce la variante BSD di BRICKSTORM su dispositivi Linux**  
+  Fonte: The Hacker News, 08 Jun 2026, 10:27:32 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html>)
+
 - **UNC3753 Utilizzo di vishing e intrusioni fisiche nella campagna di estorsione per furto di dati negli Stati Uniti**  
   Fonte: The Hacker News, 08 Jun 2026, 07:39:28 UTC  
   [Leggi](<https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html>)
@@ -21,14 +113,6 @@
 - **La botnet C0XMO si diffonde tramite la falla del router DD-WRT e uccide il malware rivale**  
   Fonte: BleepingComputer, 07 Jun 2026, 14:17:46 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/>)
-
-- **Silent Ransom Group prende di mira gli studi legali con false chiamate di supporto IT**  
-  Fonte: BleepingComputer, 07 Jun 2026, 14:09:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/>)
-
-- **Difetto critico di Everest Forms Pro sfruttato per prendere il controllo dei siti WordPress**  
-  Fonte: BleepingComputer, 06 Jun 2026, 14:09:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/>)
 
 - **La nuova modalità di blocco ChatGPT limita gli strumenti che potrebbero consentire l'esfiltrazione dei dati**  
   Fonte: The Hacker News, 06 Jun 2026, 13:36:57 UTC  
@@ -54,25 +138,9 @@
   Fonte: The Hacker News, 06 Jun 2026, 04:19:28 UTC  
   [Leggi](<https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html>)
 
-- **Sui siti Web Toshiba e Muji vengono visualizzate richieste di accesso sospette a Polyfill**  
-  Fonte: BleepingComputer, 05 Jun 2026, 21:54:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/>)
-
-- **CISA: gli hacker ora sfruttano la falla SolarWinds Serv-U per mandare in crash i server**  
-  Fonte: BleepingComputer, 05 Jun 2026, 19:15:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/>)
-
-- **L'APT cinese distribuisce nuovo malware per mantenere l'accesso alle reti compromesse**  
-  Fonte: BleepingComputer, 05 Jun 2026, 18:09:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/>)
-
 - **IronWorm e la nuova variante del Miasma Worm colpiscono npm negli attacchi alla catena di fornitura**  
   Fonte: The Hacker News, 05 Jun 2026, 18:05:30 UTC  
   [Leggi](<https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html>)
-
-- **Il venditore del Dark web Nemesis Market riceve 26 anni per aver venduto droga**  
-  Fonte: BleepingComputer, 05 Jun 2026, 17:50:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/>)
 
 - **Hai ricevuto un messaggio LinkedIn da un reclutatore?Potrebbe trattarsi dell'intelligence cinese, avvertono l'FBI e l'MI5**  
   Fonte: Graham Cluley, 05 Jun 2026, 17:13:31 UTC  
@@ -81,14 +149,6 @@
 - **Lo spyware Android Asin prende di mira gli utenti arabi tramite le app Fake News, PDF e War Map**  
   Fonte: The Hacker News, 05 Jun 2026, 14:53:40 UTC  
   [Leggi](<https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html>)
-
-- **Oltre 900 sistemi di misurazione dei serbatoi delle stazioni di servizio negli Stati Uniti esposti ad attacchi**  
-  Fonte: BleepingComputer, 05 Jun 2026, 14:50:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/>)
-
-- **Cosa conferma il DBIR 2026: gli attacchi vivono nel browser**  
-  Fonte: BleepingComputer, 05 Jun 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/>)
 
 - **Verme AI**  
   Fonte: Schneier on Security, 05 Jun 2026, 13:21:23 UTC  
@@ -110,25 +170,9 @@
   Fonte: The Hacker News, 05 Jun 2026, 07:01:41 UTC  
   [Leggi](<https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html>)
 
-- **Cisco avverte di SD-WAN zero-day senza patch sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 05 Jun 2026, 06:24:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/>)
-
 - **PCPJack dirotta 230 server AWS, Google Cloud e Azure per la rete di inoltro SMTP nascosta**  
   Fonte: The Hacker News, 05 Jun 2026, 05:34:19 UTC  
   [Leggi](<https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html>)
-
-- **Brave Software rilascia Origin per un'esperienza di navigazione a pagamento e senza eccessi**  
-  Fonte: BleepingComputer, 04 Jun 2026, 21:37:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/>)
-
-- **Hola Browser per Windows compromesso per fornire cryptominer**  
-  Fonte: BleepingComputer, 04 Jun 2026, 21:27:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/>)
-
-- **La campagna di furto di carte di credito abusa di Stripe per ospitare informazioni di pagamento rubate**  
-  Fonte: BleepingComputer, 04 Jun 2026, 20:47:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/>)
 
 - **Il chatbot AI di Meta è responsabile del furto degli account Instagram in pochi secondi**  
   Fonte: Graham Cluley, 04 Jun 2026, 19:53:59 UTC  
@@ -262,33 +306,5 @@
   Fonte: The Hacker News, 02 Jun 2026, 09:05:40 UTC  
   [Leggi](<https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html>)
 
-- **Dashlane rivela un attacco di forza bruta e sono stati scaricati depositi crittografati di meno di 20 utenti**  
-  Fonte: The Hacker News, 02 Jun 2026, 03:55:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html>)
 
-- **L'attacco alla catena di fornitura Miasma compromette i pacchetti npm di Red Hat con un worm che ruba credenziali**  
-  Fonte: The Hacker News, 01 Jun 2026, 17:40:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html>)
-
-- **Gli hacker hanno utilizzato il bot di supporto AI di Meta per sequestrare gli account Instagram**  
-  Fonte: Krebs on Security, 01 Jun 2026, 17:32:50 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/>)
-
-- **La divulgazione delle vulnerabilità nell’era dell’intelligenza artificiale**  
-  Fonte: Schneier on Security, 01 Jun 2026, 16:49:39 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html>)
-
-- **⚡ Riepilogo settimanale: nuovo difetto di Linux, exploit PAN-OS, attacchi basati sull'intelligenza artificiale, phishing OAuth e altro ancora**  
-  Fonte: The Hacker News, 01 Jun 2026, 13:59:54 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html>)
-
-- **Gruppi allineati alla Cina intensificano gli attacchi: la Trama del Drago colpisce Repubblica Ceca e Taiwan**  
-  Fonte: The Hacker News, 01 Jun 2026, 11:54:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html>)
-
-- **La piattaforma per la crescita della sicurezza: perché gli MSP stanno andando oltre gli strumenti vCISO**  
-  Fonte: The Hacker News, 01 Jun 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-08 10:17:50 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-09 09:00:11 UTC -->
