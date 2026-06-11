@@ -2,6 +2,98 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft risolve il bug di ripristino di BitLocker su Windows Server 2025**  
+  Fonte: BleepingComputer, 11 Jun 2026, 08:44:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/>)
+
+- **La violazione dei dati dell’Università di Nottingham colpisce oltre 450.000 studenti**  
+  Fonte: BleepingComputer, 11 Jun 2026, 07:27:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/>)
+
+- **GitHub disabiliterà gli script di installazione npm per impostazione predefinita per fermare gli attacchi alla catena di fornitura**  
+  Fonte: The Hacker News, 11 Jun 2026, 06:23:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html>)
+
+- **Gravità massima La vulnerabilità Ivanti Sentry ora viene sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 11 Jun 2026, 06:20:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/>)
+
+- **Podcast #471 di Smashing Security: Questo worm AI ha appena riscritto le proprie regole**  
+  Fonte: Graham Cluley, 10 Jun 2026, 23:15:08 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-471/>)
+
+- **Difetto di attraversamento del percorso nella piattaforma di sviluppo AI Langflow sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 10 Jun 2026, 21:23:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/>)
+
+- **Il codice sorgente del worm “Miasma” è trapelato brevemente su GitHub**  
+  Fonte: BleepingComputer, 10 Jun 2026, 20:27:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/>)
+
+- **GitHub annuncia modifiche alla sicurezza di npm per contrastare gli attacchi alla catena di approvvigionamento**  
+  Fonte: BleepingComputer, 10 Jun 2026, 19:41:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/>)
+
+- **I server Oracle PeopleSoft sono stati violati negli attacchi di furto di dati di ShinyHunters**  
+  Fonte: BleepingComputer, 10 Jun 2026, 18:31:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/>)
+
+- **La botnet JDY collegata alla Cina si espande a oltre 1.500 dispositivi per la ricognizione informatica**  
+  Fonte: The Hacker News, 10 Jun 2026, 16:08:42 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html>)
+
+- **Patch di rilascio di Ivanti, Fortinet e SAP per molteplici vulnerabilità critiche**  
+  Fonte: The Hacker News, 10 Jun 2026, 15:10:59 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html>)
+
+- **Difetto Langflow senza patch CVE-2026-5027 sfruttato per RCE non autenticato**  
+  Fonte: The Hacker News, 10 Jun 2026, 15:00:59 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html>)
+
+- **La botnet JDY collegata alla Cina espande gli attacchi contro le reti militari statunitensi**  
+  Fonte: BleepingComputer, 10 Jun 2026, 15:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/>)
+
+- **CISA aggiunge difetti Cisco, Chrome e Arista al catalogo KEV durante lo sfruttamento attivo**  
+  Fonte: The Hacker News, 10 Jun 2026, 14:44:29 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html>)
+
+- **Le 5 migliori pratiche per la verifica sicura dell'identità**  
+  Fonte: BleepingComputer, 10 Jun 2026, 14:05:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/>)
+
+- **Chi gestisce il gruppo ransomware “The Gentlemen”?**  
+  Fonte: Krebs on Security, 10 Jun 2026, 14:03:44 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/>)
+
+- **Microsoft applica una patch al server Exchange zero-day sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 10 Jun 2026, 13:44:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/>)
+
+- **Perché le scuole rimangono uno degli obiettivi preferiti dei criminali informatici**  
+  Fonte: Graham Cluley, 10 Jun 2026, 13:18:27 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/why-schools-remain-one-of-cybercriminals-favourite-targets>)
+
+- **Microsoft: alcuni PC Windows non riescono a installare gli ultimi aggiornamenti mensili**  
+  Fonte: BleepingComputer, 10 Jun 2026, 11:33:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/>)
+
+- **Il gruppo NSO ha hackerato WhatsApp nonostante l'ordinanza del tribunale**  
+  Fonte: Schneier on Security, 10 Jun 2026, 11:08:59 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html>)
+
+- **Il tuo Pentest automatizzato sembra pulito.Scopri cosa è mancato in questo webinar di esperti**  
+  Fonte: The Hacker News, 10 Jun 2026, 10:27:49 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html>)
+
+- **Microsoft applica le patch agli zero-day di YellowKey, GreenPlasma e MiniPlasma**  
+  Fonte: BleepingComputer, 10 Jun 2026, 09:57:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/>)
+
+- **Le patch Microsoft registrano 206 difetti, inclusi tre zero-day e bug RCE critici**  
+  Fonte: The Hacker News, 10 Jun 2026, 09:38:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html>)
+
 - **Anthropic rilascia Claude Fable 5, la sua intelligenza artificiale più potente di sempre, con protezioni informatiche**  
   Fonte: The Hacker News, 10 Jun 2026, 07:37:59 UTC  
   [Leggi](<https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html>)
@@ -38,35 +130,11 @@
   Fonte: Krebs on Security, 09 Jun 2026, 22:07:28 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/>)
 
-- **ServiceNow rivela un incidente di sicurezza che espone i dati dei clienti**  
-  Fonte: BleepingComputer, 09 Jun 2026, 21:34:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/>)
-
-- **L'agente AI di OpenClaw viene scoperto vittima di attacchi di phishing e diffonde i dati degli utenti**  
-  Fonte: BleepingComputer, 09 Jun 2026, 21:20:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/>)
-
-- **SAP risolve i difetti critici in NetWeaver e Commerce Cloud**  
-  Fonte: BleepingComputer, 09 Jun 2026, 19:36:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/>)
-
-- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5094127 di Windows 10**  
-  Fonte: BleepingComputer, 09 Jun 2026, 18:35:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/>)
-
-- **Il Patch Tuesday di giugno 2026 di Microsoft corregge 3 difetti zero-day, 200**  
-  Fonte: BleepingComputer, 09 Jun 2026, 17:57:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/>)
-
-- **Aggiornamenti cumulativi KB5094126 e KB5093998 di Windows 11 rilasciati**  
-  Fonte: BleepingComputer, 09 Jun 2026, 17:32:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/>)
-
 - **Meta per utilizzare i dati aziendali off-site per la personalizzazione dei feed e dell'intelligenza artificiale**  
   Fonte: The Hacker News, 09 Jun 2026, 17:03:58 UTC  
   [Leggi](<https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html>)
 
-- **Veeam Backup & Replication RCE Flaw consente agli utenti del dominio di eseguire codice remoto**  
+- **Il difetto RCE di Veeam Backup & Replication consente agli utenti del dominio di eseguire codice remoto**  
   Fonte: The Hacker News, 09 Jun 2026, 16:39:47 UTC  
   [Leggi](<https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html>)
 
@@ -74,23 +142,11 @@
   Fonte: The Hacker News, 09 Jun 2026, 16:34:52 UTC  
   [Leggi](<https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html>)
 
-- **XBOW testa Mythos Preview di Anthropic per la sicurezza offensiva**  
-  Fonte: BleepingComputer, 09 Jun 2026, 16:16:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/>)
-
-- **GitHub disabilita i repository Microsoft che inviano malware che rubano le password**  
-  Fonte: BleepingComputer, 09 Jun 2026, 15:42:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/>)
-
 - **GPS come piattaforma di distribuzione delle chiavi**  
   Fonte: Schneier on Security, 09 Jun 2026, 15:06:49 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html>)
 
-- **La nuova vulnerabilità Veeam espone i server di backup agli attacchi RCE**  
-  Fonte: BleepingComputer, 09 Jun 2026, 14:27:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/>)
-
-- **Difetto WinRAR sfruttato dai gruppi allineati alla Russia per schierare Stealer in Ucraina**  
+- **Difetto WinRAR sfruttato dai gruppi allineati alla Russia per schierare gli Stealer in Ucraina**  
   Fonte: The Hacker News, 09 Jun 2026, 12:26:10 UTC  
   [Leggi](<https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html>)
 
@@ -106,25 +162,13 @@
   Fonte: The Hacker News, 09 Jun 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html>)
 
-- **Il servizio di messaggistica del governo francese è stato violato durante un attacco di dirottamento dell'account**  
-  Fonte: BleepingComputer, 09 Jun 2026, 10:53:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/>)
-
 - **Il nuovo attacco FROST consente ai siti Web di tenere traccia dei siti e delle app aperti tramite la temporizzazione SSD**  
   Fonte: The Hacker News, 09 Jun 2026, 09:50:41 UTC  
   [Leggi](<https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html>)
 
-- **Attacco Hades PyPI: 19 pacchetti avvelenati per il furto di credenziali Bun ad esecuzione automatica**  
+- **Attacco Hades PyPI: 19 pacchetti avvelenati per il ladro di credenziali Bun ad esecuzione automatica**  
   Fonte: The Hacker News, 09 Jun 2026, 09:13:32 UTC  
   [Leggi](<https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html>)
-
-- **La CISA concede ai federali 3 giorni per correggere il bug della VPN Check Point sfruttato come zero-day**  
-  Fonte: BleepingComputer, 09 Jun 2026, 08:18:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/>)
-
-- **Google corregge il nuovo difetto zero-day di Chrome sfruttato in natura**  
-  Fonte: BleepingComputer, 09 Jun 2026, 06:56:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/>)
 
 - **LiteLLM Flaw CVE-2026-42271 Sfruttato in natura, catene a RCE non autenticato**  
   Fonte: The Hacker News, 09 Jun 2026, 06:26:14 UTC  
@@ -274,45 +318,5 @@
   Fonte: Schneier on Security, 04 Jun 2026, 11:04:09 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html>)
 
-- **Siti falsi che imitano strumenti open source occupano una posizione elevata su Google per diffondere malware tramite TDS**  
-  Fonte: The Hacker News, 04 Jun 2026, 09:51:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html>)
 
-- **Gli hacker hanno spiato per cinque mesi la casella di posta Outlook di un dirigente della Borsa**  
-  Fonte: The Hacker News, 04 Jun 2026, 09:33:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html>)
-
-- **Il Dipartimento di Giustizia interrompe le reti di frode crittografica nel sud-est asiatico e congela beni per 3,8 milioni di dollari**  
-  Fonte: The Hacker News, 04 Jun 2026, 06:06:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html>)
-
-- **Smashing Security podcast n. 470: questo difetto di sicurezza dell'intelligenza artificiale potrebbe essere impossibile da risolvere**  
-  Fonte: Graham Cluley, 03 Jun 2026, 23:15:58 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-470/>)
-
-- **WhatsApp, le notifiche Slack potrebbero dirottare Google Gemini su Android**  
-  Fonte: The Hacker News, 03 Jun 2026, 19:11:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html>)
-
-- **Microsoft risolve l'attacco GitHub Dev con un clic che consente agli aggressori di rubare token OAuth**  
-  Fonte: The Hacker News, 03 Jun 2026, 17:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html>)
-
-- **Lo strumento AI autonomo rileva un difetto RCE vecchio di 2 anni in Redis (CVE-2026-23479)**  
-  Fonte: The Hacker News, 03 Jun 2026, 16:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html>)
-
-- **CISA aggiunge il difetto CVE-2026-45247 di Magento RCE sfruttato al catalogo KEV**  
-  Fonte: The Hacker News, 03 Jun 2026, 16:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html>)
-
-- **Google DoubleClick abusato nella nuova campagna Malspam per fornire .NET Loader**  
-  Fonte: The Hacker News, 03 Jun 2026, 16:29:16 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html>)
-
-- **AI utilizzata per decrittografare i cifrari medievali**  
-  Fonte: Schneier on Security, 03 Jun 2026, 11:04:40 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-10 09:40:55 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-11 10:06:47 UTC -->
