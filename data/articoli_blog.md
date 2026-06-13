@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Gli Stati Uniti ordinano ad Anthropic di sospendere l'accesso a Fable 5 e Mythos 5 per i cittadini stranieri**  
+  Fonte: The Hacker News, 13 Jun 2026, 05:42:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html>)
+
+- **Blogging sui calamari del venerdì: pompa del fluido ispirata ai calamari**  
+  Fonte: Schneier on Security, 12 Jun 2026, 21:05:03 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html>)
+
+- **Il Maine disabilita il portale di notifica della violazione dei dati dopo false divulgazioni**  
+  Fonte: BleepingComputer, 12 Jun 2026, 19:33:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/>)
+
+- **Oltre 400 pacchetti AUR di Arch Linux violati per distribuire Infostealer e eBPF Rootkit**  
+  Fonte: The Hacker News, 12 Jun 2026, 19:33:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html>)
+
+- **Google fa causa alla rete cinese di smishing accusata di utilizzare l'intelligenza artificiale Gemini nel phishing**  
+  Fonte: The Hacker News, 12 Jun 2026, 18:59:32 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html>)
+
+- **Autogol sulla privacy: un errore della Coppa del Mondo fa trapelare i dettagli del passaporto di Lionel Messi**  
+  Fonte: Graham Cluley, 12 Jun 2026, 18:48:06 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/privacy-own-goal-world-cup-blunder-leaks-lionel-messis-passport-details>)
+
+- **Il forum phpBB risolve il bug di bypass dell'autenticazione rimasto in agguato per un decennio**  
+  Fonte: BleepingComputer, 12 Jun 2026, 18:19:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/>)
+
+- **Gli hacker legati alla Cina hanno creato backdoor per nascondere il software di login di Linux per quasi un decennio**  
+  Fonte: The Hacker News, 12 Jun 2026, 18:17:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html>)
+
+- **Un cittadino ucraino si dichiara colpevole di aver partecipato all'operazione ransomware Conti**  
+  Fonte: BleepingComputer, 12 Jun 2026, 17:54:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/>)
+
+- **Oltre 400 pacchetti Arch Linux compromessi da push rootkit e infostealer**  
+  Fonte: BleepingComputer, 12 Jun 2026, 17:03:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/>)
+
+- **I primi segnali di allarme di attacchi alla catena di fornitura si trovano nel Dark Web**  
+  Fonte: BleepingComputer, 12 Jun 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/>)
+
+- **L'attacco Agentjacking induce gli agenti di codifica AI a eseguire codici dannosi**  
+  Fonte: The Hacker News, 12 Jun 2026, 12:04:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html>)
+
+- **Microsoft risolve gli errori di aggiornamento di Windows collegati al programma di installazione WUSA**  
+  Fonte: BleepingComputer, 12 Jun 2026, 11:44:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/>)
+
+- **Il piano del fondo sovrano AI di Bernie Sanders**  
+  Fonte: Schneier on Security, 12 Jun 2026, 11:03:17 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html>)
+
+- **Ripensare l’MDR mentre attaccanti e difensori abbracciano l’intelligenza artificiale**  
+  Fonte: The Hacker News, 12 Jun 2026, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html>)
+
+- **Il colosso farmaceutico Novo Nordisk rivela la violazione dei dati degli studi clinici**  
+  Fonte: BleepingComputer, 12 Jun 2026, 10:13:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/>)
+
+- **LangGraph Flaw Chain espone gli agenti AI self-hosted all'esecuzione di codice in modalità remota**  
+  Fonte: The Hacker News, 12 Jun 2026, 09:50:36 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html>)
+
+- **L'operazione INTERPOL abbatte la piattaforma di phishing Sniper Dz e arresta l'amministratore**  
+  Fonte: The Hacker News, 12 Jun 2026, 08:52:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html>)
+
 - **La CISA ordina ai federali di applicare una patch alla falla Ivanti sfruttata attivamente entro domenica**  
   Fonte: BleepingComputer, 12 Jun 2026, 08:26:55 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/>)
@@ -46,6 +118,10 @@
   Fonte: BleepingComputer, 11 Jun 2026, 15:55:41 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/>)
 
+- **Silent Ransom Group: cosa devi sapere**  
+  Fonte: Graham Cluley, 11 Jun 2026, 15:43:50 UTC  
+  [Leggi](<https://www.fortra.com/blog/silent-ransom-group-what-you-need-know>)
+
 - **Perché le minacce guidate dall’intelligenza artificiale stanno mettendo a nudo i limiti degli stack di sicurezza MSP**  
   Fonte: BleepingComputer, 11 Jun 2026, 14:00:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/>)
@@ -62,11 +138,7 @@
   Fonte: BleepingComputer, 11 Jun 2026, 12:52:41 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/>)
 
-- **La CISA dice alle agenzie governative di correggere i difetti critici sfruttati entro 3 giorni**  
-  Fonte: BleepingComputer, 11 Jun 2026, 12:46:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/>)
-
-- **Gestione delle vulnerabilità compromessa dall'intelligenza artificiale.Ecco perché i CISO stanno spostando il budget verso BAS.**  
+- **L'intelligenza artificiale ha rotto la gestione delle vulnerabilità.Ecco perché i CISO stanno spostando il budget verso BAS.**  
   Fonte: The Hacker News, 11 Jun 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html>)
 
@@ -78,37 +150,13 @@
   Fonte: The Hacker News, 11 Jun 2026, 09:45:58 UTC  
   [Leggi](<https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html>)
 
-- **Microsoft risolve il bug di ripristino di BitLocker su Windows Server 2025**  
-  Fonte: BleepingComputer, 11 Jun 2026, 08:44:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/>)
-
-- **La violazione dei dati dell’Università di Nottingham colpisce oltre 450.000 studenti**  
-  Fonte: BleepingComputer, 11 Jun 2026, 07:27:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/>)
-
 - **GitHub disabiliterà gli script di installazione npm per impostazione predefinita per fermare gli attacchi alla catena di fornitura**  
   Fonte: The Hacker News, 11 Jun 2026, 06:23:03 UTC  
   [Leggi](<https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html>)
 
-- **Gravità massima La vulnerabilità Ivanti Sentry ora viene sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 11 Jun 2026, 06:20:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/>)
-
 - **Podcast #471 di Smashing Security: Questo worm AI ha appena riscritto le proprie regole**  
   Fonte: Graham Cluley, 10 Jun 2026, 23:15:08 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-471/>)
-
-- **Difetto di attraversamento del percorso nella piattaforma di sviluppo AI Langflow sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 10 Jun 2026, 21:23:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/>)
-
-- **Il codice sorgente del worm “Miasma” è trapelato brevemente su GitHub**  
-  Fonte: BleepingComputer, 10 Jun 2026, 20:27:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/>)
-
-- **GitHub annuncia modifiche alla sicurezza di npm per contrastare gli attacchi alla catena di fornitura**  
-  Fonte: BleepingComputer, 10 Jun 2026, 19:41:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/>)
 
 - **La botnet JDY collegata alla Cina si espande a oltre 1.500 dispositivi per la ricognizione informatica**  
   Fonte: The Hacker News, 10 Jun 2026, 16:08:42 UTC  
@@ -150,7 +198,7 @@
   Fonte: The Hacker News, 10 Jun 2026, 07:37:59 UTC  
   [Leggi](<https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html>)
 
-- **Sfruttato il difetto di ServiceNow per ottenere l'accesso non autorizzato alle istanze del cliente**  
+- **Sfruttamento di un difetto in ServiceNow per ottenere l'accesso non autorizzato alle istanze del cliente**  
   Fonte: The Hacker News, 10 Jun 2026, 07:02:08 UTC  
   [Leggi](<https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html>)
 
@@ -186,7 +234,7 @@
   Fonte: Schneier on Security, 09 Jun 2026, 15:06:49 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html>)
 
-- **Difetto WinRAR sfruttato dai gruppi allineati con la Russia per schierare Stealer in Ucraina**  
+- **Difetto WinRAR sfruttato dai gruppi allineati alla Russia per schierare gli Stealer in Ucraina**  
   Fonte: The Hacker News, 09 Jun 2026, 12:26:10 UTC  
   [Leggi](<https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html>)
 
@@ -206,7 +254,7 @@
   Fonte: The Hacker News, 09 Jun 2026, 09:50:41 UTC  
   [Leggi](<https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html>)
 
-- **Attacco Hades PyPI: 19 pacchetti avvelenati per il furto di credenziali Bun ad esecuzione automatica**  
+- **Attacco Hades PyPI: 19 pacchetti avvelenati per il ladro di credenziali Bun ad esecuzione automatica**  
   Fonte: The Hacker News, 09 Jun 2026, 09:13:32 UTC  
   [Leggi](<https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html>)
 
@@ -270,49 +318,5 @@
   Fonte: The Hacker News, 06 Jun 2026, 13:36:57 UTC  
   [Leggi](<https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html>)
 
-- **Le app gratuite stanno silenziosamente trasformando le Smart TV in proxy web-scraping per l'intelligenza artificiale**  
-  Fonte: The Hacker News, 06 Jun 2026, 08:29:05 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html>)
 
-- **CISA aggiunge il difetto DoS Serv-U di SolarWinds attivamente sfruttato al catalogo KEV**  
-  Fonte: The Hacker News, 06 Jun 2026, 08:14:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html>)
-
-- **L'agente AI scopre 21 Zero-Day in FFmpeg;Le patch di Chrome registrano 429 bug**  
-  Fonte: The Hacker News, 06 Jun 2026, 07:28:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html>)
-
-- **Il worm Miasma colpisce 73 repository Microsoft GitHub in un grave attacco alla catena di fornitura**  
-  Fonte: The Hacker News, 06 Jun 2026, 06:58:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html>)
-
-- **Difetto CVE-2026-20245 di Cisco Catalyst SD-WAN Manager sfruttato attivamente – Nessuna patch disponibile**  
-  Fonte: The Hacker News, 06 Jun 2026, 04:19:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html>)
-
-- **IronWorm e la nuova variante del Miasma Worm colpiscono npm negli attacchi alla catena di fornitura**  
-  Fonte: The Hacker News, 05 Jun 2026, 18:05:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html>)
-
-- **Hai ricevuto un messaggio LinkedIn da un reclutatore?Potrebbe trattarsi dell'intelligence cinese, avvertono l'FBI e l'MI5**  
-  Fonte: Graham Cluley, 05 Jun 2026, 17:13:31 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/linkedin-recruiter-chinese-intelligence-fbi-mi5>)
-
-- **Lo spyware Android Asin prende di mira gli utenti arabi tramite le app Fake News, PDF e War Map**  
-  Fonte: The Hacker News, 05 Jun 2026, 14:53:40 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html>)
-
-- **Verme AI**  
-  Fonte: Schneier on Security, 05 Jun 2026, 13:21:23 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/ai-worm.html>)
-
-- **Il nuovo cluster di minacce OP-512 prende di mira i server Microsoft IIS con framework Web Shell personalizzato**  
-  Fonte: The Hacker News, 05 Jun 2026, 12:33:38 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html>)
-
-- **Solo il 10% dei SOC afferma di ottenere un valore eccellente dall’intelligenza artificiale.Ecco cosa deve offrire la seconda ondata**  
-  Fonte: The Hacker News, 05 Jun 2026, 11:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-12 09:57:48 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-13 08:47:05 UTC -->
