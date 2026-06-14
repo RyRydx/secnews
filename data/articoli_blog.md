@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Ex dipendente del distretto scolastico incarcerato per aver hackerato l'ex datore di lavoro**  
+  Fonte: BleepingComputer, 13 Jun 2026, 20:53:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/>)
+
+- **Hacker cinesi dirottano il flusso di autenticazione e spiano reti isolate per un decennio**  
+  Fonte: BleepingComputer, 13 Jun 2026, 14:06:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/>)
+
+- **Il difetto critico di Splunk Enterprise consente agli aggressori di eseguire codice senza autenticazione**  
+  Fonte: The Hacker News, 13 Jun 2026, 13:23:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html>)
+
+- **Il governatore degli Stati Uniti chiede ad Anthropic di vietare l'accesso "nazionale straniero" a Fable e Mythos**  
+  Fonte: BleepingComputer, 13 Jun 2026, 10:01:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/>)
+
 - **Gli Stati Uniti ordinano ad Anthropic di sospendere l'accesso a Fable 5 e Mythos 5 per i cittadini stranieri**  
   Fonte: The Hacker News, 13 Jun 2026, 05:42:50 UTC  
   [Leggi](<https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html>)
@@ -34,7 +50,7 @@
   Fonte: The Hacker News, 12 Jun 2026, 18:17:55 UTC  
   [Leggi](<https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html>)
 
-- **Un cittadino ucraino si dichiara colpevole di aver partecipato all'operazione ransomware Conti**  
+- **Un cittadino ucraino si dichiara colpevole di ruolo nell'operazione ransomware Conti**  
   Fonte: BleepingComputer, 12 Jun 2026, 17:54:28 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/>)
 
@@ -74,7 +90,7 @@
   Fonte: The Hacker News, 12 Jun 2026, 08:52:55 UTC  
   [Leggi](<https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html>)
 
-- **La CISA ordina ai federali di applicare una patch alla falla Ivanti sfruttata attivamente entro domenica**  
+- **La CISA ordina ai federali di applicare una patch alla falla di Ivanti sfruttata attivamente entro domenica**  
   Fonte: BleepingComputer, 12 Jun 2026, 08:26:55 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/>)
 
@@ -114,17 +130,9 @@
   Fonte: The Hacker News, 11 Jun 2026, 16:50:47 UTC  
   [Leggi](<https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html>)
 
-- **Le autorità smantellano il servizio di riciclaggio di criptovaluta ransomware "AudiA6".**  
-  Fonte: BleepingComputer, 11 Jun 2026, 15:55:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/>)
-
 - **Silent Ransom Group: cosa devi sapere**  
   Fonte: Graham Cluley, 11 Jun 2026, 15:43:50 UTC  
   [Leggi](<https://www.fortra.com/blog/silent-ransom-group-what-you-need-know>)
-
-- **Perché le minacce guidate dall’intelligenza artificiale stanno mettendo a nudo i limiti degli stack di sicurezza MSP**  
-  Fonte: BleepingComputer, 11 Jun 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/>)
 
 - **Cybersecurity Stars Awards 2026: annunciati i vincitori in 95 categorie**  
   Fonte: The Hacker News, 11 Jun 2026, 13:26:13 UTC  
@@ -133,10 +141,6 @@
 - **Bollettino del ThreatsDay: codice del worm trapelato, phishing dell'agente AI, patch del codice Claude + 28 nuove storie**  
   Fonte: The Hacker News, 11 Jun 2026, 13:20:41 UTC  
   [Leggi](<https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html>)
-
-- **Coupang è stata multata record per violazione di dati da 409 milioni di dollari in Corea**  
-  Fonte: BleepingComputer, 11 Jun 2026, 12:52:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/>)
 
 - **L'intelligenza artificiale ha rotto la gestione delle vulnerabilità.Ecco perché i CISO stanno spostando il budget verso BAS.**  
   Fonte: The Hacker News, 11 Jun 2026, 11:30:00 UTC  
@@ -222,7 +226,7 @@
   Fonte: The Hacker News, 09 Jun 2026, 17:03:58 UTC  
   [Leggi](<https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html>)
 
-- **Il difetto RCE di Veeam Backup & Replication consente agli utenti del dominio di eseguire codice remoto**  
+- **Veeam Backup & Replication RCE Flaw consente agli utenti del dominio di eseguire codice remoto**  
   Fonte: The Hacker News, 09 Jun 2026, 16:39:47 UTC  
   [Leggi](<https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html>)
 
@@ -234,7 +238,7 @@
   Fonte: Schneier on Security, 09 Jun 2026, 15:06:49 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html>)
 
-- **Difetto WinRAR sfruttato dai gruppi allineati alla Russia per schierare gli Stealer in Ucraina**  
+- **Difetto WinRAR sfruttato dai gruppi allineati alla Russia per schierare Stealer in Ucraina**  
   Fonte: The Hacker News, 09 Jun 2026, 12:26:10 UTC  
   [Leggi](<https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html>)
 
@@ -254,7 +258,7 @@
   Fonte: The Hacker News, 09 Jun 2026, 09:50:41 UTC  
   [Leggi](<https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html>)
 
-- **Attacco Hades PyPI: 19 pacchetti avvelenati per il ladro di credenziali Bun ad esecuzione automatica**  
+- **Attacco Hades PyPI: 19 pacchetti avvelenati per il furto di credenziali Bun ad esecuzione automatica**  
   Fonte: The Hacker News, 09 Jun 2026, 09:13:32 UTC  
   [Leggi](<https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html>)
 
@@ -314,9 +318,5 @@
   Fonte: The Hacker News, 08 Jun 2026, 06:08:44 UTC  
   [Leggi](<https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html>)
 
-- **La nuova modalità di blocco ChatGPT limita gli strumenti che potrebbero consentire l'esfiltrazione dei dati**  
-  Fonte: The Hacker News, 06 Jun 2026, 13:36:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-06-13 08:47:05 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-14 09:19:29 UTC -->
