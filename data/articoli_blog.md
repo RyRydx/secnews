@@ -2,6 +2,38 @@
 
 ## Ultimi 7 giorni
 
+- **152 estensioni per sfondi Chrome con 105.000 installazioni collegate ad adware e traffico falso**  
+  Fonte: The Hacker News, 15 Jun 2026, 11:07:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html>)
+
+- **La FCC vuole eliminare i telefoni masterizzati**  
+  Fonte: Schneier on Security, 15 Jun 2026, 11:01:05 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/the-fcc-wants-to-eliminate-burner-phones.html>)
+
+- **Script popolari dei plugin WordPress manomessi per inserire backdoor nascoste sui siti**  
+  Fonte: The Hacker News, 15 Jun 2026, 09:59:38 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html>)
+
+- **Le truffe Sniper Dz prendono di mira gli utenti MENA tramite offerte Facebook false e avvisi del browser**  
+  Fonte: The Hacker News, 15 Jun 2026, 06:30:22 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html>)
+
+- **Palo Alto avverte dello sfruttamento attivo del difetto VPN PAN-OS GlobalProtect**  
+  Fonte: The Hacker News, 15 Jun 2026, 06:17:32 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html>)
+
+- **Aggiornamento settimanale 508**  
+  Fonte: Troy Hunt, 15 Jun 2026, 04:55:47 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-508/>)
+
+- **Prossimi impegni di conferenza**  
+  Fonte: Schneier on Security, 14 Jun 2026, 16:07:31 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html>)
+
+- **L'FBI interrompe un massiccio servizio di phishing basato sull'intelligenza artificiale utilizzando un milione di URL**  
+  Fonte: BleepingComputer, 14 Jun 2026, 14:36:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/>)
+
 - **Ex dipendente del distretto scolastico incarcerato per aver hackerato l'ex datore di lavoro**  
   Fonte: BleepingComputer, 13 Jun 2026, 20:53:13 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/>)
@@ -114,10 +146,6 @@
   Fonte: The Hacker News, 11 Jun 2026, 20:29:23 UTC  
   [Leggi](<https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html>)
 
-- **Oracle mitiga gli attacchi zero-day di PeopleSoft sfruttati negli attacchi di furto di dati**  
-  Fonte: BleepingComputer, 11 Jun 2026, 19:39:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/>)
-
 - **Nuovi attacchi ingannano l'agente AI di OpenClaw inducendolo a eseguire codice e a divulgare segreti**  
   Fonte: The Hacker News, 11 Jun 2026, 17:46:32 UTC  
   [Leggi](<https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html>)
@@ -142,7 +170,7 @@
   Fonte: The Hacker News, 11 Jun 2026, 13:20:41 UTC  
   [Leggi](<https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html>)
 
-- **L'intelligenza artificiale ha rotto la gestione delle vulnerabilità.Ecco perché i CISO stanno spostando il budget verso BAS.**  
+- **Gestione delle vulnerabilità compromessa dall'intelligenza artificiale.Ecco perché i CISO stanno spostando il budget verso BAS.**  
   Fonte: The Hacker News, 11 Jun 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html>)
 
@@ -226,7 +254,7 @@
   Fonte: The Hacker News, 09 Jun 2026, 17:03:58 UTC  
   [Leggi](<https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html>)
 
-- **Veeam Backup & Replication RCE Flaw consente agli utenti del dominio di eseguire codice remoto**  
+- **Il difetto RCE di Veeam Backup & Replication consente agli utenti del dominio di eseguire codice remoto**  
   Fonte: The Hacker News, 09 Jun 2026, 16:39:47 UTC  
   [Leggi](<https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html>)
 
@@ -238,7 +266,7 @@
   Fonte: Schneier on Security, 09 Jun 2026, 15:06:49 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html>)
 
-- **Difetto WinRAR sfruttato dai gruppi allineati alla Russia per schierare Stealer in Ucraina**  
+- **Difetto WinRAR sfruttato dai gruppi allineati con la Russia per schierare Stealer in Ucraina**  
   Fonte: The Hacker News, 09 Jun 2026, 12:26:10 UTC  
   [Leggi](<https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html>)
 
@@ -302,21 +330,5 @@
   Fonte: The Hacker News, 08 Jun 2026, 11:53:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/the-hardest-fork.html>)
 
-- **Aggiornamento del progetto Glasswing di Anthropic**  
-  Fonte: Schneier on Security, 08 Jun 2026, 11:01:47 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html>)
 
-- **VerdantBamboo distribuisce la variante BSD di BRICKSTORM su dispositivi Linux**  
-  Fonte: The Hacker News, 08 Jun 2026, 10:27:32 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html>)
-
-- **UNC3753 Utilizzo di vishing e intrusioni fisiche nella campagna di estorsione per furto di dati negli Stati Uniti**  
-  Fonte: The Hacker News, 08 Jun 2026, 07:39:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html>)
-
-- **VS Code aggiunge un ritardo di aggiornamento automatico dell'estensione di 2 ore per limitare gli attacchi alla catena di fornitura**  
-  Fonte: The Hacker News, 08 Jun 2026, 06:08:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-14 09:19:29 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-15 11:46:50 UTC -->
