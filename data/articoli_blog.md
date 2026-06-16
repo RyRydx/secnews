@@ -2,6 +2,114 @@
 
 ## Ultimi 7 giorni
 
+- **CISA avverte di un'altra falla del plug-in cPanel sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 16 Jun 2026, 10:47:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/>)
+
+- **Gli aggressori sfruttano tre difetti di Fortinet FortiSandbox, uno dei quali è stato corretto la scorsa settimana**  
+  Fonte: The Hacker News, 16 Jun 2026, 10:30:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html>)
+
+- **Una banda di ransomware abusa dei relè di Microsoft Teams per nascondere il traffico dannoso**  
+  Fonte: BleepingComputer, 16 Jun 2026, 10:18:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/>)
+
+- **La backdoor SprySOCKS collegata alla Cina si espande a Windows con la funzionalità stealth basata su driver**  
+  Fonte: The Hacker News, 16 Jun 2026, 09:44:34 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html>)
+
+- **Difetti critici di Fortinet FortiSandbox ora sfruttati negli attacchi**  
+  Fonte: BleepingComputer, 16 Jun 2026, 09:19:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/>)
+
+- **Versione Windows del malware SprySOCKS Linux utilizzato per attaccare le organizzazioni governative**  
+  Fonte: BleepingComputer, 16 Jun 2026, 09:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/>)
+
+- **Avvisi Microsoft falsi utilizzati per distribuire il malware NarwhalRAT nordcoreano**  
+  Fonte: The Hacker News, 16 Jun 2026, 08:14:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html>)
+
+- **iRhythm rivela una violazione dei dati, afferma che gli hacker hanno rubato le informazioni dei pazienti**  
+  Fonte: BleepingComputer, 16 Jun 2026, 06:31:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/>)
+
+- **Cisco rilascia aggiornamenti di sicurezza per il difetto di SD-WAN Manager sfruttato attivamente**  
+  Fonte: The Hacker News, 16 Jun 2026, 06:05:58 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html>)
+
+- **CISA segnala un difetto del plug-in cPanel LiteSpeed ​​sfruttato per l'escalation dei privilegi di root**  
+  Fonte: The Hacker News, 16 Jun 2026, 05:41:52 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html>)
+
+- **Il DOJ sequestra i siti di nudo deepfake CFAKE e SOCFAKE ai sensi della legge TAKE IT DOWN**  
+  Fonte: BleepingComputer, 15 Jun 2026, 21:56:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/>)
+
+- **Il bug di SimpleHelp consente agli hacker di creare account di supporto remoto non autorizzati**  
+  Fonte: BleepingComputer, 15 Jun 2026, 20:06:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/>)
+
+- **Gli hacker cinesi hanno abusato delle regole di Google Workspace per rubare email di ricerca e difesa**  
+  Fonte: The Hacker News, 15 Jun 2026, 19:44:06 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html>)
+
+- **Gli hacker nordcoreani stanno trasformando gli strumenti per sviluppatori in canali di distribuzione di malware**  
+  Fonte: The Hacker News, 15 Jun 2026, 19:32:52 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html>)
+
+- **Il plug-in WordPress OptinMonster è stato violato durante un attacco alla catena di fornitura CDN**  
+  Fonte: BleepingComputer, 15 Jun 2026, 17:37:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/>)
+
+- **Cisco risolve il difetto SD-WAN vManage sfruttato negli attacchi zero-day**  
+  Fonte: BleepingComputer, 15 Jun 2026, 17:12:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/>)
+
+- **La catena di vulnerabilità LiteLLM consente agli utenti con privilegi limitati di assumere il controllo dei server gateway AI**  
+  Fonte: The Hacker News, 15 Jun 2026, 16:39:01 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html>)
+
+- **Il Consiglio d'Europa indaga sulle denunce di violazione dei dati di ShinyHunters**  
+  Fonte: BleepingComputer, 15 Jun 2026, 16:37:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/>)
+
+- **FBI: i truffatori utilizzano corrieri per rubare denaro nelle truffe crittografiche**  
+  Fonte: BleepingComputer, 15 Jun 2026, 15:30:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/>)
+
+- **Il difetto del copilota Microsoft 365 con un clic avrebbe potuto consentire agli aggressori di rubare e-mail, file e codici MFA**  
+  Fonte: The Hacker News, 15 Jun 2026, 15:09:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html>)
+
+- **I Vibe Coder viberanno il codice: come i CISO stanno affrontando la proliferazione del codice**  
+  Fonte: BleepingComputer, 15 Jun 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/>)
+
+- **Gli hacker cinesi violano i server REDCap e rubano la ricerca medica**  
+  Fonte: BleepingComputer, 15 Jun 2026, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/>)
+
+- **⚡ Riepilogo settimanale: Chrome 0-Day, exploit UniFi, macOS Stealer, difetti VPN e altro**  
+  Fonte: The Hacker News, 15 Jun 2026, 13:49:29 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html>)
+
+- **Il Maine è costretto a chiudere il portale di violazione dei dati dopo falsi avvisi presentati alle autorità**  
+  Fonte: Graham Cluley, 15 Jun 2026, 13:23:44 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/maine-take-down-data-breach-portal>)
+
+- **Un nuovo attacco ha trasformato Microsoft 365 Copilot in uno strumento per il furto di dati con un solo clic**  
+  Fonte: BleepingComputer, 15 Jun 2026, 13:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/>)
+
+- **La violazione infinita dei dati del campus colpisce 137.000 account del personale scolastico**  
+  Fonte: BleepingComputer, 15 Jun 2026, 12:38:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/>)
+
+- **L'errore della password di onboarding che crea rischi inutili**  
+  Fonte: The Hacker News, 15 Jun 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html>)
+
 - **152 estensioni per sfondi Chrome con 105.000 installazioni collegate ad adware e traffico falso**  
   Fonte: The Hacker News, 15 Jun 2026, 11:07:50 UTC  
   [Leggi](<https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html>)
@@ -30,25 +138,9 @@
   Fonte: Schneier on Security, 14 Jun 2026, 16:07:31 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html>)
 
-- **L'FBI interrompe un massiccio servizio di phishing basato sull'intelligenza artificiale utilizzando un milione di URL**  
-  Fonte: BleepingComputer, 14 Jun 2026, 14:36:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/>)
-
-- **Ex dipendente del distretto scolastico incarcerato per aver hackerato l'ex datore di lavoro**  
-  Fonte: BleepingComputer, 13 Jun 2026, 20:53:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/>)
-
-- **Hacker cinesi dirottano il flusso di autenticazione e spiano reti isolate per un decennio**  
-  Fonte: BleepingComputer, 13 Jun 2026, 14:06:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/>)
-
 - **Il difetto critico di Splunk Enterprise consente agli aggressori di eseguire codice senza autenticazione**  
   Fonte: The Hacker News, 13 Jun 2026, 13:23:03 UTC  
   [Leggi](<https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html>)
-
-- **Il governatore degli Stati Uniti chiede ad Anthropic di vietare l'accesso "nazionale straniero" a Fable e Mythos**  
-  Fonte: BleepingComputer, 13 Jun 2026, 10:01:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/>)
 
 - **Gli Stati Uniti ordinano ad Anthropic di sospendere l'accesso a Fable 5 e Mythos 5 per i cittadini stranieri**  
   Fonte: The Hacker News, 13 Jun 2026, 05:42:50 UTC  
@@ -57,10 +149,6 @@
 - **Blogging sui calamari del venerdì: pompa del fluido ispirata ai calamari**  
   Fonte: Schneier on Security, 12 Jun 2026, 21:05:03 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html>)
-
-- **Il Maine disabilita il portale di notifica della violazione dei dati dopo false divulgazioni**  
-  Fonte: BleepingComputer, 12 Jun 2026, 19:33:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/>)
 
 - **Oltre 400 pacchetti AUR di Arch Linux violati per distribuire Infostealer e eBPF Rootkit**  
   Fonte: The Hacker News, 12 Jun 2026, 19:33:25 UTC  
@@ -74,33 +162,13 @@
   Fonte: Graham Cluley, 12 Jun 2026, 18:48:06 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/privacy-own-goal-world-cup-blunder-leaks-lionel-messis-passport-details>)
 
-- **Il forum phpBB risolve il bug di bypass dell'autenticazione rimasto in agguato per un decennio**  
-  Fonte: BleepingComputer, 12 Jun 2026, 18:19:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/>)
-
 - **Gli hacker legati alla Cina hanno creato backdoor per nascondere il software di login di Linux per quasi un decennio**  
   Fonte: The Hacker News, 12 Jun 2026, 18:17:55 UTC  
   [Leggi](<https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html>)
 
-- **Un cittadino ucraino si dichiara colpevole di ruolo nell'operazione ransomware Conti**  
-  Fonte: BleepingComputer, 12 Jun 2026, 17:54:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/>)
-
-- **Oltre 400 pacchetti Arch Linux compromessi da push rootkit e infostealer**  
-  Fonte: BleepingComputer, 12 Jun 2026, 17:03:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/>)
-
-- **I primi segnali di allarme di attacchi alla catena di fornitura si trovano nel Dark Web**  
-  Fonte: BleepingComputer, 12 Jun 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/>)
-
 - **L'attacco Agentjacking induce gli agenti di codifica AI a eseguire codici dannosi**  
   Fonte: The Hacker News, 12 Jun 2026, 12:04:33 UTC  
   [Leggi](<https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html>)
-
-- **Microsoft risolve gli errori di aggiornamento di Windows collegati al programma di installazione WUSA**  
-  Fonte: BleepingComputer, 12 Jun 2026, 11:44:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/>)
 
 - **Il piano del fondo sovrano AI di Bernie Sanders**  
   Fonte: Schneier on Security, 12 Jun 2026, 11:03:17 UTC  
@@ -110,10 +178,6 @@
   Fonte: The Hacker News, 12 Jun 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html>)
 
-- **Il colosso farmaceutico Novo Nordisk rivela la violazione dei dati degli studi clinici**  
-  Fonte: BleepingComputer, 12 Jun 2026, 10:13:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/>)
-
 - **LangGraph Flaw Chain espone gli agenti AI self-hosted all'esecuzione di codice in modalità remota**  
   Fonte: The Hacker News, 12 Jun 2026, 09:50:36 UTC  
   [Leggi](<https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html>)
@@ -122,25 +186,9 @@
   Fonte: The Hacker News, 12 Jun 2026, 08:52:55 UTC  
   [Leggi](<https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html>)
 
-- **La CISA ordina ai federali di applicare una patch alla falla di Ivanti sfruttata attivamente entro domenica**  
-  Fonte: BleepingComputer, 12 Jun 2026, 08:26:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/>)
-
-- **Oltre 73.000 dipendenti pubblici francesi sono stati colpiti dalla violazione del servizio di messaggistica Tchap**  
-  Fonte: BleepingComputer, 12 Jun 2026, 07:09:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/>)
-
 - **Europol interrompe il servizio di riciclaggio di criptovalute AudiA6 utilizzato dalle bande di ransomware**  
   Fonte: The Hacker News, 12 Jun 2026, 06:38:41 UTC  
   [Leggi](<https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html>)
-
-- **L'azienda energetica giapponese perde terreno con 10,9 milioni di clienti**  
-  Fonte: BleepingComputer, 11 Jun 2026, 23:14:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/>)
-
-- **Portale di violazione del Maine abusato per pubblicare false dichiarazioni sulla violazione dei dati**  
-  Fonte: BleepingComputer, 11 Jun 2026, 22:44:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/>)
 
 - **ShinyHunters sfrutta Oracle PeopleSoft Zero-Day (CVE-2026-35273) per violare le università**  
   Fonte: The Hacker News, 11 Jun 2026, 20:29:23 UTC  
@@ -278,57 +326,5 @@
   Fonte: The Hacker News, 09 Jun 2026, 11:58:49 UTC  
   [Leggi](<https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html>)
 
-- **Il rischio nascosto per la sicurezza nelle reti moderne: il lavoro tra gli strumenti**  
-  Fonte: The Hacker News, 09 Jun 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html>)
 
-- **Il nuovo attacco FROST consente ai siti Web di tenere traccia dei siti e delle app aperti tramite la temporizzazione SSD**  
-  Fonte: The Hacker News, 09 Jun 2026, 09:50:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html>)
-
-- **Attacco Hades PyPI: 19 pacchetti avvelenati per il furto di credenziali Bun ad esecuzione automatica**  
-  Fonte: The Hacker News, 09 Jun 2026, 09:13:32 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html>)
-
-- **LiteLLM Flaw CVE-2026-42271 Sfruttato in natura, catene a RCE non autenticato**  
-  Fonte: The Hacker News, 09 Jun 2026, 06:26:14 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html>)
-
-- **Difendersi dai modelli informatici di frontiera: l'architettura di Cloudflare come cliente zero**  
-  Fonte: Cloudflare Blog - Security, 09 Jun 2026, 06:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/frontier-model-defense/>)
-
-- **Il difetto del kernel Linux di un carattere consente l'accesso root locale, gli exploit sono ora pubblici**  
-  Fonte: The Hacker News, 08 Jun 2026, 20:17:39 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html>)
-
-- **Meta Blocks il nuovo attacco di phishing su WhatsApp del gruppo NSO, File Contempt Order**  
-  Fonte: The Hacker News, 08 Jun 2026, 17:08:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html>)
-
-- **Vulnerabilità critica di Zcash trovata e risolta**  
-  Fonte: Schneier on Security, 08 Jun 2026, 17:06:53 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html>)
-
-- **Sfruttato un difetto critico della VPN Check Point per bypassare le password nelle configurazioni IKEv1**  
-  Fonte: The Hacker News, 08 Jun 2026, 14:17:39 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html>)
-
-- **Il phishing basato sull'intelligenza artificiale sta schiacciando i SOC con il volume degli avvisi: come ridurre il sovraccarico del livello 1**  
-  Fonte: The Hacker News, 08 Jun 2026, 13:19:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html>)
-
-- **⚡ Riepilogo settimanale: hack dell'account Instagram, Android Zero-Day, GitHub Worm e altro ancora**  
-  Fonte: The Hacker News, 08 Jun 2026, 13:18:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html>)
-
-- **Trasformare gli indicatori di minaccia di Cloudflare in regole WAF in tempo reale**  
-  Fonte: Cloudflare Blog - Security, 08 Jun 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/realtime-threat-intel-waf-rules/>)
-
-- **La forchetta più difficile**  
-  Fonte: The Hacker News, 08 Jun 2026, 11:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/the-hardest-fork.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-15 11:46:50 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-16 10:54:52 UTC -->
