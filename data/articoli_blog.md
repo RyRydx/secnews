@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **La CISA ordina ai federali di correggere il difetto massimo del plugin Joomla entro venerdì**  
+  Fonte: BleepingComputer, 17 Jun 2026, 10:09:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/>)
+
+- **I plugin JetBrains dannosi rubano le chiavi API AI mentre le estensioni di Chrome catturano le chat di Chatbot**  
+  Fonte: The Hacker News, 17 Jun 2026, 09:38:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html>)
+
+- **Microsoft al lavoro sulla patch Defender per RoguePlanet zero-day**  
+  Fonte: BleepingComputer, 17 Jun 2026, 08:32:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/>)
+
+- **144 pacchetti Mastra npm compromessi tramite l'account collaboratore compromesso**  
+  Fonte: The Hacker News, 17 Jun 2026, 07:38:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html>)
+
+- **Kodak conferma la violazione dei dati rivendicata dalla banda di estorsori ShinyHunters**  
+  Fonte: BleepingComputer, 17 Jun 2026, 07:07:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/>)
+
+- **CISA avverte di un difetto JCE di Joomla attivamente sfruttato che consente l'esecuzione di codice PHP**  
+  Fonte: The Hacker News, 17 Jun 2026, 05:50:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html>)
+
+- **I plugin dannosi di JetBrains Marketplace rubano le chiavi API AI dagli sviluppatori**  
+  Fonte: BleepingComputer, 16 Jun 2026, 21:54:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/>)
+
+- **Il nuovo malware Android Rokarolla prende di mira 217 app bancarie e crittografiche**  
+  Fonte: BleepingComputer, 16 Jun 2026, 20:04:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/>)
+
+- **Il difetto dell'SDK AI di Google Vertex consente agli aggressori di dirottare i caricamenti dei modelli tramite Bucket Squatting**  
+  Fonte: The Hacker News, 16 Jun 2026, 19:05:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html>)
+
+- **Steam Workshop ha abusato di diffondere malware tramite l'app Wallpaper Engine**  
+  Fonte: BleepingComputer, 16 Jun 2026, 18:27:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/>)
+
+- **Le campagne ClickFix espandono la diffusione del malware con nuovi caricatori e esche di aggiornamento false**  
+  Fonte: The Hacker News, 16 Jun 2026, 17:41:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html>)
+
+- **Il Regno Unito richiederà la scansione del documento d'identità o del volto prima di poter creare account sui social media**  
+  Fonte: BleepingComputer, 16 Jun 2026, 14:38:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/>)
+
+- **GhostTree attacca le giunzioni ricorsive di Windows per nascondere malware**  
+  Fonte: BleepingComputer, 16 Jun 2026, 14:17:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/>)
+
+- **La FTC avverte di perdite record di 3,5 miliardi di dollari a causa delle truffe degli impostori nel 2025**  
+  Fonte: BleepingComputer, 16 Jun 2026, 13:42:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/>)
+
+- **Il nuovo malware Android Rokarolla ruba PIN, codici SMS e fondi del portafoglio crittografico**  
+  Fonte: The Hacker News, 16 Jun 2026, 13:10:17 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html>)
+
+- **Sondaggio: il 94% degli incidenti coinvolge infrastrutture anonime.Le squadre sono ancora reattive**  
+  Fonte: The Hacker News, 16 Jun 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html>)
+
+- **Le telecamere dello stormo vengono utilizzate per stalking**  
+  Fonte: Schneier on Security, 16 Jun 2026, 11:03:31 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html>)
+
 - **CISA avverte di un'altra falla del plug-in cPanel sfruttata negli attacchi**  
   Fonte: BleepingComputer, 16 Jun 2026, 10:47:59 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/>)
@@ -46,10 +114,6 @@
   Fonte: BleepingComputer, 15 Jun 2026, 21:56:55 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/>)
 
-- **Il bug di SimpleHelp consente agli hacker di creare account di supporto remoto non autorizzati**  
-  Fonte: BleepingComputer, 15 Jun 2026, 20:06:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/>)
-
 - **Gli hacker cinesi hanno abusato delle regole di Google Workspace per rubare email di ricerca e difesa**  
   Fonte: The Hacker News, 15 Jun 2026, 19:44:06 UTC  
   [Leggi](<https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html>)
@@ -58,37 +122,13 @@
   Fonte: The Hacker News, 15 Jun 2026, 19:32:52 UTC  
   [Leggi](<https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html>)
 
-- **Il plug-in WordPress OptinMonster è stato violato durante un attacco alla catena di fornitura CDN**  
-  Fonte: BleepingComputer, 15 Jun 2026, 17:37:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/>)
-
-- **Cisco risolve il difetto SD-WAN vManage sfruttato negli attacchi zero-day**  
-  Fonte: BleepingComputer, 15 Jun 2026, 17:12:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/>)
-
 - **La catena di vulnerabilità LiteLLM consente agli utenti con privilegi limitati di assumere il controllo dei server gateway AI**  
   Fonte: The Hacker News, 15 Jun 2026, 16:39:01 UTC  
   [Leggi](<https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html>)
 
-- **Il Consiglio d'Europa indaga sulle denunce di violazione dei dati di ShinyHunters**  
-  Fonte: BleepingComputer, 15 Jun 2026, 16:37:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/>)
-
-- **FBI: i truffatori utilizzano corrieri per rubare denaro nelle truffe crittografiche**  
-  Fonte: BleepingComputer, 15 Jun 2026, 15:30:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/>)
-
 - **Il difetto del copilota Microsoft 365 con un clic avrebbe potuto consentire agli aggressori di rubare e-mail, file e codici MFA**  
   Fonte: The Hacker News, 15 Jun 2026, 15:09:05 UTC  
   [Leggi](<https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html>)
-
-- **I Vibe Coder viberanno il codice: come i CISO stanno affrontando la proliferazione del codice**  
-  Fonte: BleepingComputer, 15 Jun 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/>)
-
-- **Gli hacker cinesi violano i server REDCap e rubano la ricerca medica**  
-  Fonte: BleepingComputer, 15 Jun 2026, 14:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/>)
 
 - **⚡ Riepilogo settimanale: Chrome 0-Day, exploit UniFi, macOS Stealer, difetti VPN e altro**  
   Fonte: The Hacker News, 15 Jun 2026, 13:49:29 UTC  
@@ -97,14 +137,6 @@
 - **Il Maine è costretto a chiudere il portale di violazione dei dati dopo falsi avvisi presentati alle autorità**  
   Fonte: Graham Cluley, 15 Jun 2026, 13:23:44 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/maine-take-down-data-breach-portal>)
-
-- **Un nuovo attacco ha trasformato Microsoft 365 Copilot in uno strumento per il furto di dati con un solo clic**  
-  Fonte: BleepingComputer, 15 Jun 2026, 13:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/>)
-
-- **La violazione infinita dei dati del campus colpisce 137.000 account del personale scolastico**  
-  Fonte: BleepingComputer, 15 Jun 2026, 12:38:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/>)
 
 - **L'errore della password di onboarding che crea rischi inutili**  
   Fonte: The Hacker News, 15 Jun 2026, 11:30:00 UTC  
@@ -270,61 +302,5 @@
   Fonte: The Hacker News, 10 Jun 2026, 10:27:49 UTC  
   [Leggi](<https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html>)
 
-- **Le patch Microsoft registrano 206 difetti, inclusi tre zero-day e bug RCE critici**  
-  Fonte: The Hacker News, 10 Jun 2026, 09:38:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html>)
 
-- **Anthropic rilascia Claude Fable 5, la sua intelligenza artificiale più potente di sempre, con protezioni informatiche**  
-  Fonte: The Hacker News, 10 Jun 2026, 07:37:59 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html>)
-
-- **Sfruttamento di un difetto in ServiceNow per ottenere l'accesso non autorizzato alle istanze del cliente**  
-  Fonte: The Hacker News, 10 Jun 2026, 07:02:08 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html>)
-
-- **Aggiornamento settimanale 507**  
-  Fonte: Troy Hunt, 10 Jun 2026, 05:31:56 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-507/>)
-
-- **Microsoft Defender RoguePlanet Zero-Day garantisce l'accesso al SISTEMA su Windows aggiornato**  
-  Fonte: The Hacker News, 10 Jun 2026, 05:22:01 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html>)
-
-- **Sei vulnerabilità Proto6 in protobuf.js espongono le app Node.js a RCE e DoS**  
-  Fonte: The Hacker News, 10 Jun 2026, 05:08:35 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html>)
-
-- **Un Patch Tuesday da record per giugno 2026**  
-  Fonte: Krebs on Security, 09 Jun 2026, 22:07:28 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/>)
-
-- **Meta per utilizzare i dati aziendali off-site per la personalizzazione dei feed e dell'intelligenza artificiale**  
-  Fonte: The Hacker News, 09 Jun 2026, 17:03:58 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html>)
-
-- **Il difetto RCE di Veeam Backup & Replication consente agli utenti del dominio di eseguire codice remoto**  
-  Fonte: The Hacker News, 09 Jun 2026, 16:39:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html>)
-
-- **Microsoft ripristina alcuni repository GitHub, ne mantiene altri offline mentre la sonda Miasma continua**  
-  Fonte: The Hacker News, 09 Jun 2026, 16:34:52 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html>)
-
-- **GPS come piattaforma di distribuzione delle chiavi**  
-  Fonte: Schneier on Security, 09 Jun 2026, 15:06:49 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html>)
-
-- **Difetto WinRAR sfruttato dai gruppi allineati con la Russia per schierare Stealer in Ucraina**  
-  Fonte: The Hacker News, 09 Jun 2026, 12:26:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html>)
-
-- **I ricercatori costruiscono un worm AI autoreplicante che funziona interamente su modelli locali a peso aperto**  
-  Fonte: The Hacker News, 09 Jun 2026, 11:59:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html>)
-
-- **Chrome V8 Zero-Day CVE-2026-11645 sfruttato in natura - Patch ora**  
-  Fonte: The Hacker News, 09 Jun 2026, 11:58:49 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-16 10:54:52 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-17 10:25:51 UTC -->
