@@ -2,13 +2,65 @@
 
 ## Ultimi 7 giorni
 
+- **La perdita conferma che OpenAI sta testando un abbonamento ChatGPT for Science**  
+  Fonte: BleepingComputer, 18 Jun 2026, 01:30:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/>)
+
+- **Smashing Security podcast n. 472: L'intelligenza artificiale viene violata e BitLocker viene aggirato**  
+  Fonte: Graham Cluley, 17 Jun 2026, 23:10:17 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-472/>)
+
+- **Google utilizzerà gli indirizzi IP degli utenti del Regno Unito e dell'UE per la personalizzazione degli annunci**  
+  Fonte: BleepingComputer, 17 Jun 2026, 21:02:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/>)
+
+- **La campagna Crypto Clipper abusa di recensioni false, narratori AI e commenti di VirusTotal**  
+  Fonte: The Hacker News, 17 Jun 2026, 18:14:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html>)
+
+- **Microsoft conferma RoguePlanet Defender Zero-Day, afferma che la patch è in sviluppo**  
+  Fonte: The Hacker News, 17 Jun 2026, 17:36:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html>)
+
+- **Junior Hacker ha utilizzato Tailscale e OpenSSH per mantenere l'accesso dopo che il suo C2 è andato offline**  
+  Fonte: The Hacker News, 17 Jun 2026, 16:00:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html>)
+
+- **La fuga di FortiBleed espone le credenziali VPN Fortinet per 73.000 dispositivi.**  
+  Fonte: BleepingComputer, 17 Jun 2026, 15:12:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/>)
+
+- **La convalida dell'esposizione contraddittoria trasforma la visibilità della sicurezza in una definizione delle priorità sicura**  
+  Fonte: The Hacker News, 17 Jun 2026, 14:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html>)
+
+- **Perché i furti di account sono in aumento e come fermarli**  
+  Fonte: BleepingComputer, 17 Jun 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/>)
+
+- **I plugin JetBrains dannosi rubano le chiavi API AI mentre le estensioni di Chrome catturano le chat di Chatbot**  
+  Fonte: The Hacker News, 17 Jun 2026, 13:51:58 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html>)
+
+- **Il divieto indiano di Telegram ha colpito anche gli Emirati Arabi Uniti.Ecco come aggirare il problema**  
+  Fonte: BleepingComputer, 17 Jun 2026, 13:12:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/>)
+
+- **Microsoft conferma i problemi di avvio delle app di Office dopo gli aggiornamenti di giugno**  
+  Fonte: BleepingComputer, 17 Jun 2026, 11:54:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/>)
+
+- **Utilizzo dell'intelligenza artificiale da parte del governo degli Stati Uniti**  
+  Fonte: Schneier on Security, 17 Jun 2026, 11:04:04 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html>)
+
+- **Le 10 principali esposizioni alle superfici attaccate nel 2026**  
+  Fonte: The Hacker News, 17 Jun 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html>)
+
 - **La CISA ordina ai federali di correggere il difetto massimo del plugin Joomla entro venerdì**  
   Fonte: BleepingComputer, 17 Jun 2026, 10:09:24 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/>)
-
-- **I plugin JetBrains dannosi rubano le chiavi API AI mentre le estensioni di Chrome catturano le chat di Chatbot**  
-  Fonte: The Hacker News, 17 Jun 2026, 09:38:46 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html>)
 
 - **Microsoft al lavoro sulla patch Defender per RoguePlanet zero-day**  
   Fonte: BleepingComputer, 17 Jun 2026, 08:32:29 UTC  
@@ -70,37 +122,17 @@
   Fonte: Schneier on Security, 16 Jun 2026, 11:03:31 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html>)
 
-- **CISA avverte di un'altra falla del plug-in cPanel sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 16 Jun 2026, 10:47:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/>)
-
 - **Gli aggressori sfruttano tre difetti di Fortinet FortiSandbox, uno dei quali è stato corretto la scorsa settimana**  
   Fonte: The Hacker News, 16 Jun 2026, 10:30:41 UTC  
   [Leggi](<https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html>)
-
-- **Una banda di ransomware abusa dei relè di Microsoft Teams per nascondere il traffico dannoso**  
-  Fonte: BleepingComputer, 16 Jun 2026, 10:18:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/>)
 
 - **La backdoor SprySOCKS collegata alla Cina si espande a Windows con la funzionalità stealth basata su driver**  
   Fonte: The Hacker News, 16 Jun 2026, 09:44:34 UTC  
   [Leggi](<https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html>)
 
-- **Difetti critici di Fortinet FortiSandbox ora sfruttati negli attacchi**  
-  Fonte: BleepingComputer, 16 Jun 2026, 09:19:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/>)
-
-- **Versione Windows del malware SprySOCKS Linux utilizzato per attaccare le organizzazioni governative**  
-  Fonte: BleepingComputer, 16 Jun 2026, 09:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/>)
-
 - **Avvisi Microsoft falsi utilizzati per distribuire il malware NarwhalRAT nordcoreano**  
   Fonte: The Hacker News, 16 Jun 2026, 08:14:55 UTC  
   [Leggi](<https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html>)
-
-- **iRhythm rivela una violazione dei dati, afferma che gli hacker hanno rubato le informazioni dei pazienti**  
-  Fonte: BleepingComputer, 16 Jun 2026, 06:31:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/>)
 
 - **Cisco rilascia aggiornamenti di sicurezza per il difetto di SD-WAN Manager sfruttato attivamente**  
   Fonte: The Hacker News, 16 Jun 2026, 06:05:58 UTC  
@@ -109,10 +141,6 @@
 - **CISA segnala un difetto del plug-in cPanel LiteSpeed ​​sfruttato per l'escalation dei privilegi di root**  
   Fonte: The Hacker News, 16 Jun 2026, 05:41:52 UTC  
   [Leggi](<https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html>)
-
-- **Il DOJ sequestra i siti di nudo deepfake CFAKE e SOCFAKE ai sensi della legge TAKE IT DOWN**  
-  Fonte: BleepingComputer, 15 Jun 2026, 21:56:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/>)
 
 - **Gli hacker cinesi hanno abusato delle regole di Google Workspace per rubare email di ricerca e difesa**  
   Fonte: The Hacker News, 15 Jun 2026, 19:44:06 UTC  
@@ -258,49 +286,5 @@
   Fonte: Schneier on Security, 11 Jun 2026, 11:01:19 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html>)
 
-- **OceanLotus colpisce gli investitori vietnamiti con SPECTRALVIPER in FireAnt Attack**  
-  Fonte: The Hacker News, 11 Jun 2026, 09:45:58 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html>)
 
-- **GitHub disabiliterà gli script di installazione npm per impostazione predefinita per fermare gli attacchi alla catena di fornitura**  
-  Fonte: The Hacker News, 11 Jun 2026, 06:23:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html>)
-
-- **Podcast #471 di Smashing Security: Questo worm AI ha appena riscritto le proprie regole**  
-  Fonte: Graham Cluley, 10 Jun 2026, 23:15:08 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-471/>)
-
-- **La botnet JDY collegata alla Cina si espande a oltre 1.500 dispositivi per la ricognizione informatica**  
-  Fonte: The Hacker News, 10 Jun 2026, 16:08:42 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html>)
-
-- **Patch di rilascio di Ivanti, Fortinet e SAP per molteplici vulnerabilità critiche**  
-  Fonte: The Hacker News, 10 Jun 2026, 15:10:59 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html>)
-
-- **Vulnerabilità Langflow CVE-2026-5027 sfruttata per RCE non autenticato**  
-  Fonte: The Hacker News, 10 Jun 2026, 15:00:59 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html>)
-
-- **CISA aggiunge difetti Cisco, Chrome e Arista al catalogo KEV durante lo sfruttamento attivo**  
-  Fonte: The Hacker News, 10 Jun 2026, 14:44:29 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html>)
-
-- **Chi gestisce il gruppo ransomware “The Gentlemen”?**  
-  Fonte: Krebs on Security, 10 Jun 2026, 14:03:44 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/>)
-
-- **Perché le scuole rimangono uno degli obiettivi preferiti dei criminali informatici**  
-  Fonte: Graham Cluley, 10 Jun 2026, 13:18:27 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/why-schools-remain-one-of-cybercriminals-favourite-targets>)
-
-- **Il gruppo NSO ha hackerato WhatsApp nonostante l'ordinanza del tribunale**  
-  Fonte: Schneier on Security, 10 Jun 2026, 11:08:59 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html>)
-
-- **Il tuo Pentest automatizzato sembra pulito.Scopri cosa è mancato in questo webinar di esperti**  
-  Fonte: The Hacker News, 10 Jun 2026, 10:27:49 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-17 10:25:51 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-18 10:05:28 UTC -->
