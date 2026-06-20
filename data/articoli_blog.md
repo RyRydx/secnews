@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **L'elenco delle vittime delle violazioni di Klue OAuth cresce man mano che gli hacker di Icarus rivendicano l'attacco**  
+  Fonte: BleepingComputer, 19 Jun 2026, 22:31:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/>)
+
+- **Blog sui calamari del venerdì: vittime della pesca non regolamentata dei calamari**  
+  Fonte: Schneier on Security, 19 Jun 2026, 21:03:48 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html>)
+
+- **Gli hacker sfruttano il bug di divulgazione delle informazioni nel plugin WordPress Gravity SMTP**  
+  Fonte: BleepingComputer, 19 Jun 2026, 20:25:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/>)
+
+- **L'exploit "usbliter8" non aggiornabile interrompe la catena di avvio SecureROM di Apple A12 e A13**  
+  Fonte: The Hacker News, 19 Jun 2026, 18:37:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html>)
+
+- **Gentlemen RaaS utilizza il framework EDR GentleKiller mirato a 400 processi di sicurezza**  
+  Fonte: The Hacker News, 19 Jun 2026, 18:33:07 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html>)
+
+- **La violazione dei dati da parte del governo del Texas espone oltre 3 milioni di patenti di guida**  
+  Fonte: BleepingComputer, 19 Jun 2026, 16:12:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/>)
+
+- **La modifica Hide My Email di Apple lascia infuriati i fan della privacy**  
+  Fonte: Graham Cluley, 19 Jun 2026, 15:47:53 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/apples-hide-my-email-tweak-leaves-privacy-fans-fuming>)
+
+- **L'attacco AutoJack consente a una pagina Web di prendere il controllo dell'agente AI per l'esecuzione del codice host**  
+  Fonte: The Hacker News, 19 Jun 2026, 15:30:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html>)
+
+- **L'operazione Endgame interrompe i server SocGholish e pulisce 14.971 siti WordPress**  
+  Fonte: The Hacker News, 19 Jun 2026, 15:07:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html>)
+
+- **CISA avvisa i clienti Fortinet poiché FortiBleed ha colpito 86.644 dispositivi FortiGate**  
+  Fonte: The Hacker News, 19 Jun 2026, 14:00:21 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html>)
+
+- **Le truffe degli impostori costeranno agli americani 3,5 miliardi di dollari nel 2025 – e la situazione sta peggiorando**  
+  Fonte: Graham Cluley, 19 Jun 2026, 13:51:24 UTC  
+  [Leggi](<https://www.fortra.com/blog/imposter-scams-cost-americans-35-billion-2025-and-its-getting-worse>)
+
+- **Ogni agente AI è un'identità.La maggior parte delle organizzazioni non li tratta in questo modo**  
+  Fonte: BleepingComputer, 19 Jun 2026, 13:10:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/>)
+
+- **Webinar: come gli aggressori aggirano l'MFA e come i difensori possono rispondere**  
+  Fonte: BleepingComputer, 19 Jun 2026, 12:12:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/>)
+
+- **Da assistivo ad agente: il cambiamento dell'intelligenza artificiale che sta ridefinendo la gestione delle minacce**  
+  Fonte: The Hacker News, 19 Jun 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html>)
+
+- **Microsoft: gli aggiornamenti di Windows di giugno 2026 interrompono i messaggi del Cestino**  
+  Fonte: BleepingComputer, 19 Jun 2026, 11:32:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/>)
+
+- **La favola di Anthropic e lo stato dell’intelligenza artificiale**  
+  Fonte: Schneier on Security, 19 Jun 2026, 11:03:30 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html>)
+
+- **CISA: falla di Splunk Enterprise sfruttata attivamente, patch entro domenica**  
+  Fonte: BleepingComputer, 19 Jun 2026, 10:39:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/>)
+
+- **Dimentica la perdita di dati: la vera minaccia dell'intelligenza artificiale ombra è il controllo degli accessi**  
+  Fonte: The Hacker News, 19 Jun 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html>)
+
 - **Salesforce disabilita l'integrazione dell'app Klue dopo che l'abuso del token OAuth ha esposto i dati del cliente**  
   Fonte: The Hacker News, 19 Jun 2026, 09:03:57 UTC  
   [Leggi](<https://thehackernews.com/2026/06/salesforce-disables-klue-app.html>)
@@ -78,37 +150,9 @@
   Fonte: BleepingComputer, 18 Jun 2026, 13:25:47 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/>)
 
-- **Il flusso di aggiornamento di ShapedPlugin è stato violato per infettare i siti WordPress**  
-  Fonte: BleepingComputer, 18 Jun 2026, 12:55:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/>)
-
-- **La fuga di FortiBleed espone le credenziali VPN Fortinet per 73.000 dispositivi.**  
-  Fonte: BleepingComputer, 18 Jun 2026, 12:54:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/>)
-
-- **Apple risolve il difetto dei Beats Studio Buds che permetteva agli hacker di spiare le conversazioni**  
-  Fonte: BleepingComputer, 18 Jun 2026, 12:23:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/>)
-
-- **Telegram ammette di non essere riuscita a sorvegliare i canali di fuga degli esami, ha detto l'India alla corte**  
-  Fonte: BleepingComputer, 18 Jun 2026, 12:18:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/>)
-
-- **F5 rilascia patch fuori banda per le vulnerabilità critiche di NGINX**  
-  Fonte: BleepingComputer, 18 Jun 2026, 11:33:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/>)
-
 - **Incorporamento di testo proibito nello spyware per scoraggiare l'analisi dell'intelligenza artificiale**  
   Fonte: Schneier on Security, 18 Jun 2026, 11:04:01 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html>)
-
-- **Microsoft risolve gli errori di aggiornamento della sicurezza di Windows Server 2016**  
-  Fonte: BleepingComputer, 18 Jun 2026, 10:14:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/>)
-
-- **La perdita conferma che OpenAI sta testando un abbonamento ChatGPT for Science**  
-  Fonte: BleepingComputer, 18 Jun 2026, 01:30:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/>)
 
 - **Smashing Security podcast n. 472: L'intelligenza artificiale viene violata e BitLocker viene aggirato**  
   Fonte: Graham Cluley, 17 Jun 2026, 23:10:17 UTC  
@@ -250,41 +294,5 @@
   Fonte: The Hacker News, 13 Jun 2026, 13:23:03 UTC  
   [Leggi](<https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html>)
 
-- **Gli Stati Uniti ordinano ad Anthropic di sospendere l'accesso a Fable 5 e Mythos 5 per i cittadini stranieri**  
-  Fonte: The Hacker News, 13 Jun 2026, 05:42:50 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html>)
 
-- **Blogging sui calamari del venerdì: pompa del fluido ispirata ai calamari**  
-  Fonte: Schneier on Security, 12 Jun 2026, 21:05:03 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html>)
-
-- **Oltre 400 pacchetti AUR di Arch Linux violati per distribuire Infostealer e eBPF Rootkit**  
-  Fonte: The Hacker News, 12 Jun 2026, 19:33:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html>)
-
-- **Google fa causa alla rete cinese di smishing accusata di utilizzare l'intelligenza artificiale Gemini nel phishing**  
-  Fonte: The Hacker News, 12 Jun 2026, 18:59:32 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html>)
-
-- **Autogol sulla privacy: un errore della Coppa del Mondo fa trapelare i dettagli del passaporto di Lionel Messi**  
-  Fonte: Graham Cluley, 12 Jun 2026, 18:48:06 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/privacy-own-goal-world-cup-blunder-leaks-lionel-messis-passport-details>)
-
-- **Gli hacker legati alla Cina hanno creato backdoor per nascondere il software di login di Linux per quasi un decennio**  
-  Fonte: The Hacker News, 12 Jun 2026, 18:17:55 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html>)
-
-- **L'attacco Agentjacking induce gli agenti di codifica AI a eseguire codici dannosi**  
-  Fonte: The Hacker News, 12 Jun 2026, 12:04:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html>)
-
-- **Il piano del fondo sovrano AI di Bernie Sanders**  
-  Fonte: Schneier on Security, 12 Jun 2026, 11:03:17 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html>)
-
-- **Ripensare l’MDR mentre attaccanti e difensori abbracciano l’intelligenza artificiale**  
-  Fonte: The Hacker News, 12 Jun 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-19 10:13:14 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-20 08:40:56 UTC -->
