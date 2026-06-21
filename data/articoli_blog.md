@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Il nuovo ransomware Prinz Eugen dà la priorità ai file recenti per la crittografia**  
+  Fonte: BleepingComputer, 20 Jun 2026, 15:23:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/>)
+
+- **Microsoft collega l'attacco alla catena di fornitura Mastra AI agli hacker nordcoreani**  
+  Fonte: BleepingComputer, 20 Jun 2026, 14:09:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/>)
+
+- **Gli hacker sfruttano il bug del plugin WordPress Gravity SMTP per esporre le chiavi API**  
+  Fonte: The Hacker News, 20 Jun 2026, 09:56:04 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html>)
+
 - **L'elenco delle vittime delle violazioni di Klue OAuth cresce man mano che gli hacker di Icarus rivendicano l'attacco**  
   Fonte: BleepingComputer, 19 Jun 2026, 22:31:04 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/>)
@@ -138,17 +150,9 @@
   Fonte: The Hacker News, 18 Jun 2026, 13:58:39 UTC  
   [Leggi](<https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html>)
 
-- **5 motivi per cui il backup di Microsoft 365 non è sufficiente per la protezione dei dati aziendali**  
-  Fonte: BleepingComputer, 18 Jun 2026, 13:48:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/>)
-
 - **Gli hacker DragonForce abusano dei relè Microsoft Teams per nascondere il traffico Backdoor.Turn C2**  
   Fonte: The Hacker News, 18 Jun 2026, 13:30:07 UTC  
   [Leggi](<https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html>)
-
-- **La polizia pulisce quasi 15.000 siti infetti da SocGholish legati alla Evil Corp**  
-  Fonte: BleepingComputer, 18 Jun 2026, 13:25:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/>)
 
 - **Incorporamento di testo proibito nello spyware per scoraggiare l'analisi dell'intelligenza artificiale**  
   Fonte: Schneier on Security, 18 Jun 2026, 11:04:01 UTC  
@@ -290,9 +294,5 @@
   Fonte: Schneier on Security, 14 Jun 2026, 16:07:31 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html>)
 
-- **Il difetto critico di Splunk Enterprise consente agli aggressori di eseguire codice senza autenticazione**  
-  Fonte: The Hacker News, 13 Jun 2026, 13:23:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-06-20 08:40:56 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-21 09:35:27 UTC -->
