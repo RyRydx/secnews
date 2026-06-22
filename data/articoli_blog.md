@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **Atleti professionisti e dispositivi indossabili**  
+  Fonte: Schneier on Security, 22 Jun 2026, 11:02:55 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html>)
+
+- **L'agenzia di spionaggio canadese ha utilizzato un mandato unico nel suo genere per pulire i dispositivi infetti da botnet**  
+  Fonte: The Hacker News, 22 Jun 2026, 09:11:37 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html>)
+
+- **Il malware AryStinger infetta 4.300 router legacy per creare una rete proxy di ricognizione**  
+  Fonte: The Hacker News, 22 Jun 2026, 06:57:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html>)
+
+- **L'INTERPOL avverte che phishing, ransomware e truffe basate sull'intelligenza artificiale sono in aumento in tutta l'Asia-Pacifico**  
+  Fonte: The Hacker News, 22 Jun 2026, 06:06:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html>)
+
+- **La botnet AryStinger ha infettato migliaia di router D-Link in tutto il mondo**  
+  Fonte: BleepingComputer, 21 Jun 2026, 14:14:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/>)
+
 - **Il nuovo ransomware Prinz Eugen dà la priorità ai file recenti per la crittografia**  
   Fonte: BleepingComputer, 20 Jun 2026, 15:23:46 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/>)
@@ -86,7 +106,7 @@
   Fonte: The Hacker News, 19 Jun 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html>)
 
-- **Salesforce disabilita l'integrazione dell'app Klue dopo che l'abuso del token OAuth ha esposto i dati del cliente**  
+- **Salesforce disabilita l'integrazione dell'app Klue dopo che l'abuso del token OAuth ha esposto i dati dei clienti**  
   Fonte: The Hacker News, 19 Jun 2026, 09:03:57 UTC  
   [Leggi](<https://thehackernews.com/2026/06/salesforce-disables-klue-app.html>)
 
@@ -137,10 +157,6 @@
 - **Microsoft descrive dettagliatamente la campagna malware Windows Clipper che utilizza worm USB LNK e C2 basato su Tor**  
   Fonte: The Hacker News, 18 Jun 2026, 14:30:42 UTC  
   [Leggi](<https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html>)
-
-- **Violazione di Klue OAuth collegata agli attacchi di furto di dati di Salesforce "Icarus".**  
-  Fonte: BleepingComputer, 18 Jun 2026, 14:19:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/>)
 
 - **INC Ransomware emerge come la principale minaccia RaaS nel 2026 con oltre 830 vittime dal 2023**  
   Fonte: The Hacker News, 18 Jun 2026, 14:12:48 UTC  
@@ -262,37 +278,5 @@
   Fonte: Graham Cluley, 15 Jun 2026, 13:23:44 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/maine-take-down-data-breach-portal>)
 
-- **L'errore della password di onboarding che crea rischi inutili**  
-  Fonte: The Hacker News, 15 Jun 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html>)
 
-- **152 estensioni per sfondi Chrome con 105.000 installazioni collegate ad adware e traffico falso**  
-  Fonte: The Hacker News, 15 Jun 2026, 11:07:50 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html>)
-
-- **La FCC vuole eliminare i telefoni masterizzati**  
-  Fonte: Schneier on Security, 15 Jun 2026, 11:01:05 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/the-fcc-wants-to-eliminate-burner-phones.html>)
-
-- **Script popolari dei plugin WordPress manomessi per inserire backdoor nascoste sui siti**  
-  Fonte: The Hacker News, 15 Jun 2026, 09:59:38 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html>)
-
-- **Le truffe Sniper Dz prendono di mira gli utenti MENA tramite offerte Facebook false e avvisi del browser**  
-  Fonte: The Hacker News, 15 Jun 2026, 06:30:22 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html>)
-
-- **Palo Alto avverte dello sfruttamento attivo del difetto VPN PAN-OS GlobalProtect**  
-  Fonte: The Hacker News, 15 Jun 2026, 06:17:32 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html>)
-
-- **Aggiornamento settimanale 508**  
-  Fonte: Troy Hunt, 15 Jun 2026, 04:55:47 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-508/>)
-
-- **Prossimi impegni di conferenza**  
-  Fonte: Schneier on Security, 14 Jun 2026, 16:07:31 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-21 09:35:27 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-22 11:35:28 UTC -->
