@@ -2,6 +2,90 @@
 
 ## Ultimi 7 giorni
 
+- **Sfruttato un difetto di Cisco Unified CM dopo che PoC ha rivelato il percorso di scrittura dei file verso il root**  
+  Fonte: The Hacker News, 24 Jun 2026, 06:50:38 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html>)
+
+- **Aggiornamento settimanale 509**  
+  Fonte: Troy Hunt, 24 Jun 2026, 05:17:32 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-509/>)
+
+- **La falla CVE-2026-20230 di Cisco Unified CM ora viene sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 23 Jun 2026, 21:48:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/>)
+
+- **Tata Electronics conferma l'attacco informatico mentre gli hacker perdono dati**  
+  Fonte: BleepingComputer, 23 Jun 2026, 21:06:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/>)
+
+- **L'aggiornamento KB5095093 di Windows 11 introduce la nuova funzionalità di ripristino temporizzato**  
+  Fonte: BleepingComputer, 23 Jun 2026, 20:22:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/>)
+
+- **L’azienda di tecnologia sanitaria Xolis subisce una violazione dei dati che colpisce 1,4 milioni di persone**  
+  Fonte: BleepingComputer, 23 Jun 2026, 19:59:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/>)
+
+- **Il nuovo attacco ClickFix per macOS monta silenziosamente i DMG per spingere l'infostealer**  
+  Fonte: BleepingComputer, 23 Jun 2026, 18:30:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/>)
+
+- **L’EO post-quantistico è una pietra miliare importante.Ora è il momento di mettersi al lavoro**  
+  Fonte: Cloudflare Blog - Security, 23 Jun 2026, 18:25:18 UTC  
+  [Leggi](<https://blog.cloudflare.com/post-quantum-eo-2026/>)
+
+- **FortiBleed ha preso di mira i firewall FortiGate in un'operazione di raccolta di 110 milioni di credenziali**  
+  Fonte: The Hacker News, 23 Jun 2026, 18:20:49 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html>)
+
+- **Spider Hacker sparsi si dichiarano colpevoli nel primo giorno di processo**  
+  Fonte: Krebs on Security, 23 Jun 2026, 16:12:49 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/>)
+
+- **I membri sparsi di Spider si dichiarano colpevoli di aver hackerato Transport for London**  
+  Fonte: BleepingComputer, 23 Jun 2026, 15:31:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/>)
+
+- **L'abilità dell'agente IA falso ha superato le scansioni di sicurezza e, secondo quanto riferito, ha raggiunto 26.000 agenti**  
+  Fonte: The Hacker News, 23 Jun 2026, 15:16:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html>)
+
+- **L'ordine di Trump fissa la scadenza al 2030 per la migrazione federale delle criptovalute post-quantum**  
+  Fonte: The Hacker News, 23 Jun 2026, 15:16:40 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html>)
+
+- **GitHub Aggiorna azioni/checkout per bloccare i modelli di attacco comuni delle richieste Pwn**  
+  Fonte: The Hacker News, 23 Jun 2026, 14:22:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html>)
+
+- **L'exploit non esiste.Puoi ancora dimostrare che funziona contro di te**  
+  Fonte: BleepingComputer, 23 Jun 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/>)
+
+- **LastPass conferma la violazione dei dati nell'attacco alla catena di fornitura di Klue**  
+  Fonte: BleepingComputer, 23 Jun 2026, 13:58:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/>)
+
+- **Un hacker prende il controllo del sistema di allerta nazionale del Brasile, inviando “misantropia” a milioni di telefoni**  
+  Fonte: Graham Cluley, 23 Jun 2026, 12:16:15 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-hijacks-brazils-national-alert-system>)
+
+- **Webinar: Perché i team di sicurezza e-mail sono sommersi dagli avvisi**  
+  Fonte: BleepingComputer, 23 Jun 2026, 12:12:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/>)
+
+- **IA agentic: l'arma che non ha più bisogno di un guerriero**  
+  Fonte: The Hacker News, 23 Jun 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html>)
+
+- **Jailbreak del modello Fable 5 di Anthropic in pochi giorni**  
+  Fonte: Schneier on Security, 23 Jun 2026, 11:03:07 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html>)
+
+- **I pacchetti npm dannosi si presentano come strumenti PostCSS per fornire Windows RAT**  
+  Fonte: The Hacker News, 23 Jun 2026, 08:54:32 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html>)
+
 - **La campagna VBScript di WhatsApp utilizza documenti falsi per installare lo strumento ManageEngine RMM**  
   Fonte: The Hacker News, 23 Jun 2026, 05:38:40 UTC  
   [Leggi](<https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html>)
@@ -38,17 +122,13 @@
   Fonte: BleepingComputer, 22 Jun 2026, 17:28:57 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/>)
 
+- **Il bug proxy Squid di 29 anni "Squidbleed" può far trapelare richieste HTTP in chiaro**  
+  Fonte: The Hacker News, 22 Jun 2026, 16:29:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html>)
+
 - **I ricercatori descrivono in dettaglio i difetti di DifyTap in Dify che potrebbero esporre le chat AI tra tenant**  
   Fonte: The Hacker News, 22 Jun 2026, 16:13:28 UTC  
   [Leggi](<https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html>)
-
-- **Il bug proxy Squid di 29 anni "Squidbleed" può far trapelare richieste HTTP in chiaro**  
-  Fonte: The Hacker News, 22 Jun 2026, 14:29:46 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html>)
-
-- **Uno sguardo al mercato "Cerca il tuo target" per le credenziali rubate**  
-  Fonte: BleepingComputer, 22 Jun 2026, 14:05:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/>)
 
 - **Il nuovo caricatore OXLOADER utilizza annunci Google dannosi per fornire CastleStealer**  
   Fonte: The Hacker News, 22 Jun 2026, 13:20:12 UTC  
@@ -74,7 +154,7 @@
   Fonte: The Hacker News, 22 Jun 2026, 09:11:37 UTC  
   [Leggi](<https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html>)
 
-- **AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network**  
+- **Il malware AryStinger infetta 4.300 router legacy per creare una rete proxy di ricognizione**  
   Fonte: The Hacker News, 22 Jun 2026, 06:57:44 UTC  
   [Leggi](<https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html>)
 
@@ -82,33 +162,13 @@
   Fonte: The Hacker News, 22 Jun 2026, 06:06:53 UTC  
   [Leggi](<https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html>)
 
-- **La botnet AryStinger ha infettato migliaia di router D-Link in tutto il mondo**  
-  Fonte: BleepingComputer, 21 Jun 2026, 14:14:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/>)
-
-- **Il nuovo ransomware Prinz Eugen dà la priorità ai file recenti per la crittografia**  
-  Fonte: BleepingComputer, 20 Jun 2026, 15:23:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/>)
-
-- **Microsoft collega l'attacco alla catena di fornitura Mastra AI agli hacker nordcoreani**  
-  Fonte: BleepingComputer, 20 Jun 2026, 14:09:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/>)
-
 - **Gli hacker sfruttano il bug del plugin WordPress Gravity SMTP per esporre le chiavi API**  
   Fonte: The Hacker News, 20 Jun 2026, 09:56:04 UTC  
   [Leggi](<https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html>)
 
-- **L'elenco delle vittime delle violazioni di Klue OAuth cresce man mano che gli hacker di Icarus rivendicano l'attacco**  
-  Fonte: BleepingComputer, 19 Jun 2026, 22:31:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/>)
-
 - **Blog sui calamari del venerdì: vittime della pesca non regolamentata dei calamari**  
   Fonte: Schneier on Security, 19 Jun 2026, 21:03:48 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html>)
-
-- **Gli hacker sfruttano il bug di divulgazione delle informazioni nel plugin WordPress Gravity SMTP**  
-  Fonte: BleepingComputer, 19 Jun 2026, 20:25:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/>)
 
 - **L'exploit "usbliter8" non aggiornabile interrompe la catena di avvio SecureROM di Apple A12 e A13**  
   Fonte: The Hacker News, 19 Jun 2026, 18:37:41 UTC  
@@ -117,10 +177,6 @@
 - **Gentlemen RaaS utilizza il framework EDR GentleKiller mirato a 400 processi di sicurezza**  
   Fonte: The Hacker News, 19 Jun 2026, 18:33:07 UTC  
   [Leggi](<https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html>)
-
-- **La violazione dei dati da parte del governo del Texas espone oltre 3 milioni di patenti di guida**  
-  Fonte: BleepingComputer, 19 Jun 2026, 16:12:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/>)
 
 - **La modifica Hide My Email di Apple lascia infuriati i fan della privacy**  
   Fonte: Graham Cluley, 19 Jun 2026, 15:47:53 UTC  
@@ -141,14 +197,6 @@
 - **Le truffe degli impostori costeranno agli americani 3,5 miliardi di dollari nel 2025 – e la situazione sta peggiorando**  
   Fonte: Graham Cluley, 19 Jun 2026, 13:51:24 UTC  
   [Leggi](<https://www.fortra.com/blog/imposter-scams-cost-americans-35-billion-2025-and-its-getting-worse>)
-
-- **Ogni agente AI è un'identità.La maggior parte delle organizzazioni non li tratta in questo modo**  
-  Fonte: BleepingComputer, 19 Jun 2026, 13:10:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/>)
-
-- **Webinar: come gli aggressori aggirano l'MFA e come i difensori possono rispondere**  
-  Fonte: BleepingComputer, 19 Jun 2026, 12:12:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/>)
 
 - **Da assistivo ad agente: il cambiamento dell'intelligenza artificiale che sta ridefinendo la gestione delle minacce**  
   Fonte: The Hacker News, 19 Jun 2026, 11:58:00 UTC  
@@ -178,7 +226,7 @@
   Fonte: Krebs on Security, 18 Jun 2026, 17:37:58 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/>)
 
-- **F5 corregge due difetti critici open source di NGINX che consentono l'esecuzione di codice remoto**  
+- **F5 corregge due difetti critici open source NGINX che consentono l'esecuzione di codice remoto**  
   Fonte: The Hacker News, 18 Jun 2026, 17:32:14 UTC  
   [Leggi](<https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html>)
 
@@ -242,41 +290,5 @@
   Fonte: The Hacker News, 17 Jun 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html>)
 
-- **145 pacchetti Mastra npm compromessi tramite l'account collaboratore compromesso**  
-  Fonte: The Hacker News, 17 Jun 2026, 07:38:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html>)
 
-- **CISA avverte di un difetto JCE di Joomla attivamente sfruttato che consente l'esecuzione di codice PHP**  
-  Fonte: The Hacker News, 17 Jun 2026, 05:50:46 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html>)
-
-- **Il difetto dell'SDK AI di Google Vertex consente agli aggressori di dirottare i caricamenti dei modelli tramite Bucket Squatting**  
-  Fonte: The Hacker News, 16 Jun 2026, 19:05:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html>)
-
-- **Le campagne ClickFix espandono la diffusione del malware con nuovi caricatori e esche di aggiornamento false**  
-  Fonte: The Hacker News, 16 Jun 2026, 17:41:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html>)
-
-- **Il nuovo malware Android Rokarolla ruba PIN, codici SMS e fondi del portafoglio crittografico**  
-  Fonte: The Hacker News, 16 Jun 2026, 13:10:17 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html>)
-
-- **Sondaggio: il 94% degli incidenti coinvolge infrastrutture anonime.Le squadre sono ancora reattive**  
-  Fonte: The Hacker News, 16 Jun 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html>)
-
-- **Le telecamere dello stormo vengono utilizzate per stalking**  
-  Fonte: Schneier on Security, 16 Jun 2026, 11:03:31 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html>)
-
-- **Gli aggressori sfruttano tre difetti di Fortinet FortiSandbox, uno dei quali è stato corretto la scorsa settimana**  
-  Fonte: The Hacker News, 16 Jun 2026, 10:30:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html>)
-
-- **La backdoor SprySOCKS collegata alla Cina si espande a Windows con la funzionalità stealth basata su driver**  
-  Fonte: The Hacker News, 16 Jun 2026, 09:44:34 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-23 08:59:40 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-24 08:53:39 UTC -->
