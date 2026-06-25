@@ -2,9 +2,77 @@
 
 ## Ultimi 7 giorni
 
+- **Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 sfruttato per ottenere l'accesso root**  
+  Fonte: The Hacker News, 25 Jun 2026, 05:46:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html>)
+
+- **Google rilascia nuovi controlli sulla privacy per cronologia attività e personalizzazione**  
+  Fonte: BleepingComputer, 24 Jun 2026, 23:46:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/>)
+
+- **Podcast di Smashing Security n. 473: Come un hacker avrebbe potuto eseguire il Rickroll dell'intera Coppa del Mondo**  
+  Fonte: Graham Cluley, 24 Jun 2026, 23:10:57 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-473/>)
+
+- **L'hacker di DraftKings "Snoopy" condannato a 18 mesi di prigione**  
+  Fonte: BleepingComputer, 24 Jun 2026, 21:55:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/>)
+
+- **Mandiant rivela come gli attacchi zero-day Cisco SD-WAN abbiano ottenuto l'accesso root**  
+  Fonte: BleepingComputer, 24 Jun 2026, 21:29:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/>)
+
+- **L'estensione Malicious Edge sfrutta la messaggistica nativa come ponte verso il malware**  
+  Fonte: BleepingComputer, 24 Jun 2026, 20:58:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/>)
+
+- **CISA avverte che il difetto critico del Lantronix EDS5000 viene attivamente sfruttato**  
+  Fonte: The Hacker News, 24 Jun 2026, 17:19:18 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html>)
+
+- **Rete malware Amadey e StealC interrotta, recuperate 27 milioni di credenziali rubate**  
+  Fonte: The Hacker News, 24 Jun 2026, 15:59:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html>)
+
+- **CISA avverte della massima gravità delle falle Ubiquiti sfruttate negli attacchi**  
+  Fonte: BleepingComputer, 24 Jun 2026, 14:35:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/>)
+
+- **Amadey, operazioni malware StealC interrotte nell'azione Operation Endgame**  
+  Fonte: BleepingComputer, 24 Jun 2026, 14:35:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/>)
+
+- **Protezione del service desk: perché gli attacchi di ingegneria sociale continuano ad avere successo**  
+  Fonte: BleepingComputer, 24 Jun 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/>)
+
+- **I difetti CI/CD del Cordyceps espongono oltre 300 repository GitHub agli attacchi alla catena di fornitura**  
+  Fonte: The Hacker News, 24 Jun 2026, 12:48:11 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html>)
+
+- **L'alba dell'avversario agente Apex**  
+  Fonte: The Hacker News, 24 Jun 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html>)
+
+- **Incorporamento di testo proibito nello spyware per scoraggiare l'analisi dell'intelligenza artificiale**  
+  Fonte: Schneier on Security, 24 Jun 2026, 11:03:10 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis-2.html>)
+
+- **Backdoor Stealthy Mistic collegata al broker di accesso ransomware KongTuke**  
+  Fonte: BleepingComputer, 24 Jun 2026, 10:41:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/>)
+
+- **Il Dipartimento di Giustizia sequestra l'account cloud Huione legato al riciclaggio di denaro tramite truffe informatiche**  
+  Fonte: The Hacker News, 24 Jun 2026, 08:55:12 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html>)
+
 - **Sfruttato un difetto di Cisco Unified CM dopo che PoC ha rivelato il percorso di scrittura dei file verso il root**  
   Fonte: The Hacker News, 24 Jun 2026, 06:50:38 UTC  
   [Leggi](<https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html>)
+
+- **Sbloccare l'ecosistema delle app Cloudflare con OAuth per tutti**  
+  Fonte: Cloudflare Blog - Security, 24 Jun 2026, 06:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/oauth-for-all/>)
 
 - **Aggiornamento settimanale 509**  
   Fonte: Troy Hunt, 24 Jun 2026, 05:17:32 UTC  
@@ -18,7 +86,7 @@
   Fonte: BleepingComputer, 23 Jun 2026, 21:06:32 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/>)
 
-- **L'aggiornamento KB5095093 di Windows 11 introduce la nuova funzionalità di ripristino temporizzato**  
+- **L'aggiornamento KB5095093 di Windows 11 introduce una nuova funzionalità di ripristino temporizzato**  
   Fonte: BleepingComputer, 23 Jun 2026, 20:22:21 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/>)
 
@@ -62,19 +130,11 @@
   Fonte: BleepingComputer, 23 Jun 2026, 14:01:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/>)
 
-- **LastPass conferma la violazione dei dati nell'attacco alla catena di fornitura di Klue**  
-  Fonte: BleepingComputer, 23 Jun 2026, 13:58:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/>)
-
 - **Un hacker prende il controllo del sistema di allerta nazionale del Brasile, inviando “misantropia” a milioni di telefoni**  
   Fonte: Graham Cluley, 23 Jun 2026, 12:16:15 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-hijacks-brazils-national-alert-system>)
 
-- **Webinar: Perché i team di sicurezza e-mail sono sommersi dagli avvisi**  
-  Fonte: BleepingComputer, 23 Jun 2026, 12:12:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/>)
-
-- **IA agentic: l'arma che non ha più bisogno di un guerriero**  
+- **IA agentica: l'arma che non ha più bisogno di un guerriero**  
   Fonte: The Hacker News, 23 Jun 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html>)
 
@@ -94,33 +154,9 @@
   Fonte: The Hacker News, 23 Jun 2026, 03:56:58 UTC  
   [Leggi](<https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html>)
 
-- **L'attacco di phishing di WhatsApp utilizza documenti aziendali falsi per hackerare i PC**  
-  Fonte: BleepingComputer, 22 Jun 2026, 22:42:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/>)
-
-- **Il bot JaredFromSubway MEV è stato violato per un furto di criptovalute da 15 milioni di dollari**  
-  Fonte: BleepingComputer, 22 Jun 2026, 21:52:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/>)
-
-- **FFmpeg risolve il difetto PixelSmash nel decoder video ampiamente utilizzato**  
-  Fonte: BleepingComputer, 22 Jun 2026, 21:05:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/>)
-
-- **La campagna FortiBleed ha utilizzato lo sniffer FortiGate personalizzato per rubare le credenziali**  
-  Fonte: BleepingComputer, 22 Jun 2026, 20:01:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/>)
-
 - **ShapedPlugin WordPress Pro Plugin backdoor nell'attacco alla catena di fornitura**  
   Fonte: The Hacker News, 22 Jun 2026, 18:00:48 UTC  
   [Leggi](<https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html>)
-
-- **Microsoft afferma che Windows 11 26H2 sarà presto disponibile, dettaglia il processo di aggiornamento**  
-  Fonte: BleepingComputer, 22 Jun 2026, 17:41:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/>)
-
-- **Microsoft risolve il difetto di AutoGen Studio che consentiva l'esecuzione del codice**  
-  Fonte: BleepingComputer, 22 Jun 2026, 17:28:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/>)
 
 - **Il bug proxy Squid di 29 anni "Squidbleed" può far trapelare richieste HTTP in chiaro**  
   Fonte: The Hacker News, 22 Jun 2026, 16:29:00 UTC  
@@ -258,37 +294,5 @@
   Fonte: Schneier on Security, 18 Jun 2026, 11:04:01 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html>)
 
-- **Smashing Security podcast n. 472: L'intelligenza artificiale viene violata e BitLocker viene aggirato**  
-  Fonte: Graham Cluley, 17 Jun 2026, 23:10:17 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-472/>)
 
-- **La campagna Crypto Clipper abusa di recensioni false, narratori AI e commenti di VirusTotal**  
-  Fonte: The Hacker News, 17 Jun 2026, 18:14:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html>)
-
-- **Microsoft conferma RoguePlanet Defender Zero-Day, afferma che la patch è in sviluppo**  
-  Fonte: The Hacker News, 17 Jun 2026, 17:36:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html>)
-
-- **Junior Hacker ha utilizzato Tailscale e OpenSSH per mantenere l'accesso dopo che il suo C2 è andato offline**  
-  Fonte: The Hacker News, 17 Jun 2026, 16:00:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html>)
-
-- **La convalida dell'esposizione contraddittoria trasforma la visibilità della sicurezza in una definizione delle priorità sicura**  
-  Fonte: The Hacker News, 17 Jun 2026, 14:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html>)
-
-- **I plugin JetBrains dannosi rubano le chiavi API AI mentre le estensioni di Chrome catturano le chat di Chatbot**  
-  Fonte: The Hacker News, 17 Jun 2026, 13:51:58 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html>)
-
-- **Utilizzo dell'intelligenza artificiale da parte del governo degli Stati Uniti**  
-  Fonte: Schneier on Security, 17 Jun 2026, 11:04:04 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html>)
-
-- **Le 10 principali esposizioni alle superfici attaccate nel 2026**  
-  Fonte: The Hacker News, 17 Jun 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-24 08:53:39 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-25 08:47:59 UTC -->
