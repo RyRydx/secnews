@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **FBI: gli hacker russi ora prendono di mira le chiavi di ripristino del backup di Signal**  
+  Fonte: BleepingComputer, 26 Jun 2026, 22:06:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/>)
+
+- **I cinesi controllano la maggior parte della flotta di calamari argentina**  
+  Fonte: Schneier on Security, 26 Jun 2026, 20:57:04 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html>)
+
+- **CISA fissa una scadenza urgente per correggere la falla di Cisco sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 26 Jun 2026, 19:43:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/>)
+
+- **L'FBI avverte gli hacker dell'intelligence russa che prendono di mira le chiavi di ripristino del backup del segnale**  
+  Fonte: The Hacker News, 26 Jun 2026, 19:38:29 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html>)
+
+- **Il nuovo malware SharkLoader utilizza Cobalt Strike negli attacchi informatici StrikeShark**  
+  Fonte: The Hacker News, 26 Jun 2026, 18:17:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html>)
+
+- **I clienti del Polymarket perdono 3 milioni di dollari in un attacco alla catena di fornitura**  
+  Fonte: BleepingComputer, 26 Jun 2026, 18:04:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/>)
+
+- **Aziende di sicurezza informatica prese di mira da inviti fraudolenti all'organizzazione OpenAI**  
+  Fonte: BleepingComputer, 26 Jun 2026, 17:49:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/>)
+
+- **Meta sta testando il riconoscimento facciale per la polizia e i militari**  
+  Fonte: Schneier on Security, 26 Jun 2026, 16:40:56 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html>)
+
+- **L'APT di lingua cinese implementa la nuova backdoor TinyRCT nella campagna del sud-est asiatico**  
+  Fonte: The Hacker News, 26 Jun 2026, 16:21:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html>)
+
+- **Il tuo primo agente GRC: la soluzione di un Red Teamer**  
+  Fonte: BleepingComputer, 26 Jun 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/>)
+
+- **Il nuovo exploit Linux pedit COW consente l'accesso root avvelenando i file binari memorizzati nella cache**  
+  Fonte: The Hacker News, 26 Jun 2026, 13:57:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html>)
+
+- **Il difetto dello sviluppatore Amazon Q potrebbe consentire ai repository dannosi di eseguire codice tramite le configurazioni MCP**  
+  Fonte: The Hacker News, 26 Jun 2026, 13:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html>)
+
+- **CISA aggiunge al KEV il difetto sfruttato di PTC Windchill RCE mentre gli attacchi Web Shell continuano**  
+  Fonte: The Hacker News, 26 Jun 2026, 12:31:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html>)
+
+- **Il nuovo difetto del kernel Linux DirtyClone consente agli utenti locali di ottenere il root tramite pacchetti clonati**  
+  Fonte: The Hacker News, 26 Jun 2026, 11:51:35 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html>)
+
+- **Agenti guardiani: il livello successivo di governance dell'identità**  
+  Fonte: The Hacker News, 26 Jun 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html>)
+
+- **Il malware Miasma prende di mira i pacchetti npm e le azioni GitHub nell'attacco alla catena di fornitura**  
+  Fonte: The Hacker News, 26 Jun 2026, 11:05:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html>)
+
+- **Un milione di passaporti trapelati online**  
+  Fonte: Schneier on Security, 26 Jun 2026, 11:03:21 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html>)
+
+- **Microsoft mette in guardia contro una campagna di phishing Photo ZIP che prende di mira gli hotel con l'impianto Node.js**  
+  Fonte: The Hacker News, 26 Jun 2026, 09:27:12 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html>)
+
+- **La Russia ha utilizzato Cellebrite sull'iPhone di un attivista incarcerato mesi dopo la chiusura delle vendite**  
+  Fonte: The Hacker News, 26 Jun 2026, 08:49:35 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html>)
+
 - **Dettagli Google La nuova backdoor STOCKSTAY di Turla utilizzata negli attacchi di spionaggio in Ucraina**  
   Fonte: The Hacker News, 26 Jun 2026, 07:15:46 UTC  
   [Leggi](<https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html>)
@@ -82,18 +158,6 @@
   Fonte: Graham Cluley, 24 Jun 2026, 23:10:57 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-473/>)
 
-- **L'hacker di DraftKings "Snoopy" condannato a 18 mesi di prigione**  
-  Fonte: BleepingComputer, 24 Jun 2026, 21:55:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/>)
-
-- **Mandiant rivela come gli attacchi zero-day Cisco SD-WAN abbiano ottenuto l'accesso root**  
-  Fonte: BleepingComputer, 24 Jun 2026, 21:29:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/>)
-
-- **L'estensione Malicious Edge sfrutta la messaggistica nativa come ponte verso il malware**  
-  Fonte: BleepingComputer, 24 Jun 2026, 20:58:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/>)
-
 - **CISA avverte che il difetto critico del Lantronix EDS5000 viene attivamente sfruttato**  
   Fonte: The Hacker News, 24 Jun 2026, 17:19:18 UTC  
   [Leggi](<https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html>)
@@ -101,14 +165,6 @@
 - **Rete malware Amadey e StealC interrotta, recuperate 27 milioni di credenziali rubate**  
   Fonte: The Hacker News, 24 Jun 2026, 15:59:50 UTC  
   [Leggi](<https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html>)
-
-- **CISA avverte della massima gravità delle falle Ubiquiti sfruttate negli attacchi**  
-  Fonte: BleepingComputer, 24 Jun 2026, 14:35:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/>)
-
-- **Amadey, operazioni malware StealC interrotte nell'azione Operation Endgame**  
-  Fonte: BleepingComputer, 24 Jun 2026, 14:35:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/>)
 
 - **I difetti CI/CD del Cordyceps espongono oltre 300 repository GitHub agli attacchi alla catena di fornitura**  
   Fonte: The Hacker News, 24 Jun 2026, 12:48:11 UTC  
@@ -234,53 +290,5 @@
   Fonte: The Hacker News, 20 Jun 2026, 09:56:04 UTC  
   [Leggi](<https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html>)
 
-- **Blog sui calamari del venerdì: vittime della pesca non regolamentata dei calamari**  
-  Fonte: Schneier on Security, 19 Jun 2026, 21:03:48 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html>)
 
-- **L'exploit "usbliter8" non aggiornabile interrompe la catena di avvio SecureROM di Apple A12 e A13**  
-  Fonte: The Hacker News, 19 Jun 2026, 18:37:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html>)
-
-- **Gentlemen RaaS utilizza il framework EDR GentleKiller mirato a 400 processi di sicurezza**  
-  Fonte: The Hacker News, 19 Jun 2026, 18:33:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html>)
-
-- **La modifica Hide My Email di Apple lascia infuriati i fan della privacy**  
-  Fonte: Graham Cluley, 19 Jun 2026, 15:47:53 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/apples-hide-my-email-tweak-leaves-privacy-fans-fuming>)
-
-- **L'attacco AutoJack consente a una pagina Web di prendere il controllo dell'agente AI per l'esecuzione del codice host**  
-  Fonte: The Hacker News, 19 Jun 2026, 15:30:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html>)
-
-- **L'operazione Endgame interrompe i server SocGholish e pulisce 14.971 siti WordPress**  
-  Fonte: The Hacker News, 19 Jun 2026, 15:07:54 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html>)
-
-- **CISA avvisa i clienti Fortinet poiché FortiBleed ha colpito 86.644 dispositivi FortiGate**  
-  Fonte: The Hacker News, 19 Jun 2026, 14:00:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html>)
-
-- **Le truffe degli impostori costeranno agli americani 3,5 miliardi di dollari nel 2025 – e la situazione sta peggiorando**  
-  Fonte: Graham Cluley, 19 Jun 2026, 13:51:24 UTC  
-  [Leggi](<https://www.fortra.com/blog/imposter-scams-cost-americans-35-billion-2025-and-its-getting-worse>)
-
-- **Da assistivo ad agente: il cambiamento dell'intelligenza artificiale che sta ridefinendo la gestione delle minacce**  
-  Fonte: The Hacker News, 19 Jun 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html>)
-
-- **La favola di Anthropic e lo stato dell’intelligenza artificiale**  
-  Fonte: Schneier on Security, 19 Jun 2026, 11:03:30 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html>)
-
-- **Dimentica la perdita di dati: la vera minaccia dell'intelligenza artificiale ombra è il controllo degli accessi**  
-  Fonte: The Hacker News, 19 Jun 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html>)
-
-- **Salesforce disabilita l'integrazione dell'app Klue dopo che l'abuso del token OAuth ha esposto i dati dei clienti**  
-  Fonte: The Hacker News, 19 Jun 2026, 09:03:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/salesforce-disables-klue-app.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-26 08:51:14 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-27 08:26:45 UTC -->
