@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **L'Ucraina afferma che l'intelligence russa ha utilizzato messaggi di supporto falsi per rubare credenziali di messaggistica**  
+  Fonte: The Hacker News, 27 Jun 2026, 17:27:11 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html>)
+
+- **Il repository GitHub pulito induce gli agenti di codifica AI a eseguire malware**  
+  Fonte: BleepingComputer, 27 Jun 2026, 14:22:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/>)
+
+- **OpenAI presenta in anteprima GPT-5.6 Sol con accesso limitato e protezioni informatiche più forti**  
+  Fonte: The Hacker News, 27 Jun 2026, 12:19:37 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html>)
+
 - **FBI: gli hacker russi ora prendono di mira le chiavi di ripristino del backup di Signal**  
   Fonte: BleepingComputer, 26 Jun 2026, 22:06:17 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/>)
@@ -70,7 +82,7 @@
   Fonte: Schneier on Security, 26 Jun 2026, 11:03:21 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html>)
 
-- **Microsoft mette in guardia contro una campagna di phishing Photo ZIP che prende di mira gli hotel con l'impianto Node.js**  
+- **Microsoft avverte della campagna di phishing Photo ZIP che prende di mira gli hotel con Node.js Implant**  
   Fonte: The Hacker News, 26 Jun 2026, 09:27:12 UTC  
   [Leggi](<https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html>)
 
@@ -150,10 +162,6 @@
   Fonte: The Hacker News, 25 Jun 2026, 05:46:54 UTC  
   [Leggi](<https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html>)
 
-- **Google rilascia nuovi controlli sulla privacy per cronologia attività e personalizzazione**  
-  Fonte: BleepingComputer, 24 Jun 2026, 23:46:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/>)
-
 - **Podcast di Smashing Security n. 473: Come un hacker avrebbe potuto eseguire il Rickroll dell'intera Coppa del Mondo**  
   Fonte: Graham Cluley, 24 Jun 2026, 23:10:57 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-473/>)
@@ -201,10 +209,6 @@
 - **FortiBleed ha preso di mira i firewall FortiGate in un'operazione di raccolta di 110 milioni di credenziali**  
   Fonte: The Hacker News, 23 Jun 2026, 18:20:49 UTC  
   [Leggi](<https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html>)
-
-- **Spider Hacker sparsi si dichiarano colpevoli nel primo giorno di processo**  
-  Fonte: Krebs on Security, 23 Jun 2026, 16:12:49 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/>)
 
 - **L'abilità dell'agente IA falso ha superato le scansioni di sicurezza e, secondo quanto riferito, ha raggiunto 26.000 agenti**  
   Fonte: The Hacker News, 23 Jun 2026, 15:16:43 UTC  
@@ -286,9 +290,5 @@
   Fonte: The Hacker News, 22 Jun 2026, 06:06:53 UTC  
   [Leggi](<https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html>)
 
-- **Gli hacker sfruttano il bug del plugin WordPress Gravity SMTP per esporre le chiavi API**  
-  Fonte: The Hacker News, 20 Jun 2026, 09:56:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-06-27 08:26:45 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-28 08:41:19 UTC -->
