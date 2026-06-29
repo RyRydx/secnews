@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft rimuove 119 estensioni Edge che nascondevano malware in immagini e caratteri**  
+  Fonte: The Hacker News, 29 Jun 2026, 08:32:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html>)
+
+- **PoC pubblico rilasciato per difetto critico SSH lato client libssh2 CVE-2026-55200**  
+  Fonte: The Hacker News, 29 Jun 2026, 07:06:34 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/public-poc-released-for-critical.html>)
+
+- **Pacchetti npm e Go dirottati Utilizza attività VS Code per distribuire Python Infostealer**  
+  Fonte: The Hacker News, 29 Jun 2026, 05:36:06 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html>)
+
+- **La violazione dei dati espone fino a 14,2 milioni di accessi e-mail a sei ISP**  
+  Fonte: BleepingComputer, 28 Jun 2026, 14:13:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/>)
+
 - **L'Ucraina afferma che l'intelligence russa ha utilizzato messaggi di supporto falsi per rubare credenziali di messaggistica**  
   Fonte: The Hacker News, 27 Jun 2026, 17:27:11 UTC  
   [Leggi](<https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html>)
@@ -138,10 +154,6 @@
   Fonte: The Hacker News, 25 Jun 2026, 12:24:43 UTC  
   [Leggi](<https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html>)
 
-- **Webinar: Perché i furti di account rimangono una delle minacce più difficili da fermare**  
-  Fonte: BleepingComputer, 25 Jun 2026, 12:12:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/>)
-
 - **Documento interessante che esplora l'iniezione rapida**  
   Fonte: Schneier on Security, 25 Jun 2026, 11:23:58 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html>)
@@ -209,6 +221,10 @@
 - **FortiBleed ha preso di mira i firewall FortiGate in un'operazione di raccolta di 110 milioni di credenziali**  
   Fonte: The Hacker News, 23 Jun 2026, 18:20:49 UTC  
   [Leggi](<https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html>)
+
+- **Spider Hacker sparsi si dichiarano colpevoli nel primo giorno di processo**  
+  Fonte: Krebs on Security, 23 Jun 2026, 16:12:49 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/>)
 
 - **L'abilità dell'agente IA falso ha superato le scansioni di sicurezza e, secondo quanto riferito, ha raggiunto 26.000 agenti**  
   Fonte: The Hacker News, 23 Jun 2026, 15:16:43 UTC  
@@ -278,17 +294,5 @@
   Fonte: The Hacker News, 22 Jun 2026, 10:55:10 UTC  
   [Leggi](<https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html>)
 
-- **L'agenzia di spionaggio canadese ha utilizzato un mandato unico nel suo genere per pulire i dispositivi infetti da botnet**  
-  Fonte: The Hacker News, 22 Jun 2026, 09:11:37 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html>)
 
-- **Il malware AryStinger infetta 4.300 router legacy per creare una rete proxy di ricognizione**  
-  Fonte: The Hacker News, 22 Jun 2026, 06:57:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html>)
-
-- **L'INTERPOL avverte che phishing, ransomware e truffe basate sull'intelligenza artificiale sono in aumento in tutta l'Asia-Pacifico**  
-  Fonte: The Hacker News, 22 Jun 2026, 06:06:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-28 08:41:19 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-29 10:21:52 UTC -->
