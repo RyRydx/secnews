@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **CISA: la falla di Windows BlueHammer ora sfruttata dalle bande di ransomware**  
+  Fonte: BleepingComputer, 30 Jun 2026, 08:53:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/>)
+
+- **Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs**  
+  Fonte: The Hacker News, 30 Jun 2026, 07:15:07 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html>)
+
+- **Difetto di Oracle E-Business Suite CVE-2026-46817 sfruttato attivamente in natura**  
+  Fonte: The Hacker News, 30 Jun 2026, 05:04:06 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html>)
+
+- **Nissan rivela una violazione dei dati dei dipendenti collegata agli attacchi zero-day di Oracle**  
+  Fonte: BleepingComputer, 29 Jun 2026, 20:40:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/>)
+
+- **NAIC afferma che i dati pubblici sono stati rubati nella violazione PeopleSoft di ShinyHunters**  
+  Fonte: BleepingComputer, 29 Jun 2026, 20:30:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/>)
+
+- **Ricerche intercettate dall'estensione Chrome Perplexity dannosa e input dalla barra degli indirizzi**  
+  Fonte: The Hacker News, 29 Jun 2026, 18:40:09 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html>)
+
+- **WhatsApp implementa i nomi utente per aiutare gli utenti a nascondere il proprio numero di telefono**  
+  Fonte: BleepingComputer, 29 Jun 2026, 17:48:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/>)
+
+- **Microsoft estende l'hotpatch di Windows Server 2022 fino a ottobre 2027**  
+  Fonte: BleepingComputer, 29 Jun 2026, 17:11:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/>)
+
+- **WhatsApp sta finalmente ottenendo nomi utente per mantenere privati ​​i numeri di telefono**  
+  Fonte: The Hacker News, 29 Jun 2026, 16:09:21 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html>)
+
+- **Fattorizzazione di chiavi RSA con molti zeri**  
+  Fonte: Schneier on Security, 29 Jun 2026, 16:05:18 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html>)
+
+- **Gli Stati Uniti offrono 10 milioni di dollari agli hacker che prendono di mira gli utenti di WhatsApp e Signal**  
+  Fonte: BleepingComputer, 29 Jun 2026, 15:09:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/>)
+
+- **Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks**  
+  Fonte: The Hacker News, 29 Jun 2026, 15:03:40 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html>)
+
+- **⚡ Riepilogo settimanale: difetti del kernel Linux, trucchi malware AI, backdoor Turla, infostealer e altro**  
+  Fonte: The Hacker News, 29 Jun 2026, 14:41:07 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html>)
+
+- **L'IA agentica ha un problema di identità e gli aggressori lo sanno**  
+  Fonte: BleepingComputer, 29 Jun 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/>)
+
+- **Difetto critico di SimpleHelp sfruttato per distribuire nuovo malware stealer**  
+  Fonte: BleepingComputer, 29 Jun 2026, 14:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/>)
+
+- **Gli hacker ora sfruttano la falla critica di Oracle E-Business negli attacchi**  
+  Fonte: BleepingComputer, 29 Jun 2026, 13:46:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/>)
+
+- **Webinar: Why business email compromise attacks keep succeeding**  
+  Fonte: BleepingComputer, 29 Jun 2026, 12:14:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/>)
+
+- **236.000 siti DCloud Uni-App utilizzati in truffe crittografiche, phishing e svuotamenti di portafogli**  
+  Fonte: The Hacker News, 29 Jun 2026, 11:57:40 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html>)
+
+- **Perché la crittografia post-quantistica inizia dalle credenziali**  
+  Fonte: The Hacker News, 29 Jun 2026, 11:42:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html>)
+
+- **Gamaredon espande gli attacchi in Ucraina con nuovi malware e abusi di servizi cloud**  
+  Fonte: The Hacker News, 29 Jun 2026, 11:40:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html>)
+
+- **Gli Stati Uniti sequestrano centinaia di domini di streaming illegali della Coppa del Mondo FIFA**  
+  Fonte: BleepingComputer, 29 Jun 2026, 11:21:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/>)
+
+- **Agenti di polizia robot**  
+  Fonte: Schneier on Security, 29 Jun 2026, 10:55:33 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html>)
+
 - **Microsoft rimuove 119 estensioni Edge che nascondevano malware in immagini e caratteri**  
   Fonte: The Hacker News, 29 Jun 2026, 08:32:31 UTC  
   [Leggi](<https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html>)
@@ -46,17 +134,9 @@
   Fonte: The Hacker News, 26 Jun 2026, 19:38:29 UTC  
   [Leggi](<https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html>)
 
-- **Il nuovo malware SharkLoader utilizza Cobalt Strike negli attacchi informatici StrikeShark**  
+- **New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks**  
   Fonte: The Hacker News, 26 Jun 2026, 18:17:46 UTC  
   [Leggi](<https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html>)
-
-- **I clienti del Polymarket perdono 3 milioni di dollari in un attacco alla catena di fornitura**  
-  Fonte: BleepingComputer, 26 Jun 2026, 18:04:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/>)
-
-- **Aziende di sicurezza informatica prese di mira da inviti fraudolenti all'organizzazione OpenAI**  
-  Fonte: BleepingComputer, 26 Jun 2026, 17:49:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/>)
 
 - **Meta sta testando il riconoscimento facciale per la polizia e i militari**  
   Fonte: Schneier on Security, 26 Jun 2026, 16:40:56 UTC  
@@ -66,11 +146,7 @@
   Fonte: The Hacker News, 26 Jun 2026, 16:21:25 UTC  
   [Leggi](<https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html>)
 
-- **Il tuo primo agente GRC: la soluzione di un Red Teamer**  
-  Fonte: BleepingComputer, 26 Jun 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/>)
-
-- **Il nuovo exploit Linux pedit COW consente l'accesso root avvelenando i file binari memorizzati nella cache**  
+- **New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries**  
   Fonte: The Hacker News, 26 Jun 2026, 13:57:55 UTC  
   [Leggi](<https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html>)
 
@@ -110,45 +186,13 @@
   Fonte: The Hacker News, 26 Jun 2026, 07:15:46 UTC  
   [Leggi](<https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html>)
 
-- **Anthropic sta testando Claude Cowork in stile desktop per dispositivi mobili**  
-  Fonte: BleepingComputer, 25 Jun 2026, 22:53:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/>)
-
-- **La Polonia arresta una banda di scambiatori di SIM legata a milioni di furti di criptovalute**  
-  Fonte: BleepingComputer, 25 Jun 2026, 22:37:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/>)
-
-- **App di tracciamento degli ordini Negozio abusato per spingere attacchi di phishing con richiamata**  
-  Fonte: BleepingComputer, 25 Jun 2026, 19:45:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/>)
-
-- **Microsoft estende silenziosamente il supporto gratuito per gli ESU di Windows 10 fino a ottobre 2027**  
-  Fonte: BleepingComputer, 25 Jun 2026, 18:29:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/>)
-
 - **IA e responsabilità**  
   Fonte: Schneier on Security, 25 Jun 2026, 17:03:15 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html>)
 
-- **Il nuovo malware macOS incorpora errori falsi per confondere gli strumenti di analisi dell’intelligenza artificiale**  
-  Fonte: BleepingComputer, 25 Jun 2026, 16:23:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/>)
-
-- **La rete di pirateria sportiva PirloTV è stata interrotta con il sequestro di 44 domini**  
-  Fonte: BleepingComputer, 25 Jun 2026, 15:36:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/>)
-
-- **Il kit di phishing Bluekit adotta il browser-in-the-middle per il furto degli accessi**  
-  Fonte: BleepingComputer, 25 Jun 2026, 15:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/>)
-
 - **Blocco annunci di Chrome con oltre 10 milioni di installazioni trovato con funzionalità di inserimento di script dormienti**  
   Fonte: The Hacker News, 25 Jun 2026, 14:12:52 UTC  
   [Leggi](<https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html>)
-
-- **I quattro livelli di un'efficace prevenzione delle frodi**  
-  Fonte: BleepingComputer, 25 Jun 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/>)
 
 - **Bollettino del ThreatsDay: proxy Smart TV, bug di curl di 24 anni, forum sulla criminalità AI e altre 13 storie**  
   Fonte: The Hacker News, 25 Jun 2026, 12:24:43 UTC  
@@ -222,7 +266,7 @@
   Fonte: The Hacker News, 23 Jun 2026, 18:20:49 UTC  
   [Leggi](<https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html>)
 
-- **Spider Hacker sparsi si dichiarano colpevoli nel primo giorno di processo**  
+- **Scattered Spider Hackers Plead Guilty on Day 1 of Trial**  
   Fonte: Krebs on Security, 23 Jun 2026, 16:12:49 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/>)
 
@@ -242,7 +286,7 @@
   Fonte: Graham Cluley, 23 Jun 2026, 12:16:15 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-hijacks-brazils-national-alert-system>)
 
-- **IA agentica: l'arma che non ha più bisogno di un guerriero**  
+- **IA agentic: l'arma che non ha più bisogno di un guerriero**  
   Fonte: The Hacker News, 23 Jun 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html>)
 
@@ -250,49 +294,5 @@
   Fonte: Schneier on Security, 23 Jun 2026, 11:03:07 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html>)
 
-- **I pacchetti npm dannosi si presentano come strumenti PostCSS per fornire Windows RAT**  
-  Fonte: The Hacker News, 23 Jun 2026, 08:54:32 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html>)
 
-- **La campagna VBScript di WhatsApp utilizza documenti falsi per installare lo strumento ManageEngine RMM**  
-  Fonte: The Hacker News, 23 Jun 2026, 05:38:40 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html>)
-
-- **OpenAI espande Daybreak con GPT-5.5-Cyber ​​per aiutare i difensori a correggere i difetti di sicurezza**  
-  Fonte: The Hacker News, 23 Jun 2026, 03:56:58 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html>)
-
-- **ShapedPlugin WordPress Pro Plugin backdoor nell'attacco alla catena di fornitura**  
-  Fonte: The Hacker News, 22 Jun 2026, 18:00:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html>)
-
-- **Il bug proxy Squid di 29 anni "Squidbleed" può far trapelare richieste HTTP in chiaro**  
-  Fonte: The Hacker News, 22 Jun 2026, 16:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html>)
-
-- **I ricercatori descrivono in dettaglio i difetti di DifyTap in Dify che potrebbero esporre le chat AI tra tenant**  
-  Fonte: The Hacker News, 22 Jun 2026, 16:13:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html>)
-
-- **Il nuovo caricatore OXLOADER utilizza annunci Google dannosi per fornire CastleStealer**  
-  Fonte: The Hacker News, 22 Jun 2026, 13:20:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html>)
-
-- **Google fissa la scadenza del 30 settembre per la verifica degli sviluppatori Android in quattro paesi**  
-  Fonte: The Hacker News, 22 Jun 2026, 12:45:08 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html>)
-
-- **Impedisci alla tua infrastruttura legacy di prendere il controllo dei tuoi agenti IA**  
-  Fonte: The Hacker News, 22 Jun 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html>)
-
-- **Atleti professionisti e dispositivi indossabili**  
-  Fonte: Schneier on Security, 22 Jun 2026, 11:02:55 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html>)
-
-- **⚡ Riepilogo settimanale: bug del browser, killer EDR, botnet TV, difetto OpenBSD, trojan Android e altro**  
-  Fonte: The Hacker News, 22 Jun 2026, 10:55:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-06-29 10:21:52 UTC -->
+<!-- Ultimo aggiornamento: 2026-06-30 08:57:53 UTC -->
