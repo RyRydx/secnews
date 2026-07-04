@@ -2,11 +2,47 @@
 
 ## Ultimi 7 giorni
 
+- **Difetti senza patch rivelati nel file system raggruppato in milioni di dispositivi incorporati**  
+  Fonte: The Hacker News, 03 Jul 2026, 20:19:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html>)
+
+- **Il nuovo difetto del kernel Linux "Bad Epoll" consente agli utenti non privilegiati di ottenere il root e colpisce Android**  
+  Fonte: The Hacker News, 03 Jul 2026, 19:40:01 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html>)
+
+- **Il nuovo Avalon Malware Framework racchiude le funzionalità del ransomware CrownX**  
+  Fonte: The Hacker News, 03 Jul 2026, 18:55:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html>)
+
+- **Rete proxy NetNut interrotta, 2 milioni di dispositivi infetti tagliati fuori**  
+  Fonte: BleepingComputer, 03 Jul 2026, 17:50:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/>)
+
+- **I pacchetti npm collegati alla Corea del Nord imitano i polyfill di rollup per rubare i segreti degli sviluppatori**  
+  Fonte: The Hacker News, 03 Jul 2026, 16:07:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html>)
+
+- **ARToken PhaaS espone il toolkit di phishing Microsoft 365 di EvilTokens**  
+  Fonte: BleepingComputer, 03 Jul 2026, 14:12:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/>)
+
+- **Likho corazzato prende di mira le agenzie governative e il settore energetico con BusySnake Stealer**  
+  Fonte: The Hacker News, 03 Jul 2026, 13:36:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/armored-likho-targets-government.html>)
+
+- **Le telecamere dello stormo possono sorvegliare le auto senza targa**  
+  Fonte: Schneier on Security, 03 Jul 2026, 11:15:25 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html>)
+
+- **Un membro del Parlamento europeo che indagava su uno spyware è stato violato con Pegasus**  
+  Fonte: The Hacker News, 03 Jul 2026, 11:05:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/european-parliament-member.html>)
+
 - **PamStealer utilizza siti Maccy falsi e controlli PAM per rubare password di accesso al Mac**  
   Fonte: The Hacker News, 03 Jul 2026, 08:03:37 UTC  
   [Leggi](<https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html>)
 
-- **Piscine, pipì e tentativo di eliminare i tuoi dati da Internet**  
+- **Swimming Pools, Pee, and Trying to Delete Your Data From the Internet**  
   Fonte: Troy Hunt, 03 Jul 2026, 06:52:41 UTC  
   [Leggi](<https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/>)
 
@@ -122,21 +158,13 @@
   Fonte: The Hacker News, 01 Jul 2026, 19:28:07 UTC  
   [Leggi](<https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html>)
 
-- **Schermata di abuso di siti software avvelenati dalla SEOConnettiti per distribuire AsyncRAT**  
+- **Schermata di abuso di siti software avvelenati dalla SEO Connettiti per distribuire AsyncRAT**  
   Fonte: The Hacker News, 01 Jul 2026, 17:53:06 UTC  
   [Leggi](<https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html>)
 
-- **Il DHS conferma che gli hacker hanno violato la piattaforma di condivisione delle informazioni HSIN**  
-  Fonte: BleepingComputer, 01 Jul 2026, 17:32:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/>)
-
-- **La catena di malware VEIL#DROP utilizza la piattaforma Blogger per fornire PureLogs Stealer**  
+- **La catena di malware VEIL#DROP utilizza la piattaforma Blogger per distribuire PureLogs Stealer**  
   Fonte: The Hacker News, 01 Jul 2026, 17:18:50 UTC  
   [Leggi](<https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html>)
-
-- **Webinar: Perché la tradizionale sicurezza della posta elettronica non è più sufficiente**  
-  Fonte: BleepingComputer, 01 Jul 2026, 16:54:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/>)
 
 - **Il trojan bancario Ousaban prende di mira gli utenti delle banche iberiche con esche PDF false**  
   Fonte: The Hacker News, 01 Jul 2026, 15:26:55 UTC  
@@ -186,11 +214,11 @@
   Fonte: The Hacker News, 01 Jul 2026, 05:46:03 UTC  
   [Leggi](<https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html>)
 
-- **Un ricercatore analizza 3.000 payload ClickFix in tempo reale, esponendo la distribuzione di malware basata su API**  
+- **Un ricercatore analizza 3.000 payload Live ClickFix, esponendo la distribuzione di malware basata su API**  
   Fonte: The Hacker News, 01 Jul 2026, 05:32:12 UTC  
   [Leggi](<https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html>)
 
-- **Citrix corregge sei difetti di NetScaler che consentono la lettura dei file e il Denial-of-Service**  
+- **Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service**  
   Fonte: The Hacker News, 01 Jul 2026, 03:54:22 UTC  
   [Leggi](<https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html>)
 
@@ -246,7 +274,7 @@
   Fonte: The Hacker News, 30 Jun 2026, 09:27:58 UTC  
   [Leggi](<https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html>)
 
-- **Il nuovo attacco BioShocking induce i browser AI a perdere le credenziali degli utenti**  
+- **Il nuovo attacco BioShocking induce i browser AI a perdere le credenziali dell'utente**  
   Fonte: The Hacker News, 30 Jun 2026, 08:37:19 UTC  
   [Leggi](<https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html>)
 
@@ -258,7 +286,7 @@
   Fonte: The Hacker News, 30 Jun 2026, 05:04:06 UTC  
   [Leggi](<https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html>)
 
-- **WhatsApp finalmente ottiene nomi utente per mantenere privati ​​i numeri di telefono**  
+- **WhatsApp sta finalmente ottenendo nomi utente per mantenere privati ​​i numeri di telefono**  
   Fonte: The Hacker News, 29 Jun 2026, 16:09:21 UTC  
   [Leggi](<https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html>)
 
@@ -286,45 +314,9 @@
   Fonte: The Hacker News, 29 Jun 2026, 11:57:40 UTC  
   [Leggi](<https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html>)
 
-- **Perché la crittografia post-quantistica inizia dalle credenziali**  
-  Fonte: The Hacker News, 29 Jun 2026, 11:42:16 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html>)
-
-- **Gamaredon espande gli attacchi in Ucraina con nuovi malware e abusi di servizi cloud**  
-  Fonte: The Hacker News, 29 Jun 2026, 11:40:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html>)
-
 - **Agenti di polizia robot**  
   Fonte: Schneier on Security, 29 Jun 2026, 10:55:33 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html>)
 
-- **Microsoft rimuove 119 estensioni Edge che nascondevano malware in immagini e caratteri**  
-  Fonte: The Hacker News, 29 Jun 2026, 08:32:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html>)
 
-- **PoC pubblico rilasciato per difetto critico SSH lato client libssh2 CVE-2026-55200**  
-  Fonte: The Hacker News, 29 Jun 2026, 07:06:34 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/public-poc-released-for-critical.html>)
-
-- **Pacchetti npm e Go dirottati Utilizza attività VS Code per distribuire Python Infostealer**  
-  Fonte: The Hacker News, 29 Jun 2026, 05:36:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html>)
-
-- **L'Ucraina afferma che l'intelligence russa ha utilizzato messaggi di supporto falsi per rubare credenziali di messaggistica**  
-  Fonte: The Hacker News, 27 Jun 2026, 17:27:11 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html>)
-
-- **I cinesi controllano la maggior parte della flotta di calamari argentina**  
-  Fonte: Schneier on Security, 26 Jun 2026, 20:57:04 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html>)
-
-- **Meta sta testando il riconoscimento facciale per la polizia e i militari**  
-  Fonte: Schneier on Security, 26 Jun 2026, 16:40:56 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html>)
-
-- **Un milione di passaporti trapelati online**  
-  Fonte: Schneier on Security, 26 Jun 2026, 11:03:21 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-07-03 08:50:34 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-04 08:25:16 UTC -->
