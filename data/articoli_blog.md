@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Il ransomware JadePuffer ha utilizzato l'agente AI per automatizzare l'intero attacco**  
+  Fonte: BleepingComputer, 04 Jul 2026, 14:16:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/>)
+
+- **Un ente governativo degli Stati Uniti ha pagato a Kairos 1 milione di dollari in un caso di estorsione per furto di dati**  
+  Fonte: The Hacker News, 04 Jul 2026, 12:47:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html>)
+
+- **Gli hacker nordcoreani pubblicano 108 pacchetti ed estensioni dannosi nella campagna PolinRider**  
+  Fonte: The Hacker News, 04 Jul 2026, 11:17:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html>)
+
 - **Difetti senza patch rivelati nel file system raggruppato in milioni di dispositivi incorporati**  
   Fonte: The Hacker News, 03 Jul 2026, 20:19:31 UTC  
   [Leggi](<https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html>)
@@ -42,7 +54,7 @@
   Fonte: The Hacker News, 03 Jul 2026, 08:03:37 UTC  
   [Leggi](<https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html>)
 
-- **Swimming Pools, Pee, and Trying to Delete Your Data From the Internet**  
+- **Piscine, pipì e tentativo di eliminare i tuoi dati da Internet**  
   Fonte: Troy Hunt, 03 Jul 2026, 06:52:41 UTC  
   [Leggi](<https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/>)
 
@@ -146,10 +158,6 @@
   Fonte: BleepingComputer, 01 Jul 2026, 21:09:06 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/>)
 
-- **Il nuovo malware ChocoPoC prende di mira i ricercatori tramite exploit PoC trojanizzati**  
-  Fonte: BleepingComputer, 01 Jul 2026, 20:08:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/>)
-
 - **Un difetto del server repo CD Argo senza patch potrebbe consentire agli aggressori di prendere il controllo dei cluster Kubernetes**  
   Fonte: The Hacker News, 01 Jul 2026, 19:40:06 UTC  
   [Leggi](<https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html>)
@@ -158,11 +166,11 @@
   Fonte: The Hacker News, 01 Jul 2026, 19:28:07 UTC  
   [Leggi](<https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html>)
 
-- **Schermata di abuso di siti software avvelenati dalla SEO Connettiti per distribuire AsyncRAT**  
+- **Schermata di abuso di siti software avvelenati dalla SEOConnettiti per distribuire AsyncRAT**  
   Fonte: The Hacker News, 01 Jul 2026, 17:53:06 UTC  
   [Leggi](<https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html>)
 
-- **La catena di malware VEIL#DROP utilizza la piattaforma Blogger per distribuire PureLogs Stealer**  
+- **La catena di malware VEIL#DROP utilizza la piattaforma Blogger per fornire PureLogs Stealer**  
   Fonte: The Hacker News, 01 Jul 2026, 17:18:50 UTC  
   [Leggi](<https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html>)
 
@@ -214,11 +222,11 @@
   Fonte: The Hacker News, 01 Jul 2026, 05:46:03 UTC  
   [Leggi](<https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html>)
 
-- **Un ricercatore analizza 3.000 payload Live ClickFix, esponendo la distribuzione di malware basata su API**  
+- **Un ricercatore analizza 3.000 payload ClickFix in tempo reale, esponendo la distribuzione di malware basata su API**  
   Fonte: The Hacker News, 01 Jul 2026, 05:32:12 UTC  
   [Leggi](<https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html>)
 
-- **Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service**  
+- **Citrix corregge sei difetti di NetScaler che consentono la lettura dei file e il Denial-of-Service**  
   Fonte: The Hacker News, 01 Jul 2026, 03:54:22 UTC  
   [Leggi](<https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html>)
 
@@ -274,7 +282,7 @@
   Fonte: The Hacker News, 30 Jun 2026, 09:27:58 UTC  
   [Leggi](<https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html>)
 
-- **Il nuovo attacco BioShocking induce i browser AI a perdere le credenziali dell'utente**  
+- **Il nuovo attacco BioShocking induce i browser AI a perdere le credenziali degli utenti**  
   Fonte: The Hacker News, 30 Jun 2026, 08:37:19 UTC  
   [Leggi](<https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html>)
 
@@ -286,7 +294,7 @@
   Fonte: The Hacker News, 30 Jun 2026, 05:04:06 UTC  
   [Leggi](<https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html>)
 
-- **WhatsApp sta finalmente ottenendo nomi utente per mantenere privati ​​i numeri di telefono**  
+- **WhatsApp finalmente ottiene nomi utente per mantenere privati ​​i numeri di telefono**  
   Fonte: The Hacker News, 29 Jun 2026, 16:09:21 UTC  
   [Leggi](<https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html>)
 
@@ -306,17 +314,9 @@
   Fonte: The Hacker News, 29 Jun 2026, 15:03:40 UTC  
   [Leggi](<https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html>)
 
-- **⚡ Riepilogo settimanale: difetti del kernel Linux, trucchi malware AI, backdoor Turla, infostealer e altro**  
-  Fonte: The Hacker News, 29 Jun 2026, 14:41:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html>)
-
-- **236.000 siti DCloud Uni-App utilizzati in truffe crittografiche, phishing e svuotamenti di portafogli**  
-  Fonte: The Hacker News, 29 Jun 2026, 11:57:40 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html>)
-
 - **Agenti di polizia robot**  
   Fonte: Schneier on Security, 29 Jun 2026, 10:55:33 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-07-04 08:25:16 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-05 08:40:23 UTC -->
