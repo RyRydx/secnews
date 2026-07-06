@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **Il nuovo attacco TrojPix fa trapelare dati da sistemi air-gapped tramite emissioni di cavi video**  
+  Fonte: The Hacker News, 06 Jul 2026, 08:50:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html>)
+
+- **Nuovo QuimaRAT MaaS basato su Java creato per funzionare su Windows, Linux e macOS**  
+  Fonte: The Hacker News, 06 Jul 2026, 08:13:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html>)
+
+- **Il difetto di Opera GX consente ai siti dannosi di installare automaticamente le mod per rubare dati dalle pagine visitate**  
+  Fonte: The Hacker News, 06 Jul 2026, 07:27:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html>)
+
+- **SkillCloak consente alle abilità degli agenti IA dannosi di eludere gli scanner statici con l'imballaggio autoestraente**  
+  Fonte: The Hacker News, 06 Jul 2026, 06:33:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html>)
+
+- **Lo sviluppo del firmware Flipper Zero continua con l'aiuto della comunità**  
+  Fonte: BleepingComputer, 05 Jul 2026, 14:14:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/>)
+
 - **Il ransomware JadePuffer ha utilizzato l'agente AI per automatizzare l'intero attacco**  
   Fonte: BleepingComputer, 04 Jul 2026, 14:16:38 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/>)
@@ -154,10 +174,6 @@
   Fonte: BleepingComputer, 01 Jul 2026, 21:37:24 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/>)
 
-- **Kubota afferma che gli hacker hanno avuto accesso ai sistemi di rete per un mese**  
-  Fonte: BleepingComputer, 01 Jul 2026, 21:09:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/>)
-
 - **Un difetto del server repo CD Argo senza patch potrebbe consentire agli aggressori di prendere il controllo dei cluster Kubernetes**  
   Fonte: The Hacker News, 01 Jul 2026, 19:40:06 UTC  
   [Leggi](<https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html>)
@@ -170,7 +186,7 @@
   Fonte: The Hacker News, 01 Jul 2026, 17:53:06 UTC  
   [Leggi](<https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html>)
 
-- **La catena di malware VEIL#DROP utilizza la piattaforma Blogger per fornire PureLogs Stealer**  
+- **La catena di malware VEIL#DROP utilizza la piattaforma Blogger per distribuire PureLogs Stealer**  
   Fonte: The Hacker News, 01 Jul 2026, 17:18:50 UTC  
   [Leggi](<https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html>)
 
@@ -186,7 +202,7 @@
   Fonte: The Hacker News, 01 Jul 2026, 14:42:54 UTC  
   [Leggi](<https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html>)
 
-- **Progresso Il difetto RCE pre-autenticazione di Kemp LoadMaster deve far fronte a tentativi di sfruttamento attivi**  
+- **Progresso Il difetto RCE pre-autenticazione di Kemp LoadMaster deve affrontare tentativi di sfruttamento attivi**  
   Fonte: The Hacker News, 01 Jul 2026, 13:56:18 UTC  
   [Leggi](<https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html>)
 
@@ -222,7 +238,7 @@
   Fonte: The Hacker News, 01 Jul 2026, 05:46:03 UTC  
   [Leggi](<https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html>)
 
-- **Un ricercatore analizza 3.000 payload ClickFix in tempo reale, esponendo la distribuzione di malware basata su API**  
+- **Un ricercatore analizza 3.000 payload Live ClickFix, esponendo la distribuzione di malware basata su API**  
   Fonte: The Hacker News, 01 Jul 2026, 05:32:12 UTC  
   [Leggi](<https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html>)
 
@@ -294,29 +310,13 @@
   Fonte: The Hacker News, 30 Jun 2026, 05:04:06 UTC  
   [Leggi](<https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html>)
 
-- **WhatsApp finalmente ottiene nomi utente per mantenere privati ​​i numeri di telefono**  
-  Fonte: The Hacker News, 29 Jun 2026, 16:09:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html>)
-
 - **Fattorizzazione di chiavi RSA con molti zeri**  
   Fonte: Schneier on Security, 29 Jun 2026, 16:05:18 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html>)
-
-- **Ricerche intercettate dall'estensione Chrome Perplexity dannosa e input dalla barra degli indirizzi**  
-  Fonte: The Hacker News, 29 Jun 2026, 15:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html>)
-
-- **Apple corregge oltre 30 difetti di iOS, macOS e Safari, compresi i bug WebKit rilevati dall'intelligenza artificiale**  
-  Fonte: The Hacker News, 29 Jun 2026, 15:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html>)
-
-- **Mustang Panda utilizza Zoho WorkDrive come canale di comando negli attacchi del governo indiano**  
-  Fonte: The Hacker News, 29 Jun 2026, 15:03:40 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html>)
 
 - **Agenti di polizia robot**  
   Fonte: Schneier on Security, 29 Jun 2026, 10:55:33 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-07-05 08:40:23 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-06 09:56:28 UTC -->
