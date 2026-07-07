@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **BeyondTrust avverte di difetti critici nel software di accesso remoto**  
+  Fonte: BleepingComputer, 07 Jul 2026, 08:12:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/>)
+
+- **Microsoft testa la nuova funzionalità di ripristino di Cloud Rebuild per Windows 11**  
+  Fonte: BleepingComputer, 07 Jul 2026, 07:37:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/>)
+
+- **CERT/CC avvisa della backdoor amministrativa nascosta nel firmware del router Tenda**  
+  Fonte: The Hacker News, 07 Jul 2026, 06:40:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html>)
+
+- **BeyondTrust corregge i difetti critici di autenticazione nel supporto remoto e nel PRA**  
+  Fonte: The Hacker News, 07 Jul 2026, 05:16:51 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html>)
+
+- **Il phishing si presenta come un colloquio di lavoro con un grande marchio per rubare account Google**  
+  Fonte: BleepingComputer, 06 Jul 2026, 20:27:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/>)
+
+- **Le false chiamate al supporto IT su Microsoft Teams diffondono il malware EtherRAT**  
+  Fonte: BleepingComputer, 06 Jul 2026, 20:23:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/>)
+
+- **Gli hacker legati all'Iran utilizzano il nuovo framework Cavern C2 per prendere di mira le organizzazioni israeliane**  
+  Fonte: The Hacker News, 06 Jul 2026, 18:34:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html>)
+
+- **Il Vietnam arresta i sospettati dietro il servizio di pirateria degli anime HiAnime**  
+  Fonte: BleepingComputer, 06 Jul 2026, 18:25:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/>)
+
+- **Un difetto KVM di Linux vecchio di 16 anni consente alle VM guest di fuggire per ospitare sistemi Intel e AMD x86**  
+  Fonte: The Hacker News, 06 Jul 2026, 17:37:01 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html>)
+
+- **Gli autori della minaccia indagano sul difetto Docker CVE-2026-20896 di Gitea 13 giorni dopo la divulgazione**  
+  Fonte: The Hacker News, 06 Jul 2026, 16:28:59 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html>)
+
+- **Il software viene ora scritto alla velocità del pensiero.La sicurezza no.**  
+  Fonte: BleepingComputer, 06 Jul 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/>)
+
+- **Gravità massima Difetto Adobe ColdFusion ora sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 06 Jul 2026, 13:18:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/>)
+
+- **⚡ Riepilogo settimanale: botnet proxy, ransomware per browser, trucchi degli agenti IA, malware PoC falso e altro ancora**  
+  Fonte: The Hacker News, 06 Jul 2026, 13:01:14 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html>)
+
+- **Come valutare una piattaforma AI SOC nel 2026: 6 capacità che separano i leader dalle soluzioni AI Bolt-On**  
+  Fonte: The Hacker News, 06 Jul 2026, 11:30:02 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html>)
+
+- **Presunti hacker China-Nexus utilizzano una falsa utilità di dichiarazione dei redditi indiana per implementare DcRAT**  
+  Fonte: The Hacker News, 06 Jul 2026, 10:58:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html>)
+
+- **La Francia smetterà di certificare la crittografia non quantistica**  
+  Fonte: Schneier on Security, 06 Jul 2026, 10:45:44 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html>)
+
 - **Il nuovo attacco TrojPix fa trapelare dati da sistemi air-gapped tramite emissioni di cavi video**  
   Fonte: The Hacker News, 06 Jul 2026, 08:50:54 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html>)
@@ -118,14 +182,6 @@
   Fonte: The Hacker News, 02 Jul 2026, 13:04:13 UTC  
   [Leggi](<https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html>)
 
-- **Microsoft risolve il bug che rimuoveva i pulsanti Copilot in Outlook**  
-  Fonte: BleepingComputer, 02 Jul 2026, 12:15:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/>)
-
-- **Cisco conferma finalmente che gli aggressori sfruttano la falla di Unified CM**  
-  Fonte: BleepingComputer, 02 Jul 2026, 11:35:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/>)
-
 - **La gestione del ciclo di vita delle identità non è stata creata per gli agenti IA**  
   Fonte: The Hacker News, 02 Jul 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/identity-lifecycle-management.html>)
@@ -134,21 +190,9 @@
   Fonte: Schneier on Security, 02 Jul 2026, 11:11:44 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html>)
 
-- **CISA: la falla RCE di Microsoft SharePoint ora viene sfruttata attivamente**  
-  Fonte: BleepingComputer, 02 Jul 2026, 10:52:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/>)
-
-- **Opera lancia la funzione Paste Protect per combattere gli attacchi ClickFix**  
-  Fonte: BleepingComputer, 02 Jul 2026, 10:46:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/>)
-
 - **L'agente AI sfrutta Langflow RCE per automatizzare l'attacco ransomware al database**  
   Fonte: The Hacker News, 02 Jul 2026, 09:13:13 UTC  
   [Leggi](<https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html>)
-
-- **Presunto hacker di Scattered Spider estradato negli Stati Uniti**  
-  Fonte: BleepingComputer, 02 Jul 2026, 08:58:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/>)
 
 - **Furto di credenziali FortiBleed collegato alle operazioni di ransomware INC e Lynx**  
   Fonte: The Hacker News, 02 Jul 2026, 08:00:49 UTC  
@@ -162,17 +206,9 @@
   Fonte: The Hacker News, 02 Jul 2026, 05:46:45 UTC  
   [Leggi](<https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html>)
 
-- **Medtronic avvisa i clienti colpiti dalla violazione dei dati di ShinyHunters**  
-  Fonte: BleepingComputer, 02 Jul 2026, 04:25:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/>)
-
 - **Podcast #474 di Smashing Security: Polymarket può predire il futuro.Allora come ha potuto perdere questo hack?**  
   Fonte: Graham Cluley, 01 Jul 2026, 23:12:11 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-474/>)
-
-- **Campagna di furto di credenziali FortiBleed collegata al ransomware Lynx**  
-  Fonte: BleepingComputer, 01 Jul 2026, 21:37:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/>)
 
 - **Un difetto del server repo CD Argo senza patch potrebbe consentire agli aggressori di prendere il controllo dei cluster Kubernetes**  
   Fonte: The Hacker News, 01 Jul 2026, 19:40:06 UTC  
@@ -182,11 +218,11 @@
   Fonte: The Hacker News, 01 Jul 2026, 19:28:07 UTC  
   [Leggi](<https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html>)
 
-- **Schermata di abuso di siti software avvelenati dalla SEOConnettiti per distribuire AsyncRAT**  
+- **Schermata di abuso di siti software avvelenati dalla SEO Connettiti per distribuire AsyncRAT**  
   Fonte: The Hacker News, 01 Jul 2026, 17:53:06 UTC  
   [Leggi](<https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html>)
 
-- **La catena di malware VEIL#DROP utilizza la piattaforma Blogger per distribuire PureLogs Stealer**  
+- **La catena di malware VEIL#DROP utilizza la piattaforma Blogger per fornire PureLogs Stealer**  
   Fonte: The Hacker News, 01 Jul 2026, 17:18:50 UTC  
   [Leggi](<https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html>)
 
@@ -202,7 +238,7 @@
   Fonte: The Hacker News, 01 Jul 2026, 14:42:54 UTC  
   [Leggi](<https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html>)
 
-- **Progresso Il difetto RCE pre-autenticazione di Kemp LoadMaster deve affrontare tentativi di sfruttamento attivi**  
+- **Progresso Il difetto RCE pre-autenticazione di Kemp LoadMaster deve far fronte a tentativi di sfruttamento attivi**  
   Fonte: The Hacker News, 01 Jul 2026, 13:56:18 UTC  
   [Leggi](<https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html>)
 
@@ -270,53 +306,13 @@
   Fonte: The Hacker News, 30 Jun 2026, 15:40:18 UTC  
   [Leggi](<https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html>)
 
-- **GuardFall espone gli agenti di codifica AI open source a rischi di shell injection vecchi di decenni**  
-  Fonte: The Hacker News, 30 Jun 2026, 14:26:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html>)
-
-- **282 app iOS AI perdono chiavi API e aprono l'accesso proxy AI nello studio sul traffico di rete**  
-  Fonte: The Hacker News, 30 Jun 2026, 13:49:34 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html>)
-
 - **Le realtà della videosorveglianza tramite intelligenza artificiale**  
   Fonte: Schneier on Security, 30 Jun 2026, 12:05:57 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html>)
-
-- **Cosa dicono i numeri sul rischio informatico FIFA 2026**  
-  Fonte: The Hacker News, 30 Jun 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html>)
-
-- **Gli aggressori sfruttano SimpleHelp CVE-2026-48558 per implementare TaskWeaver e Djinn Stealer**  
-  Fonte: The Hacker News, 30 Jun 2026, 11:18:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html>)
 
 - **Le unità USB contenenti malware legato alla Cina hanno infettato le reti militari giapponesi per quasi un anno**  
   Fonte: Graham Cluley, 30 Jun 2026, 10:25:50 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/usb-drives-carrying-china-linked-malware-infected-japanese-military-networks-for-nearly-a-year>)
 
-- **I difetti di AirDrop e Quick Share consentono agli aggressori nelle vicinanze di innescare arresti anomali e aggirare i controlli**  
-  Fonte: The Hacker News, 30 Jun 2026, 09:27:58 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html>)
 
-- **Il nuovo attacco BioShocking induce i browser AI a perdere le credenziali degli utenti**  
-  Fonte: The Hacker News, 30 Jun 2026, 08:37:19 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html>)
-
-- **La falla Progress Kemp LoadMaster potrebbe consentire agli aggressori di eseguire comandi di root prima dell'autenticazione**  
-  Fonte: The Hacker News, 30 Jun 2026, 07:38:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html>)
-
-- **Difetto di Oracle E-Business Suite CVE-2026-46817 sfruttato attivamente in natura**  
-  Fonte: The Hacker News, 30 Jun 2026, 05:04:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html>)
-
-- **Fattorizzazione di chiavi RSA con molti zeri**  
-  Fonte: Schneier on Security, 29 Jun 2026, 16:05:18 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html>)
-
-- **Agenti di polizia robot**  
-  Fonte: Schneier on Security, 29 Jun 2026, 10:55:33 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-07-06 09:56:28 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-07 09:24:48 UTC -->
