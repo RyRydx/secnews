@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **La CISA ordina ai federali di correggere il difetto massimo di gravità di ColdFusion entro venerdì**  
+  Fonte: BleepingComputer, 08 Jul 2026, 07:16:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/>)
+
+- **15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros**  
+  Fonte: The Hacker News, 08 Jul 2026, 06:16:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html>)
+
+- **CISA aggiunge a KEV 4 difetti Adobe, Joomla e Langflow sfruttati attivamente**  
+  Fonte: The Hacker News, 08 Jul 2026, 05:33:12 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html>)
+
+- **Accenture conferma la violazione dopo che un hacker ha messo in vendita i dati rubati**  
+  Fonte: BleepingComputer, 07 Jul 2026, 22:06:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/>)
+
+- **Gli hacker cinesi sviluppano il malware LONGLEASH per espandere la rete ORB**  
+  Fonte: BleepingComputer, 07 Jul 2026, 18:52:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/>)
+
+- **La backdoor nascosta nel firmware del router Tenda garantisce l'accesso come amministratore**  
+  Fonte: BleepingComputer, 07 Jul 2026, 17:27:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/>)
+
+- **RedWing MaaS offre pacchetti Android Bank Fraud come servizio di noleggio di Telegram**  
+  Fonte: The Hacker News, 07 Jul 2026, 17:10:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html>)
+
+- **Il difetto dell'agente canaglia potrebbe aver consentito agli aggressori di prendere il controllo dei chatbot CX di Google Dialogflow**  
+  Fonte: The Hacker News, 07 Jul 2026, 16:37:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html>)
+
+- **La Spagna arresta presunti membri di gruppi di hacktivisti filo-russi**  
+  Fonte: BleepingComputer, 07 Jul 2026, 15:21:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/>)
+
+- **Gli strumenti DEBULL abusano del flusso del codice dispositivo Microsoft per prendere di mira gli account M365**  
+  Fonte: The Hacker News, 07 Jul 2026, 15:14:14 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html>)
+
+- **Il problema di GitHub pubblico potrebbe indurre i flussi di lavoro di GitHub Agentic a perdere dati di repository privati**  
+  Fonte: The Hacker News, 07 Jul 2026, 14:04:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html>)
+
+- **Il modello di attacco delle azioni GitHub mancato dai tuoi scanner di sicurezza CI**  
+  Fonte: BleepingComputer, 07 Jul 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/>)
+
+- **L'istanza del tribunale rivela che l'ID del dispositivo Windows ha aiutato l'FBI a rintracciare il presunto Spider Hacker sparso**  
+  Fonte: The Hacker News, 07 Jul 2026, 13:27:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html>)
+
+- **Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants**  
+  Fonte: The Hacker News, 07 Jul 2026, 13:27:09 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html>)
+
+- **Cloudflare si unisce con orgoglio al Cyber ​​Resilience Pledge del governo britannico**  
+  Fonte: Cloudflare Blog - Security, 07 Jul 2026, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/>)
+
+- **Two arrested over credit card phishing – as the Netherlands is named Europe’s worst for payment fraud**  
+  Fonte: Graham Cluley, 07 Jul 2026, 12:56:01 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/two-arrested-credit-card-phishing-netherlands-europe-payment-fraud>)
+
+- **Webinar di domani: Perché i moderni attacchi via email richiedono un nuovo approccio alla difesa**  
+  Fonte: BleepingComputer, 07 Jul 2026, 12:12:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/>)
+
+- **Il nuovo difetto Januscape Linux consente l'evasione delle VM su dispositivi Intel e AMD**  
+  Fonte: BleepingComputer, 07 Jul 2026, 12:06:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/>)
+
+- **Cosa cambia quando la catena di fornitura del software include la scrittura del codice tramite intelligenza artificiale?**  
+  Fonte: The Hacker News, 07 Jul 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html>)
+
+- **Google fa causa ai truffatori cinesi che utilizzano Gemini**  
+  Fonte: Schneier on Security, 07 Jul 2026, 10:43:40 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html>)
+
+- **Microsoft abiliterà il backup delle impostazioni di Windows per impostazione predefinita per le organizzazioni**  
+  Fonte: BleepingComputer, 07 Jul 2026, 09:41:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/>)
+
+- **Presunti hacker allineati alla Cina sfruttano i difetti di Roundcube contro le università**  
+  Fonte: The Hacker News, 07 Jul 2026, 09:10:51 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html>)
+
 - **BeyondTrust avverte di difetti critici nel software di accesso remoto**  
   Fonte: BleepingComputer, 07 Jul 2026, 08:12:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/>)
@@ -46,10 +134,6 @@
   Fonte: BleepingComputer, 06 Jul 2026, 14:00:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/>)
 
-- **Gravità massima Difetto Adobe ColdFusion ora sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 06 Jul 2026, 13:18:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/>)
-
 - **⚡ Riepilogo settimanale: botnet proxy, ransomware per browser, trucchi degli agenti IA, malware PoC falso e altro ancora**  
   Fonte: The Hacker News, 06 Jul 2026, 13:01:14 UTC  
   [Leggi](<https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html>)
@@ -82,14 +166,6 @@
   Fonte: The Hacker News, 06 Jul 2026, 06:33:56 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html>)
 
-- **Lo sviluppo del firmware Flipper Zero continua con l'aiuto della comunità**  
-  Fonte: BleepingComputer, 05 Jul 2026, 14:14:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/>)
-
-- **Il ransomware JadePuffer ha utilizzato l'agente AI per automatizzare l'intero attacco**  
-  Fonte: BleepingComputer, 04 Jul 2026, 14:16:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/>)
-
 - **Un ente governativo degli Stati Uniti ha pagato a Kairos 1 milione di dollari in un caso di estorsione per furto di dati**  
   Fonte: The Hacker News, 04 Jul 2026, 12:47:53 UTC  
   [Leggi](<https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html>)
@@ -110,17 +186,9 @@
   Fonte: The Hacker News, 03 Jul 2026, 18:55:24 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html>)
 
-- **Rete proxy NetNut interrotta, 2 milioni di dispositivi infetti tagliati fuori**  
-  Fonte: BleepingComputer, 03 Jul 2026, 17:50:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/>)
-
 - **I pacchetti npm collegati alla Corea del Nord imitano i polyfill di rollup per rubare i segreti degli sviluppatori**  
   Fonte: The Hacker News, 03 Jul 2026, 16:07:15 UTC  
   [Leggi](<https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html>)
-
-- **ARToken PhaaS espone il toolkit di phishing Microsoft 365 di EvilTokens**  
-  Fonte: BleepingComputer, 03 Jul 2026, 14:12:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/>)
 
 - **Likho corazzato prende di mira le agenzie governative e il settore energetico con BusySnake Stealer**  
   Fonte: The Hacker News, 03 Jul 2026, 13:36:33 UTC  
@@ -142,14 +210,6 @@
   Fonte: Troy Hunt, 03 Jul 2026, 06:52:41 UTC  
   [Leggi](<https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/>)
 
-- **Claude Fable 5 non abbandonerà definitivamente gli abbonamenti, afferma Anthropic**  
-  Fonte: BleepingComputer, 03 Jul 2026, 01:37:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/>)
-
-- **Il rilancio di Claude Fable delude gli utenti con prestazioni ridotte**  
-  Fonte: BleepingComputer, 03 Jul 2026, 00:48:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/>)
-
 - **L'FBI sequestra la piattaforma proxy NetNut, la botnet Popa**  
   Fonte: Krebs on Security, 02 Jul 2026, 19:27:33 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/>)
@@ -169,14 +229,6 @@
 - **ThreatsDay: dirottamento del computer AI, difetto dell'e-mail di Apple, ransomware BlueHammer + 14 storie**  
   Fonte: The Hacker News, 02 Jul 2026, 15:24:18 UTC  
   [Leggi](<https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html>)
-
-- **Google perde l'appello finale per annullare la multa di 4,1 miliardi di euro dell'UE**  
-  Fonte: BleepingComputer, 02 Jul 2026, 15:18:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/>)
-
-- **ConsentFix e ClickFix: come gli account Microsoft 365 vengono violati in 3 secondi**  
-  Fonte: BleepingComputer, 02 Jul 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/>)
 
 - **Il malware Umbrij collegato a ToddyCat abusa di OAuth per accedere a Gmail tramite l'API di Google**  
   Fonte: The Hacker News, 02 Jul 2026, 13:04:13 UTC  
@@ -218,11 +270,11 @@
   Fonte: The Hacker News, 01 Jul 2026, 19:28:07 UTC  
   [Leggi](<https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html>)
 
-- **Schermata di abuso di siti software avvelenati dalla SEO Connettiti per distribuire AsyncRAT**  
+- **Schermata di abuso di siti software avvelenati dalla SEOConnettiti per distribuire AsyncRAT**  
   Fonte: The Hacker News, 01 Jul 2026, 17:53:06 UTC  
   [Leggi](<https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html>)
 
-- **La catena di malware VEIL#DROP utilizza la piattaforma Blogger per fornire PureLogs Stealer**  
+- **VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer**  
   Fonte: The Hacker News, 01 Jul 2026, 17:18:50 UTC  
   [Leggi](<https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html>)
 
@@ -238,7 +290,7 @@
   Fonte: The Hacker News, 01 Jul 2026, 14:42:54 UTC  
   [Leggi](<https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html>)
 
-- **Progresso Il difetto RCE pre-autenticazione di Kemp LoadMaster deve far fronte a tentativi di sfruttamento attivi**  
+- **Progresso Il difetto RCE pre-autenticazione di Kemp LoadMaster deve affrontare tentativi di sfruttamento attivi**  
   Fonte: The Hacker News, 01 Jul 2026, 13:56:18 UTC  
   [Leggi](<https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html>)
 
@@ -254,65 +306,5 @@
   Fonte: Schneier on Security, 01 Jul 2026, 10:53:23 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html>)
 
-- **Microsoft accelera il passaggio alla crittografia post-quantistica fino al 2029**  
-  Fonte: The Hacker News, 01 Jul 2026, 10:41:36 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html>)
 
-- **Phantom Squatting utilizza domini allucinati dall'intelligenza artificiale per phishing e malware**  
-  Fonte: The Hacker News, 01 Jul 2026, 07:20:51 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html>)
-
-- **Anthropic ripristina Claude Fable 5 dopo che gli Stati Uniti hanno revocato i controlli sulle esportazioni legate al jailbreak**  
-  Fonte: The Hacker News, 01 Jul 2026, 06:46:17 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html>)
-
-- **Smascherare le scansioni con Attribution Business Insights**  
-  Fonte: Cloudflare Blog - Security, 01 Jul 2026, 06:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/attribution-business-insights/>)
-
-- **Lo spray password dell'interfaccia della riga di comando di Azure raggiunge almeno 78 account Microsoft in oltre 81 milioni di tentativi**  
-  Fonte: The Hacker News, 01 Jul 2026, 05:46:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html>)
-
-- **Un ricercatore analizza 3.000 payload Live ClickFix, esponendo la distribuzione di malware basata su API**  
-  Fonte: The Hacker News, 01 Jul 2026, 05:32:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html>)
-
-- **Citrix corregge sei difetti di NetScaler che consentono la lettura dei file e il Denial-of-Service**  
-  Fonte: The Hacker News, 01 Jul 2026, 03:54:22 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html>)
-
-- **I truffatori corrono per trarre profitto dal disastro del terremoto in Venezuela**  
-  Fonte: Graham Cluley, 30 Jun 2026, 21:04:35 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/scammers-cash-in-venezuela-earthquake>)
-
-- **Microsoft avverte che le descrizioni degli strumenti MCP avvelenati possono causare la perdita di dati da parte degli agenti AI**  
-  Fonte: The Hacker News, 30 Jun 2026, 17:46:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html>)
-
-- **La botnet RustDuck si ricostruisce in Rust per dirottare router e server per DDoS**  
-  Fonte: The Hacker News, 30 Jun 2026, 17:45:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html>)
-
-- **Langflow RCE sfruttato per distribuire Monero Miner sugli endpoint delle app AI esposti**  
-  Fonte: The Hacker News, 30 Jun 2026, 15:47:20 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html>)
-
-- **Aggiornamento settimanale 510: in diretta da Maiorca con Scott Helme**  
-  Fonte: Troy Hunt, 30 Jun 2026, 15:42:54 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-510/>)
-
-- **Silent Swap Crypto Clipper utilizza l'estensione falsa di Google Notes per sostituire gli indirizzi del portafoglio**  
-  Fonte: The Hacker News, 30 Jun 2026, 15:40:18 UTC  
-  [Leggi](<https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html>)
-
-- **Le realtà della videosorveglianza tramite intelligenza artificiale**  
-  Fonte: Schneier on Security, 30 Jun 2026, 12:05:57 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html>)
-
-- **Le unità USB contenenti malware legato alla Cina hanno infettato le reti militari giapponesi per quasi un anno**  
-  Fonte: Graham Cluley, 30 Jun 2026, 10:25:50 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/usb-drives-carrying-china-linked-malware-infected-japanese-military-networks-for-nearly-a-year>)
-
-
-<!-- Ultimo aggiornamento: 2026-07-07 09:24:48 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-08 08:08:42 UTC -->
