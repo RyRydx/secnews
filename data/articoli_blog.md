@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **La versione compromessa di jscrambler 8.14.0 npm rilascia Rust Infostealer durante l'installazione**  
+  Fonte: The Hacker News, 11 Jul 2026, 17:59:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html>)
+
+- **Gli hacker utilizzano come arma il portale della polizia del Belucistan nelle campagne di spionaggio multigruppo**  
+  Fonte: The Hacker News, 11 Jul 2026, 17:49:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html>)
+
+- **L’Australia mette in guardia contro una campagna globale rivolta alle piattaforme CMS vulnerabili**  
+  Fonte: BleepingComputer, 11 Jul 2026, 14:18:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/>)
+
+- **"Ghostcommit" nasconde l'inserimento immediato nelle immagini per ingannare gli agenti dell'intelligenza artificiale e rubare segreti**  
+  Fonte: BleepingComputer, 11 Jul 2026, 09:03:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/>)
+
 - **Un difetto critico di Zimbra potrebbe consentire alle e-mail create di eseguire codice dannoso nelle sessioni utente**  
   Fonte: The Hacker News, 11 Jul 2026, 06:45:55 UTC  
   [Leggi](<https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html>)
@@ -118,7 +134,7 @@
   Fonte: The Hacker News, 09 Jul 2026, 18:08:07 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html>)
 
-- **Il nuovo gruppo vishing Helix emerge negli attacchi di furto di dati su SharePoint**  
+- **Il nuovo gruppo di vishing Helix emerge negli attacchi di furto di dati su SharePoint**  
   Fonte: BleepingComputer, 09 Jul 2026, 17:08:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/>)
 
@@ -133,14 +149,6 @@
 - **ThreatsDay: dirottamento di bucket cloud, catena LPE di Windows, repressione di frodi globali e altre 17 storie**  
   Fonte: The Hacker News, 09 Jul 2026, 15:09:28 UTC  
   [Leggi](<https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html>)
-
-- **La nuova piattaforma di phishing Forg365 utilizza l'intelligenza artificiale per prendere di mira gli account Microsoft 365**  
-  Fonte: BleepingComputer, 09 Jul 2026, 14:39:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/>)
-
-- **I rischi nascosti per la sicurezza derivanti dalla ridotta copertura informatica estiva**  
-  Fonte: BleepingComputer, 09 Jul 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/>)
 
 - **Perché non possiamo aspettare migliori algoritmi di firma post-quantistica**  
   Fonte: Cloudflare Blog - Security, 09 Jul 2026, 14:00:00 UTC  
@@ -210,7 +218,7 @@
   Fonte: The Hacker News, 08 Jul 2026, 13:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html>)
 
-- **Il malware SCMBANKER utilizza le esche ClickFix per prendere di mira gli utenti bancari messicani**  
+- **Il malware SCMBANKER utilizza esche ClickFix per prendere di mira gli utenti bancari messicani**  
   Fonte: The Hacker News, 08 Jul 2026, 12:52:15 UTC  
   [Leggi](<https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html>)
 
@@ -238,7 +246,7 @@
   Fonte: The Hacker News, 08 Jul 2026, 09:04:33 UTC  
   [Leggi](<https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html>)
 
-- **Un difetto GhostLock vecchio di 15 anni consente l'escape del root e del container sulla maggior parte delle distribuzioni Linux**  
+- **Il difetto GhostLock vecchio di 15 anni consente l'escape del root e del container sulla maggior parte delle distribuzioni Linux**  
   Fonte: The Hacker News, 08 Jul 2026, 06:16:44 UTC  
   [Leggi](<https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html>)
 
@@ -302,17 +310,9 @@
   Fonte: The Hacker News, 06 Jul 2026, 18:34:26 UTC  
   [Leggi](<https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html>)
 
-- **Un difetto KVM di Linux vecchio di 16 anni consente alle VM guest di fuggire per ospitare sistemi Intel e AMD x86**  
-  Fonte: The Hacker News, 06 Jul 2026, 17:37:01 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html>)
-
-- **Gli autori della minaccia indagano sul difetto Docker CVE-2026-20896 di Gitea 13 giorni dopo la divulgazione**  
-  Fonte: The Hacker News, 06 Jul 2026, 16:28:59 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html>)
-
 - **La Francia smetterà di certificare la crittografia non quantistica**  
   Fonte: Schneier on Security, 06 Jul 2026, 10:45:44 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-07-11 07:40:07 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-12 08:00:58 UTC -->
