@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **Un server configurato in modo errato rivela tre operazioni di phishing Evilginx che prendono di mira Microsoft 365**  
+  Fonte: The Hacker News, 13 Jul 2026, 07:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html>)
+
+- **I difetti di Joomla dei moduli iCagenda e Balbooa sarebbero stati sfruttati come Zero-Day**  
+  Fonte: The Hacker News, 13 Jul 2026, 05:36:02 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html>)
+
+- **OpenAI riduce temporaneamente i limiti di utilizzo di GPT-5.6 Sol**  
+  Fonte: BleepingComputer, 13 Jul 2026, 00:44:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/>)
+
+- **Claude Fable 5 rimane gratuito per gli utenti a pagamento fino al 19 luglio poiché Anthropic guadagna più tempo**  
+  Fonte: BleepingComputer, 12 Jul 2026, 19:39:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/>)
+
+- **Il malware Android RedHook ora utilizza ADB wireless per l'accesso alla shell**  
+  Fonte: BleepingComputer, 12 Jul 2026, 14:27:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/>)
+
 - **La versione compromessa di jscrambler 8.14.0 npm rilascia Rust Infostealer durante l'installazione**  
   Fonte: The Hacker News, 11 Jul 2026, 17:59:26 UTC  
   [Leggi](<https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html>)
@@ -62,7 +82,7 @@
   Fonte: BleepingComputer, 10 Jul 2026, 15:30:19 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/>)
 
-- **L'attacco laser reimposta le password del portafoglio Tangem sulle carte che non possono essere patchate**  
+- **Laser Attack reimposta le password del portafoglio Tangem su carte che non possono essere patchate**  
   Fonte: The Hacker News, 10 Jul 2026, 14:51:49 UTC  
   [Leggi](<https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html>)
 
@@ -122,10 +142,6 @@
   Fonte: BleepingComputer, 09 Jul 2026, 22:14:13 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/>)
 
-- **SDK iniettivo su npm infetto da ladro di portafogli di criptovaluta**  
-  Fonte: BleepingComputer, 09 Jul 2026, 20:10:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/>)
-
 - **Gli account GitHub dormienti aiutano gli aggressori a mimetizzarsi durante la mappatura delle organizzazioni aziendali**  
   Fonte: The Hacker News, 09 Jul 2026, 18:38:49 UTC  
   [Leggi](<https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html>)
@@ -133,14 +149,6 @@
 - **Il nuovo GigaWiper Windows Backdoor include pulizia del disco, ransomware falso e spyware**  
   Fonte: The Hacker News, 09 Jul 2026, 18:08:07 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html>)
-
-- **Il nuovo gruppo di vishing Helix emerge negli attacchi di furto di dati su SharePoint**  
-  Fonte: BleepingComputer, 09 Jul 2026, 17:08:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/>)
-
-- **Microsoft si aspetta più aggiornamenti di sicurezza di Windows dai difetti scoperti dall'intelligenza artificiale**  
-  Fonte: BleepingComputer, 09 Jul 2026, 17:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/>)
 
 - **npm 12 Disabilita gli script di installazione per impostazione predefinita per ridurre il rischio della catena di fornitura**  
   Fonte: The Hacker News, 09 Jul 2026, 16:49:02 UTC  
@@ -198,7 +206,7 @@
   Fonte: Graham Cluley, 08 Jul 2026, 23:19:18 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-475/>)
 
-- **Individuati agenti di codifica AI che attivano regole di sicurezza endpoint create per catturare gli aggressori**  
+- **Trovati agenti di codifica AI che attivano regole di sicurezza endpoint create per catturare gli aggressori**  
   Fonte: The Hacker News, 08 Jul 2026, 17:02:12 UTC  
   [Leggi](<https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html>)
 
@@ -218,7 +226,7 @@
   Fonte: The Hacker News, 08 Jul 2026, 13:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html>)
 
-- **Il malware SCMBANKER utilizza esche ClickFix per prendere di mira gli utenti bancari messicani**  
+- **Il malware SCMBANKER utilizza le esche ClickFix per prendere di mira gli utenti bancari messicani**  
   Fonte: The Hacker News, 08 Jul 2026, 12:52:15 UTC  
   [Leggi](<https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html>)
 
@@ -246,7 +254,7 @@
   Fonte: The Hacker News, 08 Jul 2026, 09:04:33 UTC  
   [Leggi](<https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html>)
 
-- **Il difetto GhostLock vecchio di 15 anni consente l'escape del root e del container sulla maggior parte delle distribuzioni Linux**  
+- **Un difetto GhostLock vecchio di 15 anni consente l'escape del root e del container sulla maggior parte delle distribuzioni Linux**  
   Fonte: The Hacker News, 08 Jul 2026, 06:16:44 UTC  
   [Leggi](<https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html>)
 
@@ -302,17 +310,9 @@
   Fonte: The Hacker News, 07 Jul 2026, 06:40:47 UTC  
   [Leggi](<https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html>)
 
-- **BeyondTrust corregge i difetti critici di autenticazione nel supporto remoto e nel PRA**  
-  Fonte: The Hacker News, 07 Jul 2026, 05:16:51 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html>)
-
-- **Gli hacker legati all'Iran utilizzano il nuovo framework Cavern C2 per prendere di mira le organizzazioni israeliane**  
-  Fonte: The Hacker News, 06 Jul 2026, 18:34:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html>)
-
 - **La Francia smetterà di certificare la crittografia non quantistica**  
   Fonte: Schneier on Security, 06 Jul 2026, 10:45:44 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-07-12 08:00:58 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-13 08:49:13 UTC -->
