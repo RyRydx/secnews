@@ -2,6 +2,90 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft mappa il furto di dati di Salesforce collegato a ShinyHunters durante tutto l'anno attraverso tre percorsi**  
+  Fonte: The Hacker News, 14 Jul 2026, 06:19:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html>)
+
+- **Il più grande operatore di taxi del Giappone chiude i sistemi dopo un attacco informatico**  
+  Fonte: BleepingComputer, 13 Jul 2026, 20:18:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/>)
+
+- **Pacchetto Jscrambler npm backdoor degli hacker con malware infostealer**  
+  Fonte: BleepingComputer, 13 Jul 2026, 19:44:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/>)
+
+- **Il nuovo malware CrashStealer si presenta come strumento di segnalazione degli arresti anomali di Apple**  
+  Fonte: BleepingComputer, 13 Jul 2026, 19:04:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/>)
+
+- **Il malware CrashStealer per macOS utilizza un dropper autenticato per superare i controlli Gatekeeper**  
+  Fonte: The Hacker News, 13 Jul 2026, 17:36:12 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html>)
+
+- **Google e Microsoft ritirano ModHeader con 1,6 milioni di installazioni dopo il ritrovamento di un collezionista dormiente**  
+  Fonte: The Hacker News, 13 Jul 2026, 17:17:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html>)
+
+- **CISA mette in guardia contro i difetti RCE attivamente sfruttati nelle estensioni di Joomla**  
+  Fonte: BleepingComputer, 13 Jul 2026, 15:20:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/>)
+
+- **⚡ Riepilogo settimanale: minaccia ShareFile, ransomware Citrix Bleed 2, attacchi di codifica AI e altro ancora**  
+  Fonte: The Hacker News, 13 Jul 2026, 15:05:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html>)
+
+- **Lezioni apprese dal recente leak su GitHub del CISA**  
+  Fonte: Krebs on Security, 13 Jul 2026, 15:03:28 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/>)
+
+- **Lidl rivela la violazione del negozio online dopo l'hacking del fornitore di servizi**  
+  Fonte: BleepingComputer, 13 Jul 2026, 14:19:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/>)
+
+- **Violazione in spiaggia: gioca al CTF Ultimate Entra ID**  
+  Fonte: BleepingComputer, 13 Jul 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/>)
+
+- **Il nuovo attacco MemGhost impianta falsi ricordi persistenti negli agenti IA tramite un'unica e-mail**  
+  Fonte: The Hacker News, 13 Jul 2026, 13:49:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html>)
+
+- **Il Regno Unito accusa sospetti collegati alla piattaforma di spoofing delle chiamate Coms russe**  
+  Fonte: BleepingComputer, 13 Jul 2026, 13:23:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/>)
+
+- **Forg365 PhaaS prende di mira Microsoft 365 con il furto del codice dispositivo e della sessione AitM**  
+  Fonte: The Hacker News, 13 Jul 2026, 13:03:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html>)
+
+- **Presentazione di Precursor: rilevamento del comportamento degli agenti con segnali continui lato client**  
+  Fonte: Cloudflare Blog - Security, 13 Jul 2026, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/introducing-precursor/>)
+
+- **Brevetto di meta file per un'intelligenza artificiale in grado di ascoltare tutto il giorno e monitorare come ti senti**  
+  Fonte: The Hacker News, 13 Jul 2026, 11:54:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html>)
+
+- **Pensare velocemente e lentamente nel SOC: il caso di combinare l'intelligenza artificiale autonoma con gli analisti copiloti**  
+  Fonte: The Hacker News, 13 Jul 2026, 11:37:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html>)
+
+- **L'UE sanziona gli hacker militari russi del GRU per attacchi informatici**  
+  Fonte: BleepingComputer, 13 Jul 2026, 11:19:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/>)
+
+- **L'aggressore utilizza il sospetto script PowerShell generato dall'intelligenza artificiale per mappare Active Directory**  
+  Fonte: The Hacker News, 13 Jul 2026, 11:02:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html>)
+
+- **Data center AI e concentrazione della ricchezza**  
+  Fonte: Schneier on Security, 13 Jul 2026, 11:01:57 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html>)
+
+- **Gli Stati Uniti e i loro alleati mettono in guardia contro gli attacchi alle infrastrutture critiche russe**  
+  Fonte: BleepingComputer, 13 Jul 2026, 09:32:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/>)
+
 - **Un server configurato in modo errato rivela tre operazioni di phishing Evilginx che prendono di mira Microsoft 365**  
   Fonte: The Hacker News, 13 Jul 2026, 07:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html>)
@@ -50,14 +134,6 @@
   Fonte: Schneier on Security, 10 Jul 2026, 21:07:13 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html>)
 
-- **Il membro del ransomware Ryuk si dichiara colpevole negli Stati Uniti e rischia 15 anni di prigione**  
-  Fonte: BleepingComputer, 10 Jul 2026, 17:46:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/>)
-
-- **La polizia sospetta che hacker olandesi siano coinvolti nella violazione di Odido**  
-  Fonte: BleepingComputer, 10 Jul 2026, 16:37:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/>)
-
 - **URGENTE - I progressi dicono ai clienti ShareFile di spegnere i controller della zona di storage a causa della minaccia alla sicurezza**  
   Fonte: The Hacker News, 10 Jul 2026, 16:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html>)
@@ -66,21 +142,9 @@
   Fonte: The Hacker News, 10 Jul 2026, 16:29:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html>)
 
-- **I progressi spingono gli amministratori di ShareFile a chiudere i server a causa di una minaccia “credibile”.**  
-  Fonte: BleepingComputer, 10 Jul 2026, 16:26:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/>)
-
 - **Sei nuovi difetti di U-Boot potrebbero consentire a immagini dannose di mandare in crash i dispositivi o di eseguire codice all'avvio**  
   Fonte: The Hacker News, 10 Jul 2026, 15:57:14 UTC  
   [Leggi](<https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html>)
-
-- **Gli hacker sfruttano il bypass critico dell'autenticazione nell'immagine Gitea Docker**  
-  Fonte: BleepingComputer, 10 Jul 2026, 15:48:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/>)
-
-- **Riciclatore di denaro accusato di aver rubato criptovalute sequestrate mentre era in prigione**  
-  Fonte: BleepingComputer, 10 Jul 2026, 15:30:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/>)
 
 - **Laser Attack reimposta le password del portafoglio Tangem su carte che non possono essere patchate**  
   Fonte: The Hacker News, 10 Jul 2026, 14:51:49 UTC  
@@ -90,10 +154,6 @@
   Fonte: The Hacker News, 10 Jul 2026, 14:19:50 UTC  
   [Leggi](<https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html>)
 
-- **Il replicante nella tua directory: agenti AI e il divario nella sicurezza dell'identità**  
-  Fonte: BleepingComputer, 10 Jul 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/>)
-
 - **Il nuovo MODBEACON RAT utilizza lo streaming gRPC per il traffico C2 crittografato**  
   Fonte: The Hacker News, 10 Jul 2026, 13:15:23 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html>)
@@ -101,14 +161,6 @@
 - **Il difetto XRING senza patch in XQUIC consente ai client remoti di bloccare i server HTTP/3**  
   Fonte: The Hacker News, 10 Jul 2026, 11:47:43 UTC  
   [Leggi](<https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html>)
-
-- **Zimbra esorta i clienti a correggere il difetto critico XSS del client Web**  
-  Fonte: BleepingComputer, 10 Jul 2026, 11:47:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/>)
-
-- **Da 17.000 a 1,1 milioni di asset: come Lumen Technologies ha ricostruito la gestione dell'esposizione su larga scala**  
-  Fonte: The Hacker News, 10 Jul 2026, 11:39:40 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html>)
 
 - **Il server hacker esposto rivela WP-SHELLSTORM backdooring su migliaia di siti WordPress**  
   Fonte: The Hacker News, 10 Jul 2026, 11:30:02 UTC  
@@ -130,17 +182,9 @@
   Fonte: The Hacker News, 10 Jul 2026, 09:00:05 UTC  
   [Leggi](<https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html>)
 
-- **L'ex negoziatore di ransomware ottiene 4 anni per attacchi BlackCat**  
-  Fonte: BleepingComputer, 10 Jul 2026, 08:17:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/>)
-
 - **Il negoziatore di ransomware riceve 70 mesi di prigione per aver aiutato gli attacchi BlackCat**  
   Fonte: The Hacker News, 10 Jul 2026, 08:10:12 UTC  
   [Leggi](<https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html>)
-
-- **OpenMandriva Linux dice che il collaboratore ha tentato di sabotare il progetto**  
-  Fonte: BleepingComputer, 09 Jul 2026, 22:14:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/>)
 
 - **Gli account GitHub dormienti aiutano gli aggressori a mimetizzarsi durante la mappatura delle organizzazioni aziendali**  
   Fonte: The Hacker News, 09 Jul 2026, 18:38:49 UTC  
@@ -266,26 +310,6 @@
   Fonte: The Hacker News, 07 Jul 2026, 17:10:15 UTC  
   [Leggi](<https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html>)
 
-- **Il difetto dell'agente canaglia potrebbe aver consentito agli aggressori di prendere il controllo dei chatbot CX di Google Dialogflow**  
-  Fonte: The Hacker News, 07 Jul 2026, 16:37:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html>)
-
-- **Gli strumenti DEBULL abusano del flusso del codice dispositivo Microsoft per prendere di mira gli account M365**  
-  Fonte: The Hacker News, 07 Jul 2026, 15:14:14 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html>)
-
-- **Il problema di GitHub pubblico potrebbe indurre i flussi di lavoro di GitHub Agentic a perdere dati di repository privati**  
-  Fonte: The Hacker News, 07 Jul 2026, 14:04:50 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html>)
-
-- **L'istanza del tribunale rivela che l'ID del dispositivo Windows ha aiutato l'FBI a rintracciare il presunto Spider Hacker sparso**  
-  Fonte: The Hacker News, 07 Jul 2026, 13:27:20 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html>)
-
-- **Il difetto dell'intelligenza artificiale dello scrittore potrebbe consentire alle anteprime degli agenti di perdere token di sessione tra i tenant**  
-  Fonte: The Hacker News, 07 Jul 2026, 13:27:09 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html>)
-
 - **Cloudflare si unisce con orgoglio al Cyber ​​Resilience Pledge del governo britannico**  
   Fonte: Cloudflare Blog - Security, 07 Jul 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/>)
@@ -294,25 +318,9 @@
   Fonte: Graham Cluley, 07 Jul 2026, 12:56:01 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/two-arrested-credit-card-phishing-netherlands-europe-payment-fraud>)
 
-- **Cosa cambia quando la catena di fornitura del software include la scrittura del codice tramite intelligenza artificiale?**  
-  Fonte: The Hacker News, 07 Jul 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html>)
-
 - **Google fa causa ai truffatori cinesi che utilizzano Gemini**  
   Fonte: Schneier on Security, 07 Jul 2026, 10:43:40 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html>)
 
-- **Presunti hacker allineati alla Cina sfruttano i difetti di Roundcube contro le università**  
-  Fonte: The Hacker News, 07 Jul 2026, 09:10:51 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html>)
 
-- **CERT/CC avvisa della backdoor amministrativa nascosta nel firmware del router Tenda**  
-  Fonte: The Hacker News, 07 Jul 2026, 06:40:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html>)
-
-- **La Francia smetterà di certificare la crittografia non quantistica**  
-  Fonte: Schneier on Security, 06 Jul 2026, 10:45:44 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-07-13 08:49:13 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-14 07:46:45 UTC -->
