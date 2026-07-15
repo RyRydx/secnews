@@ -2,21 +2,141 @@
 
 ## Ultimi 7 giorni
 
-- **Microsoft mappa il furto di dati di Salesforce collegato a ShinyHunters durante tutto l'anno attraverso tre percorsi**  
+- **Gli Stati Uniti accusano presunti operatori del servizio di hosting antiproiettile russo**  
+  Fonte: BleepingComputer, 15 Jul 2026, 07:45:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/>)
+
+- **Sfruttati due SonicWall SMA 1000 Zero-Days, uno dei quali potrebbe abilitare i comandi di amministrazione**  
+  Fonte: The Hacker News, 15 Jul 2026, 05:30:21 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html>)
+
+- **Aggiornamento settimanale 512: blocco IoT non riuscito**  
+  Fonte: Troy Hunt, 15 Jul 2026, 00:35:38 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-512/>)
+
+- **SonicWall avvisa dei difetti SMA1000 sfruttati negli attacchi zero-day, applica subito la patch**  
+  Fonte: BleepingComputer, 14 Jul 2026, 21:23:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/>)
+
+- **Le patch Microsoft registrano 622 difetti, inclusi due zero-day sotto attacco attivo**  
+  Fonte: The Hacker News, 14 Jul 2026, 20:25:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html>)
+
+- **La polizia spagnola sgomina un giro di frode informatica da 140 milioni di euro e ne arresta quattro**  
+  Fonte: BleepingComputer, 14 Jul 2026, 20:23:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/>)
+
+- **Microsoft corregge un record di 570 difetti di sicurezza**  
+  Fonte: Krebs on Security, 14 Jul 2026, 19:22:42 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/>)
+
+- **Quasi 300 repository GitHub si presentano come software legittimo per diffondere malware**  
+  Fonte: BleepingComputer, 14 Jul 2026, 19:15:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/>)
+
+- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5099539 di Windows 10**  
+  Fonte: BleepingComputer, 14 Jul 2026, 18:49:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/>)
+
+- **SAP patcha il difetto CVSS 9.9 NetWeaver ABAP che potrebbe esporre o modificare i dati**  
+  Fonte: The Hacker News, 14 Jul 2026, 18:17:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html>)
+
+- **Il Patch Tuesday di luglio 2026 di Microsoft corregge enormi 570 difetti, 3 zero-day**  
+  Fonte: BleepingComputer, 14 Jul 2026, 18:01:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/>)
+
+- **Aggiornamenti cumulativi di Windows 11 KB5101650 e KB5099414 rilasciati**  
+  Fonte: BleepingComputer, 14 Jul 2026, 17:41:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/>)
+
+- **I ricercatori affermano che Claude per Chrome Flaw consente alle estensioni non autorizzate di attivare le letture di Gmail**  
+  Fonte: The Hacker News, 14 Jul 2026, 17:27:23 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html>)
+
+- **LabubaRAT si maschera da software NVIDIA per controllare gli host Windows**  
+  Fonte: The Hacker News, 14 Jul 2026, 16:52:37 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html>)
+
+- **I progressi confermano il difetto zero-day di ShareFile dietro l'arresto della zona di archiviazione**  
+  Fonte: BleepingComputer, 14 Jul 2026, 16:08:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/>)
+
+- **Prossimi impegni di conferenza**  
+  Fonte: Schneier on Security, 14 Jul 2026, 16:04:49 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html>)
+
+- **LastPass, utenti Bitwarden presi di mira con falsi avvisi di sicurezza**  
+  Fonte: BleepingComputer, 14 Jul 2026, 15:31:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/>)
+
+- **Non è necessario eseguire un exploit per sapere se sei vulnerabile**  
+  Fonte: BleepingComputer, 14 Jul 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/>)
+
+- **I difetti di RabbitMQ potrebbero far trapelare i segreti OAuth ed esporre i metadati della coda tra tenant**  
+  Fonte: The Hacker News, 14 Jul 2026, 13:48:07 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html>)
+
+- **Microsoft Entra ID ottiene l'autenticazione predefinita tramite passkey a partire da settembre**  
+  Fonte: BleepingComputer, 14 Jul 2026, 12:49:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/>)
+
+- **Nuovi kit di phishing prendono di mira gli account Microsoft 365 ed eludono l'MFA**  
+  Fonte: BleepingComputer, 14 Jul 2026, 12:49:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/>)
+
+- **11 vecchi shim UEFI Linux firmati Microsoft potrebbero consentire agli aggressori di aggirare l'avvio sicuro**  
+  Fonte: The Hacker News, 14 Jul 2026, 12:46:18 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html>)
+
+- **Uno studio su 85 estensioni del portafoglio crittografico rileva fughe di indirizzi e rischi di tracciamento tra siti**  
+  Fonte: The Hacker News, 14 Jul 2026, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html>)
+
+- **SAP avverte di difetti critici in NetWeaver e Commerce Cloud**  
+  Fonte: BleepingComputer, 14 Jul 2026, 11:42:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/>)
+
+- **In che modo Pentera trasforma i flussi di lavoro di sicurezza dell'intelligenza artificiale in motori di convalida**  
+  Fonte: The Hacker News, 14 Jul 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html>)
+
+- **Lo spoofing dell'ID client OAuth consente agli aggressori di convalidare le credenziali Microsoft Entra rubate**  
+  Fonte: The Hacker News, 14 Jul 2026, 11:21:35 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html>)
+
+- **Vulnerabilità nella rete FIFA**  
+  Fonte: Schneier on Security, 14 Jul 2026, 11:06:51 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html>)
+
+- **Microsoft inizia a testare Windows Search più pulito e senza pubblicità**  
+  Fonte: BleepingComputer, 14 Jul 2026, 10:47:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/>)
+
+- **Gli Stati Uniti sanzionano VPN e fornitori di malware per aver consentito attacchi ransomware**  
+  Fonte: BleepingComputer, 14 Jul 2026, 09:40:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/>)
+
+- **Grok Build ha caricato interi repository Git su xAI Storage, non solo i file letti**  
+  Fonte: The Hacker News, 14 Jul 2026, 09:02:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html>)
+
+- **Gli Stati Uniti sanzionano il primo servizio VPN e il venditore di malware Cryptor per il supporto del ransomware**  
+  Fonte: The Hacker News, 14 Jul 2026, 08:02:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html>)
+
+- **Il negoziatore del ransomware che lavorava per la controparte**  
+  Fonte: Graham Cluley, 14 Jul 2026, 07:54:08 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-negotiator-working-other-side>)
+
+- **Pacchetti da 148 npm mascherati da proxy per studenti hanno trasformato i browser in una botnet DDoS**  
+  Fonte: The Hacker News, 14 Jul 2026, 07:08:36 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html>)
+
+- **Microsoft traccia tre percorsi di attacco di Salesforce legati a un anno di attività di ShinyHunters**  
   Fonte: The Hacker News, 14 Jul 2026, 06:19:24 UTC  
   [Leggi](<https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html>)
-
-- **Il più grande operatore di taxi del Giappone chiude i sistemi dopo un attacco informatico**  
-  Fonte: BleepingComputer, 13 Jul 2026, 20:18:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/>)
-
-- **Pacchetto Jscrambler npm backdoor degli hacker con malware infostealer**  
-  Fonte: BleepingComputer, 13 Jul 2026, 19:44:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/>)
-
-- **Il nuovo malware CrashStealer si presenta come strumento di segnalazione degli arresti anomali di Apple**  
-  Fonte: BleepingComputer, 13 Jul 2026, 19:04:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/>)
 
 - **Il malware CrashStealer per macOS utilizza un dropper autenticato per superare i controlli Gatekeeper**  
   Fonte: The Hacker News, 13 Jul 2026, 17:36:12 UTC  
@@ -26,10 +146,6 @@
   Fonte: The Hacker News, 13 Jul 2026, 17:17:24 UTC  
   [Leggi](<https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html>)
 
-- **CISA mette in guardia contro i difetti RCE attivamente sfruttati nelle estensioni di Joomla**  
-  Fonte: BleepingComputer, 13 Jul 2026, 15:20:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/>)
-
 - **⚡ Riepilogo settimanale: minaccia ShareFile, ransomware Citrix Bleed 2, attacchi di codifica AI e altro ancora**  
   Fonte: The Hacker News, 13 Jul 2026, 15:05:57 UTC  
   [Leggi](<https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html>)
@@ -38,21 +154,9 @@
   Fonte: Krebs on Security, 13 Jul 2026, 15:03:28 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/>)
 
-- **Lidl rivela la violazione del negozio online dopo l'hacking del fornitore di servizi**  
-  Fonte: BleepingComputer, 13 Jul 2026, 14:19:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/>)
-
-- **Violazione in spiaggia: gioca al CTF Ultimate Entra ID**  
-  Fonte: BleepingComputer, 13 Jul 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/>)
-
 - **Il nuovo attacco MemGhost impianta falsi ricordi persistenti negli agenti IA tramite un'unica e-mail**  
   Fonte: The Hacker News, 13 Jul 2026, 13:49:48 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html>)
-
-- **Il Regno Unito accusa sospetti collegati alla piattaforma di spoofing delle chiamate Coms russe**  
-  Fonte: BleepingComputer, 13 Jul 2026, 13:23:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/>)
 
 - **Forg365 PhaaS prende di mira Microsoft 365 con il furto del codice dispositivo e della sessione AitM**  
   Fonte: The Hacker News, 13 Jul 2026, 13:03:33 UTC  
@@ -70,10 +174,6 @@
   Fonte: The Hacker News, 13 Jul 2026, 11:37:05 UTC  
   [Leggi](<https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html>)
 
-- **L'UE sanziona gli hacker militari russi del GRU per attacchi informatici**  
-  Fonte: BleepingComputer, 13 Jul 2026, 11:19:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/>)
-
 - **L'aggressore utilizza il sospetto script PowerShell generato dall'intelligenza artificiale per mappare Active Directory**  
   Fonte: The Hacker News, 13 Jul 2026, 11:02:33 UTC  
   [Leggi](<https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html>)
@@ -82,29 +182,13 @@
   Fonte: Schneier on Security, 13 Jul 2026, 11:01:57 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html>)
 
-- **Gli Stati Uniti e i loro alleati mettono in guardia contro gli attacchi alle infrastrutture critiche russe**  
-  Fonte: BleepingComputer, 13 Jul 2026, 09:32:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/>)
-
-- **Un server configurato in modo errato rivela tre operazioni di phishing Evilginx che prendono di mira Microsoft 365**  
+- **Un server configurato in modo errato rivela tre operazioni di phishing Evilginx rivolte a Microsoft 365**  
   Fonte: The Hacker News, 13 Jul 2026, 07:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html>)
 
 - **I difetti di Joomla dei moduli iCagenda e Balbooa sarebbero stati sfruttati come Zero-Day**  
   Fonte: The Hacker News, 13 Jul 2026, 05:36:02 UTC  
   [Leggi](<https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html>)
-
-- **OpenAI riduce temporaneamente i limiti di utilizzo di GPT-5.6 Sol**  
-  Fonte: BleepingComputer, 13 Jul 2026, 00:44:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/>)
-
-- **Claude Fable 5 rimane gratuito per gli utenti a pagamento fino al 19 luglio poiché Anthropic guadagna più tempo**  
-  Fonte: BleepingComputer, 12 Jul 2026, 19:39:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/>)
-
-- **Il malware Android RedHook ora utilizza ADB wireless per l'accesso alla shell**  
-  Fonte: BleepingComputer, 12 Jul 2026, 14:27:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/>)
 
 - **La versione compromessa di jscrambler 8.14.0 npm rilascia Rust Infostealer durante l'installazione**  
   Fonte: The Hacker News, 11 Jul 2026, 17:59:26 UTC  
@@ -114,21 +198,9 @@
   Fonte: The Hacker News, 11 Jul 2026, 17:49:31 UTC  
   [Leggi](<https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html>)
 
-- **L’Australia mette in guardia contro una campagna globale rivolta alle piattaforme CMS vulnerabili**  
-  Fonte: BleepingComputer, 11 Jul 2026, 14:18:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/>)
-
-- **"Ghostcommit" nasconde l'inserimento immediato nelle immagini per ingannare gli agenti dell'intelligenza artificiale e rubare segreti**  
-  Fonte: BleepingComputer, 11 Jul 2026, 09:03:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/>)
-
 - **Un difetto critico di Zimbra potrebbe consentire alle e-mail create di eseguire codice dannoso nelle sessioni utente**  
   Fonte: The Hacker News, 11 Jul 2026, 06:45:55 UTC  
   [Leggi](<https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html>)
-
-- **Le nuove falle di U-Boot potrebbero consentire attacchi furtivi al firmware**  
-  Fonte: BleepingComputer, 10 Jul 2026, 21:59:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/>)
 
 - **Blogging di Friday Squid: vulnerabilità "Squidbleed".**  
   Fonte: Schneier on Security, 10 Jul 2026, 21:07:13 UTC  
@@ -242,85 +314,21 @@
   Fonte: The Hacker News, 09 Jul 2026, 04:27:18 UTC  
   [Leggi](<https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html>)
 
-- **I falsi programmi di installazione di 7-Zip trasformano i dispositivi in ​​nodi proxy residenziali**  
-  Fonte: The Hacker News, 09 Jul 2026, 04:01:49 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html>)
-
 - **Podcast di Smashing Security n. 475: JadePuffer: l'intelligenza artificiale che ha eseguito un attacco ransomware da sola**  
   Fonte: Graham Cluley, 08 Jul 2026, 23:19:18 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-475/>)
-
-- **Trovati agenti di codifica AI che attivano regole di sicurezza endpoint create per catturare gli aggressori**  
-  Fonte: The Hacker News, 08 Jul 2026, 17:02:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html>)
-
-- **Il nuovo attacco HalluSquatting potrebbe indurre gli assistenti di codifica AI a installare malware botnet**  
-  Fonte: The Hacker News, 08 Jul 2026, 15:07:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html>)
-
-- **Ubiquiti corregge i difetti critici di UniFi su Connect, Talk, Access, Protect e OS**  
-  Fonte: The Hacker News, 08 Jul 2026, 14:38:05 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html>)
 
 - **Aggiornamento settimanale 511: in diretta dal mio Riad a Marrakech**  
   Fonte: Troy Hunt, 08 Jul 2026, 13:54:46 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-511/>)
 
-- **Una nuova ondata di phishing fantasma sta rivoluzionando la tradizionale sicurezza della posta elettronica**  
-  Fonte: The Hacker News, 08 Jul 2026, 13:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html>)
-
-- **Il malware SCMBANKER utilizza le esche ClickFix per prendere di mira gli utenti bancari messicani**  
-  Fonte: The Hacker News, 08 Jul 2026, 12:52:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html>)
-
 - **Criminali e truffatori lanciano iniziative offensive nel campo della sicurezza informatica**  
   Fonte: Krebs on Security, 08 Jul 2026, 12:31:39 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/>)
-
-- **I commit "verificati" di GitHub possono essere riscritti in nuovi hash senza interrompere le firme**  
-  Fonte: The Hacker News, 08 Jul 2026, 11:51:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/github-verified-commits-can-be.html>)
-
-- **La fase di verifica è il nuovo campo di battaglia dell'ATO nel 2026**  
-  Fonte: The Hacker News, 08 Jul 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html>)
-
-- **GitHub Copilot rifiuta le richieste dannose in chat, quindi le scrive nel codice**  
-  Fonte: The Hacker News, 08 Jul 2026, 11:21:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html>)
 
 - **La sicurezza informatica e il divario tra abilità e abilità**  
   Fonte: Schneier on Security, 08 Jul 2026, 11:03:04 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html>)
 
-- **UAT-7810 collegato alla Cina espande la rete ORB con il nuovo malware LONGLEASH**  
-  Fonte: The Hacker News, 08 Jul 2026, 09:04:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html>)
 
-- **Un difetto GhostLock vecchio di 15 anni consente l'escape del root e del container sulla maggior parte delle distribuzioni Linux**  
-  Fonte: The Hacker News, 08 Jul 2026, 06:16:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html>)
-
-- **CISA aggiunge a KEV 4 difetti Adobe, Joomla e Langflow sfruttati attivamente**  
-  Fonte: The Hacker News, 08 Jul 2026, 05:33:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html>)
-
-- **RedWing MaaS offre pacchetti Android Bank Fraud come servizio di noleggio di Telegram**  
-  Fonte: The Hacker News, 07 Jul 2026, 17:10:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html>)
-
-- **Cloudflare si unisce con orgoglio al Cyber ​​Resilience Pledge del governo britannico**  
-  Fonte: Cloudflare Blog - Security, 07 Jul 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/>)
-
-- **Due arrestati per phishing con carte di credito, poiché i Paesi Bassi sono definiti il ​​paese peggiore in Europa per frode nei pagamenti**  
-  Fonte: Graham Cluley, 07 Jul 2026, 12:56:01 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/two-arrested-credit-card-phishing-netherlands-europe-payment-fraud>)
-
-- **Google fa causa ai truffatori cinesi che utilizzano Gemini**  
-  Fonte: Schneier on Security, 07 Jul 2026, 10:43:40 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-07-14 07:46:45 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-15 07:51:57 UTC -->
