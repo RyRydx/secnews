@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **La polizia olandese sgomina una rete di frodi sugli investimenti che ha rubato oltre 100 milioni di euro**  
+  Fonte: BleepingComputer, 15 Jul 2026, 21:55:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/>)
+
+- **Zoom avverte di una vulnerabilità critica per l'acquisizione di account**  
+  Fonte: BleepingComputer, 15 Jul 2026, 20:16:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/>)
+
+- **L'evoluzione di TuxBot v3 mostra segni di sviluppo di botnet IoT assistito da LLM**  
+  Fonte: The Hacker News, 15 Jul 2026, 18:43:08 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html>)
+
+- **Google Gemini CLI abusato come agente di hacking, operatore di botnet malware**  
+  Fonte: BleepingComputer, 15 Jul 2026, 18:33:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/>)
+
+- **Pacchetti AsyncAPI npm infetti da malware per il furto di credenziali**  
+  Fonte: BleepingComputer, 15 Jul 2026, 15:37:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/>)
+
+- **OkoBot Malware Framework inserisce frasi di phishing seed nelle app Ledger e Trezor**  
+  Fonte: The Hacker News, 15 Jul 2026, 15:30:30 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html>)
+
+- **Abbiamo costruito un distributore automatico di vulnerabilità: token AI in entrata, zero-days in uscita**  
+  Fonte: BleepingComputer, 15 Jul 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/>)
+
+- **Gli aggiornamenti di Firefox, Chrome, Adobe e VMware risolvono numerosi difetti critici di sicurezza**  
+  Fonte: The Hacker News, 15 Jul 2026, 13:18:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html>)
+
+- **SASE ha un punto cieco dell'IA.Ispezionare i pacchetti non è più sufficiente.**  
+  Fonte: The Hacker News, 15 Jul 2026, 11:50:01 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html>)
+
+- **Un ricercatore rilascia le nuove ore PoC Zero-Day di Windows dopo il Patch Tuesday di Microsoft**  
+  Fonte: The Hacker News, 15 Jul 2026, 11:07:07 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html>)
+
+- **Nuovo webinar: colmare il divario di approvazione nella tecnologia pubblicitaria dell'era dell'intelligenza artificiale**  
+  Fonte: The Hacker News, 15 Jul 2026, 11:06:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html>)
+
+- **Uno schermo video che è anche una fotocamera**  
+  Fonte: Schneier on Security, 15 Jul 2026, 11:04:06 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/a-video-screen-that-is-also-a-camera.html>)
+
+- **Il difetto del cursore consente ai repository clonati dannosi di attivare l'esecuzione del codice di Windows**  
+  Fonte: The Hacker News, 15 Jul 2026, 10:55:22 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html>)
+
+- **CISA avvisa gli amministratori di correggere i difetti di SharePoint sfruttati attivamente**  
+  Fonte: BleepingComputer, 15 Jul 2026, 09:44:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/>)
+
+- **I pacchetti AsyncAPI npm compromessi distribuiscono malware botnet multifase**  
+  Fonte: The Hacker News, 15 Jul 2026, 09:16:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html>)
+
+- **Microsoft: alcuni PC Dell si spengono dopo i recenti aggiornamenti di Windows**  
+  Fonte: BleepingComputer, 15 Jul 2026, 08:26:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/>)
+
 - **Gli Stati Uniti accusano presunti operatori del servizio di hosting antiproiettile russo**  
   Fonte: BleepingComputer, 15 Jul 2026, 07:45:50 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/>)
@@ -58,7 +122,7 @@
   Fonte: The Hacker News, 14 Jul 2026, 16:52:37 UTC  
   [Leggi](<https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html>)
 
-- **I progressi confermano il difetto zero-day di ShareFile dietro l'arresto della zona di archiviazione**  
+- **I progressi confermano il difetto zero-day di ShareFile dietro l'arresto della Storage Zone**  
   Fonte: BleepingComputer, 14 Jul 2026, 16:08:47 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/>)
 
@@ -66,37 +130,17 @@
   Fonte: Schneier on Security, 14 Jul 2026, 16:04:49 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html>)
 
-- **LastPass, utenti Bitwarden presi di mira con falsi avvisi di sicurezza**  
-  Fonte: BleepingComputer, 14 Jul 2026, 15:31:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/>)
-
-- **Non è necessario eseguire un exploit per sapere se sei vulnerabile**  
-  Fonte: BleepingComputer, 14 Jul 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/>)
-
 - **I difetti di RabbitMQ potrebbero far trapelare i segreti OAuth ed esporre i metadati della coda tra tenant**  
   Fonte: The Hacker News, 14 Jul 2026, 13:48:07 UTC  
   [Leggi](<https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html>)
 
-- **Microsoft Entra ID ottiene l'autenticazione predefinita tramite passkey a partire da settembre**  
-  Fonte: BleepingComputer, 14 Jul 2026, 12:49:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/>)
-
-- **Nuovi kit di phishing prendono di mira gli account Microsoft 365 ed eludono l'MFA**  
-  Fonte: BleepingComputer, 14 Jul 2026, 12:49:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/>)
-
-- **11 vecchi shim UEFI Linux firmati Microsoft potrebbero consentire agli aggressori di aggirare l'avvio sicuro**  
+- **11 vecchi shim UEFI Linux firmati da Microsoft potrebbero consentire agli aggressori di aggirare l'avvio sicuro**  
   Fonte: The Hacker News, 14 Jul 2026, 12:46:18 UTC  
   [Leggi](<https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html>)
 
 - **Uno studio su 85 estensioni del portafoglio crittografico rileva fughe di indirizzi e rischi di tracciamento tra siti**  
   Fonte: The Hacker News, 14 Jul 2026, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html>)
-
-- **SAP avverte di difetti critici in NetWeaver e Commerce Cloud**  
-  Fonte: BleepingComputer, 14 Jul 2026, 11:42:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/>)
 
 - **In che modo Pentera trasforma i flussi di lavoro di sicurezza dell'intelligenza artificiale in motori di convalida**  
   Fonte: The Hacker News, 14 Jul 2026, 11:30:00 UTC  
@@ -109,14 +153,6 @@
 - **Vulnerabilità nella rete FIFA**  
   Fonte: Schneier on Security, 14 Jul 2026, 11:06:51 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html>)
-
-- **Microsoft inizia a testare Windows Search più pulito e senza pubblicità**  
-  Fonte: BleepingComputer, 14 Jul 2026, 10:47:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/>)
-
-- **Gli Stati Uniti sanzionano VPN e fornitori di malware per aver consentito attacchi ransomware**  
-  Fonte: BleepingComputer, 14 Jul 2026, 09:40:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/>)
 
 - **Grok Build ha caricato interi repository Git su xAI Storage, non solo i file letti**  
   Fonte: The Hacker News, 14 Jul 2026, 09:02:48 UTC  
@@ -162,10 +198,6 @@
   Fonte: The Hacker News, 13 Jul 2026, 13:03:33 UTC  
   [Leggi](<https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html>)
 
-- **Presentazione di Precursor: rilevamento del comportamento degli agenti con segnali continui lato client**  
-  Fonte: Cloudflare Blog - Security, 13 Jul 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/introducing-precursor/>)
-
 - **Brevetto di meta file per un'intelligenza artificiale in grado di ascoltare tutto il giorno e monitorare come ti senti**  
   Fonte: The Hacker News, 13 Jul 2026, 11:54:46 UTC  
   [Leggi](<https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html>)
@@ -182,7 +214,7 @@
   Fonte: Schneier on Security, 13 Jul 2026, 11:01:57 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html>)
 
-- **Un server configurato in modo errato rivela tre operazioni di phishing Evilginx rivolte a Microsoft 365**  
+- **Un server configurato in modo errato rivela tre operazioni di phishing Evilginx che prendono di mira Microsoft 365**  
   Fonte: The Hacker News, 13 Jul 2026, 07:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html>)
 
@@ -218,7 +250,7 @@
   Fonte: The Hacker News, 10 Jul 2026, 15:57:14 UTC  
   [Leggi](<https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html>)
 
-- **Laser Attack reimposta le password del portafoglio Tangem su carte che non possono essere patchate**  
+- **L'attacco laser reimposta le password del portafoglio Tangem sulle carte che non possono essere patchate**  
   Fonte: The Hacker News, 10 Jul 2026, 14:51:49 UTC  
   [Leggi](<https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html>)
 
@@ -270,65 +302,13 @@
   Fonte: The Hacker News, 09 Jul 2026, 16:49:02 UTC  
   [Leggi](<https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html>)
 
-- **ThreatsDay: dirottamento di bucket cloud, catena LPE di Windows, repressione di frodi globali e altre 17 storie**  
-  Fonte: The Hacker News, 09 Jul 2026, 15:09:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html>)
-
-- **Perché non possiamo aspettare migliori algoritmi di firma post-quantistica**  
-  Fonte: Cloudflare Blog - Security, 09 Jul 2026, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/ml-dsa-will-have-to-do/>)
-
 - **Invitato a un “colloquio di lavoro” con Netflix o OpenAI?Attenzione!La tua password Google potrebbe essere a rischio**  
   Fonte: Graham Cluley, 09 Jul 2026, 13:17:38 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/invited-job-interview-netflix-openai-beware-google-password>)
-
-- **Gli attacchi dell'IA si muovono in pochi minuti.Partecipa a questo webinar sulla costruzione di una difesa che tenga il passo**  
-  Fonte: The Hacker News, 09 Jul 2026, 12:26:58 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html>)
 
 - **Il linguaggio dell’intelligenza artificiale potrebbe cambiare il modo in cui parlano gli esseri umani**  
   Fonte: Schneier on Security, 09 Jul 2026, 11:00:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html>)
 
-- **L'estate dei centri di compensazione**  
-  Fonte: The Hacker News, 09 Jul 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/summer-of-clearinghouses.html>)
 
-- **GodDamn Ransomware utilizza il driver PoisonX per disabilitare le difese degli endpoint**  
-  Fonte: The Hacker News, 09 Jul 2026, 10:43:09 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html>)
-
-- **Microsoft corregge il difetto di RoguePlanet Defender che può concedere privilegi di SISTEMA**  
-  Fonte: The Hacker News, 09 Jul 2026, 08:48:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html>)
-
-- **Il nuovo strumento per immagini AI di Meta consente ad altri di utilizzare le tue foto pubbliche di Instagram in immagini AI**  
-  Fonte: The Hacker News, 09 Jul 2026, 07:21:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html>)
-
-- **I migliori agenti IA creati per individuare il codice dannoso possono essere indotti con l'inganno a eseguirlo**  
-  Fonte: The Hacker News, 09 Jul 2026, 05:15:02 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html>)
-
-- **I difetti del collegamento simbolico di GhostApproval potrebbero consentire ai repository dannosi di eseguire codice negli agenti di codifica AI**  
-  Fonte: The Hacker News, 09 Jul 2026, 04:27:18 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html>)
-
-- **Podcast di Smashing Security n. 475: JadePuffer: l'intelligenza artificiale che ha eseguito un attacco ransomware da sola**  
-  Fonte: Graham Cluley, 08 Jul 2026, 23:19:18 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-475/>)
-
-- **Aggiornamento settimanale 511: in diretta dal mio Riad a Marrakech**  
-  Fonte: Troy Hunt, 08 Jul 2026, 13:54:46 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-511/>)
-
-- **Criminali e truffatori lanciano iniziative offensive nel campo della sicurezza informatica**  
-  Fonte: Krebs on Security, 08 Jul 2026, 12:31:39 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/>)
-
-- **La sicurezza informatica e il divario tra abilità e abilità**  
-  Fonte: Schneier on Security, 08 Jul 2026, 11:03:04 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-07-15 07:51:57 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-16 07:56:22 UTC -->
