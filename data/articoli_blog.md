@@ -2,6 +2,90 @@
 
 ## Ultimi 7 giorni
 
+- **Gemini di Google consente agli sconosciuti di inviare messaggi dal tuo telefono Android bloccato**  
+  Fonte: Graham Cluley, 17 Jul 2026, 22:30:49 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/googles-gemini-strangers-messages-locked-android-phone>)
+
+- **Il nuovo difetto principale di WordPress in wp2shell consente agli aggressori non autenticati di eseguire codice**  
+  Fonte: The Hacker News, 17 Jul 2026, 21:20:10 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html>)
+
+- **Blog sui calamari del venerdì: calamari che si lavano sulla spiaggia di Cape Cod**  
+  Fonte: Schneier on Security, 17 Jul 2026, 21:01:37 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html>)
+
+- **Abbott indaga su due incidenti informatici tra accuse di estorsione**  
+  Fonte: BleepingComputer, 17 Jul 2026, 20:45:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/>)
+
+- **Il difetto OpenSSL HollowByte potrebbe congelare la memoria del server con richieste TLS da 11 byte**  
+  Fonte: The Hacker News, 17 Jul 2026, 20:20:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html>)
+
+- **Sette pacchetti Vite npm dannosi utilizzano Blockchain C2 per fornire un RAT**  
+  Fonte: The Hacker News, 17 Jul 2026, 18:54:51 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html>)
+
+- **Il difetto DDoS HollowByte gonfia la memoria del server OpenSSL con un carico utile di 11 byte**  
+  Fonte: BleepingComputer, 17 Jul 2026, 17:56:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/>)
+
+- **La nuova botnet NadMesh va a caccia di servizi IA esposti per chiavi cloud e token Kubernetes**  
+  Fonte: The Hacker News, 17 Jul 2026, 17:12:23 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html>)
+
+- **Sottogruppo GoldenEyeDog collegato alla violazione di DigiCert e al furto di certificati di firma del codice**  
+  Fonte: The Hacker News, 17 Jul 2026, 16:39:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html>)
+
+- **Ernst & Young rivela la violazione dei dati dopo l'attacco al sistema di supporto**  
+  Fonte: BleepingComputer, 17 Jul 2026, 14:55:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/>)
+
+- **All'interno della ricerca di proxy residenziali "puliti" per la cardatura**  
+  Fonte: BleepingComputer, 17 Jul 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/>)
+
+- **Test di codifica falsi forniscono malware allineato a OtterCookie nascosto nelle immagini di segnalazione SVG**  
+  Fonte: The Hacker News, 17 Jul 2026, 13:48:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html>)
+
+- **UNIONE EUROPEA.Ordina a Google di aprire microfono, fotocamera e schermo Android per rivaleggiare con gli assistenti AI**  
+  Fonte: The Hacker News, 17 Jul 2026, 11:44:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html>)
+
+- **La corsa verso l’autonomia militare sul campo è iniziata: un’infrastruttura informatica affidabile riuscirà a tenere il passo?**  
+  Fonte: The Hacker News, 17 Jul 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html>)
+
+- **Il nuovo Windows LegacyHive zero-day offre agli hacker privilegi di amministratore**  
+  Fonte: BleepingComputer, 17 Jul 2026, 11:05:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/>)
+
+- **Dettagli del sistema di crittografia vocale di Alan Turing**  
+  Fonte: Schneier on Security, 17 Jul 2026, 11:02:21 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html>)
+
+- **L'Armenia trattiene un turista russo con mandato americano per hacker REvil, gli avvocati dicono che è l'uomo sbagliato**  
+  Fonte: The Hacker News, 17 Jul 2026, 10:53:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html>)
+
+- **Windows Server 2022 raggiungerà la fine del supporto mainstream tra 90 giorni**  
+  Fonte: BleepingComputer, 17 Jul 2026, 09:10:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/>)
+
+- **ACR Stealer utilizza esche ClickFix per rubare token del browser e file di Microsoft 365**  
+  Fonte: The Hacker News, 17 Jul 2026, 08:56:39 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html>)
+
+- **Il nuovo malware GoSerpent prende di mira i governi e i diplomatici del sud-est asiatico a fini di spionaggio**  
+  Fonte: The Hacker News, 17 Jul 2026, 08:46:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html>)
+
+- **Gli Stati Uniti accusano due persone di aver riciclaggio di 43 milioni di dollari per frode sugli investimenti**  
+  Fonte: BleepingComputer, 17 Jul 2026, 08:13:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/>)
+
 - **CISA sollecita un’azione immediata sulle falle Fortinet attivamente sfruttate**  
   Fonte: BleepingComputer, 17 Jul 2026, 07:03:33 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/>)
@@ -66,10 +150,6 @@
   Fonte: BleepingComputer, 16 Jul 2026, 12:31:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/>)
 
-- **Windows 11 24H2 Home e Pro raggiungeranno la fine del supporto tra 90 giorni**  
-  Fonte: BleepingComputer, 16 Jul 2026, 11:59:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/>)
-
 - **Oltre 20 siti web governativi violati sono diventati canali di attacco**  
   Fonte: The Hacker News, 16 Jul 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/20-hijacked-government-websites.html>)
@@ -82,21 +162,9 @@
   Fonte: The Hacker News, 16 Jul 2026, 11:17:23 UTC  
   [Leggi](<https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html>)
 
-- **La CISA ordina ai federali di correggere la falla Oracle sfruttata attivamente entro sabato**  
-  Fonte: BleepingComputer, 16 Jul 2026, 10:56:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/>)
-
-- **Gli hacker russi attaccano WebEx e le app Zoom per diffondere il malware Starland**  
-  Fonte: BleepingComputer, 16 Jul 2026, 10:19:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/>)
-
 - **L’intelligenza artificiale può trovare bug, ma la conoscenza umana li dimostra ancora**  
   Fonte: The Hacker News, 16 Jul 2026, 10:10:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html>)
-
-- **Il ransomware New Spirals crittografa la rete della vittima in meno di 24 ore**  
-  Fonte: BleepingComputer, 16 Jul 2026, 10:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/>)
 
 - **Il difetto dell'aspirapolvere Shark senza patch potrebbe consentire agli aggressori di controllare altri aspiratori in tutta la regione**  
   Fonte: The Hacker News, 16 Jul 2026, 09:23:19 UTC  
@@ -114,21 +182,9 @@
   Fonte: The Hacker News, 16 Jul 2026, 07:22:44 UTC  
   [Leggi](<https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html>)
 
-- **La polizia olandese sgomina una rete di frodi sugli investimenti che ha rubato oltre 100 milioni di euro**  
-  Fonte: BleepingComputer, 15 Jul 2026, 21:55:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/>)
-
-- **Zoom avverte di una vulnerabilità critica per l'acquisizione di account**  
-  Fonte: BleepingComputer, 15 Jul 2026, 20:16:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/>)
-
 - **L'evoluzione di TuxBot v3 mostra segni di sviluppo di botnet IoT assistito da LLM**  
   Fonte: The Hacker News, 15 Jul 2026, 18:43:08 UTC  
   [Leggi](<https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html>)
-
-- **Google Gemini CLI abusato come agente di hacking, operatore di botnet malware**  
-  Fonte: BleepingComputer, 15 Jul 2026, 18:33:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/>)
 
 - **OkoBot Malware Framework inserisce frasi di phishing seed nelle app Ledger e Trezor**  
   Fonte: The Hacker News, 15 Jul 2026, 15:30:30 UTC  
@@ -258,61 +314,9 @@
   Fonte: The Hacker News, 13 Jul 2026, 13:49:48 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html>)
 
-- **Forg365 PhaaS prende di mira Microsoft 365 con il furto del codice dispositivo e della sessione AitM**  
-  Fonte: The Hacker News, 13 Jul 2026, 13:03:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html>)
-
-- **Brevetto di meta file per un'intelligenza artificiale in grado di ascoltare tutto il giorno e monitorare come ti senti**  
-  Fonte: The Hacker News, 13 Jul 2026, 11:54:46 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html>)
-
-- **Pensare velocemente e lentamente nel SOC: il caso di combinare l'intelligenza artificiale autonoma con gli analisti copiloti**  
-  Fonte: The Hacker News, 13 Jul 2026, 11:37:05 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html>)
-
-- **L'aggressore utilizza il sospetto script PowerShell generato dall'intelligenza artificiale per mappare Active Directory**  
-  Fonte: The Hacker News, 13 Jul 2026, 11:02:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html>)
-
 - **Data center AI e concentrazione della ricchezza**  
   Fonte: Schneier on Security, 13 Jul 2026, 11:01:57 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html>)
 
-- **Un server configurato in modo errato rivela tre operazioni di phishing Evilginx che prendono di mira Microsoft 365**  
-  Fonte: The Hacker News, 13 Jul 2026, 07:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html>)
 
-- **I difetti di Joomla dei moduli iCagenda e Balbooa sarebbero stati sfruttati come Zero-Day**  
-  Fonte: The Hacker News, 13 Jul 2026, 05:36:02 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html>)
-
-- **La versione compromessa di jscrambler 8.14.0 npm rilascia Rust Infostealer durante l'installazione**  
-  Fonte: The Hacker News, 11 Jul 2026, 17:59:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html>)
-
-- **Gli hacker utilizzano come arma il portale della polizia del Belucistan nelle campagne di spionaggio multigruppo**  
-  Fonte: The Hacker News, 11 Jul 2026, 17:49:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html>)
-
-- **Un difetto critico di Zimbra potrebbe consentire alle e-mail create di eseguire codice dannoso nelle sessioni utente**  
-  Fonte: The Hacker News, 11 Jul 2026, 06:45:55 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html>)
-
-- **Blogging di Friday Squid: vulnerabilità "Squidbleed".**  
-  Fonte: Schneier on Security, 10 Jul 2026, 21:07:13 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html>)
-
-- **URGENTE - I progressi dicono ai clienti ShareFile di spegnere i controller della zona di storage a causa della minaccia alla sicurezza**  
-  Fonte: The Hacker News, 10 Jul 2026, 16:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html>)
-
-- **Injective Labs GitHub Compromise invia pacchetti npm che rubano chiavi del portafoglio**  
-  Fonte: The Hacker News, 10 Jul 2026, 16:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html>)
-
-- **Sorveglianza dell’intelligenza artificiale e progresso sociale**  
-  Fonte: Schneier on Security, 10 Jul 2026, 11:02:04 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-07-17 07:52:57 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-18 07:28:16 UTC -->
