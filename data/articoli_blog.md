@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiorna ora: 7-Zip risolve il difetto RCE sfruttabile con archivi dannosi**  
+  Fonte: BleepingComputer, 18 Jul 2026, 19:32:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/>)
+
+- **I difetti RCE "wp2shell" del core di WordPress ottengono exploit pubblici, applica subito la patch**  
+  Fonte: BleepingComputer, 18 Jul 2026, 17:22:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/>)
+
+- **Microsoft avverte di un aumento degli attacchi ACR Stealer ai danni dei clienti**  
+  Fonte: BleepingComputer, 18 Jul 2026, 14:17:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/>)
+
+- **Il futuro della verifica dell'età: il tuo viso non lascia mai il tuo dispositivo**  
+  Fonte: BleepingComputer, 18 Jul 2026, 13:15:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/>)
+
 - **Gemini di Google consente agli sconosciuti di inviare messaggi dal tuo telefono Android bloccato**  
   Fonte: Graham Cluley, 17 Jul 2026, 22:30:49 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/googles-gemini-strangers-messages-locked-android-phone>)
@@ -38,11 +54,11 @@
   Fonte: The Hacker News, 17 Jul 2026, 16:39:16 UTC  
   [Leggi](<https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html>)
 
-- **Ernst & Young rivela la violazione dei dati dopo l'attacco al sistema di supporto**  
+- **Ernst & Young rivela la violazione dei dati dopo l'hacking del sistema di supporto**  
   Fonte: BleepingComputer, 17 Jul 2026, 14:55:28 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/>)
 
-- **All'interno della ricerca di proxy residenziali "puliti" per la cardatura**  
+- **All'interno della ricerca di proxy residenziali "puliti" per carding**  
   Fonte: BleepingComputer, 17 Jul 2026, 14:00:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/>)
 
@@ -54,7 +70,7 @@
   Fonte: The Hacker News, 17 Jul 2026, 11:44:41 UTC  
   [Leggi](<https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html>)
 
-- **La corsa verso l’autonomia militare sul campo è iniziata: un’infrastruttura informatica affidabile riuscirà a tenere il passo?**  
+- **La corsa all’autonomia militare sul campo è iniziata: un’infrastruttura informatica affidabile riuscirà a tenere il passo?**  
   Fonte: The Hacker News, 17 Jul 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html>)
 
@@ -78,11 +94,11 @@
   Fonte: The Hacker News, 17 Jul 2026, 08:56:39 UTC  
   [Leggi](<https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html>)
 
-- **Il nuovo malware GoSerpent prende di mira i governi e i diplomatici del sud-est asiatico a fini di spionaggio**  
+- **Il nuovo malware GoSerpent prende di mira i governi e i diplomatici del sud-est asiatico a scopo di spionaggio**  
   Fonte: The Hacker News, 17 Jul 2026, 08:46:45 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html>)
 
-- **Gli Stati Uniti accusano due persone di aver riciclaggio di 43 milioni di dollari per frode sugli investimenti**  
+- **Gli Stati Uniti accusano due persone di riciclaggio di 43 milioni di dollari per frode sugli investimenti**  
   Fonte: BleepingComputer, 17 Jul 2026, 08:13:37 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/>)
 
@@ -106,15 +122,11 @@
   Fonte: Graham Cluley, 16 Jul 2026, 21:05:37 UTC  
   [Leggi](<https://www.fortra.com/blog/anubis-ransomware>)
 
-- **Il difetto dell'estensione Claude Chrome consente alle estensioni dannose di attivare azioni AI**  
+- **Il difetto dell'estensione Claude Chrome consente alle estensioni dannose di attivare azioni IA**  
   Fonte: BleepingComputer, 16 Jul 2026, 19:26:07 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/>)
 
-- **Il nuovo framework OkoBot distribuisce 20 payload per rubare dati e criptovalute**  
-  Fonte: BleepingComputer, 16 Jul 2026, 19:09:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/>)
-
-- **Due Spider Hacker sparsi ottengono 5,5 anni ciascuno per un attacco informatico TfL da 29 milioni di sterline**  
+- **Due Spider Hacker sparsi ottengono 5,5 anni ciascuno per un attacco TfL da 29 milioni di sterline**  
   Fonte: The Hacker News, 16 Jul 2026, 17:09:25 UTC  
   [Leggi](<https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html>)
 
@@ -125,14 +137,6 @@
 - **Proteggere la privacy nell’era dell’intelligenza artificiale**  
   Fonte: Schneier on Security, 16 Jul 2026, 14:34:31 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html>)
-
-- **Gli agenti IA hanno rotto il manuale sulla sicurezza.Ecco cosa lo sostituisce.**  
-  Fonte: BleepingComputer, 16 Jul 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/>)
-
-- **23andMe pagherà 18 milioni di dollari per un nuovo accordo sulla violazione dei dati genetici**  
-  Fonte: BleepingComputer, 16 Jul 2026, 13:47:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/>)
 
 - **Il difetto dello scambio di token n8n potrebbe consentire agli aggressori di accedere come utenti di un altro emittente**  
   Fonte: The Hacker News, 16 Jul 2026, 13:33:25 UTC  
@@ -145,10 +149,6 @@
 - **Il nuovo ClickLock macOS Stealer uccide le app ogni 210 ms finché le vittime non digitano la password**  
   Fonte: The Hacker News, 16 Jul 2026, 12:33:42 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html>)
-
-- **I membri sparsi di Spider dietro l'hacking del TfL vengono condannati a cinque anni di prigione**  
-  Fonte: BleepingComputer, 16 Jul 2026, 12:31:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/>)
 
 - **Oltre 20 siti web governativi violati sono diventati canali di attacco**  
   Fonte: The Hacker News, 16 Jul 2026, 11:58:00 UTC  
@@ -198,7 +198,7 @@
   Fonte: The Hacker News, 15 Jul 2026, 11:50:01 UTC  
   [Leggi](<https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html>)
 
-- **Un ricercatore rilascia le nuove ore PoC Zero-Day di Windows dopo il Patch Tuesday di Microsoft**  
+- **Un ricercatore rilascia le nuove ore PoC zero-day di Windows dopo il Patch Tuesday di Microsoft**  
   Fonte: The Hacker News, 15 Jul 2026, 11:07:07 UTC  
   [Leggi](<https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html>)
 
@@ -319,4 +319,4 @@
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-07-18 07:28:16 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-19 08:00:21 UTC -->
