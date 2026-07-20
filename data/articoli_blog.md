@@ -2,6 +2,30 @@
 
 ## Ultimi 7 giorni
 
+- **Il più grande archivio di modelli di intelligenza artificiale al mondo che abbraccia il volto violato da un agente di intelligenza artificiale autonomo**  
+  Fonte: The Hacker News, 20 Jul 2026, 05:27:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html>)
+
+- **SleeperGem utilizza tre pacchetti RubyGems dannosi per prendere di mira le macchine degli sviluppatori**  
+  Fonte: The Hacker News, 20 Jul 2026, 05:15:39 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html>)
+
+- **Una vulnerabilità critica di NGINX può mandare in crash i lavoratori e consentire l'esecuzione di codice in modalità remota**  
+  Fonte: The Hacker News, 19 Jul 2026, 20:42:49 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html>)
+
+- **Gli hacker abusano del software ViPNet per prendere di mira le agenzie governative russe**  
+  Fonte: BleepingComputer, 19 Jul 2026, 14:23:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/>)
+
+- **UAC-0145 utilizza i CAPTCHA ClickFix per infettare i dispositivi ucraini con malware**  
+  Fonte: The Hacker News, 19 Jul 2026, 13:30:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html>)
+
+- **SonicWall SMA Zero-Days sfruttato prima della divulgazione per ottenere l'accesso root**  
+  Fonte: The Hacker News, 19 Jul 2026, 13:18:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html>)
+
 - **Aggiorna ora: 7-Zip risolve il difetto RCE sfruttabile con archivi dannosi**  
   Fonte: BleepingComputer, 18 Jul 2026, 19:32:02 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/>)
@@ -54,11 +78,11 @@
   Fonte: The Hacker News, 17 Jul 2026, 16:39:16 UTC  
   [Leggi](<https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html>)
 
-- **Ernst & Young rivela la violazione dei dati dopo l'hacking del sistema di supporto**  
+- **Ernst & Young rivela la violazione dei dati dopo l'attacco al sistema di supporto**  
   Fonte: BleepingComputer, 17 Jul 2026, 14:55:28 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/>)
 
-- **All'interno della ricerca di proxy residenziali "puliti" per carding**  
+- **All'interno della ricerca di proxy residenziali "puliti" per cardatura**  
   Fonte: BleepingComputer, 17 Jul 2026, 14:00:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/>)
 
@@ -70,7 +94,7 @@
   Fonte: The Hacker News, 17 Jul 2026, 11:44:41 UTC  
   [Leggi](<https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html>)
 
-- **La corsa all’autonomia militare sul campo è iniziata: un’infrastruttura informatica affidabile riuscirà a tenere il passo?**  
+- **La corsa verso l’autonomia militare sul campo è iniziata: un’infrastruttura informatica affidabile riuscirà a tenere il passo?**  
   Fonte: The Hacker News, 17 Jul 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html>)
 
@@ -94,11 +118,11 @@
   Fonte: The Hacker News, 17 Jul 2026, 08:56:39 UTC  
   [Leggi](<https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html>)
 
-- **Il nuovo malware GoSerpent prende di mira i governi e i diplomatici del sud-est asiatico a scopo di spionaggio**  
+- **Il nuovo malware GoSerpent prende di mira i governi e i diplomatici del sud-est asiatico a fini di spionaggio**  
   Fonte: The Hacker News, 17 Jul 2026, 08:46:45 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html>)
 
-- **Gli Stati Uniti accusano due persone di riciclaggio di 43 milioni di dollari per frode sugli investimenti**  
+- **Gli Stati Uniti accusano due persone di aver riciclaggio di 43 milioni di dollari per frode sugli investimenti**  
   Fonte: BleepingComputer, 17 Jul 2026, 08:13:37 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/>)
 
@@ -121,10 +145,6 @@
 - **Ransomware Anubis: cosa devi sapere**  
   Fonte: Graham Cluley, 16 Jul 2026, 21:05:37 UTC  
   [Leggi](<https://www.fortra.com/blog/anubis-ransomware>)
-
-- **Il difetto dell'estensione Claude Chrome consente alle estensioni dannose di attivare azioni IA**  
-  Fonte: BleepingComputer, 16 Jul 2026, 19:26:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/>)
 
 - **Due Spider Hacker sparsi ottengono 5,5 anni ciascuno per un attacco TfL da 29 milioni di sterline**  
   Fonte: The Hacker News, 16 Jul 2026, 17:09:25 UTC  
@@ -198,7 +218,7 @@
   Fonte: The Hacker News, 15 Jul 2026, 11:50:01 UTC  
   [Leggi](<https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html>)
 
-- **Un ricercatore rilascia le nuove ore PoC zero-day di Windows dopo il Patch Tuesday di Microsoft**  
+- **Un ricercatore rilascia le nuove ore PoC Zero-Day di Windows dopo il Patch Tuesday di Microsoft**  
   Fonte: The Hacker News, 15 Jul 2026, 11:07:07 UTC  
   [Leggi](<https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html>)
 
@@ -290,33 +310,13 @@
   Fonte: The Hacker News, 14 Jul 2026, 07:08:36 UTC  
   [Leggi](<https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html>)
 
-- **Microsoft traccia tre percorsi di attacco di Salesforce legati a un anno di attività di ShinyHunters**  
-  Fonte: The Hacker News, 14 Jul 2026, 06:19:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html>)
-
-- **Il malware CrashStealer per macOS utilizza un dropper autenticato per superare i controlli Gatekeeper**  
-  Fonte: The Hacker News, 13 Jul 2026, 17:36:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html>)
-
-- **Google e Microsoft ritirano ModHeader con 1,6 milioni di installazioni dopo il ritrovamento di un collezionista dormiente**  
-  Fonte: The Hacker News, 13 Jul 2026, 17:17:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html>)
-
-- **⚡ Riepilogo settimanale: minaccia ShareFile, ransomware Citrix Bleed 2, attacchi di codifica AI e altro ancora**  
-  Fonte: The Hacker News, 13 Jul 2026, 15:05:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html>)
-
 - **Lezioni apprese dal recente leak su GitHub del CISA**  
   Fonte: Krebs on Security, 13 Jul 2026, 15:03:28 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/>)
-
-- **Il nuovo attacco MemGhost impianta falsi ricordi persistenti negli agenti IA tramite un'unica e-mail**  
-  Fonte: The Hacker News, 13 Jul 2026, 13:49:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html>)
 
 - **Data center AI e concentrazione della ricchezza**  
   Fonte: Schneier on Security, 13 Jul 2026, 11:01:57 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-07-19 08:00:21 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-20 08:41:17 UTC -->
