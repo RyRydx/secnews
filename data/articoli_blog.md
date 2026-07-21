@@ -2,6 +2,102 @@
 
 ## Ultimi 7 giorni
 
+- **Il difetto zero-day di Windows LegacyHive ottiene patch gratuite e non ufficiali**  
+  Fonte: BleepingComputer, 21 Jul 2026, 08:06:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/>)
+
+- **Il nuovo ransomware ENCFORGE prende di mira i file modello AI nell'attacco Langflow RCE**  
+  Fonte: The Hacker News, 21 Jul 2026, 07:34:32 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html>)
+
+- **Aggiornamento settimanale 513: Clauding The Home Network**  
+  Fonte: Troy Hunt, 21 Jul 2026, 07:30:24 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-513/>)
+
+- **Sfruttato il difetto critico della piattaforma AI ServiceNow per l'esecuzione di codice non autenticato**  
+  Fonte: The Hacker News, 21 Jul 2026, 06:29:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html>)
+
+- **Estée Lauder rivela una violazione dei dati tramite la falla di Oracle E-Business**  
+  Fonte: BleepingComputer, 20 Jul 2026, 22:39:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/>)
+
+- **Difetti SonicWall SMA1000 sfruttati come zero-day per diffondere malware personalizzato**  
+  Fonte: BleepingComputer, 20 Jul 2026, 22:23:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/>)
+
+- **Gli hacker rubano 23,7 milioni di dollari in criptovalute da Ostium in un attacco off-chain**  
+  Fonte: BleepingComputer, 20 Jul 2026, 22:22:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/>)
+
+- **Cursore, Codex, Gemini CLI, Antigravity colpiti da fughe sandbox**  
+  Fonte: BleepingComputer, 20 Jul 2026, 21:14:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/>)
+
+- **Gli attacchi agenti JadePuffer ora prendono di mira i dati del modello AI con ransomware**  
+  Fonte: BleepingComputer, 20 Jul 2026, 21:08:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/>)
+
+- **La campagna FakeGit utilizza 7.600 repository GitHub per diffondere il malware SmartLoader**  
+  Fonte: The Hacker News, 20 Jul 2026, 18:23:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html>)
+
+- **Il nuovo malware HollowGraph utilizza Microsoft Graph per comunicazioni C2 furtive**  
+  Fonte: BleepingComputer, 20 Jul 2026, 17:43:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/>)
+
+- **Il server esposto rivela un toolkit di phishing assistito dall'intelligenza artificiale dietro la campagna malware WebDAV**  
+  Fonte: The Hacker News, 20 Jul 2026, 17:29:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html>)
+
+- **Il malware HollowGraph nasconde C2 e file rubati negli eventi di Microsoft 365 datati 2050**  
+  Fonte: The Hacker News, 20 Jul 2026, 14:33:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html>)
+
+- **Una guida alla valutazione AI SOC per i leader della sicurezza**  
+  Fonte: BleepingComputer, 20 Jul 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/>)
+
+- **⚡ Riepilogo settimanale: WordPress RCE, SonicWall 0-Days, attacchi ai servizi AI, SharePoint 0-Day e altro ancora**  
+  Fonte: The Hacker News, 20 Jul 2026, 13:32:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html>)
+
+- **L’intelligence russa hackera le telecamere IP per spiare la logistica militare negli stati NATO e in Ucraina**  
+  Fonte: The Hacker News, 20 Jul 2026, 12:13:39 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html>)
+
+- **Hugging Face avverte che un agente AI autonomo ha violato la sua rete**  
+  Fonte: BleepingComputer, 20 Jul 2026, 11:56:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/>)
+
+- **Mythos non ha interrotto il tuo programma di sicurezza.La tua finestra di esposizione potrebbe.**  
+  Fonte: The Hacker News, 20 Jul 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html>)
+
+- **Sulle telecamere di localizzazione delle targhe Flock**  
+  Fonte: Schneier on Security, 20 Jul 2026, 11:03:45 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html>)
+
+- **Microsoft conferma i ritardi di sincronizzazione di Windows Server Update Services**  
+  Fonte: BleepingComputer, 20 Jul 2026, 10:47:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/>)
+
+- **L'aggiornamento OOB di Windows KB5121767 risolve gli arresti su alcuni PC Dell**  
+  Fonte: BleepingComputer, 20 Jul 2026, 10:06:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/>)
+
+- **Difetto critico di esecuzione del codice ServiceNow ora sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 20 Jul 2026, 09:29:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/>)
+
+- **La nuova vulnerabilità 7-Zip potrebbe consentire agli archivi XZ creati di eseguire codice durante l'estrazione**  
+  Fonte: The Hacker News, 20 Jul 2026, 09:10:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html>)
+
+- **Un hacker di lingua russa utilizza la CLI di Google Gemini per controllare la botnet di otto PC di uno studio dentistico**  
+  Fonte: The Hacker News, 20 Jul 2026, 09:07:11 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html>)
+
 - **Il più grande archivio di modelli di intelligenza artificiale al mondo che abbraccia il volto violato da un agente di intelligenza artificiale autonomo**  
   Fonte: The Hacker News, 20 Jul 2026, 05:27:26 UTC  
   [Leggi](<https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html>)
@@ -34,14 +130,6 @@
   Fonte: BleepingComputer, 18 Jul 2026, 17:22:47 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/>)
 
-- **Microsoft avverte di un aumento degli attacchi ACR Stealer ai danni dei clienti**  
-  Fonte: BleepingComputer, 18 Jul 2026, 14:17:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/>)
-
-- **Il futuro della verifica dell'età: il tuo viso non lascia mai il tuo dispositivo**  
-  Fonte: BleepingComputer, 18 Jul 2026, 13:15:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/>)
-
 - **Gemini di Google consente agli sconosciuti di inviare messaggi dal tuo telefono Android bloccato**  
   Fonte: Graham Cluley, 17 Jul 2026, 22:30:49 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/googles-gemini-strangers-messages-locked-android-phone>)
@@ -54,10 +142,6 @@
   Fonte: Schneier on Security, 17 Jul 2026, 21:01:37 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html>)
 
-- **Abbott indaga su due incidenti informatici tra accuse di estorsione**  
-  Fonte: BleepingComputer, 17 Jul 2026, 20:45:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/>)
-
 - **Il difetto OpenSSL HollowByte potrebbe congelare la memoria del server con richieste TLS da 11 byte**  
   Fonte: The Hacker News, 17 Jul 2026, 20:20:53 UTC  
   [Leggi](<https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html>)
@@ -66,25 +150,13 @@
   Fonte: The Hacker News, 17 Jul 2026, 18:54:51 UTC  
   [Leggi](<https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html>)
 
-- **Il difetto DDoS HollowByte gonfia la memoria del server OpenSSL con un carico utile di 11 byte**  
-  Fonte: BleepingComputer, 17 Jul 2026, 17:56:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/>)
-
-- **La nuova botnet NadMesh va a caccia di servizi IA esposti per chiavi cloud e token Kubernetes**  
+- **La nuova botnet NadMesh va a caccia di servizi AI esposti per chiavi cloud e token Kubernetes**  
   Fonte: The Hacker News, 17 Jul 2026, 17:12:23 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html>)
 
 - **Sottogruppo GoldenEyeDog collegato alla violazione di DigiCert e al furto di certificati di firma del codice**  
   Fonte: The Hacker News, 17 Jul 2026, 16:39:16 UTC  
   [Leggi](<https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html>)
-
-- **Ernst & Young rivela la violazione dei dati dopo l'attacco al sistema di supporto**  
-  Fonte: BleepingComputer, 17 Jul 2026, 14:55:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/>)
-
-- **All'interno della ricerca di proxy residenziali "puliti" per cardatura**  
-  Fonte: BleepingComputer, 17 Jul 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/>)
 
 - **Test di codifica falsi forniscono malware allineato a OtterCookie nascosto nelle immagini di segnalazione SVG**  
   Fonte: The Hacker News, 17 Jul 2026, 13:48:56 UTC  
@@ -98,10 +170,6 @@
   Fonte: The Hacker News, 17 Jul 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html>)
 
-- **Il nuovo Windows LegacyHive zero-day offre agli hacker privilegi di amministratore**  
-  Fonte: BleepingComputer, 17 Jul 2026, 11:05:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/>)
-
 - **Dettagli del sistema di crittografia vocale di Alan Turing**  
   Fonte: Schneier on Security, 17 Jul 2026, 11:02:21 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html>)
@@ -109,10 +177,6 @@
 - **L'Armenia trattiene un turista russo con mandato americano per hacker REvil, gli avvocati dicono che è l'uomo sbagliato**  
   Fonte: The Hacker News, 17 Jul 2026, 10:53:31 UTC  
   [Leggi](<https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html>)
-
-- **Windows Server 2022 raggiungerà la fine del supporto mainstream tra 90 giorni**  
-  Fonte: BleepingComputer, 17 Jul 2026, 09:10:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/>)
 
 - **ACR Stealer utilizza esche ClickFix per rubare token del browser e file di Microsoft 365**  
   Fonte: The Hacker News, 17 Jul 2026, 08:56:39 UTC  
@@ -122,31 +186,15 @@
   Fonte: The Hacker News, 17 Jul 2026, 08:46:45 UTC  
   [Leggi](<https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html>)
 
-- **Gli Stati Uniti accusano due persone di aver riciclaggio di 43 milioni di dollari per frode sugli investimenti**  
-  Fonte: BleepingComputer, 17 Jul 2026, 08:13:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/>)
-
-- **CISA sollecita un’azione immediata sulle falle Fortinet attivamente sfruttate**  
-  Fonte: BleepingComputer, 17 Jul 2026, 07:03:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/>)
-
 - **CISA aggiunge a KEV il protocollo Zero-Day CVE-2026-58644 di SharePoint RCE sfruttato**  
   Fonte: The Hacker News, 17 Jul 2026, 06:42:23 UTC  
   [Leggi](<https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html>)
-
-- **Il nuovo malware ClickLock per macOS intrappola gli utenti inducendoli a rivelare la password di accesso**  
-  Fonte: BleepingComputer, 16 Jul 2026, 21:52:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/>)
-
-- **Coca-Cola afferma che l’attacco ransomware Fairlife ferma la produzione lattiero-casearia negli Stati Uniti**  
-  Fonte: BleepingComputer, 16 Jul 2026, 21:09:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/>)
 
 - **Ransomware Anubis: cosa devi sapere**  
   Fonte: Graham Cluley, 16 Jul 2026, 21:05:37 UTC  
   [Leggi](<https://www.fortra.com/blog/anubis-ransomware>)
 
-- **Due Spider Hacker sparsi ottengono 5,5 anni ciascuno per un attacco TfL da 29 milioni di sterline**  
+- **Due Spider Hacker sparsi ottengono 5,5 anni ciascuno per un attacco informatico TfL da 29 milioni di sterline**  
   Fonte: The Hacker News, 16 Jul 2026, 17:09:25 UTC  
   [Leggi](<https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html>)
 
@@ -258,65 +306,13 @@
   Fonte: The Hacker News, 14 Jul 2026, 18:17:57 UTC  
   [Leggi](<https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html>)
 
-- **I ricercatori affermano che Claude per Chrome Flaw consente alle estensioni non autorizzate di attivare le letture di Gmail**  
-  Fonte: The Hacker News, 14 Jul 2026, 17:27:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html>)
-
-- **LabubaRAT si maschera da software NVIDIA per controllare gli host Windows**  
-  Fonte: The Hacker News, 14 Jul 2026, 16:52:37 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html>)
-
 - **Prossimi impegni di conferenza**  
   Fonte: Schneier on Security, 14 Jul 2026, 16:04:49 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html>)
-
-- **I difetti di RabbitMQ potrebbero far trapelare i segreti OAuth ed esporre i metadati della coda tra tenant**  
-  Fonte: The Hacker News, 14 Jul 2026, 13:48:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html>)
-
-- **11 vecchi shim UEFI Linux firmati da Microsoft potrebbero consentire agli aggressori di aggirare l'avvio sicuro**  
-  Fonte: The Hacker News, 14 Jul 2026, 12:46:18 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html>)
-
-- **Uno studio su 85 estensioni del portafoglio crittografico rileva fughe di indirizzi e rischi di tracciamento tra siti**  
-  Fonte: The Hacker News, 14 Jul 2026, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html>)
-
-- **In che modo Pentera trasforma i flussi di lavoro di sicurezza dell'intelligenza artificiale in motori di convalida**  
-  Fonte: The Hacker News, 14 Jul 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html>)
-
-- **Lo spoofing dell'ID client OAuth consente agli aggressori di convalidare le credenziali Microsoft Entra rubate**  
-  Fonte: The Hacker News, 14 Jul 2026, 11:21:35 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html>)
 
 - **Vulnerabilità nella rete FIFA**  
   Fonte: Schneier on Security, 14 Jul 2026, 11:06:51 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html>)
 
-- **Grok Build ha caricato interi repository Git su xAI Storage, non solo i file letti**  
-  Fonte: The Hacker News, 14 Jul 2026, 09:02:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html>)
 
-- **Gli Stati Uniti sanzionano il primo servizio VPN e il venditore di malware Cryptor per il supporto del ransomware**  
-  Fonte: The Hacker News, 14 Jul 2026, 08:02:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html>)
-
-- **Il negoziatore del ransomware che lavorava per la controparte**  
-  Fonte: Graham Cluley, 14 Jul 2026, 07:54:08 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-negotiator-working-other-side>)
-
-- **Pacchetti da 148 npm mascherati da proxy per studenti hanno trasformato i browser in una botnet DDoS**  
-  Fonte: The Hacker News, 14 Jul 2026, 07:08:36 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html>)
-
-- **Lezioni apprese dal recente leak su GitHub del CISA**  
-  Fonte: Krebs on Security, 13 Jul 2026, 15:03:28 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/>)
-
-- **Data center AI e concentrazione della ricchezza**  
-  Fonte: Schneier on Security, 13 Jul 2026, 11:01:57 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-07-20 08:41:17 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-21 08:08:41 UTC -->
