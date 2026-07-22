@@ -2,6 +2,118 @@
 
 ## Ultimi 7 giorni
 
+- **Chick-fil-A rivela una violazione dei dati dopo attacchi di credential stuffing**  
+  Fonte: BleepingComputer, 22 Jul 2026, 06:40:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/>)
+
+- **La polizia smantella il kit di phishing Kratos creato per rubare sessioni di Microsoft 365 e bypassare l'MFA**  
+  Fonte: The Hacker News, 22 Jul 2026, 06:38:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html>)
+
+- **Il fork Newtonsoft.Json con trojan nasconde il codice di rigging del gioco in una libreria funzionante**  
+  Fonte: The Hacker News, 22 Jul 2026, 06:00:06 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html>)
+
+- **OpenAI afferma che i suoi modelli di intelligenza artificiale hanno violato Hugging Face durante i test**  
+  Fonte: BleepingComputer, 22 Jul 2026, 05:19:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/>)
+
+- **Il difetto MCP di Microsoft Azure DevOps consente ai commenti PR nascosti di prendere il controllo degli agenti di revisione AI**  
+  Fonte: The Hacker News, 22 Jul 2026, 04:57:52 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html>)
+
+- **OpenAI afferma che i suoi modelli di intelligenza artificiale sono sfuggiti al sandbox, mirati al benchmark Hugging Face to Cheat**  
+  Fonte: The Hacker News, 22 Jul 2026, 04:18:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html>)
+
+- **LG bandirà i proxy residenziali dalle app Smart TV**  
+  Fonte: Krebs on Security, 22 Jul 2026, 01:10:38 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/>)
+
+- **La polizia smantella la piattaforma di phishing Kratos e arresta lo sviluppatore**  
+  Fonte: BleepingComputer, 21 Jul 2026, 23:07:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/>)
+
+- **La campagna FakeGit utilizza 7.600 repository GitHub per spingere il malware SmartLoader**  
+  Fonte: BleepingComputer, 21 Jul 2026, 22:34:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/>)
+
+- **Difetto critico RCE di SharePoint sfruttato per rubare le chiavi della macchina**  
+  Fonte: BleepingComputer, 21 Jul 2026, 20:06:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/>)
+
+- **Il ransomware Anubis rivendica l'attacco alla Coca-Cola Fairlife e minaccia la fuga di dati**  
+  Fonte: BleepingComputer, 21 Jul 2026, 18:50:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/>)
+
+- **Le correzioni Apple nascondono il mio bug di posta elettronica che esponeva indirizzi reali nei registri di posta**  
+  Fonte: The Hacker News, 21 Jul 2026, 18:46:32 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html>)
+
+- **Difetti critici di WordPress wp2shell sfruttati per installare webshell**  
+  Fonte: BleepingComputer, 21 Jul 2026, 16:41:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/>)
+
+- **AWS Kiro Flaw lascia che una pagina Web avvelenata riscriva la sua configurazione ed esegua il codice**  
+  Fonte: The Hacker News, 21 Jul 2026, 16:06:12 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html>)
+
+- **Google lancia Gemini 3.5 Flash Cyber ​​AI per individuare e correggere le vulnerabilità del software**  
+  Fonte: The Hacker News, 21 Jul 2026, 15:09:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html>)
+
+- **SharePoint critico RCE CVE-2026-50522 in fase di sfruttamento attivo dopo PoC pubblico**  
+  Fonte: The Hacker News, 21 Jul 2026, 14:57:51 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html>)
+
+- **Gli aggressori del ransomware Qilin sfruttano il bypass dell'autenticazione PAN-OS per l'accesso iniziale**  
+  Fonte: The Hacker News, 21 Jul 2026, 14:04:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html>)
+
+- **Colmare le lacune di identità nella sicurezza delle infrastrutture critiche**  
+  Fonte: BleepingComputer, 21 Jul 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/>)
+
+- **Zimbra corregge l'iniezione critica di comandi SNMP e quattro vulnerabilità XSS**  
+  Fonte: The Hacker News, 21 Jul 2026, 13:18:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html>)
+
+- **Gli agenti AI Android open source potrebbero consentire al testo invisibile dello schermo di eseguire codice sui PC host**  
+  Fonte: The Hacker News, 21 Jul 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html>)
+
+- **N-giorno sta diventando N-ora.Applicare patch più velocemente non ti salverà.**  
+  Fonte: The Hacker News, 21 Jul 2026, 11:42:23 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html>)
+
+- **Il nuovo attacco Bit2Watt potrebbe consentire agli inquilini del cloud di interrompere le reti elettriche senza alcun exploit**  
+  Fonte: The Hacker News, 21 Jul 2026, 11:24:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html>)
+
+- **Il MIT diventerà il focolaio della videosorveglianza basata sull’intelligenza artificiale**  
+  Fonte: Schneier on Security, 21 Jul 2026, 11:07:13 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html>)
+
+- **Gli Stati Uniti sequestrano oltre 1.000 siti web durante la repressione della pirateria durante la Coppa del Mondo FIFA**  
+  Fonte: BleepingComputer, 21 Jul 2026, 11:07:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/>)
+
+- **Bug critico della VPN di Palo Alto ora sfruttato dalla banda di ransomware Qilin**  
+  Fonte: BleepingComputer, 21 Jul 2026, 10:12:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/>)
+
+- **L'Ucraina avverte che vengono utilizzati CAPTCHA falsi per costringerti ad hackerare te stesso**  
+  Fonte: Graham Cluley, 21 Jul 2026, 09:51:58 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ukraine-fake-captchas-hack-yourself>)
+
+- **Microsoft condivide la correzione manuale per ritardi e timeout di sincronizzazione WSUS**  
+  Fonte: BleepingComputer, 21 Jul 2026, 09:05:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/>)
+
+- **Lo sfruttamento di WordPress wp2shell cresce mentre l’exploit pubblico alimenta la scansione di massa**  
+  Fonte: The Hacker News, 21 Jul 2026, 08:59:30 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html>)
+
 - **Il difetto zero-day di Windows LegacyHive ottiene patch gratuite e non ufficiali**  
   Fonte: BleepingComputer, 21 Jul 2026, 08:06:26 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/>)
@@ -30,21 +142,9 @@
   Fonte: BleepingComputer, 20 Jul 2026, 22:22:56 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/>)
 
-- **Cursore, Codex, Gemini CLI, Antigravity colpiti da fughe sandbox**  
-  Fonte: BleepingComputer, 20 Jul 2026, 21:14:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/>)
-
-- **Gli attacchi agenti JadePuffer ora prendono di mira i dati del modello AI con ransomware**  
-  Fonte: BleepingComputer, 20 Jul 2026, 21:08:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/>)
-
 - **La campagna FakeGit utilizza 7.600 repository GitHub per diffondere il malware SmartLoader**  
   Fonte: The Hacker News, 20 Jul 2026, 18:23:03 UTC  
   [Leggi](<https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html>)
-
-- **Il nuovo malware HollowGraph utilizza Microsoft Graph per comunicazioni C2 furtive**  
-  Fonte: BleepingComputer, 20 Jul 2026, 17:43:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/>)
 
 - **Il server esposto rivela un toolkit di phishing assistito dall'intelligenza artificiale dietro la campagna malware WebDAV**  
   Fonte: The Hacker News, 20 Jul 2026, 17:29:50 UTC  
@@ -54,10 +154,6 @@
   Fonte: The Hacker News, 20 Jul 2026, 14:33:43 UTC  
   [Leggi](<https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html>)
 
-- **Una guida alla valutazione AI SOC per i leader della sicurezza**  
-  Fonte: BleepingComputer, 20 Jul 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/>)
-
 - **⚡ Riepilogo settimanale: WordPress RCE, SonicWall 0-Days, attacchi ai servizi AI, SharePoint 0-Day e altro ancora**  
   Fonte: The Hacker News, 20 Jul 2026, 13:32:26 UTC  
   [Leggi](<https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html>)
@@ -66,10 +162,6 @@
   Fonte: The Hacker News, 20 Jul 2026, 12:13:39 UTC  
   [Leggi](<https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html>)
 
-- **Hugging Face avverte che un agente AI autonomo ha violato la sua rete**  
-  Fonte: BleepingComputer, 20 Jul 2026, 11:56:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/>)
-
 - **Mythos non ha interrotto il tuo programma di sicurezza.La tua finestra di esposizione potrebbe.**  
   Fonte: The Hacker News, 20 Jul 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html>)
@@ -77,18 +169,6 @@
 - **Sulle telecamere di localizzazione delle targhe Flock**  
   Fonte: Schneier on Security, 20 Jul 2026, 11:03:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html>)
-
-- **Microsoft conferma i ritardi di sincronizzazione di Windows Server Update Services**  
-  Fonte: BleepingComputer, 20 Jul 2026, 10:47:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/>)
-
-- **L'aggiornamento OOB di Windows KB5121767 risolve gli arresti su alcuni PC Dell**  
-  Fonte: BleepingComputer, 20 Jul 2026, 10:06:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/>)
-
-- **Difetto critico di esecuzione del codice ServiceNow ora sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 20 Jul 2026, 09:29:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/>)
 
 - **La nuova vulnerabilità 7-Zip potrebbe consentire agli archivi XZ creati di eseguire codice durante l'estrazione**  
   Fonte: The Hacker News, 20 Jul 2026, 09:10:56 UTC  
@@ -110,10 +190,6 @@
   Fonte: The Hacker News, 19 Jul 2026, 20:42:49 UTC  
   [Leggi](<https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html>)
 
-- **Gli hacker abusano del software ViPNet per prendere di mira le agenzie governative russe**  
-  Fonte: BleepingComputer, 19 Jul 2026, 14:23:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/>)
-
 - **UAC-0145 utilizza i CAPTCHA ClickFix per infettare i dispositivi ucraini con malware**  
   Fonte: The Hacker News, 19 Jul 2026, 13:30:55 UTC  
   [Leggi](<https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html>)
@@ -121,14 +197,6 @@
 - **SonicWall SMA Zero-Days sfruttato prima della divulgazione per ottenere l'accesso root**  
   Fonte: The Hacker News, 19 Jul 2026, 13:18:56 UTC  
   [Leggi](<https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html>)
-
-- **Aggiorna ora: 7-Zip risolve il difetto RCE sfruttabile con archivi dannosi**  
-  Fonte: BleepingComputer, 18 Jul 2026, 19:32:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/>)
-
-- **I difetti RCE "wp2shell" del core di WordPress ottengono exploit pubblici, applica subito la patch**  
-  Fonte: BleepingComputer, 18 Jul 2026, 17:22:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/>)
 
 - **Gemini di Google consente agli sconosciuti di inviare messaggi dal tuo telefono Android bloccato**  
   Fonte: Graham Cluley, 17 Jul 2026, 22:30:49 UTC  
@@ -234,85 +302,13 @@
   Fonte: The Hacker News, 16 Jul 2026, 10:10:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html>)
 
-- **Il difetto dell'aspirapolvere Shark senza patch potrebbe consentire agli aggressori di controllare altri aspiratori in tutta la regione**  
-  Fonte: The Hacker News, 16 Jul 2026, 09:23:19 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html>)
-
 - **Podcast di Smashing Security n. 476: risciò telecomandati e venditori di libri disonesti**  
   Fonte: Graham Cluley, 16 Jul 2026, 09:02:27 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-476/>)
-
-- **GPT-Red di OpenAI automatizza i test di iniezione tempestivi per rafforzare GPT-5.6 Sol**  
-  Fonte: The Hacker News, 16 Jul 2026, 08:42:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html>)
-
-- **Zoom risolve un difetto critico di Windows che potrebbe consentire il furto dell'account**  
-  Fonte: The Hacker News, 16 Jul 2026, 07:22:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html>)
-
-- **L'evoluzione di TuxBot v3 mostra segni di sviluppo di botnet IoT assistito da LLM**  
-  Fonte: The Hacker News, 15 Jul 2026, 18:43:08 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html>)
-
-- **OkoBot Malware Framework inserisce frasi di phishing seed nelle app Ledger e Trezor**  
-  Fonte: The Hacker News, 15 Jul 2026, 15:30:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html>)
-
-- **Gli aggiornamenti di Firefox, Chrome, Adobe e VMware risolvono numerosi difetti critici di sicurezza**  
-  Fonte: The Hacker News, 15 Jul 2026, 13:18:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html>)
-
-- **SASE ha un punto cieco dell'IA.Ispezionare i pacchetti non è più sufficiente.**  
-  Fonte: The Hacker News, 15 Jul 2026, 11:50:01 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html>)
-
-- **Un ricercatore rilascia le nuove ore PoC Zero-Day di Windows dopo il Patch Tuesday di Microsoft**  
-  Fonte: The Hacker News, 15 Jul 2026, 11:07:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html>)
-
-- **Nuovo webinar: colmare il divario di approvazione nella tecnologia pubblicitaria dell'era dell'intelligenza artificiale**  
-  Fonte: The Hacker News, 15 Jul 2026, 11:06:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html>)
 
 - **Uno schermo video che è anche una fotocamera**  
   Fonte: Schneier on Security, 15 Jul 2026, 11:04:06 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/a-video-screen-that-is-also-a-camera.html>)
 
-- **Il difetto del cursore consente ai repository clonati dannosi di attivare l'esecuzione del codice di Windows**  
-  Fonte: The Hacker News, 15 Jul 2026, 10:55:22 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html>)
 
-- **I pacchetti AsyncAPI npm compromessi distribuiscono malware botnet multifase**  
-  Fonte: The Hacker News, 15 Jul 2026, 09:16:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html>)
-
-- **Sfruttati due SonicWall SMA 1000 Zero-Days, uno dei quali potrebbe abilitare i comandi di amministrazione**  
-  Fonte: The Hacker News, 15 Jul 2026, 05:30:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html>)
-
-- **Aggiornamento settimanale 512: blocco IoT non riuscito**  
-  Fonte: Troy Hunt, 15 Jul 2026, 00:35:38 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-512/>)
-
-- **Le patch Microsoft registrano 622 difetti, inclusi due zero-day sotto attacco attivo**  
-  Fonte: The Hacker News, 14 Jul 2026, 20:25:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html>)
-
-- **Microsoft corregge un record di 570 difetti di sicurezza**  
-  Fonte: Krebs on Security, 14 Jul 2026, 19:22:42 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/>)
-
-- **SAP patcha il difetto CVSS 9.9 NetWeaver ABAP che potrebbe esporre o modificare i dati**  
-  Fonte: The Hacker News, 14 Jul 2026, 18:17:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html>)
-
-- **Prossimi impegni di conferenza**  
-  Fonte: Schneier on Security, 14 Jul 2026, 16:04:49 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html>)
-
-- **Vulnerabilità nella rete FIFA**  
-  Fonte: Schneier on Security, 14 Jul 2026, 11:06:51 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-07-21 08:08:41 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-22 08:08:18 UTC -->
