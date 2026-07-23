@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Le patch Check Point hanno sfruttato il difetto della SmartConsole che consente l'accesso amministrativo completo**  
+  Fonte: The Hacker News, 23 Jul 2026, 06:34:36 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/check-point-patches-exploited.html>)
+
+- **Podcast di Smashing Security n. 477: come 14 ordini di pollo McNuggets hanno aiutato a inchiodare un sospetto hacker russo**  
+  Fonte: Graham Cluley, 22 Jul 2026, 23:10:22 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-477/>)
+
+- **Upbound afferma che l'hacking ha causato 13 milioni di dollari in contratti di locazione fraudolenti di Acima**  
+  Fonte: BleepingComputer, 22 Jul 2026, 21:43:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/>)
+
+- **La Corea del Sud rivela una violazione dei dati che ha avuto ripercussioni sui diplomatici di tutto il mondo**  
+  Fonte: BleepingComputer, 22 Jul 2026, 20:06:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/>)
+
+- **GitHub taglia i pagamenti delle bug bounty pubbliche e sposta i premi migliori al livello VIP**  
+  Fonte: The Hacker News, 22 Jul 2026, 18:37:42 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html>)
+
+- **Il difetto snap-confine di Ubuntu potrebbe fornire agli utenti locali il root sulle installazioni desktop predefinite**  
+  Fonte: The Hacker News, 22 Jul 2026, 18:07:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html>)
+
+- **Il colosso ferroviario svizzero Stadler rifiuta la richiesta di riscatto da 12,3 milioni di dollari dopo l'attacco informatico**  
+  Fonte: BleepingComputer, 22 Jul 2026, 16:59:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/>)
+
+- **In che modo la GenAI aziendale può amplificare il rischio ransomware e come contenerlo**  
+  Fonte: BleepingComputer, 22 Jul 2026, 15:30:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/>)
+
+- **Il difetto dell'estensione Adobe Acrobat consente ai siti dannosi di leggere i dati Web di WhatsApp**  
+  Fonte: The Hacker News, 22 Jul 2026, 15:01:21 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html>)
+
+- **Il nuovo rapporto InfraTrust rivela i difetti dell’infrastruttura che gli amministratori dovrebbero prima correggere**  
+  Fonte: BleepingComputer, 22 Jul 2026, 14:15:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/>)
+
+- **Il difetto dell'estensione Adobe Chrome consente ai siti di accedere alle chat private di WhatsApp**  
+  Fonte: BleepingComputer, 22 Jul 2026, 13:22:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/>)
+
+- **Gli hacker sfruttano la falla di Windmill per leggere file server arbitrari senza autenticazione**  
+  Fonte: The Hacker News, 22 Jul 2026, 12:36:36 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html>)
+
+- **Il percorso più veloce verso l’adozione dell’intelligenza artificiale passa attraverso la sicurezza**  
+  Fonte: The Hacker News, 22 Jul 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html>)
+
+- **La CISA ordina un'azione urgente sulla falla RCE di Langflow sfruttata attivamente**  
+  Fonte: BleepingComputer, 22 Jul 2026, 11:43:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/>)
+
+- **OpenAI afferma che i suoi modelli di intelligenza artificiale sono sfuggiti al sandbox, mirati al benchmark Hugging Face to Cheat**  
+  Fonte: The Hacker News, 22 Jul 2026, 11:30:02 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html>)
+
+- **Perché i SOC moderni necessitano di rilevamenti multilivello**  
+  Fonte: The Hacker News, 22 Jul 2026, 11:25:35 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html>)
+
+- **Smetti di affittare lo spazio di archiviazione: questo piano a vita da 2 TB è tuo per $ 59**  
+  Fonte: BleepingComputer, 22 Jul 2026, 11:09:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/>)
+
+- **Storia di un furto d'identità in prima persona**  
+  Fonte: Schneier on Security, 22 Jul 2026, 11:02:26 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/first-person-identity-theft-story.html>)
+
+- **Microsoft interromperà gli aggiornamenti di sicurezza di Exchange 2016/2019 a ottobre**  
+  Fonte: BleepingComputer, 22 Jul 2026, 10:44:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/>)
+
 - **Chick-fil-A rivela una violazione dei dati dopo attacchi di credential stuffing**  
   Fonte: BleepingComputer, 22 Jul 2026, 06:40:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/>)
@@ -21,10 +97,6 @@
 - **Il difetto MCP di Microsoft Azure DevOps consente ai commenti PR nascosti di prendere il controllo degli agenti di revisione AI**  
   Fonte: The Hacker News, 22 Jul 2026, 04:57:52 UTC  
   [Leggi](<https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html>)
-
-- **OpenAI afferma che i suoi modelli di intelligenza artificiale sono sfuggiti al sandbox, mirati al benchmark Hugging Face to Cheat**  
-  Fonte: The Hacker News, 22 Jul 2026, 04:18:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html>)
 
 - **LG bandirà i proxy residenziali dalle app Smart TV**  
   Fonte: Krebs on Security, 22 Jul 2026, 01:10:38 UTC  
@@ -46,13 +118,9 @@
   Fonte: BleepingComputer, 21 Jul 2026, 18:50:54 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/>)
 
-- **Le correzioni Apple nascondono il mio bug di posta elettronica che esponeva indirizzi reali nei registri di posta**  
+- **Le correzioni di Apple nascondono il mio bug di posta elettronica che esponeva indirizzi reali nei registri di posta**  
   Fonte: The Hacker News, 21 Jul 2026, 18:46:32 UTC  
   [Leggi](<https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html>)
-
-- **Difetti critici di WordPress wp2shell sfruttati per installare webshell**  
-  Fonte: BleepingComputer, 21 Jul 2026, 16:41:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/>)
 
 - **AWS Kiro Flaw lascia che una pagina Web avvelenata riscriva la sua configurazione ed esegua il codice**  
   Fonte: The Hacker News, 21 Jul 2026, 16:06:12 UTC  
@@ -69,10 +137,6 @@
 - **Gli aggressori del ransomware Qilin sfruttano il bypass dell'autenticazione PAN-OS per l'accesso iniziale**  
   Fonte: The Hacker News, 21 Jul 2026, 14:04:57 UTC  
   [Leggi](<https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html>)
-
-- **Colmare le lacune di identità nella sicurezza delle infrastrutture critiche**  
-  Fonte: BleepingComputer, 21 Jul 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/>)
 
 - **Zimbra corregge l'iniezione critica di comandi SNMP e quattro vulnerabilità XSS**  
   Fonte: The Hacker News, 21 Jul 2026, 13:18:31 UTC  
@@ -94,29 +158,13 @@
   Fonte: Schneier on Security, 21 Jul 2026, 11:07:13 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html>)
 
-- **Gli Stati Uniti sequestrano oltre 1.000 siti web durante la repressione della pirateria durante la Coppa del Mondo FIFA**  
-  Fonte: BleepingComputer, 21 Jul 2026, 11:07:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/>)
-
-- **Bug critico della VPN di Palo Alto ora sfruttato dalla banda di ransomware Qilin**  
-  Fonte: BleepingComputer, 21 Jul 2026, 10:12:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/>)
-
 - **L'Ucraina avverte che vengono utilizzati CAPTCHA falsi per costringerti ad hackerare te stesso**  
   Fonte: Graham Cluley, 21 Jul 2026, 09:51:58 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ukraine-fake-captchas-hack-yourself>)
 
-- **Microsoft condivide la correzione manuale per ritardi e timeout di sincronizzazione WSUS**  
-  Fonte: BleepingComputer, 21 Jul 2026, 09:05:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/>)
-
 - **Lo sfruttamento di WordPress wp2shell cresce mentre l’exploit pubblico alimenta la scansione di massa**  
   Fonte: The Hacker News, 21 Jul 2026, 08:59:30 UTC  
   [Leggi](<https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html>)
-
-- **Il difetto zero-day di Windows LegacyHive ottiene patch gratuite e non ufficiali**  
-  Fonte: BleepingComputer, 21 Jul 2026, 08:06:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/>)
 
 - **Il nuovo ransomware ENCFORGE prende di mira i file modello AI nell'attacco Langflow RCE**  
   Fonte: The Hacker News, 21 Jul 2026, 07:34:32 UTC  
@@ -129,18 +177,6 @@
 - **Sfruttato il difetto critico della piattaforma AI ServiceNow per l'esecuzione di codice non autenticato**  
   Fonte: The Hacker News, 21 Jul 2026, 06:29:26 UTC  
   [Leggi](<https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html>)
-
-- **Estée Lauder rivela una violazione dei dati tramite la falla di Oracle E-Business**  
-  Fonte: BleepingComputer, 20 Jul 2026, 22:39:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/>)
-
-- **Difetti SonicWall SMA1000 sfruttati come zero-day per diffondere malware personalizzato**  
-  Fonte: BleepingComputer, 20 Jul 2026, 22:23:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/>)
-
-- **Gli hacker rubano 23,7 milioni di dollari in criptovalute da Ostium in un attacco off-chain**  
-  Fonte: BleepingComputer, 20 Jul 2026, 22:22:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/>)
 
 - **La campagna FakeGit utilizza 7.600 repository GitHub per diffondere il malware SmartLoader**  
   Fonte: The Hacker News, 20 Jul 2026, 18:23:03 UTC  
@@ -234,7 +270,7 @@
   Fonte: The Hacker News, 17 Jul 2026, 11:44:41 UTC  
   [Leggi](<https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html>)
 
-- **La corsa verso l’autonomia militare sul campo è iniziata: un’infrastruttura informatica affidabile riuscirà a tenere il passo?**  
+- **La corsa all’autonomia militare sul campo è iniziata: un’infrastruttura informatica affidabile riuscirà a tenere il passo?**  
   Fonte: The Hacker News, 17 Jul 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html>)
 
@@ -262,7 +298,7 @@
   Fonte: Graham Cluley, 16 Jul 2026, 21:05:37 UTC  
   [Leggi](<https://www.fortra.com/blog/anubis-ransomware>)
 
-- **Due Spider Hacker sparsi ottengono 5,5 anni ciascuno per un attacco informatico TfL da 29 milioni di sterline**  
+- **Due Spider Hacker sparsi ottengono 5,5 anni ciascuno per un attacco TfL da 29 milioni di sterline**  
   Fonte: The Hacker News, 16 Jul 2026, 17:09:25 UTC  
   [Leggi](<https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html>)
 
@@ -274,41 +310,9 @@
   Fonte: Schneier on Security, 16 Jul 2026, 14:34:31 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html>)
 
-- **Il difetto dello scambio di token n8n potrebbe consentire agli aggressori di accedere come utenti di un altro emittente**  
-  Fonte: The Hacker News, 16 Jul 2026, 13:33:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html>)
-
-- **Il nuovo malware TELEPUZ si diffonde tramite ClickFix per rubare dati ed eseguire comandi**  
-  Fonte: The Hacker News, 16 Jul 2026, 12:50:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html>)
-
-- **Il nuovo ClickLock macOS Stealer uccide le app ogni 210 ms finché le vittime non digitano la password**  
-  Fonte: The Hacker News, 16 Jul 2026, 12:33:42 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html>)
-
-- **Oltre 20 siti web governativi violati sono diventati canali di attacco**  
-  Fonte: The Hacker News, 16 Jul 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/20-hijacked-government-websites.html>)
-
-- **Il nuovo attacco Data Injection degli agenti può far sì che gli agenti IA facciano clic erroneamente o eseguano comandi dell'aggressore**  
-  Fonte: The Hacker News, 16 Jul 2026, 11:32:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html>)
-
-- **Daxin riemerge a Taiwan insieme alla backdoor del sistema di pre-accesso Stupig**  
-  Fonte: The Hacker News, 16 Jul 2026, 11:17:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html>)
-
-- **L’intelligenza artificiale può trovare bug, ma la conoscenza umana li dimostra ancora**  
-  Fonte: The Hacker News, 16 Jul 2026, 10:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html>)
-
 - **Podcast di Smashing Security n. 476: risciò telecomandati e venditori di libri disonesti**  
   Fonte: Graham Cluley, 16 Jul 2026, 09:02:27 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-476/>)
 
-- **Uno schermo video che è anche una fotocamera**  
-  Fonte: Schneier on Security, 15 Jul 2026, 11:04:06 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/a-video-screen-that-is-also-a-camera.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-07-22 08:08:18 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-23 08:12:39 UTC -->
