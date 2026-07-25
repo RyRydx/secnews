@@ -2,9 +2,85 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: pesca dei calamari di Illex nelle Falkland**  
+  Fonte: Schneier on Security, 24 Jul 2026, 21:06:00 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html>)
+
+- **OnTrac avvisa i clienti della violazione dei dati dopo l'hacking della rete**  
+  Fonte: BleepingComputer, 24 Jul 2026, 19:55:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/>)
+
+- **Agente AI di Hermes utilizzato per automatizzare l'attacco al Ministero delle Finanze tailandese**  
+  Fonte: BleepingComputer, 24 Jul 2026, 19:09:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/>)
+
+- **Gli hacker prendono il controllo del DNS Wi-Fi dell'hotel per rubare gli account Microsoft 365**  
+  Fonte: BleepingComputer, 24 Jul 2026, 17:50:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/>)
+
+- **Microsoft attribuisce la massiccia interruzione di Microsoft 365 a un bug di manutenzione**  
+  Fonte: BleepingComputer, 24 Jul 2026, 15:41:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/>)
+
+- **Il kit di phishing Zoom BlueNoroff profila i portafogli crittografici prima della consegna del malware**  
+  Fonte: The Hacker News, 24 Jul 2026, 15:12:35 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html>)
+
+- **L'exploit di Certighost consente agli utenti di Active Directory con privilegi limitati di impersonare un controller di dominio**  
+  Fonte: The Hacker News, 24 Jul 2026, 14:15:21 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html>)
+
+- **La violazione dei dati di Chick-fil-A colpisce più di 13.000 clienti**  
+  Fonte: BleepingComputer, 24 Jul 2026, 14:04:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/>)
+
+- **Slopsquatting, Phantom Domains e HalluSquatting sono lo stesso attacco AI**  
+  Fonte: BleepingComputer, 24 Jul 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/>)
+
+- **Europol segnala 4.340 URL da rimuovere nell'ambito della repressione di "The Com".**  
+  Fonte: BleepingComputer, 24 Jul 2026, 12:56:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/>)
+
+- **ChatGPT AgentForger Flaw potrebbe distribuire agenti di workspace non autorizzati tramite un collegamento di phishing**  
+  Fonte: The Hacker News, 24 Jul 2026, 11:53:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html>)
+
+- **I difetti delle immagini di Bing consentono agli SVG creati di eseguire comandi come SISTEMA sui server Microsoft**  
+  Fonte: The Hacker News, 24 Jul 2026, 11:45:17 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html>)
+
+- **Vedere gli agenti IA non è sufficiente.I team di sicurezza devono applicare ciò che possono fare**  
+  Fonte: The Hacker News, 24 Jul 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html>)
+
+- **Uomo condannato a sei anni per aver violato gli account Snapchat di 750 donne**  
+  Fonte: BleepingComputer, 24 Jul 2026, 11:17:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/>)
+
+- **Perché l’intelligenza artificiale ha bisogno di un “coefficiente Gini”**  
+  Fonte: Schneier on Security, 24 Jul 2026, 11:03:06 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html>)
+
+- **Un hacker gestisce incustodito l'agente AI di Hermes per il post-sfruttamento presso il Ministero delle Finanze tailandese**  
+  Fonte: The Hacker News, 24 Jul 2026, 10:15:29 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html>)
+
+- **Golden Chickens riemerge con quattro nuove famiglie di malware e impianti modulari**  
+  Fonte: The Hacker News, 24 Jul 2026, 10:09:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html>)
+
+- **NodeBB corregge otto difetti rilevati dall'intelligenza artificiale che esponevano l'accesso amministrativo e le chat private**  
+  Fonte: The Hacker News, 24 Jul 2026, 07:41:06 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html>)
+
 - **Il ransomware Clop prende di mira Windchill e FlexPLM con attacchi di furto di dati**  
   Fonte: BleepingComputer, 24 Jul 2026, 07:36:39 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/>)
+
+- **Gli agenti Kimi K3 hanno scoperto Redis Zero-Days e creato un exploit RCE, dicono i ricercatori**  
+  Fonte: The Hacker News, 24 Jul 2026, 06:58:27 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html>)
 
 - **Il plugin falso Notepad++ fornisce MATCHBOIL.V2 negli attacchi UAC-0099**  
   Fonte: The Hacker News, 24 Jul 2026, 06:50:57 UTC  
@@ -46,10 +122,6 @@
   Fonte: Graham Cluley, 23 Jul 2026, 14:18:37 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/openais-hacks-hugging-face>)
 
-- **FedRAMP Rev5 sta per finire: cosa richiede realmente la transizione 20x**  
-  Fonte: BleepingComputer, 23 Jul 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/>)
-
 - **Un difetto di Claude Cowork potrebbe consentire all'agente AI di sfuggire alla sua VM e accedere ai file Mac**  
   Fonte: The Hacker News, 23 Jul 2026, 13:27:59 UTC  
   [Leggi](<https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html>)
@@ -58,10 +130,6 @@
   Fonte: The Hacker News, 23 Jul 2026, 13:11:09 UTC  
   [Leggi](<https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html>)
 
-- **L'UE multa Google da 1 miliardo di dollari per violazioni antitrust nel settore ricerca e app store**  
-  Fonte: BleepingComputer, 23 Jul 2026, 12:33:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/>)
-
 - **China-Nexus JadeProx utilizza il nuovo caricatore TriBack negli attacchi governativi e sanitari**  
   Fonte: The Hacker News, 23 Jul 2026, 12:20:23 UTC  
   [Leggi](<https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html>)
@@ -69,10 +137,6 @@
 - **Come stanno arrivando le frodi sull'identità sintetica per le identità delle macchine**  
   Fonte: The Hacker News, 23 Jul 2026, 11:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html>)
-
-- **La nuova falla RefluXFS Linux consente agli aggressori di ottenere i privilegi di root**  
-  Fonte: BleepingComputer, 23 Jul 2026, 11:40:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/>)
 
 - **Gli aggressori utilizzano come armi i runner di azioni GitHub per prendere di mira i server cPanel e WHM**  
   Fonte: The Hacker News, 23 Jul 2026, 11:28:54 UTC  
@@ -86,18 +150,6 @@
   Fonte: The Hacker News, 23 Jul 2026, 10:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html>)
 
-- **Il nuovo malware msaRAT utilizza i browser Chrome ed Edge per instradare il traffico C2**  
-  Fonte: BleepingComputer, 23 Jul 2026, 10:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/>)
-
-- **Microsoft sta lavorando per risolvere il problema della quarantena delle cassette postali di Exchange Online**  
-  Fonte: BleepingComputer, 23 Jul 2026, 09:20:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/>)
-
-- **Check Point avvisa dello zero-day SmartConsole sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 23 Jul 2026, 08:13:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/>)
-
 - **Il difetto Linux RefluXFS vecchio di nove anni fornisce agli utenti locali il root sulle installazioni RHEL predefinite**  
   Fonte: The Hacker News, 23 Jul 2026, 08:04:35 UTC  
   [Leggi](<https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html>)
@@ -106,17 +158,9 @@
   Fonte: The Hacker News, 23 Jul 2026, 06:34:36 UTC  
   [Leggi](<https://thehackernews.com/2026/07/check-point-patches-exploited.html>)
 
-- **Podcast di Smashing Security n. 477: come 14 ordini di pollo McNuggets hanno aiutato a incastrare un sospetto hacker russo**  
+- **Podcast di Smashing Security n. 477: come 14 ordini di pollo McNuggets hanno aiutato a inchiodare un sospetto hacker russo**  
   Fonte: Graham Cluley, 22 Jul 2026, 23:10:22 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-477/>)
-
-- **Upbound afferma che l'hacking ha causato 13 milioni di dollari in contratti di locazione fraudolenti di Acima**  
-  Fonte: BleepingComputer, 22 Jul 2026, 21:43:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/>)
-
-- **La Corea del Sud rivela una violazione dei dati che ha avuto ripercussioni sui diplomatici di tutto il mondo**  
-  Fonte: BleepingComputer, 22 Jul 2026, 20:06:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/>)
 
 - **GitHub taglia i pagamenti delle bug bounty pubbliche e sposta i premi migliori al livello VIP**  
   Fonte: The Hacker News, 22 Jul 2026, 18:37:42 UTC  
@@ -166,7 +210,7 @@
   Fonte: Krebs on Security, 22 Jul 2026, 01:10:38 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/>)
 
-- **Le correzioni Apple nascondono il mio bug di posta elettronica che esponeva indirizzi reali nei registri di posta**  
+- **Le correzioni di Apple nascondono il mio bug di posta elettronica che esponeva indirizzi reali nei registri di posta**  
   Fonte: The Hacker News, 21 Jul 2026, 18:46:32 UTC  
   [Leggi](<https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html>)
 
@@ -262,53 +306,5 @@
   Fonte: The Hacker News, 20 Jul 2026, 09:07:11 UTC  
   [Leggi](<https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html>)
 
-- **Il più grande archivio di modelli di intelligenza artificiale al mondo che abbraccia il volto violato da un agente di intelligenza artificiale autonomo**  
-  Fonte: The Hacker News, 20 Jul 2026, 05:27:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html>)
 
-- **SleeperGem utilizza tre pacchetti RubyGems dannosi per prendere di mira le macchine degli sviluppatori**  
-  Fonte: The Hacker News, 20 Jul 2026, 05:15:39 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html>)
-
-- **Una vulnerabilità critica di NGINX può mandare in crash i lavoratori e consentire l'esecuzione di codice in modalità remota**  
-  Fonte: The Hacker News, 19 Jul 2026, 20:42:49 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html>)
-
-- **UAC-0145 utilizza i CAPTCHA ClickFix per infettare i dispositivi ucraini con malware**  
-  Fonte: The Hacker News, 19 Jul 2026, 13:30:55 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html>)
-
-- **SonicWall SMA Zero-Days sfruttato prima della divulgazione per ottenere l'accesso root**  
-  Fonte: The Hacker News, 19 Jul 2026, 13:18:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html>)
-
-- **Gemini di Google consente agli sconosciuti di inviare messaggi dal tuo telefono Android bloccato**  
-  Fonte: Graham Cluley, 17 Jul 2026, 22:30:49 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/googles-gemini-strangers-messages-locked-android-phone>)
-
-- **Il nuovo difetto principale di WordPress in wp2shell consente agli aggressori non autenticati di eseguire codice**  
-  Fonte: The Hacker News, 17 Jul 2026, 21:20:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html>)
-
-- **Blog sui calamari del venerdì: calamari che si lavano sulla spiaggia di Cape Cod**  
-  Fonte: Schneier on Security, 17 Jul 2026, 21:01:37 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html>)
-
-- **Il difetto OpenSSL HollowByte potrebbe congelare la memoria del server con richieste TLS da 11 byte**  
-  Fonte: The Hacker News, 17 Jul 2026, 20:20:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html>)
-
-- **Sette pacchetti Vite npm dannosi utilizzano Blockchain C2 per fornire un RAT**  
-  Fonte: The Hacker News, 17 Jul 2026, 18:54:51 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html>)
-
-- **La nuova botnet NadMesh va a caccia di servizi AI esposti per chiavi cloud e token Kubernetes**  
-  Fonte: The Hacker News, 17 Jul 2026, 17:12:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html>)
-
-- **Dettagli del sistema di crittografia vocale di Alan Turing**  
-  Fonte: Schneier on Security, 17 Jul 2026, 11:02:21 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-07-24 08:08:29 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-25 07:52:29 UTC -->
