@@ -2,6 +2,46 @@
 
 ## Ultimi 7 giorni
 
+- **Gli attacchi ClickFix del forum Steam infettano i giocatori con i cryptominer XMRig**  
+  Fonte: BleepingComputer, 25 Jul 2026, 22:37:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/>)
+
+- **Il malvertising manda il malware in pezzi e poi fa costruire al browser l'eseguibile**  
+  Fonte: The Hacker News, 25 Jul 2026, 18:48:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html>)
+
+- **I siti dannosi utilizzano JavaScript per creare malware nella memoria del browser**  
+  Fonte: BleepingComputer, 25 Jul 2026, 15:21:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/>)
+
+- **Le fughe di dati di ShinyHunters alimentano una truffa tramite email di sextortion da 2.000 dollari**  
+  Fonte: BleepingComputer, 25 Jul 2026, 14:16:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/>)
+
+- **Vulnerabilità RCE di Fastjson 1.x mirata negli attacchi senza patch disponibile**  
+  Fonte: The Hacker News, 25 Jul 2026, 12:52:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html>)
+
+- **Un ricercatore pubblica il PoC di GitLab RCE che consente agli utenti autenticati di eseguire comandi come Git**  
+  Fonte: The Hacker News, 25 Jul 2026, 10:14:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html>)
+
+- **La ricerca CTM360 rivela come il phishing assicurativo si è evoluto in un dirottamento di account in tempo reale**  
+  Fonte: The Hacker News, 25 Jul 2026, 10:14:21 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html>)
+
+- **Gli affiliati Cl0p prendono di mira PTC Windchill e FlexPLM esposti a Internet con RCE non autenticato**  
+  Fonte: The Hacker News, 25 Jul 2026, 10:14:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html>)
+
+- **Il portale DevMan RaaS centralizza le build di payload, la gestione delle vittime e i pagamenti agli affiliati**  
+  Fonte: The Hacker News, 25 Jul 2026, 09:53:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html>)
+
+- **OpenAI conferma che ChatGPT è inattivo in tutto il mondo**  
+  Fonte: BleepingComputer, 25 Jul 2026, 09:31:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/>)
+
 - **Blog sui calamari del venerdì: pesca dei calamari di Illex nelle Falkland**  
   Fonte: Schneier on Security, 24 Jul 2026, 21:06:00 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html>)
@@ -22,7 +62,7 @@
   Fonte: BleepingComputer, 24 Jul 2026, 15:41:44 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/>)
 
-- **Il kit di phishing Zoom BlueNoroff profila i portafogli crittografici prima della consegna del malware**  
+- **Il kit di phishing BlueNoroff Zoom profila i portafogli crittografici prima della consegna del malware**  
   Fonte: The Hacker News, 24 Jul 2026, 15:12:35 UTC  
   [Leggi](<https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html>)
 
@@ -78,7 +118,7 @@
   Fonte: BleepingComputer, 24 Jul 2026, 07:36:39 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/>)
 
-- **Gli agenti Kimi K3 hanno scoperto Redis Zero-Days e creato un exploit RCE, dicono i ricercatori**  
+- **Gli agenti Kimi K3 hanno trovato Redis Zero-Days e creato un exploit RCE, dicono i ricercatori**  
   Fonte: The Hacker News, 24 Jul 2026, 06:58:27 UTC  
   [Leggi](<https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html>)
 
@@ -90,29 +130,13 @@
   Fonte: BleepingComputer, 23 Jul 2026, 21:20:34 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/>)
 
-- **Il fornitore di energia australiano Origin afferma che la violazione dei dati espone i dati dei clienti**  
+- **Il fornitore energetico australiano Origin afferma che la violazione dei dati espone i dati dei clienti**  
   Fonte: BleepingComputer, 23 Jul 2026, 20:14:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/>)
-
-- **La falsa app Claude promossa dagli annunci di Bing spinge il malware SectopRAT**  
-  Fonte: BleepingComputer, 23 Jul 2026, 19:48:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/>)
 
 - **Un gruppo di spionaggio russo ha sfruttato Zimbra Zero-Day per rubare posta e codici 2FA**  
   Fonte: The Hacker News, 23 Jul 2026, 18:36:08 UTC  
   [Leggi](<https://thehackernews.com/2026/07/russian-espionage-group-exploited.html>)
-
-- **Gli hacker russi sfruttano la falla zero-click di Zimbra per rubare la posta elettronica**  
-  Fonte: BleepingComputer, 23 Jul 2026, 16:49:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/>)
-
-- **Gli hacker abusano dei plugin di Notepad++ per installare furtivamente malware**  
-  Fonte: BleepingComputer, 23 Jul 2026, 16:32:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/>)
-
-- **L'interruzione di Microsoft 365 influisce su Teams, SharePoint e altri servizi**  
-  Fonte: BleepingComputer, 23 Jul 2026, 15:34:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/>)
 
 - **ThreatsDay: spyware Android, attacchi PLC, iniezione di prompt di immagini AI e altre 12 storie**  
   Fonte: The Hacker News, 23 Jul 2026, 15:02:07 UTC  
@@ -158,7 +182,7 @@
   Fonte: The Hacker News, 23 Jul 2026, 06:34:36 UTC  
   [Leggi](<https://thehackernews.com/2026/07/check-point-patches-exploited.html>)
 
-- **Podcast di Smashing Security n. 477: come 14 ordini di pollo McNuggets hanno aiutato a inchiodare un sospetto hacker russo**  
+- **Podcast di Smashing Security n. 477: come 14 ordini di pollo McNuggets hanno aiutato a incastrare un sospetto hacker russo**  
   Fonte: Graham Cluley, 22 Jul 2026, 23:10:22 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-477/>)
 
@@ -210,7 +234,7 @@
   Fonte: Krebs on Security, 22 Jul 2026, 01:10:38 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/>)
 
-- **Le correzioni di Apple nascondono il mio bug di posta elettronica che esponeva indirizzi reali nei registri di posta**  
+- **Le correzioni Apple nascondono il mio bug di posta elettronica che esponeva indirizzi reali nei registri di posta**  
   Fonte: The Hacker News, 21 Jul 2026, 18:46:32 UTC  
   [Leggi](<https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html>)
 
@@ -278,33 +302,9 @@
   Fonte: The Hacker News, 20 Jul 2026, 17:29:50 UTC  
   [Leggi](<https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html>)
 
-- **Il malware HollowGraph nasconde C2 e file rubati negli eventi di Microsoft 365 datati 2050**  
-  Fonte: The Hacker News, 20 Jul 2026, 14:33:43 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html>)
-
-- **⚡ Riepilogo settimanale: WordPress RCE, SonicWall 0-Days, attacchi ai servizi AI, SharePoint 0-Day e altro ancora**  
-  Fonte: The Hacker News, 20 Jul 2026, 13:32:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html>)
-
-- **L’intelligence russa hackera le telecamere IP per spiare la logistica militare negli stati NATO e in Ucraina**  
-  Fonte: The Hacker News, 20 Jul 2026, 12:13:39 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html>)
-
-- **Mythos non ha interrotto il tuo programma di sicurezza.La tua finestra di esposizione potrebbe.**  
-  Fonte: The Hacker News, 20 Jul 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html>)
-
 - **Sulle telecamere di localizzazione delle targhe Flock**  
   Fonte: Schneier on Security, 20 Jul 2026, 11:03:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html>)
 
-- **La nuova vulnerabilità 7-Zip potrebbe consentire agli archivi XZ creati di eseguire codice durante l'estrazione**  
-  Fonte: The Hacker News, 20 Jul 2026, 09:10:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html>)
 
-- **Un hacker di lingua russa utilizza la CLI di Google Gemini per controllare la botnet di otto PC di uno studio dentistico**  
-  Fonte: The Hacker News, 20 Jul 2026, 09:07:11 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-07-25 07:52:29 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-26 08:08:56 UTC -->
