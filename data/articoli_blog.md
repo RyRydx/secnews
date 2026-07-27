@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **TELESHIM abusa di Telegram per C2 negli attacchi contro i governi del Medio Oriente**  
+  Fonte: The Hacker News, 27 Jul 2026, 08:48:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html>)
+
+- **GitHub aggiunge un tempo di recupero di Dependabot di 3 giorni per limitare l'adozione di pacchetti avvelenati**  
+  Fonte: The Hacker News, 27 Jul 2026, 08:01:23 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html>)
+
+- **GitHub e PyPI aggiungono difese basate sul tempo contro gli attacchi alla catena di fornitura**  
+  Fonte: BleepingComputer, 26 Jul 2026, 14:13:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/>)
+
+- **Aggiornamento settimanale 514: Questa settimana di violazioni dei dati**  
+  Fonte: Troy Hunt, 26 Jul 2026, 09:14:51 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-514/>)
+
 - **Gli attacchi ClickFix del forum Steam infettano i giocatori con i cryptominer XMRig**  
   Fonte: BleepingComputer, 25 Jul 2026, 22:37:47 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/>)
@@ -130,10 +146,6 @@
   Fonte: BleepingComputer, 23 Jul 2026, 21:20:34 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/>)
 
-- **Il fornitore energetico australiano Origin afferma che la violazione dei dati espone i dati dei clienti**  
-  Fonte: BleepingComputer, 23 Jul 2026, 20:14:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/>)
-
 - **Un gruppo di spionaggio russo ha sfruttato Zimbra Zero-Day per rubare posta e codici 2FA**  
   Fonte: The Hacker News, 23 Jul 2026, 18:36:08 UTC  
   [Leggi](<https://thehackernews.com/2026/07/russian-espionage-group-exploited.html>)
@@ -182,7 +194,7 @@
   Fonte: The Hacker News, 23 Jul 2026, 06:34:36 UTC  
   [Leggi](<https://thehackernews.com/2026/07/check-point-patches-exploited.html>)
 
-- **Podcast di Smashing Security n. 477: come 14 ordini di pollo McNuggets hanno aiutato a incastrare un sospetto hacker russo**  
+- **Podcast di Smashing Security n. 477: come 14 ordini di pollo McNuggets hanno aiutato a inchiodare un sospetto hacker russo**  
   Fonte: Graham Cluley, 22 Jul 2026, 23:10:22 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-477/>)
 
@@ -294,17 +306,9 @@
   Fonte: The Hacker News, 21 Jul 2026, 06:29:26 UTC  
   [Leggi](<https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html>)
 
-- **La campagna FakeGit utilizza 7.600 repository GitHub per diffondere il malware SmartLoader**  
-  Fonte: The Hacker News, 20 Jul 2026, 18:23:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html>)
-
-- **Il server esposto rivela un toolkit di phishing assistito dall'intelligenza artificiale dietro la campagna malware WebDAV**  
-  Fonte: The Hacker News, 20 Jul 2026, 17:29:50 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html>)
-
 - **Sulle telecamere di localizzazione delle targhe Flock**  
   Fonte: Schneier on Security, 20 Jul 2026, 11:03:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-07-26 08:08:56 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-27 09:31:34 UTC -->
