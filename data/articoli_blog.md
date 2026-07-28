@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost**  
+  Fonte: The Hacker News, 28 Jul 2026, 06:07:22 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html>)
+
+- **Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw**  
+  Fonte: The Hacker News, 28 Jul 2026, 04:43:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html>)
+
+- **Gli hacker prendono di mira le aziende statunitensi con attacchi zero-day FastJson RCE**  
+  Fonte: BleepingComputer, 27 Jul 2026, 23:49:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/>)
+
+- **Arista patch VeloCloud Orchestrator zero-day sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 27 Jul 2026, 22:49:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/>)
+
+- **La nuova botnet DDoS Dysphoria si diffonde a 200.000 dispositivi in ​​tutto il mondo**  
+  Fonte: BleepingComputer, 27 Jul 2026, 21:08:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/>)
+
+- **Il nuovo exploit Certighost PoC consente agli aggressori di prendere il controllo dei domini Windows**  
+  Fonte: BleepingComputer, 27 Jul 2026, 21:00:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/>)
+
+- **NVIDIA forma un'Alleanza Open Secure AI composta da 37 membri e un framework NOOA open source**  
+  Fonte: The Hacker News, 27 Jul 2026, 18:10:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html>)
+
+- **Apple ha fatto causa per il falso portafoglio crittografico dell'App Store che ha rubato 1,8 milioni di dollari in Bitcoin**  
+  Fonte: BleepingComputer, 27 Jul 2026, 17:29:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/>)
+
+- **La botnet IoT Disforia aggiunge Blockchain C2 e Victim Relay dopo l'interruzione di JackSkid**  
+  Fonte: The Hacker News, 27 Jul 2026, 17:16:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html>)
+
+- **Coca-Cola conferma il furto di dati nell'attacco ransomware Fairlife**  
+  Fonte: BleepingComputer, 27 Jul 2026, 15:39:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/>)
+
+- **Violazione dei dati di Ernst & Young rivendicata dalla banda di estorsori ShinyHunters**  
+  Fonte: BleepingComputer, 27 Jul 2026, 15:12:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/>)
+
+- **Exploit pubblico rilasciato per il difetto di esecuzione del codice pre-autenticazione vBulletin corretto**  
+  Fonte: The Hacker News, 27 Jul 2026, 14:40:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/public-exploit-released-for-patched.html>)
+
+- **⚡ Riepilogo settimanale: agenti IA ribelli, exploit dei Check Point, slopsquatting, esche ClickFix e altro ancora**  
+  Fonte: The Hacker News, 27 Jul 2026, 14:10:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html>)
+
+- **Gli agenti dell'IA ombra si stanno moltiplicando.Ecco come trovarli e proteggerli.**  
+  Fonte: BleepingComputer, 27 Jul 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/>)
+
+- **n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process**  
+  Fonte: The Hacker News, 27 Jul 2026, 13:05:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html>)
+
+- **L'operazione BlueDash distribuisce Level RMM e ScreenConnect tramite Fake Teams Update**  
+  Fonte: The Hacker News, 27 Jul 2026, 12:37:49 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html>)
+
+- **Cognyte vende un furgone di sorveglianza cellulare mobile**  
+  Fonte: Schneier on Security, 27 Jul 2026, 11:04:30 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html>)
+
+- **Cruciferra Crypter utilizza BYOVD e Process Ghosting per nascondere malware Windows**  
+  Fonte: The Hacker News, 27 Jul 2026, 10:51:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html>)
+
 - **TELESHIM abusa di Telegram per C2 negli attacchi contro i governi del Medio Oriente**  
   Fonte: The Hacker News, 27 Jul 2026, 08:48:47 UTC  
   [Leggi](<https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html>)
@@ -54,7 +126,7 @@
   Fonte: The Hacker News, 25 Jul 2026, 09:53:41 UTC  
   [Leggi](<https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html>)
 
-- **OpenAI conferma che ChatGPT è inattivo in tutto il mondo**  
+- **OpenAI confirms ChatGPT is down worldwide**  
   Fonte: BleepingComputer, 25 Jul 2026, 09:31:09 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/>)
 
@@ -70,15 +142,7 @@
   Fonte: BleepingComputer, 24 Jul 2026, 19:09:09 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/>)
 
-- **Gli hacker prendono il controllo del DNS Wi-Fi dell'hotel per rubare gli account Microsoft 365**  
-  Fonte: BleepingComputer, 24 Jul 2026, 17:50:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/>)
-
-- **Microsoft attribuisce la massiccia interruzione di Microsoft 365 a un bug di manutenzione**  
-  Fonte: BleepingComputer, 24 Jul 2026, 15:41:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/>)
-
-- **Il kit di phishing BlueNoroff Zoom profila i portafogli crittografici prima della consegna del malware**  
+- **Il kit di phishing Zoom BlueNoroff profila i portafogli crittografici prima della consegna del malware**  
   Fonte: The Hacker News, 24 Jul 2026, 15:12:35 UTC  
   [Leggi](<https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html>)
 
@@ -86,33 +150,17 @@
   Fonte: The Hacker News, 24 Jul 2026, 14:15:21 UTC  
   [Leggi](<https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html>)
 
-- **La violazione dei dati di Chick-fil-A colpisce più di 13.000 clienti**  
-  Fonte: BleepingComputer, 24 Jul 2026, 14:04:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/>)
-
-- **Slopsquatting, Phantom Domains e HalluSquatting sono lo stesso attacco AI**  
-  Fonte: BleepingComputer, 24 Jul 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/>)
-
-- **Europol segnala 4.340 URL da rimuovere nell'ambito della repressione di "The Com".**  
-  Fonte: BleepingComputer, 24 Jul 2026, 12:56:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/>)
-
 - **ChatGPT AgentForger Flaw potrebbe distribuire agenti di workspace non autorizzati tramite un collegamento di phishing**  
   Fonte: The Hacker News, 24 Jul 2026, 11:53:55 UTC  
   [Leggi](<https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html>)
 
-- **I difetti delle immagini di Bing consentono agli SVG creati di eseguire comandi come SISTEMA sui server Microsoft**  
+- **Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers**  
   Fonte: The Hacker News, 24 Jul 2026, 11:45:17 UTC  
   [Leggi](<https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html>)
 
 - **Vedere gli agenti IA non è sufficiente.I team di sicurezza devono applicare ciò che possono fare**  
   Fonte: The Hacker News, 24 Jul 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html>)
-
-- **Uomo condannato a sei anni per aver violato gli account Snapchat di 750 donne**  
-  Fonte: BleepingComputer, 24 Jul 2026, 11:17:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/>)
 
 - **Perché l’intelligenza artificiale ha bisogno di un “coefficiente Gini”**  
   Fonte: Schneier on Security, 24 Jul 2026, 11:03:06 UTC  
@@ -122,17 +170,13 @@
   Fonte: The Hacker News, 24 Jul 2026, 10:15:29 UTC  
   [Leggi](<https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html>)
 
-- **Golden Chickens riemerge con quattro nuove famiglie di malware e impianti modulari**  
+- **Golden Chickens Resurfaces With Four New Malware Families and Modular Implants**  
   Fonte: The Hacker News, 24 Jul 2026, 10:09:24 UTC  
   [Leggi](<https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html>)
 
-- **NodeBB corregge otto difetti rilevati dall'intelligenza artificiale che esponevano l'accesso amministrativo e le chat private**  
+- **NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats**  
   Fonte: The Hacker News, 24 Jul 2026, 07:41:06 UTC  
   [Leggi](<https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html>)
-
-- **Il ransomware Clop prende di mira Windchill e FlexPLM con attacchi di furto di dati**  
-  Fonte: BleepingComputer, 24 Jul 2026, 07:36:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/>)
 
 - **Gli agenti Kimi K3 hanno trovato Redis Zero-Days e creato un exploit RCE, dicono i ricercatori**  
   Fonte: The Hacker News, 24 Jul 2026, 06:58:27 UTC  
@@ -142,15 +186,11 @@
   Fonte: The Hacker News, 24 Jul 2026, 06:50:57 UTC  
   [Leggi](<https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html>)
 
-- **Il nuovo malware Dolphin X utilizza l’intelligenza artificiale per classificare obiettivi di alto valore**  
-  Fonte: BleepingComputer, 23 Jul 2026, 21:20:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/>)
-
 - **Un gruppo di spionaggio russo ha sfruttato Zimbra Zero-Day per rubare posta e codici 2FA**  
   Fonte: The Hacker News, 23 Jul 2026, 18:36:08 UTC  
   [Leggi](<https://thehackernews.com/2026/07/russian-espionage-group-exploited.html>)
 
-- **ThreatsDay: spyware Android, attacchi PLC, iniezione di prompt di immagini AI e altre 12 storie**  
+- **ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories**  
   Fonte: The Hacker News, 23 Jul 2026, 15:02:07 UTC  
   [Leggi](<https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html>)
 
@@ -194,7 +234,7 @@
   Fonte: The Hacker News, 23 Jul 2026, 06:34:36 UTC  
   [Leggi](<https://thehackernews.com/2026/07/check-point-patches-exploited.html>)
 
-- **Podcast di Smashing Security n. 477: come 14 ordini di pollo McNuggets hanno aiutato a inchiodare un sospetto hacker russo**  
+- **Podcast di Smashing Security n. 477: come 14 ordini di pollo McNuggets hanno aiutato a incastrare un sospetto hacker russo**  
   Fonte: Graham Cluley, 22 Jul 2026, 23:10:22 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-477/>)
 
@@ -258,30 +298,6 @@
   Fonte: The Hacker News, 21 Jul 2026, 15:09:28 UTC  
   [Leggi](<https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html>)
 
-- **SharePoint critico RCE CVE-2026-50522 in fase di sfruttamento attivo dopo PoC pubblico**  
-  Fonte: The Hacker News, 21 Jul 2026, 14:57:51 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html>)
-
-- **Gli aggressori del ransomware Qilin sfruttano il bypass dell'autenticazione PAN-OS per l'accesso iniziale**  
-  Fonte: The Hacker News, 21 Jul 2026, 14:04:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html>)
-
-- **Zimbra corregge l'iniezione critica di comandi SNMP e quattro vulnerabilità XSS**  
-  Fonte: The Hacker News, 21 Jul 2026, 13:18:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html>)
-
-- **Gli agenti AI Android open source potrebbero consentire al testo invisibile dello schermo di eseguire codice sui PC host**  
-  Fonte: The Hacker News, 21 Jul 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html>)
-
-- **N-giorno sta diventando N-ora.Applicare patch più velocemente non ti salverà.**  
-  Fonte: The Hacker News, 21 Jul 2026, 11:42:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html>)
-
-- **Il nuovo attacco Bit2Watt potrebbe consentire agli inquilini del cloud di interrompere le reti elettriche senza alcun exploit**  
-  Fonte: The Hacker News, 21 Jul 2026, 11:24:50 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html>)
-
 - **Il MIT diventerà il focolaio della videosorveglianza basata sull’intelligenza artificiale**  
   Fonte: Schneier on Security, 21 Jul 2026, 11:07:13 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html>)
@@ -290,25 +306,5 @@
   Fonte: Graham Cluley, 21 Jul 2026, 09:51:58 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ukraine-fake-captchas-hack-yourself>)
 
-- **Lo sfruttamento di WordPress wp2shell cresce mentre l’exploit pubblico alimenta la scansione di massa**  
-  Fonte: The Hacker News, 21 Jul 2026, 08:59:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html>)
 
-- **Il nuovo ransomware ENCFORGE prende di mira i file modello AI nell'attacco Langflow RCE**  
-  Fonte: The Hacker News, 21 Jul 2026, 07:34:32 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html>)
-
-- **Aggiornamento settimanale 513: Clauding The Home Network**  
-  Fonte: Troy Hunt, 21 Jul 2026, 07:30:24 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-513/>)
-
-- **Sfruttato il difetto critico della piattaforma AI ServiceNow per l'esecuzione di codice non autenticato**  
-  Fonte: The Hacker News, 21 Jul 2026, 06:29:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html>)
-
-- **Sulle telecamere di localizzazione delle targhe Flock**  
-  Fonte: Schneier on Security, 20 Jul 2026, 11:03:45 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-07-27 09:31:34 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-28 08:16:03 UTC -->
