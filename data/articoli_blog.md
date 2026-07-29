@@ -2,11 +2,91 @@
 
 ## Ultimi 7 giorni
 
-- **Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost**  
+- **Tracce RAT Android di Flying Eagle trovate su 170 server mentre circola il codice sorgente**  
+  Fonte: The Hacker News, 29 Jul 2026, 07:07:23 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html>)
+
+- **L'agente OpenAI ha utilizzato credenziali esposte in quattro servizi durante la violazione di Hugging Face**  
+  Fonte: The Hacker News, 29 Jul 2026, 06:45:02 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html>)
+
+- **Due pacchetti joyfill npm compromessi eseguono RAT quando vengono importati in Node.js**  
+  Fonte: The Hacker News, 29 Jul 2026, 04:20:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html>)
+
+- **Misurare la capacità dei LLM di eseguire la crittoanalisi**  
+  Fonte: Schneier on Security, 29 Jul 2026, 01:47:05 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html>)
+
+- **Lo sviluppatore di software per droni CubePilot è stato colpito dal dirottamento del DNS per intercettare il traffico**  
+  Fonte: BleepingComputer, 28 Jul 2026, 21:17:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/>)
+
+- **I modelli OpenAI hanno utilizzato gli zero-day di Artifactory per fuggire su Internet**  
+  Fonte: BleepingComputer, 28 Jul 2026, 20:37:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/>)
+
+- **Claude AI ha appena risolto uno schema di test post-quantistico e ha trovato un attacco AES a 7 round più veloce**  
+  Fonte: The Hacker News, 28 Jul 2026, 18:59:07 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html>)
+
+- **CISA condivide consigli sull'isolamento dei sistemi vitali durante gli attacchi informatici**  
+  Fonte: BleepingComputer, 28 Jul 2026, 18:41:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/>)
+
+- **vBulletin risolve un difetto critico RCE di pre-autenticazione con un exploit pubblico**  
+  Fonte: BleepingComputer, 28 Jul 2026, 18:08:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/>)
+
+- **La botnet Tengu riavvia i dispositivi Linux compromessi quando i difensori ne interrompono il processo**  
+  Fonte: The Hacker News, 28 Jul 2026, 15:01:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html>)
+
+- **24.650 BMC esposti a Internet rivelano gli hash delle password IPMI prima dell'accesso**  
+  Fonte: The Hacker News, 28 Jul 2026, 14:41:36 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html>)
+
+- **Il tuo SSO è protetto dai moderni attacchi alle credenziali?**  
+  Fonte: BleepingComputer, 28 Jul 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/>)
+
+- **JFrog conferma che i modelli OpenAI hanno sfruttato Artifactory Zero-Day prima di abbracciare Face Breach**  
+  Fonte: The Hacker News, 28 Jul 2026, 13:33:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html>)
+
+- **Un difetto critico di OpenWrt DHCPv6 potrebbe consentire agli aggressori non autenticati di eseguire il codice come root**  
+  Fonte: The Hacker News, 28 Jul 2026, 12:56:14 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html>)
+
+- **Oltre 24.000 BMC di server esposti perdono l'hash della password a causa di un difetto vecchio di decenni**  
+  Fonte: BleepingComputer, 28 Jul 2026, 12:10:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/>)
+
+- **Nimbus Manticore implementa NightLedger e trasforma i sistemi delle vittime in relè segreti**  
+  Fonte: The Hacker News, 28 Jul 2026, 11:55:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html>)
+
+- **Axon è un'altra società di sorveglianza delle targhe**  
+  Fonte: Schneier on Security, 28 Jul 2026, 11:06:30 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html>)
+
+- **La violazione dei dati presso la società di fatturazione medica MCBS colpisce 1,26 milioni di persone**  
+  Fonte: BleepingComputer, 28 Jul 2026, 09:10:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/>)
+
+- **Un difetto critico di TeamCity potrebbe consentire agli aggressori di eseguire comandi del sistema operativo senza effettuare l'accesso**  
+  Fonte: The Hacker News, 28 Jul 2026, 08:11:22 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html>)
+
+- **Un ricercatore afferma che l'intelligenza artificiale ha contribuito a trasformare la corsa al controllo del traffico Linux in un root exploit**  
+  Fonte: The Hacker News, 28 Jul 2026, 08:04:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html>)
+
+- **Microsoft afferma che il nuovo modello AI di sicurezza informatica aiuta MDASH a ottenere un punteggio del 95,95% a metà del costo**  
   Fonte: The Hacker News, 28 Jul 2026, 06:07:22 UTC  
   [Leggi](<https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html>)
 
-- **Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw**  
+- **Gli aggressori sfruttano il difetto di Arista VeloCloud Orchestrator Command Injection**  
   Fonte: The Hacker News, 28 Jul 2026, 04:43:53 UTC  
   [Leggi](<https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html>)
 
@@ -58,7 +138,7 @@
   Fonte: BleepingComputer, 27 Jul 2026, 14:01:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/>)
 
-- **n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process**  
+- **n8n Sandbox Escape consente agli editor del flusso di lavoro di eseguire i comandi del sistema operativo come processo n8n**  
   Fonte: The Hacker News, 27 Jul 2026, 13:05:15 UTC  
   [Leggi](<https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html>)
 
@@ -82,29 +162,13 @@
   Fonte: The Hacker News, 27 Jul 2026, 08:01:23 UTC  
   [Leggi](<https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html>)
 
-- **GitHub e PyPI aggiungono difese basate sul tempo contro gli attacchi alla catena di fornitura**  
-  Fonte: BleepingComputer, 26 Jul 2026, 14:13:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/>)
-
 - **Aggiornamento settimanale 514: Questa settimana di violazioni dei dati**  
   Fonte: Troy Hunt, 26 Jul 2026, 09:14:51 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-514/>)
 
-- **Gli attacchi ClickFix del forum Steam infettano i giocatori con i cryptominer XMRig**  
-  Fonte: BleepingComputer, 25 Jul 2026, 22:37:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/>)
-
 - **Il malvertising manda il malware in pezzi e poi fa costruire al browser l'eseguibile**  
   Fonte: The Hacker News, 25 Jul 2026, 18:48:44 UTC  
   [Leggi](<https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html>)
-
-- **I siti dannosi utilizzano JavaScript per creare malware nella memoria del browser**  
-  Fonte: BleepingComputer, 25 Jul 2026, 15:21:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/>)
-
-- **Le fughe di dati di ShinyHunters alimentano una truffa tramite email di sextortion da 2.000 dollari**  
-  Fonte: BleepingComputer, 25 Jul 2026, 14:16:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/>)
 
 - **Vulnerabilità RCE di Fastjson 1.x mirata negli attacchi senza patch disponibile**  
   Fonte: The Hacker News, 25 Jul 2026, 12:52:43 UTC  
@@ -126,21 +190,9 @@
   Fonte: The Hacker News, 25 Jul 2026, 09:53:41 UTC  
   [Leggi](<https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html>)
 
-- **OpenAI confirms ChatGPT is down worldwide**  
-  Fonte: BleepingComputer, 25 Jul 2026, 09:31:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/>)
-
 - **Blog sui calamari del venerdì: pesca dei calamari di Illex nelle Falkland**  
   Fonte: Schneier on Security, 24 Jul 2026, 21:06:00 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html>)
-
-- **OnTrac avvisa i clienti della violazione dei dati dopo l'hacking della rete**  
-  Fonte: BleepingComputer, 24 Jul 2026, 19:55:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/>)
-
-- **Agente AI di Hermes utilizzato per automatizzare l'attacco al Ministero delle Finanze tailandese**  
-  Fonte: BleepingComputer, 24 Jul 2026, 19:09:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/>)
 
 - **Il kit di phishing Zoom BlueNoroff profila i portafogli crittografici prima della consegna del malware**  
   Fonte: The Hacker News, 24 Jul 2026, 15:12:35 UTC  
@@ -154,7 +206,7 @@
   Fonte: The Hacker News, 24 Jul 2026, 11:53:55 UTC  
   [Leggi](<https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html>)
 
-- **Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers**  
+- **I difetti delle immagini di Bing consentono agli SVG creati di eseguire comandi come SISTEMA sui server Microsoft**  
   Fonte: The Hacker News, 24 Jul 2026, 11:45:17 UTC  
   [Leggi](<https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html>)
 
@@ -170,11 +222,11 @@
   Fonte: The Hacker News, 24 Jul 2026, 10:15:29 UTC  
   [Leggi](<https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html>)
 
-- **Golden Chickens Resurfaces With Four New Malware Families and Modular Implants**  
+- **Golden Chickens riemerge con quattro nuove famiglie di malware e impianti modulari**  
   Fonte: The Hacker News, 24 Jul 2026, 10:09:24 UTC  
   [Leggi](<https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html>)
 
-- **NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats**  
+- **NodeBB corregge otto difetti rilevati dall'intelligenza artificiale che esponevano l'accesso amministrativo e le chat private**  
   Fonte: The Hacker News, 24 Jul 2026, 07:41:06 UTC  
   [Leggi](<https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html>)
 
@@ -190,7 +242,7 @@
   Fonte: The Hacker News, 23 Jul 2026, 18:36:08 UTC  
   [Leggi](<https://thehackernews.com/2026/07/russian-espionage-group-exploited.html>)
 
-- **ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories**  
+- **ThreatsDay: spyware Android, attacchi PLC, iniezione di prompt di immagini AI e altre 12 storie**  
   Fonte: The Hacker News, 23 Jul 2026, 15:02:07 UTC  
   [Leggi](<https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html>)
 
@@ -246,65 +298,9 @@
   Fonte: The Hacker News, 22 Jul 2026, 18:07:16 UTC  
   [Leggi](<https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html>)
 
-- **Il difetto dell'estensione Adobe Acrobat consente ai siti dannosi di leggere i dati Web di WhatsApp**  
-  Fonte: The Hacker News, 22 Jul 2026, 15:01:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html>)
-
-- **Gli hacker sfruttano la falla di Windmill per leggere file server arbitrari senza autenticazione**  
-  Fonte: The Hacker News, 22 Jul 2026, 12:36:36 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html>)
-
-- **Il percorso più veloce verso l’adozione dell’intelligenza artificiale passa attraverso la sicurezza**  
-  Fonte: The Hacker News, 22 Jul 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html>)
-
-- **OpenAI afferma che i suoi modelli di intelligenza artificiale sono sfuggiti al sandbox, mirati al benchmark Hugging Face to Cheat**  
-  Fonte: The Hacker News, 22 Jul 2026, 11:30:02 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html>)
-
-- **Perché i SOC moderni necessitano di rilevamenti multilivello**  
-  Fonte: The Hacker News, 22 Jul 2026, 11:25:35 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html>)
-
 - **Storia di un furto d'identità in prima persona**  
   Fonte: Schneier on Security, 22 Jul 2026, 11:02:26 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/first-person-identity-theft-story.html>)
 
-- **La polizia smantella il kit di phishing Kratos creato per rubare sessioni di Microsoft 365 e bypassare l'MFA**  
-  Fonte: The Hacker News, 22 Jul 2026, 06:38:45 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html>)
 
-- **Il fork Newtonsoft.Json con trojan nasconde il codice di rigging del gioco in una libreria funzionante**  
-  Fonte: The Hacker News, 22 Jul 2026, 06:00:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html>)
-
-- **Il difetto MCP di Microsoft Azure DevOps consente ai commenti PR nascosti di prendere il controllo degli agenti di revisione AI**  
-  Fonte: The Hacker News, 22 Jul 2026, 04:57:52 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html>)
-
-- **LG bandirà i proxy residenziali dalle app Smart TV**  
-  Fonte: Krebs on Security, 22 Jul 2026, 01:10:38 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/>)
-
-- **Le correzioni Apple nascondono il mio bug di posta elettronica che esponeva indirizzi reali nei registri di posta**  
-  Fonte: The Hacker News, 21 Jul 2026, 18:46:32 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html>)
-
-- **AWS Kiro Flaw lascia che una pagina Web avvelenata riscriva la sua configurazione ed esegua il codice**  
-  Fonte: The Hacker News, 21 Jul 2026, 16:06:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html>)
-
-- **Google lancia Gemini 3.5 Flash Cyber ​​AI per individuare e correggere le vulnerabilità del software**  
-  Fonte: The Hacker News, 21 Jul 2026, 15:09:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html>)
-
-- **Il MIT diventerà il focolaio della videosorveglianza basata sull’intelligenza artificiale**  
-  Fonte: Schneier on Security, 21 Jul 2026, 11:07:13 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html>)
-
-- **L'Ucraina avverte che vengono utilizzati CAPTCHA falsi per costringerti ad hackerare te stesso**  
-  Fonte: Graham Cluley, 21 Jul 2026, 09:51:58 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ukraine-fake-captchas-hack-yourself>)
-
-
-<!-- Ultimo aggiornamento: 2026-07-28 08:16:03 UTC -->
+<!-- Ultimo aggiornamento: 2026-07-29 08:20:05 UTC -->
