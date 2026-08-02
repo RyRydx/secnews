@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Difetto del portafoglio hardware Coldcard collegato al furto di Bitcoin da 70 milioni di dollari in 41 minuti**  
+  Fonte: The Hacker News, 01 Aug 2026, 17:17:22 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html>)
+
+- **Rails corregge il difetto critico di Active Storage con potenziale RCE**  
+  Fonte: BleepingComputer, 01 Aug 2026, 14:20:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/>)
+
+- **Gli hacker avvelenano lo script Adform per scambiare gli indirizzi dei portafogli crittografici tra i siti dei clienti**  
+  Fonte: The Hacker News, 01 Aug 2026, 09:03:07 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html>)
+
 - **Il difetto CVSS 10.0 di Adobe Campaign Classic potrebbe eseguire codice senza interazione con l'utente**  
   Fonte: The Hacker News, 01 Aug 2026, 07:12:42 UTC  
   [Leggi](<https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html>)
@@ -58,7 +70,7 @@
   Fonte: BleepingComputer, 31 Jul 2026, 14:01:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/>)
 
-- **Tre versioni recenti di Chrome hanno corretto 1.442 difetti, più dei 23 aggiornamenti precedenti messi insieme**  
+- **Tre versioni recenti di Chrome hanno corretto 1.442 difetti, più dei 23 aggiornamenti precedenti combinati**  
   Fonte: The Hacker News, 31 Jul 2026, 12:51:52 UTC  
   [Leggi](<https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html>)
 
@@ -82,7 +94,7 @@
   Fonte: Schneier on Security, 31 Jul 2026, 11:08:44 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html>)
 
-- **Anthropic afferma che Claude ha scambiato l'Internet aperta per una CTF e ha violato tre organizzazioni**  
+- **Anthropic afferma che Claude ha scambiato Internet aperta per una CTF e ha violato tre organizzazioni**  
   Fonte: The Hacker News, 31 Jul 2026, 06:41:44 UTC  
   [Leggi](<https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html>)
 
@@ -98,7 +110,7 @@
   Fonte: BleepingComputer, 30 Jul 2026, 22:01:31 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/>)
 
-- **Il malvertising macOS collegato alla RPDC utilizza aggiornamenti falsi per diffondere malware in grado di rubare criptovalute**  
+- **Il malvertising macOS legato alla RPDC utilizza aggiornamenti falsi per diffondere malware in grado di rubare criptovalute**  
   Fonte: The Hacker News, 30 Jul 2026, 18:18:24 UTC  
   [Leggi](<https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html>)
 
@@ -125,10 +137,6 @@
 - **Americano processato per aver pulito il suo telefono prima di consegnarlo ai funzionari di frontiera**  
   Fonte: Schneier on Security, 30 Jul 2026, 16:20:30 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html>)
-
-- **Gli attacchi vishing di Microsoft Teams portano ad attacchi ransomware Chaos**  
-  Fonte: BleepingComputer, 30 Jul 2026, 15:56:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/>)
 
 - **ThreatsDay: hacking basato sull'intelligenza artificiale, 370 difetti di Chrome, attacchi SonicWall, dirottamento DNS e altre 22 storie**  
   Fonte: The Hacker News, 30 Jul 2026, 15:25:57 UTC  
@@ -294,7 +302,7 @@
   Fonte: The Hacker News, 28 Jul 2026, 04:43:53 UTC  
   [Leggi](<https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html>)
 
-- **NVIDIA forma un'Alleanza Open Secure AI composta da 37 membri e un framework NOOA open source**  
+- **NVIDIA costituisce un'alleanza Open Secure AI di 37 membri e un framework NOOA open source**  
   Fonte: The Hacker News, 27 Jul 2026, 18:10:05 UTC  
   [Leggi](<https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html>)
 
@@ -306,14 +314,6 @@
   Fonte: The Hacker News, 27 Jul 2026, 14:40:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/public-exploit-released-for-patched.html>)
 
-- **⚡ Riepilogo settimanale: agenti IA canaglia, exploit dei Check Point, slopsquatting, esche ClickFix e altro ancora**  
-  Fonte: The Hacker News, 27 Jul 2026, 14:10:54 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html>)
-
-- **n8n Sandbox Escape consente agli editor del flusso di lavoro di eseguire i comandi del sistema operativo come processo n8n**  
-  Fonte: The Hacker News, 27 Jul 2026, 13:05:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html>)
-
 - **Cognyte vende un furgone di sorveglianza cellulare mobile**  
   Fonte: Schneier on Security, 27 Jul 2026, 11:04:30 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html>)
@@ -323,4 +323,4 @@
   [Leggi](<https://www.troyhunt.com/weekly-update-514/>)
 
 
-<!-- Ultimo aggiornamento: 2026-08-01 08:03:47 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-02 08:06:47 UTC -->
