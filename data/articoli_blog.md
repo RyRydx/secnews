@@ -2,6 +2,38 @@
 
 ## Ultimi 7 giorni
 
+- **Thermo Fisher corregge un difetto che potrebbe rendere quasi impercettibile la manomissione dei file DNA**  
+  Fonte: The Hacker News, 03 Aug 2026, 08:05:30 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html>)
+
+- **N-able afferma che gli aggressori prendono il controllo dei server N-centrali dopo che la correzione iniziale si è rivelata incompleta**  
+  Fonte: The Hacker News, 03 Aug 2026, 06:41:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html>)
+
+- **I difetti dei diffusori facciali abbracciati potrebbero consentire ai repository di modelli di eseguire codice arbitrario**  
+  Fonte: The Hacker News, 03 Aug 2026, 06:40:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html>)
+
+- **Accogliendo favorevolmente il governo nepalese a Have I Been Pwned**  
+  Fonte: Troy Hunt, 03 Aug 2026, 06:38:05 UTC  
+  [Leggi](<https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/>)
+
+- **Aggiornamento settimanale 515**  
+  Fonte: Troy Hunt, 03 Aug 2026, 00:07:14 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-515/>)
+
+- **OpenAI anticipa Astra, il suo prossimo importante modello di intelligenza artificiale, dopo aver risolto 10 problemi di matematica di vecchia data**  
+  Fonte: BleepingComputer, 02 Aug 2026, 22:31:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/>)
+
+- **Difetto RNG del portafoglio COLDCARD probabilmente legato al furto di Bitcoin da 88 milioni di dollari**  
+  Fonte: BleepingComputer, 02 Aug 2026, 21:14:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/>)
+
+- **Google Chrome potrebbe presto bloccare le estensioni del dirottatore Nuova scheda per impostazione predefinita**  
+  Fonte: BleepingComputer, 02 Aug 2026, 14:17:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/>)
+
 - **Difetto del portafoglio hardware Coldcard collegato al furto di Bitcoin da 70 milioni di dollari in 41 minuti**  
   Fonte: The Hacker News, 01 Aug 2026, 17:17:22 UTC  
   [Leggi](<https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html>)
@@ -118,21 +150,9 @@
   Fonte: BleepingComputer, 30 Jul 2026, 18:13:24 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/>)
 
-- **VMware risolve tre difetti critici consentendo il bypass dell'autenticazione e la fuga della VM**  
-  Fonte: BleepingComputer, 30 Jul 2026, 18:00:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/>)
-
-- **Google afferma che l'intelligenza artificiale ha aiutato Chrome a correggere 1.072 bug di sicurezza in due versioni**  
-  Fonte: BleepingComputer, 30 Jul 2026, 17:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/>)
-
 - **Leggi questo prima di acquistare quella chiavetta per lo streaming TV**  
   Fonte: Krebs on Security, 30 Jul 2026, 16:49:00 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/>)
-
-- **ShinyHunters denuncia la violazione di Brinks Home e minaccia di far trapelare dati rubati**  
-  Fonte: BleepingComputer, 30 Jul 2026, 16:46:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/>)
 
 - **Americano processato per aver pulito il suo telefono prima di consegnarlo ai funzionari di frontiera**  
   Fonte: Schneier on Security, 30 Jul 2026, 16:20:30 UTC  
@@ -302,25 +322,9 @@
   Fonte: The Hacker News, 28 Jul 2026, 04:43:53 UTC  
   [Leggi](<https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html>)
 
-- **NVIDIA costituisce un'alleanza Open Secure AI di 37 membri e un framework NOOA open source**  
-  Fonte: The Hacker News, 27 Jul 2026, 18:10:05 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html>)
-
-- **La botnet IoT Disforia aggiunge Blockchain C2 e Victim Relay dopo l'interruzione di JackSkid**  
-  Fonte: The Hacker News, 27 Jul 2026, 17:16:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html>)
-
-- **Exploit pubblico rilasciato per il difetto di esecuzione del codice pre-autenticazione vBulletin corretto**  
-  Fonte: The Hacker News, 27 Jul 2026, 14:40:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/public-exploit-released-for-patched.html>)
-
 - **Cognyte vende un furgone di sorveglianza cellulare mobile**  
   Fonte: Schneier on Security, 27 Jul 2026, 11:04:30 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html>)
 
-- **Aggiornamento settimanale 514: Questa settimana di violazioni dei dati**  
-  Fonte: Troy Hunt, 26 Jul 2026, 09:14:51 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-514/>)
 
-
-<!-- Ultimo aggiornamento: 2026-08-02 08:06:47 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-03 09:22:14 UTC -->
