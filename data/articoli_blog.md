@@ -2,6 +2,98 @@
 
 ## Ultimi 7 giorni
 
+- **Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People**  
+  Fonte: The Hacker News, 06 Aug 2026, 06:04:30 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html>)
+
+- **Podcast di Smashing Security n. 479: Come un falso agente di polizia ha quasi rubato la criptovaluta di Graham**  
+  Fonte: Graham Cluley, 05 Aug 2026, 23:10:20 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-479-how-a-fake-police-officer-nearly-stole-grahams-cryptocurrency/>)
+
+- **Il creatore del ransomware Ransom Cartel condannato a 16 anni di prigione**  
+  Fonte: BleepingComputer, 05 Aug 2026, 23:00:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/>)
+
+- **Il canadese si dichiara colpevole degli attacchi di furto di dati sul cloud Snowflake**  
+  Fonte: BleepingComputer, 05 Aug 2026, 21:53:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/>)
+
+- **Gli hacker eseguono il toolkit post-sfruttamento khunt dal database Oracle**  
+  Fonte: BleepingComputer, 05 Aug 2026, 19:55:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/>)
+
+- **Oltre 250 domini ClickFix utilizzano l'impronta digitale del browser per nascondere le esche malware di macOS**  
+  Fonte: The Hacker News, 05 Aug 2026, 18:44:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html>)
+
+- **OpenAI interrompe la rete di truffe Poipet utilizzando ChatGPT in più schemi di frode**  
+  Fonte: The Hacker News, 05 Aug 2026, 18:33:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html>)
+
+- **L'attacco di phishing del controllo di sicurezza COLDCARD installa lo strumento di accesso remoto**  
+  Fonte: BleepingComputer, 05 Aug 2026, 17:49:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/>)
+
+- **CISA mette in guardia dagli hacker che sfruttano le falle di Langflow, N-central e Apache Tomcat**  
+  Fonte: BleepingComputer, 05 Aug 2026, 15:51:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/>)
+
+- **Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt**  
+  Fonte: The Hacker News, 05 Aug 2026, 15:36:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html>)
+
+- **I difetti dell'intelligenza artificiale di Paperclip consentono agli aggressori di eseguire comandi host tramite importazioni di agenti dannosi**  
+  Fonte: The Hacker News, 05 Aug 2026, 15:14:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html>)
+
+- **Google Blogger blocca centinaia di blog in falsi positivi malware**  
+  Fonte: BleepingComputer, 05 Aug 2026, 14:59:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/>)
+
+- **Veeam, Terraform MCP, difetti critici della patch Django, causati dal bug cross-tenant di CVSS 10.0**  
+  Fonte: The Hacker News, 05 Aug 2026, 14:27:30 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html>)
+
+- **Come il phishing basato sull'intelligenza artificiale ha eliminato definitivamente le blocklist**  
+  Fonte: BleepingComputer, 05 Aug 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/>)
+
+- **I pacchetti npm con trojan utilizzano la tattica NullReceiver per decodificare l'IP C2 dalla Blockchain**  
+  Fonte: The Hacker News, 05 Aug 2026, 13:41:27 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html>)
+
+- **Il nuovo difetto del kernel Linux OVSwrap consente agli utenti locali di ottenere il root tramite Open vSwitch**  
+  Fonte: The Hacker News, 05 Aug 2026, 11:43:27 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html>)
+
+- **Kali365 utilizza l'autenticazione Microsoft come arma contro le aziende statunitensi: nuovo rischio aziendale**  
+  Fonte: The Hacker News, 05 Aug 2026, 11:43:19 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html>)
+
+- **Difetto critico di Gitea che consente agli aggressori non autenticati di leggere i file del server tramite markup in modalità organizzazione**  
+  Fonte: The Hacker News, 05 Aug 2026, 11:04:23 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html>)
+
+- **I token API n8n trapelati hanno esposto le istanze live al furto di credenziali**  
+  Fonte: The Hacker News, 05 Aug 2026, 10:35:29 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html>)
+
+- **Vulnerabilità nel dispositivo antifurto per auto**  
+  Fonte: Schneier on Security, 05 Aug 2026, 09:42:43 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html>)
+
+- **Open VSX rimuove 77 estensioni gemelle malvagie dannose esfiltrando i dati degli sviluppatori**  
+  Fonte: The Hacker News, 05 Aug 2026, 09:23:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html>)
+
+- **Claude Mythos 5 ha provato a eseguire il backdoor di un vero progetto open source in fase di test, quindi ha garantito se stesso**  
+  Fonte: The Hacker News, 05 Aug 2026, 07:53:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html>)
+
+- **CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited**  
+  Fonte: The Hacker News, 05 Aug 2026, 07:40:39 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html>)
+
 - **L'attacco alla catena di fornitura QuickFox fornisce una backdoor FDMTP tramite Windows Installer con trojan**  
   Fonte: The Hacker News, 05 Aug 2026, 05:47:19 UTC  
   [Leggi](<https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html>)
@@ -26,7 +118,7 @@
   Fonte: Schneier on Security, 04 Aug 2026, 19:00:53 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html>)
 
-- **77 Open VSX extensions found harvesting developer info**  
+- **77 estensioni Open VSX trovate durante la raccolta di informazioni sugli sviluppatori**  
   Fonte: BleepingComputer, 04 Aug 2026, 18:50:55 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/>)
 
@@ -62,7 +154,7 @@
   Fonte: The Hacker News, 04 Aug 2026, 10:36:27 UTC  
   [Leggi](<https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html>)
 
-- **Some Claude Chats Are Searchable on Google**  
+- **Alcune chat di Claude sono ricercabili su Google**  
   Fonte: Schneier on Security, 04 Aug 2026, 10:13:58 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html>)
 
@@ -78,21 +170,9 @@
   Fonte: The Hacker News, 04 Aug 2026, 07:00:13 UTC  
   [Leggi](<https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html>)
 
-- **Gli attacchi Wi-Fi degli hotel utilizzano malware personalizzato per violare gli account Microsoft 365**  
+- **Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts**  
   Fonte: BleepingComputer, 04 Aug 2026, 00:17:15 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/>)
-
-- **I nuovi attacchi Pass-ta-key consentono al malware di prendere il controllo delle passkey sincronizzate da Google**  
-  Fonte: BleepingComputer, 03 Aug 2026, 23:58:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/>)
-
-- **Il nuovo servizio DOUBLECUP ClickFix nasconde il malware nelle immagini della cache del browser**  
-  Fonte: BleepingComputer, 03 Aug 2026, 20:01:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/>)
-
-- **Il falso launcher di script Roblox Xeno spinge infostealer, malware RAT**  
-  Fonte: BleepingComputer, 03 Aug 2026, 19:25:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/>)
 
 - **18 pacchetti npm dannosi forniscono RAT multipiattaforma agli utenti degli strumenti Alibaba**  
   Fonte: The Hacker News, 03 Aug 2026, 18:43:53 UTC  
@@ -102,10 +182,6 @@
   Fonte: Schneier on Security, 03 Aug 2026, 17:02:46 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html>)
 
-- **N-able warns of N-central auth bypass flaw exploited in attacks**  
-  Fonte: BleepingComputer, 03 Aug 2026, 17:00:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/>)
-
 - **Gli attacchi di Google Password Manager potrebbero consentire al malware di prendere il controllo degli account protetti da passkey**  
   Fonte: The Hacker News, 03 Aug 2026, 16:24:47 UTC  
   [Leggi](<https://thehackernews.com/2026/08/google-password-manager-attacks-could.html>)
@@ -113,14 +189,6 @@
 - **Il ransomware INC emerge come attore dominante sfruttando i difetti di SonicWall SMA 1000**  
   Fonte: The Hacker News, 03 Aug 2026, 16:15:13 UTC  
   [Leggi](<https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html>)
-
-- **Gli hacker di ExfilSquad trapelano informazioni su oltre 100.000 agenti e personale di polizia del Regno Unito**  
-  Fonte: BleepingComputer, 03 Aug 2026, 15:04:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/>)
-
-- **All'interno del business clandestino del malware Android BTMOB RAT**  
-  Fonte: BleepingComputer, 03 Aug 2026, 14:45:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/>)
 
 - **⚡ Riepilogo settimanale: modelli di intelligenza artificiale canaglia, furto di Bitcoin da 88 milioni di dollari, attacchi al sistema idrico e dirottamenti DNS pendenti**  
   Fonte: The Hacker News, 03 Aug 2026, 14:03:11 UTC  
@@ -134,11 +202,11 @@
   Fonte: The Hacker News, 03 Aug 2026, 10:49:06 UTC  
   [Leggi](<https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html>)
 
-- **The OpenAI Hack Shows the Genie Is Out of the Bottle**  
+- **L'hack di OpenAI mostra che il genio è fuori dalla bottiglia**  
   Fonte: Schneier on Security, 03 Aug 2026, 10:47:47 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html>)
 
-- **PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web**  
+- **Una violazione della PNLD espone i dettagli di contatto della polizia e del governo del Regno Unito sul dark web**  
   Fonte: The Hacker News, 03 Aug 2026, 09:13:56 UTC  
   [Leggi](<https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html>)
 
@@ -154,7 +222,7 @@
   Fonte: The Hacker News, 03 Aug 2026, 06:40:31 UTC  
   [Leggi](<https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html>)
 
-- **Welcoming the Nepalese Government to Have I Been Pwned**  
+- **Accogliendo favorevolmente il governo nepalese a Have I Been Pwned**  
   Fonte: Troy Hunt, 03 Aug 2026, 06:38:05 UTC  
   [Leggi](<https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/>)
 
@@ -162,11 +230,7 @@
   Fonte: Troy Hunt, 03 Aug 2026, 00:07:14 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-515/>)
 
-- **OpenAI anticipa Astra, il suo prossimo importante modello di intelligenza artificiale, dopo aver risolto 10 problemi di matematica di vecchia data**  
-  Fonte: BleepingComputer, 02 Aug 2026, 22:31:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/>)
-
-- **Difetto del portafoglio hardware Coldcard collegato al furto di Bitcoin da 70 milioni di dollari in 41 minuti**  
+- **Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes**  
   Fonte: The Hacker News, 01 Aug 2026, 17:17:22 UTC  
   [Leggi](<https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html>)
 
@@ -190,7 +254,7 @@
   Fonte: The Hacker News, 31 Jul 2026, 18:52:04 UTC  
   [Leggi](<https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html>)
 
-- **Anthropic’s Opus 5 Is Better at Resisting Prompt Injection**  
+- **L'Opus 5 di Anthropic è migliore nel resistere all'iniezione rapida**  
   Fonte: Schneier on Security, 31 Jul 2026, 17:23:16 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html>)
 
@@ -206,7 +270,7 @@
   Fonte: The Hacker News, 31 Jul 2026, 12:51:52 UTC  
   [Leggi](<https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html>)
 
-- **I ricercatori segnalano 84 difetti nei core 4G e 5G, incluso un difetto di dirottamento della sessione**  
+- **Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw**  
   Fonte: The Hacker News, 31 Jul 2026, 11:55:00 UTC  
   [Leggi](<https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html>)
 
@@ -230,7 +294,7 @@
   Fonte: The Hacker News, 31 Jul 2026, 06:41:44 UTC  
   [Leggi](<https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html>)
 
-- **DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware**  
+- **Il malvertising macOS collegato alla RPDC utilizza aggiornamenti falsi per diffondere malware in grado di rubare criptovalute**  
   Fonte: The Hacker News, 30 Jul 2026, 18:18:24 UTC  
   [Leggi](<https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html>)
 
@@ -250,7 +314,7 @@
   Fonte: The Hacker News, 30 Jul 2026, 13:34:09 UTC  
   [Leggi](<https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html>)
 
-- **Microsoft Copilot per Word può copiare istruzioni nascoste in nuovi documenti**  
+- **Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents**  
   Fonte: The Hacker News, 30 Jul 2026, 11:54:49 UTC  
   [Leggi](<https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html>)
 
@@ -258,77 +322,13 @@
   Fonte: The Hacker News, 30 Jul 2026, 11:32:46 UTC  
   [Leggi](<https://thehackernews.com/2026/07/the-network-has-become-control-plane.html>)
 
-- **Dovresti usare l'intelligenza artificiale per un'attività?Ecco un modo semplice per decidere**  
+- **Should You Use AI for a Task? Here’s a Simple Way to Decide**  
   Fonte: Schneier on Security, 30 Jul 2026, 11:01:32 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html>)
-
-- **Gli hacker sfruttano AnySign4PC tramite siti coreani compromessi per installare backdoor senza istruzioni**  
-  Fonte: The Hacker News, 30 Jul 2026, 10:33:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html>)
-
-- **SilverFox prende di mira il produttore giapponese con la catena BYOVD a 3 driver e ValleyRAT**  
-  Fonte: The Hacker News, 30 Jul 2026, 10:32:59 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html>)
 
 - **Gli hacker d’élite della Corea del Nord si sono rivoltati contro il proprio governo e sono stati scoperti**  
   Fonte: Graham Cluley, 30 Jul 2026, 09:17:08 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/north-korea-hackers-own-government>)
 
-- **Gli hacker russi sfruttano la falla di Microsoft OWA per mantenere l'accesso alle cassette postali dopo la rotazione delle credenziali**  
-  Fonte: The Hacker News, 30 Jul 2026, 07:40:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html>)
 
-- **La FCC blocca nuovi robot e inverter di produzione estera a causa dei rischi informatici**  
-  Fonte: The Hacker News, 30 Jul 2026, 07:28:43 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html>)
-
-- **Amazon collega Debug e Chalk npm Hijack a Sapphire Sleet della Corea del Nord**  
-  Fonte: The Hacker News, 30 Jul 2026, 06:05:17 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html>)
-
-- **Le credenziali statiche e sfruttate attivamente di Cisco FMC Zero-Day potrebbero esporre dati sensibili**  
-  Fonte: The Hacker News, 30 Jul 2026, 05:08:39 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html>)
-
-- **Smashing Security podcast n. 478: questo colloquio di lavoro potrebbe distruggere la tua azienda**  
-  Fonte: Graham Cluley, 29 Jul 2026, 23:09:41 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-478/>)
-
-- **Un difetto critico dei Rails potrebbe consentire agli aggressori non autenticati di leggere i file del server tramite caricamenti di immagini**  
-  Fonte: The Hacker News, 29 Jul 2026, 18:10:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html>)
-
-- **Misurare la tendenza degli agenti IA a diventare disonesti**  
-  Fonte: Schneier on Security, 29 Jul 2026, 17:07:53 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html>)
-
-- **Ruflo MCP Flaw consente agli aggressori non autenticati di eseguire comandi e avvelenare la memoria dell'IA**  
-  Fonte: The Hacker News, 29 Jul 2026, 15:39:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html>)
-
-- **Tre difetti critici di VMware consentono il bypass dell'autenticazione, l'esecuzione del codice e l'escape della VM**  
-  Fonte: The Hacker News, 29 Jul 2026, 15:31:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html>)
-
-- **Un attacco informatico coordinato prende di mira oltre 30 sistemi idrici del Minnesota mentre un impianto va offline**  
-  Fonte: The Hacker News, 29 Jul 2026, 13:48:36 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html>)
-
-- **Una campagna antifrode durata nove anni clona i siti di aziende russe per rubare i pagamenti anticipati**  
-  Fonte: The Hacker News, 29 Jul 2026, 13:42:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/nine-year-fraud-campaign.html>)
-
-- **Mythos Asks the Right Question. It Doesn't Answer It.**  
-  Fonte: The Hacker News, 29 Jul 2026, 12:15:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html>)
-
-- **I ricercatori mostrano che la visita di una singola pagina web dannosa può compromettere Tor Browser**  
-  Fonte: The Hacker News, 29 Jul 2026, 11:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/researchers-show-single-malicious.html>)
-
-- **73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack**  
-  Fonte: The Hacker News, 29 Jul 2026, 11:13:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-08-05 08:18:10 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-06 08:15:50 UTC -->
