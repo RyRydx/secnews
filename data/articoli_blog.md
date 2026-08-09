@@ -2,6 +2,30 @@
 
 ## Ultimi 7 giorni
 
+- **Gli hacker violano TrueConf per trojanizzare gli installatori dei client con backdoor**  
+  Fonte: BleepingComputer, 08 Aug 2026, 14:16:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/>)
+
+- **Atlassian Rovo può essere indotto con l'inganno a inviare dati Jira e Confluence agli aggressori**  
+  Fonte: The Hacker News, 08 Aug 2026, 08:54:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html>)
+
+- **Nuovi attacchi CSS possono infrangere le difese della webmail per rubare password e token**  
+  Fonte: The Hacker News, 08 Aug 2026, 08:03:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html>)
+
+- **La metabase Zero-Day sfruttata in modo selvaggio consente l'accesso amministrativo senza autenticazione**  
+  Fonte: The Hacker News, 08 Aug 2026, 06:58:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html>)
+
+- **N-able presenta problemi con l'hotfix 2 N-central poiché gli aggressori raggiungono i sistemi gestiti e persistono**  
+  Fonte: The Hacker News, 08 Aug 2026, 06:57:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html>)
+
+- **Il difetto Progress Kemp LoadMaster colpisce CISA KEV dopo 792 tentativi di exploit segnalati**  
+  Fonte: The Hacker News, 08 Aug 2026, 06:52:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html>)
+
 - **Blog sui calamari del venerdì: video sui calamari artici Bobtail**  
   Fonte: Schneier on Security, 07 Aug 2026, 21:07:04 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html>)
@@ -50,7 +74,7 @@
   Fonte: The Hacker News, 07 Aug 2026, 11:55:26 UTC  
   [Leggi](<https://thehackernews.com/2026/08/growing-up-hard-way.html>)
 
-- **Un difetto SCTP di Linux vecchio di 18 anni potrebbe consentire agli utenti locali di ottenere il root e l'escape dei contenitori**  
+- **Un difetto SCTP di Linux vecchio di 18 anni potrebbe consentire agli utenti locali di ottenere contenitori di root ed escape**  
   Fonte: The Hacker News, 07 Aug 2026, 11:10:33 UTC  
   [Leggi](<https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html>)
 
@@ -142,7 +166,7 @@
   Fonte: The Hacker News, 06 Aug 2026, 11:33:08 UTC  
   [Leggi](<https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html>)
 
-- **Avvelenamento da raccomandazioni AI: come i pulsanti "Chiedi ad AI" alterano silenziosamente la memoria LLM**  
+- **Avvelenamento da raccomandazioni AI: come i pulsanti "Chiedi AI" alterano silenziosamente la memoria LLM**  
   Fonte: The Hacker News, 06 Aug 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html>)
 
@@ -150,7 +174,7 @@
   Fonte: Schneier on Security, 06 Aug 2026, 11:04:51 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html>)
 
-- **Il programma bug bounty di Apple sta affogando in così tanti problemi di intelligenza artificiale che rischia di perdere gravi exploit**  
+- **Il programma bug bounty di Apple sta affogando in così tante sviste di intelligenza artificiale che rischia di perdere gravi exploit**  
   Fonte: Graham Cluley, 06 Aug 2026, 10:26:02 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/apple-bug-bounty-ai-missing-exploits>)
 
@@ -189,10 +213,6 @@
 - **Il canadese si dichiara colpevole degli attacchi di furto di dati sul cloud Snowflake**  
   Fonte: BleepingComputer, 05 Aug 2026, 21:53:26 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/>)
-
-- **Gli hacker eseguono il toolkit post-sfruttamento khunt dal database Oracle**  
-  Fonte: BleepingComputer, 05 Aug 2026, 19:55:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/>)
 
 - **Oltre 250 domini ClickFix utilizzano l'impronta digitale del browser per nascondere le esche malware di macOS**  
   Fonte: The Hacker News, 05 Aug 2026, 18:44:31 UTC  
@@ -258,7 +278,7 @@
   Fonte: Schneier on Security, 04 Aug 2026, 19:00:53 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html>)
 
-- **Greatness PhaaS aggiunge il phishing del codice del dispositivo per bypassare l'MFA e rubare i token**  
+- **Greatness PhaaS aggiunge il phishing tramite codice dispositivo per bypassare l'MFA e rubare i token**  
   Fonte: The Hacker News, 04 Aug 2026, 17:27:39 UTC  
   [Leggi](<https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html>)
 
@@ -278,37 +298,17 @@
   Fonte: The Hacker News, 04 Aug 2026, 11:16:23 UTC  
   [Leggi](<https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html>)
 
-- **Il nuovo difetto critico di cPanel potrebbe consentire ai clienti di hosting di eseguire SQL come root del database**  
-  Fonte: The Hacker News, 04 Aug 2026, 10:36:27 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html>)
-
 - **Alcune chat di Claude sono ricercabili su Google**  
   Fonte: Schneier on Security, 04 Aug 2026, 10:13:58 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html>)
-
-- **DOUBLECUP utilizza ClickFix e PNG memorizzati nella cache per fornire CountLoader e DeviceManager RAT**  
-  Fonte: The Hacker News, 04 Aug 2026, 09:03:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html>)
 
 - **Le lettere false dell'IRS prendono di mira i possessori di criptovaluta**  
   Fonte: Graham Cluley, 04 Aug 2026, 09:02:46 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-irs-letters-cryptocurrency>)
 
-- **CISA aggiunge il difetto N-centrale sfruttato al KEV dopo i compromessi dei clienti**  
-  Fonte: The Hacker News, 04 Aug 2026, 07:00:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html>)
-
-- **18 pacchetti npm dannosi forniscono RAT multipiattaforma agli utenti degli strumenti Alibaba**  
-  Fonte: The Hacker News, 03 Aug 2026, 18:43:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html>)
-
 - **Maggiori informazioni sull'attacco dell'agente OpenAI all'Hugging Face**  
   Fonte: Schneier on Security, 03 Aug 2026, 17:02:46 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html>)
-
-- **Gli attacchi di Google Password Manager potrebbero consentire al malware di prendere il controllo degli account protetti da passkey**  
-  Fonte: The Hacker News, 03 Aug 2026, 16:24:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/google-password-manager-attacks-could.html>)
 
 - **L'hack di OpenAI mostra che il genio è fuori dalla bottiglia**  
   Fonte: Schneier on Security, 03 Aug 2026, 10:47:47 UTC  
@@ -323,4 +323,4 @@
   [Leggi](<https://www.troyhunt.com/weekly-update-515/>)
 
 
-<!-- Ultimo aggiornamento: 2026-08-08 06:35:22 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-09 06:38:17 UTC -->
