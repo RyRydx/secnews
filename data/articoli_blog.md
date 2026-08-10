@@ -2,6 +2,10 @@
 
 ## Ultimi 7 giorni
 
+- **Il prossimo modello di intelligenza artificiale di OpenAI, Astra, mostra prestazioni informatiche sufficientemente forti da attivare la pausa**  
+  Fonte: The Hacker News, 10 Aug 2026, 05:50:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html>)
+
 - **Gli hacker violano TrueConf per trojanizzare gli installatori dei client con backdoor**  
   Fonte: BleepingComputer, 08 Aug 2026, 14:16:23 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/>)
@@ -74,7 +78,7 @@
   Fonte: The Hacker News, 07 Aug 2026, 11:55:26 UTC  
   [Leggi](<https://thehackernews.com/2026/08/growing-up-hard-way.html>)
 
-- **Un difetto SCTP di Linux vecchio di 18 anni potrebbe consentire agli utenti locali di ottenere contenitori di root ed escape**  
+- **Un difetto SCTP di Linux vecchio di 18 anni potrebbe consentire agli utenti locali di ottenere il root e l'escape dei contenitori**  
   Fonte: The Hacker News, 07 Aug 2026, 11:10:33 UTC  
   [Leggi](<https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html>)
 
@@ -126,7 +130,7 @@
   Fonte: BleepingComputer, 06 Aug 2026, 18:03:45 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/>)
 
-- **Il nuovo difetto KVM di Zapscape potrebbe consentire la fuga del codice guest L1 privilegiato verso gli host Linux**  
+- **Il nuovo difetto KVM di Zapscape potrebbe consentire la fuga del codice guest privilegiato L1 verso gli host Linux**  
   Fonte: The Hacker News, 06 Aug 2026, 17:58:30 UTC  
   [Leggi](<https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html>)
 
@@ -190,7 +194,7 @@
   Fonte: The Hacker News, 06 Aug 2026, 08:05:22 UTC  
   [Leggi](<https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html>)
 
-- **L'ideatore del cartello di Ransom viene condannato a 16 anni di carcere per aver utilizzato il ransomware-as-a-service**  
+- **Il creatore del cartello di Ransom viene condannato a 16 anni di carcere per aver utilizzato il ransomware-as-a-service**  
   Fonte: The Hacker News, 06 Aug 2026, 07:19:54 UTC  
   [Leggi](<https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html>)
 
@@ -294,10 +298,6 @@
   Fonte: The Hacker News, 04 Aug 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html>)
 
-- **Google elimina 3 flussi di lavoro AI ADK dopo che un problema dannoso su GitHub potrebbe attivare l'agente privilegiato**  
-  Fonte: The Hacker News, 04 Aug 2026, 11:16:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html>)
-
 - **Alcune chat di Claude sono ricercabili su Google**  
   Fonte: Schneier on Security, 04 Aug 2026, 10:13:58 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html>)
@@ -314,13 +314,5 @@
   Fonte: Schneier on Security, 03 Aug 2026, 10:47:47 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html>)
 
-- **Accogliendo favorevolmente il governo nepalese a Have I Been Pwned**  
-  Fonte: Troy Hunt, 03 Aug 2026, 06:38:05 UTC  
-  [Leggi](<https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/>)
 
-- **Aggiornamento settimanale 515**  
-  Fonte: Troy Hunt, 03 Aug 2026, 00:07:14 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-515/>)
-
-
-<!-- Ultimo aggiornamento: 2026-08-09 06:38:17 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-10 07:10:59 UTC -->
