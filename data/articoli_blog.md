@@ -2,25 +2,137 @@
 
 ## Ultimi 7 giorni
 
-- **L'attacco alla supply chain di BdThemes avvelena JSON per creare amministratori WordPress non autorizzati**  
+- **Google afferma che Chrome taglia 7 miliardi di notifiche Android indesiderate al giorno per combattere gli abusi**  
+  Fonte: BleepingComputer, 12 Aug 2026, 01:15:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/>)
+
+- **Il ransomware DeadLock utilizza la blockchain per resistere alla rimozione dell'infrastruttura**  
+  Fonte: BleepingComputer, 11 Aug 2026, 22:15:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/>)
+
+- **Microsoft risolve quasi 400 buchi di sicurezza**  
+  Fonte: Krebs on Security, 11 Aug 2026, 21:28:35 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/>)
+
+- **Gli hacker Sandworm prendono di mira i professionisti IT con il client VPN WireGuard contenente trojan**  
+  Fonte: BleepingComputer, 11 Aug 2026, 21:07:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/>)
+
+- **Microsoft corregge 398 difetti, incluso un driver Windows Zero-Day sotto attacco attivo**  
+  Fonte: The Hacker News, 11 Aug 2026, 20:10:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html>)
+
+- **Cisco avverte di vulnerabilità ASA e FTD VPN sfruttate per mandare in crash i dispositivi**  
+  Fonte: BleepingComputer, 11 Aug 2026, 19:45:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/>)
+
+- **La botnet Android Kimwolf v7 fa sembrare il traffico DDoS HTTP/2 una navigazione legittima**  
+  Fonte: The Hacker News, 11 Aug 2026, 19:36:37 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html>)
+
+- **I difetti nell'annotazione dello zoom potrebbero consentire a un partecipante alla riunione di dirottare il client di un altro partecipante**  
+  Fonte: The Hacker News, 11 Aug 2026, 19:08:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html>)
+
+- **UAC-0145 collegato a Sandworm utilizza colloqui di lavoro falsi per inviare VPN in grado di eseguire comandi**  
+  Fonte: The Hacker News, 11 Aug 2026, 18:36:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html>)
+
+- **Delta indaga sull'attacco mortale Wi-Fi al volo che trasportava i partecipanti al DEF CON**  
+  Fonte: BleepingComputer, 11 Aug 2026, 18:34:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/>)
+
+- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5120249 di Windows 10**  
+  Fonte: BleepingComputer, 11 Aug 2026, 18:26:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/>)
+
+- **Il Patch Tuesday di agosto 2026 di Microsoft corregge 400 difetti, 3 zero-day**  
+  Fonte: BleepingComputer, 11 Aug 2026, 18:08:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/>)
+
+- **Aggiornamenti cumulativi di Windows 11 KB5121003 e KB5120240 rilasciati**  
+  Fonte: BleepingComputer, 11 Aug 2026, 17:38:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/>)
+
+- **I ricercatori rivelano che la catena di exploit di SharePoint assistita dall'intelligenza artificiale ha raggiunto RCE non autenticati**  
+  Fonte: The Hacker News, 11 Aug 2026, 16:47:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html>)
+
+- **Il ransomware DeadLock utilizza i contratti intelligenti Polygon per rendere l'infrastruttura di estorsione più difficile da interrompere**  
+  Fonte: The Hacker News, 11 Aug 2026, 16:35:27 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html>)
+
+- **Wesco conferma l'incidente di sicurezza dopo che ExfilSquad ha denunciato il furto di dati**  
+  Fonte: BleepingComputer, 11 Aug 2026, 15:59:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/>)
+
+- **Genio dell'IA allo stato brado**  
+  Fonte: Schneier on Security, 11 Aug 2026, 15:55:11 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html>)
+
+- **Mozilla aggiorna la chiave di firma GPG per le versioni di Firefox dopo l'esposizione**  
+  Fonte: BleepingComputer, 11 Aug 2026, 13:20:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/>)
+
+- **Compito vago, accesso totale: quando la delega dell’intelligenza artificiale diventa un rischio per la sicurezza**  
+  Fonte: BleepingComputer, 11 Aug 2026, 13:15:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/>)
+
+- **OpenAI lancia GPT-5.6-Cyber ​​con protezioni ridotte per lo sviluppo di exploit**  
+  Fonte: The Hacker News, 11 Aug 2026, 13:11:23 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html>)
+
+- **Gli attacchi DDoS superiori a 1 Tbps sono quintuplicati nel secondo trimestre**  
+  Fonte: BleepingComputer, 11 Aug 2026, 13:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/>)
+
+- **CISA: la falla di Microsoft SharePoint ora sfruttata negli attacchi ransomware**  
+  Fonte: BleepingComputer, 11 Aug 2026, 12:12:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/>)
+
+- **Una scheda SIM dannosa può eseguire codice di un utente malintenzionato all'interno dei modem dietro i dispositivi IoT cellulari**  
+  Fonte: The Hacker News, 11 Aug 2026, 12:05:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html>)
+
+- **Mozilla revoca la chiave di firma di Firefox e Thunderbird Linux dopo che la chiave è arrivata nel repository privato**  
+  Fonte: The Hacker News, 11 Aug 2026, 12:04:51 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html>)
+
+- **Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers**  
+  Fonte: The Hacker News, 11 Aug 2026, 11:35:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html>)
+
+- **IA per il supporto militare**  
+  Fonte: Schneier on Security, 11 Aug 2026, 11:18:07 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html>)
+
+- **Cisco avverte di difetti ClamAV di elevata gravità con exploit pubblici**  
+  Fonte: BleepingComputer, 11 Aug 2026, 11:03:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/>)
+
+- **I ricercatori trasformano l'installazione automatica USB in un'acquisizione completa del SISTEMA su Windows 11**  
+  Fonte: The Hacker News, 11 Aug 2026, 10:48:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html>)
+
+- **I server MCP dannosi possono dividere le istruzioni per far sì che gli agenti di codifica AI estraggano i segreti**  
+  Fonte: The Hacker News, 11 Aug 2026, 10:24:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html>)
+
+- **Stati Uniti e Corea del Sud avvertono del ransomware Gunra che prende di mira le agenzie governative**  
+  Fonte: BleepingComputer, 11 Aug 2026, 09:47:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/>)
+
+- **Il ransomware Gunra sfrutta le falle di Fortinet e Schneider Electric per violare le reti**  
+  Fonte: The Hacker News, 11 Aug 2026, 09:16:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html>)
+
+- **Gli hacker violano i controlli delle centrali elettriche polacche tramite la rete cellulare privata e chiudono la turbina**  
+  Fonte: The Hacker News, 11 Aug 2026, 06:55:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html>)
+
+- **BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins**  
   Fonte: The Hacker News, 11 Aug 2026, 05:48:44 UTC  
   [Leggi](<https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html>)
-
-- **L'anno scorso gli hacker hanno violato un piccolo impianto energetico polacco tramite APN privato**  
-  Fonte: BleepingComputer, 10 Aug 2026, 23:07:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/>)
-
-- **L’hacking della supply chain dei plugin BdThemes crea amministratori WordPress non autorizzati**  
-  Fonte: BleepingComputer, 10 Aug 2026, 21:12:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/>)
-
-- **OpenAI rilascia ChatGPT 5.6 Cyber, ma è solo per gli utenti approvati**  
-  Fonte: BleepingComputer, 10 Aug 2026, 19:24:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/>)
-
-- **Nuovo ransomware StormEncryptor utilizzato dall'ex affiliato di Medusa**  
-  Fonte: BleepingComputer, 10 Aug 2026, 17:42:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/>)
 
 - **Spedizione 10–50× Codice in più?Guarda questo webinar su come garantire lo sviluppo con velocità dell'intelligenza artificiale**  
   Fonte: The Hacker News, 10 Aug 2026, 17:29:17 UTC  
@@ -34,33 +146,13 @@
   Fonte: The Hacker News, 10 Aug 2026, 15:00:29 UTC  
   [Leggi](<https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html>)
 
-- **CISA: i difetti di SonicWall SMA1000 ora sfruttati dalle bande di ransomware**  
-  Fonte: BleepingComputer, 10 Aug 2026, 14:34:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/>)
-
-- **Quando le credenziali non bastano più: la fiducia dei dispositivi nell’era dell’intelligenza artificiale**  
-  Fonte: BleepingComputer, 10 Aug 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/>)
-
 - **Kimsuky crea uno stack AI offline per potenziare il phishing e automatizzare lo sviluppo di malware**  
   Fonte: The Hacker News, 10 Aug 2026, 13:19:58 UTC  
   [Leggi](<https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html>)
 
-- **Membro del Com mandato in prigione per ricatto e sestorsione**  
-  Fonte: BleepingComputer, 10 Aug 2026, 12:56:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/>)
-
 - **I nuovi attacchi Passkey possono recuperare chiavi private sincronizzate o aggirare l'MFA resistente al phishing**  
   Fonte: The Hacker News, 10 Aug 2026, 12:25:04 UTC  
   [Leggi](<https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html>)
-
-- **LexisNexis interrompe i servizi dopo attività sospette sui server**  
-  Fonte: BleepingComputer, 10 Aug 2026, 12:11:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/>)
-
-- **Valve avvisa i clienti dell'hardware Steam di una violazione dei dati**  
-  Fonte: BleepingComputer, 10 Aug 2026, 11:47:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/>)
 
 - **Difetti del server TrueConf sfruttati per sostituire i programmi di installazione client con PhantomCore**  
   Fonte: The Hacker News, 10 Aug 2026, 11:33:41 UTC  
@@ -70,10 +162,6 @@
   Fonte: Schneier on Security, 10 Aug 2026, 11:02:26 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html>)
 
-- **La falla Critical Progress LoadMaster ora viene sfruttata attivamente negli attacchi**  
-  Fonte: BleepingComputer, 10 Aug 2026, 09:49:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/>)
-
 - **Le estensioni Solidity Pro VS Code rubano portafogli crittografici, chiavi API e credenziali**  
   Fonte: The Hacker News, 10 Aug 2026, 07:38:23 UTC  
   [Leggi](<https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html>)
@@ -81,10 +169,6 @@
 - **Il prossimo modello di intelligenza artificiale di OpenAI, Astra, mostra prestazioni informatiche sufficientemente forti da attivare la pausa**  
   Fonte: The Hacker News, 10 Aug 2026, 05:50:03 UTC  
   [Leggi](<https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html>)
-
-- **Gli hacker violano TrueConf per trojanizzare gli installatori dei client con backdoor**  
-  Fonte: BleepingComputer, 08 Aug 2026, 14:16:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/>)
 
 - **Atlassian Rovo può essere indotto con l'inganno a inviare dati Jira e Confluence agli aggressori**  
   Fonte: The Hacker News, 08 Aug 2026, 08:54:50 UTC  
@@ -98,7 +182,7 @@
   Fonte: The Hacker News, 08 Aug 2026, 06:58:31 UTC  
   [Leggi](<https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html>)
 
-- **N-able presenta problemi con l'hotfix 2 di N-central mentre gli aggressori raggiungono i sistemi gestiti e persistono**  
+- **N-able presenta problemi con l'hotfix 2 N-central poiché gli aggressori raggiungono i sistemi gestiti e persistono**  
   Fonte: The Hacker News, 08 Aug 2026, 06:57:43 UTC  
   [Leggi](<https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html>)
 
@@ -109,14 +193,6 @@
 - **Blog sui calamari del venerdì: video sui calamari artici Bobtail**  
   Fonte: Schneier on Security, 07 Aug 2026, 21:07:04 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html>)
-
-- **Metabase SQLi zero-day sfruttata negli attacchi di furto di dati dei clienti**  
-  Fonte: BleepingComputer, 07 Aug 2026, 20:14:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/>)
-
-- **La violazione dei sistemi tecnologici illimitati colpisce 3,8 milioni di persone**  
-  Fonte: BleepingComputer, 07 Aug 2026, 19:30:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/>)
 
 - **Quasi 800 pacchetti npm dannosi forniscono RAT e Infostealer multipiattaforma**  
   Fonte: The Hacker News, 07 Aug 2026, 18:48:17 UTC  
@@ -130,17 +206,9 @@
   Fonte: The Hacker News, 07 Aug 2026, 18:16:13 UTC  
   [Leggi](<https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html>)
 
-- **Levi Strauss & Co. afferma che gli hacker hanno rubato dati aziendali durante un attacco informatico**  
-  Fonte: BleepingComputer, 07 Aug 2026, 15:48:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/>)
-
 - **Fai attenzione ai servizi di intelligenza artificiale a prezzo ridotto che leggono ogni tua parola**  
   Fonte: Graham Cluley, 07 Aug 2026, 15:33:08 UTC  
   [Leggi](<https://www.fortra.com/blog/beware-cut-price-ai-services-read-your-every-word>)
-
-- **E-mail vere, pagamenti dirottati: due catene di attacco H1 2026**  
-  Fonte: BleepingComputer, 07 Aug 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/>)
 
 - **Il nuovo XSS pre-autenticazione di WordPress potrebbe portare all'esecuzione del codice PHP: patch al più presto**  
   Fonte: The Hacker News, 07 Aug 2026, 12:56:23 UTC  
@@ -158,7 +226,7 @@
   Fonte: The Hacker News, 07 Aug 2026, 10:58:38 UTC  
   [Leggi](<https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html>)
 
-- **Il phishing AitM di Microsoft 365 dirotta gli account per raccogliere e-mail di buste paga e finanziarie**  
+- **Il phishing Microsoft 365 AitM dirotta gli account per raccogliere e-mail di buste paga e finanziarie**  
   Fonte: The Hacker News, 07 Aug 2026, 10:38:27 UTC  
   [Leggi](<https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html>)
 
@@ -182,7 +250,7 @@
   Fonte: The Hacker News, 07 Aug 2026, 06:50:05 UTC  
   [Leggi](<https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html>)
 
-- **Il nuovo difetto KVM di Zapscape potrebbe consentire la fuga del codice guest L1 privilegiato verso gli host Linux**  
+- **Il nuovo difetto KVM di Zapscape potrebbe consentire la fuga del codice guest privilegiato L1 verso gli host Linux**  
   Fonte: The Hacker News, 06 Aug 2026, 17:58:30 UTC  
   [Leggi](<https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html>)
 
@@ -234,81 +302,13 @@
   Fonte: The Hacker News, 06 Aug 2026, 08:57:30 UTC  
   [Leggi](<https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html>)
 
-- **I router Zbtlink di fabbricazione cinese vengono forniti con una backdoor che apre shell di root non autenticate**  
-  Fonte: The Hacker News, 06 Aug 2026, 08:05:22 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html>)
-
-- **Il creatore del cartello di Ransom viene condannato a 16 anni di carcere per aver utilizzato il ransomware-as-a-service**  
-  Fonte: The Hacker News, 06 Aug 2026, 07:19:54 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html>)
-
-- **CISA segnala il difetto RCE TeamCity CVE-2026-63077 in caso di sfruttamento attivo in natura**  
-  Fonte: The Hacker News, 06 Aug 2026, 06:51:43 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html>)
-
-- **L'hacker Snowflake si dichiara colpevole di violazioni che hanno colpito almeno 100 milioni di persone**  
-  Fonte: The Hacker News, 06 Aug 2026, 06:04:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html>)
-
 - **Podcast di Smashing Security n. 479: Come un falso agente di polizia ha quasi rubato la criptovaluta di Graham**  
   Fonte: Graham Cluley, 05 Aug 2026, 23:10:20 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-479-how-a-fake-police-officer-nearly-stole-grahams-cryptocurrency/>)
-
-- **Oltre 250 domini ClickFix utilizzano l'impronta digitale del browser per nascondere le esche malware di macOS**  
-  Fonte: The Hacker News, 05 Aug 2026, 18:44:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html>)
-
-- **OpenAI interrompe la rete di truffe Poipet utilizzando ChatGPT in più schemi di frode**  
-  Fonte: The Hacker News, 05 Aug 2026, 18:33:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html>)
-
-- **Poison Claude vende l'accesso scontato a Claude mentre il suo operatore vede ogni richiesta del cliente**  
-  Fonte: The Hacker News, 05 Aug 2026, 15:36:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html>)
-
-- **I difetti dell'intelligenza artificiale di Paperclip consentono agli aggressori di eseguire comandi host tramite importazioni di agenti dannosi**  
-  Fonte: The Hacker News, 05 Aug 2026, 15:14:05 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html>)
-
-- **Veeam, Terraform MCP, difetti critici della patch Django, causati dal bug cross-tenant di CVSS 10.0**  
-  Fonte: The Hacker News, 05 Aug 2026, 14:27:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html>)
-
-- **I pacchetti npm con trojan utilizzano la tattica NullReceiver per decodificare l'IP C2 dalla Blockchain**  
-  Fonte: The Hacker News, 05 Aug 2026, 13:41:27 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html>)
-
-- **Il nuovo difetto del kernel Linux OVSwrap consente agli utenti locali di ottenere il root tramite Open vSwitch**  
-  Fonte: The Hacker News, 05 Aug 2026, 11:43:27 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html>)
-
-- **Kali365 utilizza l'autenticazione Microsoft come arma contro le aziende statunitensi: nuovo rischio aziendale**  
-  Fonte: The Hacker News, 05 Aug 2026, 11:43:19 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html>)
-
-- **Difetto critico di Gitea che consente agli aggressori non autenticati di leggere i file del server tramite markup in modalità organizzazione**  
-  Fonte: The Hacker News, 05 Aug 2026, 11:04:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html>)
-
-- **I token API n8n trapelati hanno esposto le istanze live al furto di credenziali**  
-  Fonte: The Hacker News, 05 Aug 2026, 10:35:29 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html>)
 
 - **Vulnerabilità nel dispositivo antifurto per auto**  
   Fonte: Schneier on Security, 05 Aug 2026, 09:42:43 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html>)
 
-- **Attacchi informatici iraniani contro i sistemi idrici del Minnesota**  
-  Fonte: Schneier on Security, 04 Aug 2026, 19:00:53 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html>)
 
-- **Alcune chat di Claude sono ricercabili su Google**  
-  Fonte: Schneier on Security, 04 Aug 2026, 10:13:58 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html>)
-
-- **Le lettere false dell'IRS prendono di mira i possessori di criptovaluta**  
-  Fonte: Graham Cluley, 04 Aug 2026, 09:02:46 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-irs-letters-cryptocurrency>)
-
-
-<!-- Ultimo aggiornamento: 2026-08-11 06:48:53 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-12 07:08:57 UTC -->
