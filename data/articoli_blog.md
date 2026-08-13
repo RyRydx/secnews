@@ -2,6 +2,106 @@
 
 ## Ultimi 7 giorni
 
+- **Gli aggressori sfruttano il bypass dell'autenticazione di SharePoint dopo il rilascio del PoC pubblico**  
+  Fonte: The Hacker News, 13 Aug 2026, 06:09:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html>)
+
+- **Smashing Security podcast n. 480: questo è il servizio di intelligenza artificiale a cui non dovresti mai iscriverti**  
+  Fonte: Graham Cluley, 12 Aug 2026, 23:12:28 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-480/>)
+
+- **Gli attacchi di furto di dati "City-Forum" prendono di mira i portali Salesforce e ServiceNow**  
+  Fonte: BleepingComputer, 12 Aug 2026, 23:07:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/>)
+
+- **Una combinazione di malware Android richiede prestiti e inoltra le carte di credito delle vittime**  
+  Fonte: BleepingComputer, 12 Aug 2026, 22:22:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/>)
+
+- **Gli hacker sfruttano il difetto critico di Adobe Commerce per prendere il controllo degli account dei clienti**  
+  Fonte: BleepingComputer, 12 Aug 2026, 20:54:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/>)
+
+- **Centinaia di false estensioni VPN per Chrome instradano il traffico attraverso un proxy**  
+  Fonte: BleepingComputer, 12 Aug 2026, 18:54:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/>)
+
+- **Lazarus sfrutta Windows Zero-Day per ottenere l'accesso al SISTEMA e implementare backdoor**  
+  Fonte: The Hacker News, 12 Aug 2026, 17:39:27 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html>)
+
+- **L'attacco Plug and Pwn utilizza dispositivi USB falsi per l'accesso al SISTEMA Windows**  
+  Fonte: BleepingComputer, 12 Aug 2026, 16:05:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/>)
+
+- **Gli hacker di Lazarus hanno sfruttato lo zero-day di Windows per prendere di mira le aziende del settore della difesa**  
+  Fonte: BleepingComputer, 12 Aug 2026, 15:38:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/>)
+
+- **FBI: Gli hacker prendono di mira gli account online per rubare foto di nudo**  
+  Fonte: BleepingComputer, 12 Aug 2026, 14:15:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/>)
+
+- **Rilevate 737 estensioni VPN di Chrome che instradano il traffico tramite proxy.Controlla se ne hai uno**  
+  Fonte: The Hacker News, 12 Aug 2026, 14:09:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html>)
+
+- **La minaccia nascosta nel processo di assunzione: come entrano in gioco i falsi lavoratori a distanza**  
+  Fonte: BleepingComputer, 12 Aug 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/>)
+
+- **Gli hacker sfruttano il nuovo exploit di Microsoft SharePoint negli attacchi**  
+  Fonte: BleepingComputer, 12 Aug 2026, 12:25:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/>)
+
+- **OpenAI, Anthropic e Google API Flaw consentono ai modelli AI più deboli di decodificare il ragionamento dei modelli più forti**  
+  Fonte: The Hacker News, 12 Aug 2026, 11:47:38 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html>)
+
+- **Le difese aziendali sono state recuperate ai margini e crollate all'interno**  
+  Fonte: The Hacker News, 12 Aug 2026, 11:41:34 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html>)
+
+- **Signal aggiunge una nuova funzionalità di sicurezza per contrastare gli attacchi man-in-the-middle**  
+  Fonte: BleepingComputer, 12 Aug 2026, 11:21:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/>)
+
+- **Adobe corregge tre difetti classici di CVSS 10.0 ColdFusion e Campaign**  
+  Fonte: The Hacker News, 12 Aug 2026, 11:13:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html>)
+
+- **Il nuovo zero-day di Microsoft Defender "ShieldBreak" garantisce i privilegi di SISTEMA**  
+  Fonte: BleepingComputer, 12 Aug 2026, 10:15:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/>)
+
+- **Iniezioni immediate per la difesa**  
+  Fonte: Schneier on Security, 12 Aug 2026, 09:56:37 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html>)
+
+- **Gli aggressori sfruttano la vulnerabilità di VMware vCenter per ottenere un accesso remoto persistente**  
+  Fonte: The Hacker News, 12 Aug 2026, 09:01:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html>)
+
+- **Aggiornamento settimanale 516: in diretta dal Vietnam**  
+  Fonte: Troy Hunt, 12 Aug 2026, 08:16:15 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-516/>)
+
+- **I rilasci dannosi di LiteLLM legati a trivy hack potrebbero aver esposto oltre 2.100 organizzazioni**  
+  Fonte: The Hacker News, 12 Aug 2026, 08:04:52 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html>)
+
+- **La falla di SAP Commerce Cloud potrebbe consentire agli aggressori non autenticati di eseguire codice arbitrario**  
+  Fonte: The Hacker News, 12 Aug 2026, 07:31:40 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html>)
+
+- **ShieldBreak Zero-Day PoC richiede il bypass della patch di Microsoft Defender con l'accesso al SISTEMA**  
+  Fonte: The Hacker News, 12 Aug 2026, 06:41:38 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html>)
+
+- **I difetti Cisco ASA e FTD sfruttati in natura possono innescare attacchi DoS remoti**  
+  Fonte: The Hacker News, 12 Aug 2026, 06:15:58 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html>)
+
 - **Google afferma che Chrome taglia 7 miliardi di notifiche Android indesiderate al giorno per combattere gli abusi**  
   Fonte: BleepingComputer, 12 Aug 2026, 01:15:55 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/>)
@@ -22,7 +122,7 @@
   Fonte: The Hacker News, 11 Aug 2026, 20:10:55 UTC  
   [Leggi](<https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html>)
 
-- **Cisco avverte di vulnerabilità ASA e FTD VPN sfruttate per mandare in crash i dispositivi**  
+- **Cisco avverte di una falla ASA e FTD VPN sfruttata per mandare in crash i dispositivi**  
   Fonte: BleepingComputer, 11 Aug 2026, 19:45:31 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/>)
 
@@ -38,22 +138,6 @@
   Fonte: The Hacker News, 11 Aug 2026, 18:36:47 UTC  
   [Leggi](<https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html>)
 
-- **Delta indaga sull'attacco mortale Wi-Fi al volo che trasportava i partecipanti al DEF CON**  
-  Fonte: BleepingComputer, 11 Aug 2026, 18:34:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/>)
-
-- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5120249 di Windows 10**  
-  Fonte: BleepingComputer, 11 Aug 2026, 18:26:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/>)
-
-- **Il Patch Tuesday di agosto 2026 di Microsoft corregge 400 difetti, 3 zero-day**  
-  Fonte: BleepingComputer, 11 Aug 2026, 18:08:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/>)
-
-- **Aggiornamenti cumulativi di Windows 11 KB5121003 e KB5120240 rilasciati**  
-  Fonte: BleepingComputer, 11 Aug 2026, 17:38:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/>)
-
 - **I ricercatori rivelano che la catena di exploit di SharePoint assistita dall'intelligenza artificiale ha raggiunto RCE non autenticati**  
   Fonte: The Hacker News, 11 Aug 2026, 16:47:44 UTC  
   [Leggi](<https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html>)
@@ -62,33 +146,13 @@
   Fonte: The Hacker News, 11 Aug 2026, 16:35:27 UTC  
   [Leggi](<https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html>)
 
-- **Wesco conferma l'incidente di sicurezza dopo che ExfilSquad ha denunciato il furto di dati**  
-  Fonte: BleepingComputer, 11 Aug 2026, 15:59:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/>)
-
 - **Genio dell'IA allo stato brado**  
   Fonte: Schneier on Security, 11 Aug 2026, 15:55:11 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html>)
 
-- **Mozilla aggiorna la chiave di firma GPG per le versioni di Firefox dopo l'esposizione**  
-  Fonte: BleepingComputer, 11 Aug 2026, 13:20:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/>)
-
-- **Compito vago, accesso totale: quando la delega dell’intelligenza artificiale diventa un rischio per la sicurezza**  
-  Fonte: BleepingComputer, 11 Aug 2026, 13:15:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/>)
-
 - **OpenAI lancia GPT-5.6-Cyber ​​con protezioni ridotte per lo sviluppo di exploit**  
   Fonte: The Hacker News, 11 Aug 2026, 13:11:23 UTC  
   [Leggi](<https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html>)
-
-- **Gli attacchi DDoS superiori a 1 Tbps sono quintuplicati nel secondo trimestre**  
-  Fonte: BleepingComputer, 11 Aug 2026, 13:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/>)
-
-- **CISA: la falla di Microsoft SharePoint ora sfruttata negli attacchi ransomware**  
-  Fonte: BleepingComputer, 11 Aug 2026, 12:12:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/>)
 
 - **Una scheda SIM dannosa può eseguire codice di un utente malintenzionato all'interno dei modem dietro i dispositivi IoT cellulari**  
   Fonte: The Hacker News, 11 Aug 2026, 12:05:03 UTC  
@@ -98,17 +162,13 @@
   Fonte: The Hacker News, 11 Aug 2026, 12:04:51 UTC  
   [Leggi](<https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html>)
 
-- **Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers**  
+- **I ricercatori hanno creato una falsa startup di criptovaluta e hanno assunto tre sospetti lavoratori IT nordcoreani**  
   Fonte: The Hacker News, 11 Aug 2026, 11:35:03 UTC  
   [Leggi](<https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html>)
 
 - **IA per il supporto militare**  
   Fonte: Schneier on Security, 11 Aug 2026, 11:18:07 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html>)
-
-- **Cisco avverte di difetti ClamAV di elevata gravità con exploit pubblici**  
-  Fonte: BleepingComputer, 11 Aug 2026, 11:03:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/>)
 
 - **I ricercatori trasformano l'installazione automatica USB in un'acquisizione completa del SISTEMA su Windows 11**  
   Fonte: The Hacker News, 11 Aug 2026, 10:48:26 UTC  
@@ -118,11 +178,7 @@
   Fonte: The Hacker News, 11 Aug 2026, 10:24:00 UTC  
   [Leggi](<https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html>)
 
-- **Stati Uniti e Corea del Sud avvertono del ransomware Gunra che prende di mira le agenzie governative**  
-  Fonte: BleepingComputer, 11 Aug 2026, 09:47:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/>)
-
-- **Il ransomware Gunra sfrutta le falle di Fortinet e Schneider Electric per violare le reti**  
+- **Gunra Ransomware sfrutta i difetti Fortinet FortiOS e FortiProxy per violare le reti**  
   Fonte: The Hacker News, 11 Aug 2026, 09:16:24 UTC  
   [Leggi](<https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html>)
 
@@ -130,7 +186,7 @@
   Fonte: The Hacker News, 11 Aug 2026, 06:55:45 UTC  
   [Leggi](<https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html>)
 
-- **BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins**  
+- **L'attacco alla supply chain di BdThemes avvelena JSON per creare amministratori WordPress non autorizzati**  
   Fonte: The Hacker News, 11 Aug 2026, 05:48:44 UTC  
   [Leggi](<https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html>)
 
@@ -154,7 +210,7 @@
   Fonte: The Hacker News, 10 Aug 2026, 12:25:04 UTC  
   [Leggi](<https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html>)
 
-- **Difetti del server TrueConf sfruttati per sostituire i programmi di installazione client con PhantomCore**  
+- **Sfruttati i difetti del server TrueConf per sostituire i programmi di installazione client con PhantomCore**  
   Fonte: The Hacker News, 10 Aug 2026, 11:33:41 UTC  
   [Leggi](<https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html>)
 
@@ -226,7 +282,7 @@
   Fonte: The Hacker News, 07 Aug 2026, 10:58:38 UTC  
   [Leggi](<https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html>)
 
-- **Il phishing Microsoft 365 AitM dirotta gli account per raccogliere e-mail di buste paga e finanziarie**  
+- **Il phishing AitM di Microsoft 365 dirotta gli account per raccogliere e-mail di buste paga e finanziarie**  
   Fonte: The Hacker News, 07 Aug 2026, 10:38:27 UTC  
   [Leggi](<https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html>)
 
@@ -246,45 +302,9 @@
   Fonte: The Hacker News, 07 Aug 2026, 08:18:35 UTC  
   [Leggi](<https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html>)
 
-- **TeamPCP collegato ad attacchi Redis risalenti al 2020 e successive campagne sulla catena di fornitura**  
-  Fonte: The Hacker News, 07 Aug 2026, 06:50:05 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html>)
-
-- **Il nuovo difetto KVM di Zapscape potrebbe consentire la fuga del codice guest privilegiato L1 verso gli host Linux**  
-  Fonte: The Hacker News, 06 Aug 2026, 17:58:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html>)
-
-- **Cisco corregge 12 difetti SD-WAN e IOS XE, inclusi tre bug del punteggio CVSS 9,9**  
-  Fonte: The Hacker News, 06 Aug 2026, 17:13:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html>)
-
 - **Un uomo canadese si dichiara colpevole delle estorsioni di Snowflake**  
   Fonte: Krebs on Security, 06 Aug 2026, 17:00:56 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/>)
-
-- **Il nuovo attacco Interrupt Injection può bypassare le difese Spectre v2 sulle CPU Intel e AMD**  
-  Fonte: The Hacker News, 06 Aug 2026, 16:17:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html>)
-
-- **ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight e altre 27 storie**  
-  Fonte: The Hacker News, 06 Aug 2026, 15:24:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html>)
-
-- **Oltre 4.400 PLC Rockwell esposti online, 22 trovati in città sotto attacco idrico**  
-  Fonte: The Hacker News, 06 Aug 2026, 12:16:58 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html>)
-
-- **Il debole RNG di CryptoJS dietro 5,7 milioni di dollari di drenaggio colpisce cinque app di portafoglio crittografico**  
-  Fonte: The Hacker News, 06 Aug 2026, 11:49:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html>)
-
-- **L'inoltro privato di Apple iCloud può esporre IP reali tramite bypass proxy WebKit**  
-  Fonte: The Hacker News, 06 Aug 2026, 11:33:08 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html>)
-
-- **Avvelenamento da raccomandazioni AI: come i pulsanti "Chiedi AI" alterano silenziosamente la memoria LLM**  
-  Fonte: The Hacker News, 06 Aug 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html>)
 
 - **Abbigliamento contraddittorio progettato per ingannare i sistemi di riconoscimento facciale**  
   Fonte: Schneier on Security, 06 Aug 2026, 11:04:51 UTC  
@@ -294,21 +314,5 @@
   Fonte: Graham Cluley, 06 Aug 2026, 10:26:02 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/apple-bug-bounty-ai-missing-exploits>)
 
-- **Gli aggressori compilano khunt all'interno di Oracle per trasformare SQL Injection nell'accesso al sistema Windows**  
-  Fonte: The Hacker News, 06 Aug 2026, 09:19:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html>)
 
-- **I difetti degli agenti AWS, Google e Vercel consentono agli aggressori di attivare strumenti senza eseguire il modello**  
-  Fonte: The Hacker News, 06 Aug 2026, 08:57:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html>)
-
-- **Podcast di Smashing Security n. 479: Come un falso agente di polizia ha quasi rubato la criptovaluta di Graham**  
-  Fonte: Graham Cluley, 05 Aug 2026, 23:10:20 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-479-how-a-fake-police-officer-nearly-stole-grahams-cryptocurrency/>)
-
-- **Vulnerabilità nel dispositivo antifurto per auto**  
-  Fonte: Schneier on Security, 05 Aug 2026, 09:42:43 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-08-12 07:08:57 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-13 07:13:23 UTC -->
