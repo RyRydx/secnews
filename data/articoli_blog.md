@@ -2,6 +2,54 @@
 
 ## Ultimi 7 giorni
 
+- **Apple invia nuovi avvisi di “notifica di minaccia” sugli attacchi spyware mercenari**  
+  Fonte: BleepingComputer, 14 Aug 2026, 01:19:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/>)
+
+- **L'Ucraina chiude 94 call center fraudolenti e sequestra milioni di contanti**  
+  Fonte: BleepingComputer, 13 Aug 2026, 21:12:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/>)
+
+- **Gli hacker Akira disabilitano l'EDR in modalità provvisoria, rubano i dati ma non riescono a crittografarli**  
+  Fonte: BleepingComputer, 13 Aug 2026, 20:47:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/>)
+
+- **Gli hacker violano la webmail governativa mentre eseguono frodi crittografiche parallele**  
+  Fonte: BleepingComputer, 13 Aug 2026, 18:15:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/>)
+
+- **Microsoft corregge la vulnerabilità zero-day di Windows LegacyHive**  
+  Fonte: BleepingComputer, 13 Aug 2026, 17:46:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/>)
+
+- **I dispositivi di rimozione filigrana AI inondano il web.Quasi nessuno può dimostrare che funzionino.**  
+  Fonte: BleepingComputer, 13 Aug 2026, 17:33:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/>)
+
+- **Difetto critico VMware vCenter RCE sfruttato per l'accesso SSH inverso**  
+  Fonte: BleepingComputer, 13 Aug 2026, 16:40:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/>)
+
+- **Trezor rivela che la violazione dei dati ha colpito quasi 14.000 clienti**  
+  Fonte: BleepingComputer, 13 Aug 2026, 15:13:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/>)
+
+- **Chi controlla il codice dell’intelligenza artificiale?La sfida di portata dell’ingestione di open source**  
+  Fonte: BleepingComputer, 13 Aug 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/>)
+
+- **La Casa Bianca si avvale di società di sicurezza per operazioni offensive di hacking**  
+  Fonte: BleepingComputer, 13 Aug 2026, 13:30:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/>)
+
+- **WhatsApp lancia una nuova funzionalità che segnala potenziali messaggi di truffa**  
+  Fonte: BleepingComputer, 13 Aug 2026, 11:50:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/>)
+
+- **Separare i problemi tecnologici dell’intelligenza artificiale dai problemi del capitalismo**  
+  Fonte: Schneier on Security, 13 Aug 2026, 11:07:19 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html>)
+
 - **Gli aggressori sfruttano il bypass dell'autenticazione di SharePoint dopo il rilascio del PoC pubblico**  
   Fonte: The Hacker News, 13 Aug 2026, 06:09:48 UTC  
   [Leggi](<https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html>)
@@ -30,29 +78,9 @@
   Fonte: The Hacker News, 12 Aug 2026, 17:39:27 UTC  
   [Leggi](<https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html>)
 
-- **L'attacco Plug and Pwn utilizza dispositivi USB falsi per l'accesso al SISTEMA Windows**  
-  Fonte: BleepingComputer, 12 Aug 2026, 16:05:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/>)
-
-- **Gli hacker di Lazarus hanno sfruttato lo zero-day di Windows per prendere di mira le aziende del settore della difesa**  
-  Fonte: BleepingComputer, 12 Aug 2026, 15:38:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/>)
-
-- **FBI: Gli hacker prendono di mira gli account online per rubare foto di nudo**  
-  Fonte: BleepingComputer, 12 Aug 2026, 14:15:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/>)
-
 - **Rilevate 737 estensioni VPN di Chrome che instradano il traffico tramite proxy.Controlla se ne hai uno**  
   Fonte: The Hacker News, 12 Aug 2026, 14:09:50 UTC  
   [Leggi](<https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html>)
-
-- **La minaccia nascosta nel processo di assunzione: come entrano in gioco i falsi lavoratori a distanza**  
-  Fonte: BleepingComputer, 12 Aug 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/>)
-
-- **Gli hacker sfruttano il nuovo exploit di Microsoft SharePoint negli attacchi**  
-  Fonte: BleepingComputer, 12 Aug 2026, 12:25:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/>)
 
 - **OpenAI, Anthropic e Google API Flaw consentono ai modelli AI più deboli di decodificare il ragionamento dei modelli più forti**  
   Fonte: The Hacker News, 12 Aug 2026, 11:47:38 UTC  
@@ -62,17 +90,9 @@
   Fonte: The Hacker News, 12 Aug 2026, 11:41:34 UTC  
   [Leggi](<https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html>)
 
-- **Signal aggiunge una nuova funzionalità di sicurezza per contrastare gli attacchi man-in-the-middle**  
-  Fonte: BleepingComputer, 12 Aug 2026, 11:21:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/>)
-
 - **Adobe corregge tre difetti classici di CVSS 10.0 ColdFusion e Campaign**  
   Fonte: The Hacker News, 12 Aug 2026, 11:13:03 UTC  
   [Leggi](<https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html>)
-
-- **Il nuovo zero-day di Microsoft Defender "ShieldBreak" garantisce i privilegi di SISTEMA**  
-  Fonte: BleepingComputer, 12 Aug 2026, 10:15:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/>)
 
 - **Iniezioni immediate per la difesa**  
   Fonte: Schneier on Security, 12 Aug 2026, 09:56:37 UTC  
@@ -102,29 +122,13 @@
   Fonte: The Hacker News, 12 Aug 2026, 06:15:58 UTC  
   [Leggi](<https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html>)
 
-- **Google afferma che Chrome taglia 7 miliardi di notifiche Android indesiderate al giorno per combattere gli abusi**  
-  Fonte: BleepingComputer, 12 Aug 2026, 01:15:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/>)
-
-- **Il ransomware DeadLock utilizza la blockchain per resistere alla rimozione dell'infrastruttura**  
-  Fonte: BleepingComputer, 11 Aug 2026, 22:15:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/>)
-
 - **Microsoft risolve quasi 400 buchi di sicurezza**  
   Fonte: Krebs on Security, 11 Aug 2026, 21:28:35 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/>)
 
-- **Gli hacker Sandworm prendono di mira i professionisti IT con il client VPN WireGuard contenente trojan**  
-  Fonte: BleepingComputer, 11 Aug 2026, 21:07:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/>)
-
 - **Microsoft corregge 398 difetti, incluso un driver Windows Zero-Day sotto attacco attivo**  
   Fonte: The Hacker News, 11 Aug 2026, 20:10:55 UTC  
   [Leggi](<https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html>)
-
-- **Cisco avverte di una falla ASA e FTD VPN sfruttata per mandare in crash i dispositivi**  
-  Fonte: BleepingComputer, 11 Aug 2026, 19:45:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/>)
 
 - **La botnet Android Kimwolf v7 fa sembrare il traffico DDoS HTTP/2 una navigazione legittima**  
   Fonte: The Hacker News, 11 Aug 2026, 19:36:37 UTC  
@@ -302,17 +306,5 @@
   Fonte: The Hacker News, 07 Aug 2026, 08:18:35 UTC  
   [Leggi](<https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html>)
 
-- **Un uomo canadese si dichiara colpevole delle estorsioni di Snowflake**  
-  Fonte: Krebs on Security, 06 Aug 2026, 17:00:56 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/>)
 
-- **Abbigliamento contraddittorio progettato per ingannare i sistemi di riconoscimento facciale**  
-  Fonte: Schneier on Security, 06 Aug 2026, 11:04:51 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html>)
-
-- **Il programma bug bounty di Apple sta affogando in così tante sviste di intelligenza artificiale che rischia di perdere gravi exploit**  
-  Fonte: Graham Cluley, 06 Aug 2026, 10:26:02 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/apple-bug-bounty-ai-missing-exploits>)
-
-
-<!-- Ultimo aggiornamento: 2026-08-13 07:13:23 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-14 07:08:44 UTC -->
