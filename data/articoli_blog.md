@@ -2,6 +2,54 @@
 
 ## Ultimi 7 giorni
 
+- **Come Anthropic intende filigranare il testo generato dall'intelligenza artificiale di Claude**  
+  Fonte: BleepingComputer, 14 Aug 2026, 23:24:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/>)
+
+- **Blog sui calamari del venerdì: alla ricerca del calamaro colossale**  
+  Fonte: Schneier on Security, 14 Aug 2026, 21:01:49 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html>)
+
+- **Gli hacker hanno arrestato una frode bancaria da oltre 30 milioni di euro sfruttando la falla del fornitore di servizi**  
+  Fonte: BleepingComputer, 14 Aug 2026, 18:04:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/>)
+
+- **Prossimi impegni di conferenza**  
+  Fonte: Schneier on Security, 14 Aug 2026, 16:01:59 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html>)
+
+- **Gli hacker sfruttano il difetto di condivisione dello schermo di macOS per implementare il minatore Monero**  
+  Fonte: BleepingComputer, 14 Aug 2026, 14:59:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/>)
+
+- **La moderna catena di attacco: ripensare la sicurezza di Google Workspace nell'era dell'intelligenza artificiale**  
+  Fonte: BleepingComputer, 14 Aug 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/>)
+
+- **Gravità massima La falla di SAP Commerce Cloud è ora presa di mira negli attacchi**  
+  Fonte: BleepingComputer, 14 Aug 2026, 13:45:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/>)
+
+- **Shell indaga su un "potenziale incidente" dopo le denunce di furto di dati da parte di Clop**  
+  Fonte: BleepingComputer, 14 Aug 2026, 11:55:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/>)
+
+- **Chi ti sta seguendo?Utilizza questo nuovo servizio per scoprirlo**  
+  Fonte: Krebs on Security, 14 Aug 2026, 11:24:35 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/>)
+
+- **Se i mercati rifiutassero OpenAI e Anthropic, gli Stati Uniti dovrebbero nazionalizzarli**  
+  Fonte: Schneier on Security, 14 Aug 2026, 11:03:50 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html>)
+
+- **La violazione dei dati di RingCentral ha esposto informazioni su 1,6 milioni di account**  
+  Fonte: BleepingComputer, 14 Aug 2026, 10:52:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/>)
+
+- **Analista di dati mandato in prigione per aver rubato dati ed estorto al datore di lavoro**  
+  Fonte: BleepingComputer, 14 Aug 2026, 08:27:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/>)
+
 - **Apple invia nuovi avvisi di “notifica di minaccia” sugli attacchi spyware mercenari**  
   Fonte: BleepingComputer, 14 Aug 2026, 01:19:12 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/>)
@@ -30,22 +78,6 @@
   Fonte: BleepingComputer, 13 Aug 2026, 16:40:23 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/>)
 
-- **Trezor rivela che la violazione dei dati ha colpito quasi 14.000 clienti**  
-  Fonte: BleepingComputer, 13 Aug 2026, 15:13:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/>)
-
-- **Chi controlla il codice dell’intelligenza artificiale?La sfida di portata dell’ingestione di open source**  
-  Fonte: BleepingComputer, 13 Aug 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/>)
-
-- **La Casa Bianca si avvale di società di sicurezza per operazioni offensive di hacking**  
-  Fonte: BleepingComputer, 13 Aug 2026, 13:30:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/>)
-
-- **WhatsApp lancia una nuova funzionalità che segnala potenziali messaggi di truffa**  
-  Fonte: BleepingComputer, 13 Aug 2026, 11:50:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/>)
-
 - **Separare i problemi tecnologici dell’intelligenza artificiale dai problemi del capitalismo**  
   Fonte: Schneier on Security, 13 Aug 2026, 11:07:19 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html>)
@@ -57,22 +89,6 @@
 - **Smashing Security podcast n. 480: questo è il servizio di intelligenza artificiale a cui non dovresti mai iscriverti**  
   Fonte: Graham Cluley, 12 Aug 2026, 23:12:28 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-480/>)
-
-- **Gli attacchi di furto di dati "City-Forum" prendono di mira i portali Salesforce e ServiceNow**  
-  Fonte: BleepingComputer, 12 Aug 2026, 23:07:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/>)
-
-- **Una combinazione di malware Android richiede prestiti e inoltra le carte di credito delle vittime**  
-  Fonte: BleepingComputer, 12 Aug 2026, 22:22:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/>)
-
-- **Gli hacker sfruttano il difetto critico di Adobe Commerce per prendere il controllo degli account dei clienti**  
-  Fonte: BleepingComputer, 12 Aug 2026, 20:54:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/>)
-
-- **Centinaia di false estensioni VPN per Chrome instradano il traffico attraverso un proxy**  
-  Fonte: BleepingComputer, 12 Aug 2026, 18:54:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/>)
 
 - **Lazarus sfrutta Windows Zero-Day per ottenere l'accesso al SISTEMA e implementare backdoor**  
   Fonte: The Hacker News, 12 Aug 2026, 17:39:27 UTC  
@@ -102,7 +118,7 @@
   Fonte: The Hacker News, 12 Aug 2026, 09:01:54 UTC  
   [Leggi](<https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html>)
 
-- **Aggiornamento settimanale 516: in diretta dal Vietnam**  
+- **Aggiornamento settimanale 516: In diretta dal Vietnam**  
   Fonte: Troy Hunt, 12 Aug 2026, 08:16:15 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-516/>)
 
@@ -214,7 +230,7 @@
   Fonte: The Hacker News, 10 Aug 2026, 12:25:04 UTC  
   [Leggi](<https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html>)
 
-- **Sfruttati i difetti del server TrueConf per sostituire i programmi di installazione client con PhantomCore**  
+- **Difetti del server TrueConf sfruttati per sostituire i programmi di installazione client con PhantomCore**  
   Fonte: The Hacker News, 10 Aug 2026, 11:33:41 UTC  
   [Leggi](<https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html>)
 
@@ -250,61 +266,5 @@
   Fonte: The Hacker News, 08 Aug 2026, 06:52:16 UTC  
   [Leggi](<https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html>)
 
-- **Blog sui calamari del venerdì: video sui calamari artici Bobtail**  
-  Fonte: Schneier on Security, 07 Aug 2026, 21:07:04 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html>)
 
-- **Quasi 800 pacchetti npm dannosi forniscono RAT e Infostealer multipiattaforma**  
-  Fonte: The Hacker News, 07 Aug 2026, 18:48:17 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html>)
-
-- **Gli attacchi ClickFix forniscono uno stealer per macOS in grado di prosciugare i portafogli crittografici**  
-  Fonte: The Hacker News, 07 Aug 2026, 18:29:08 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html>)
-
-- **UNC6671 Gli attacchi Vishing prendono di mira i telefoni personali per rubare dati SaaS**  
-  Fonte: The Hacker News, 07 Aug 2026, 18:16:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html>)
-
-- **Fai attenzione ai servizi di intelligenza artificiale a prezzo ridotto che leggono ogni tua parola**  
-  Fonte: Graham Cluley, 07 Aug 2026, 15:33:08 UTC  
-  [Leggi](<https://www.fortra.com/blog/beware-cut-price-ai-services-read-your-every-word>)
-
-- **Il nuovo XSS pre-autenticazione di WordPress potrebbe portare all'esecuzione del codice PHP: patch al più presto**  
-  Fonte: The Hacker News, 07 Aug 2026, 12:56:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html>)
-
-- **Crescere nel modo più difficile**  
-  Fonte: The Hacker News, 07 Aug 2026, 11:55:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/growing-up-hard-way.html>)
-
-- **Un difetto SCTP di Linux vecchio di 18 anni potrebbe consentire agli utenti locali di ottenere il root e l'escape dei contenitori**  
-  Fonte: The Hacker News, 07 Aug 2026, 11:10:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html>)
-
-- **Nuovi attacchi NatJack dirottano le sessioni TCP e spoofing DNS manipolando le tabelle NAT**  
-  Fonte: The Hacker News, 07 Aug 2026, 10:58:38 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html>)
-
-- **Il phishing AitM di Microsoft 365 dirotta gli account per raccogliere e-mail di buste paga e finanziarie**  
-  Fonte: The Hacker News, 07 Aug 2026, 10:38:27 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html>)
-
-- **L'ICE sta acquistando l'accesso ai registri delle carte di credito**  
-  Fonte: Schneier on Security, 07 Aug 2026, 10:26:41 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html>)
-
-- **Il terminatore HTTP assistito dall'intelligenza artificiale trova nuove tecniche di desincronizzazione HTTP e Apache Zero-Day**  
-  Fonte: The Hacker News, 07 Aug 2026, 10:09:54 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html>)
-
-- **Il malware può abusare delle chiavi di Windows Hello for Business per l'accesso persistente all'ID Entra**  
-  Fonte: The Hacker News, 07 Aug 2026, 08:52:11 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html>)
-
-- **I difetti di Claude Code e Gemini CLI consentono a un problema di GitHub di raggiungere i segreti del flusso di lavoro CI**  
-  Fonte: The Hacker News, 07 Aug 2026, 08:18:35 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-08-14 07:08:44 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-15 06:21:17 UTC -->
