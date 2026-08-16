@@ -2,6 +2,10 @@
 
 ## Ultimi 7 giorni
 
+- **La nuova botnet Linux Evooo1Bot trasforma i router in nodi di inoltro del traffico**  
+  Fonte: BleepingComputer, 15 Aug 2026, 14:14:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/>)
+
 - **Come Anthropic intende filigranare il testo generato dall'intelligenza artificiale di Claude**  
   Fonte: BleepingComputer, 14 Aug 2026, 23:24:17 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/>)
@@ -73,10 +77,6 @@
 - **I dispositivi di rimozione filigrana AI inondano il web.Quasi nessuno può dimostrare che funzionino.**  
   Fonte: BleepingComputer, 13 Aug 2026, 17:33:28 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/>)
-
-- **Difetto critico VMware vCenter RCE sfruttato per l'accesso SSH inverso**  
-  Fonte: BleepingComputer, 13 Aug 2026, 16:40:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/>)
 
 - **Separare i problemi tecnologici dell’intelligenza artificiale dai problemi del capitalismo**  
   Fonte: Schneier on Security, 13 Aug 2026, 11:07:19 UTC  
@@ -246,25 +246,5 @@
   Fonte: The Hacker News, 10 Aug 2026, 05:50:03 UTC  
   [Leggi](<https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html>)
 
-- **Atlassian Rovo può essere indotto con l'inganno a inviare dati Jira e Confluence agli aggressori**  
-  Fonte: The Hacker News, 08 Aug 2026, 08:54:50 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html>)
 
-- **Nuovi attacchi CSS possono infrangere le difese della webmail per rubare password e token**  
-  Fonte: The Hacker News, 08 Aug 2026, 08:03:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html>)
-
-- **La metabase Zero-Day sfruttata in modo selvaggio consente l'accesso amministrativo senza autenticazione**  
-  Fonte: The Hacker News, 08 Aug 2026, 06:58:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html>)
-
-- **N-able presenta problemi con l'hotfix 2 N-central poiché gli aggressori raggiungono i sistemi gestiti e persistono**  
-  Fonte: The Hacker News, 08 Aug 2026, 06:57:43 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html>)
-
-- **Il difetto Progress Kemp LoadMaster colpisce CISA KEV dopo 792 tentativi di exploit segnalati**  
-  Fonte: The Hacker News, 08 Aug 2026, 06:52:16 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-08-15 06:21:17 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-16 06:22:24 UTC -->
