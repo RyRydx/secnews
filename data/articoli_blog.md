@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **La violazione dei dati SafePal colpisce 39.798 clienti, informazioni rubate in vendita**  
+  Fonte: BleepingComputer, 16 Aug 2026, 23:47:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/>)
+
+- **Anthropic conferma che Claude è inattivo per una grave interruzione che interessa più servizi**  
+  Fonte: BleepingComputer, 16 Aug 2026, 22:28:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/>)
+
+- **Attacchi DDoS su larga scala hanno interrotto il servizio di messaggistica sicura Threema**  
+  Fonte: BleepingComputer, 16 Aug 2026, 17:29:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/>)
+
+- **Il nuovo malware macOS AmnesiaStealer dirotta le sessioni del browser tramite controllo remoto**  
+  Fonte: BleepingComputer, 16 Aug 2026, 15:07:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/>)
+
 - **La nuova botnet Linux Evooo1Bot trasforma i router in nodi di inoltro del traffico**  
   Fonte: BleepingComputer, 15 Aug 2026, 14:14:38 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/>)
@@ -22,7 +38,7 @@
   Fonte: Schneier on Security, 14 Aug 2026, 16:01:59 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html>)
 
-- **Gli hacker sfruttano il difetto di condivisione dello schermo di macOS per implementare il minatore Monero**  
+- **Hackers exploit macOS Screen Sharing flaw to deploy Monero miner**  
   Fonte: BleepingComputer, 14 Aug 2026, 14:59:55 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/>)
 
@@ -30,7 +46,7 @@
   Fonte: BleepingComputer, 14 Aug 2026, 14:00:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/>)
 
-- **Gravità massima La falla di SAP Commerce Cloud è ora presa di mira negli attacchi**  
+- **Gravità massima Difetto SAP Commerce Cloud ora preso di mira negli attacchi**  
   Fonte: BleepingComputer, 14 Aug 2026, 13:45:18 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/>)
 
@@ -62,22 +78,6 @@
   Fonte: BleepingComputer, 13 Aug 2026, 21:12:47 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/>)
 
-- **Gli hacker Akira disabilitano l'EDR in modalità provvisoria, rubano i dati ma non riescono a crittografarli**  
-  Fonte: BleepingComputer, 13 Aug 2026, 20:47:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/>)
-
-- **Gli hacker violano la webmail governativa mentre eseguono frodi crittografiche parallele**  
-  Fonte: BleepingComputer, 13 Aug 2026, 18:15:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/>)
-
-- **Microsoft corregge la vulnerabilità zero-day di Windows LegacyHive**  
-  Fonte: BleepingComputer, 13 Aug 2026, 17:46:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/>)
-
-- **I dispositivi di rimozione filigrana AI inondano il web.Quasi nessuno può dimostrare che funzionino.**  
-  Fonte: BleepingComputer, 13 Aug 2026, 17:33:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/>)
-
 - **Separare i problemi tecnologici dell’intelligenza artificiale dai problemi del capitalismo**  
   Fonte: Schneier on Security, 13 Aug 2026, 11:07:19 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html>)
@@ -86,7 +86,7 @@
   Fonte: The Hacker News, 13 Aug 2026, 06:09:48 UTC  
   [Leggi](<https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html>)
 
-- **Smashing Security podcast n. 480: questo è il servizio di intelligenza artificiale a cui non dovresti mai iscriverti**  
+- **Podcast Smashing Security n. 480: questo è il servizio di intelligenza artificiale a cui non dovresti mai iscriverti**  
   Fonte: Graham Cluley, 12 Aug 2026, 23:12:28 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-480/>)
 
@@ -98,7 +98,7 @@
   Fonte: The Hacker News, 12 Aug 2026, 14:09:50 UTC  
   [Leggi](<https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html>)
 
-- **OpenAI, Anthropic e Google API Flaw consentono ai modelli AI più deboli di decodificare il ragionamento dei modelli più forti**  
+- **OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning**  
   Fonte: The Hacker News, 12 Aug 2026, 11:47:38 UTC  
   [Leggi](<https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html>)
 
@@ -118,11 +118,11 @@
   Fonte: The Hacker News, 12 Aug 2026, 09:01:54 UTC  
   [Leggi](<https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html>)
 
-- **Aggiornamento settimanale 516: In diretta dal Vietnam**  
+- **Aggiornamento settimanale 516: in diretta dal Vietnam**  
   Fonte: Troy Hunt, 12 Aug 2026, 08:16:15 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-516/>)
 
-- **I rilasci dannosi di LiteLLM legati a trivy hack potrebbero aver esposto oltre 2.100 organizzazioni**  
+- **Le versioni dannose di LiteLLM legate a trivy hack potrebbero aver esposto oltre 2.100 organizzazioni**  
   Fonte: The Hacker News, 12 Aug 2026, 08:04:52 UTC  
   [Leggi](<https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html>)
 
@@ -210,6 +210,10 @@
   Fonte: The Hacker News, 11 Aug 2026, 05:48:44 UTC  
   [Leggi](<https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html>)
 
+- **I Ray-Ban di Meta verranno banditi da pub, ristoranti e teatri**  
+  Fonte: Graham Cluley, 10 Aug 2026, 19:31:19 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/meta-ray-ban-banned-pubs-restaurants-theatres>)
+
 - **Spedizione 10–50× Codice in più?Guarda questo webinar su come garantire lo sviluppo con velocità dell'intelligenza artificiale**  
   Fonte: The Hacker News, 10 Aug 2026, 17:29:17 UTC  
   [Leggi](<https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html>)
@@ -242,9 +246,5 @@
   Fonte: The Hacker News, 10 Aug 2026, 07:38:23 UTC  
   [Leggi](<https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html>)
 
-- **Il prossimo modello di intelligenza artificiale di OpenAI, Astra, mostra prestazioni informatiche sufficientemente forti da attivare la pausa**  
-  Fonte: The Hacker News, 10 Aug 2026, 05:50:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-08-16 06:22:24 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-17 06:34:38 UTC -->
