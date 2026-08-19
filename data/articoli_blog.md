@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **Comcast trasforma il tuo WiFi Xfinity in un rilevatore di movimento domestico**  
+  Fonte: BleepingComputer, 18 Aug 2026, 20:14:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/>)
+
+- **I difetti personali di Microsoft Copilot potrebbero consentire con un clic di estrarre dati dalle app connesse**  
+  Fonte: The Hacker News, 18 Aug 2026, 17:47:22 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html>)
+
+- **Gli aggressori sfruttano la falla SSRF di MLflow per rubare credenziali e segreti del cloud**  
+  Fonte: The Hacker News, 18 Aug 2026, 17:44:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html>)
+
+- **Clop ha creato una web shell personalizzata per gli attacchi di furto di dati Windchill**  
+  Fonte: BleepingComputer, 18 Aug 2026, 17:29:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/>)
+
+- **Ransom Busters sostiene di aver violato i server ransomware e chiede alle vittime fino a $ 60.000**  
+  Fonte: The Hacker News, 18 Aug 2026, 16:58:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html>)
+
+- **I tuoi controlli bloccano gli attacchi noti.E il comportamento?**  
+  Fonte: BleepingComputer, 18 Aug 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/>)
+
+- **I "virus mentali" dell'intelligenza artificiale possono diffondersi tra gli agenti attraverso file di prompt persistenti**  
+  Fonte: The Hacker News, 18 Aug 2026, 12:38:36 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html>)
+
+- **TWINLOOT abusa di SharePoint e Teams per rubare credenziali e spostarsi attraverso le reti**  
+  Fonte: The Hacker News, 18 Aug 2026, 12:38:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html>)
+
+- **Un aggressore ha distrutto entrambi i portali Salesforce e ServiceNow dal 2025**  
+  Fonte: The Hacker News, 18 Aug 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html>)
+
+- **16 pacchetti RubyGems contenenti errori di battitura rubano credenziali del browser e portafogli crittografici**  
+  Fonte: The Hacker News, 18 Aug 2026, 11:20:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html>)
+
+- **Microsoft testa Esplora file di Windows più veloce e nuovo menu contestuale**  
+  Fonte: BleepingComputer, 18 Aug 2026, 11:14:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/>)
+
+- **LLM e integrità contestuale**  
+  Fonte: Schneier on Security, 18 Aug 2026, 10:40:16 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html>)
+
+- **CISA: falla di Windows Task Host ora sfruttata dalle bande di ransomware**  
+  Fonte: BleepingComputer, 18 Aug 2026, 10:32:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/>)
+
+- **Microsoft conferma un'interruzione che influisce sulla ricerca nelle app Microsoft 365**  
+  Fonte: BleepingComputer, 18 Aug 2026, 09:24:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/>)
+
+- **SafePal Hardware Wallet Maker afferma che i dati esposti a difetti di quasi 40.000 clienti**  
+  Fonte: The Hacker News, 18 Aug 2026, 09:10:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html>)
+
+- **Microsoft inizia a rimuovere lo strumento WMIC utilizzato dai criminali informatici**  
+  Fonte: BleepingComputer, 18 Aug 2026, 08:12:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/>)
+
+- **CISA segnala Ray Flaw attivamente sfruttato che può attivare RCE basato su browser**  
+  Fonte: The Hacker News, 18 Aug 2026, 06:34:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html>)
+
 - **Aggiornamento settimanale 517: riscatti informatici**  
   Fonte: Troy Hunt, 18 Aug 2026, 03:44:58 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-517/>)
@@ -82,26 +150,6 @@
   Fonte: The Hacker News, 17 Aug 2026, 07:36:19 UTC  
   [Leggi](<https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html>)
 
-- **La violazione dei dati SafePal colpisce 39.798 clienti, informazioni rubate in vendita**  
-  Fonte: BleepingComputer, 16 Aug 2026, 23:47:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/>)
-
-- **Anthropic conferma che Claude è inattivo per una grave interruzione che interessa più servizi**  
-  Fonte: BleepingComputer, 16 Aug 2026, 22:28:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/>)
-
-- **Attacchi DDoS su larga scala hanno interrotto il servizio di messaggistica sicura Threema**  
-  Fonte: BleepingComputer, 16 Aug 2026, 17:29:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/>)
-
-- **Il nuovo malware macOS AmnesiaStealer dirotta le sessioni del browser tramite controllo remoto**  
-  Fonte: BleepingComputer, 16 Aug 2026, 15:07:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/>)
-
-- **La nuova botnet Linux Evooo1Bot trasforma i router in nodi di inoltro del traffico**  
-  Fonte: BleepingComputer, 15 Aug 2026, 14:14:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/>)
-
 - **SAP Commerce Cloud CVE-2026-58231 preso di mira da tentativi di sfruttamento giorni dopo la patch**  
   Fonte: The Hacker News, 15 Aug 2026, 08:38:46 UTC  
   [Leggi](<https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html>)
@@ -110,10 +158,6 @@
   Fonte: The Hacker News, 15 Aug 2026, 07:24:04 UTC  
   [Leggi](<https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html>)
 
-- **Come Anthropic intende filigranare il testo generato dall'intelligenza artificiale di Claude**  
-  Fonte: BleepingComputer, 14 Aug 2026, 23:24:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/>)
-
 - **Blog sui calamari del venerdì: alla ricerca del calamaro colossale**  
   Fonte: Schneier on Security, 14 Aug 2026, 21:01:49 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html>)
@@ -121,10 +165,6 @@
 - **Gli hacker spendono quasi 7 milioni di dollari in domini scaduti per reindirizzare il traffico verso truffe e malware**  
   Fonte: The Hacker News, 14 Aug 2026, 18:48:46 UTC  
   [Leggi](<https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html>)
-
-- **Gli hacker hanno arrestato una frode bancaria da oltre 30 milioni di euro sfruttando la falla del fornitore di servizi**  
-  Fonte: BleepingComputer, 14 Aug 2026, 18:04:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/>)
 
 - **Requisiti di conformità IAM e best practice**  
   Fonte: The Hacker News, 14 Aug 2026, 17:19:49 UTC  
@@ -246,77 +286,5 @@
   Fonte: The Hacker News, 12 Aug 2026, 06:41:38 UTC  
   [Leggi](<https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html>)
 
-- **I difetti Cisco ASA e FTD sfruttati in natura possono innescare attacchi DoS remoti**  
-  Fonte: The Hacker News, 12 Aug 2026, 06:15:58 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html>)
 
-- **Microsoft risolve quasi 400 buchi di sicurezza**  
-  Fonte: Krebs on Security, 11 Aug 2026, 21:28:35 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/>)
-
-- **Microsoft corregge 398 difetti, incluso un driver Windows Zero-Day sotto attacco attivo**  
-  Fonte: The Hacker News, 11 Aug 2026, 20:10:55 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html>)
-
-- **La botnet Android Kimwolf v7 fa sembrare il traffico DDoS HTTP/2 una navigazione legittima**  
-  Fonte: The Hacker News, 11 Aug 2026, 19:36:37 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html>)
-
-- **I difetti nell'annotazione dello zoom potrebbero consentire a un partecipante alla riunione di dirottare il client di un altro partecipante**  
-  Fonte: The Hacker News, 11 Aug 2026, 19:08:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html>)
-
-- **UAC-0145 collegato a Sandworm utilizza colloqui di lavoro falsi per inviare VPN in grado di eseguire comandi**  
-  Fonte: The Hacker News, 11 Aug 2026, 18:36:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html>)
-
-- **I ricercatori rivelano che la catena di exploit di SharePoint assistita dall'intelligenza artificiale ha raggiunto RCE non autenticati**  
-  Fonte: The Hacker News, 11 Aug 2026, 16:47:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html>)
-
-- **Il ransomware DeadLock utilizza i contratti intelligenti Polygon per rendere l'infrastruttura di estorsione più difficile da interrompere**  
-  Fonte: The Hacker News, 11 Aug 2026, 16:35:27 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html>)
-
-- **Genio dell'IA allo stato brado**  
-  Fonte: Schneier on Security, 11 Aug 2026, 15:55:11 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html>)
-
-- **OpenAI lancia GPT-5.6-Cyber ​​con protezioni ridotte per lo sviluppo di exploit**  
-  Fonte: The Hacker News, 11 Aug 2026, 13:11:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html>)
-
-- **Una scheda SIM dannosa può eseguire codice di un utente malintenzionato all'interno dei modem dietro i dispositivi IoT cellulari**  
-  Fonte: The Hacker News, 11 Aug 2026, 12:05:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html>)
-
-- **Mozilla revoca la chiave di firma di Firefox e Thunderbird Linux dopo che la chiave è arrivata nel repository privato**  
-  Fonte: The Hacker News, 11 Aug 2026, 12:04:51 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html>)
-
-- **I ricercatori hanno creato una falsa startup di criptovaluta e hanno assunto tre sospetti lavoratori IT nordcoreani**  
-  Fonte: The Hacker News, 11 Aug 2026, 11:35:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html>)
-
-- **IA per il supporto militare**  
-  Fonte: Schneier on Security, 11 Aug 2026, 11:18:07 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html>)
-
-- **I ricercatori trasformano l'installazione automatica USB in un'acquisizione completa del SISTEMA su Windows 11**  
-  Fonte: The Hacker News, 11 Aug 2026, 10:48:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html>)
-
-- **I server MCP dannosi possono dividere le istruzioni per far sì che gli agenti di codifica AI estraggano i segreti**  
-  Fonte: The Hacker News, 11 Aug 2026, 10:24:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html>)
-
-- **Gunra Ransomware sfrutta i difetti Fortinet FortiOS e FortiProxy per violare le reti**  
-  Fonte: The Hacker News, 11 Aug 2026, 09:16:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html>)
-
-- **Gli hacker violano i controlli delle centrali elettriche polacche tramite la rete cellulare privata e chiudono la turbina**  
-  Fonte: The Hacker News, 11 Aug 2026, 06:55:45 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-08-18 06:26:07 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-19 06:26:18 UTC -->
