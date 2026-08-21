@@ -2,6 +2,106 @@
 
 ## Ultimi 7 giorni
 
+- **L'attacco alla catena di fornitura Rust mette in casse malware in fase di creazione con 245 milioni di download**  
+  Fonte: The Hacker News, 20 Aug 2026, 20:22:35 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html>)
+
+- **Presunti hacker russi abusano di Google OAuth e WhatsApp collegandosi ad account dirottati**  
+  Fonte: The Hacker News, 20 Aug 2026, 19:59:19 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html>)
+
+- **Gli hacker avvelenano arrayref Rust crate per diffondere malware infostealer**  
+  Fonte: BleepingComputer, 20 Aug 2026, 17:53:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/>)
+
+- **Cronologia dettagliata dell'attacco informatico di OpenAI su Hugging Face**  
+  Fonte: Schneier on Security, 20 Aug 2026, 17:44:36 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html>)
+
+- **ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More**  
+  Fonte: The Hacker News, 20 Aug 2026, 17:23:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html>)
+
+- **Gli script di exploit generati dall'intelligenza artificiale prendono di mira i PLC Siemens S7 nelle infrastrutture critiche degli Stati Uniti**  
+  Fonte: The Hacker News, 20 Aug 2026, 16:59:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html>)
+
+- **Il bug critico di Elementor Pro espone i siti WordPress agli attacchi RCE**  
+  Fonte: BleepingComputer, 20 Aug 2026, 14:39:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/>)
+
+- **Un nuovo attacco di iniezione del contesto crittografico potrebbe consentire alle pagine Web di rubare i dati della chat di Grok**  
+  Fonte: The Hacker News, 20 Aug 2026, 14:36:27 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/new-cryptographic-context-injection.html>)
+
+- **Come gli MSP possono intercettare gli attacchi di phishing che i filtri email non riescono a individuare**  
+  Fonte: BleepingComputer, 20 Aug 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/>)
+
+- **Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE**  
+  Fonte: The Hacker News, 20 Aug 2026, 13:48:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html>)
+
+- **Un difetto critico di NetScaler può ignorare l'autenticazione su determinati gateway e server AAA**  
+  Fonte: The Hacker News, 20 Aug 2026, 13:35:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html>)
+
+- **Gli aggressori sfruttano la falla SNMP di Zimbra per l'esecuzione di codice remoto non autenticato**  
+  Fonte: The Hacker News, 20 Aug 2026, 13:24:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html>)
+
+- **Citrix esorta gli amministratori a correggere i nuovi difetti di NetScaler il prima possibile**  
+  Fonte: BleepingComputer, 20 Aug 2026, 12:14:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/>)
+
+- **L'attacco delle carte zombi può far rivivere le carte Visa scadute per i pagamenti contactless**  
+  Fonte: The Hacker News, 20 Aug 2026, 12:01:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html>)
+
+- **Perché l'"intelligenza artificiale oscura" è il prossimo grande problema di governance della sicurezza**  
+  Fonte: The Hacker News, 20 Aug 2026, 11:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html>)
+
+- **L'attacco Tsunami CDN abusa della traduzione HTTP/3 per un'amplificazione DoS fino a 350x**  
+  Fonte: The Hacker News, 20 Aug 2026, 11:39:35 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html>)
+
+- **Il malware Android Manic esfiltra i dati dai telefoni offline tramite i dispositivi infetti nelle vicinanze**  
+  Fonte: The Hacker News, 20 Aug 2026, 11:26:08 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html>)
+
+- **CISA mette in guardia dagli hacker che sfruttano la vulnerabilità critica di MLflow**  
+  Fonte: BleepingComputer, 20 Aug 2026, 11:06:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/>)
+
+- **I difetti della AIT-GUI della NASA potrebbero consentire ad aggressori non autenticati di impartire comandi ai veicoli spaziali**  
+  Fonte: The Hacker News, 20 Aug 2026, 11:05:11 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html>)
+
+- **ToxicPanda 2.0 e GoldDigger espandono gli attacchi bancari Android con frodi sul dispositivo**  
+  Fonte: The Hacker News, 20 Aug 2026, 10:38:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html>)
+
+- **Il nuovo malware Manic Android può esfiltrare dati attraverso i dispositivi vicini**  
+  Fonte: BleepingComputer, 20 Aug 2026, 10:02:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/>)
+
+- **La polizia nasconde l'uso delle telecamere di sorveglianza dello stormo**  
+  Fonte: Schneier on Security, 20 Aug 2026, 09:48:55 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html>)
+
+- **Difetto critico di Zimbra RCE ora sfruttato attivamente negli attacchi**  
+  Fonte: BleepingComputer, 20 Aug 2026, 09:46:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/>)
+
+- **40 estensioni dannose di Firefox si presentano come prodotti Web3 per rubare i segreti del portafoglio**  
+  Fonte: The Hacker News, 20 Aug 2026, 08:42:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html>)
+
+- **Microsoft afferma che gli aggiornamenti di Windows di agosto potrebbero causare problemi di gioco**  
+  Fonte: BleepingComputer, 20 Aug 2026, 06:51:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/>)
+
 - **Il difetto di Elementor Pro potrebbe consentire agli aggressori non autenticati di caricare PHP ed eseguire codice**  
   Fonte: The Hacker News, 20 Aug 2026, 06:04:34 UTC  
   [Leggi](<https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html>)
@@ -26,7 +126,7 @@
   Fonte: BleepingComputer, 19 Aug 2026, 20:07:12 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/>)
 
-- **L'attacco Spectre dei lavoratori di Cloudflare fa trapelare JWT dal lavoratore co-localizzato a 12 bit al secondo**  
+- **Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second**  
   Fonte: The Hacker News, 19 Aug 2026, 19:02:40 UTC  
   [Leggi](<https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html>)
 
@@ -46,10 +146,6 @@
   Fonte: BleepingComputer, 19 Aug 2026, 15:56:09 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/>)
 
-- **Gli attacchi di password spraying aumentano di 155 volte poiché gli hacker sfruttano le lacune dell'MFA**  
-  Fonte: BleepingComputer, 19 Aug 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/>)
-
 - **La campagna di spionaggio SilkParasite prende di mira i governi dell’Asia centrale con cinque nuovi RAT**  
   Fonte: The Hacker News, 19 Aug 2026, 13:12:17 UTC  
   [Leggi](<https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html>)
@@ -66,10 +162,6 @@
   Fonte: The Hacker News, 19 Aug 2026, 11:25:28 UTC  
   [Leggi](<https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html>)
 
-- **Microsoft risolve il problema noto che causava l'arresto anomalo di Windows Defender**  
-  Fonte: BleepingComputer, 19 Aug 2026, 11:14:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/>)
-
 - **Difetti critici di macOS, SharePoint, vCenter e Microsoft IKE durante lo sfruttamento attivo**  
   Fonte: The Hacker News, 19 Aug 2026, 11:01:48 UTC  
   [Leggi](<https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html>)
@@ -78,33 +170,17 @@
   Fonte: Schneier on Security, 19 Aug 2026, 10:46:37 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html>)
 
-- **Difetto RCE critico nell'estensione IKE di Windows ora sfruttato attivamente**  
-  Fonte: BleepingComputer, 19 Aug 2026, 10:12:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/>)
-
-- **Windows 11 24H2 Home e Pro raggiungeranno la fine del supporto tra 2 mesi**  
-  Fonte: BleepingComputer, 19 Aug 2026, 09:10:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/>)
-
-- **CISA: il ransomware Medusa ha colpito oltre 500 organizzazioni con infrastrutture critiche**  
-  Fonte: BleepingComputer, 19 Aug 2026, 08:00:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/>)
-
-- **Prison for data analyst who tried to extort $2.5 million from his employer**  
+- **Prigione per un analista di dati che ha tentato di estorcere 2,5 milioni di dollari al suo datore di lavoro**  
   Fonte: Graham Cluley, 19 Aug 2026, 07:26:50 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/prison-data-analyst-extort-employer>)
 
-- **Microsoft collega oltre 30 domini rotanti all'infrastruttura Stealer MacSync**  
+- **Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure**  
   Fonte: The Hacker News, 19 Aug 2026, 06:01:53 UTC  
   [Leggi](<https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html>)
 
 - **Windchill Web Shell collegato a Clop decodifica le credenziali e mappa i dati di progettazione**  
   Fonte: The Hacker News, 19 Aug 2026, 05:39:25 UTC  
   [Leggi](<https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html>)
-
-- **Comcast trasforma il tuo WiFi Xfinity in un rilevatore di movimento domestico**  
-  Fonte: BleepingComputer, 18 Aug 2026, 20:14:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/>)
 
 - **I difetti personali di Microsoft Copilot potrebbero consentire con un clic di estrarre dati dalle app connesse**  
   Fonte: The Hacker News, 18 Aug 2026, 17:47:22 UTC  
@@ -114,19 +190,11 @@
   Fonte: The Hacker News, 18 Aug 2026, 17:44:05 UTC  
   [Leggi](<https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html>)
 
-- **Clop ha creato una web shell personalizzata per gli attacchi di furto di dati Windchill**  
-  Fonte: BleepingComputer, 18 Aug 2026, 17:29:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/>)
-
 - **Ransom Busters sostiene di aver violato i server ransomware e chiede alle vittime fino a $ 60.000**  
   Fonte: The Hacker News, 18 Aug 2026, 16:58:16 UTC  
   [Leggi](<https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html>)
 
-- **I tuoi controlli bloccano gli attacchi noti.E il comportamento?**  
-  Fonte: BleepingComputer, 18 Aug 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/>)
-
-- **I "virus mentali" dell'intelligenza artificiale possono diffondersi tra gli agenti attraverso file di prompt persistenti**  
+- **I "virus mentali" dell'intelligenza artificiale possono diffondersi tra gli agenti tramite file di prompt persistenti**  
   Fonte: The Hacker News, 18 Aug 2026, 12:38:36 UTC  
   [Leggi](<https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html>)
 
@@ -226,7 +294,7 @@
   Fonte: Schneier on Security, 14 Aug 2026, 16:01:59 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html>)
 
-- **Mustang Panda aggiunge il rootkit di Windows firmato a CoolClient Backdoor for Stealth**  
+- **Mustang Panda aggiunge il rootkit di Windows firmato alla backdoor CoolClient per Stealth**  
   Fonte: The Hacker News, 14 Aug 2026, 13:08:56 UTC  
   [Leggi](<https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html>)
 
@@ -246,45 +314,5 @@
   Fonte: The Hacker News, 14 Aug 2026, 10:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/08/ctm360-uncovers-over-3000-recruitment.html>)
 
-- **Apple avverte gli utenti di 110 paesi che potrebbero essere bersagli di spyware mercenari**  
-  Fonte: The Hacker News, 14 Aug 2026, 10:44:34 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html>)
 
-- **La nota di Trump apre la strada alle aziende statunitensi per hackerare e smantellare gruppi criminali stranieri**  
-  Fonte: The Hacker News, 14 Aug 2026, 09:38:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/trump-memo-paves-way-for-us-firms-to.html>)
-
-- **Jewelbug, collegato alla Cina, utilizza XG-Web per lo spionaggio governativo e le frodi crittografiche**  
-  Fonte: The Hacker News, 14 Aug 2026, 07:54:18 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html>)
-
-- **GeoServer Zero-Day preso di mira nei tentativi di sfruttamento attivo, può portare a RCE**  
-  Fonte: The Hacker News, 13 Aug 2026, 18:45:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html>)
-
-- **ThreatsDay: attacchi AI GhostJacking, ClickFix EtherHiding, difetto CLI del cursore e altre 17 storie**  
-  Fonte: The Hacker News, 13 Aug 2026, 18:17:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html>)
-
-- **La nuova backdoor PATCHCORD prende di mira le telecomunicazioni afghane e le infrastrutture critiche indiane**  
-  Fonte: The Hacker News, 13 Aug 2026, 15:00:29 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/new-patchcord-backdoor-targets-afghan.html>)
-
-- **AmnesiaStealer dirotta le sessioni di Chromium per offrire agli aggressori il controllo del browser in tempo reale su macOS**  
-  Fonte: The Hacker News, 13 Aug 2026, 13:43:14 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/amnesiastealer-hijacks-chromium.html>)
-
-- **Il malware Android WindRelay trasforma i telefoni delle vittime in relè NFC per frodi nei pagamenti**  
-  Fonte: The Hacker News, 13 Aug 2026, 11:53:14 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/windrelay-android-malware-turns-victims.html>)
-
-- **I lavoratori a distanza nordcoreani si stanno infiltrando nel governo e nelle imprese: come smascherarli prima di assumerli**  
-  Fonte: The Hacker News, 13 Aug 2026, 11:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/north-korean-remote-workers-are.html>)
-
-- **Separare i problemi tecnologici dell’intelligenza artificiale dai problemi del capitalismo**  
-  Fonte: Schneier on Security, 13 Aug 2026, 11:07:19 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-08-20 06:28:28 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-21 06:30:03 UTC -->
