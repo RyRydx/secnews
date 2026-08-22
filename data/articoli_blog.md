@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: calamari volanti al neon**  
+  Fonte: Schneier on Security, 21 Aug 2026, 21:07:20 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html>)
+
+- **14 pacchetti npm con trojan rilasciano la backdoor Linux RedC2 4.0 con C2 assistito dall'intelligenza artificiale**  
+  Fonte: The Hacker News, 21 Aug 2026, 18:53:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html>)
+
+- **Il nuovo malware SynkLoader è stato inserito nella campagna di phishing di Microsoft Teams**  
+  Fonte: BleepingComputer, 21 Aug 2026, 18:01:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/>)
+
+- **L'intelligenza artificiale sta imparando a scrivere il codice genetico**  
+  Fonte: Schneier on Security, 21 Aug 2026, 16:51:50 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html>)
+
+- **Centinaia di chiavi AWS trapelate danno il pieno controllo sugli account aziendali**  
+  Fonte: BleepingComputer, 21 Aug 2026, 15:55:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/>)
+
+- **Il driver di Microsoft Defender può essere utilizzato come arma per eliminare il software di sicurezza all'avvio**  
+  Fonte: The Hacker News, 21 Aug 2026, 15:52:10 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html>)
+
+- **Il malware per auto Android si diffonde attraverso gli aggiornamenti integrati per frodi pubblicitarie e botnet proxy**  
+  Fonte: The Hacker News, 21 Aug 2026, 15:41:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/android-car-malware-spreads-through.html>)
+
+- **Microsoft incolpa i problemi di gioco di Windows sui dispositivi di illuminazione RGB**  
+  Fonte: BleepingComputer, 21 Aug 2026, 14:54:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/>)
+
+- **La privacy online è possibile?Come le identità digitali possono aiutare**  
+  Fonte: BleepingComputer, 21 Aug 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/>)
+
+- **Microsoft lancia il tema Classic Outlook per i nuovi utenti di Outlook**  
+  Fonte: BleepingComputer, 21 Aug 2026, 13:39:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/>)
+
+- **La CISA ordina ai federali di correggere i difetti del server TrueConf attivamente sfruttati**  
+  Fonte: BleepingComputer, 21 Aug 2026, 12:25:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/>)
+
+- **Wazuh e intelligenza artificiale per flussi di lavoro SOC migliorati**  
+  Fonte: The Hacker News, 21 Aug 2026, 11:21:39 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html>)
+
+- **Microsoft avverte della vulnerabilità Entra ID di massima gravità sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 21 Aug 2026, 11:04:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/>)
+
+- **Gli hacker abusano dei banner dei server FTP per distribuire nuovo malware Windows**  
+  Fonte: BleepingComputer, 21 Aug 2026, 11:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/>)
+
+- **La violazione dei dati di SickKids espone informazioni su dipendenti e candidati al lavoro**  
+  Fonte: BleepingComputer, 21 Aug 2026, 10:10:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/>)
+
+- **Cisco risolve nove difetti nel crosswork e nel carico di lavoro sicuro, cinque punteggi CVSS 10.0**  
+  Fonte: The Hacker News, 21 Aug 2026, 10:03:11 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html>)
+
+- **Altri casi di IA che diventano disonesti nelle sfide della sicurezza informatica**  
+  Fonte: Schneier on Security, 21 Aug 2026, 09:42:34 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html>)
+
+- **GitLab CVE-2026-19478 viene sfruttato attivamente entro pochi giorni dalla divulgazione**  
+  Fonte: The Hacker News, 21 Aug 2026, 07:04:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html>)
+
+- **Microsoft risolve un grave difetto dell'ID Entra (CVSS 10.0) consentendo l'esecuzione di codice in modalità remota**  
+  Fonte: The Hacker News, 21 Aug 2026, 06:06:11 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html>)
+
 - **L'attacco alla catena di fornitura Rust mette in casse malware in fase di creazione con 245 milioni di download**  
   Fonte: The Hacker News, 20 Aug 2026, 20:22:35 UTC  
   [Leggi](<https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html>)
@@ -18,7 +94,7 @@
   Fonte: Schneier on Security, 20 Aug 2026, 17:44:36 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html>)
 
-- **ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More**  
+- **ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, ricompensa da 10 milioni di dollari, exploit GLM-5.3 AI e altro ancora**  
   Fonte: The Hacker News, 20 Aug 2026, 17:23:48 UTC  
   [Leggi](<https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html>)
 
@@ -38,7 +114,7 @@
   Fonte: BleepingComputer, 20 Aug 2026, 14:01:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/>)
 
-- **Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE**  
+- **Il difetto isolato-vm consente la fuga di JavaScript in modalità sandbox nell'host per un potenziale RCE**  
   Fonte: The Hacker News, 20 Aug 2026, 13:48:24 UTC  
   [Leggi](<https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html>)
 
@@ -90,61 +166,25 @@
   Fonte: Schneier on Security, 20 Aug 2026, 09:48:55 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html>)
 
-- **Difetto critico di Zimbra RCE ora sfruttato attivamente negli attacchi**  
-  Fonte: BleepingComputer, 20 Aug 2026, 09:46:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/>)
-
 - **40 estensioni dannose di Firefox si presentano come prodotti Web3 per rubare i segreti del portafoglio**  
   Fonte: The Hacker News, 20 Aug 2026, 08:42:03 UTC  
   [Leggi](<https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html>)
-
-- **Microsoft afferma che gli aggiornamenti di Windows di agosto potrebbero causare problemi di gioco**  
-  Fonte: BleepingComputer, 20 Aug 2026, 06:51:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/>)
 
 - **Il difetto di Elementor Pro potrebbe consentire agli aggressori non autenticati di caricare PHP ed eseguire codice**  
   Fonte: The Hacker News, 20 Aug 2026, 06:04:34 UTC  
   [Leggi](<https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html>)
 
-- **OpenAI conferma che ChatGPT non è attivo poiché gli accessi e le registrazioni non riescono**  
-  Fonte: BleepingComputer, 20 Aug 2026, 00:20:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/>)
-
 - **Podcast di Smashing Security n. 481: Non dirlo mai a un cane robot**  
   Fonte: Graham Cluley, 19 Aug 2026, 23:10:23 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-481/>)
 
-- **L'affiliato ransomware canaglia si finge società di recupero per rubare i pagamenti**  
-  Fonte: BleepingComputer, 19 Aug 2026, 20:59:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/>)
-
-- **L'hacking di Sakura Internet espone i dati di un massimo di 1,36 milioni di account**  
-  Fonte: BleepingComputer, 19 Aug 2026, 20:53:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/>)
-
-- **La violazione dei dati dell’azienda sanitaria CareCloud colpisce 3,7 milioni di pazienti**  
-  Fonte: BleepingComputer, 19 Aug 2026, 20:07:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/>)
-
-- **Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second**  
+- **L'attacco Spectre dei lavoratori di Cloudflare fa trapelare JWT dal lavoratore co-localizzato a 12 bit al secondo**  
   Fonte: The Hacker News, 19 Aug 2026, 19:02:40 UTC  
   [Leggi](<https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html>)
-
-- **Gli hacker hanno compromesso 14.500 webcam Dahua in una campagna durata 35 giorni**  
-  Fonte: BleepingComputer, 19 Aug 2026, 18:09:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/>)
 
 - **OpenAI sospende l'addestramento di Frontier RL mentre rafforza le difese contro comportamenti non sicuri dell'IA**  
   Fonte: The Hacker News, 19 Aug 2026, 18:06:44 UTC  
   [Leggi](<https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html>)
-
-- **Gli Stati Uniti avvertono di attacchi basati sull’intelligenza artificiale contro i PLC Siemens nelle infrastrutture critiche**  
-  Fonte: BleepingComputer, 19 Aug 2026, 17:50:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/>)
-
-- **Gli Stati Uniti accusano gli hacker iraniani di furto di proprietà intellettuale per oltre 3,4 miliardi di dollari**  
-  Fonte: BleepingComputer, 19 Aug 2026, 15:56:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/>)
 
 - **La campagna di spionaggio SilkParasite prende di mira i governi dell’Asia centrale con cinque nuovi RAT**  
   Fonte: The Hacker News, 19 Aug 2026, 13:12:17 UTC  
@@ -174,7 +214,7 @@
   Fonte: Graham Cluley, 19 Aug 2026, 07:26:50 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/prison-data-analyst-extort-employer>)
 
-- **Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure**  
+- **Microsoft collega oltre 30 domini rotanti all'infrastruttura Stealer MacSync**  
   Fonte: The Hacker News, 19 Aug 2026, 06:01:53 UTC  
   [Leggi](<https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html>)
 
@@ -194,7 +234,7 @@
   Fonte: The Hacker News, 18 Aug 2026, 16:58:16 UTC  
   [Leggi](<https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html>)
 
-- **I "virus mentali" dell'intelligenza artificiale possono diffondersi tra gli agenti tramite file di prompt persistenti**  
+- **I "virus mentali" dell'intelligenza artificiale possono diffondersi tra gli agenti attraverso file di prompt persistenti**  
   Fonte: The Hacker News, 18 Aug 2026, 12:38:36 UTC  
   [Leggi](<https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html>)
 
@@ -270,49 +310,5 @@
   Fonte: The Hacker News, 17 Aug 2026, 07:36:19 UTC  
   [Leggi](<https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html>)
 
-- **SAP Commerce Cloud CVE-2026-58231 preso di mira da tentativi di sfruttamento giorni dopo la patch**  
-  Fonte: The Hacker News, 15 Aug 2026, 08:38:46 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html>)
 
-- **Difetto di condivisione dello schermo di Apple macOS sfruttato sui Mac esposti a Internet per installare Monero Miner**  
-  Fonte: The Hacker News, 15 Aug 2026, 07:24:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html>)
-
-- **Blog sui calamari del venerdì: alla ricerca del calamaro colossale**  
-  Fonte: Schneier on Security, 14 Aug 2026, 21:01:49 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html>)
-
-- **Gli hacker spendono quasi 7 milioni di dollari in domini scaduti per reindirizzare il traffico verso truffe e malware**  
-  Fonte: The Hacker News, 14 Aug 2026, 18:48:46 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html>)
-
-- **Requisiti di conformità IAM e best practice**  
-  Fonte: The Hacker News, 14 Aug 2026, 17:19:49 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html>)
-
-- **Prossimi impegni di conferenza**  
-  Fonte: Schneier on Security, 14 Aug 2026, 16:01:59 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html>)
-
-- **Mustang Panda aggiunge il rootkit di Windows firmato alla backdoor CoolClient per Stealth**  
-  Fonte: The Hacker News, 14 Aug 2026, 13:08:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html>)
-
-- **Chi ti sta seguendo?Utilizza questo nuovo servizio per scoprirlo**  
-  Fonte: Krebs on Security, 14 Aug 2026, 11:24:35 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/>)
-
-- **La tecnica Chrome DevTools consente il dirottamento della sessione autenticata nei browser Windows attivi**  
-  Fonte: The Hacker News, 14 Aug 2026, 11:07:45 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html>)
-
-- **Se i mercati rifiutassero OpenAI e Anthropic, gli Stati Uniti dovrebbero nazionalizzarli**  
-  Fonte: Schneier on Security, 14 Aug 2026, 11:03:50 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html>)
-
-- **CTM360 scopre oltre 3.000 URL di phishing di reclutamento utilizzando trappole di credenziali Browser-in-the-Browser (BitB)**  
-  Fonte: The Hacker News, 14 Aug 2026, 10:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/ctm360-uncovers-over-3000-recruitment.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-08-21 06:30:03 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-22 06:22:14 UTC -->
