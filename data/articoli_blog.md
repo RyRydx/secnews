@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **TikTok accetta un accordo da 400 milioni di dollari nella causa statunitense sulla privacy dei minori**  
+  Fonte: The Hacker News, 22 Aug 2026, 14:32:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html>)
+
+- **Gli hacker infettano le unità principali delle auto Android con malware botnet proxy**  
+  Fonte: BleepingComputer, 22 Aug 2026, 14:14:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/>)
+
+- **Named Pipes sotto attacco: protezione della comunicazione tra processi Windows**  
+  Fonte: BleepingComputer, 22 Aug 2026, 13:00:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/>)
+
 - **Blog sui calamari del venerdì: calamari volanti al neon**  
   Fonte: Schneier on Security, 21 Aug 2026, 21:07:20 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html>)
@@ -50,7 +62,7 @@
   Fonte: The Hacker News, 21 Aug 2026, 11:21:39 UTC  
   [Leggi](<https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html>)
 
-- **Microsoft avverte della vulnerabilità Entra ID di massima gravità sfruttata negli attacchi**  
+- **Microsoft corregge l'esecuzione del codice di gravità massima e i difetti di escalation dei privilegi**  
   Fonte: BleepingComputer, 21 Aug 2026, 11:04:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/>)
 
@@ -138,17 +150,13 @@
   Fonte: The Hacker News, 20 Aug 2026, 11:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html>)
 
-- **L'attacco Tsunami CDN abusa della traduzione HTTP/3 per un'amplificazione DoS fino a 350x**  
+- **L'attacco Tsunami del CDN abusa della traduzione HTTP/3 per un'amplificazione DoS fino a 350x**  
   Fonte: The Hacker News, 20 Aug 2026, 11:39:35 UTC  
   [Leggi](<https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html>)
 
 - **Il malware Android Manic esfiltra i dati dai telefoni offline tramite i dispositivi infetti nelle vicinanze**  
   Fonte: The Hacker News, 20 Aug 2026, 11:26:08 UTC  
   [Leggi](<https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html>)
-
-- **CISA mette in guardia dagli hacker che sfruttano la vulnerabilità critica di MLflow**  
-  Fonte: BleepingComputer, 20 Aug 2026, 11:06:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/>)
 
 - **I difetti della AIT-GUI della NASA potrebbero consentire ad aggressori non autenticati di impartire comandi ai veicoli spaziali**  
   Fonte: The Hacker News, 20 Aug 2026, 11:05:11 UTC  
@@ -157,10 +165,6 @@
 - **ToxicPanda 2.0 e GoldDigger espandono gli attacchi bancari Android con frodi sul dispositivo**  
   Fonte: The Hacker News, 20 Aug 2026, 10:38:28 UTC  
   [Leggi](<https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html>)
-
-- **Il nuovo malware Manic Android può esfiltrare dati attraverso i dispositivi vicini**  
-  Fonte: BleepingComputer, 20 Aug 2026, 10:02:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/>)
 
 - **La polizia nasconde l'uso delle telecamere di sorveglianza dello stormo**  
   Fonte: Schneier on Security, 20 Aug 2026, 09:48:55 UTC  
@@ -178,7 +182,7 @@
   Fonte: Graham Cluley, 19 Aug 2026, 23:10:23 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-481/>)
 
-- **L'attacco Spectre dei lavoratori di Cloudflare fa trapelare JWT dal lavoratore co-localizzato a 12 bit al secondo**  
+- **L'attacco Spectre dei lavoratori di Cloudflare fa trapelare JWT dal lavoratore co-localizzato a 12 bit/secondo**  
   Fonte: The Hacker News, 19 Aug 2026, 19:02:40 UTC  
   [Leggi](<https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html>)
 
@@ -234,7 +238,7 @@
   Fonte: The Hacker News, 18 Aug 2026, 16:58:16 UTC  
   [Leggi](<https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html>)
 
-- **I "virus mentali" dell'intelligenza artificiale possono diffondersi tra gli agenti attraverso file di prompt persistenti**  
+- **I "virus mentali" dell'intelligenza artificiale possono diffondersi tra gli agenti tramite file di prompt persistenti**  
   Fonte: The Hacker News, 18 Aug 2026, 12:38:36 UTC  
   [Leggi](<https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html>)
 
@@ -242,7 +246,7 @@
   Fonte: The Hacker News, 18 Aug 2026, 12:38:20 UTC  
   [Leggi](<https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html>)
 
-- **Un aggressore ha distrutto entrambi i portali Salesforce e ServiceNow dal 2025**  
+- **Un utente malintenzionato ha distrutto entrambi i portali Salesforce e ServiceNow dal 2025**  
   Fonte: The Hacker News, 18 Aug 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html>)
 
@@ -306,9 +310,5 @@
   Fonte: The Hacker News, 17 Aug 2026, 09:29:55 UTC  
   [Leggi](<https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html>)
 
-- **Il presunto attore China-Nexus sfrutta il difetto di VMware vCenter e distribuisce ransomware derivato da Babuk**  
-  Fonte: The Hacker News, 17 Aug 2026, 07:36:19 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-08-22 06:22:14 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-23 06:24:46 UTC -->
