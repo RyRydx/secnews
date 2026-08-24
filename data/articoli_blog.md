@@ -2,6 +2,18 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 518: IoT Doorlock Nirvana con UniFi**  
+  Fonte: Troy Hunt, 24 Aug 2026, 04:19:51 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-518/>)
+
+- **Il malware Android ToxicPanda utilizza le autorizzazioni VPN per bloccare Google Play**  
+  Fonte: BleepingComputer, 23 Aug 2026, 14:23:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/>)
+
+- **Accogliendo favorevolmente il governo dello Sri Lanka a Have I Been Pwned**  
+  Fonte: Troy Hunt, 23 Aug 2026, 06:39:45 UTC  
+  [Leggi](<https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/>)
+
 - **TikTok accetta un accordo da 400 milioni di dollari nella causa statunitense sulla privacy dei minori**  
   Fonte: The Hacker News, 22 Aug 2026, 14:32:41 UTC  
   [Leggi](<https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html>)
@@ -137,10 +149,6 @@
 - **Gli aggressori sfruttano la falla SNMP di Zimbra per l'esecuzione di codice remoto non autenticato**  
   Fonte: The Hacker News, 20 Aug 2026, 13:24:28 UTC  
   [Leggi](<https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html>)
-
-- **Citrix esorta gli amministratori a correggere i nuovi difetti di NetScaler il prima possibile**  
-  Fonte: BleepingComputer, 20 Aug 2026, 12:14:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/>)
 
 - **L'attacco delle carte zombi può far rivivere le carte Visa scadute per i pagamenti contactless**  
   Fonte: The Hacker News, 20 Aug 2026, 12:01:24 UTC  
@@ -311,4 +319,4 @@
   [Leggi](<https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-08-23 06:24:46 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-24 06:36:04 UTC -->
