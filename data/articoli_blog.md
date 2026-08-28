@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **68enne imprigionato dopo aver guadagnato 1,3 milioni di dollari piratando servizi IPTV**  
+  Fonte: BleepingComputer, 28 Aug 2026, 16:36:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/>)
+
+- **19 estensioni Chrome ed Edge trovate con codice per il furto di portafoglio e il drenaggio di criptovalute**  
+  Fonte: The Hacker News, 28 Aug 2026, 15:27:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html>)
+
+- **L’intelligenza artificiale sta accelerando la scoperta delle vulnerabilità.I difensori riusciranno a tenere il passo?**  
+  Fonte: BleepingComputer, 28 Aug 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/>)
+
+- **Oltre 8.300 server Gitea vulnerabili agli attacchi di esecuzione di codice**  
+  Fonte: BleepingComputer, 28 Aug 2026, 12:58:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/>)
+
+- **Due difetti del robot umanoide Unitree G1 EDU consentono il root RCE, uno si avvia tramite Bluetooth**  
+  Fonte: The Hacker News, 28 Aug 2026, 12:07:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html>)
+
+- **Il gigante della produzione di giocattoli Hasbro rivela una violazione dei dati che colpisce i dipendenti**  
+  Fonte: BleepingComputer, 28 Aug 2026, 11:46:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/>)
+
+- **Ragioni chiave per cui il tessuto identificativo è importante nel 2026**  
+  Fonte: The Hacker News, 28 Aug 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html>)
+
+- **Tre difetti di CVSS 10.0 ServiceNow potrebbero consentire agli aggressori non autenticati di eseguire codice e SQL**  
+  Fonte: The Hacker News, 28 Aug 2026, 11:20:32 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html>)
+
+- **L’intelligenza artificiale non significa la fine della matematica, almeno non ancora**  
+  Fonte: Schneier on Security, 28 Aug 2026, 11:02:22 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html>)
+
+- **I router ZBT fabbricati in Cina vengono forniti con due impianti che consentono agli aggressori non autenticati l'accesso root**  
+  Fonte: The Hacker News, 28 Aug 2026, 10:58:29 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html>)
+
+- **ServiceNow avverte di tre vulnerabilità di sicurezza di massima gravità**  
+  Fonte: BleepingComputer, 28 Aug 2026, 10:29:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/>)
+
+- **Hacker di Shai-Hulud: due uomini accusati dell'ondata criminale della catena di fornitura globale del TeamPCP che ha colpito OpenAI e altre migliaia**  
+  Fonte: Graham Cluley, 28 Aug 2026, 10:23:57 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/shai-hulud-hackers-charged-teampcps>)
+
+- **Un difetto critico del cPanel potrebbe consentire a un cliente di hosting di assumere il controllo principale di un intero server**  
+  Fonte: The Hacker News, 28 Aug 2026, 09:45:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html>)
+
+- **Aggiornamento Windows 11 KB5120998 rilasciato con 35 modifiche e correzioni**  
+  Fonte: BleepingComputer, 28 Aug 2026, 09:10:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/>)
+
+- **PaperCut Zero-Day sfruttato negli attacchi, che colpiscono tutte le versioni NG e MF**  
+  Fonte: The Hacker News, 28 Aug 2026, 08:25:36 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html>)
+
+- **La backdoor HOOKEDGE collegata ad APT28 prende di mira le organizzazioni governative e diplomatiche europee**  
+  Fonte: The Hacker News, 28 Aug 2026, 08:20:59 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html>)
+
+- **Quasi 700 agenti IA disonesti si sono coordinati nell'attacco Hugging Face**  
+  Fonte: BleepingComputer, 27 Aug 2026, 21:38:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/>)
+
+- **OpenAI afferma che il reward hacking ha spinto gli agenti IA a sfruttare gli zero-day e a violare il volto abbracciato**  
+  Fonte: The Hacker News, 27 Aug 2026, 18:36:19 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html>)
+
 - **PaperCut avverte della falla NG, MF sfruttata negli attacchi zero-day**  
   Fonte: BleepingComputer, 27 Aug 2026, 16:31:53 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/>)
@@ -78,14 +150,6 @@
   Fonte: The Hacker News, 27 Aug 2026, 09:33:38 UTC  
   [Leggi](<https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html>)
 
-- **La CISA ordina ai federali di correggere la falla Citrix NetScaler RCE entro sabato**  
-  Fonte: BleepingComputer, 27 Aug 2026, 09:16:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/>)
-
-- **L'ATF conferma un "grave incidente" dopo le recenti denunce di violazione di Qilin**  
-  Fonte: BleepingComputer, 27 Aug 2026, 08:13:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/>)
-
 - **La nuova GPU Thor Rowhammer sconfigge l'ECC su NVIDIA RTX A6000 per ottenere l'accesso root all'host**  
   Fonte: The Hacker News, 27 Aug 2026, 08:13:11 UTC  
   [Leggi](<https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html>)
@@ -98,33 +162,13 @@
   Fonte: Graham Cluley, 26 Aug 2026, 23:10:11 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-482/>)
 
-- **Il difetto critico del tema Avada WordPress consente l'RCE a zero clic**  
-  Fonte: BleepingComputer, 26 Aug 2026, 21:33:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/>)
-
-- **Il nuovo attacco GPUThor sconfigge la protezione NVIDIA ECC per l'accesso root**  
-  Fonte: BleepingComputer, 26 Aug 2026, 18:48:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/>)
-
 - **L’FBI interrompe l’infrastruttura QTFY collegata alla Cina utilizzata per rubare dati da organizzazioni statunitensi**  
   Fonte: The Hacker News, 26 Aug 2026, 16:42:03 UTC  
   [Leggi](<https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html>)
 
-- **Meta accetta un risarcimento da 18 miliardi di dollari per i danni causati dai social media agli adolescenti**  
-  Fonte: BleepingComputer, 26 Aug 2026, 16:41:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/>)
-
 - **Nimbus Manticore espande il set di strumenti con backdoor simili a TWOSTROKE e tunneler SSH**  
   Fonte: The Hacker News, 26 Aug 2026, 15:35:05 UTC  
   [Leggi](<https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html>)
-
-- **Boston Scientific afferma che gli attacchi informatici hanno interrotto le operazioni a livello globale**  
-  Fonte: BleepingComputer, 26 Aug 2026, 15:19:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/>)
-
-- **Gli hacker prendono di mira la catena RCE di Microsoft SharePoint con l'exploit PoC**  
-  Fonte: BleepingComputer, 26 Aug 2026, 14:47:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/>)
 
 - **Le campagne NovaCookies abusano delle notifiche Docusign autentiche per rubare sessioni di Microsoft 365**  
   Fonte: The Hacker News, 26 Aug 2026, 13:44:31 UTC  
@@ -278,53 +322,5 @@
   Fonte: Schneier on Security, 21 Aug 2026, 21:07:20 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html>)
 
-- **14 pacchetti npm con trojan rilasciano la backdoor Linux RedC2 4.0 con C2 assistito dall'intelligenza artificiale**  
-  Fonte: The Hacker News, 21 Aug 2026, 18:53:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html>)
 
-- **L'intelligenza artificiale sta imparando a scrivere il codice genetico**  
-  Fonte: Schneier on Security, 21 Aug 2026, 16:51:50 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html>)
-
-- **Il driver di Microsoft Defender può essere utilizzato come arma per eliminare il software di sicurezza all'avvio**  
-  Fonte: The Hacker News, 21 Aug 2026, 15:52:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html>)
-
-- **Il malware per auto Android si diffonde attraverso gli aggiornamenti integrati per frodi pubblicitarie e botnet proxy**  
-  Fonte: The Hacker News, 21 Aug 2026, 15:41:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/android-car-malware-spreads-through.html>)
-
-- **Wazuh e intelligenza artificiale per flussi di lavoro SOC migliorati**  
-  Fonte: The Hacker News, 21 Aug 2026, 11:21:39 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html>)
-
-- **Cisco risolve nove difetti nel crosswork e nel carico di lavoro sicuro, cinque punteggi CVSS 10.0**  
-  Fonte: The Hacker News, 21 Aug 2026, 10:03:11 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html>)
-
-- **Altri casi di IA che diventano disonesti nelle sfide della sicurezza informatica**  
-  Fonte: Schneier on Security, 21 Aug 2026, 09:42:34 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html>)
-
-- **GitLab CVE-2026-19478 viene sfruttato attivamente entro pochi giorni dalla divulgazione**  
-  Fonte: The Hacker News, 21 Aug 2026, 07:04:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html>)
-
-- **Microsoft risolve un grave difetto dell'ID Entra (CVSS 10.0) consentendo l'esecuzione di codice in modalità remota**  
-  Fonte: The Hacker News, 21 Aug 2026, 06:06:11 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html>)
-
-- **L'attacco alla catena di fornitura Rust mette in casse malware in fase di creazione con 245 milioni di download**  
-  Fonte: The Hacker News, 20 Aug 2026, 20:22:35 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html>)
-
-- **Presunti hacker russi abusano di Google OAuth e WhatsApp collegandosi ad account dirottati**  
-  Fonte: The Hacker News, 20 Aug 2026, 19:59:19 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html>)
-
-- **Cronologia dettagliata dell'attacco informatico di OpenAI su Hugging Face**  
-  Fonte: Schneier on Security, 20 Aug 2026, 17:44:36 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-08-27 17:07:10 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-28 17:53:54 UTC -->
