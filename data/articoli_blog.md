@@ -2,9 +2,45 @@
 
 ## Ultimi 7 giorni
 
+- **McKesson rivela la violazione dopo che ShinyHunters denuncia il furto dei dati dei pazienti**  
+  Fonte: BleepingComputer, 28 Aug 2026, 22:40:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/>)
+
+- **Berlino si rifiuta di pagare gli hacker che hanno rubato dati dalla rete statale della città**  
+  Fonte: The Hacker News, 28 Aug 2026, 21:30:52 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html>)
+
+- **Blogging sui calamari del venerdì: camion carico di sversamenti di calamari nel Rhode Island**  
+  Fonte: Schneier on Security, 28 Aug 2026, 21:02:44 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html>)
+
+- **La falla di Cosmos EVM è stata sfruttata dopo che Cosmos Labs sapeva che ogni blockchain che lo eseguiva era vulnerabile**  
+  Fonte: The Hacker News, 28 Aug 2026, 20:38:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html>)
+
+- **PaperCut rilascia la seconda patch di emergenza per i difetti sfruttati**  
+  Fonte: BleepingComputer, 28 Aug 2026, 19:08:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/>)
+
+- **Il difetto del plug-in per le donazioni di GiveWP WordPress consente agli hacker di eseguire comandi del server**  
+  Fonte: BleepingComputer, 28 Aug 2026, 18:18:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/>)
+
+- **Gli aggressori concatenano due difetti PaperCut per eseguire codice senza autenticazione**  
+  Fonte: The Hacker News, 28 Aug 2026, 17:12:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html>)
+
 - **68enne imprigionato dopo aver guadagnato 1,3 milioni di dollari piratando servizi IPTV**  
   Fonte: BleepingComputer, 28 Aug 2026, 16:36:47 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/>)
+
+- **Android 17 aggiunge ECH a livello di sistema operativo per nascondere le visite ai siti Web da parte dei provider di rete**  
+  Fonte: The Hacker News, 28 Aug 2026, 16:20:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html>)
+
+- **La falla di ownCloud viene sfruttata per rubare documenti nucleari da un ente di ricerca filippino**  
+  Fonte: The Hacker News, 28 Aug 2026, 15:56:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html>)
 
 - **19 estensioni Chrome ed Edge trovate con codice per il furto di portafoglio e il drenaggio di criptovalute**  
   Fonte: The Hacker News, 28 Aug 2026, 15:27:26 UTC  
@@ -106,14 +142,6 @@
   Fonte: BleepingComputer, 27 Aug 2026, 13:31:13 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/>)
 
-- **Microsoft implementa una soluzione per arresti anomali di Windows 11 e problemi di gioco**  
-  Fonte: BleepingComputer, 27 Aug 2026, 12:16:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/>)
-
-- **Webinar: come si verificano le violazioni di Google Workspace e cosa fare dopo**  
-  Fonte: BleepingComputer, 27 Aug 2026, 12:16:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/>)
-
 - **Scopri come creare operazioni di sicurezza pronte per gli attacchi basati sull'intelligenza artificiale**  
   Fonte: The Hacker News, 27 Aug 2026, 11:56:30 UTC  
   [Leggi](<https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html>)
@@ -125,10 +153,6 @@
 - **Cosa dicono i dati sull'intelligenza artificiale nelle operazioni di sicurezza nel 2026**  
   Fonte: The Hacker News, 27 Aug 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html>)
-
-- **La violazione dei dati di Carhartt espone le informazioni di 12,9 milioni di account**  
-  Fonte: BleepingComputer, 27 Aug 2026, 11:10:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/>)
 
 - **Due presunti hacker "TeamPCP" arrestati in Australia**  
   Fonte: Krebs on Security, 27 Aug 2026, 11:04:15 UTC  
@@ -286,25 +310,9 @@
   Fonte: The Hacker News, 24 Aug 2026, 12:35:36 UTC  
   [Leggi](<https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html>)
 
-- **Un grave difetto di reimpostazione della password di Keycloak potrebbe consentire ad aggressori non autenticati di assumere il controllo di qualsiasi account**  
-  Fonte: The Hacker News, 24 Aug 2026, 11:56:34 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html>)
-
-- **L'operazione QUICSILVER prende di mira il governo e l'IT del Myanmar con QUICAgent Backdoor**  
-  Fonte: The Hacker News, 24 Aug 2026, 11:51:36 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html>)
-
-- **L'ombra smisurata: perché il 5% degli utenti di intelligenza artificiale rappresenta il rischio più grande per la sicurezza**  
-  Fonte: The Hacker News, 24 Aug 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html>)
-
 - **Inganno criminale nella Silicon Valley**  
   Fonte: Schneier on Security, 24 Aug 2026, 10:38:29 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html>)
-
-- **UAT-10147 utilizza l'intelligenza artificiale per scalare gli attacchi ai server, distribuisce SPECTRE con bypass EDR e rootkit Linux**  
-  Fonte: The Hacker News, 24 Aug 2026, 08:08:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html>)
 
 - **Aggiornamento settimanale 518: IoT Doorlock Nirvana con UniFi**  
   Fonte: Troy Hunt, 24 Aug 2026, 04:19:51 UTC  
@@ -314,13 +322,5 @@
   Fonte: Troy Hunt, 23 Aug 2026, 06:39:45 UTC  
   [Leggi](<https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/>)
 
-- **TikTok accetta un accordo da 400 milioni di dollari nella causa statunitense sulla privacy dei minori**  
-  Fonte: The Hacker News, 22 Aug 2026, 14:32:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html>)
 
-- **Blog sui calamari del venerdì: calamari volanti al neon**  
-  Fonte: Schneier on Security, 21 Aug 2026, 21:07:20 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-08-28 17:53:54 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-29 11:57:50 UTC -->
