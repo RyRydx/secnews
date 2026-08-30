@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **TerminalFix utilizza falsi CAPTCHA di Cloudflare per implementare backdoor con tunnel inverso**  
+  Fonte: The Hacker News, 30 Aug 2026, 07:36:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html>)
+
+- **Anthropic taglia del 17% gli attuali limiti settimanali di Claude Code**  
+  Fonte: BleepingComputer, 29 Aug 2026, 23:11:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/>)
+
+- **Cinque difetti critici nei plugin e nei temi di WordPress consentono il Site Takeover o RCE**  
+  Fonte: The Hacker News, 29 Aug 2026, 16:25:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html>)
+
+- **Il browser Brave aggiunge alias email per aiutare gli utenti a eludere il tracciamento**  
+  Fonte: BleepingComputer, 29 Aug 2026, 14:19:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/>)
+
 - **McKesson rivela la violazione dopo che ShinyHunters denuncia il furto dei dati dei pazienti**  
   Fonte: BleepingComputer, 28 Aug 2026, 22:40:17 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/>)
@@ -58,7 +74,7 @@
   Fonte: The Hacker News, 28 Aug 2026, 12:07:24 UTC  
   [Leggi](<https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html>)
 
-- **Il gigante della produzione di giocattoli Hasbro rivela una violazione dei dati che colpisce i dipendenti**  
+- **Il colosso della produzione di giocattoli Hasbro rivela una violazione dei dati che colpisce i dipendenti**  
   Fonte: BleepingComputer, 28 Aug 2026, 11:46:57 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/>)
 
@@ -86,7 +102,7 @@
   Fonte: Graham Cluley, 28 Aug 2026, 10:23:57 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/shai-hulud-hackers-charged-teampcps>)
 
-- **Un difetto critico del cPanel potrebbe consentire a un cliente di hosting di assumere il controllo principale di un intero server**  
+- **Un difetto critico di cPanel potrebbe consentire a un cliente di hosting di assumere il controllo di root di un intero server**  
   Fonte: The Hacker News, 28 Aug 2026, 09:45:15 UTC  
   [Leggi](<https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html>)
 
@@ -130,17 +146,9 @@
   Fonte: BleepingComputer, 27 Aug 2026, 14:00:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/>)
 
-- **Android 17 aggiunge il supporto ECH per rendere più difficile monitorare la navigazione web**  
-  Fonte: BleepingComputer, 27 Aug 2026, 14:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/>)
-
 - **Amazon Kiro Prompt Injection può esfiltrare dati sensibili attraverso i poteri di Kiro**  
   Fonte: The Hacker News, 27 Aug 2026, 13:39:56 UTC  
   [Leggi](<https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html>)
-
-- **L'Australia arresta presunti hacker del TeamPCP responsabili di attacchi alla catena di approvvigionamento**  
-  Fonte: BleepingComputer, 27 Aug 2026, 13:31:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/>)
 
 - **Scopri come creare operazioni di sicurezza pronte per gli attacchi basati sull'intelligenza artificiale**  
   Fonte: The Hacker News, 27 Aug 2026, 11:56:30 UTC  
@@ -298,17 +306,9 @@
   Fonte: Graham Cluley, 24 Aug 2026, 15:00:02 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials>)
 
-- **⚡ Riepilogo settimanale: attacchi PLC basati sull'intelligenza artificiale, attacchi GitLab, perdite di chiavi Stripe e altro ancora**  
-  Fonte: The Hacker News, 24 Aug 2026, 14:32:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html>)
-
 - **Ransomware Gunra: cosa devi sapere**  
   Fonte: Graham Cluley, 24 Aug 2026, 12:52:37 UTC  
   [Leggi](<https://www.fortra.com/blog/gunra-ransomware-what-you-need-know>)
-
-- **WordlistLoader distribuisce Amatera tramite ClickFix, SynkLoader phishing password di Windows**  
-  Fonte: The Hacker News, 24 Aug 2026, 12:35:36 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html>)
 
 - **Inganno criminale nella Silicon Valley**  
   Fonte: Schneier on Security, 24 Aug 2026, 10:38:29 UTC  
@@ -318,9 +318,5 @@
   Fonte: Troy Hunt, 24 Aug 2026, 04:19:51 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-518/>)
 
-- **Accogliendo favorevolmente il governo dello Sri Lanka a Have I Been Pwned**  
-  Fonte: Troy Hunt, 23 Aug 2026, 06:39:45 UTC  
-  [Leggi](<https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/>)
 
-
-<!-- Ultimo aggiornamento: 2026-08-29 11:57:50 UTC -->
+<!-- Ultimo aggiornamento: 2026-08-30 10:56:19 UTC -->
