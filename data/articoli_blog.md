@@ -2,6 +2,102 @@
 
 ## Ultimi 7 giorni
 
+- **GeoNetwork risolve la catena RCE non autenticata che interessa i backend del geoportale governativo**  
+  Fonte: The Hacker News, 02 Sep 2026, 09:18:02 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html>)
+
+- **Un hacker russo estradato deve affrontare accuse per una campagna di malware Excel che ha infettato migliaia di persone**  
+  Fonte: The Hacker News, 02 Sep 2026, 09:10:23 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html>)
+
+- **Gli Stati Uniti accusano la Russia di aver infettato 80.000 freelance con malware**  
+  Fonte: BleepingComputer, 02 Sep 2026, 09:06:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/>)
+
+- **L'infrastruttura botnet di Sality è stata smantellata in un intervento globale congiunto**  
+  Fonte: BleepingComputer, 02 Sep 2026, 08:00:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/>)
+
+- **I ricercatori utilizzano Claude per trasferire l'exploit RCE pre-autenticazione da un modello PLC a un altro**  
+  Fonte: The Hacker News, 02 Sep 2026, 07:47:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html>)
+
+- **Gli aggressori sfruttano il difetto critico di Switchvox per implementare Reverse Shell senza credenziali**  
+  Fonte: The Hacker News, 02 Sep 2026, 07:08:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html>)
+
+- **Le autorità rivolgono contro se stessa la rete P2P di Sality, tagliando fuori nuovi payload di malware**  
+  Fonte: The Hacker News, 02 Sep 2026, 06:56:30 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html>)
+
+- **SonicWall segnala eventuali difetti zero-day SMA1000 sfruttati attivamente**  
+  Fonte: BleepingComputer, 02 Sep 2026, 06:39:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/>)
+
+- **Servizio di indagini dell'FBI che vende oltre 153 milioni di patenti di guida**  
+  Fonte: Krebs on Security, 01 Sep 2026, 22:40:28 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/>)
+
+- **Aggiornamento settimanale 519: Violazioni e integrità dei dati**  
+  Fonte: Troy Hunt, 01 Sep 2026, 22:26:38 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-519/>)
+
+- **Gli hacker abusano dello strumento di amministrazione Faronics Deploy per installare ScreenConnect**  
+  Fonte: BleepingComputer, 01 Sep 2026, 20:53:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/>)
+
+- **Aesto Health afferma che la violazione dei dati colpisce oltre 9,5 milioni di pazienti**  
+  Fonte: BleepingComputer, 01 Sep 2026, 19:28:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/>)
+
+- **Difetto critico di Langflow sfruttato per rubare chiavi OpenAI e AWS**  
+  Fonte: BleepingComputer, 01 Sep 2026, 17:54:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/>)
+
+- **Gli aggressori sfruttano il difetto critico di JFrog Artifactory per coniare token di amministrazione giorni dopo la divulgazione**  
+  Fonte: The Hacker News, 01 Sep 2026, 17:53:11 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html>)
+
+- **Qual è la truffa?**  
+  Fonte: Schneier on Security, 01 Sep 2026, 17:36:13 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html>)
+
+- **Breeze Comet esegue centinaia di transazioni fraudolente tramite i sistemi di pagamento brasiliani**  
+  Fonte: The Hacker News, 01 Sep 2026, 17:19:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html>)
+
+- **Materiali di formazione russi sulle operazioni informatiche trapelati**  
+  Fonte: Schneier on Security, 01 Sep 2026, 16:29:10 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html>)
+
+- **Gli hacker inseriscono l'aggiornamento dannoso di Virtualizor nell'attacco di dirottamento BGP**  
+  Fonte: BleepingComputer, 01 Sep 2026, 14:45:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/>)
+
+- **La violazione dei dati di Novocure colpisce più di 1.400 pazienti affetti da cancro**  
+  Fonte: BleepingComputer, 01 Sep 2026, 14:28:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/>)
+
+- **13 pacchetti dannosi di Packagist prendono di mira gli iPhone senza patch per rubare i semi del portafoglio crittografico**  
+  Fonte: The Hacker News, 01 Sep 2026, 14:07:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html>)
+
+- **Perché anche la migliore sicurezza edge non riesce a cogliere le sessioni ad alto rischio**  
+  Fonte: BleepingComputer, 01 Sep 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/>)
+
+- **Gli hacker iraniani si atteggiano a reclutatori per fornire RAT multipiattaforma attraverso test di codifica**  
+  Fonte: The Hacker News, 01 Sep 2026, 13:08:58 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html>)
+
+- **Quasi 22.000 server Microsoft Exchange vulnerabili agli attacchi dirottati**  
+  Fonte: BleepingComputer, 01 Sep 2026, 12:38:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/>)
+
+- **Gli autori delle minacce non vogliono attacchi migliori.Vogliono quelli ripetibili**  
+  Fonte: The Hacker News, 01 Sep 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html>)
+
 - **Ricablare la serie della democrazia su The Renovator**  
   Fonte: Schneier on Security, 01 Sep 2026, 09:59:07 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html>)
@@ -46,25 +142,9 @@
   Fonte: BleepingComputer, 31 Aug 2026, 16:56:57 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/>)
 
-- **OpenAI conferma l'interruzione di ChatGPT poiché gli utenti segnalano errori**  
-  Fonte: BleepingComputer, 31 Aug 2026, 16:50:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/>)
-
-- **Gli hacker cinesi di Fire Ant trasformano i router Cisco in piattaforme di spionaggio**  
-  Fonte: BleepingComputer, 31 Aug 2026, 14:52:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/>)
-
-- **I file server sono qui per restare.Ecco come gestirli in sicurezza**  
-  Fonte: BleepingComputer, 31 Aug 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/>)
-
 - **⚡ Riepilogo settimanale: proxy spia cinese, agenti IA interrotti, backdoor del router e altro ancora**  
   Fonte: The Hacker News, 31 Aug 2026, 13:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html>)
-
-- **Berlino conferma il furto di dati dopo le affermazioni sull'attacco del ransomware Rhysida**  
-  Fonte: BleepingComputer, 31 Aug 2026, 13:30:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/>)
 
 - **La backdoor ValleyRAT si nasconde nell'adware firmato che gli utenti aggiungono alle esclusioni antivirus**  
   Fonte: The Hacker News, 31 Aug 2026, 12:14:00 UTC  
@@ -82,37 +162,13 @@
   Fonte: Schneier on Security, 31 Aug 2026, 11:03:40 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html>)
 
-- **Microsoft afferma che l'aggiornamento KB5120998 di Windows 11 ripristina le impostazioni del mouse**  
-  Fonte: BleepingComputer, 31 Aug 2026, 10:23:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/>)
-
-- **Nigeriani estradati negli Stati Uniti per sextortion, morte di due adolescenti**  
-  Fonte: BleepingComputer, 31 Aug 2026, 09:22:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/>)
-
 - **Una formica antincendio collegata alla Cina dirotta i router Cisco per rubare credenziali e registri di sicurezza ciechi**  
   Fonte: The Hacker News, 31 Aug 2026, 09:04:55 UTC  
   [Leggi](<https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html>)
 
-- **Microsoft chiede agli utenti di ignorare gli errori "L'antivirus è disattivato".**  
-  Fonte: BleepingComputer, 31 Aug 2026, 08:29:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/>)
-
 - **Il Dipartimento di Giustizia corregge le accuse di pirateria informatica in Cina, affermando che le agenzie statunitensi erano obiettivi, non vittime**  
   Fonte: The Hacker News, 31 Aug 2026, 07:56:53 UTC  
   [Leggi](<https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html>)
-
-- **FulcrumSec denuncia l'hacking dell'aeroporto di Manchester e il furto di 86 GB di dati**  
-  Fonte: BleepingComputer, 30 Aug 2026, 15:00:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/>)
-
-- **Anthropic avverte che il malware infostealer sta dirottando le sessioni di Claude per prosciugarne l'utilizzo**  
-  Fonte: BleepingComputer, 30 Aug 2026, 14:30:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/>)
-
-- **Le estensioni del Chrome Web Store sono state sorprese a rubare criptovalute e dati del browser**  
-  Fonte: BleepingComputer, 30 Aug 2026, 14:17:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/>)
 
 - **TerminalFix utilizza falsi CAPTCHA di Cloudflare per implementare backdoor con tunnel inverso**  
   Fonte: The Hacker News, 30 Aug 2026, 07:36:33 UTC  
@@ -126,7 +182,7 @@
   Fonte: The Hacker News, 28 Aug 2026, 21:30:52 UTC  
   [Leggi](<https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html>)
 
-- **Blogging sui calamari del venerdì: camion carico di sversamenti di calamari nel Rhode Island**  
+- **Blog sui calamari del venerdì: camion carichi di sversamenti di calamari nel Rhode Island**  
   Fonte: Schneier on Security, 28 Aug 2026, 21:02:44 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html>)
 
@@ -194,7 +250,7 @@
   Fonte: The Hacker News, 27 Aug 2026, 15:13:00 UTC  
   [Leggi](<https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html>)
 
-- **ThreatsDay: 296.000 botnet IoT, oltre 100 sistemi idrici presi di mira, catena SharePoint RCE + 27 nuove storie**  
+- **ThreatsDay: 296.000 botnet IoT, oltre 100 sistemi idrici presi di mira, catena RCE di SharePoint + 27 nuove storie**  
   Fonte: The Hacker News, 27 Aug 2026, 15:12:16 UTC  
   [Leggi](<https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html>)
 
@@ -266,53 +322,5 @@
   Fonte: Schneier on Security, 26 Aug 2026, 12:05:52 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html>)
 
-- **I difetti di Kaltura mwEmbed senza patch potrebbero consentire agli aggressori remoti di leggere file ed eseguire codice**  
-  Fonte: The Hacker News, 26 Aug 2026, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html>)
 
-- **Immagina il SOC senza coda: dal backlog degli avvisi all'AI Hypothesis Engine**  
-  Fonte: The Hacker News, 26 Aug 2026, 11:36:49 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html>)
-
-- **Claude Opus 4.6 Bypassa il limite di prenotazione della palestra, annulla le prenotazioni di altri utenti nei test**  
-  Fonte: The Hacker News, 26 Aug 2026, 10:27:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html>)
-
-- **OpenAI vieta gli account ChatGPT russi utilizzati per eseguire operazioni di influenza**  
-  Fonte: The Hacker News, 26 Aug 2026, 09:38:45 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html>)
-
-- **L'operazione INTERPOL Jackal IV arresta 58 persone e ne identifica 263 nella repressione globale delle frodi informatiche**  
-  Fonte: The Hacker News, 26 Aug 2026, 07:54:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html>)
-
-- **La nuova backdoor SLEEPWALKER attende un pacchetto creato, quindi esegue il proprio bytecode**  
-  Fonte: The Hacker News, 26 Aug 2026, 07:12:55 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html>)
-
-- **Critical Gitea RCE sfruttato attivamente mentre l'attacco segnalato rilascia un carico utile simile a quello di un minatore**  
-  Fonte: The Hacker News, 26 Aug 2026, 06:27:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html>)
-
-- **Le false chiamate AI di supporto Apple prendono di mira i proprietari di dispositivi rubati per password e codici 2FA**  
-  Fonte: The Hacker News, 26 Aug 2026, 05:47:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html>)
-
-- **Un avvertimento sulle richieste di violazione dei dati, sulla verifica e su Carhartt**  
-  Fonte: Troy Hunt, 25 Aug 2026, 21:51:08 UTC  
-  [Leggi](<https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/>)
-
-- **Gli Stati Uniti sanzionano gli hacker legati all’Iran dietro le violazioni delle infrastrutture critiche**  
-  Fonte: The Hacker News, 25 Aug 2026, 18:17:17 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html>)
-
-- **Una pagina Web dannosa potrebbe avvelenare il tuo modello di intelligenza artificiale locale dietro NVIDIA NemoClaw**  
-  Fonte: The Hacker News, 25 Aug 2026, 14:07:37 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html>)
-
-- **Fornitori di sicurezza Black Hat State**  
-  Fonte: Schneier on Security, 25 Aug 2026, 10:54:50 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-01 10:46:33 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-02 10:12:14 UTC -->
