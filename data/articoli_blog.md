@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **Migliaia di agenti OpenAI hanno silenziosamente trasformato un Wiki abbandonato nel loro canale di coordinamento**  
+  Fonte: The Hacker News, 05 Sep 2026, 07:55:10 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html>)
+
+- **Gli aggressori sfruttano le falle di PaperCut per rubare credenziali da scuole e università**  
+  Fonte: The Hacker News, 05 Sep 2026, 07:31:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html>)
+
+- **Blog di calamari del venerdì: calamari su un bastone alla fiera dello Stato di New York**  
+  Fonte: Schneier on Security, 04 Sep 2026, 21:01:35 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html>)
+
+- **IDScan ha citato in giudizio per presunta violazione dei dati che ha interessato 153 milioni di conducenti**  
+  Fonte: BleepingComputer, 04 Sep 2026, 16:56:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/>)
+
+- **Utilizzo di una VM per contenere un agente AI**  
+  Fonte: Schneier on Security, 04 Sep 2026, 16:31:38 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html>)
+
+- **Una campagna di phishing invia milioni di e-mail utilizzando Unicode invisibile per eludere i filtri**  
+  Fonte: The Hacker News, 04 Sep 2026, 15:57:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html>)
+
+- **Il bypass critico dell'autenticazione Citrix NetScaler viene ora sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 04 Sep 2026, 15:25:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/>)
+
+- **PostgreSQL risolve un difetto di decodifica logica vecchio di 12 anni che abilitava l'esecuzione del codice del ruolo di replica**  
+  Fonte: The Hacker News, 04 Sep 2026, 15:20:19 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html>)
+
+- **La nuova backdoor di Ted si nasconde all'interno delle build HAProxy delle vittime per intercettare il traffico web**  
+  Fonte: The Hacker News, 04 Sep 2026, 14:51:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html>)
+
+- **Microsoft afferma che alcuni utenti non possono aprire il client desktop Teams**  
+  Fonte: BleepingComputer, 04 Sep 2026, 14:30:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/>)
+
+- **39 nuovi metodi che compromettono l'autenticazione della passkey**  
+  Fonte: BleepingComputer, 04 Sep 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/>)
+
+- **Il nuovo zero-day CrowdStrike "FalconFlank" garantisce i privilegi di SISTEMA**  
+  Fonte: BleepingComputer, 04 Sep 2026, 13:22:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/>)
+
+- **L'interruzione di Exchange Online provoca ritardi nella posta elettronica ed errori "Server occupato".**  
+  Fonte: BleepingComputer, 04 Sep 2026, 12:22:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/>)
+
+- **Google avverte della nuova falla zero-day di Chrome sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 04 Sep 2026, 11:48:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/>)
+
+- **Vulnerabilità della sicurezza in un sistema di voto**  
+  Fonte: Schneier on Security, 04 Sep 2026, 11:09:35 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html>)
+
+- **Gli agenti di codifica AI stanno installando codice sconosciuto/non attendibile sulle reti aziendali**  
+  Fonte: Schneier on Security, 04 Sep 2026, 10:35:17 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html>)
+
 - **Oltre 440.000 tentativi di exploit prendono di mira i Super Form e i difetti di Elementor Pro RCE**  
   Fonte: The Hacker News, 04 Sep 2026, 08:48:45 UTC  
   [Leggi](<https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html>)
@@ -70,10 +134,6 @@
   Fonte: BleepingComputer, 03 Sep 2026, 13:50:59 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/>)
 
-- **Microsoft afferma che l'aggiornamento Windows KB5120998 ripristina le impostazioni del desktop**  
-  Fonte: BleepingComputer, 03 Sep 2026, 12:16:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/>)
-
 - **Gli Stati Uniti diventano il principale obiettivo della campagna di phishing RMM che coinvolge 46 paesi**  
   Fonte: The Hacker News, 03 Sep 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html>)
@@ -82,10 +142,6 @@
   Fonte: Schneier on Security, 03 Sep 2026, 11:18:14 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html>)
 
-- **Plex avvisa gli utenti di correggere immediatamente le vulnerabilità della sicurezza**  
-  Fonte: BleepingComputer, 03 Sep 2026, 11:02:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/>)
-
 - **Gli aggressori trasformano il runtime affidabile di Node.js in uno strumento di distribuzione di malware in attacchi mirati**  
   Fonte: The Hacker News, 03 Sep 2026, 10:43:01 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html>)
@@ -93,10 +149,6 @@
 - **La portata di Shai-Hulud è appena cresciuta fino a raggiungere 469 posizioni di credenziali.Ecco cosa significa**  
   Fonte: The Hacker News, 03 Sep 2026, 10:36:39 UTC  
   [Leggi](<https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html>)
-
-- **Microsoft Teams e Outlook non si avviano su PC Windows basati su ARM**  
-  Fonte: BleepingComputer, 03 Sep 2026, 08:55:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/>)
 
 - **L'exploit spyware Zero-Click di Pegasus infetta l'iPhone di un membro del movimento studentesco serbo**  
   Fonte: The Hacker News, 03 Sep 2026, 08:43:17 UTC  
@@ -114,14 +166,6 @@
   Fonte: Graham Cluley, 02 Sep 2026, 23:10:47 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-483/>)
 
-- **Gli hacker sfruttano la falla di Sangoma Switchvox per implementare shell inverse**  
-  Fonte: BleepingComputer, 02 Sep 2026, 21:00:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/>)
-
-- **Il difetto del plugin di backup di WordPress espone milioni di siti ad attacchi di acquisizione**  
-  Fonte: BleepingComputer, 02 Sep 2026, 19:28:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/>)
-
 - **Gli agenti AI mi stanno ora inviando email con i loro dubbi sulla sicurezza**  
   Fonte: Schneier on Security, 02 Sep 2026, 18:28:08 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html>)
@@ -134,10 +178,6 @@
   Fonte: The Hacker News, 02 Sep 2026, 16:41:06 UTC  
   [Leggi](<https://thehackernews.com/2026/09/fake-software-installers-disable.html>)
 
-- **Gli hacker sfruttano il difetto critico di JFrog Artifactory per falsificare token di amministrazione**  
-  Fonte: BleepingComputer, 02 Sep 2026, 15:47:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/>)
-
 - **L'ondata di truffe Revolut ruba £ 180.000 ai residenti del Jersey in sole quattro settimane**  
   Fonte: Graham Cluley, 02 Sep 2026, 14:48:00 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/revolut-scam-jersey>)
@@ -145,10 +185,6 @@
 - **Le configurazioni .git dannose possono far sì che Claude, Codex, Cursor e altri agenti IA eseguano il codice dell'autore dell'attacco**  
   Fonte: The Hacker News, 02 Sep 2026, 14:06:59 UTC  
   [Leggi](<https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html>)
-
-- **Protezione ransomware per MSP: una lista di controllo in 6 punti per un ripristino più rapido**  
-  Fonte: BleepingComputer, 02 Sep 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/>)
 
 - **Moduli Apache dannosi dirottano il traffico del sito del governo brasiliano per inviare pagine di scommesse**  
   Fonte: The Hacker News, 02 Sep 2026, 13:44:16 UTC  
@@ -246,10 +282,6 @@
   Fonte: The Hacker News, 01 Sep 2026, 07:22:30 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html>)
 
-- **Qualcuno sta hackerando i frigoriferi del Dipartimento della Difesa?**  
-  Fonte: Schneier on Security, 31 Aug 2026, 18:20:35 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html>)
-
 - **Le frodi lavorative in Corea del Nord si estendono oltre l’IT, arrivando anche alla sanità e alle vendite**  
   Fonte: The Hacker News, 31 Aug 2026, 17:24:28 UTC  
   [Leggi](<https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html>)
@@ -270,10 +302,6 @@
   Fonte: The Hacker News, 31 Aug 2026, 11:31:47 UTC  
   [Leggi](<https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html>)
 
-- **Nascondere l'iniezione rapida nell'archiviazione legale**  
-  Fonte: Schneier on Security, 31 Aug 2026, 11:03:40 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html>)
-
 - **Una formica antincendio collegata alla Cina dirotta i router Cisco per rubare credenziali e registri di sicurezza ciechi**  
   Fonte: The Hacker News, 31 Aug 2026, 09:04:55 UTC  
   [Leggi](<https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html>)
@@ -290,41 +318,5 @@
   Fonte: The Hacker News, 29 Aug 2026, 16:25:03 UTC  
   [Leggi](<https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html>)
 
-- **Berlino si rifiuta di pagare gli hacker che hanno rubato dati dalla rete statale della città**  
-  Fonte: The Hacker News, 28 Aug 2026, 21:30:52 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html>)
 
-- **Blog sui calamari del venerdì: camion carichi di sversamenti di calamari nel Rhode Island**  
-  Fonte: Schneier on Security, 28 Aug 2026, 21:02:44 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html>)
-
-- **La falla di Cosmos EVM è stata sfruttata dopo che Cosmos Labs sapeva che ogni blockchain che lo eseguiva era vulnerabile**  
-  Fonte: The Hacker News, 28 Aug 2026, 20:38:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html>)
-
-- **Gli aggressori concatenano due difetti PaperCut per eseguire codice senza autenticazione**  
-  Fonte: The Hacker News, 28 Aug 2026, 17:12:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html>)
-
-- **Android 17 aggiunge ECH a livello di sistema operativo per nascondere le visite ai siti Web da parte dei provider di rete**  
-  Fonte: The Hacker News, 28 Aug 2026, 16:20:46 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html>)
-
-- **La falla di ownCloud viene sfruttata per rubare documenti nucleari da un ente di ricerca filippino**  
-  Fonte: The Hacker News, 28 Aug 2026, 15:56:55 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html>)
-
-- **19 estensioni Chrome ed Edge trovate con codice per il furto di portafoglio e il drenaggio di criptovalute**  
-  Fonte: The Hacker News, 28 Aug 2026, 15:27:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html>)
-
-- **L’intelligenza artificiale non significa la fine della matematica, almeno non ancora**  
-  Fonte: Schneier on Security, 28 Aug 2026, 11:02:22 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html>)
-
-- **Hacker di Shai-Hulud: due uomini accusati dell'ondata criminale della catena di fornitura globale del TeamPCP che ha colpito OpenAI e altre migliaia**  
-  Fonte: Graham Cluley, 28 Aug 2026, 10:23:57 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/shai-hulud-hackers-charged-teampcps>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-04 10:11:30 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-05 09:39:19 UTC -->
