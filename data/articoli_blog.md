@@ -2,6 +2,38 @@
 
 ## Ultimi 7 giorni
 
+- **Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication**  
+  Fonte: The Hacker News, 06 Sep 2026, 09:32:38 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html>)
+
+- **Quattro moduli collegati a REVSTEALER disabilitano Windows Update e Defender per eseguire un crypto miner**  
+  Fonte: The Hacker News, 06 Sep 2026, 08:34:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html>)
+
+- **Magento e Adobe Commerce Zero-Day senza patch sfruttati per negozi online backdoor**  
+  Fonte: The Hacker News, 05 Sep 2026, 20:14:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html>)
+
+- **Gli aggressori hanno violato JetBrains Cadence tramite TeamCity senza patch, estraendo le credenziali AWS**  
+  Fonte: The Hacker News, 05 Sep 2026, 16:52:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html>)
+
+- **Il difetto critico di VMware Workstation e Fusion consente agli amministratori delle VM di eseguire il codice host**  
+  Fonte: The Hacker News, 05 Sep 2026, 16:05:08 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html>)
+
+- **Oltre 5.400 siti compromessi forniscono payload ClickFix archiviati sulla blockchain**  
+  Fonte: BleepingComputer, 05 Sep 2026, 14:29:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/>)
+
+- **Trezor afferma che la violazione di ShipMonk ha esposto i dati di 67.000 clienti statunitensi che ha dichiarato essere stati cancellati**  
+  Fonte: The Hacker News, 05 Sep 2026, 14:17:02 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html>)
+
+- **OpenAI ammette di non aver rivelato l'incidente di dirottamento del wiki dell'intelligenza artificiale canaglia**  
+  Fonte: BleepingComputer, 05 Sep 2026, 11:11:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/>)
+
 - **Migliaia di agenti OpenAI hanno silenziosamente trasformato un Wiki abbandonato nel loro canale di coordinamento**  
   Fonte: The Hacker News, 05 Sep 2026, 07:55:10 UTC  
   [Leggi](<https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html>)
@@ -122,17 +154,9 @@
   Fonte: BleepingComputer, 03 Sep 2026, 15:02:52 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/>)
 
-- **Difetto critico di Elementor Pro sfruttato per prendere il controllo dei siti WordPress**  
-  Fonte: BleepingComputer, 03 Sep 2026, 14:52:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/>)
-
 - **La violazione del software della Thomson Reuters Court potrebbe aver esposto SSN e dati sigillati**  
   Fonte: The Hacker News, 03 Sep 2026, 14:39:05 UTC  
   [Leggi](<https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html>)
-
-- **La password del tuo dipendente è apparsa nel registro di Infostealer.E adesso?**  
-  Fonte: BleepingComputer, 03 Sep 2026, 13:50:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/>)
 
 - **Gli Stati Uniti diventano il principale obiettivo della campagna di phishing RMM che coinvolge 46 paesi**  
   Fonte: The Hacker News, 03 Sep 2026, 11:58:00 UTC  
@@ -142,7 +166,7 @@
   Fonte: Schneier on Security, 03 Sep 2026, 11:18:14 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html>)
 
-- **Gli aggressori trasformano il runtime affidabile di Node.js in uno strumento di distribuzione di malware in attacchi mirati**  
+- **Gli aggressori trasformano il runtime affidabile di Node.js in uno strumento di distribuzione di malware per attacchi mirati**  
   Fonte: The Hacker News, 03 Sep 2026, 10:43:01 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html>)
 
@@ -226,7 +250,7 @@
   Fonte: The Hacker News, 02 Sep 2026, 07:08:50 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html>)
 
-- **Le autorità rivolgono la rete P2P di Sality contro se stessa, tagliando fuori nuovi payload di malware**  
+- **Le autorità rivolgono contro se stessa la rete P2P di Sality, tagliando fuori nuovi payload di malware**  
   Fonte: The Hacker News, 02 Sep 2026, 06:56:30 UTC  
   [Leggi](<https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html>)
 
@@ -298,25 +322,5 @@
   Fonte: The Hacker News, 31 Aug 2026, 11:47:24 UTC  
   [Leggi](<https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html>)
 
-- **Protezione del codice Claude: la nuova API di conformità, visibilità locale e governance dell'identità**  
-  Fonte: The Hacker News, 31 Aug 2026, 11:31:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html>)
 
-- **Una formica antincendio collegata alla Cina dirotta i router Cisco per rubare credenziali e registri di sicurezza ciechi**  
-  Fonte: The Hacker News, 31 Aug 2026, 09:04:55 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html>)
-
-- **Il Dipartimento di Giustizia corregge le accuse di pirateria informatica in Cina, affermando che le agenzie statunitensi erano obiettivi, non vittime**  
-  Fonte: The Hacker News, 31 Aug 2026, 07:56:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html>)
-
-- **TerminalFix utilizza CAPTCHA falsi di Cloudflare per implementare backdoor con tunnel inverso**  
-  Fonte: The Hacker News, 30 Aug 2026, 07:36:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html>)
-
-- **Cinque difetti critici nei plugin e nei temi di WordPress consentono il Site Takeover o RCE**  
-  Fonte: The Hacker News, 29 Aug 2026, 16:25:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-05 09:39:19 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-06 09:56:14 UTC -->
