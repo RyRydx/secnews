@@ -2,7 +2,43 @@
 
 ## Ultimi 7 giorni
 
-- **Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication**  
+- **ChatGPT ora può connettersi alle tue app personali per imitare lo stile di scrittura**  
+  Fonte: BleepingComputer, 07 Sep 2026, 10:36:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/>)
+
+- **Gli hacker sfruttano i nuovi difetti di MikroTik RouterOS per dirottare i router**  
+  Fonte: BleepingComputer, 07 Sep 2026, 10:32:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/>)
+
+- **ConnectWise avvisa del nuovo difetto ScreenConnect senza patch**  
+  Fonte: BleepingComputer, 07 Sep 2026, 10:06:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/>)
+
+- **N-able pubblica il quarto hotfix N-centrale in cinque settimane per un difetto RCE non autenticato**  
+  Fonte: The Hacker News, 07 Sep 2026, 08:31:12 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html>)
+
+- **Il malware JSCeal può ignorare l'autenticazione di Google utilizzando cookie di sessione rubati**  
+  Fonte: The Hacker News, 07 Sep 2026, 07:53:04 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html>)
+
+- **Le patch N-able massimizzano la gravità del difetto N-centrale nel mezzo degli attacchi in corso**  
+  Fonte: BleepingComputer, 07 Sep 2026, 06:17:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/>)
+
+- **ChatGPT Astra è ora disponibile con un abbonamento da $ 20 Plus**  
+  Fonte: BleepingComputer, 07 Sep 2026, 01:15:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/>)
+
+- **Aggiornamento settimanale 520: L'edizione senza script**  
+  Fonte: Troy Hunt, 06 Sep 2026, 23:31:36 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-520/>)
+
+- **Gli aggressori nascondono esche di phishing utilizzando caratteri Unicode invisibili**  
+  Fonte: BleepingComputer, 06 Sep 2026, 14:23:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/>)
+
+- **Gli aggressori prendono il controllo dei router MikroTik tramite SSH esposto a Internet senza autenticazione**  
   Fonte: The Hacker News, 06 Sep 2026, 09:32:38 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html>)
 
@@ -82,7 +118,7 @@
   Fonte: BleepingComputer, 04 Sep 2026, 13:22:01 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/>)
 
-- **L'interruzione di Exchange Online provoca ritardi nella posta elettronica ed errori "Server occupato".**  
+- **L'interruzione di Exchange Online causa ritardi nella posta elettronica ed errori "Server occupato".**  
   Fonte: BleepingComputer, 04 Sep 2026, 12:22:30 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/>)
 
@@ -114,21 +150,9 @@
   Fonte: The Hacker News, 04 Sep 2026, 06:47:52 UTC  
   [Leggi](<https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html>)
 
-- **Un ospedale francese è stato multato di 500.000 euro dopo che la violazione ha rivelato i dati di 727.000 persone**  
-  Fonte: BleepingComputer, 03 Sep 2026, 22:01:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/>)
-
 - **Presentazione del rilevamento e della risoluzione delle vulnerabilità sensibili al contesto con i modelli Cloudflare Managed Defense e OpenAI Daybreak**  
   Fonte: Cloudflare Blog - Security, 03 Sep 2026, 21:03:02 UTC  
   [Leggi](<https://blog.cloudflare.com/vulnerability-discovery-remediation/>)
-
-- **L'infrastruttura del registro di Coder è stata compromessa per inviare moduli dannosi**  
-  Fonte: BleepingComputer, 03 Sep 2026, 20:04:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/>)
-
-- **HPE risolve il difetto critico nell’esecuzione del codice remoto ArubaOS-CX**  
-  Fonte: BleepingComputer, 03 Sep 2026, 18:28:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/>)
 
 - **ThreatsDay: kit di phishing per CEO, 5.000 attacchi agli account Dropbox, trappole OAuth e altre 17 storie**  
   Fonte: The Hacker News, 03 Sep 2026, 18:02:47 UTC  
@@ -142,18 +166,6 @@
   Fonte: The Hacker News, 03 Sep 2026, 15:26:47 UTC  
   [Leggi](<https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html>)
 
-- **Microsoft: il bug di reimpostazione del mouse KB5120998 interessa solo i PC non inglesi**  
-  Fonte: BleepingComputer, 03 Sep 2026, 15:22:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/>)
-
-- **OpenAI conferma che ChatGPT è inattivo prima del lancio del modello "Astra".**  
-  Fonte: BleepingComputer, 03 Sep 2026, 15:13:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/>)
-
-- **Anthropic conferma che Claude è a terra, diversi modelli interessati**  
-  Fonte: BleepingComputer, 03 Sep 2026, 15:02:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/>)
-
 - **La violazione del software della Thomson Reuters Court potrebbe aver esposto SSN e dati sigillati**  
   Fonte: The Hacker News, 03 Sep 2026, 14:39:05 UTC  
   [Leggi](<https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html>)
@@ -166,7 +178,7 @@
   Fonte: Schneier on Security, 03 Sep 2026, 11:18:14 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html>)
 
-- **Gli aggressori trasformano il runtime affidabile di Node.js in uno strumento di distribuzione di malware per attacchi mirati**  
+- **Gli aggressori trasformano il runtime affidabile di Node.js in uno strumento di distribuzione di malware in attacchi mirati**  
   Fonte: The Hacker News, 03 Sep 2026, 10:43:01 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html>)
 
@@ -290,7 +302,7 @@
   Fonte: The Hacker News, 01 Sep 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html>)
 
-- **Ricablare la serie della democrazia su The Renovator**  
+- **Ricablare la serie sulla democrazia su The Renovator**  
   Fonte: Schneier on Security, 01 Sep 2026, 09:59:07 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html>)
 
@@ -314,13 +326,5 @@
   Fonte: The Hacker News, 31 Aug 2026, 13:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html>)
 
-- **La backdoor ValleyRAT si nasconde nell'adware firmato che gli utenti aggiungono alle esclusioni antivirus**  
-  Fonte: The Hacker News, 31 Aug 2026, 12:14:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html>)
 
-- **Gli operatori di Aurora Ransomware utilizzano l'intelligenza artificiale del cursore negli attacchi contro 10 bersagli**  
-  Fonte: The Hacker News, 31 Aug 2026, 11:47:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-06 09:56:14 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-07 11:03:25 UTC -->
