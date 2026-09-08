@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Sfruttamento delle patch Adobe per Magento Zero-Day per l'implementazione di Rust Backdoor e PHP Web Shell**  
+  Fonte: The Hacker News, 08 Sep 2026, 09:13:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html>)
+
+- **BengalSEO avvelena i risultati di ricerca di Bing per fornire truffe su MayaBot e supporto tecnico**  
+  Fonte: The Hacker News, 08 Sep 2026, 08:43:51 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html>)
+
+- **220 milioni di record di viaggiatori esposti nella fuga di notizie APIS legata al Vietnam**  
+  Fonte: BleepingComputer, 08 Sep 2026, 07:35:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/>)
+
+- **Grindr pagherà 26 milioni di sterline per risolvere le controversie nel Regno Unito sulla condivisione dei dati sullo stato dell'HIV**  
+  Fonte: The Hacker News, 08 Sep 2026, 07:00:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html>)
+
+- **PEEP trasforma Chrome ed Edge in backdoor post-compromesso per l'esecuzione dei comandi dell'host**  
+  Fonte: The Hacker News, 07 Sep 2026, 18:12:09 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html>)
+
+- **Magento StyleSmuggler zero-day sfruttato per distribuire backdoor Linux**  
+  Fonte: BleepingComputer, 07 Sep 2026, 16:50:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/>)
+
+- **Chiamate IT false prendono di mira i dirigenti negli attacchi di furto di dati ed estorsione di Microsoft 365**  
+  Fonte: The Hacker News, 07 Sep 2026, 15:51:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html>)
+
+- **Il servizio di phishing BigBear Microsoft 365 ha aggirato l'MFA presso 258 organizzazioni**  
+  Fonte: BleepingComputer, 07 Sep 2026, 15:39:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/>)
+
+- **⚡ Riepilogo settimanale: Chrome 0-Day, dirottamenti del router, attacco alla catena di fornitura del programmatore e altro ancora**  
+  Fonte: The Hacker News, 07 Sep 2026, 14:36:07 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html>)
+
+- **Mathspace rivela una violazione dei dati che colpisce oltre 1 milione di persone**  
+  Fonte: BleepingComputer, 07 Sep 2026, 13:05:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/>)
+
+- **L’impatto della violazione dei dati di Trezor raggiunge ora 81.000 clienti**  
+  Fonte: BleepingComputer, 07 Sep 2026, 12:16:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/>)
+
+- **La tua lista di controllo per la sicurezza del cloud non funziona come pensi**  
+  Fonte: The Hacker News, 07 Sep 2026, 11:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html>)
+
+- **I client ScreenConnect non autorizzati diffondono la catena VBScript in quattro fasi agli host appena connessi**  
+  Fonte: The Hacker News, 07 Sep 2026, 11:36:39 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html>)
+
+- **Bug Oracle Padding dell'interfaccia utente di Telerik concatenato a RCE non autenticato: rilasciato un exploit pubblico**  
+  Fonte: The Hacker News, 07 Sep 2026, 11:20:14 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html>)
+
+- **Camuffamento automobilistico per nascondersi dalle telecamere dello stormo**  
+  Fonte: Schneier on Security, 07 Sep 2026, 11:06:40 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html>)
+
 - **ChatGPT ora può connettersi alle tue app personali per imitare lo stile di scrittura**  
   Fonte: BleepingComputer, 07 Sep 2026, 10:36:37 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/>)
@@ -9,6 +69,10 @@
 - **Gli hacker sfruttano i nuovi difetti di MikroTik RouterOS per dirottare i router**  
   Fonte: BleepingComputer, 07 Sep 2026, 10:32:40 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/>)
+
+- **Come un buco nel sistema di accesso di Lenovo ha permesso agli hacker di entrare in 5.000 account Dropbox**  
+  Fonte: Graham Cluley, 07 Sep 2026, 10:30:27 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/lenovo-login-system-hackers-dropbox>)
 
 - **ConnectWise avvisa del nuovo difetto ScreenConnect senza patch**  
   Fonte: BleepingComputer, 07 Sep 2026, 10:06:38 UTC  
@@ -105,26 +169,6 @@
 - **La nuova backdoor di Ted si nasconde all'interno delle build HAProxy delle vittime per intercettare il traffico web**  
   Fonte: The Hacker News, 04 Sep 2026, 14:51:13 UTC  
   [Leggi](<https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html>)
-
-- **Microsoft afferma che alcuni utenti non possono aprire il client desktop Teams**  
-  Fonte: BleepingComputer, 04 Sep 2026, 14:30:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/>)
-
-- **39 nuovi metodi che compromettono l'autenticazione della passkey**  
-  Fonte: BleepingComputer, 04 Sep 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/>)
-
-- **Il nuovo zero-day CrowdStrike "FalconFlank" garantisce i privilegi di SISTEMA**  
-  Fonte: BleepingComputer, 04 Sep 2026, 13:22:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/>)
-
-- **L'interruzione di Exchange Online causa ritardi nella posta elettronica ed errori "Server occupato".**  
-  Fonte: BleepingComputer, 04 Sep 2026, 12:22:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/>)
-
-- **Google avverte della nuova falla zero-day di Chrome sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 04 Sep 2026, 11:48:17 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/>)
 
 - **Vulnerabilità della sicurezza in un sistema di voto**  
   Fonte: Schneier on Security, 04 Sep 2026, 11:09:35 UTC  
@@ -282,49 +326,9 @@
   Fonte: Schneier on Security, 01 Sep 2026, 17:36:13 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html>)
 
-- **Breeze Comet esegue centinaia di transazioni fraudolente tramite i sistemi di pagamento brasiliani**  
-  Fonte: The Hacker News, 01 Sep 2026, 17:19:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html>)
-
 - **Materiali di formazione russi sulle operazioni informatiche trapelati**  
   Fonte: Schneier on Security, 01 Sep 2026, 16:29:10 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html>)
 
-- **13 pacchetti dannosi di Packagist prendono di mira gli iPhone senza patch per rubare i semi del portafoglio crittografico**  
-  Fonte: The Hacker News, 01 Sep 2026, 14:07:20 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html>)
 
-- **Gli hacker iraniani si atteggiano a reclutatori per fornire RAT multipiattaforma attraverso test di codifica**  
-  Fonte: The Hacker News, 01 Sep 2026, 13:08:58 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html>)
-
-- **Gli autori delle minacce non vogliono attacchi migliori.Vogliono quelli ripetibili**  
-  Fonte: The Hacker News, 01 Sep 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html>)
-
-- **Ricablare la serie sulla democrazia su The Renovator**  
-  Fonte: Schneier on Security, 01 Sep 2026, 09:59:07 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html>)
-
-- **Gli aggressori rubano la chiave API METR e consumano crediti AI per un valore di circa $ 600.000**  
-  Fonte: The Hacker News, 01 Sep 2026, 09:05:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html>)
-
-- **UAC-0099, allineato con la Russia, inserisce un messaggio di malware per l'arma nucleare per interrompere l'analisi dell'intelligenza artificiale**  
-  Fonte: The Hacker News, 01 Sep 2026, 08:26:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html>)
-
-- **Gli aggressori sfruttano il Langflow critico e individuano i difetti nell'attività di sondaggio delle credenziali e C2**  
-  Fonte: The Hacker News, 01 Sep 2026, 07:22:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html>)
-
-- **Le frodi lavorative in Corea del Nord si estendono oltre l’IT, arrivando anche alla sanità e alle vendite**  
-  Fonte: The Hacker News, 31 Aug 2026, 17:24:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html>)
-
-- **⚡ Riepilogo settimanale: proxy spia cinese, agenti IA interrotti, backdoor del router e altro ancora**  
-  Fonte: The Hacker News, 31 Aug 2026, 13:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-07 11:03:25 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-08 10:18:44 UTC -->
