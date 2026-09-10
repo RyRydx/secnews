@@ -2,9 +2,93 @@
 
 ## Ultimi 7 giorni
 
+- **CISA: falla WatchGuard RCE ora sfruttata negli attacchi ransomware**  
+  Fonte: BleepingComputer, 10 Sep 2026, 09:10:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/>)
+
+- **Microsoft risolve il bug che cancellava le impostazioni del desktop di Windows**  
+  Fonte: BleepingComputer, 10 Sep 2026, 08:08:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/>)
+
+- **Quasi 1 gateway LiteLLM esposto su 10 ha accettato la chiave amministratore "sk-1234" di esempio**  
+  Fonte: The Hacker News, 10 Sep 2026, 07:12:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html>)
+
+- **Anthropic rivela il quarto incidente di pirateria informatica che coinvolge Claude Opus 4.6**  
+  Fonte: The Hacker News, 10 Sep 2026, 07:04:01 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html>)
+
+- **Trezor avvisa gli utenti in caso di violazione del provider di posta elettronica e attacchi di phishing**  
+  Fonte: BleepingComputer, 10 Sep 2026, 06:56:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/>)
+
+- **Podcast #484 di Smashing Security: Come i siti web ti seguono in silenzio**  
+  Fonte: Graham Cluley, 09 Sep 2026, 23:05:54 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-484/>)
+
+- **Cisco conferma la falla CVE-2026-20079 Secure FMC sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 09 Sep 2026, 21:40:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/>)
+
+- **AdaptHealth conferma che 4,1 milioni di persone sono state esposte all'attacco informatico di luglio**  
+  Fonte: BleepingComputer, 09 Sep 2026, 21:30:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/>)
+
+- **Gli auricolari Skullcandy Dime 3 espongono gli utenti al dirottamento del Bluetooth**  
+  Fonte: BleepingComputer, 09 Sep 2026, 21:02:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/>)
+
+- **Gli Stati Uniti interrompono il mercato delle truffe Xinbi Guarantee e congelano 52,8 milioni di dollari in criptovalute**  
+  Fonte: The Hacker News, 09 Sep 2026, 18:26:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html>)
+
+- **Gli Stati Uniti affermano che le aziende cinesi hanno estratto miliardi di token da modelli di intelligenza artificiale di frontiera**  
+  Fonte: BleepingComputer, 09 Sep 2026, 16:48:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/>)
+
+- **Quattro gruppi di spionaggio hanno utilizzato lo stesso exploit kit di Chrome e Windows in una settimana**  
+  Fonte: The Hacker News, 09 Sep 2026, 16:34:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html>)
+
+- **Dati della patente di guida in vendita**  
+  Fonte: Schneier on Security, 09 Sep 2026, 16:05:00 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html>)
+
+- **Veradigm avverte della violazione dei dati dei pazienti dopo l'attacco di una banda di ransomware**  
+  Fonte: BleepingComputer, 09 Sep 2026, 15:31:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/>)
+
+- **I registri di Infostealer espongono token AI riproducibili che possono bypassare l'MFA**  
+  Fonte: The Hacker News, 09 Sep 2026, 14:23:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html>)
+
+- **L'anello più debole dell'AMF: il recupero dell'account è il nuovo percorso di attacco**  
+  Fonte: BleepingComputer, 09 Sep 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/>)
+
+- **Webinar: scopri come rispondere a "Siamo esposti?"Più veloce dopo un nuovo CVE**  
+  Fonte: The Hacker News, 09 Sep 2026, 11:57:36 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html>)
+
+- **Il difetto di DeepSeek Harness consente agli agenti AI di disattivare il proprio sandbox di file senza approvazione**  
+  Fonte: The Hacker News, 09 Sep 2026, 11:17:07 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html>)
+
+- **Claude Fable risolve un codice storico**  
+  Fonte: Schneier on Security, 09 Sep 2026, 11:08:26 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html>)
+
+- **Il difetto critico di Alby Hub potrebbe consentire agli aggressori di impossessarsi dei portafogli Bitcoin esposti a Internet**  
+  Fonte: The Hacker News, 09 Sep 2026, 10:43:04 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html>)
+
 - **Oltre 36.000 server Plex esposti vulnerabili a recenti difetti**  
   Fonte: BleepingComputer, 09 Sep 2026, 10:11:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/>)
+
+- **Le agenzie statunitensi accusano le aziende cinesi di intelligenza artificiale di distillare Claude, GPT, Gemini e Grok**  
+  Fonte: The Hacker News, 09 Sep 2026, 09:32:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html>)
 
 - **Chrome V8 Zero-Day sfruttato in natura consente l'esecuzione del codice all'interno della sandbox**  
   Fonte: The Hacker News, 09 Sep 2026, 09:11:03 UTC  
@@ -62,37 +146,9 @@
   Fonte: BleepingComputer, 08 Sep 2026, 20:35:14 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/>)
 
-- **La vera domanda della CRA dell'UE: cosa è stato spedito e quando lo hai saputo?**  
-  Fonte: BleepingComputer, 08 Sep 2026, 20:24:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/>)
-
-- **Gli hacker violano i dispositivi APM F5 BIG-IP per distribuire il rootkit Linux**  
-  Fonte: BleepingComputer, 08 Sep 2026, 20:08:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/>)
-
-- **Microsoft rilascia l'aggiornamento di sicurezza esteso KB5122878 di Windows 10**  
-  Fonte: BleepingComputer, 08 Sep 2026, 18:49:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/>)
-
-- **Il Patch Tuesday di settembre 2026 di Microsoft corregge 966 difetti, 2 zero-day**  
-  Fonte: BleepingComputer, 08 Sep 2026, 18:18:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/>)
-
-- **Rilasciati gli aggiornamenti cumulativi di Windows 11 KB5124008 e KB5122880**  
-  Fonte: BleepingComputer, 08 Sep 2026, 17:57:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/>)
-
 - **Le IA come geni moderni**  
   Fonte: Schneier on Security, 08 Sep 2026, 17:12:42 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html>)
-
-- **Gli hacker di ShinyHunters denunciano la violazione del database DMV "DAVID" della Florida**  
-  Fonte: BleepingComputer, 08 Sep 2026, 16:35:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/>)
-
-- **OpenAI afferma che l'interruzione di ChatGPT causa errori di generazione delle immagini**  
-  Fonte: BleepingComputer, 08 Sep 2026, 16:28:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/>)
 
 - **Slim Spider ruba i segreti della custodia delle criptovalute da un istituto finanziario brasiliano**  
   Fonte: The Hacker News, 08 Sep 2026, 16:20:23 UTC  
@@ -101,14 +157,6 @@
 - **L'esercito americano ha appena disattivato il tracciamento degli annunci sui suoi telefoni.Forse dovresti farlo anche tu**  
   Fonte: Graham Cluley, 08 Sep 2026, 15:33:07 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/us-military-turned-off-ad-tracking-phones>)
-
-- **Gli aggiornamenti di agosto attivano errori 0xc0000409 su Windows Server 2016**  
-  Fonte: BleepingComputer, 08 Sep 2026, 15:22:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/>)
-
-- **SAP avvisa della vulnerabilità del kernel "OVERPASS" di massima gravità**  
-  Fonte: BleepingComputer, 08 Sep 2026, 14:55:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/>)
 
 - **Gli hacker liquidi restituiscono 3.400 Bitcoin sottratti tramite Elements Bug, detenendo ancora 47 milioni di dollari in BTC**  
   Fonte: The Hacker News, 08 Sep 2026, 14:54:30 UTC  
@@ -278,57 +326,9 @@
   Fonte: The Hacker News, 03 Sep 2026, 18:02:47 UTC  
   [Leggi](<https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html>)
 
-- **Un difetto critico del Cisco Nexus 9000 consente agli aggressori remoti non autenticati di eseguire il codice come root**  
-  Fonte: The Hacker News, 03 Sep 2026, 15:52:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html>)
-
-- **Il malware BraZetsu trasforma gli host Windows compromessi in un inventario del mercato criminale**  
-  Fonte: The Hacker News, 03 Sep 2026, 15:26:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html>)
-
-- **La violazione del software della Thomson Reuters Court potrebbe aver esposto SSN e dati sigillati**  
-  Fonte: The Hacker News, 03 Sep 2026, 14:39:05 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html>)
-
-- **Gli Stati Uniti diventano il principale obiettivo della campagna di phishing RMM che coinvolge 46 paesi**  
-  Fonte: The Hacker News, 03 Sep 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html>)
-
 - **Ricerca di truffe sull'occupazione**  
   Fonte: Schneier on Security, 03 Sep 2026, 11:18:14 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html>)
 
-- **Gli aggressori trasformano il runtime affidabile di Node.js in uno strumento di distribuzione di malware in attacchi mirati**  
-  Fonte: The Hacker News, 03 Sep 2026, 10:43:01 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html>)
 
-- **La portata di Shai-Hulud è appena cresciuta fino a raggiungere 469 posizioni di credenziali.Ecco cosa significa**  
-  Fonte: The Hacker News, 03 Sep 2026, 10:36:39 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html>)
-
-- **L'exploit spyware Zero-Click di Pegasus infetta l'iPhone di un membro del movimento studentesco serbo**  
-  Fonte: The Hacker News, 03 Sep 2026, 08:43:17 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html>)
-
-- **Un ricercatore pubblica il PoC FalconFlank che mostra l'escalation dei privilegi in CrowdStrike Falcon**  
-  Fonte: The Hacker News, 03 Sep 2026, 06:26:59 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html>)
-
-- **CISA aggiunge sette difetti sfruttati mentre gli aggressori utilizzano Reverse Shell e Crypto Miner**  
-  Fonte: The Hacker News, 03 Sep 2026, 05:19:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html>)
-
-- **Smashing Security podcast n. 483: questa intelligenza artificiale aiuta i ladri a rubare il tuo iPhone**  
-  Fonte: Graham Cluley, 02 Sep 2026, 23:10:47 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-483/>)
-
-- **Gli agenti AI mi stanno ora inviando email con i loro dubbi sulla sicurezza**  
-  Fonte: Schneier on Security, 02 Sep 2026, 18:28:08 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html>)
-
-- **L'ondata di truffe Revolut ruba £ 180.000 ai residenti del Jersey in sole quattro settimane**  
-  Fonte: Graham Cluley, 02 Sep 2026, 14:48:00 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/revolut-scam-jersey>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-09 10:24:10 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-10 10:16:02 UTC -->
