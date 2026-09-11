@@ -2,6 +2,110 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft risolve gli errori di avvio di Teams e Outlook su PC Windows ARM**  
+  Fonte: BleepingComputer, 11 Sep 2026, 09:39:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/>)
+
+- **Trezor: 347.000 utenti presi di mira da attacchi di phishing dopo la violazione di Brevo**  
+  Fonte: BleepingComputer, 11 Sep 2026, 07:55:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/>)
+
+- **Gli aggressori concatenano i difetti di JFrog Artifactory per ottenere il controllo amministrativo e installare backdoor**  
+  Fonte: The Hacker News, 11 Sep 2026, 07:31:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html>)
+
+- **UNC3569 collegato alla Cina ha sfruttato il difetto del metodo di input Sogou per l'implementazione della backdoor GRAYRABBIT**  
+  Fonte: The Hacker News, 11 Sep 2026, 07:14:09 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html>)
+
+- **Membro della banda di ransomware Conti condannato a 4 anni di prigione**  
+  Fonte: BleepingComputer, 11 Sep 2026, 06:48:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/>)
+
+- **PaperCut sostituisce le patch di emergenza con correzioni per due difetti attivamente sfruttati**  
+  Fonte: The Hacker News, 11 Sep 2026, 06:46:18 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html>)
+
+- **Difetti di Cisco FMC sfruttati per rubare credenziali e distribuire Qilin Ransomware**  
+  Fonte: The Hacker News, 11 Sep 2026, 06:19:59 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html>)
+
+- **Il nuovo malware Android crittografa file, ruba dati e molesta le vittime**  
+  Fonte: BleepingComputer, 10 Sep 2026, 21:40:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/>)
+
+- **Gli aggiornamenti di settembre di Windows Server interrompono i Servizi Desktop remoto**  
+  Fonte: BleepingComputer, 10 Sep 2026, 20:34:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/>)
+
+- **Surfshark VPN afferma che gli hacker hanno violato i test interni e i server proxy**  
+  Fonte: BleepingComputer, 10 Sep 2026, 19:15:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/>)
+
+- **L'aggiornamento di Microsoft Excel KB5002914 interrompe la funzione copia e incolla per alcuni utenti**  
+  Fonte: BleepingComputer, 10 Sep 2026, 19:07:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/>)
+
+- **ThreatsDay: 200 difetti Android, phishing creato dal browser, 119.000 negozi di truffe e altre 23 storie**  
+  Fonte: The Hacker News, 10 Sep 2026, 17:47:38 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html>)
+
+- **L'attacco basato sull'intelligenza artificiale ha sfruttato le falle di PaperCut per hackerare 395 organizzazioni**  
+  Fonte: BleepingComputer, 10 Sep 2026, 15:55:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/>)
+
+- **Difetti di Cisco FMC sfruttati dalla banda di ransomware, hacker sponsorizzati dallo stato**  
+  Fonte: BleepingComputer, 10 Sep 2026, 15:43:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/>)
+
+- **IDScan conferma la violazione legata al furto di 153 milioni di patenti di guida**  
+  Fonte: BleepingComputer, 10 Sep 2026, 14:55:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/>)
+
+- **Accesso anticipato a Google Play abusato per pubblicare migliaia di app Android ingannevoli**  
+  Fonte: The Hacker News, 10 Sep 2026, 14:36:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html>)
+
+- **Il nuovo kit "BlueMoon" sfruttava i difetti zero-day di Windows e Chrome**  
+  Fonte: BleepingComputer, 10 Sep 2026, 14:11:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/>)
+
+- **Le 4 principali minacce che abbiamo individuato esaminando ogni avviso per un trimestre**  
+  Fonte: BleepingComputer, 10 Sep 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/>)
+
+- **"Anne Hathaway" ammette di essere a capo di una banda di ladri di criptovalute da 245 milioni di dollari che ha speso una fortuna in nightclub, orologi e auto di lusso**  
+  Fonte: Graham Cluley, 10 Sep 2026, 13:32:28 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/anne-hathaway-245-million-crypto-theft-nightclubs-watches-luxury-cars>)
+
+- **1.1.1.1 ora supporta DNSSEC post-quantistico, tutti i 2.420 byte**  
+  Fonte: Cloudflare Blog - Security, 10 Sep 2026, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/post-quantum-dnssec-1111/>)
+
+- **Check Point rivela due difetti nei certificati VPN con classificazione 9.8 che consentono RCE non autenticato**  
+  Fonte: The Hacker News, 10 Sep 2026, 11:45:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html>)
+
+- **L'aggressore di PaperCut utilizza centinaia di agenti IA per compromettere oltre 440 istanze**  
+  Fonte: The Hacker News, 10 Sep 2026, 11:41:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html>)
+
+- **Gigabud crea profili di lavoro Android per nascondere i controlli malware delle app bancarie**  
+  Fonte: The Hacker News, 10 Sep 2026, 11:33:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html>)
+
+- **Microsoft afferma che gli aggiornamenti di settembre risolvono i problemi di ripristino delle impostazioni del mouse**  
+  Fonte: BleepingComputer, 10 Sep 2026, 11:14:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/>)
+
+- **Le IA comprimono la sequenza temporale degli exploit**  
+  Fonte: Schneier on Security, 10 Sep 2026, 10:40:35 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html>)
+
+- **Sfruttati i flag CISA Difetti Cisco, Citrix e Fortinet fissano la scadenza per la patch federale del 12 settembre**  
+  Fonte: The Hacker News, 10 Sep 2026, 10:36:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html>)
+
 - **CISA: falla WatchGuard RCE ora sfruttata negli attacchi ransomware**  
   Fonte: BleepingComputer, 10 Sep 2026, 09:10:20 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/>)
@@ -18,33 +122,13 @@
   Fonte: The Hacker News, 10 Sep 2026, 07:04:01 UTC  
   [Leggi](<https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html>)
 
-- **Trezor avvisa gli utenti in caso di violazione del provider di posta elettronica e attacchi di phishing**  
-  Fonte: BleepingComputer, 10 Sep 2026, 06:56:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/>)
-
 - **Podcast #484 di Smashing Security: Come i siti web ti seguono in silenzio**  
   Fonte: Graham Cluley, 09 Sep 2026, 23:05:54 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-484/>)
 
-- **Cisco conferma la falla CVE-2026-20079 Secure FMC sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 09 Sep 2026, 21:40:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/>)
-
-- **AdaptHealth conferma che 4,1 milioni di persone sono state esposte all'attacco informatico di luglio**  
-  Fonte: BleepingComputer, 09 Sep 2026, 21:30:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/>)
-
-- **Gli auricolari Skullcandy Dime 3 espongono gli utenti al dirottamento del Bluetooth**  
-  Fonte: BleepingComputer, 09 Sep 2026, 21:02:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/>)
-
 - **Gli Stati Uniti interrompono il mercato delle truffe Xinbi Guarantee e congelano 52,8 milioni di dollari in criptovalute**  
   Fonte: The Hacker News, 09 Sep 2026, 18:26:05 UTC  
   [Leggi](<https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html>)
-
-- **Gli Stati Uniti affermano che le aziende cinesi hanno estratto miliardi di token da modelli di intelligenza artificiale di frontiera**  
-  Fonte: BleepingComputer, 09 Sep 2026, 16:48:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/>)
 
 - **Quattro gruppi di spionaggio hanno utilizzato lo stesso exploit kit di Chrome e Windows in una settimana**  
   Fonte: The Hacker News, 09 Sep 2026, 16:34:05 UTC  
@@ -54,17 +138,9 @@
   Fonte: Schneier on Security, 09 Sep 2026, 16:05:00 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html>)
 
-- **Veradigm avverte della violazione dei dati dei pazienti dopo l'attacco di una banda di ransomware**  
-  Fonte: BleepingComputer, 09 Sep 2026, 15:31:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/>)
-
 - **I registri di Infostealer espongono token AI riproducibili che possono bypassare l'MFA**  
   Fonte: The Hacker News, 09 Sep 2026, 14:23:55 UTC  
   [Leggi](<https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html>)
-
-- **L'anello più debole dell'AMF: il recupero dell'account è il nuovo percorso di attacco**  
-  Fonte: BleepingComputer, 09 Sep 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/>)
 
 - **Webinar: scopri come rispondere a "Siamo esposti?"Più veloce dopo un nuovo CVE**  
   Fonte: The Hacker News, 09 Sep 2026, 11:57:36 UTC  
@@ -82,10 +158,6 @@
   Fonte: The Hacker News, 09 Sep 2026, 10:43:04 UTC  
   [Leggi](<https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html>)
 
-- **Oltre 36.000 server Plex esposti vulnerabili a recenti difetti**  
-  Fonte: BleepingComputer, 09 Sep 2026, 10:11:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/>)
-
 - **Le agenzie statunitensi accusano le aziende cinesi di intelligenza artificiale di distillare Claude, GPT, Gemini e Grok**  
   Fonte: The Hacker News, 09 Sep 2026, 09:32:26 UTC  
   [Leggi](<https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html>)
@@ -93,10 +165,6 @@
 - **Chrome V8 Zero-Day sfruttato in natura consente l'esecuzione del codice all'interno della sandbox**  
   Fonte: The Hacker News, 09 Sep 2026, 09:11:03 UTC  
   [Leggi](<https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html>)
-
-- **Uomo condannato a 15 anni per aver estorto donne con video porno generati dall'intelligenza artificiale**  
-  Fonte: BleepingComputer, 09 Sep 2026, 08:44:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/>)
 
 - **Ransomware CRPx0: cosa devi sapere**  
   Fonte: Graham Cluley, 09 Sep 2026, 08:42:55 UTC  
@@ -110,17 +178,9 @@
   Fonte: The Hacker News, 09 Sep 2026, 07:36:49 UTC  
   [Leggi](<https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html>)
 
-- **Il nuovo zero-day di Microsoft Defender "ShieldCrash" garantisce l'accesso al SISTEMA**  
-  Fonte: BleepingComputer, 09 Sep 2026, 07:30:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/>)
-
 - **Un ricercatore rilascia un nuovo PoC di Microsoft Defender che mostra che la patch ShieldBreak può essere aggirata**  
   Fonte: The Hacker News, 09 Sep 2026, 06:47:27 UTC  
   [Leggi](<https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html>)
-
-- **Google avverte del nuovo bug zero-day di Chrome sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 09 Sep 2026, 06:25:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/>)
 
 - **SAP applica una patch al difetto del kernel CVSS 10.0 che consente l'esecuzione di codice remoto non autenticato**  
   Fonte: The Hacker News, 09 Sep 2026, 06:25:45 UTC  
@@ -134,17 +194,9 @@
   Fonte: The Hacker News, 09 Sep 2026, 04:27:51 UTC  
   [Leggi](<https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html>)
 
-- **Microsoft aggiunge API di rilevamento dell'età in grado di stabilire se gli utenti sono bambini, adolescenti o adulti**  
-  Fonte: BleepingComputer, 09 Sep 2026, 01:16:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/>)
-
 - **Microsoft risolve quasi 1.000 buchi di sicurezza**  
   Fonte: Krebs on Security, 08 Sep 2026, 21:44:22 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/>)
-
-- **La rete antifrode DoppelCart utilizza 119.000 negozi falsi per rubare carte di credito**  
-  Fonte: BleepingComputer, 08 Sep 2026, 20:35:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/>)
 
 - **Le IA come geni moderni**  
   Fonte: Schneier on Security, 08 Sep 2026, 17:12:42 UTC  
@@ -266,14 +318,6 @@
   Fonte: The Hacker News, 05 Sep 2026, 14:17:02 UTC  
   [Leggi](<https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html>)
 
-- **Migliaia di agenti OpenAI hanno silenziosamente trasformato un Wiki abbandonato nel loro canale di coordinamento**  
-  Fonte: The Hacker News, 05 Sep 2026, 07:55:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html>)
-
-- **Gli aggressori sfruttano le falle di PaperCut per rubare credenziali da scuole e università**  
-  Fonte: The Hacker News, 05 Sep 2026, 07:31:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html>)
-
 - **Blog di calamari del venerdì: calamari su un bastone alla fiera dello Stato di New York**  
   Fonte: Schneier on Security, 04 Sep 2026, 21:01:35 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html>)
@@ -281,18 +325,6 @@
 - **Utilizzo di una VM per contenere un agente AI**  
   Fonte: Schneier on Security, 04 Sep 2026, 16:31:38 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html>)
-
-- **Una campagna di phishing invia milioni di e-mail utilizzando Unicode invisibile per eludere i filtri**  
-  Fonte: The Hacker News, 04 Sep 2026, 15:57:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html>)
-
-- **PostgreSQL risolve un difetto di decodifica logica vecchio di 12 anni che abilitava l'esecuzione del codice del ruolo di replica**  
-  Fonte: The Hacker News, 04 Sep 2026, 15:20:19 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html>)
-
-- **La nuova backdoor di Ted si nasconde all'interno delle build HAProxy delle vittime per intercettare il traffico web**  
-  Fonte: The Hacker News, 04 Sep 2026, 14:51:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html>)
 
 - **Vulnerabilità della sicurezza in un sistema di voto**  
   Fonte: Schneier on Security, 04 Sep 2026, 11:09:35 UTC  
@@ -302,33 +334,5 @@
   Fonte: Schneier on Security, 04 Sep 2026, 10:35:17 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html>)
 
-- **Oltre 440.000 tentativi di exploit prendono di mira i Super Form e i difetti di Elementor Pro RCE**  
-  Fonte: The Hacker News, 04 Sep 2026, 08:48:45 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html>)
 
-- **Plex sollecita aggiornamenti immediati dopo aver corretto numerose falle di sicurezza non divulgate**  
-  Fonte: The Hacker News, 04 Sep 2026, 07:35:14 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html>)
-
-- **Google rilascia l'aggiornamento di Chrome per la patch V8 Zero-Day sfruttata attivamente**  
-  Fonte: The Hacker News, 04 Sep 2026, 07:18:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html>)
-
-- **GPT-6 Astra ottiene un punteggio del 100% su ExploitBench poiché OpenAI blocca le richieste di exploit PoC**  
-  Fonte: The Hacker News, 04 Sep 2026, 06:47:52 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html>)
-
-- **Presentazione del rilevamento e della risoluzione delle vulnerabilità sensibili al contesto con i modelli Cloudflare Managed Defense e OpenAI Daybreak**  
-  Fonte: Cloudflare Blog - Security, 03 Sep 2026, 21:03:02 UTC  
-  [Leggi](<https://blog.cloudflare.com/vulnerability-discovery-remediation/>)
-
-- **ThreatsDay: kit di phishing per CEO, 5.000 attacchi agli account Dropbox, trappole OAuth e altre 17 storie**  
-  Fonte: The Hacker News, 03 Sep 2026, 18:02:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html>)
-
-- **Ricerca di truffe sull'occupazione**  
-  Fonte: Schneier on Security, 03 Sep 2026, 11:18:14 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-10 10:16:02 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-11 10:14:18 UTC -->
