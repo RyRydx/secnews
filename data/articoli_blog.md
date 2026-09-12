@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: calamari in decomposizione su una barca della California spiaggiata**  
+  Fonte: Schneier on Security, 11 Sep 2026, 21:03:27 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html>)
+
+- **Aggiornamento settimanale 521: Violazione della percezione contro la realtà**  
+  Fonte: Troy Hunt, 11 Sep 2026, 20:37:33 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-521/>)
+
+- **Gli hacker hanno abusato di Claude per estrarre segreti da 1,8 milioni di app Android**  
+  Fonte: BleepingComputer, 11 Sep 2026, 20:19:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/>)
+
+- **La Florida conferma che il database della motorizzazione è stato violato tramite un account della polizia rubato**  
+  Fonte: BleepingComputer, 11 Sep 2026, 19:00:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/>)
+
+- **Il mio intervento al DEF CON**  
+  Fonte: Schneier on Security, 11 Sep 2026, 18:06:24 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html>)
+
+- **Gli attacchi di phishing a tema passkey portano al furto di dati di Microsoft 365**  
+  Fonte: BleepingComputer, 11 Sep 2026, 17:26:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/>)
+
+- **Il difetto di lettura dei file GitLab CVSS 10 attira sonde in circolazione dopo la divulgazione**  
+  Fonte: The Hacker News, 11 Sep 2026, 16:30:18 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html>)
+
+- **Difetti artificiali concatenati negli attacchi che implementano malware backdoor**  
+  Fonte: BleepingComputer, 11 Sep 2026, 16:29:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/>)
+
+- **Anthropic afferma che sette laboratori di intelligenza artificiale con sede in Cina hanno lanciato attacchi alla distillazione Claude su scala industriale**  
+  Fonte: The Hacker News, 11 Sep 2026, 16:15:29 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html>)
+
+- **Claude automatizzava lo sfruttamento e il furto di dati tra più vittime**  
+  Fonte: The Hacker News, 11 Sep 2026, 14:29:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html>)
+
+- **Gli hacker sponsorizzati dallo stato russo utilizzano Claude per ricostruire il malware dopo il rilevamento**  
+  Fonte: The Hacker News, 11 Sep 2026, 14:10:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html>)
+
+- **Come gli autori delle minacce stanno trasformando le piattaforme di intelligenza artificiale affidabili in una superficie di attacco**  
+  Fonte: BleepingComputer, 11 Sep 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/>)
+
+- **Le tue vulnerabilità critiche potrebbero non essere il tuo rischio più grande**  
+  Fonte: The Hacker News, 11 Sep 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html>)
+
+- **GitLab esorta gli utenti a correggere il difetto di attraversamento del percorso di gravità massima**  
+  Fonte: BleepingComputer, 11 Sep 2026, 11:15:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/>)
+
+- **Discorso sul DEF CON di Cliff Stoll**  
+  Fonte: Schneier on Security, 11 Sep 2026, 11:09:55 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html>)
+
 - **Microsoft risolve gli errori di avvio di Teams e Outlook su PC Windows ARM**  
   Fonte: BleepingComputer, 11 Sep 2026, 09:39:37 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/>)
@@ -54,25 +114,13 @@
   Fonte: BleepingComputer, 10 Sep 2026, 15:55:56 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/>)
 
-- **Difetti di Cisco FMC sfruttati dalla banda di ransomware, hacker sponsorizzati dallo stato**  
+- **Difetti di Cisco FMC sfruttati da una banda di ransomware, hacker sponsorizzati dallo stato**  
   Fonte: BleepingComputer, 10 Sep 2026, 15:43:58 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/>)
-
-- **IDScan conferma la violazione legata al furto di 153 milioni di patenti di guida**  
-  Fonte: BleepingComputer, 10 Sep 2026, 14:55:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/>)
 
 - **Accesso anticipato a Google Play abusato per pubblicare migliaia di app Android ingannevoli**  
   Fonte: The Hacker News, 10 Sep 2026, 14:36:47 UTC  
   [Leggi](<https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html>)
-
-- **Il nuovo kit "BlueMoon" sfruttava i difetti zero-day di Windows e Chrome**  
-  Fonte: BleepingComputer, 10 Sep 2026, 14:11:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/>)
-
-- **Le 4 principali minacce che abbiamo individuato esaminando ogni avviso per un trimestre**  
-  Fonte: BleepingComputer, 10 Sep 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/>)
 
 - **"Anne Hathaway" ammette di essere a capo di una banda di ladri di criptovalute da 245 milioni di dollari che ha speso una fortuna in nightclub, orologi e auto di lusso**  
   Fonte: Graham Cluley, 10 Sep 2026, 13:32:28 UTC  
@@ -94,10 +142,6 @@
   Fonte: The Hacker News, 10 Sep 2026, 11:33:43 UTC  
   [Leggi](<https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html>)
 
-- **Microsoft afferma che gli aggiornamenti di settembre risolvono i problemi di ripristino delle impostazioni del mouse**  
-  Fonte: BleepingComputer, 10 Sep 2026, 11:14:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/>)
-
 - **Le IA comprimono la sequenza temporale degli exploit**  
   Fonte: Schneier on Security, 10 Sep 2026, 10:40:35 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html>)
@@ -105,14 +149,6 @@
 - **Sfruttati i flag CISA Difetti Cisco, Citrix e Fortinet fissano la scadenza per la patch federale del 12 settembre**  
   Fonte: The Hacker News, 10 Sep 2026, 10:36:46 UTC  
   [Leggi](<https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html>)
-
-- **CISA: falla WatchGuard RCE ora sfruttata negli attacchi ransomware**  
-  Fonte: BleepingComputer, 10 Sep 2026, 09:10:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/>)
-
-- **Microsoft risolve il bug che cancellava le impostazioni del desktop di Windows**  
-  Fonte: BleepingComputer, 10 Sep 2026, 08:08:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/>)
 
 - **Quasi 1 gateway LiteLLM esposto su 10 ha accettato la chiave amministratore "sk-1234" di esempio**  
   Fonte: The Hacker News, 10 Sep 2026, 07:12:55 UTC  
@@ -274,7 +310,7 @@
   Fonte: The Hacker News, 07 Sep 2026, 11:20:14 UTC  
   [Leggi](<https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html>)
 
-- **Camuffamento automobilistico per nascondersi dalle telecamere dello stormo**  
+- **Mimetizzazione automobilistica per nascondersi dalle telecamere dello stormo**  
   Fonte: Schneier on Security, 07 Sep 2026, 11:06:40 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html>)
 
@@ -298,41 +334,5 @@
   Fonte: The Hacker News, 06 Sep 2026, 09:32:38 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html>)
 
-- **Quattro moduli collegati a REVSTEALER disabilitano Windows Update e Defender per eseguire un crypto miner**  
-  Fonte: The Hacker News, 06 Sep 2026, 08:34:20 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html>)
 
-- **Magento e Adobe Commerce Zero-Day senza patch sfruttati per negozi online backdoor**  
-  Fonte: The Hacker News, 05 Sep 2026, 20:14:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html>)
-
-- **Gli aggressori hanno violato JetBrains Cadence tramite TeamCity senza patch, estraendo le credenziali AWS**  
-  Fonte: The Hacker News, 05 Sep 2026, 16:52:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html>)
-
-- **Il difetto critico di VMware Workstation e Fusion consente agli amministratori delle VM di eseguire il codice host**  
-  Fonte: The Hacker News, 05 Sep 2026, 16:05:08 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html>)
-
-- **Trezor afferma che la violazione di ShipMonk ha esposto i dati di 67.000 clienti statunitensi che ha dichiarato essere stati cancellati**  
-  Fonte: The Hacker News, 05 Sep 2026, 14:17:02 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html>)
-
-- **Blog di calamari del venerdì: calamari su un bastone alla fiera dello Stato di New York**  
-  Fonte: Schneier on Security, 04 Sep 2026, 21:01:35 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html>)
-
-- **Utilizzo di una VM per contenere un agente AI**  
-  Fonte: Schneier on Security, 04 Sep 2026, 16:31:38 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html>)
-
-- **Vulnerabilità della sicurezza in un sistema di voto**  
-  Fonte: Schneier on Security, 04 Sep 2026, 11:09:35 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html>)
-
-- **Gli agenti di codifica AI stanno installando codice sconosciuto/non attendibile sulle reti aziendali**  
-  Fonte: Schneier on Security, 04 Sep 2026, 10:35:17 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-11 10:14:18 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-12 09:48:43 UTC -->
