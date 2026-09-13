@@ -2,6 +2,26 @@
 
 ## Ultimi 7 giorni
 
+- **Gli aggressori utilizzano il passkey phishing per dirottare gli account cloud di Microsoft ed esfiltrare dati**  
+  Fonte: The Hacker News, 13 Sep 2026, 10:11:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html>)
+
+- **CISA aggiunge 5 difetti Artifactory, ScreenConnect e RouterOS sfruttati attivamente a KEV**  
+  Fonte: The Hacker News, 12 Sep 2026, 15:54:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html>)
+
+- **NCSC olandese: lo sfruttamento dei difetti critici della VPN Check Point è imminente**  
+  Fonte: BleepingComputer, 12 Sep 2026, 14:14:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/>)
+
+- **Quando l'intera azienda adotta l'intelligenza artificiale: cosa fa al tuo SOC**  
+  Fonte: The Hacker News, 12 Sep 2026, 10:24:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html>)
+
+- **Agenti OpenAI collegati alla campagna RubyGems che hanno ottenuto RCE sui server RubyDoc**  
+  Fonte: The Hacker News, 12 Sep 2026, 09:07:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html>)
+
 - **Blog sui calamari del venerdì: calamari in decomposizione su una barca della California spiaggiata**  
   Fonte: Schneier on Security, 11 Sep 2026, 21:03:27 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html>)
@@ -113,10 +133,6 @@
 - **L'attacco basato sull'intelligenza artificiale ha sfruttato le falle di PaperCut per hackerare 395 organizzazioni**  
   Fonte: BleepingComputer, 10 Sep 2026, 15:55:56 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/>)
-
-- **Difetti di Cisco FMC sfruttati da una banda di ransomware, hacker sponsorizzati dallo stato**  
-  Fonte: BleepingComputer, 10 Sep 2026, 15:43:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/>)
 
 - **Accesso anticipato a Google Play abusato per pubblicare migliaia di app Android ingannevoli**  
   Fonte: The Hacker News, 10 Sep 2026, 14:36:47 UTC  
@@ -242,7 +258,7 @@
   Fonte: The Hacker News, 08 Sep 2026, 16:20:23 UTC  
   [Leggi](<https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html>)
 
-- **L'esercito americano ha appena disattivato il tracciamento degli annunci sui suoi telefoni.Forse dovresti farlo anche tu**  
+- **L'esercito americano ha appena disattivato il monitoraggio degli annunci sui suoi telefoni.Forse dovresti farlo anche tu**  
   Fonte: Graham Cluley, 08 Sep 2026, 15:33:07 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/us-military-turned-off-ad-tracking-phones>)
 
@@ -306,10 +322,6 @@
   Fonte: The Hacker News, 07 Sep 2026, 11:36:39 UTC  
   [Leggi](<https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html>)
 
-- **Bug Oracle Padding dell'interfaccia utente di Telerik concatenato a RCE non autenticato: rilasciato un exploit pubblico**  
-  Fonte: The Hacker News, 07 Sep 2026, 11:20:14 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html>)
-
 - **Mimetizzazione automobilistica per nascondersi dalle telecamere dello stormo**  
   Fonte: Schneier on Security, 07 Sep 2026, 11:06:40 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html>)
@@ -318,21 +330,9 @@
   Fonte: Graham Cluley, 07 Sep 2026, 10:30:27 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/lenovo-login-system-hackers-dropbox>)
 
-- **N-able pubblica il quarto hotfix N-centrale in cinque settimane per un difetto RCE non autenticato**  
-  Fonte: The Hacker News, 07 Sep 2026, 08:31:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html>)
-
-- **Il malware JSCeal può ignorare l'autenticazione di Google utilizzando cookie di sessione rubati**  
-  Fonte: The Hacker News, 07 Sep 2026, 07:53:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html>)
-
 - **Aggiornamento settimanale 520: L'edizione senza script**  
   Fonte: Troy Hunt, 06 Sep 2026, 23:31:36 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-520/>)
 
-- **Gli aggressori prendono il controllo dei router MikroTik tramite SSH esposto a Internet senza autenticazione**  
-  Fonte: The Hacker News, 06 Sep 2026, 09:32:38 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-09-12 09:48:43 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-13 10:49:18 UTC -->
