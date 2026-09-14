@@ -2,6 +2,34 @@
 
 ## Ultimi 7 giorni
 
+- **Le patch di Microsoft**  
+  Fonte: Schneier on Security, 14 Sep 2026, 11:03:26 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html>)
+
+- **Microsoft: gli aggiornamenti di settembre causano errori RDS su Windows Server**  
+  Fonte: BleepingComputer, 14 Sep 2026, 09:50:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/>)
+
+- **Revolut rivela una violazione dei dati esponendo informazioni finanziarie e passaporti**  
+  Fonte: BleepingComputer, 14 Sep 2026, 08:48:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/>)
+
+- **Microsoft: gli aggiornamenti di settembre interrompono l'audio su alcuni PC Windows**  
+  Fonte: BleepingComputer, 14 Sep 2026, 08:08:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/>)
+
+- **L'estensione dannosa del browser Twitch perde token OAuth da quasi 31.000 utenti**  
+  Fonte: The Hacker News, 14 Sep 2026, 07:24:39 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html>)
+
+- **CISA: gli hacker ora sfruttano la falla GitLab di massima gravità negli attacchi**  
+  Fonte: BleepingComputer, 14 Sep 2026, 07:06:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/>)
+
+- **Gli hacker sfruttano il difetto dell'app Tencent per distribuire il malware GrayRabbit**  
+  Fonte: BleepingComputer, 13 Sep 2026, 14:26:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/>)
+
 - **Gli aggressori utilizzano il passkey phishing per dirottare gli account cloud di Microsoft ed esfiltrare dati**  
   Fonte: The Hacker News, 13 Sep 2026, 10:11:48 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html>)
@@ -110,29 +138,9 @@
   Fonte: The Hacker News, 11 Sep 2026, 06:19:59 UTC  
   [Leggi](<https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html>)
 
-- **Il nuovo malware Android crittografa file, ruba dati e molesta le vittime**  
-  Fonte: BleepingComputer, 10 Sep 2026, 21:40:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/>)
-
-- **Gli aggiornamenti di settembre di Windows Server interrompono i Servizi Desktop remoto**  
-  Fonte: BleepingComputer, 10 Sep 2026, 20:34:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/>)
-
-- **Surfshark VPN afferma che gli hacker hanno violato i test interni e i server proxy**  
-  Fonte: BleepingComputer, 10 Sep 2026, 19:15:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/>)
-
-- **L'aggiornamento di Microsoft Excel KB5002914 interrompe la funzione copia e incolla per alcuni utenti**  
-  Fonte: BleepingComputer, 10 Sep 2026, 19:07:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/>)
-
 - **ThreatsDay: 200 difetti Android, phishing creato dal browser, 119.000 negozi di truffe e altre 23 storie**  
   Fonte: The Hacker News, 10 Sep 2026, 17:47:38 UTC  
   [Leggi](<https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html>)
-
-- **L'attacco basato sull'intelligenza artificiale ha sfruttato le falle di PaperCut per hackerare 395 organizzazioni**  
-  Fonte: BleepingComputer, 10 Sep 2026, 15:55:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/>)
 
 - **Accesso anticipato a Google Play abusato per pubblicare migliaia di app Android ingannevoli**  
   Fonte: The Hacker News, 10 Sep 2026, 14:36:47 UTC  
@@ -258,7 +266,7 @@
   Fonte: The Hacker News, 08 Sep 2026, 16:20:23 UTC  
   [Leggi](<https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html>)
 
-- **L'esercito americano ha appena disattivato il monitoraggio degli annunci sui suoi telefoni.Forse dovresti farlo anche tu**  
+- **L'esercito americano ha appena disattivato il tracciamento degli annunci sui suoi telefoni.Forse dovresti farlo anche tu**  
   Fonte: Graham Cluley, 08 Sep 2026, 15:33:07 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/us-military-turned-off-ad-tracking-phones>)
 
@@ -318,21 +326,5 @@
   Fonte: The Hacker News, 07 Sep 2026, 11:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html>)
 
-- **I client ScreenConnect non autorizzati diffondono la catena VBScript in quattro fasi agli host appena connessi**  
-  Fonte: The Hacker News, 07 Sep 2026, 11:36:39 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html>)
 
-- **Mimetizzazione automobilistica per nascondersi dalle telecamere dello stormo**  
-  Fonte: Schneier on Security, 07 Sep 2026, 11:06:40 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html>)
-
-- **Come un buco nel sistema di accesso di Lenovo ha permesso agli hacker di entrare in 5.000 account Dropbox**  
-  Fonte: Graham Cluley, 07 Sep 2026, 10:30:27 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/lenovo-login-system-hackers-dropbox>)
-
-- **Aggiornamento settimanale 520: L'edizione senza script**  
-  Fonte: Troy Hunt, 06 Sep 2026, 23:31:36 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-520/>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-13 10:49:18 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-14 11:15:57 UTC -->
