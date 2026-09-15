@@ -2,6 +2,106 @@
 
 ## Ultimi 7 giorni
 
+- **Sul supercomputer della NSA degli anni ’60**  
+  Fonte: Schneier on Security, 15 Sep 2026, 10:16:24 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html>)
+
+- **I presunti leader della banda Black Axe sono accusati di criminalità informatica negli Stati Uniti**  
+  Fonte: BleepingComputer, 15 Sep 2026, 09:50:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/>)
+
+- **Ex commesso di un negozio AT&T incarcerato per aver lavorato al chiaro di luna come infiltrato in una banda di scambiatori di SIM**  
+  Fonte: Graham Cluley, 15 Sep 2026, 09:43:54 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/former-at-t-worker-jailed-sim-swap>)
+
+- **Microsoft conferma che l'aggiornamento KB5002914 di Excel interrompe la funzione copia e incolla**  
+  Fonte: BleepingComputer, 15 Sep 2026, 08:40:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/>)
+
+- **Patch Cisco Secure Email Gateway zero-day sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 15 Sep 2026, 07:31:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/>)
+
+- **Il difetto di LiteSpeed ​​Enterprise potrebbe consentire a un account di hosting di ottenere l'accesso root su un server condiviso**  
+  Fonte: The Hacker News, 15 Sep 2026, 06:52:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html>)
+
+- **Un difetto di Cisco Secure Email Gateway sfruttato in natura, consente l'esecuzione del comando root**  
+  Fonte: The Hacker News, 15 Sep 2026, 06:11:11 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html>)
+
+- **Gli hacker collegati alla Cina sfruttano la catena Zero-Day di Chrome-Windows per implementare GRIMWEDGE**  
+  Fonte: The Hacker News, 15 Sep 2026, 05:31:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html>)
+
+- **Microsoft rilascia aggiornamenti di emergenza di Windows per correggere gli errori RDS**  
+  Fonte: BleepingComputer, 14 Sep 2026, 20:52:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/>)
+
+- **L'Agenzia digitale giapponese afferma che una falla nella VPN ha messo in luce 246.000 record del personale**  
+  Fonte: BleepingComputer, 14 Sep 2026, 20:36:02 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/>)
+
+- **Homebrew 7.0.0 ha una GUI integrata e migliori controlli di sicurezza**  
+  Fonte: BleepingComputer, 14 Sep 2026, 19:51:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/>)
+
+- **L'estensione Twitch con installazioni da 30.000 espone i token OAuth degli utenti**  
+  Fonte: BleepingComputer, 14 Sep 2026, 19:03:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/>)
+
+- **Prossimi impegni di conferenza**  
+  Fonte: Schneier on Security, 14 Sep 2026, 19:02:45 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html>)
+
+- **Gli hacker prendono il controllo dell'account Reddit di HBO Max per inserire malware negli annunci ClickFix**  
+  Fonte: BleepingComputer, 14 Sep 2026, 18:34:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/>)
+
+- **Il nuovo attacco DDRop distrugge il Confidential Computing Intel TDX e AMD SEV-SNP**  
+  Fonte: The Hacker News, 14 Sep 2026, 18:02:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html>)
+
+- **L'aggressore 3BB ha utilizzato la backdoor MeshCentral per l'accesso root, mirando alle credenziali dell'abbonato**  
+  Fonte: The Hacker News, 14 Sep 2026, 18:01:49 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html>)
+
+- **Il difetto del desktop di Telegram consente al JavaScript nascosto di estrarre i messaggi dalle esportazioni HTML**  
+  Fonte: The Hacker News, 14 Sep 2026, 17:58:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html>)
+
+- **Red Heron sfrutta Gitea RCE per compromettere 13 organizzazioni in sei paesi**  
+  Fonte: The Hacker News, 14 Sep 2026, 16:56:30 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html>)
+
+- **Gli hacker prendono di mira i server di sviluppo Vite esposti per rubare i segreti di AWS e Azure**  
+  Fonte: BleepingComputer, 14 Sep 2026, 16:15:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/>)
+
+- **Utilizzo dell'intelligenza artificiale per lo sviluppo di armi**  
+  Fonte: Schneier on Security, 14 Sep 2026, 16:07:46 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html>)
+
+- **WordPress aggiunge revisioni automatizzate dei plugin per bloccare gli aggiornamenti ad alto rischio prima della distribuzione**  
+  Fonte: The Hacker News, 14 Sep 2026, 16:00:04 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html>)
+
+- **⚡ Riepilogo settimanale: agenti AI canaglia, worm WeChat, attacchi PaperCut, spionaggio AI e rootkit**  
+  Fonte: The Hacker News, 14 Sep 2026, 14:40:34 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html>)
+
+- **Perché l'automazione delle patch ha bisogno di freni, non solo di un acceleratore**  
+  Fonte: BleepingComputer, 14 Sep 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/>)
+
+- **Webinar: in che modo le app OAuth dannose possono portare a violazioni di Google Workspace**  
+  Fonte: BleepingComputer, 14 Sep 2026, 12:15:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/>)
+
+- **L'intelligenza artificiale ha cambiato il problema dell'esposizione.La convalida deve cambiare con essa.**  
+  Fonte: The Hacker News, 14 Sep 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html>)
+
 - **Le patch di Microsoft**  
   Fonte: Schneier on Security, 14 Sep 2026, 11:03:26 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html>)
@@ -26,10 +126,6 @@
   Fonte: BleepingComputer, 14 Sep 2026, 07:06:27 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/>)
 
-- **Gli hacker sfruttano il difetto dell'app Tencent per distribuire il malware GrayRabbit**  
-  Fonte: BleepingComputer, 13 Sep 2026, 14:26:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/>)
-
 - **Gli aggressori utilizzano il passkey phishing per dirottare gli account cloud di Microsoft ed esfiltrare dati**  
   Fonte: The Hacker News, 13 Sep 2026, 10:11:48 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html>)
@@ -37,10 +133,6 @@
 - **CISA aggiunge 5 difetti Artifactory, ScreenConnect e RouterOS sfruttati attivamente a KEV**  
   Fonte: The Hacker News, 12 Sep 2026, 15:54:45 UTC  
   [Leggi](<https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html>)
-
-- **NCSC olandese: lo sfruttamento dei difetti critici della VPN Check Point è imminente**  
-  Fonte: BleepingComputer, 12 Sep 2026, 14:14:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/>)
 
 - **Quando l'intera azienda adotta l'intelligenza artificiale: cosa fa al tuo SOC**  
   Fonte: The Hacker News, 12 Sep 2026, 10:24:44 UTC  
@@ -58,29 +150,13 @@
   Fonte: Troy Hunt, 11 Sep 2026, 20:37:33 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-521/>)
 
-- **Gli hacker hanno abusato di Claude per estrarre segreti da 1,8 milioni di app Android**  
-  Fonte: BleepingComputer, 11 Sep 2026, 20:19:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/>)
-
-- **La Florida conferma che il database della motorizzazione è stato violato tramite un account della polizia rubato**  
-  Fonte: BleepingComputer, 11 Sep 2026, 19:00:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/>)
-
 - **Il mio intervento al DEF CON**  
   Fonte: Schneier on Security, 11 Sep 2026, 18:06:24 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html>)
 
-- **Gli attacchi di phishing a tema passkey portano al furto di dati di Microsoft 365**  
-  Fonte: BleepingComputer, 11 Sep 2026, 17:26:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/>)
-
 - **Il difetto di lettura dei file GitLab CVSS 10 attira sonde in circolazione dopo la divulgazione**  
   Fonte: The Hacker News, 11 Sep 2026, 16:30:18 UTC  
   [Leggi](<https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html>)
-
-- **Difetti artificiali concatenati negli attacchi che implementano malware backdoor**  
-  Fonte: BleepingComputer, 11 Sep 2026, 16:29:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/>)
 
 - **Anthropic afferma che sette laboratori di intelligenza artificiale con sede in Cina hanno lanciato attacchi alla distillazione Claude su scala industriale**  
   Fonte: The Hacker News, 11 Sep 2026, 16:15:29 UTC  
@@ -94,29 +170,13 @@
   Fonte: The Hacker News, 11 Sep 2026, 14:10:20 UTC  
   [Leggi](<https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html>)
 
-- **Come gli autori delle minacce stanno trasformando le piattaforme di intelligenza artificiale affidabili in una superficie di attacco**  
-  Fonte: BleepingComputer, 11 Sep 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/>)
-
 - **Le tue vulnerabilità critiche potrebbero non essere il tuo rischio più grande**  
   Fonte: The Hacker News, 11 Sep 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html>)
 
-- **GitLab esorta gli utenti a correggere il difetto di attraversamento del percorso di gravità massima**  
-  Fonte: BleepingComputer, 11 Sep 2026, 11:15:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/>)
-
 - **Discorso sul DEF CON di Cliff Stoll**  
   Fonte: Schneier on Security, 11 Sep 2026, 11:09:55 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html>)
-
-- **Microsoft risolve gli errori di avvio di Teams e Outlook su PC Windows ARM**  
-  Fonte: BleepingComputer, 11 Sep 2026, 09:39:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/>)
-
-- **Trezor: 347.000 utenti presi di mira da attacchi di phishing dopo la violazione di Brevo**  
-  Fonte: BleepingComputer, 11 Sep 2026, 07:55:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/>)
 
 - **Gli aggressori concatenano i difetti di JFrog Artifactory per ottenere il controllo amministrativo e installare backdoor**  
   Fonte: The Hacker News, 11 Sep 2026, 07:31:05 UTC  
@@ -125,10 +185,6 @@
 - **UNC3569 collegato alla Cina ha sfruttato il difetto del metodo di input Sogou per l'implementazione della backdoor GRAYRABBIT**  
   Fonte: The Hacker News, 11 Sep 2026, 07:14:09 UTC  
   [Leggi](<https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html>)
-
-- **Membro della banda di ransomware Conti condannato a 4 anni di prigione**  
-  Fonte: BleepingComputer, 11 Sep 2026, 06:48:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/>)
 
 - **PaperCut sostituisce le patch di emergenza con correzioni per due difetti attivamente sfruttati**  
   Fonte: The Hacker News, 11 Sep 2026, 06:46:18 UTC  
@@ -258,10 +314,6 @@
   Fonte: Krebs on Security, 08 Sep 2026, 21:44:22 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/>)
 
-- **Le IA come geni moderni**  
-  Fonte: Schneier on Security, 08 Sep 2026, 17:12:42 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html>)
-
 - **Slim Spider ruba i segreti della custodia delle criptovalute da un istituto finanziario brasiliano**  
   Fonte: The Hacker News, 08 Sep 2026, 16:20:23 UTC  
   [Leggi](<https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html>)
@@ -282,49 +334,5 @@
   Fonte: The Hacker News, 08 Sep 2026, 13:48:16 UTC  
   [Leggi](<https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html>)
 
-- **Il worm Zero-Click di WeChat ha preso il controllo degli account su iPhone e Android tramite chiamate in arrivo**  
-  Fonte: The Hacker News, 08 Sep 2026, 11:54:29 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html>)
 
-- **Cosa è servito per raggiungere 1 miliardo di manifest di build**  
-  Fonte: The Hacker News, 08 Sep 2026, 11:49:02 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html>)
-
-- **FreeIPA Flaw Chain consente ai client anonimi di creare credenziali di amministratore riutilizzabili**  
-  Fonte: The Hacker News, 08 Sep 2026, 11:22:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html>)
-
-- **Rubare tracce di ragionamento dell'IA**  
-  Fonte: Schneier on Security, 08 Sep 2026, 10:20:04 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html>)
-
-- **Sfruttamento delle patch Adobe per Magento Zero-Day per l'implementazione di Rust Backdoor e PHP Web Shell**  
-  Fonte: The Hacker News, 08 Sep 2026, 09:13:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html>)
-
-- **BengalSEO avvelena i risultati di ricerca di Bing per fornire truffe su MayaBot e supporto tecnico**  
-  Fonte: The Hacker News, 08 Sep 2026, 08:43:51 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html>)
-
-- **Grindr pagherà 26 milioni di sterline per risolvere le controversie nel Regno Unito sulla condivisione dei dati sullo stato dell'HIV**  
-  Fonte: The Hacker News, 08 Sep 2026, 07:00:43 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html>)
-
-- **PEEP trasforma Chrome ed Edge in backdoor post-compromesso per l'esecuzione dei comandi dell'host**  
-  Fonte: The Hacker News, 07 Sep 2026, 18:12:09 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html>)
-
-- **Chiamate IT false prendono di mira i dirigenti negli attacchi di furto di dati ed estorsione di Microsoft 365**  
-  Fonte: The Hacker News, 07 Sep 2026, 15:51:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html>)
-
-- **⚡ Riepilogo settimanale: Chrome 0-Day, dirottamenti del router, attacco alla catena di fornitura del programmatore e altro ancora**  
-  Fonte: The Hacker News, 07 Sep 2026, 14:36:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html>)
-
-- **La tua lista di controllo per la sicurezza del cloud non funziona come pensi**  
-  Fonte: The Hacker News, 07 Sep 2026, 11:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-14 11:15:57 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-15 10:41:39 UTC -->
