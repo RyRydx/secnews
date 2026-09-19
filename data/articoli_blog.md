@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **RCE pre-autenticazione critico nella piattaforma del flusso di lavoro di Orkes Conductor sfruttata in natura**  
+  Fonte: The Hacker News, 19 Sep 2026, 08:18:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html>)
+
+- **Google Gemini ha fatto irruzione nei sistemi aziendali reali dopo uno scambio di domini nei test di sicurezza**  
+  Fonte: The Hacker News, 19 Sep 2026, 07:51:34 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html>)
+
+- **CrowdSec afferma che l'attacco TanStack npm ha portato alla copia di 170 repository GitHub privati**  
+  Fonte: The Hacker News, 19 Sep 2026, 07:14:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html>)
+
+- **CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild**  
+  Fonte: The Hacker News, 19 Sep 2026, 06:24:10 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html>)
+
+- **Blog sui calamari del venerdì: sulle sacche di uova di calamaro**  
+  Fonte: Schneier on Security, 18 Sep 2026, 21:06:00 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html>)
+
+- **Rilasciati exploit pubblici per quattro difetti del kernel Linux che abilitano il root locale**  
+  Fonte: The Hacker News, 18 Sep 2026, 18:02:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html>)
+
+- **Nuove installazioni del tema WordPress Click2Shell Flaw Forces, possibilità di concatenamento all'esecuzione del codice**  
+  Fonte: The Hacker News, 18 Sep 2026, 16:56:19 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html>)
+
+- **Sfruttata la falla del server Gyazo per rubare 23,6 milioni di record di utenti**  
+  Fonte: BleepingComputer, 18 Sep 2026, 16:00:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/>)
+
+- **Transparent Tribe distribuisce la nuova backdoor Rust utilizzando repository GitHub privati ​​per C2**  
+  Fonte: The Hacker News, 18 Sep 2026, 15:24:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html>)
+
+- **I repository GitHub falsi di LastPass Authenticator inseriscono il nuovo infostealer Rapuncel**  
+  Fonte: BleepingComputer, 18 Sep 2026, 15:19:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/>)
+
+- **Condivisione aziendale sicura con le revisioni degli accessi per Microsoft 365**  
+  Fonte: BleepingComputer, 18 Sep 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/>)
+
+- **Microsoft Teams consentirà agli amministratori di bloccare le estensioni di file personalizzate**  
+  Fonte: BleepingComputer, 18 Sep 2026, 13:58:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/>)
+
+- **Webinar: quali controlli di sicurezza di Google Workspace contano davvero?**  
+  Fonte: BleepingComputer, 18 Sep 2026, 13:10:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/>)
+
+- **Microsoft applica una patch al difetto CVSS 10.0 di Azure AI Foundry che abilita l'escalation dei privilegi non autorizzata**  
+  Fonte: The Hacker News, 18 Sep 2026, 12:47:04 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html>)
+
+- **Microsoft risolve il bug dietro gli avvisi "Defender Antivirus è disattivato".**  
+  Fonte: BleepingComputer, 18 Sep 2026, 12:16:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/>)
+
+- **Le IA hanno ancora difficoltà con i CAPTCHA?**  
+  Fonte: Schneier on Security, 18 Sep 2026, 11:05:52 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html>)
+
+- **Un dominio CDN abbandonato è stato registrato nuovamente.Migliaia di siti lo chiamano ancora.**  
+  Fonte: The Hacker News, 18 Sep 2026, 11:01:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html>)
+
+- **Plugin4Shell consente ai proprietari di repository di scambiare il codice del plug-in bloccato tra quattro agenti di codifica AI**  
+  Fonte: The Hacker News, 18 Sep 2026, 11:01:01 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html>)
+
+- **WeaselBiscuit Stealer si diffonde tramite pacchetti da 13 npm per raccogliere lo spazio di archiviazione delle estensioni di Chrome**  
+  Fonte: The Hacker News, 18 Sep 2026, 10:40:06 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html>)
+
 - **La nuova falla Check Point consente agli hacker di eseguire codice con privilegi di root**  
   Fonte: BleepingComputer, 18 Sep 2026, 09:34:33 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/>)
@@ -66,7 +142,7 @@
   Fonte: The Hacker News, 17 Sep 2026, 11:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html>)
 
-- **Gli Stati Uniti abbattono la piattaforma DDoS-for-hire NightmareStresser**  
+- **Gli Stati Uniti abbattono la piattaforma DDoS a pagamento NightmareStresser**  
   Fonte: BleepingComputer, 17 Sep 2026, 11:33:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/>)
 
@@ -90,10 +166,6 @@
   Fonte: BleepingComputer, 17 Sep 2026, 09:00:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/>)
 
-- **Microsoft condivide una soluzione alternativa per i problemi di accesso al dominio Windows**  
-  Fonte: BleepingComputer, 17 Sep 2026, 08:24:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/>)
-
 - **L'aggiornamento BIND 9 risolve 14 difetti, incluso un crash non autenticato su DNS-over-HTTPS**  
   Fonte: The Hacker News, 17 Sep 2026, 08:00:29 UTC  
   [Leggi](<https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html>)
@@ -101,10 +173,6 @@
 - **La violazione di Gyazo espone 23,62 milioni di record di utenti e 490 milioni di record di metadati di immagini**  
   Fonte: The Hacker News, 17 Sep 2026, 07:30:01 UTC  
   [Leggi](<https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html>)
-
-- **Cisco avverte della massima gravità ISE zero-day sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 17 Sep 2026, 07:20:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/>)
 
 - **Cisco avverte del nuovo zero-day ISE Auth Bypass (CVSS 10.0) sfruttato negli attacchi attivi**  
   Fonte: The Hacker News, 17 Sep 2026, 06:39:40 UTC  
@@ -114,25 +182,9 @@
   Fonte: The Hacker News, 17 Sep 2026, 05:13:46 UTC  
   [Leggi](<https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html>)
 
-- **Anthropic vuole che Claude analizzi il tuo conto bancario e i tuoi dati finanziari**  
-  Fonte: BleepingComputer, 17 Sep 2026, 00:35:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/>)
-
 - **Podcast #485 di Smashing Security: Questi ricercatori si sono ubriacati per hackerare una TV LG**  
   Fonte: Graham Cluley, 16 Sep 2026, 23:07:19 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-485/>)
-
-- **L'aggiornamento KB5124008 di Windows 11 interrompe l'attendibilità del dominio per alcuni utenti**  
-  Fonte: BleepingComputer, 16 Sep 2026, 20:39:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/>)
-
-- **Gli hacker iraniani utilizzano il malware CHOSEN BRICK Windows per spiare gli obiettivi**  
-  Fonte: BleepingComputer, 16 Sep 2026, 20:24:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/>)
-
-- **Il malware ignora i controlli del browser per forzare l'installazione delle estensioni Chrome ed Edge**  
-  Fonte: BleepingComputer, 16 Sep 2026, 18:50:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/>)
 
 - **Il broker di dati Radaris perde domini nella lotta alla privacy**  
   Fonte: Krebs on Security, 16 Sep 2026, 18:14:22 UTC  
@@ -178,7 +230,7 @@
   Fonte: The Hacker News, 16 Sep 2026, 11:08:54 UTC  
   [Leggi](<https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html>)
 
-- **Gli aggressori sfruttano la falla di cattura dei lead all'ingrosso di WooCommerce per installare web shell PHP**  
+- **Gli aggressori sfruttano il difetto di acquisizione dei lead di WooCommerce per installare web shell PHP**  
   Fonte: The Hacker News, 16 Sep 2026, 05:48:28 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html>)
 
@@ -206,11 +258,11 @@
   Fonte: Cloudflare Blog - Security, 15 Sep 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/workers-granular-authorization/>)
 
-- **L'attaccante umano sfrutta Marimo RCE e raggiunge il bastione SSH in otto secondi**  
+- **Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds**  
   Fonte: The Hacker News, 15 Sep 2026, 11:52:28 UTC  
   [Leggi](<https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html>)
 
-- **Catene di attacco, non solo superfici di attacco: perché testare le singole tecniche non coglie il punto**  
+- **Catene di attacco, non solo superfici di attacco: perché testare tecniche individuali non coglie il punto**  
   Fonte: The Hacker News, 15 Sep 2026, 11:26:36 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html>)
 
@@ -262,73 +314,13 @@
   Fonte: The Hacker News, 14 Sep 2026, 16:56:30 UTC  
   [Leggi](<https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html>)
 
-- **Utilizzo dell'intelligenza artificiale per lo sviluppo di armi**  
+- **Using AI for Weapons Development**  
   Fonte: Schneier on Security, 14 Sep 2026, 16:07:46 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html>)
-
-- **WordPress aggiunge revisioni automatizzate dei plugin per bloccare gli aggiornamenti ad alto rischio prima della distribuzione**  
-  Fonte: The Hacker News, 14 Sep 2026, 16:00:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html>)
-
-- **⚡ Riepilogo settimanale: agenti AI canaglia, worm WeChat, attacchi PaperCut, spionaggio AI e rootkit**  
-  Fonte: The Hacker News, 14 Sep 2026, 14:40:34 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html>)
-
-- **L'intelligenza artificiale ha cambiato il problema dell'esposizione.La convalida deve cambiare con essa.**  
-  Fonte: The Hacker News, 14 Sep 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html>)
 
 - **Le patch di Microsoft**  
   Fonte: Schneier on Security, 14 Sep 2026, 11:03:26 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html>)
 
-- **L'estensione del browser Twitch perde token OAuth da quasi 31.000 utenti**  
-  Fonte: The Hacker News, 14 Sep 2026, 07:24:39 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html>)
 
-- **Gli aggressori utilizzano il passkey phishing per dirottare gli account cloud di Microsoft ed esfiltrare dati**  
-  Fonte: The Hacker News, 13 Sep 2026, 10:11:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html>)
-
-- **CISA aggiunge 5 difetti Artifactory, ScreenConnect e RouterOS sfruttati attivamente a KEV**  
-  Fonte: The Hacker News, 12 Sep 2026, 15:54:45 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html>)
-
-- **Quando l'intera azienda adotta l'intelligenza artificiale: cosa fa al tuo SOC**  
-  Fonte: The Hacker News, 12 Sep 2026, 10:24:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html>)
-
-- **Agenti OpenAI collegati alla campagna RubyGems che hanno ottenuto RCE sui server RubyDoc**  
-  Fonte: The Hacker News, 12 Sep 2026, 09:07:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html>)
-
-- **Blog sui calamari del venerdì: calamari in decomposizione su una barca della California spiaggiata**  
-  Fonte: Schneier on Security, 11 Sep 2026, 21:03:27 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html>)
-
-- **Aggiornamento settimanale 521: Violazione della percezione contro la realtà**  
-  Fonte: Troy Hunt, 11 Sep 2026, 20:37:33 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-521/>)
-
-- **Il mio intervento al DEF CON**  
-  Fonte: Schneier on Security, 11 Sep 2026, 18:06:24 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html>)
-
-- **Il difetto di lettura dei file GitLab CVSS 10 attira sonde in circolazione dopo la divulgazione**  
-  Fonte: The Hacker News, 11 Sep 2026, 16:30:18 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html>)
-
-- **Anthropic afferma che sette laboratori di intelligenza artificiale con sede in Cina hanno lanciato attacchi alla distillazione Claude su scala industriale**  
-  Fonte: The Hacker News, 11 Sep 2026, 16:15:29 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html>)
-
-- **Claude automatizzava lo sfruttamento e il furto di dati tra più vittime**  
-  Fonte: The Hacker News, 11 Sep 2026, 14:29:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html>)
-
-- **Discorso sul DEF CON di Cliff Stoll**  
-  Fonte: Schneier on Security, 11 Sep 2026, 11:09:55 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-18 10:16:17 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-19 09:58:17 UTC -->
