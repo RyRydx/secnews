@@ -2,7 +2,39 @@
 
 ## Ultimi 7 giorni
 
-- **RCE pre-autenticazione critico nella piattaforma del flusso di lavoro di Orkes Conductor sfruttata in natura**  
+- **Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws**  
+  Fonte: The Hacker News, 19 Sep 2026, 18:36:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html>)
+
+- **Gli attacchi BragJack dirottano gli agenti del browser AI attraverso estensioni dannose**  
+  Fonte: BleepingComputer, 19 Sep 2026, 14:56:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/>)
+
+- **Gli hacker nordcoreani di WaterPlum hanno infettato 30.000 dispositivi in ​​tutto il mondo**  
+  Fonte: BleepingComputer, 19 Sep 2026, 14:05:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/>)
+
+- **ShinyHunters hackera il sito di leak di Clop e minaccia di estorcere denaro a una banda di ransomware**  
+  Fonte: BleepingComputer, 19 Sep 2026, 13:48:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/>)
+
+- **Puoi dimostrare che un nuovo CVE è sfruttabile prima che lo facciano gli aggressori?Scopri come in questo webinar**  
+  Fonte: The Hacker News, 19 Sep 2026, 13:28:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html>)
+
+- **Visibilità dell'identità nel 2026: il fondamento della sicurezza dell'identità**  
+  Fonte: The Hacker News, 19 Sep 2026, 13:28:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html>)
+
+- **La hotline virale dell'attrice esegue la scansione del volto di ogni chiamante e osserva il loro umore**  
+  Fonte: BleepingComputer, 19 Sep 2026, 11:38:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/>)
+
+- **SolarWinds corregge il difetto della chiave codificata ARM che abilita RCE non autenticato**  
+  Fonte: The Hacker News, 19 Sep 2026, 09:31:17 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html>)
+
+- **Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild**  
   Fonte: The Hacker News, 19 Sep 2026, 08:18:54 UTC  
   [Leggi](<https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html>)
 
@@ -10,11 +42,11 @@
   Fonte: The Hacker News, 19 Sep 2026, 07:51:34 UTC  
   [Leggi](<https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html>)
 
-- **CrowdSec afferma che l'attacco TanStack npm ha portato alla copia di 170 repository GitHub privati**  
+- **CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories**  
   Fonte: The Hacker News, 19 Sep 2026, 07:14:54 UTC  
   [Leggi](<https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html>)
 
-- **CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild**  
+- **CISA segnala tre vulnerabilità del kernel Linux sfruttate in natura**  
   Fonte: The Hacker News, 19 Sep 2026, 06:24:10 UTC  
   [Leggi](<https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html>)
 
@@ -42,7 +74,7 @@
   Fonte: BleepingComputer, 18 Sep 2026, 15:19:06 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/>)
 
-- **Condivisione aziendale sicura con le revisioni degli accessi per Microsoft 365**  
+- **Secure enterprise sharing with access reviews for Microsoft 365**  
   Fonte: BleepingComputer, 18 Sep 2026, 14:00:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/>)
 
@@ -82,7 +114,7 @@
   Fonte: BleepingComputer, 18 Sep 2026, 09:34:33 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/>)
 
-- **Ha affermato che Bug Bounty Hunter probabilmente ha utilizzato LLM per creare PhantomRaven npm Stealer**  
+- **Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer**  
   Fonte: The Hacker News, 18 Sep 2026, 09:18:03 UTC  
   [Leggi](<https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html>)
 
@@ -106,7 +138,7 @@
   Fonte: The Hacker News, 17 Sep 2026, 18:08:28 UTC  
   [Leggi](<https://thehackernews.com/2026/09/critical-check-point-management-server.html>)
 
-- **ThreatsDay: agenti con autoriscrittura, oltre 800 difetti corretti, scambi di SIM interne e altre 22 nuove storie**  
+- **ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories**  
   Fonte: The Hacker News, 17 Sep 2026, 17:32:22 UTC  
   [Leggi](<https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html>)
 
@@ -118,7 +150,7 @@
   Fonte: The Hacker News, 17 Sep 2026, 15:37:56 UTC  
   [Leggi](<https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html>)
 
-- **La guardia costiera americana e l'FBI salgono a bordo di una petroliera per indagare sull'attacco informatico**  
+- **US Coast Guard and FBI board oil tanker to investigate cyber attack**  
   Fonte: Graham Cluley, 17 Sep 2026, 14:43:48 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/us-coast-guard-fbi-board-oil-tanker-investigate-cyber-attack>)
 
@@ -126,25 +158,9 @@
   Fonte: The Hacker News, 17 Sep 2026, 14:03:13 UTC  
   [Leggi](<https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html>)
 
-- **Cosa significano i recenti attacchi basati sull'intelligenza artificiale per la sicurezza della tua identità**  
-  Fonte: BleepingComputer, 17 Sep 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/>)
-
-- **Windows 11 24H2 Home e Pro termineranno il supporto a ottobre**  
-  Fonte: BleepingComputer, 17 Sep 2026, 13:09:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/>)
-
 - **Un difetto critico del validatore DNSSEC non associato potrebbe consentire l'RCE tramite una zona DNS dannosa**  
   Fonte: The Hacker News, 17 Sep 2026, 12:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html>)
-
-- **Puoi dimostrare che un nuovo CVE è sfruttabile prima che lo facciano gli aggressori?Scopri come in questo webinar**  
-  Fonte: The Hacker News, 17 Sep 2026, 11:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html>)
-
-- **Gli Stati Uniti abbattono la piattaforma DDoS a pagamento NightmareStresser**  
-  Fonte: BleepingComputer, 17 Sep 2026, 11:33:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/>)
 
 - **In che modo i candidati potrebbero utilizzare l'intelligenza artificiale a fin di bene**  
   Fonte: Schneier on Security, 17 Sep 2026, 11:06:31 UTC  
@@ -161,10 +177,6 @@
 - **OpenAI rivela sei incidenti modello che coinvolgono errori nascosti e caricamenti non autorizzati**  
   Fonte: The Hacker News, 17 Sep 2026, 09:53:38 UTC  
   [Leggi](<https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html>)
-
-- **Gli hacker cinesi utilizzano il malware SparroWocky negli attacchi di spionaggio governativo**  
-  Fonte: BleepingComputer, 17 Sep 2026, 09:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/>)
 
 - **L'aggiornamento BIND 9 risolve 14 difetti, incluso un crash non autenticato su DNS-over-HTTPS**  
   Fonte: The Hacker News, 17 Sep 2026, 08:00:29 UTC  
@@ -258,11 +270,11 @@
   Fonte: Cloudflare Blog - Security, 15 Sep 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/workers-granular-authorization/>)
 
-- **Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds**  
+- **L'attaccante umano sfrutta Marimo RCE e raggiunge il bastione SSH in otto secondi**  
   Fonte: The Hacker News, 15 Sep 2026, 11:52:28 UTC  
   [Leggi](<https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html>)
 
-- **Catene di attacco, non solo superfici di attacco: perché testare tecniche individuali non coglie il punto**  
+- **Catene di attacco, non solo superfici di attacco: perché testare le singole tecniche non coglie il punto**  
   Fonte: The Hacker News, 15 Sep 2026, 11:26:36 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html>)
 
@@ -278,7 +290,7 @@
   Fonte: Schneier on Security, 15 Sep 2026, 10:16:24 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html>)
 
-- **Ex commesso di un negozio AT&T incarcerato per aver lavorato al chiaro di luna come infiltrato in una banda di scambiatori di SIM**  
+- **Former AT&T store worker jailed after moonlighting as a SIM-swap gang’s inside man**  
   Fonte: Graham Cluley, 15 Sep 2026, 09:43:54 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/former-at-t-worker-jailed-sim-swap>)
 
@@ -302,19 +314,7 @@
   Fonte: The Hacker News, 14 Sep 2026, 18:02:13 UTC  
   [Leggi](<https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html>)
 
-- **L'aggressore 3BB ha utilizzato la backdoor MeshCentral per l'accesso root, mirando alle credenziali dell'abbonato**  
-  Fonte: The Hacker News, 14 Sep 2026, 18:01:49 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html>)
-
-- **Il difetto del desktop di Telegram consente al JavaScript nascosto di estrarre i messaggi dalle esportazioni HTML**  
-  Fonte: The Hacker News, 14 Sep 2026, 17:58:16 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html>)
-
-- **Red Heron sfrutta Gitea RCE per compromettere 13 organizzazioni in sei paesi**  
-  Fonte: The Hacker News, 14 Sep 2026, 16:56:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html>)
-
-- **Using AI for Weapons Development**  
+- **Utilizzo dell'intelligenza artificiale per lo sviluppo di armi**  
   Fonte: Schneier on Security, 14 Sep 2026, 16:07:46 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html>)
 
@@ -323,4 +323,4 @@
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-09-19 09:58:17 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-20 10:19:02 UTC -->
