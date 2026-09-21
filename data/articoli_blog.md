@@ -2,7 +2,23 @@
 
 ## Ultimi 7 giorni
 
-- **Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws**  
+- **ClickFix Lures Distribuisci ChainScript RAT utilizzando Polygon per ruotare l'infrastruttura C2**  
+  Fonte: The Hacker News, 21 Sep 2026, 08:39:38 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html>)
+
+- **Jade Sleet è collegato alla violazione del provider IT indiano con le backdoor FLATROOF e ROOFDECK**  
+  Fonte: The Hacker News, 21 Sep 2026, 06:06:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html>)
+
+- **I pacchetti npm dannosi eludono le difese dello script di installazione in fase di esecuzione**  
+  Fonte: BleepingComputer, 20 Sep 2026, 14:11:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/>)
+
+- **I ricercatori escono dalla sandbox OpenAI Codex per eseguire comandi sull'host**  
+  Fonte: BleepingComputer, 20 Sep 2026, 12:00:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/>)
+
+- **Claude Opus 5 ha aiutato i ricercatori a rilevare gli account del personale di OpenAI tramite Chained Flaws**  
   Fonte: The Hacker News, 19 Sep 2026, 18:36:53 UTC  
   [Leggi](<https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html>)
 
@@ -34,7 +50,7 @@
   Fonte: The Hacker News, 19 Sep 2026, 09:31:17 UTC  
   [Leggi](<https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html>)
 
-- **Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild**  
+- **RCE pre-autenticazione critico nella piattaforma del flusso di lavoro di Orkes Conductor sfruttata in natura**  
   Fonte: The Hacker News, 19 Sep 2026, 08:18:54 UTC  
   [Leggi](<https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html>)
 
@@ -42,7 +58,7 @@
   Fonte: The Hacker News, 19 Sep 2026, 07:51:34 UTC  
   [Leggi](<https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html>)
 
-- **CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories**  
+- **CrowdSec afferma che l'attacco TanStack npm ha portato alla copia di 170 repository GitHub privati**  
   Fonte: The Hacker News, 19 Sep 2026, 07:14:54 UTC  
   [Leggi](<https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html>)
 
@@ -74,7 +90,7 @@
   Fonte: BleepingComputer, 18 Sep 2026, 15:19:06 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/>)
 
-- **Secure enterprise sharing with access reviews for Microsoft 365**  
+- **Condivisione aziendale sicura con le revisioni degli accessi per Microsoft 365**  
   Fonte: BleepingComputer, 18 Sep 2026, 14:00:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/>)
 
@@ -114,7 +130,7 @@
   Fonte: BleepingComputer, 18 Sep 2026, 09:34:33 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/>)
 
-- **Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer**  
+- **Ha affermato che Bug Bounty Hunter probabilmente ha utilizzato LLM per creare PhantomRaven npm Stealer**  
   Fonte: The Hacker News, 18 Sep 2026, 09:18:03 UTC  
   [Leggi](<https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html>)
 
@@ -130,27 +146,19 @@
   Fonte: BleepingComputer, 17 Sep 2026, 21:50:26 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/>)
 
-- **OpenAI descrive in dettaglio ulteriori casi di agenti IA che hanno intrapreso azioni non autorizzate**  
-  Fonte: BleepingComputer, 17 Sep 2026, 18:55:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/>)
-
 - **Un difetto critico nella gestione dei checkpoint consente agli aggressori non autenticati di eseguire il codice come root**  
   Fonte: The Hacker News, 17 Sep 2026, 18:08:28 UTC  
   [Leggi](<https://thehackernews.com/2026/09/critical-check-point-management-server.html>)
 
-- **ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories**  
+- **ThreatsDay: agenti con autoriscrittura, oltre 800 difetti corretti, scambi di SIM interne e altre 22 nuove storie**  
   Fonte: The Hacker News, 17 Sep 2026, 17:32:22 UTC  
   [Leggi](<https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html>)
-
-- **L'attacco alla catena di fornitura Brevo ha iniettato script ClickFix nei siti dei clienti**  
-  Fonte: BleepingComputer, 17 Sep 2026, 17:11:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/>)
 
 - **Un difetto critico dei sandbox Docker consente al codice guest dannoso di leggere e modificare i file host di macOS**  
   Fonte: The Hacker News, 17 Sep 2026, 15:37:56 UTC  
   [Leggi](<https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html>)
 
-- **US Coast Guard and FBI board oil tanker to investigate cyber attack**  
+- **La guardia costiera americana e l'FBI salgono a bordo di una petroliera per indagare sull'attacco informatico**  
   Fonte: Graham Cluley, 17 Sep 2026, 14:43:48 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/us-coast-guard-fbi-board-oil-tanker-investigate-cyber-attack>)
 
@@ -290,7 +298,7 @@
   Fonte: Schneier on Security, 15 Sep 2026, 10:16:24 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html>)
 
-- **Former AT&T store worker jailed after moonlighting as a SIM-swap gang’s inside man**  
+- **Ex commesso di un negozio AT&T incarcerato per aver lavorato al chiaro di luna come infiltrato in una banda di scambiatori di SIM**  
   Fonte: Graham Cluley, 15 Sep 2026, 09:43:54 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/former-at-t-worker-jailed-sim-swap>)
 
@@ -302,25 +310,13 @@
   Fonte: The Hacker News, 15 Sep 2026, 06:11:11 UTC  
   [Leggi](<https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html>)
 
-- **Gli hacker collegati alla Cina sfruttano la catena Zero-Day di Chrome-Windows per implementare GRIMWEDGE**  
-  Fonte: The Hacker News, 15 Sep 2026, 05:31:05 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html>)
-
 - **Prossimi impegni di conferenza**  
   Fonte: Schneier on Security, 14 Sep 2026, 19:02:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html>)
-
-- **Il nuovo attacco DDRop distrugge il Confidential Computing Intel TDX e AMD SEV-SNP**  
-  Fonte: The Hacker News, 14 Sep 2026, 18:02:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html>)
 
 - **Utilizzo dell'intelligenza artificiale per lo sviluppo di armi**  
   Fonte: Schneier on Security, 14 Sep 2026, 16:07:46 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html>)
 
-- **Le patch di Microsoft**  
-  Fonte: Schneier on Security, 14 Sep 2026, 11:03:26 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-09-20 10:19:02 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-21 11:26:55 UTC -->
