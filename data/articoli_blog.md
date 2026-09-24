@@ -2,6 +2,110 @@
 
 ## Ultimi 7 giorni
 
+- **CISA: le bande di ransomware ora sfruttano la falla critica di TeamCity**  
+  Fonte: BleepingComputer, 24 Sep 2026, 10:42:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/>)
+
+- **OpenAI ha violato il sito governativo australiano di Medicare e ha indagato i fornitori di dati**  
+  Fonte: BleepingComputer, 24 Sep 2026, 09:38:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/>)
+
+- **Microsoft risolve un bug che interrompeva la funzionalità di backup della cronologia file di Windows**  
+  Fonte: BleepingComputer, 24 Sep 2026, 08:14:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/>)
+
+- **L'agente OpenAI ha aggirato i controlli del portale Medicare australiano per accedere a file non pubblici**  
+  Fonte: The Hacker News, 24 Sep 2026, 07:07:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html>)
+
+- **La campagna TeamFiltration compromette sette account Microsoft 365 che utilizzano password predefinite**  
+  Fonte: The Hacker News, 24 Sep 2026, 06:32:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html>)
+
+- **Gli aggressori sfruttano WordPress CVE-2026-87902 entro poche ore dalla divulgazione**  
+  Fonte: The Hacker News, 24 Sep 2026, 05:36:18 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html>)
+
+- **Podcast Smashing Security n. 486: negozi con codice Vibe e telecamere Flock hackerabili**  
+  Fonte: Graham Cluley, 23 Sep 2026, 23:15:05 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-486/>)
+
+- **Il dominio segnaposto utilizzato nei documenti di sviluppo ora serve attacchi ClickFix**  
+  Fonte: BleepingComputer, 23 Sep 2026, 22:46:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/>)
+
+- **Il nuovo malware bancario Android RemControl prende di mira gli utenti in Europa e Canada**  
+  Fonte: BleepingComputer, 23 Sep 2026, 21:25:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/>)
+
+- **Check Point avverte degli hacker che sfruttano la falla RCE di Security Gateway VPN**  
+  Fonte: BleepingComputer, 23 Sep 2026, 19:53:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/>)
+
+- **Gli hacker iniziano a sfruttare un difetto critico di WordPress per l'esecuzione del codice**  
+  Fonte: BleepingComputer, 23 Sep 2026, 18:31:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/>)
+
+- **Gli aggressori utilizzano provider di terraform dannosi per distribuire malware Go tramite il registro HashiCorp**  
+  Fonte: The Hacker News, 23 Sep 2026, 18:06:30 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html>)
+
+- **Un indirizzo e-mail di un problema GitLab trapelato consente a chiunque di inviare codice ed eseguire processi CI come te**  
+  Fonte: The Hacker News, 23 Sep 2026, 16:53:10 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html>)
+
+- **Agenti IA dannosi rubano 600.000 carte di credito e infettano oltre 100 siti con skimmer**  
+  Fonte: BleepingComputer, 23 Sep 2026, 16:20:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/>)
+
+- **La catena MikroTrick consente agli aggressori di prendere il controllo dei router MikroTik senza password o chiave SSH**  
+  Fonte: The Hacker News, 23 Sep 2026, 16:06:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html>)
+
+- **Il rapporto InfraTrust avverte i sistemi di gestione della rete sotto attacco**  
+  Fonte: BleepingComputer, 23 Sep 2026, 14:35:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/>)
+
+- **Questo malware per Windows è stato creato per consentire a un massimo di quattro modelli di intelligenza artificiale di votare la sua prossima mossa**  
+  Fonte: The Hacker News, 23 Sep 2026, 14:17:58 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html>)
+
+- **Come un Kubernetes YAML può trasferire un'organizzazione GCP**  
+  Fonte: BleepingComputer, 23 Sep 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/>)
+
+- **Pacchetti MemTensor compromessi Distribuiscono sckit Credential Stealer tramite npm e PyPI**  
+  Fonte: The Hacker News, 23 Sep 2026, 13:52:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html>)
+
+- **Le patch Arista hanno sfruttato attivamente il giorno zero di VeloCloud Orchestrator**  
+  Fonte: BleepingComputer, 23 Sep 2026, 12:29:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/>)
+
+- **Il nuovo difetto cPanel consente a un account di hosting di eseguire il codice come root e assumere il controllo completo del server**  
+  Fonte: The Hacker News, 23 Sep 2026, 12:16:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html>)
+
+- **545 hacker lo hanno testato per primi.Ora XRanges for AI assegna un punteggio al tuo agente di sicurezza**  
+  Fonte: The Hacker News, 23 Sep 2026, 11:47:19 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html>)
+
+- **I modelli antropici e OpenAI tentano ancora azioni limitate nei test di sicurezza**  
+  Fonte: The Hacker News, 23 Sep 2026, 11:47:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html>)
+
+- **Microsoft: gli aggiornamenti Windows di settembre interrompono le connessioni Always On VPN**  
+  Fonte: BleepingComputer, 23 Sep 2026, 11:18:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/>)
+
+- **Exploit rilasciato per il difetto di Ubuntu Linux senza patch che abilita l'escape del contenitore host-root**  
+  Fonte: The Hacker News, 23 Sep 2026, 11:12:18 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html>)
+
+- **Ricerca su modelli che adottano comportamenti simili a quelli dei geni**  
+  Fonte: Schneier on Security, 23 Sep 2026, 11:03:36 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html>)
+
 - **F5 applica le patch critiche APM BIG-IP Zero-Day sfruttate per RCE non autenticato su server OAuth**  
   Fonte: The Hacker News, 23 Sep 2026, 08:29:48 UTC  
   [Leggi](<https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html>)
@@ -34,37 +138,17 @@
   Fonte: BleepingComputer, 22 Sep 2026, 21:45:45 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/>)
 
-- **La Svezia multa Miljödata di 183.000 dollari per violazione che ha colpito 2,2 milioni di persone**  
-  Fonte: BleepingComputer, 22 Sep 2026, 21:40:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/>)
-
-- **Gli hacker cinesi sfruttano i difetti di WordPress e Zyxel per rubare dati governativi**  
-  Fonte: BleepingComputer, 22 Sep 2026, 20:35:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/>)
-
-- **ShinyHunters denuncia l'hacking dell'FBI e il furto di dati nella violazione zero-day di PeopleSoft**  
-  Fonte: BleepingComputer, 22 Sep 2026, 19:13:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/>)
-
 - **Check Point avvisa dello sfruttamento del server di gestione Zero-Day in attacchi mirati**  
   Fonte: The Hacker News, 22 Sep 2026, 18:29:39 UTC  
   [Leggi](<https://thehackernews.com/2026/09/check-point-warns-of-management-server.html>)
-
-- **Il nuovo malware Windows ClosedQuorum utilizza l'intelligenza artificiale per prendere decisioni sugli attacchi**  
-  Fonte: BleepingComputer, 22 Sep 2026, 18:04:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/>)
 
 - **Patch per problemi di WordPress per difetti critici che possono abilitare l'esecuzione di codice su alcuni server**  
   Fonte: The Hacker News, 22 Sep 2026, 18:03:10 UTC  
   [Leggi](<https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html>)
 
-- **Il pacchetto npm dannoso si presenta come una sonda Twilio Bug-Bounty e può estrarre le credenziali**  
+- **Il pacchetto npm dannoso si presenta come una sonda Bug-Bounty di Twilio e può estrarre le credenziali**  
   Fonte: The Hacker News, 22 Sep 2026, 17:58:15 UTC  
   [Leggi](<https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html>)
-
-- **Riduci le lacune di visibilità dell'IT ombra con Wazuh**  
-  Fonte: BleepingComputer, 22 Sep 2026, 17:17:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/>)
 
 - **Microsoft elimina il servizio di phishing del codice dispositivo EvilTokens legato a 12.000 compromissioni della posta in arrivo**  
   Fonte: The Hacker News, 22 Sep 2026, 17:03:31 UTC  
@@ -74,25 +158,9 @@
   Fonte: The Hacker News, 22 Sep 2026, 16:41:12 UTC  
   [Leggi](<https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html>)
 
-- **Check Point avvisa del Management Server zero-day sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 22 Sep 2026, 16:32:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/>)
-
 - **Un ricercatore rilascia il PoC zero-day di BigDiskBuster che blocca gli aggiornamenti di Microsoft Defender**  
   Fonte: The Hacker News, 22 Sep 2026, 16:14:04 UTC  
   [Leggi](<https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html>)
-
-- **EvilTokens PhaaS interrotto dopo aver compromesso 12.000 account Microsoft**  
-  Fonte: BleepingComputer, 22 Sep 2026, 15:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/>)
-
-- **Webinar di domani: violazioni reali di Google Workspace all'interno**  
-  Fonte: BleepingComputer, 22 Sep 2026, 12:57:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/>)
-
-- **D-Link avvisa del bug zero-day di massima gravità nei router DIR-822A**  
-  Fonte: BleepingComputer, 22 Sep 2026, 12:48:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/>)
 
 - **Gli agenti IA stanno riscrivendo le regole del movimento laterale**  
   Fonte: The Hacker News, 22 Sep 2026, 12:30:00 UTC  
@@ -118,17 +186,9 @@
   Fonte: Schneier on Security, 22 Sep 2026, 11:02:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html>)
 
-- **Il nuovo Windows Defender zero-day blocca gli aggiornamenti antivirus Microsoft**  
-  Fonte: BleepingComputer, 22 Sep 2026, 09:55:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/>)
-
 - **Il pacchetto npm dannoso indicizzato-btree nascondeva il caricatore nel codice runtime prima della rimozione**  
   Fonte: The Hacker News, 22 Sep 2026, 09:38:18 UTC  
   [Leggi](<https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html>)
-
-- **La CISA ordina ai federali di correggere la falla Zyxel sfruttata per il furto di dati**  
-  Fonte: BleepingComputer, 22 Sep 2026, 08:53:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/>)
 
 - **SideCopy estende il targeting indiano al mondo accademico con lo spear-phishing ReverseRAT**  
   Fonte: The Hacker News, 22 Sep 2026, 07:52:03 UTC  
@@ -145,10 +205,6 @@
 - **Difetti di Zyxel e Veeam durante lo sfruttamento attivo con accesso al comando e al sistema**  
   Fonte: The Hacker News, 22 Sep 2026, 05:31:59 UTC  
   [Leggi](<https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html>)
-
-- **BigCommerce avvisa i commercianti della violazione dei dati collegata alle app Ribon**  
-  Fonte: BleepingComputer, 21 Sep 2026, 21:18:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/>)
 
 - **Il falso programma di installazione di LastPass Authenticator abusa del driver firmato Microsoft per uccidere antivirus ed EDR**  
   Fonte: The Hacker News, 21 Sep 2026, 17:31:01 UTC  
@@ -230,77 +286,17 @@
   Fonte: The Hacker News, 18 Sep 2026, 15:24:16 UTC  
   [Leggi](<https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html>)
 
-- **Microsoft applica una patch al difetto CVSS 10.0 di Azure AI Foundry che abilita l'escalation dei privilegi non autorizzata**  
-  Fonte: The Hacker News, 18 Sep 2026, 12:47:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html>)
-
 - **Le IA hanno ancora difficoltà con i CAPTCHA?**  
   Fonte: Schneier on Security, 18 Sep 2026, 11:05:52 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html>)
-
-- **Un dominio CDN abbandonato è stato registrato nuovamente.Migliaia di siti lo chiamano ancora.**  
-  Fonte: The Hacker News, 18 Sep 2026, 11:01:16 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html>)
-
-- **Plugin4Shell consente ai proprietari di repository di scambiare il codice del plug-in bloccato tra quattro agenti di codifica AI**  
-  Fonte: The Hacker News, 18 Sep 2026, 11:01:01 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html>)
-
-- **WeaselBiscuit Stealer si diffonde tramite pacchetti da 13 npm per raccogliere lo spazio di archiviazione delle estensioni di Chrome**  
-  Fonte: The Hacker News, 18 Sep 2026, 10:40:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html>)
-
-- **Ha affermato che Bug Bounty Hunter probabilmente ha utilizzato LLM per creare PhantomRaven npm Stealer**  
-  Fonte: The Hacker News, 18 Sep 2026, 09:18:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html>)
-
-- **Il malware Android RatHat abusa di ADB per mantenere l'accesso alla shell dopo la disinstallazione**  
-  Fonte: The Hacker News, 18 Sep 2026, 06:17:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html>)
-
-- **Un difetto critico nella gestione dei checkpoint consente agli aggressori non autenticati di eseguire il codice come root**  
-  Fonte: The Hacker News, 17 Sep 2026, 18:08:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/critical-check-point-management-server.html>)
-
-- **ThreatsDay: agenti con autoriscrittura, oltre 800 difetti corretti, scambi di SIM interne e altre 22 nuove storie**  
-  Fonte: The Hacker News, 17 Sep 2026, 17:32:22 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html>)
-
-- **Un difetto critico dei sandbox Docker consente al codice guest dannoso di leggere e modificare i file host di macOS**  
-  Fonte: The Hacker News, 17 Sep 2026, 15:37:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html>)
 
 - **La guardia costiera americana e l'FBI salgono a bordo di una petroliera per indagare sull'attacco informatico**  
   Fonte: Graham Cluley, 17 Sep 2026, 14:43:48 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/us-coast-guard-fbi-board-oil-tanker-investigate-cyber-attack>)
 
-- **Hack Handala collegato all'Iran legato alla backdoor di Telegram HEAVYGRAM che può rubare le password**  
-  Fonte: The Hacker News, 17 Sep 2026, 14:03:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html>)
-
-- **Un difetto critico del validatore DNSSEC non associato potrebbe consentire l'RCE tramite una zona DNS dannosa**  
-  Fonte: The Hacker News, 17 Sep 2026, 12:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html>)
-
 - **In che modo i candidati potrebbero utilizzare l'intelligenza artificiale a fin di bene**  
   Fonte: Schneier on Security, 17 Sep 2026, 11:06:31 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html>)
 
-- **Guida esperta del CISO al pentesting agentico per i siti web**  
-  Fonte: The Hacker News, 17 Sep 2026, 10:50:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html>)
 
-- **Podcast #485 di Smashing Security: Questi ricercatori si sono ubriacati per hackerare una TV LG**  
-  Fonte: Graham Cluley, 16 Sep 2026, 23:07:19 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-485/>)
-
-- **Il broker di dati Radaris perde domini nella lotta alla privacy**  
-  Fonte: Krebs on Security, 16 Sep 2026, 18:14:22 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/>)
-
-- **Truffe CAPTCHA false**  
-  Fonte: Schneier on Security, 16 Sep 2026, 11:25:26 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-23 10:28:37 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-24 10:46:20 UTC -->
