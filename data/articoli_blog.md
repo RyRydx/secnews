@@ -2,7 +2,43 @@
 
 ## Ultimi 7 giorni
 
-- **La falla di Elementor CSRF consente agli aggressori di prendere il controllo dei siti dopo che l'amministratore ha fatto clic sul collegamento creato**  
+- **Avviso: due Citrix NetScaler RCE Zero-Days senza patch sotto sfruttamento attivo**  
+  Fonte: The Hacker News, 27 Sep 2026, 07:47:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html>)
+
+- **ShinyHunters utilizza il trucco di bypass WAF negli attacchi Oracle PeopleSoft**  
+  Fonte: BleepingComputer, 26 Sep 2026, 19:03:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/>)
+
+- **Lunex Stealer abusa del driver AMD per disabilitare il monitoraggio della sicurezza e rubare le credenziali del browser**  
+  Fonte: The Hacker News, 26 Sep 2026, 18:22:52 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html>)
+
+- **Claude Opus 5.5 utilizza il 95% in meno di trattini, ma le sue risposte stanno diventando più lunghe**  
+  Fonte: BleepingComputer, 26 Sep 2026, 16:26:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/>)
+
+- **Microsoft sospende l'aggiornamento KB5002907 dopo la disattivazione della licenza di Office**  
+  Fonte: BleepingComputer, 26 Sep 2026, 15:50:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/>)
+
+- **Azioni GitHub riattivate con il payload Mini Shai-Hulud ancora attivo**  
+  Fonte: BleepingComputer, 26 Sep 2026, 14:19:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/>)
+
+- **Gli agenti AI di OpenAI hanno caricato accidentalmente le immagini fornite dagli utenti su siti di terze parti**  
+  Fonte: BleepingComputer, 26 Sep 2026, 12:28:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/>)
+
+- **Gli aggressori aggirano i WAF per sfruttare la falla di Oracle PeopleSoft e distribuire web shell**  
+  Fonte: The Hacker News, 26 Sep 2026, 11:46:40 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html>)
+
+- **Zero Trust per gli agenti IA inizia con la correzione di Zero Visibility**  
+  Fonte: The Hacker News, 26 Sep 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html>)
+
+- **Il difetto di Elementor CSRF consente agli aggressori di prendere il controllo dei siti dopo che l'amministratore ha fatto clic sul collegamento creato**  
   Fonte: The Hacker News, 26 Sep 2026, 09:55:22 UTC  
   [Leggi](<https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html>)
 
@@ -90,25 +126,13 @@
   Fonte: The Hacker News, 25 Sep 2026, 10:14:02 UTC  
   [Leggi](<https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html>)
 
-- **Gli hacker rubano 351,6 milioni di dollari durante l'attacco allo scambio di criptovalute Bitget**  
-  Fonte: BleepingComputer, 25 Sep 2026, 08:33:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/>)
-
-- **Cloudflare risolve un difetto che consentiva a un container di leggere i dati rimanenti sul disco di un altro cliente**  
+- **Cloudflare risolve un difetto che consentiva a un container di leggere i dati rimanenti del disco di un altro cliente**  
   Fonte: The Hacker News, 25 Sep 2026, 04:49:22 UTC  
   [Leggi](<https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html>)
 
 - **Difetti WSO2 e Adobe Commerce sfruttati negli attacchi, aggiunti a CISA KEV**  
   Fonte: The Hacker News, 25 Sep 2026, 04:46:34 UTC  
   [Leggi](<https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html>)
-
-- **Il malware MacSync utilizza i calendari iCloud pubblici per fornire nuovi payload**  
-  Fonte: BleepingComputer, 24 Sep 2026, 20:53:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/>)
-
-- **Il nuovo malware Carbonato utilizza agenti AI per dirottare gli host Docker esposti**  
-  Fonte: BleepingComputer, 24 Sep 2026, 20:10:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/>)
 
 - **I difetti di OnePlus senza patch consentono alle app Android installate di ottenere il root senza autorizzazioni**  
   Fonte: The Hacker News, 24 Sep 2026, 18:10:18 UTC  
@@ -117,10 +141,6 @@
 - **ThreatsDay: avvelenamento da ricerca AI, perdita di repository dallo strumento di codifica AI, esecuzione di codice con un clic e altre 13 storie**  
   Fonte: The Hacker News, 24 Sep 2026, 17:52:43 UTC  
   [Leggi](<https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html>)
-
-- **Gli indirizzi e-mail esposti del progetto GitLab consentono agli aggressori di inviare codice**  
-  Fonte: BleepingComputer, 24 Sep 2026, 17:47:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/>)
 
 - **Il segnaposto di terze parti[.]com referenziato in oltre 1.700 repository ora pubblica contenuti dannosi**  
   Fonte: The Hacker News, 24 Sep 2026, 15:27:32 UTC  
@@ -133,10 +153,6 @@
 - **Siti ucraini hackerati che servono false esche ClickFix di Cloudflare per ladri psichedelici**  
   Fonte: The Hacker News, 24 Sep 2026, 14:29:06 UTC  
   [Leggi](<https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html>)
-
-- **FedRAMP VDR e VER: le scansioni giornaliere sono solo l'inizio**  
-  Fonte: BleepingComputer, 24 Sep 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/>)
 
 - **Sviluppatore ucraino di ransomware incarcerato per quasi 13 anni**  
   Fonte: Graham Cluley, 24 Sep 2026, 12:42:13 UTC  
@@ -238,11 +254,11 @@
   Fonte: The Hacker News, 22 Sep 2026, 18:29:39 UTC  
   [Leggi](<https://thehackernews.com/2026/09/check-point-warns-of-management-server.html>)
 
-- **Patch per problemi di WordPress per difetti critici che possono abilitare l'esecuzione di codice su alcuni server**  
+- **WordPress presenta una patch per un difetto critico che può consentire l'esecuzione di codice su alcuni server**  
   Fonte: The Hacker News, 22 Sep 2026, 18:03:10 UTC  
   [Leggi](<https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html>)
 
-- **Il pacchetto npm dannoso si presenta come una sonda Twilio Bug-Bounty e può esfiltrare le credenziali**  
+- **Il pacchetto npm dannoso si presenta come una sonda Twilio Bug-Bounty e può estrarre le credenziali**  
   Fonte: The Hacker News, 22 Sep 2026, 17:58:15 UTC  
   [Leggi](<https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html>)
 
@@ -290,25 +306,9 @@
   Fonte: The Hacker News, 22 Sep 2026, 07:52:03 UTC  
   [Leggi](<https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html>)
 
-- **Un'impostazione nascosta di Meta Muse potrebbe consentire agli aggressori di trasformare l'assistente AI in una backdoor**  
-  Fonte: The Hacker News, 22 Sep 2026, 06:33:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html>)
-
-- **Il difetto di WordPress Comment2Shell può trasformare i commenti anonimi XSS in RCE tramite la sessione di amministrazione**  
-  Fonte: The Hacker News, 22 Sep 2026, 06:03:14 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html>)
-
-- **Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access**  
-  Fonte: The Hacker News, 22 Sep 2026, 05:31:59 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html>)
-
-- **Il falso programma di installazione di LastPass Authenticator abusa del driver firmato Microsoft per uccidere antivirus ed EDR**  
-  Fonte: The Hacker News, 21 Sep 2026, 17:31:01 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html>)
-
 - **Telecamere Flock con ingegneria inversa**  
   Fonte: Schneier on Security, 21 Sep 2026, 14:37:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-09-26 10:31:53 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-27 11:03:16 UTC -->
