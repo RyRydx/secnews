@@ -2,6 +2,50 @@
 
 ## Ultimi 7 giorni
 
+- **Nuovo attacco contro la RSA**  
+  Fonte: Schneier on Security, 28 Sep 2026, 11:02:58 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html>)
+
+- **Bitget riprende i prelievi di Bitcoin dopo una rapina di criptovalute da 387,5 milioni di dollari**  
+  Fonte: BleepingComputer, 28 Sep 2026, 09:25:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/>)
+
+- **Gli aggressori collegati a JADEPUFFER hanno utilizzato entità servizio compromesse per eliminare risorse di Azure**  
+  Fonte: The Hacker News, 28 Sep 2026, 09:08:21 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html>)
+
+- **Un soldato americano viene condannato a 70 mesi di prigione per aver estorto denaro a 10 aziende tecnologiche e di telecomunicazioni**  
+  Fonte: BleepingComputer, 28 Sep 2026, 07:30:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/>)
+
+- **Aggiornamento settimanale 523: in diretta da un fiordo norvegese**  
+  Fonte: Troy Hunt, 28 Sep 2026, 07:24:49 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-523/>)
+
+- **CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally**  
+  Fonte: The Hacker News, 28 Sep 2026, 07:21:49 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html>)
+
+- **La CISA ordina ai federali di correggere i difetti sfruttati di Citrix entro mercoledì**  
+  Fonte: BleepingComputer, 28 Sep 2026, 06:24:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/>)
+
+- **OpenAI sta preparando "o", un assistente ChatGPT sempre attivo in grado di gestire la posta elettronica**  
+  Fonte: BleepingComputer, 27 Sep 2026, 23:40:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/>)
+
+- **Citrix conferma due zero-day NetScaler RCE sfruttati negli attacchi**  
+  Fonte: BleepingComputer, 27 Sep 2026, 16:02:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/>)
+
+- **Cloudflare corregge il difetto cross-tenant dei contenitori che espone i dati dei clienti**  
+  Fonte: BleepingComputer, 27 Sep 2026, 14:13:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/>)
+
+- **Anthropic trasforma Claude in un mercato AI con oltre 2.000 plugin e connettori**  
+  Fonte: BleepingComputer, 27 Sep 2026, 13:38:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/>)
+
 - **Avviso: due Citrix NetScaler RCE Zero-Days senza patch sotto sfruttamento attivo**  
   Fonte: The Hacker News, 27 Sep 2026, 07:47:57 UTC  
   [Leggi](<https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html>)
@@ -18,7 +62,7 @@
   Fonte: BleepingComputer, 26 Sep 2026, 16:26:58 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/>)
 
-- **Microsoft sospende l'aggiornamento KB5002907 dopo la disattivazione della licenza di Office**  
+- **Microsoft mette in pausa l'aggiornamento KB5002907 dopo la disattivazione della licenza di Office**  
   Fonte: BleepingComputer, 26 Sep 2026, 15:50:38 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/>)
 
@@ -30,7 +74,7 @@
   Fonte: BleepingComputer, 26 Sep 2026, 12:28:41 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/>)
 
-- **Gli aggressori aggirano i WAF per sfruttare la falla di Oracle PeopleSoft e distribuire web shell**  
+- **Gli aggressori aggirano i WAF per sfruttare la falla di Oracle PeopleSoft e implementare Web Shell**  
   Fonte: The Hacker News, 26 Sep 2026, 11:46:40 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html>)
 
@@ -38,7 +82,7 @@
   Fonte: The Hacker News, 26 Sep 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html>)
 
-- **Il difetto di Elementor CSRF consente agli aggressori di prendere il controllo dei siti dopo che l'amministratore ha fatto clic sul collegamento creato**  
+- **La falla di Elementor CSRF consente agli aggressori di prendere il controllo dei siti dopo che l'amministratore ha fatto clic sul collegamento creato**  
   Fonte: The Hacker News, 26 Sep 2026, 09:55:22 UTC  
   [Leggi](<https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html>)
 
@@ -54,7 +98,7 @@
   Fonte: Krebs on Security, 25 Sep 2026, 21:44:40 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/>)
 
-- **Kiteworks richiede l'arresto dei server entro 6 ore a causa di potenziali attacchi zero-day**  
+- **Kiteworks richiede l'arresto dei server entro 6 ore per evitare potenziali attacchi zero-day**  
   Fonte: BleepingComputer, 25 Sep 2026, 21:41:07 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/>)
 
@@ -70,22 +114,6 @@
   Fonte: BleepingComputer, 25 Sep 2026, 18:13:33 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/>)
 
-- **CISA mette in guardia contro le falle di Sharepoint, WSO2 e Adobe Commerce sfruttate negli attacchi**  
-  Fonte: BleepingComputer, 25 Sep 2026, 17:24:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/>)
-
-- **Anthropic offre fino a $ 250 in crediti Claude Code gratuiti, ma solo per le sessioni cloud**  
-  Fonte: BleepingComputer, 25 Sep 2026, 16:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/>)
-
-- **OpenAI sta preparando un piano ChatGPT Pro Max da $ 500 con Codex più veloce**  
-  Fonte: BleepingComputer, 25 Sep 2026, 14:54:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/>)
-
-- **Con l'ascesa degli agenti IA, il SOC 2 dovrebbe adattarsi altrimenti rischierebbe di diventare irrilevante**  
-  Fonte: BleepingComputer, 25 Sep 2026, 14:51:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/>)
-
 - **Le azioni GitHub compromesse sono tornate online e hanno ripreso l'esecuzione del malware Mini Shai-Hulud**  
   Fonte: The Hacker News, 25 Sep 2026, 14:44:41 UTC  
   [Leggi](<https://thehackernews.com/2026/09/compromised-github-actions-came-back.html>)
@@ -97,14 +125,6 @@
 - **Gli agenti ora possono configurare la sicurezza del tuo sito web con Turnstile Spin**  
   Fonte: Cloudflare Blog - Security, 25 Sep 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/turnstile-spin/>)
-
-- **Microsoft prevede di deprecare i Servizi di distribuzione Windows**  
-  Fonte: BleepingComputer, 25 Sep 2026, 12:40:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/>)
-
-- **L'amministratore del mercato Rydox si dichiara colpevole e rischia 22 anni di prigione**  
-  Fonte: BleepingComputer, 25 Sep 2026, 11:35:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/>)
 
 - **Il SOC non ha bisogno di ricominciare da capo con ogni avviso**  
   Fonte: The Hacker News, 25 Sep 2026, 11:30:00 UTC  
@@ -118,15 +138,11 @@
   Fonte: The Hacker News, 25 Sep 2026, 10:35:55 UTC  
   [Leggi](<https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html>)
 
-- **Microsoft: i recenti aggiornamenti di Windows causano problemi di caricamento del desktop**  
-  Fonte: BleepingComputer, 25 Sep 2026, 10:30:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/>)
-
 - **Difetto di SQL Injection pre-autenticazione di Roundcube sfruttato attivamente in the Wild**  
   Fonte: The Hacker News, 25 Sep 2026, 10:14:02 UTC  
   [Leggi](<https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html>)
 
-- **Cloudflare risolve un difetto che consentiva a un container di leggere i dati rimanenti del disco di un altro cliente**  
+- **Cloudflare risolve un difetto che consentiva a un container di leggere i dati rimanenti sul disco di un altro cliente**  
   Fonte: The Hacker News, 25 Sep 2026, 04:49:22 UTC  
   [Leggi](<https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html>)
 
@@ -254,7 +270,7 @@
   Fonte: The Hacker News, 22 Sep 2026, 18:29:39 UTC  
   [Leggi](<https://thehackernews.com/2026/09/check-point-warns-of-management-server.html>)
 
-- **WordPress presenta una patch per un difetto critico che può consentire l'esecuzione di codice su alcuni server**  
+- **Patch per problemi di WordPress per difetti critici che possono abilitare l'esecuzione di codice su alcuni server**  
   Fonte: The Hacker News, 22 Sep 2026, 18:03:10 UTC  
   [Leggi](<https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html>)
 
@@ -298,17 +314,9 @@
   Fonte: Schneier on Security, 22 Sep 2026, 11:02:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html>)
 
-- **Il pacchetto npm dannoso indicizzato-btree nascondeva il caricatore nel codice runtime prima della rimozione**  
-  Fonte: The Hacker News, 22 Sep 2026, 09:38:18 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html>)
-
-- **SideCopy estende il targeting indiano al mondo accademico con lo spear-phishing ReverseRAT**  
-  Fonte: The Hacker News, 22 Sep 2026, 07:52:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html>)
-
 - **Telecamere Flock con ingegneria inversa**  
   Fonte: Schneier on Security, 21 Sep 2026, 14:37:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-09-27 11:03:16 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-28 12:22:43 UTC -->
