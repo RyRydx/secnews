@@ -2,6 +2,98 @@
 
 ## Ultimi 7 giorni
 
+- **Un uomo vietnamita è stato denunciato per truffa crittografica da 16 milioni di dollari relativa alla "macellazione di maiali".**  
+  Fonte: BleepingComputer, 29 Sep 2026, 11:41:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/>)
+
+- **Utilizzo del collegamento del dispositivo per intercettare WhatsApp e Signal**  
+  Fonte: Schneier on Security, 29 Sep 2026, 11:02:19 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html>)
+
+- **Kiteworks corregge un difetto critico e porta online i sistemi dei clienti**  
+  Fonte: BleepingComputer, 29 Sep 2026, 09:04:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/>)
+
+- **La polizia olandese arresta un uomo di 24 anni ad Amsterdam nelle indagini di ShinyHunters**  
+  Fonte: The Hacker News, 29 Sep 2026, 08:35:10 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html>)
+
+- **Apple corregge il difetto zero-day di CoreGraphics sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 29 Sep 2026, 07:33:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/>)
+
+- **Un difetto ufficiale dell'SDK Python di MCP può consentire ai server dannosi di rubare le credenziali OAuth**  
+  Fonte: The Hacker News, 29 Sep 2026, 06:08:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html>)
+
+- **Scaffali OpenAI GPT-6.1 Astra Dopo i test Trova inganni e azioni non autorizzate**  
+  Fonte: The Hacker News, 29 Sep 2026, 05:12:32 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html>)
+
+- **OpenAI sospende l'utilizzo dello strumento dopo che l'agente ha bypassato i controlli Internet per raggiungere un chatbot esterno**  
+  Fonte: The Hacker News, 29 Sep 2026, 04:45:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html>)
+
+- **Il giapponese Keio conferma che l'attacco ransomware ha interrotto i sistemi aziendali**  
+  Fonte: BleepingComputer, 28 Sep 2026, 20:56:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/>)
+
+- **Times Car conferma la violazione dei dati che colpisce 6,6 milioni di account utente**  
+  Fonte: BleepingComputer, 28 Sep 2026, 20:31:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/>)
+
+- **La polizia olandese conferma l'arresto nell'indagine di hacking di ShinyHunters**  
+  Fonte: BleepingComputer, 28 Sep 2026, 19:49:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/>)
+
+- **Apple corregge il difetto CoreGraphics che potrebbe essere sfruttato in attacchi mirati**  
+  Fonte: The Hacker News, 28 Sep 2026, 19:18:01 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html>)
+
+- **Oltre 16.000 database Supabase espongono PII, password, token di autenticazione**  
+  Fonte: BleepingComputer, 28 Sep 2026, 18:50:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/>)
+
+- **Gli hacker utilizzano NeedyMantis per mantenere l'accesso a lungo termine nelle reti violate**  
+  Fonte: The Hacker News, 28 Sep 2026, 18:35:42 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html>)
+
+- **IAM per agenti AI: un quadro aziendale pratico**  
+  Fonte: The Hacker News, 28 Sep 2026, 18:20:38 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/iam-for-ai-agent.html>)
+
+- **Bitget afferma che l'aggressore ha sfruttato un difetto del prodotto di sicurezza di terze parti per rubare 388 milioni di dollari**  
+  Fonte: The Hacker News, 28 Sep 2026, 17:42:18 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html>)
+
+- **RatHat Android Malware Console utilizza Gemini per identificare le vittime di maggior valore**  
+  Fonte: The Hacker News, 28 Sep 2026, 17:38:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html>)
+
+- **Gli attacchi AI agentici di JadePuffer prendono di mira Azure e distruggono le risorse cloud**  
+  Fonte: BleepingComputer, 28 Sep 2026, 15:49:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/>)
+
+- **La polizia olandese arresta un hacker "riformato" nell'indagine di Shiny Hunters**  
+  Fonte: Krebs on Security, 28 Sep 2026, 15:08:57 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/>)
+
+- **⚡ Riepilogo settimanale: hackeraggio crittografico da 387 milioni di dollari, exploit Citrix, agenti AI fuori copione e altre minacce**  
+  Fonte: The Hacker News, 28 Sep 2026, 14:00:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html>)
+
+- **Oltre 80.000 organizzazioni hanno subito il furto degli accessi all'intelligenza artificiale: dall'IA ombra al LLMjacking**  
+  Fonte: BleepingComputer, 28 Sep 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/>)
+
+- **Webinar: come gestire gli agenti IA, ridurre gli accessi eccessivi e controllare l'IA ombra**  
+  Fonte: The Hacker News, 28 Sep 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html>)
+
+- **La botnet Carbonato compromette gli host Docker per distribuire l'agente AI Hermes controllato da Telegram**  
+  Fonte: The Hacker News, 28 Sep 2026, 11:46:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html>)
+
 - **Nuovo attacco contro la RSA**  
   Fonte: Schneier on Security, 28 Sep 2026, 11:02:58 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html>)
@@ -22,7 +114,7 @@
   Fonte: Troy Hunt, 28 Sep 2026, 07:24:49 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-523/>)
 
-- **CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally**  
+- **CISA afferma che gli aggressori stanno sfruttando due difetti critici di Citrix NetScaler a livello globale**  
   Fonte: The Hacker News, 28 Sep 2026, 07:21:49 UTC  
   [Leggi](<https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html>)
 
@@ -42,37 +134,13 @@
   Fonte: BleepingComputer, 27 Sep 2026, 14:13:31 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/>)
 
-- **Anthropic trasforma Claude in un mercato AI con oltre 2.000 plugin e connettori**  
-  Fonte: BleepingComputer, 27 Sep 2026, 13:38:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/>)
-
 - **Avviso: due Citrix NetScaler RCE Zero-Days senza patch sotto sfruttamento attivo**  
   Fonte: The Hacker News, 27 Sep 2026, 07:47:57 UTC  
   [Leggi](<https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html>)
 
-- **ShinyHunters utilizza il trucco di bypass WAF negli attacchi Oracle PeopleSoft**  
-  Fonte: BleepingComputer, 26 Sep 2026, 19:03:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/>)
-
 - **Lunex Stealer abusa del driver AMD per disabilitare il monitoraggio della sicurezza e rubare le credenziali del browser**  
   Fonte: The Hacker News, 26 Sep 2026, 18:22:52 UTC  
   [Leggi](<https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html>)
-
-- **Claude Opus 5.5 utilizza il 95% in meno di trattini, ma le sue risposte stanno diventando più lunghe**  
-  Fonte: BleepingComputer, 26 Sep 2026, 16:26:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/>)
-
-- **Microsoft mette in pausa l'aggiornamento KB5002907 dopo la disattivazione della licenza di Office**  
-  Fonte: BleepingComputer, 26 Sep 2026, 15:50:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/>)
-
-- **Azioni GitHub riattivate con il payload Mini Shai-Hulud ancora attivo**  
-  Fonte: BleepingComputer, 26 Sep 2026, 14:19:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/>)
-
-- **Gli agenti AI di OpenAI hanno caricato accidentalmente le immagini fornite dagli utenti su siti di terze parti**  
-  Fonte: BleepingComputer, 26 Sep 2026, 12:28:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/>)
 
 - **Gli aggressori aggirano i WAF per sfruttare la falla di Oracle PeopleSoft e implementare Web Shell**  
   Fonte: The Hacker News, 26 Sep 2026, 11:46:40 UTC  
@@ -98,21 +166,9 @@
   Fonte: Krebs on Security, 25 Sep 2026, 21:44:40 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/>)
 
-- **Kiteworks richiede l'arresto dei server entro 6 ore per evitare potenziali attacchi zero-day**  
-  Fonte: BleepingComputer, 25 Sep 2026, 21:41:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/>)
-
 - **Blog sui calamari del venerdì: dissezione partecipativa dei calamari a ottobre in Tennessee**  
   Fonte: Schneier on Security, 25 Sep 2026, 21:08:14 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html>)
-
-- **ShinyHunters ha violato il sito di perdita di Clop utilizzando il difetto di attraversamento del percorso Grav CMS**  
-  Fonte: BleepingComputer, 25 Sep 2026, 20:57:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/>)
-
-- **La falla di Elementor WordPress consente agli aggressori di creare account amministratore**  
-  Fonte: BleepingComputer, 25 Sep 2026, 18:13:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/>)
 
 - **Le azioni GitHub compromesse sono tornate online e hanno ripreso l'esecuzione del malware Mini Shai-Hulud**  
   Fonte: The Hacker News, 25 Sep 2026, 14:44:41 UTC  
@@ -258,65 +314,9 @@
   Fonte: The Hacker News, 23 Sep 2026, 07:04:40 UTC  
   [Leggi](<https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html>)
 
-- **ShinyHunters denuncia una violazione dell'FBI, afferma di aver rubato dati su agenti e candidati a un posto di lavoro**  
-  Fonte: The Hacker News, 23 Sep 2026, 05:30:09 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html>)
-
 - **Aggiornamento settimanale 522: in diretta da Oslo con Scott Helme**  
   Fonte: Troy Hunt, 23 Sep 2026, 05:18:34 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-522/>)
 
-- **Check Point avvisa dello sfruttamento del server di gestione Zero-Day in attacchi mirati**  
-  Fonte: The Hacker News, 22 Sep 2026, 18:29:39 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/check-point-warns-of-management-server.html>)
 
-- **Patch per problemi di WordPress per difetti critici che possono abilitare l'esecuzione di codice su alcuni server**  
-  Fonte: The Hacker News, 22 Sep 2026, 18:03:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html>)
-
-- **Il pacchetto npm dannoso si presenta come una sonda Twilio Bug-Bounty e può estrarre le credenziali**  
-  Fonte: The Hacker News, 22 Sep 2026, 17:58:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html>)
-
-- **Microsoft elimina il servizio di phishing del codice dispositivo EvilTokens legato a 12.000 compromissioni della posta in arrivo**  
-  Fonte: The Hacker News, 22 Sep 2026, 17:03:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html>)
-
-- **Il difetto critico del gateway AI di Bifrost consente agli aggressori di eseguire comandi senza credenziali**  
-  Fonte: The Hacker News, 22 Sep 2026, 16:41:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html>)
-
-- **Un ricercatore rilascia il PoC zero-day di BigDiskBuster che blocca gli aggiornamenti di Microsoft Defender**  
-  Fonte: The Hacker News, 22 Sep 2026, 16:14:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html>)
-
-- **Gli agenti IA stanno riscrivendo le regole del movimento laterale**  
-  Fonte: The Hacker News, 22 Sep 2026, 12:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html>)
-
-- **Nuovo difetto CVSS 10.0 VeloCloud Orchestrator sfruttato attivamente nelle configurazioni basate su certificati**  
-  Fonte: The Hacker News, 22 Sep 2026, 12:29:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html>)
-
-- **DORA Anno due: Il tuo SOC può effettivamente vedere l'attacco?**  
-  Fonte: The Hacker News, 22 Sep 2026, 11:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html>)
-
-- **Il nuovo difetto del kernel Linux fornisce agli ospiti KVM ARM64 l'accesso in lettura e scrittura alla memoria dell'host**  
-  Fonte: The Hacker News, 22 Sep 2026, 11:38:40 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html>)
-
-- **Il difetto di SharePoint inizialmente elencato come spoofing da Microsoft consente l'RCE autenticato**  
-  Fonte: The Hacker News, 22 Sep 2026, 11:17:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html>)
-
-- **GPT-6 Astra rompe un vecchio messaggio enigmatico**  
-  Fonte: Schneier on Security, 22 Sep 2026, 11:02:45 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html>)
-
-- **Telecamere Flock con ingegneria inversa**  
-  Fonte: Schneier on Security, 21 Sep 2026, 14:37:45 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-28 12:22:43 UTC -->
+<!-- Ultimo aggiornamento: 2026-09-29 11:48:46 UTC -->
