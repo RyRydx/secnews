@@ -2,6 +2,114 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft abilita il backup delle impostazioni di Windows per impostazione predefinita per le organizzazioni**  
+  Fonte: BleepingComputer, 01 Oct 2026, 11:14:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/>)
+
+- **Le auto connesse sono una piattaforma di sorveglianza**  
+  Fonte: Schneier on Security, 01 Oct 2026, 11:06:14 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html>)
+
+- **L'FBI dice ai membri di ShinyHunters di costituirsi, dopo l'arresto del presunto leader**  
+  Fonte: Graham Cluley, 01 Oct 2026, 10:53:38 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-turn-themselves-in-arrest-leader>)
+
+- **Il sospetto di ShinyHunter è stato arrestato ed è ora indagato su presunti complotti di omicidio**  
+  Fonte: Graham Cluley, 01 Oct 2026, 10:52:03 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/shinyhunters-suspect-arrested-now-investigated-alleged-murder-plots>)
+
+- **OpenAI interrompe la campagna di estrazione del ragionamento collegata a Moonshot AI Associates**  
+  Fonte: The Hacker News, 01 Oct 2026, 10:42:36 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html>)
+
+- **CISA aggiunge il bypass di autenticazione di Cisco Catalyst SD-WAN Manager sfruttato a KEV**  
+  Fonte: The Hacker News, 01 Oct 2026, 10:33:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html>)
+
+- **Gli hacker hanno rubato i dati del personale del Pentagono di oltre 3 milioni di persone**  
+  Fonte: BleepingComputer, 01 Oct 2026, 09:44:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/>)
+
+- **Google distribuisce Gemini 4 Argon ai difensori informatici fidati e prevede una versione senza Guardrail**  
+  Fonte: The Hacker News, 01 Oct 2026, 07:49:36 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html>)
+
+- **Metamask rivela un incidente di sicurezza che interessa la sua infrastruttura**  
+  Fonte: BleepingComputer, 01 Oct 2026, 07:33:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/>)
+
+- **Il PoC di Apple CoreGraphics emerge mentre i controlli PDF di WhatsApp suggeriscono un possibile percorso di consegna**  
+  Fonte: The Hacker News, 01 Oct 2026, 05:54:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html>)
+
+- **Bitget conferma Zero-Day di terze parti dietro il furto di criptovaluta da 387,5 milioni di dollari**  
+  Fonte: The Hacker News, 01 Oct 2026, 05:21:10 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html>)
+
+- **L'incidente di sicurezza MetaMask richiede l'uscita dei validatori Ethereum interessati**  
+  Fonte: The Hacker News, 01 Oct 2026, 05:10:09 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html>)
+
+- **Il payload post-sfruttamento di Citrix NetScaler crea un superutente e mappa la shell Web su URL simili a CSS**  
+  Fonte: The Hacker News, 01 Oct 2026, 04:35:34 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html>)
+
+- **Gli hacker statali russi utilizzano la nuova tecnica RedFlick per diffondere malware**  
+  Fonte: BleepingComputer, 30 Sep 2026, 20:34:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/>)
+
+- **DIVD afferma che gli zero-day di Zammad hanno consentito una violazione della rete guidata dall’intelligenza artificiale**  
+  Fonte: BleepingComputer, 30 Sep 2026, 19:49:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/>)
+
+- **Oltre 543.000 credenziali valide esposte nei repository GitHub pubblici**  
+  Fonte: BleepingComputer, 30 Sep 2026, 18:08:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/>)
+
+- **Gli aggressori sfruttano la falla di Zimbra per implementare web shell e raccogliere segreti di autenticazione**  
+  Fonte: The Hacker News, 30 Sep 2026, 16:46:29 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html>)
+
+- **Gli aggressori abusano di MSP360 per implementare ScreenConnect in attacchi di phishing Dual-RMM**  
+  Fonte: The Hacker News, 30 Sep 2026, 16:32:59 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html>)
+
+- **CISA avverte di un difetto critico RCE di pre-autenticazione in MikroTik RouterOS**  
+  Fonte: BleepingComputer, 30 Sep 2026, 15:49:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/>)
+
+- **Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager**  
+  Fonte: The Hacker News, 30 Sep 2026, 15:24:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html>)
+
+- **Gli aggressori abusano dei GPT personalizzati ChatGPT per fornire RAT tramite esche ClickFix**  
+  Fonte: The Hacker News, 30 Sep 2026, 15:00:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html>)
+
+- **Cisco avverte della nuova SD-WAN zero-day sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 30 Sep 2026, 14:46:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/>)
+
+- **La terza ondata dell'intelligenza artificiale: i colleghi rompono il modello di sicurezza che ha funzionato per gli agenti**  
+  Fonte: BleepingComputer, 30 Sep 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/>)
+
+- **Microsoft bloccherà gli attacchi di tipo script injection Entra ID a partire da ottobre**  
+  Fonte: BleepingComputer, 30 Sep 2026, 13:37:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/>)
+
+- **TeamViewer esorta gli utenti a correggere gravi difetti "il più presto possibile"**  
+  Fonte: BleepingComputer, 30 Sep 2026, 12:25:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/>)
+
+- **Conosci il tuo nemico: tecniche di attacco basate su browser nel 2026**  
+  Fonte: The Hacker News, 30 Sep 2026, 11:58:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html>)
+
+- **Gli agenti di codifica AI hanno esposto 13.000 immagini interne, inclusi i record di fatturazione, su GitHub**  
+  Fonte: The Hacker News, 30 Sep 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html>)
+
 - **Bitget è stato violato tramite zero-day in prodotti di sicurezza di terze parti**  
   Fonte: BleepingComputer, 30 Sep 2026, 11:11:46 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/>)
@@ -9,6 +117,10 @@
 - **Voglio una migliore reportistica sul comportamento dei geni dell'intelligenza artificiale**  
   Fonte: Schneier on Security, 30 Sep 2026, 11:05:35 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html>)
+
+- **Il phishing CSuite focalizzato negli Stati Uniti ruba le sessioni di Microsoft 365 e distribuisce strumenti RMM per l'accesso remoto**  
+  Fonte: The Hacker News, 30 Sep 2026, 10:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html>)
 
 - **La violazione del database del personale del Pentagono espone milioni di dati personali**  
   Fonte: Graham Cluley, 30 Sep 2026, 10:20:37 UTC  
@@ -38,25 +150,9 @@
   Fonte: BleepingComputer, 29 Sep 2026, 20:59:39 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/>)
 
-- **L'FBI dice ai membri di ShinyHunters di costituirsi dopo il recente arresto**  
-  Fonte: BleepingComputer, 29 Sep 2026, 20:09:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/>)
-
-- **Gli hacker sfruttano Citrix NetScaler zero-day per implementare web shell**  
-  Fonte: BleepingComputer, 29 Sep 2026, 18:37:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/>)
-
-- **Ex membri dell'aeronautica americana mandati in prigione per attacchi BEC**  
-  Fonte: BleepingComputer, 29 Sep 2026, 18:09:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/>)
-
 - **Il furto di dati fiscali francesi tramite password rubate del personale non è stato rilevato per sette settimane**  
   Fonte: The Hacker News, 29 Sep 2026, 17:47:01 UTC  
   [Leggi](<https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html>)
-
-- **Rilasciato l'aggiornamento Windows 11 2026, ecco tutto quello che devi sapere**  
-  Fonte: BleepingComputer, 29 Sep 2026, 17:37:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/>)
 
 - **Il nuovo attacco BTR Spectre-v2 fa trapelare la memoria di Linux nonostante le difese esistenti**  
   Fonte: The Hacker News, 29 Sep 2026, 17:20:17 UTC  
@@ -66,21 +162,9 @@
   Fonte: The Hacker News, 29 Sep 2026, 17:20:08 UTC  
   [Leggi](<https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html>)
 
-- **La nuova variante di attacco Spectre v2 fa trapelare l'hash della password root di Linux in pochi minuti**  
-  Fonte: BleepingComputer, 29 Sep 2026, 17:10:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/>)
-
-- **Agente AI automatizzato utilizzato per violare il DIVD no profit di sicurezza informatica**  
-  Fonte: BleepingComputer, 29 Sep 2026, 15:39:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/>)
-
 - **Kiteworks risolve un difetto critico riscontrato durante lo spegnimento precauzionale di nove ore**  
   Fonte: The Hacker News, 29 Sep 2026, 14:13:20 UTC  
   [Leggi](<https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html>)
-
-- **Cattura le minacce prima che si intensifichino con la telemetria delle identità in tempo reale**  
-  Fonte: BleepingComputer, 29 Sep 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/>)
 
 - **101 pacchetti npm dannosi aggiungono gli account WhatsApp degli sviluppatori ai gruppi senza consenso**  
   Fonte: The Hacker News, 29 Sep 2026, 13:45:10 UTC  
@@ -110,25 +194,13 @@
   Fonte: Cloudflare Blog - Security, 29 Sep 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/application-profiles/>)
 
-- **Vietnamese man charged in $16 million 'pig butchering' crypto scam**  
-  Fonte: BleepingComputer, 29 Sep 2026, 11:41:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/>)
-
 - **Utilizzo del collegamento del dispositivo per intercettare WhatsApp e Signal**  
   Fonte: Schneier on Security, 29 Sep 2026, 11:02:19 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html>)
 
-- **Kiteworks corregge un difetto critico e porta online i sistemi dei clienti**  
-  Fonte: BleepingComputer, 29 Sep 2026, 09:04:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/>)
-
-- **Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation**  
+- **La polizia olandese arresta un uomo di 24 anni di Amsterdam nelle indagini di ShinyHunters**  
   Fonte: The Hacker News, 29 Sep 2026, 08:35:10 UTC  
   [Leggi](<https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html>)
-
-- **Apple corregge il difetto zero-day di CoreGraphics sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 29 Sep 2026, 07:33:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/>)
 
 - **Un difetto ufficiale dell'SDK Python di MCP può consentire ai server dannosi di rubare le credenziali OAuth**  
   Fonte: The Hacker News, 29 Sep 2026, 06:08:25 UTC  
@@ -142,15 +214,11 @@
   Fonte: The Hacker News, 29 Sep 2026, 04:45:20 UTC  
   [Leggi](<https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html>)
 
-- **Il giapponese Keio conferma che l'attacco ransomware ha interrotto i sistemi aziendali**  
-  Fonte: BleepingComputer, 28 Sep 2026, 20:56:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/>)
-
 - **Apple corregge il difetto CoreGraphics che potrebbe essere sfruttato in attacchi mirati**  
   Fonte: The Hacker News, 28 Sep 2026, 19:18:01 UTC  
   [Leggi](<https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html>)
 
-- **Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks**  
+- **Gli hacker utilizzano NeedyMantis per mantenere l'accesso a lungo termine nelle reti violate**  
   Fonte: The Hacker News, 28 Sep 2026, 18:35:42 UTC  
   [Leggi](<https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html>)
 
@@ -198,7 +266,7 @@
   Fonte: The Hacker News, 28 Sep 2026, 07:21:49 UTC  
   [Leggi](<https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html>)
 
-- **Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation**  
+- **Avviso: due Citrix NetScaler RCE Zero-Days senza patch sotto sfruttamento attivo**  
   Fonte: The Hacker News, 27 Sep 2026, 07:47:57 UTC  
   [Leggi](<https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html>)
 
@@ -206,7 +274,7 @@
   Fonte: The Hacker News, 26 Sep 2026, 18:22:52 UTC  
   [Leggi](<https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html>)
 
-- **Gli aggressori aggirano i WAF per sfruttare la falla di Oracle PeopleSoft e implementare Web Shell**  
+- **Gli aggressori aggirano i WAF per sfruttare la falla di Oracle PeopleSoft e distribuire web shell**  
   Fonte: The Hacker News, 26 Sep 2026, 11:46:40 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html>)
 
@@ -234,7 +302,7 @@
   Fonte: Schneier on Security, 25 Sep 2026, 21:08:14 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html>)
 
-- **Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware**  
+- **Le azioni GitHub compromesse sono tornate online e hanno ripreso l'esecuzione del malware Mini Shai-Hulud**  
   Fonte: The Hacker News, 25 Sep 2026, 14:44:41 UTC  
   [Leggi](<https://thehackernews.com/2026/09/compromised-github-actions-came-back.html>)
 
@@ -262,7 +330,7 @@
   Fonte: The Hacker News, 25 Sep 2026, 10:14:02 UTC  
   [Leggi](<https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html>)
 
-- **Cloudflare risolve un difetto che consentiva a un container di leggere i dati rimanenti sul disco di un altro cliente**  
+- **Cloudflare risolve un difetto che consentiva a un container di leggere i dati rimanenti del disco di un altro cliente**  
   Fonte: The Hacker News, 25 Sep 2026, 04:49:22 UTC  
   [Leggi](<https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html>)
 
@@ -270,77 +338,13 @@
   Fonte: The Hacker News, 25 Sep 2026, 04:46:34 UTC  
   [Leggi](<https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html>)
 
-- **I difetti di OnePlus senza patch consentono alle app Android installate di ottenere il root senza autorizzazioni**  
-  Fonte: The Hacker News, 24 Sep 2026, 18:10:18 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html>)
-
-- **ThreatsDay: avvelenamento da ricerca AI, perdita di repository dallo strumento di codifica AI, esecuzione di codice con un clic e altre 13 storie**  
-  Fonte: The Hacker News, 24 Sep 2026, 17:52:43 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html>)
-
-- **Il segnaposto di terze parti[.]com referenziato in oltre 1.700 repository ora pubblica contenuti dannosi**  
-  Fonte: The Hacker News, 24 Sep 2026, 15:27:32 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html>)
-
 - **In che modo Cloudflare ha risolto una vulnerabilità relativa all'esposizione dei dati tra tenant nei contenitori**  
   Fonte: Cloudflare Blog - Security, 24 Sep 2026, 15:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/containers-cross-tenant-vulnerability/>)
-
-- **Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer**  
-  Fonte: The Hacker News, 24 Sep 2026, 14:29:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html>)
 
 - **Sviluppatore ucraino di ransomware incarcerato per quasi 13 anni**  
   Fonte: Graham Cluley, 24 Sep 2026, 12:42:13 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ukrainian-ransomware-developer-jailed-for-nearly-13-years>)
 
-- **Lo spyware MDM aziendale prende di mira le aziende di logistica, ruba nuovi SMS e reindirizza le chiamate**  
-  Fonte: The Hacker News, 24 Sep 2026, 12:05:27 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html>)
 
-- **Pacchetti npm dannosi che eludono le difese**  
-  Fonte: Schneier on Security, 24 Sep 2026, 11:07:42 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html>)
-
-- **L'espansione dei segreti è un problema di identità che l'intelligenza artificiale ha reso impossibile ignorare**  
-  Fonte: The Hacker News, 24 Sep 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html>)
-
-- **17.000 URL rivelano come ClickFix trasforma i siti Web affidabili in trappole malware: rapporto di CTM360**  
-  Fonte: The Hacker News, 24 Sep 2026, 09:14:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html>)
-
-- **L'agente OpenAI ha aggirato i controlli del portale Medicare australiano per accedere a file non pubblici**  
-  Fonte: The Hacker News, 24 Sep 2026, 07:07:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html>)
-
-- **La campagna TeamFiltration compromette sette account Microsoft 365 che utilizzano password predefinite**  
-  Fonte: The Hacker News, 24 Sep 2026, 06:32:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html>)
-
-- **Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure**  
-  Fonte: The Hacker News, 24 Sep 2026, 05:36:18 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html>)
-
-- **Podcast di Smashing Security n. 486: negozi con codice Vibe e telecamere Flock hackerabili**  
-  Fonte: Graham Cluley, 23 Sep 2026, 23:15:05 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-486/>)
-
-- **Gli aggressori utilizzano provider di terraform dannosi per distribuire malware Go tramite il registro HashiCorp**  
-  Fonte: The Hacker News, 23 Sep 2026, 18:06:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html>)
-
-- **Un indirizzo e-mail di un problema GitLab trapelato consente a chiunque di inviare codice ed eseguire processi CI come te**  
-  Fonte: The Hacker News, 23 Sep 2026, 16:53:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html>)
-
-- **La catena MikroTrick consente agli aggressori di prendere il controllo dei router MikroTik senza password o chiave SSH**  
-  Fonte: The Hacker News, 23 Sep 2026, 16:06:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html>)
-
-- **Questo malware per Windows è stato creato per consentire a un massimo di quattro modelli di intelligenza artificiale di votare la sua prossima mossa**  
-  Fonte: The Hacker News, 23 Sep 2026, 14:17:58 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-09-30 11:36:06 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-01 12:04:54 UTC -->
