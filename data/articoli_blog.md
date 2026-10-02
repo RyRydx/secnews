@@ -2,11 +2,71 @@
 
 ## Ultimi 7 giorni
 
-- **Microsoft abilita il backup delle impostazioni di Windows per impostazione predefinita per le organizzazioni**  
+- **Come le campagne politiche americane utilizzano l’intelligenza artificiale e quanto spendono per gli strumenti**  
+  Fonte: Schneier on Security, 02 Oct 2026, 11:02:19 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html>)
+
+- **L'account X di Microsoft è stato violato con uno schema di criptovaluta pump-and-dump**  
+  Fonte: BleepingComputer, 02 Oct 2026, 09:29:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/>)
+
+- **La protezione avanzata di Android 17 blocca i servizi di accessibilità sugli strumenti di accessibilità verificati**  
+  Fonte: The Hacker News, 02 Oct 2026, 08:01:30 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html>)
+
+- **Il difetto critico FortiMail Zero-Day sfruttato negli attacchi consente scritture arbitrarie di file non autenticate**  
+  Fonte: The Hacker News, 02 Oct 2026, 05:49:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html>)
+
+- **Fortinet avverte della vulnerabilità critica di FortiMail sfruttata negli attacchi zero-day**  
+  Fonte: BleepingComputer, 01 Oct 2026, 22:42:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/>)
+
+- **Agenti di intelligenza artificiale autonomi hanno tentato di hackerare i siti Web del governo statunitense e canadese**  
+  Fonte: BleepingComputer, 01 Oct 2026, 20:52:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/>)
+
+- **Microsoft afferma che gli autori delle minacce sono in vantaggio nella corsa all’intelligenza artificiale**  
+  Fonte: BleepingComputer, 01 Oct 2026, 19:32:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/>)
+
+- **La polizia arresta un sedicenne sospettato di aver eseguito KillSec e sequestrato sito e server di fuga di ransomware**  
+  Fonte: The Hacker News, 01 Oct 2026, 16:55:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html>)
+
+- **ThreatsDay: catena zero-day basata sull'intelligenza artificiale, 543.000 segreti live, RCE di ispezione dei modelli e altre 13 storie**  
+  Fonte: The Hacker News, 01 Oct 2026, 16:45:38 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html>)
+
+- **La backdoor di WordPress si ricostruisce dopo la pulizia utilizzando file, database e memoria condivisa**  
+  Fonte: The Hacker News, 01 Oct 2026, 14:37:35 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html>)
+
+- **La polizia smantella la banda di ransomware KillSec presumibilmente guidata da un sedicenne**  
+  Fonte: BleepingComputer, 01 Oct 2026, 14:25:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/>)
+
+- **Il primo buco nell’architettura Zero Trust**  
+  Fonte: BleepingComputer, 01 Oct 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/>)
+
+- **Kiteworks corregge la vulnerabilità del codice di gravità massima**  
+  Fonte: BleepingComputer, 01 Oct 2026, 13:51:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/>)
+
+- **Un anno dopo: l’intelligenza artificiale sovrana e la lotta per la scelta**  
+  Fonte: Cloudflare Blog - Security, 01 Oct 2026, 13:04:19 UTC  
+  [Leggi](<https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/>)
+
+- **Come le società di servizi finanziari possono modernizzare la catena di fornitura del software**  
+  Fonte: The Hacker News, 01 Oct 2026, 11:45:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/how-financial-services-companies-can.html>)
+
+- **Microsoft enables Windows settings backup by default for orgs**  
   Fonte: BleepingComputer, 01 Oct 2026, 11:14:28 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/>)
 
-- **Le auto connesse sono una piattaforma di sorveglianza**  
+- **Connected Cars Are a Surveillance Platform**  
   Fonte: Schneier on Security, 01 Oct 2026, 11:06:14 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html>)
 
@@ -66,7 +126,7 @@
   Fonte: BleepingComputer, 30 Sep 2026, 18:08:34 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/>)
 
-- **Gli aggressori sfruttano la falla di Zimbra per implementare web shell e raccogliere segreti di autenticazione**  
+- **Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets**  
   Fonte: The Hacker News, 30 Sep 2026, 16:46:29 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html>)
 
@@ -78,7 +138,7 @@
   Fonte: BleepingComputer, 30 Sep 2026, 15:49:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/>)
 
-- **Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager**  
+- **Cisco avverte degli aggressori che sfruttano il bypass critico dell'autenticazione in SD-WAN Manager**  
   Fonte: The Hacker News, 30 Sep 2026, 15:24:54 UTC  
   [Leggi](<https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html>)
 
@@ -90,18 +150,6 @@
   Fonte: BleepingComputer, 30 Sep 2026, 14:46:40 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/>)
 
-- **La terza ondata dell'intelligenza artificiale: i colleghi rompono il modello di sicurezza che ha funzionato per gli agenti**  
-  Fonte: BleepingComputer, 30 Sep 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/>)
-
-- **Microsoft bloccherà gli attacchi di tipo script injection Entra ID a partire da ottobre**  
-  Fonte: BleepingComputer, 30 Sep 2026, 13:37:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/>)
-
-- **TeamViewer esorta gli utenti a correggere gravi difetti "il più presto possibile"**  
-  Fonte: BleepingComputer, 30 Sep 2026, 12:25:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/>)
-
 - **Conosci il tuo nemico: tecniche di attacco basate su browser nel 2026**  
   Fonte: The Hacker News, 30 Sep 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html>)
@@ -109,10 +157,6 @@
 - **Gli agenti di codifica AI hanno esposto 13.000 immagini interne, inclusi i record di fatturazione, su GitHub**  
   Fonte: The Hacker News, 30 Sep 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html>)
-
-- **Bitget è stato violato tramite zero-day in prodotti di sicurezza di terze parti**  
-  Fonte: BleepingComputer, 30 Sep 2026, 11:11:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/>)
 
 - **Voglio una migliore reportistica sul comportamento dei geni dell'intelligenza artificiale**  
   Fonte: Schneier on Security, 30 Sep 2026, 11:05:35 UTC  
@@ -137,18 +181,6 @@
 - **Citrix NetScaler CVE-2026-88772 I dettagli dell'exploit mostrano il percorso di pre-autenticazione per l'esecuzione dello shellcode**  
   Fonte: The Hacker News, 30 Sep 2026, 05:30:30 UTC  
   [Leggi](<https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html>)
-
-- **Microsoft sta implementando il supporto dei contenitori Linux su WSL**  
-  Fonte: BleepingComputer, 30 Sep 2026, 00:40:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/>)
-
-- **Signal Ads supporta il backup locale crittografato su iOS e app desktop**  
-  Fonte: BleepingComputer, 29 Sep 2026, 21:30:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/>)
-
-- **I ChatGPT personalizzati spingono gli attacchi ClickFix per distribuire malware RAT**  
-  Fonte: BleepingComputer, 29 Sep 2026, 20:59:39 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/>)
 
 - **Il furto di dati fiscali francesi tramite password rubate del personale non è stato rilevato per sette settimane**  
   Fonte: The Hacker News, 29 Sep 2026, 17:47:01 UTC  
@@ -294,7 +326,7 @@
   Fonte: The Hacker News, 26 Sep 2026, 07:48:33 UTC  
   [Leggi](<https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html>)
 
-- **Un soldato americano viene condannato a 70 mesi di prigione per estorsioni AT&T e Verizon**  
+- **U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions**  
   Fonte: Krebs on Security, 25 Sep 2026, 21:44:40 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/>)
 
@@ -306,45 +338,9 @@
   Fonte: The Hacker News, 25 Sep 2026, 14:44:41 UTC  
   [Leggi](<https://thehackernews.com/2026/09/compromised-github-actions-came-back.html>)
 
-- **Il malware PamStealer per macOS aggiunge la decrittografia del payload Live C2 e la persistenza multilivello**  
-  Fonte: The Hacker News, 25 Sep 2026, 13:18:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html>)
-
 - **Gli agenti ora possono configurare la sicurezza del tuo sito web con Turnstile Spin**  
   Fonte: Cloudflare Blog - Security, 25 Sep 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/turnstile-spin/>)
 
-- **Il SOC non ha bisogno di ricominciare da capo con ogni avviso**  
-  Fonte: The Hacker News, 25 Sep 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html>)
 
-- **Sul rapporto sull’uso improprio dell’intelligenza artificiale di Anthropic**  
-  Fonte: Schneier on Security, 25 Sep 2026, 11:07:22 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html>)
-
-- **Bitget afferma che presunti hacker nordcoreani hanno rubato 351,6 milioni di dollari dopo aver compromesso il backend**  
-  Fonte: The Hacker News, 25 Sep 2026, 10:35:55 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html>)
-
-- **Difetto di SQL Injection pre-autenticazione di Roundcube sfruttato attivamente in the Wild**  
-  Fonte: The Hacker News, 25 Sep 2026, 10:14:02 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html>)
-
-- **Cloudflare risolve un difetto che consentiva a un container di leggere i dati rimanenti del disco di un altro cliente**  
-  Fonte: The Hacker News, 25 Sep 2026, 04:49:22 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html>)
-
-- **Difetti WSO2 e Adobe Commerce sfruttati negli attacchi, aggiunti a CISA KEV**  
-  Fonte: The Hacker News, 25 Sep 2026, 04:46:34 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html>)
-
-- **In che modo Cloudflare ha risolto una vulnerabilità relativa all'esposizione dei dati tra tenant nei contenitori**  
-  Fonte: Cloudflare Blog - Security, 24 Sep 2026, 15:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/containers-cross-tenant-vulnerability/>)
-
-- **Sviluppatore ucraino di ransomware incarcerato per quasi 13 anni**  
-  Fonte: Graham Cluley, 24 Sep 2026, 12:42:13 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/ukrainian-ransomware-developer-jailed-for-nearly-13-years>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-01 12:04:54 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-02 11:35:37 UTC -->
