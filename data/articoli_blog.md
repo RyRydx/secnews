@@ -2,6 +2,70 @@
 
 ## Ultimi 7 giorni
 
+- **N0n ransomware: cosa devi sapere**  
+  Fonte: Graham Cluley, 03 Oct 2026, 08:29:54 UTC  
+  [Leggi](<https://www.fortra.com/blog/n0n-ransomware-what-you-need-know>)
+
+- **Blog sui calamari del venerdì: l'UE sta cercando di combattere la pesca non regolamentata dei calamari**  
+  Fonte: Schneier on Security, 02 Oct 2026, 21:02:18 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html>)
+
+- **La violazione di Frontline Education espone i dati dei dipendenti del distretto scolastico**  
+  Fonte: BleepingComputer, 02 Oct 2026, 19:01:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/>)
+
+- **Il ransomware Warlock viola SharePoint in Water, attacchi agli operatori di telecomunicazioni**  
+  Fonte: BleepingComputer, 02 Oct 2026, 18:33:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/>)
+
+- **GitLab risolve il difetto critico del gateway AI 9.9 che consente l'esecuzione di comandi su server self-hosted**  
+  Fonte: The Hacker News, 02 Oct 2026, 17:33:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html>)
+
+- **Antino Backdoor utilizza Outlook e OneDrive per C2 nella campagna di spionaggio China-Nexus**  
+  Fonte: The Hacker News, 02 Oct 2026, 17:33:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html>)
+
+- **I difetti di Dell CSM consentono l'accesso amministrativo e il root non autenticati sui nodi Kubernetes**  
+  Fonte: The Hacker News, 02 Oct 2026, 17:02:12 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html>)
+
+- **GitLab avverte di una vulnerabilità RCE critica nel servizio AI Gateway**  
+  Fonte: BleepingComputer, 02 Oct 2026, 16:20:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/>)
+
+- **Gli Stati Uniti sanzionano i membri della banda Tren de Aragua nella repressione degli attacchi agli sportelli bancomat**  
+  Fonte: BleepingComputer, 02 Oct 2026, 15:20:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/>)
+
+- **Telecamere Stormo non identificate in Florida**  
+  Fonte: Schneier on Security, 02 Oct 2026, 14:52:46 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html>)
+
+- **Il punto cieco dell'EDR: 3 modi in cui gli attacchi ai browser eludono la telemetria degli endpoint**  
+  Fonte: BleepingComputer, 02 Oct 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/>)
+
+- **Segui il thread: una nuova dashboard per indagare sugli abusi dell'account**  
+  Fonte: Cloudflare Blog - Security, 02 Oct 2026, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/account-abuse-protection-dashboard/>)
+
+- **Tunnel rapidi protetti: semplice autenticazione senza account per il tuo prossimo progetto di sviluppo**  
+  Fonte: Cloudflare Blog - Security, 02 Oct 2026, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/protected-quick-tunnels/>)
+
+- **Dell chiede agli amministratori di correggere i difetti CSM di massima gravità il prima possibile**  
+  Fonte: BleepingComputer, 02 Oct 2026, 12:37:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/>)
+
+- **OpenAI si separa da tre ricercatori sulla sicurezza per la cattiva gestione di informazioni sensibili**  
+  Fonte: The Hacker News, 02 Oct 2026, 12:23:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html>)
+
+- **Perché i CISO faticano a rispondere alle tre domande più difficili del Consiglio e come correggere il rapporto**  
+  Fonte: The Hacker News, 02 Oct 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html>)
+
 - **Come le campagne politiche americane utilizzano l’intelligenza artificiale e quanto spendono per gli strumenti**  
   Fonte: Schneier on Security, 02 Oct 2026, 11:02:19 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html>)
@@ -62,11 +126,11 @@
   Fonte: The Hacker News, 01 Oct 2026, 11:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/how-financial-services-companies-can.html>)
 
-- **Microsoft enables Windows settings backup by default for orgs**  
+- **Microsoft abilita il backup delle impostazioni di Windows per impostazione predefinita per le organizzazioni**  
   Fonte: BleepingComputer, 01 Oct 2026, 11:14:28 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/>)
 
-- **Connected Cars Are a Surveillance Platform**  
+- **Le auto connesse sono una piattaforma di sorveglianza**  
   Fonte: Schneier on Security, 01 Oct 2026, 11:06:14 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html>)
 
@@ -94,10 +158,6 @@
   Fonte: The Hacker News, 01 Oct 2026, 07:49:36 UTC  
   [Leggi](<https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html>)
 
-- **Metamask rivela un incidente di sicurezza che interessa la sua infrastruttura**  
-  Fonte: BleepingComputer, 01 Oct 2026, 07:33:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/>)
-
 - **Il PoC di Apple CoreGraphics emerge mentre i controlli PDF di WhatsApp suggeriscono un possibile percorso di consegna**  
   Fonte: The Hacker News, 01 Oct 2026, 05:54:41 UTC  
   [Leggi](<https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html>)
@@ -114,29 +174,13 @@
   Fonte: The Hacker News, 01 Oct 2026, 04:35:34 UTC  
   [Leggi](<https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html>)
 
-- **Gli hacker statali russi utilizzano la nuova tecnica RedFlick per diffondere malware**  
-  Fonte: BleepingComputer, 30 Sep 2026, 20:34:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/>)
-
-- **DIVD afferma che gli zero-day di Zammad hanno consentito una violazione della rete guidata dall’intelligenza artificiale**  
-  Fonte: BleepingComputer, 30 Sep 2026, 19:49:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/>)
-
-- **Oltre 543.000 credenziali valide esposte nei repository GitHub pubblici**  
-  Fonte: BleepingComputer, 30 Sep 2026, 18:08:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/>)
-
-- **Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets**  
+- **Gli aggressori sfruttano la falla di Zimbra per implementare web shell e raccogliere segreti di autenticazione**  
   Fonte: The Hacker News, 30 Sep 2026, 16:46:29 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html>)
 
 - **Gli aggressori abusano di MSP360 per implementare ScreenConnect in attacchi di phishing Dual-RMM**  
   Fonte: The Hacker News, 30 Sep 2026, 16:32:59 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html>)
-
-- **CISA avverte di un difetto critico RCE di pre-autenticazione in MikroTik RouterOS**  
-  Fonte: BleepingComputer, 30 Sep 2026, 15:49:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/>)
 
 - **Cisco avverte degli aggressori che sfruttano il bypass critico dell'autenticazione in SD-WAN Manager**  
   Fonte: The Hacker News, 30 Sep 2026, 15:24:54 UTC  
@@ -145,10 +189,6 @@
 - **Gli aggressori abusano dei GPT personalizzati ChatGPT per fornire RAT tramite esche ClickFix**  
   Fonte: The Hacker News, 30 Sep 2026, 15:00:15 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html>)
-
-- **Cisco avverte della nuova SD-WAN zero-day sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 30 Sep 2026, 14:46:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/>)
 
 - **Conosci il tuo nemico: tecniche di attacco basate su browser nel 2026**  
   Fonte: The Hacker News, 30 Sep 2026, 11:58:00 UTC  
@@ -310,37 +350,5 @@
   Fonte: The Hacker News, 26 Sep 2026, 11:46:40 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html>)
 
-- **Zero Trust per gli agenti IA inizia con la correzione di Zero Visibility**  
-  Fonte: The Hacker News, 26 Sep 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html>)
 
-- **La falla di Elementor CSRF consente agli aggressori di prendere il controllo dei siti dopo che l'amministratore ha fatto clic sul collegamento creato**  
-  Fonte: The Hacker News, 26 Sep 2026, 09:55:22 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html>)
-
-- **Difetti di SharePoint RCE e MikroTik RouterOS sfruttati attivamente in natura**  
-  Fonte: The Hacker News, 26 Sep 2026, 08:49:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html>)
-
-- **Kiteworks esorta i clienti a spegnere i sistemi per 9 ore a causa di possibili attacchi informatici**  
-  Fonte: The Hacker News, 26 Sep 2026, 07:48:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html>)
-
-- **U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions**  
-  Fonte: Krebs on Security, 25 Sep 2026, 21:44:40 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/>)
-
-- **Blog sui calamari del venerdì: dissezione partecipativa dei calamari a ottobre in Tennessee**  
-  Fonte: Schneier on Security, 25 Sep 2026, 21:08:14 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html>)
-
-- **Le azioni GitHub compromesse sono tornate online e hanno ripreso l'esecuzione del malware Mini Shai-Hulud**  
-  Fonte: The Hacker News, 25 Sep 2026, 14:44:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/compromised-github-actions-came-back.html>)
-
-- **Gli agenti ora possono configurare la sicurezza del tuo sito web con Turnstile Spin**  
-  Fonte: Cloudflare Blog - Security, 25 Sep 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/turnstile-spin/>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-02 11:35:37 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-03 10:49:29 UTC -->
