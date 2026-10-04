@@ -2,6 +2,42 @@
 
 ## Ultimi 7 giorni
 
+- **Anthropic chiede agli utenti di Claude di condividere i dati vocali per l'addestramento del modello AI**  
+  Fonte: BleepingComputer, 04 Oct 2026, 10:53:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/>)
+
+- **ShinyHunters sospetta che Rey sia stato detenuto in Giordania, aiutando l'FBI a identificare i membri del gruppo**  
+  Fonte: The Hacker News, 04 Oct 2026, 07:22:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html>)
+
+- **Il TA419 allineato alla Cina prende di mira gli esperti di politiche sull'intelligenza artificiale degli Stati Uniti con il phishing Microsoft AitM**  
+  Fonte: The Hacker News, 04 Oct 2026, 07:20:32 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html>)
+
+- **Google Gemini potrebbe presto avere pieno accesso ai file, alle app e al Web del tuo Mac**  
+  Fonte: BleepingComputer, 03 Oct 2026, 23:12:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/>)
+
+- **Secondo quanto riferito, l'hacker di ShinyHunters è stato arrestato in Giordania per aver aiutato l'FBI**  
+  Fonte: BleepingComputer, 03 Oct 2026, 19:09:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/>)
+
+- **L’MI5 afferma che la ricerca cinese finanziata dall’MSS coinvolge oltre 100 accademici collegati al Regno Unito**  
+  Fonte: The Hacker News, 03 Oct 2026, 14:38:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html>)
+
+- **Warlock sfrutta le falle di SharePoint per disattivare gli strumenti di sicurezza e distribuire il ransomware**  
+  Fonte: The Hacker News, 03 Oct 2026, 14:36:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html>)
+
+- **La violazione del DTU dell'università danese espone i dati di un massimo di 200.000 persone**  
+  Fonte: BleepingComputer, 03 Oct 2026, 14:35:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/>)
+
+- **Lo stato della sicurezza informatica nel 2026: segmenti chiave, approfondimenti e innovazioni**  
+  Fonte: The Hacker News, 03 Oct 2026, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html>)
+
 - **N0n ransomware: cosa devi sapere**  
   Fonte: Graham Cluley, 03 Oct 2026, 08:29:54 UTC  
   [Leggi](<https://www.fortra.com/blog/n0n-ransomware-what-you-need-know>)
@@ -42,7 +78,7 @@
   Fonte: Schneier on Security, 02 Oct 2026, 14:52:46 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html>)
 
-- **Il punto cieco dell'EDR: 3 modi in cui gli attacchi ai browser eludono la telemetria degli endpoint**  
+- **The EDR blind spot: 3 ways browser attacks evade endpoint telemetry**  
   Fonte: BleepingComputer, 02 Oct 2026, 14:00:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/>)
 
@@ -66,7 +102,7 @@
   Fonte: The Hacker News, 02 Oct 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html>)
 
-- **Come le campagne politiche americane utilizzano l’intelligenza artificiale e quanto spendono per gli strumenti**  
+- **How American Political Campaigns Are Using AI—and What They’re Spending on the Tools**  
   Fonte: Schneier on Security, 02 Oct 2026, 11:02:19 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html>)
 
@@ -110,25 +146,13 @@
   Fonte: BleepingComputer, 01 Oct 2026, 14:25:14 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/>)
 
-- **Il primo buco nell’architettura Zero Trust**  
-  Fonte: BleepingComputer, 01 Oct 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/>)
-
-- **Kiteworks corregge la vulnerabilità del codice di gravità massima**  
-  Fonte: BleepingComputer, 01 Oct 2026, 13:51:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/>)
-
 - **Un anno dopo: l’intelligenza artificiale sovrana e la lotta per la scelta**  
   Fonte: Cloudflare Blog - Security, 01 Oct 2026, 13:04:19 UTC  
   [Leggi](<https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/>)
 
-- **Come le società di servizi finanziari possono modernizzare la catena di fornitura del software**  
+- **How Financial Services Companies Can Modernize Their Software Supply Chain**  
   Fonte: The Hacker News, 01 Oct 2026, 11:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/how-financial-services-companies-can.html>)
-
-- **Microsoft abilita il backup delle impostazioni di Windows per impostazione predefinita per le organizzazioni**  
-  Fonte: BleepingComputer, 01 Oct 2026, 11:14:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/>)
 
 - **Le auto connesse sono una piattaforma di sorveglianza**  
   Fonte: Schneier on Security, 01 Oct 2026, 11:06:14 UTC  
@@ -150,15 +174,11 @@
   Fonte: The Hacker News, 01 Oct 2026, 10:33:16 UTC  
   [Leggi](<https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html>)
 
-- **Gli hacker hanno rubato i dati del personale del Pentagono di oltre 3 milioni di persone**  
-  Fonte: BleepingComputer, 01 Oct 2026, 09:44:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/>)
-
 - **Google distribuisce Gemini 4 Argon ai difensori informatici fidati e prevede una versione senza Guardrail**  
   Fonte: The Hacker News, 01 Oct 2026, 07:49:36 UTC  
   [Leggi](<https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html>)
 
-- **Il PoC di Apple CoreGraphics emerge mentre i controlli PDF di WhatsApp suggeriscono un possibile percorso di consegna**  
+- **Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path**  
   Fonte: The Hacker News, 01 Oct 2026, 05:54:41 UTC  
   [Leggi](<https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html>)
 
@@ -166,7 +186,7 @@
   Fonte: The Hacker News, 01 Oct 2026, 05:21:10 UTC  
   [Leggi](<https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html>)
 
-- **L'incidente di sicurezza MetaMask richiede l'uscita dei validatori Ethereum interessati**  
+- **MetaMask Security Incident Prompts Exit of Affected Ethereum Validators**  
   Fonte: The Hacker News, 01 Oct 2026, 05:10:09 UTC  
   [Leggi](<https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html>)
 
@@ -230,7 +250,7 @@
   Fonte: The Hacker News, 29 Sep 2026, 17:20:17 UTC  
   [Leggi](<https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html>)
 
-- **Star Blizzard in Russia prende di mira oltre 100 organizzazioni con inviti a eventi falsi da fornire backdoor**  
+- **Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor**  
   Fonte: The Hacker News, 29 Sep 2026, 17:20:08 UTC  
   [Leggi](<https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html>)
 
@@ -242,7 +262,7 @@
   Fonte: The Hacker News, 29 Sep 2026, 13:45:10 UTC  
   [Leggi](<https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html>)
 
-- **Usare l’intelligenza artificiale per tracciare una rotta per la nostra migrazione post-quantistica**  
+- **Using AI to chart a course for our post-quantum migration**  
   Fonte: Cloudflare Blog - Security, 29 Sep 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/ai-driven-cryptography-discovery/>)
 
@@ -266,7 +286,7 @@
   Fonte: Cloudflare Blog - Security, 29 Sep 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/application-profiles/>)
 
-- **Utilizzo del collegamento del dispositivo per intercettare WhatsApp e Signal**  
+- **Using Device Linking to Eavesdrop on WhatsApp and Signal**  
   Fonte: Schneier on Security, 29 Sep 2026, 11:02:19 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html>)
 
@@ -314,7 +334,7 @@
   Fonte: The Hacker News, 28 Sep 2026, 14:00:53 UTC  
   [Leggi](<https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html>)
 
-- **Webinar: come gestire gli agenti IA, ridurre gli accessi eccessivi e controllare l'IA ombra**  
+- **Webinar: come governare gli agenti IA, ridurre gli accessi eccessivi e controllare l'IA ombra**  
   Fonte: The Hacker News, 28 Sep 2026, 11:58:00 UTC  
   [Leggi](<https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html>)
 
@@ -326,29 +346,9 @@
   Fonte: Schneier on Security, 28 Sep 2026, 11:02:58 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html>)
 
-- **Gli aggressori collegati a JADEPUFFER hanno utilizzato entità servizio compromesse per eliminare risorse di Azure**  
-  Fonte: The Hacker News, 28 Sep 2026, 09:08:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html>)
-
 - **Aggiornamento settimanale 523: in diretta da un fiordo norvegese**  
   Fonte: Troy Hunt, 28 Sep 2026, 07:24:49 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-523/>)
 
-- **CISA afferma che gli aggressori stanno sfruttando due difetti critici di Citrix NetScaler a livello globale**  
-  Fonte: The Hacker News, 28 Sep 2026, 07:21:49 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html>)
 
-- **Avviso: due Citrix NetScaler RCE Zero-Days senza patch sotto sfruttamento attivo**  
-  Fonte: The Hacker News, 27 Sep 2026, 07:47:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html>)
-
-- **Lunex Stealer abusa del driver AMD per disabilitare il monitoraggio della sicurezza e rubare le credenziali del browser**  
-  Fonte: The Hacker News, 26 Sep 2026, 18:22:52 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html>)
-
-- **Gli aggressori aggirano i WAF per sfruttare la falla di Oracle PeopleSoft e distribuire web shell**  
-  Fonte: The Hacker News, 26 Sep 2026, 11:46:40 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-03 10:49:29 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-04 11:32:52 UTC -->
