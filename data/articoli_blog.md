@@ -2,6 +2,42 @@
 
 ## Ultimi 7 giorni
 
+- **Un altro cifrario storico cade nell’intelligenza artificiale**  
+  Fonte: Schneier on Security, 05 Oct 2026, 11:04:47 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html>)
+
+- **Apple prevede controlli più severi sull’accesso completo al disco di macOS sull’accesso ai dati dell’agente AI**  
+  Fonte: The Hacker News, 05 Oct 2026, 10:38:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html>)
+
+- **OpenAI mostrerà annunci visivi in ​​ChatGPT mentre generi immagini**  
+  Fonte: BleepingComputer, 05 Oct 2026, 10:28:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/>)
+
+- **Microsoft: l'aggiornamento KB5124010 di Windows provoca l'arresto anomalo di alcuni giochi e app**  
+  Fonte: BleepingComputer, 05 Oct 2026, 09:37:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/>)
+
+- **Google interrompe il programma di bug bounty open source a causa dell'ondata di spam AI**  
+  Fonte: BleepingComputer, 05 Oct 2026, 08:27:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/>)
+
+- **Gli aggressori prendono di mira la falla di Rejetto HFS che consente la falsificazione della sessione di amministrazione e l'RCE**  
+  Fonte: The Hacker News, 05 Oct 2026, 08:09:23 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html>)
+
+- **Il nuovo NetScaler Zero-Day sfruttato negli attacchi mirati può mettere offline le distribuzioni SAML**  
+  Fonte: The Hacker News, 05 Oct 2026, 06:40:19 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html>)
+
+- **Citrix patch NetScaler SAML zero-day sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 04 Oct 2026, 21:58:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/>)
+
+- **Aggiornamento settimanale 524: in diretta da Copenaghen**  
+  Fonte: Troy Hunt, 04 Oct 2026, 11:52:23 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-524/>)
+
 - **Anthropic chiede agli utenti di Claude di condividere i dati vocali per l'addestramento del modello AI**  
   Fonte: BleepingComputer, 04 Oct 2026, 10:53:21 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/>)
@@ -78,7 +114,7 @@
   Fonte: Schneier on Security, 02 Oct 2026, 14:52:46 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html>)
 
-- **The EDR blind spot: 3 ways browser attacks evade endpoint telemetry**  
+- **Il punto cieco dell'EDR: 3 modi in cui gli attacchi ai browser eludono la telemetria degli endpoint**  
   Fonte: BleepingComputer, 02 Oct 2026, 14:00:10 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/>)
 
@@ -102,7 +138,7 @@
   Fonte: The Hacker News, 02 Oct 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html>)
 
-- **How American Political Campaigns Are Using AI—and What They’re Spending on the Tools**  
+- **Come le campagne politiche americane utilizzano l’intelligenza artificiale e quanto spendono per gli strumenti**  
   Fonte: Schneier on Security, 02 Oct 2026, 11:02:19 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html>)
 
@@ -118,18 +154,6 @@
   Fonte: The Hacker News, 02 Oct 2026, 05:49:50 UTC  
   [Leggi](<https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html>)
 
-- **Fortinet avverte della vulnerabilità critica di FortiMail sfruttata negli attacchi zero-day**  
-  Fonte: BleepingComputer, 01 Oct 2026, 22:42:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/>)
-
-- **Agenti di intelligenza artificiale autonomi hanno tentato di hackerare i siti Web del governo statunitense e canadese**  
-  Fonte: BleepingComputer, 01 Oct 2026, 20:52:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/>)
-
-- **Microsoft afferma che gli autori delle minacce sono in vantaggio nella corsa all’intelligenza artificiale**  
-  Fonte: BleepingComputer, 01 Oct 2026, 19:32:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/>)
-
 - **La polizia arresta un sedicenne sospettato di aver eseguito KillSec e sequestrato sito e server di fuga di ransomware**  
   Fonte: The Hacker News, 01 Oct 2026, 16:55:57 UTC  
   [Leggi](<https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html>)
@@ -142,15 +166,11 @@
   Fonte: The Hacker News, 01 Oct 2026, 14:37:35 UTC  
   [Leggi](<https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html>)
 
-- **La polizia smantella la banda di ransomware KillSec presumibilmente guidata da un sedicenne**  
-  Fonte: BleepingComputer, 01 Oct 2026, 14:25:14 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/>)
-
 - **Un anno dopo: l’intelligenza artificiale sovrana e la lotta per la scelta**  
   Fonte: Cloudflare Blog - Security, 01 Oct 2026, 13:04:19 UTC  
   [Leggi](<https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/>)
 
-- **How Financial Services Companies Can Modernize Their Software Supply Chain**  
+- **In che modo le società di servizi finanziari possono modernizzare la catena di fornitura del software**  
   Fonte: The Hacker News, 01 Oct 2026, 11:45:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/how-financial-services-companies-can.html>)
 
@@ -178,7 +198,7 @@
   Fonte: The Hacker News, 01 Oct 2026, 07:49:36 UTC  
   [Leggi](<https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html>)
 
-- **Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path**  
+- **Il PoC di Apple CoreGraphics emerge mentre i controlli PDF di WhatsApp suggeriscono un possibile percorso di consegna**  
   Fonte: The Hacker News, 01 Oct 2026, 05:54:41 UTC  
   [Leggi](<https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html>)
 
@@ -186,7 +206,7 @@
   Fonte: The Hacker News, 01 Oct 2026, 05:21:10 UTC  
   [Leggi](<https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html>)
 
-- **MetaMask Security Incident Prompts Exit of Affected Ethereum Validators**  
+- **L'incidente di sicurezza MetaMask richiede l'uscita dei validatori Ethereum interessati**  
   Fonte: The Hacker News, 01 Oct 2026, 05:10:09 UTC  
   [Leggi](<https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html>)
 
@@ -250,7 +270,7 @@
   Fonte: The Hacker News, 29 Sep 2026, 17:20:17 UTC  
   [Leggi](<https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html>)
 
-- **Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor**  
+- **Star Blizzard in Russia prende di mira oltre 100 organizzazioni con inviti a eventi falsi da fornire backdoor**  
   Fonte: The Hacker News, 29 Sep 2026, 17:20:08 UTC  
   [Leggi](<https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html>)
 
@@ -262,7 +282,7 @@
   Fonte: The Hacker News, 29 Sep 2026, 13:45:10 UTC  
   [Leggi](<https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html>)
 
-- **Using AI to chart a course for our post-quantum migration**  
+- **Usare l’intelligenza artificiale per tracciare una rotta per la nostra migrazione post-quantistica**  
   Fonte: Cloudflare Blog - Security, 29 Sep 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/ai-driven-cryptography-discovery/>)
 
@@ -286,7 +306,7 @@
   Fonte: Cloudflare Blog - Security, 29 Sep 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/application-profiles/>)
 
-- **Using Device Linking to Eavesdrop on WhatsApp and Signal**  
+- **Utilizzo del collegamento del dispositivo per intercettare WhatsApp e Signal**  
   Fonte: Schneier on Security, 29 Sep 2026, 11:02:19 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html>)
 
@@ -330,25 +350,5 @@
   Fonte: Krebs on Security, 28 Sep 2026, 15:08:57 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/>)
 
-- **⚡ Riepilogo settimanale: hackeraggio crittografico da 387 milioni di dollari, exploit Citrix, agenti AI fuori copione e altre minacce**  
-  Fonte: The Hacker News, 28 Sep 2026, 14:00:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html>)
 
-- **Webinar: come governare gli agenti IA, ridurre gli accessi eccessivi e controllare l'IA ombra**  
-  Fonte: The Hacker News, 28 Sep 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html>)
-
-- **La botnet Carbonato compromette gli host Docker per distribuire l'agente AI Hermes controllato da Telegram**  
-  Fonte: The Hacker News, 28 Sep 2026, 11:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html>)
-
-- **Nuovo attacco contro la RSA**  
-  Fonte: Schneier on Security, 28 Sep 2026, 11:02:58 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html>)
-
-- **Aggiornamento settimanale 523: in diretta da un fiordo norvegese**  
-  Fonte: Troy Hunt, 28 Sep 2026, 07:24:49 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-523/>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-04 11:32:52 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-05 13:02:13 UTC -->
