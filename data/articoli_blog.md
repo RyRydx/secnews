@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **La sesta voce dei dati CISO mostra che il rischio informatico si è spostato all'interno del flusso di lavoro**  
+  Fonte: The Hacker News, 07 Oct 2026, 11:57:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html>)
+
+- **L'FBI avverte che FortiBleed rimane attivo dopo aver accumulato 86.644 credenziali di dispositivi Fortinet**  
+  Fonte: The Hacker News, 07 Oct 2026, 11:56:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html>)
+
+- **Il difetto del data center Atlassian attira tentativi di sfruttamento entro due ore dai dettagli pubblici**  
+  Fonte: The Hacker News, 07 Oct 2026, 11:49:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html>)
+
+- **Cos'è il Pentesting Agentico?Cosa dimostra e dove si ferma.**  
+  Fonte: The Hacker News, 07 Oct 2026, 11:42:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html>)
+
+- **SonicWall avvisa della massima gravità del difetto SSRF nei gateway SMA1000**  
+  Fonte: BleepingComputer, 07 Oct 2026, 11:37:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/>)
+
+- **Il sistema di fotografia verificata di Apple**  
+  Fonte: Schneier on Security, 07 Oct 2026, 11:07:36 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html>)
+
+- **Musicista mandato in prigione per frode in streaming da 10 milioni di dollari utilizzando robot IA**  
+  Fonte: BleepingComputer, 07 Oct 2026, 10:35:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/>)
+
+- **Advantest conferma le informazioni personali rubate durante un attacco ransomware**  
+  Fonte: BleepingComputer, 07 Oct 2026, 10:27:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/>)
+
+- **Anthropic amplia l'accesso a Claude per i cyber team selezionati mentre Glasswing rileva 129.000 difetti**  
+  Fonte: The Hacker News, 07 Oct 2026, 08:07:38 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html>)
+
+- **Oltre 100 siti Web compromessi utilizzano falsi controlli Cloudflare per fornire LunexStealer**  
+  Fonte: The Hacker News, 07 Oct 2026, 06:57:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html>)
+
+- **Difetto del plugin Ninja Forms sfruttato per hackerare siti WordPress**  
+  Fonte: BleepingComputer, 06 Oct 2026, 21:00:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/>)
+
+- **Gli hacker sfruttano 32 zero-day nel primo giorno di Pwn2Own Ireland**  
+  Fonte: BleepingComputer, 06 Oct 2026, 19:21:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/>)
+
+- **I portali pubblicitari ChatGPT, Gemini e Claude falsi acquisiscono credenziali e codici MFA**  
+  Fonte: The Hacker News, 06 Oct 2026, 18:38:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html>)
+
+- **Le backdoor Linux impersonano strumenti di sicurezza della posta elettronica per eludere il rilevamento in Corea e Taiwan**  
+  Fonte: The Hacker News, 06 Oct 2026, 18:24:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html>)
+
+- **Atlassian avverte di una falla critica nell'accesso ai file in Jira, Confluence**  
+  Fonte: BleepingComputer, 06 Oct 2026, 17:34:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/>)
+
+- **ASOS conferma la violazione dei dati dopo le notifiche in-app "HACKED".**  
+  Fonte: BleepingComputer, 06 Oct 2026, 16:33:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/>)
+
+- **ChatGPT falsa, i siti Gemini rubano account pubblicitari, codici MFA**  
+  Fonte: BleepingComputer, 06 Oct 2026, 15:16:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/>)
+
+- **Come proteggere il software RMM: 8 controlli che gli MSP dovrebbero testare**  
+  Fonte: BleepingComputer, 06 Oct 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/>)
+
 - **I difetti di LibreOffice e OpenOffice consentono ai fogli di calcolo dannosi di eseguire codice senza avvisi di macro**  
   Fonte: The Hacker News, 06 Oct 2026, 11:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html>)
@@ -66,29 +138,9 @@
   Fonte: The Hacker News, 05 Oct 2026, 16:21:52 UTC  
   [Leggi](<https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html>)
 
-- **La violazione dei dati del registro della popolazione danese colpisce 8,8 milioni di persone**  
-  Fonte: BleepingComputer, 05 Oct 2026, 15:21:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/>)
-
-- **Il nuovo difetto di Dell System Update consente agli hacker di ottenere i privilegi di root**  
-  Fonte: BleepingComputer, 05 Oct 2026, 14:53:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/>)
-
-- **La Corea del Sud indaga sulle violazioni bancarie tra sospetti attacchi basati sull’intelligenza artificiale**  
-  Fonte: BleepingComputer, 05 Oct 2026, 14:22:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/>)
-
 - **⚡ Riepilogo settimanale: NetScaler e FortiMail 0-Days, perdite di codice AI, Spectre v2 e arresti ransomware**  
   Fonte: The Hacker News, 05 Oct 2026, 14:20:43 UTC  
   [Leggi](<https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html>)
-
-- **dieci volte CE: il nostro strumento gratuito di governance delle identità ha appena ricevuto 2 nuove funzionalità**  
-  Fonte: BleepingComputer, 05 Oct 2026, 13:33:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/>)
-
-- **Il presunto sviluppatore del malware ATM Poutus si presenta in tribunale negli Stati Uniti dopo l'arresto**  
-  Fonte: BleepingComputer, 05 Oct 2026, 13:01:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/>)
 
 - **Il livello delle credenziali si sta espandendo più velocemente di quanto i team di sicurezza possano vedere**  
   Fonte: The Hacker News, 05 Oct 2026, 11:55:00 UTC  
@@ -106,18 +158,6 @@
   Fonte: The Hacker News, 05 Oct 2026, 10:38:50 UTC  
   [Leggi](<https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html>)
 
-- **OpenAI mostrerà annunci visivi in ​​ChatGPT mentre generi immagini**  
-  Fonte: BleepingComputer, 05 Oct 2026, 10:28:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/>)
-
-- **Microsoft: l'aggiornamento KB5124010 di Windows provoca l'arresto anomalo di alcuni giochi e app**  
-  Fonte: BleepingComputer, 05 Oct 2026, 09:37:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/>)
-
-- **Google interrompe il programma di bug bounty open source a causa dell'ondata di spam AI**  
-  Fonte: BleepingComputer, 05 Oct 2026, 08:27:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/>)
-
 - **Gli aggressori prendono di mira la falla di Rejetto HFS che consente la falsificazione della sessione di amministrazione e l'RCE**  
   Fonte: The Hacker News, 05 Oct 2026, 08:09:23 UTC  
   [Leggi](<https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html>)
@@ -125,10 +165,6 @@
 - **Il nuovo NetScaler Zero-Day sfruttato negli attacchi mirati può mettere offline le distribuzioni SAML**  
   Fonte: The Hacker News, 05 Oct 2026, 06:40:19 UTC  
   [Leggi](<https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html>)
-
-- **Citrix patch NetScaler SAML zero-day sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 04 Oct 2026, 21:58:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/>)
 
 - **Aggiornamento settimanale 524: in diretta da Copenaghen**  
   Fonte: Troy Hunt, 04 Oct 2026, 11:52:23 UTC  
@@ -282,69 +318,5 @@
   Fonte: The Hacker News, 30 Sep 2026, 15:00:15 UTC  
   [Leggi](<https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html>)
 
-- **Conosci il tuo nemico: tecniche di attacco basate su browser nel 2026**  
-  Fonte: The Hacker News, 30 Sep 2026, 11:58:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html>)
 
-- **Gli agenti di codifica AI hanno esposto 13.000 immagini interne, inclusi i record di fatturazione, su GitHub**  
-  Fonte: The Hacker News, 30 Sep 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html>)
-
-- **Voglio una migliore reportistica sul comportamento dei geni dell'intelligenza artificiale**  
-  Fonte: Schneier on Security, 30 Sep 2026, 11:05:35 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html>)
-
-- **Il phishing CSuite focalizzato negli Stati Uniti ruba le sessioni di Microsoft 365 e distribuisce strumenti RMM per l'accesso remoto**  
-  Fonte: The Hacker News, 30 Sep 2026, 10:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html>)
-
-- **La violazione del database del personale del Pentagono espone milioni di dati personali**  
-  Fonte: Graham Cluley, 30 Sep 2026, 10:20:37 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/pentagon-personnel-database-breach-personal-data-millions>)
-
-- **Gli aggressori sfruttano la falla di NetScaler per l'accesso root e implementano WHIPSHOT e SLAPSHOT**  
-  Fonte: The Hacker News, 30 Sep 2026, 08:24:35 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html>)
-
-- **OpenSSL risolve un difetto DTLS di elevata gravità che può causare perdite di memoria heap non crittografate**  
-  Fonte: The Hacker News, 30 Sep 2026, 08:09:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html>)
-
-- **Citrix NetScaler CVE-2026-88772 I dettagli dell'exploit mostrano il percorso di pre-autenticazione per l'esecuzione dello shellcode**  
-  Fonte: The Hacker News, 30 Sep 2026, 05:30:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html>)
-
-- **Il furto di dati fiscali francesi tramite password rubate del personale non è stato rilevato per sette settimane**  
-  Fonte: The Hacker News, 29 Sep 2026, 17:47:01 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html>)
-
-- **Il nuovo attacco BTR Spectre-v2 fa trapelare la memoria di Linux nonostante le difese esistenti**  
-  Fonte: The Hacker News, 29 Sep 2026, 17:20:17 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html>)
-
-- **Usare l’intelligenza artificiale per tracciare una rotta per la nostra migrazione post-quantistica**  
-  Fonte: Cloudflare Blog - Security, 29 Sep 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/ai-driven-cryptography-discovery/>)
-
-- **Costruire un'autorità di certificazione per l'intera Internet**  
-  Fonte: Cloudflare Blog - Security, 29 Sep 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/cloudflare-certificate-authority/>)
-
-- **Costruire un'autorità di certificazione post-quantistica con i certificati Merkle Tree**  
-  Fonte: Cloudflare Blog - Security, 29 Sep 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/pq-ca-with-mtcs/>)
-
-- **Presentazione di Threat Signals: competenze agenti per l'intelligence sulle minacce open source, gratuite per ogni account Cloudflare**  
-  Fonte: Cloudflare Blog - Security, 29 Sep 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/threat-signals/>)
-
-- **Il tuo dominio utilizza la crittografia post-quantistica?Ora puoi vederlo tu stesso**  
-  Fonte: Cloudflare Blog - Security, 29 Sep 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/post-quantum-visibility/>)
-
-- **Applica una sicurezza positiva con i profili delle applicazioni Cloudflare**  
-  Fonte: Cloudflare Blog - Security, 29 Sep 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/application-profiles/>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-06 12:26:56 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-07 12:18:29 UTC -->
