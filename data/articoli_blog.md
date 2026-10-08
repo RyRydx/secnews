@@ -2,6 +2,106 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft Teams per ottenere supporto per strumenti di rilevamento deepfake di terze parti**  
+  Fonte: BleepingComputer, 08 Oct 2026, 12:08:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/>)
+
+- **ASOS collega la violazione dei dati ad attacchi di ingegneria sociale e al furto di credenziali**  
+  Fonte: BleepingComputer, 08 Oct 2026, 11:42:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/>)
+
+- **Come la tecnologia dà potere e mette in pericolo i dittatori**  
+  Fonte: Schneier on Security, 08 Oct 2026, 11:07:35 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html>)
+
+- **Wazza Phishkit prende di mira il settore bancario, governativo e manifatturiero negli Stati Uniti, nell'UE e in Australia**  
+  Fonte: The Hacker News, 08 Oct 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html>)
+
+- **Il proprietario del mercato del crimine informatico Empire viene condannato a 40 anni di prigione**  
+  Fonte: BleepingComputer, 08 Oct 2026, 10:29:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/>)
+
+- **16 estensioni dannose di Firefox che si fingono portafogli Rabby e OKX per rubare frasi di recupero**  
+  Fonte: The Hacker News, 08 Oct 2026, 09:46:32 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html>)
+
+- **Gli Stati Uniti offrono fino a 10 milioni di dollari per suggerimenti su Zhang Yu, accusato di attacchi con HAFNIUM**  
+  Fonte: The Hacker News, 08 Oct 2026, 07:42:04 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html>)
+
+- **Proprietario di MonsterCloud accusato di aver fatturato oltre 19 milioni di dollari mentre pagava segretamente riscatti per decrittografare i dati**  
+  Fonte: The Hacker News, 08 Oct 2026, 07:41:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html>)
+
+- **Samsung Galaxy S26 è stato violato altre tre volte su Pwn2Own Ireland**  
+  Fonte: BleepingComputer, 08 Oct 2026, 06:32:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/>)
+
+- **Il pacchetto Tensorlake npm compromesso per fornire il worm ruba-credenziali Shai-Hulud**  
+  Fonte: The Hacker News, 08 Oct 2026, 05:46:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html>)
+
+- **Podcast di Smashing Security n. 487: il ritorno delle criptovalute di Clippy**  
+  Fonte: Graham Cluley, 07 Oct 2026, 23:10:49 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-487/>)
+
+- **Il CEO del recupero ransomware accusato di pagamenti segreti di riscatto**  
+  Fonte: BleepingComputer, 07 Oct 2026, 23:04:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/>)
+
+- **FBI: gli attacchi FortiBleed in corso bloccano gli amministratori VPN FortiGate**  
+  Fonte: BleepingComputer, 07 Oct 2026, 21:28:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/>)
+
+- **Gli hacker prendono il controllo dei domini Google dopo aver violato i registri ccTLD**  
+  Fonte: BleepingComputer, 07 Oct 2026, 20:50:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/>)
+
+- **Gli aggressori dirottano i registri .gh, .sl e .as per ottenere certificati per Google Domains**  
+  Fonte: The Hacker News, 07 Oct 2026, 18:48:17 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html>)
+
+- **Otto pacchetti npm dannosi scaricati 40.767 volte forniscono Overlord RAT e Stealer**  
+  Fonte: The Hacker News, 07 Oct 2026, 17:43:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html>)
+
+- **Costruire un sistema di operazioni di sicurezza agenti basato sull'evidenza su Cloudflare**  
+  Fonte: Cloudflare Blog - Security, 07 Oct 2026, 16:30:36 UTC  
+  [Leggi](<https://blog.cloudflare.com/agentic-security-operations/>)
+
+- **SonicWall corregge il difetto SSRF di pre-autenticazione CVSS 10.0 negli apparecchi SMA1000**  
+  Fonte: The Hacker News, 07 Oct 2026, 16:17:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html>)
+
+- **Microsoft Outlook bloccherà gli allegati MSIX a partire da novembre**  
+  Fonte: BleepingComputer, 07 Oct 2026, 15:44:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/>)
+
+- **Il difetto critico di LMCache senza patch consente agli aggressori non autenticati di eseguire il codice in modalità remota**  
+  Fonte: The Hacker News, 07 Oct 2026, 15:34:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html>)
+
+- **Il malware PoeLLM infetta oltre 3.400 server per espandere la botnet di mining di criptovalute**  
+  Fonte: The Hacker News, 07 Oct 2026, 15:33:51 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html>)
+
+- **Il malware PoeLLM infetta i server AI esposti in attacchi di cryptomining**  
+  Fonte: BleepingComputer, 07 Oct 2026, 15:04:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/>)
+
+- **Il ransomware ha un nuovo obiettivo.Il tuo backup è pronto?**  
+  Fonte: BleepingComputer, 07 Oct 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/>)
+
+- **ShinyHunters ha estorto uno spin-off della Boeing prima degli arresti**  
+  Fonte: Krebs on Security, 07 Oct 2026, 13:48:45 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/>)
+
+- **Gli hacker sfruttano la falla critica di Atlassian dopo il rilascio pubblico del PoC**  
+  Fonte: BleepingComputer, 07 Oct 2026, 12:49:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/>)
+
 - **La sesta voce dei dati CISO mostra che il rischio informatico si è spostato all'interno del flusso di lavoro**  
   Fonte: The Hacker News, 07 Oct 2026, 11:57:05 UTC  
   [Leggi](<https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html>)
@@ -46,10 +146,6 @@
   Fonte: BleepingComputer, 06 Oct 2026, 21:00:27 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/>)
 
-- **Gli hacker sfruttano 32 zero-day nel primo giorno di Pwn2Own Ireland**  
-  Fonte: BleepingComputer, 06 Oct 2026, 19:21:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/>)
-
 - **I portali pubblicitari ChatGPT, Gemini e Claude falsi acquisiscono credenziali e codici MFA**  
   Fonte: The Hacker News, 06 Oct 2026, 18:38:55 UTC  
   [Leggi](<https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html>)
@@ -58,29 +154,9 @@
   Fonte: The Hacker News, 06 Oct 2026, 18:24:25 UTC  
   [Leggi](<https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html>)
 
-- **Atlassian avverte di una falla critica nell'accesso ai file in Jira, Confluence**  
-  Fonte: BleepingComputer, 06 Oct 2026, 17:34:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/>)
-
-- **ASOS conferma la violazione dei dati dopo le notifiche in-app "HACKED".**  
-  Fonte: BleepingComputer, 06 Oct 2026, 16:33:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/>)
-
-- **ChatGPT falsa, i siti Gemini rubano account pubblicitari, codici MFA**  
-  Fonte: BleepingComputer, 06 Oct 2026, 15:16:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/>)
-
-- **Come proteggere il software RMM: 8 controlli che gli MSP dovrebbero testare**  
-  Fonte: BleepingComputer, 06 Oct 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/>)
-
 - **I difetti di LibreOffice e OpenOffice consentono ai fogli di calcolo dannosi di eseguire codice senza avvisi di macro**  
   Fonte: The Hacker News, 06 Oct 2026, 11:57:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html>)
-
-- **Wikimedia: agenti OpenAI canaglia dietro le modifiche non autorizzate di Wikipedia**  
-  Fonte: BleepingComputer, 06 Oct 2026, 11:31:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/>)
 
 - **Wikimedia afferma che gli agenti OpenAI hanno tentato di compromettere Etherpad e utilizzare gli strumenti Wiki come proxy**  
   Fonte: The Hacker News, 06 Oct 2026, 11:26:25 UTC  
@@ -94,19 +170,11 @@
   Fonte: The Hacker News, 06 Oct 2026, 11:02:30 UTC  
   [Leggi](<https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html>)
 
-- **Nikkei rivela violazioni degli account di posta elettronica Microsoft e Google dei dipendenti**  
-  Fonte: BleepingComputer, 06 Oct 2026, 09:25:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/>)
-
 - **Google sospende i premi Bounty per bug dei prodotti OSS dopo un aumento dei report automatizzati non validi**  
   Fonte: The Hacker News, 06 Oct 2026, 09:21:47 UTC  
   [Leggi](<https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html>)
 
-- **Ingegnere condannato per aver bloccato oltre 3.000 dispositivi sulla rete del datore di lavoro**  
-  Fonte: BleepingComputer, 06 Oct 2026, 08:19:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/>)
-
-- **Il difetto critico di Atlassian consente agli aggressori non autenticati di leggere file conosciuti su 8 prodotti**  
+- **Il difetto critico di Atlassian consente agli aggressori non autenticati di leggere file noti su 8 prodotti**  
   Fonte: The Hacker News, 06 Oct 2026, 06:58:56 UTC  
   [Leggi](<https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html>)
 
@@ -121,18 +189,6 @@
 - **ClickFix contrabbanda payload attraverso la cache del browser per aggirare i limiti di esecuzione di Windows**  
   Fonte: The Hacker News, 06 Oct 2026, 05:22:55 UTC  
   [Leggi](<https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html>)
-
-- **OpenAI sta aggiungendo filigrane invisibili al testo ChatGPT e Codex nell'UE**  
-  Fonte: BleepingComputer, 05 Oct 2026, 22:46:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/>)
-
-- **I server Rejetto HFS ora vengono scansionati attivamente per rilevare difetti RCE critici**  
-  Fonte: BleepingComputer, 05 Oct 2026, 20:20:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/>)
-
-- **IQVIA è stata multata di 7,8 milioni di dollari per non aver anonimizzato adeguatamente i dati sanitari**  
-  Fonte: BleepingComputer, 05 Oct 2026, 17:19:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/>)
 
 - **Un difetto di Microsoft Exchange consente agli aggressori autenticati di leggere le caselle di posta di altri utenti**  
   Fonte: The Hacker News, 05 Oct 2026, 16:21:52 UTC  
@@ -182,7 +238,7 @@
   Fonte: The Hacker News, 03 Oct 2026, 14:38:46 UTC  
   [Leggi](<https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html>)
 
-- **Warlock sfrutta le falle di SharePoint per disabilitare gli strumenti di sicurezza e distribuire ransomware**  
+- **Warlock sfrutta le falle di SharePoint per disattivare gli strumenti di sicurezza e distribuire il ransomware**  
   Fonte: The Hacker News, 03 Oct 2026, 14:36:33 UTC  
   [Leggi](<https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html>)
 
@@ -258,65 +314,5 @@
   Fonte: Cloudflare Blog - Security, 01 Oct 2026, 13:04:19 UTC  
   [Leggi](<https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/>)
 
-- **In che modo le società di servizi finanziari possono modernizzare la catena di fornitura del software**  
-  Fonte: The Hacker News, 01 Oct 2026, 11:45:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/how-financial-services-companies-can.html>)
 
-- **Le auto connesse sono una piattaforma di sorveglianza**  
-  Fonte: Schneier on Security, 01 Oct 2026, 11:06:14 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html>)
-
-- **L'FBI dice ai membri di ShinyHunters di costituirsi, dopo l'arresto del presunto leader**  
-  Fonte: Graham Cluley, 01 Oct 2026, 10:53:38 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-turn-themselves-in-arrest-leader>)
-
-- **Il sospetto di ShinyHunter è stato arrestato ed è ora indagato su presunti complotti di omicidio**  
-  Fonte: Graham Cluley, 01 Oct 2026, 10:52:03 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/shinyhunters-suspect-arrested-now-investigated-alleged-murder-plots>)
-
-- **OpenAI interrompe la campagna di estrazione del ragionamento collegata a Moonshot AI Associates**  
-  Fonte: The Hacker News, 01 Oct 2026, 10:42:36 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html>)
-
-- **CISA aggiunge il bypass di autenticazione di Cisco Catalyst SD-WAN Manager sfruttato a KEV**  
-  Fonte: The Hacker News, 01 Oct 2026, 10:33:16 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html>)
-
-- **Google distribuisce Gemini 4 Argon ai difensori informatici fidati e prevede una versione senza Guardrail**  
-  Fonte: The Hacker News, 01 Oct 2026, 07:49:36 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html>)
-
-- **Il PoC di Apple CoreGraphics emerge mentre i controlli PDF di WhatsApp suggeriscono un possibile percorso di consegna**  
-  Fonte: The Hacker News, 01 Oct 2026, 05:54:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html>)
-
-- **Bitget conferma Zero-Day di terze parti dietro il furto di criptovaluta da 387,5 milioni di dollari**  
-  Fonte: The Hacker News, 01 Oct 2026, 05:21:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html>)
-
-- **L'incidente di sicurezza MetaMask richiede l'uscita dei validatori Ethereum interessati**  
-  Fonte: The Hacker News, 01 Oct 2026, 05:10:09 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html>)
-
-- **Il payload post-sfruttamento di Citrix NetScaler crea un superutente e mappa la shell Web su URL simili a CSS**  
-  Fonte: The Hacker News, 01 Oct 2026, 04:35:34 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html>)
-
-- **Gli aggressori sfruttano la falla di Zimbra per implementare web shell e raccogliere segreti di autenticazione**  
-  Fonte: The Hacker News, 30 Sep 2026, 16:46:29 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html>)
-
-- **Gli aggressori abusano di MSP360 per implementare ScreenConnect in attacchi di phishing Dual-RMM**  
-  Fonte: The Hacker News, 30 Sep 2026, 16:32:59 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html>)
-
-- **Cisco avverte degli aggressori che sfruttano il bypass critico dell'autenticazione in SD-WAN Manager**  
-  Fonte: The Hacker News, 30 Sep 2026, 15:24:54 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html>)
-
-- **Gli aggressori abusano dei GPT personalizzati ChatGPT per fornire RAT tramite esche ClickFix**  
-  Fonte: The Hacker News, 30 Sep 2026, 15:00:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-07 12:18:29 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-08 12:29:01 UTC -->
