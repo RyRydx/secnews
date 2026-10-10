@@ -2,6 +2,82 @@
 
 ## Ultimi 7 giorni
 
+- **Il problema degli agenti di terze parti: perché la sicurezza creata per l'intelligenza artificiale che hai scelto non ha individuato gli agenti che non hai scelto**  
+  Fonte: The Hacker News, 10 Oct 2026, 11:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html>)
+
+- **Anthropic taglia l'accesso a Internet in tempo reale per i test interni sull'intelligenza artificiale dopo che Claude ha sfruttato i difetti dell'iniezione**  
+  Fonte: The Hacker News, 10 Oct 2026, 09:18:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html>)
+
+- **L'FBI arresta il fondatore di una società di negoziazione di ransomware**  
+  Fonte: Krebs on Security, 10 Oct 2026, 00:17:42 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/>)
+
+- **Gli hacker abusano di Google Ads e Bing reindirizza per spingere gli attacchi Claude ClickFix**  
+  Fonte: BleepingComputer, 09 Oct 2026, 20:31:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/>)
+
+- **Blog sui calamari del venerdì: ho catturato un calamaro**  
+  Fonte: Schneier on Security, 09 Oct 2026, 20:24:45 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html>)
+
+- **Flussi di lavoro delle azioni GitHub per il furto di credenziali impiantati in decine di migliaia di repository**  
+  Fonte: The Hacker News, 09 Oct 2026, 19:14:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/credential-stealing-github-actions.html>)
+
+- **L'FBI arresta un altro sospetto di ShinyHunters, secondo quanto riferito, coinvolto nell'hacking del suo portale di lavoro**  
+  Fonte: The Hacker News, 09 Oct 2026, 17:45:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html>)
+
+- **Difetti AhsayCBS senza patch sfruttati per distribuire webshell, estrarre criptovalute**  
+  Fonte: BleepingComputer, 09 Oct 2026, 17:17:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/>)
+
+- **L'FBI arresta un altro sospetto hacker di ShinyHunters dopo una violazione dell'agenzia**  
+  Fonte: BleepingComputer, 09 Oct 2026, 17:02:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/>)
+
+- **Il kit di exploit iOS P7 DarkSword aggiunge il furto di dati del portafoglio crittografico e comandi remoti**  
+  Fonte: The Hacker News, 09 Oct 2026, 16:29:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html>)
+
+- **La Germania arresta il presunto membro principale del ransomware Qilin dopo l'estradizione**  
+  Fonte: BleepingComputer, 09 Oct 2026, 15:38:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/>)
+
+- **Offerta una taglia di 10 milioni di dollari per l'hacker cinese Hafnium accusato del mega attacco al Microsoft Exchange Server**  
+  Fonte: Graham Cluley, 09 Oct 2026, 14:35:04 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack>)
+
+- **Come mantenere gli agenti AI entro le loro autorizzazioni**  
+  Fonte: BleepingComputer, 09 Oct 2026, 14:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/>)
+
+- **TP-Link citato in giudizio da altri quattro stati degli Stati Uniti per la sicurezza dei router e legami con la Cina**  
+  Fonte: The Hacker News, 09 Oct 2026, 13:22:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html>)
+
+- **I ricercatori pubblicano un exploit funzionante per la falla pre-autenticazione di AnyDesk Linux che fornisce l'accesso root**  
+  Fonte: The Hacker News, 09 Oct 2026, 12:59:22 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html>)
+
+- **Anthropic lancia lo scanner gratuito delle vulnerabilità dell'intelligenza artificiale per progetti open source**  
+  Fonte: The Hacker News, 09 Oct 2026, 12:47:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/anthropic-launches-free-ai.html>)
+
+- **Gli aggressori sfruttano le falle di AhsayCBS per distribuire miner XMRig travestiti da Microsoft Edge**  
+  Fonte: The Hacker News, 09 Oct 2026, 12:47:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html>)
+
+- **Gravità massima Difetto SonicWall SMA1000 ora sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 09 Oct 2026, 12:32:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/>)
+
+- **Il tifone del lino sfrutta cinque difetti mentre la CISA fissa la scadenza dell'11 ottobre per le agenzie federali**  
+  Fonte: The Hacker News, 09 Oct 2026, 12:21:51 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html>)
+
 - **Il paradosso della velocità dell’intelligenza artificiale: perché la sicurezza è indietro di decenni rispetto alle ambizioni dell’intelligenza artificiale**  
   Fonte: The Hacker News, 09 Oct 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html>)
@@ -34,7 +110,7 @@
   Fonte: The Hacker News, 09 Oct 2026, 06:39:29 UTC  
   [Leggi](<https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html>)
 
-- **Gli hacker ottengono $ 1.262.000 per 98 zero-day su Pwn2Own Ireland**  
+- **Gli hacker ottengono $ 1.262.000 per 98 zero-day su Pwn2Own Irlanda**  
   Fonte: BleepingComputer, 09 Oct 2026, 05:41:04 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/>)
 
@@ -54,7 +130,7 @@
   Fonte: The Hacker News, 08 Oct 2026, 18:32:21 UTC  
   [Leggi](<https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html>)
 
-- **ThreatsDay: tradimento degli affiliati ransomware, RAT di WhatsApp, strumenti di hacker esposti e altre 12 storie**  
+- **ThreatsDay: tradimento di affiliati ransomware, RAT di WhatsApp, strumenti di hacker esposti e altre 12 storie**  
   Fonte: The Hacker News, 08 Oct 2026, 17:58:02 UTC  
   [Leggi](<https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html>)
 
@@ -78,22 +154,6 @@
   Fonte: The Hacker News, 08 Oct 2026, 14:12:34 UTC  
   [Leggi](<https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html>)
 
-- **Le concessioni OAuth si accumulano più velocemente di quanto tu possa esaminarle.Ecco come tenere il passo.**  
-  Fonte: BleepingComputer, 08 Oct 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/>)
-
-- **Hacker dell'exchange di criptovalute Uranium condannato per aver rubato 53 milioni di dollari**  
-  Fonte: BleepingComputer, 08 Oct 2026, 13:18:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/>)
-
-- **Microsoft Teams per ottenere supporto per strumenti di rilevamento deepfake di terze parti**  
-  Fonte: BleepingComputer, 08 Oct 2026, 12:08:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/>)
-
-- **ASOS collega la violazione dei dati ad attacchi di ingegneria sociale e al furto di credenziali**  
-  Fonte: BleepingComputer, 08 Oct 2026, 11:42:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/>)
-
 - **Come la tecnologia dà potere e mette in pericolo i dittatori**  
   Fonte: Schneier on Security, 08 Oct 2026, 11:07:35 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html>)
@@ -102,11 +162,7 @@
   Fonte: The Hacker News, 08 Oct 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html>)
 
-- **Il proprietario del mercato del crimine informatico Empire viene condannato a 40 anni di prigione**  
-  Fonte: BleepingComputer, 08 Oct 2026, 10:29:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/>)
-
-- **16 estensioni dannose per Firefox che si fingono portafogli Rabby e OKX per rubare frasi di recupero**  
+- **16 estensioni dannose di Firefox che si fingono portafogli Rabby e OKX per rubare frasi di recupero**  
   Fonte: The Hacker News, 08 Oct 2026, 09:46:32 UTC  
   [Leggi](<https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html>)
 
@@ -117,10 +173,6 @@
 - **Proprietario di MonsterCloud accusato di aver fatturato oltre 19 milioni di dollari mentre pagava segretamente riscatti per decrittografare i dati**  
   Fonte: The Hacker News, 08 Oct 2026, 07:41:44 UTC  
   [Leggi](<https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html>)
-
-- **Samsung Galaxy S26 è stato violato altre tre volte su Pwn2Own Ireland**  
-  Fonte: BleepingComputer, 08 Oct 2026, 06:32:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/>)
 
 - **Il pacchetto Tensorlake npm compromesso per fornire il worm ruba-credenziali Shai-Hulud**  
   Fonte: The Hacker News, 08 Oct 2026, 05:46:20 UTC  
@@ -170,7 +222,7 @@
   Fonte: The Hacker News, 07 Oct 2026, 11:49:26 UTC  
   [Leggi](<https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html>)
 
-- **Che cos'è il pentesting agentico?Cosa dimostra e dove si ferma.**  
+- **Cos'è il Pentesting Agentico?Cosa dimostra e dove si ferma.**  
   Fonte: The Hacker News, 07 Oct 2026, 11:42:24 UTC  
   [Leggi](<https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html>)
 
@@ -250,69 +302,9 @@
   Fonte: Schneier on Security, 05 Oct 2026, 11:04:47 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html>)
 
-- **Apple prevede controlli più severi sull’accesso completo al disco di macOS sull’accesso ai dati dell’agente AI**  
-  Fonte: The Hacker News, 05 Oct 2026, 10:38:50 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html>)
-
-- **Gli aggressori prendono di mira la falla di Rejetto HFS che consente la falsificazione della sessione di amministrazione e l'RCE**  
-  Fonte: The Hacker News, 05 Oct 2026, 08:09:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html>)
-
-- **Il nuovo NetScaler Zero-Day sfruttato negli attacchi mirati può mettere offline le distribuzioni SAML**  
-  Fonte: The Hacker News, 05 Oct 2026, 06:40:19 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html>)
-
 - **Aggiornamento settimanale 524: in diretta da Copenaghen**  
   Fonte: Troy Hunt, 04 Oct 2026, 11:52:23 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-524/>)
 
-- **ShinyHunters sospetta che Rey sia stato detenuto in Giordania, aiutando l'FBI a identificare i membri del gruppo**  
-  Fonte: The Hacker News, 04 Oct 2026, 07:22:05 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html>)
 
-- **Il TA419 allineato alla Cina prende di mira gli esperti di politiche sull'intelligenza artificiale degli Stati Uniti con il phishing Microsoft AitM**  
-  Fonte: The Hacker News, 04 Oct 2026, 07:20:32 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html>)
-
-- **L’MI5 afferma che la ricerca cinese finanziata dall’MSS coinvolge oltre 100 accademici collegati al Regno Unito**  
-  Fonte: The Hacker News, 03 Oct 2026, 14:38:46 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html>)
-
-- **Warlock sfrutta le falle di SharePoint per disabilitare gli strumenti di sicurezza e distribuire ransomware**  
-  Fonte: The Hacker News, 03 Oct 2026, 14:36:33 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html>)
-
-- **Lo stato della sicurezza informatica nel 2026: segmenti chiave, approfondimenti e innovazioni**  
-  Fonte: The Hacker News, 03 Oct 2026, 11:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html>)
-
-- **N0n ransomware: cosa devi sapere**  
-  Fonte: Graham Cluley, 03 Oct 2026, 08:29:54 UTC  
-  [Leggi](<https://www.fortra.com/blog/n0n-ransomware-what-you-need-know>)
-
-- **Blog sui calamari del venerdì: l'UE sta cercando di combattere la pesca non regolamentata dei calamari**  
-  Fonte: Schneier on Security, 02 Oct 2026, 21:02:18 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html>)
-
-- **GitLab risolve il difetto critico del gateway AI 9.9 che consente l'esecuzione di comandi su server self-hosted**  
-  Fonte: The Hacker News, 02 Oct 2026, 17:33:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html>)
-
-- **Antino Backdoor utilizza Outlook e OneDrive per C2 nella campagna di spionaggio China-Nexus**  
-  Fonte: The Hacker News, 02 Oct 2026, 17:33:16 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html>)
-
-- **Telecamere Stormo non identificate in Florida**  
-  Fonte: Schneier on Security, 02 Oct 2026, 14:52:46 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html>)
-
-- **Segui il thread: una nuova dashboard per indagare sugli abusi dell'account**  
-  Fonte: Cloudflare Blog - Security, 02 Oct 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/account-abuse-protection-dashboard/>)
-
-- **Tunnel rapidi protetti: semplice autenticazione senza account per il tuo prossimo progetto di sviluppo**  
-  Fonte: Cloudflare Blog - Security, 02 Oct 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/protected-quick-tunnels/>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-09 12:18:24 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-10 11:35:29 UTC -->
