@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **Il kit di exploit iOS P7 DarkSword aggiunge il furto di dati del portafoglio crittografico e comandi remoti**  
+  Fonte: The Hacker News, 11 Oct 2026, 04:24:34 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html>)
+
+- **Dirigente informatico arrestato per caso presumibilmente legato agli hacker di ShinyHunters**  
+  Fonte: BleepingComputer, 10 Oct 2026, 15:07:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/>)
+
+- **ARTEX AI, agenti Claude utilizzati negli attacchi informatici alle banche sudcoreane**  
+  Fonte: BleepingComputer, 10 Oct 2026, 14:16:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/>)
+
+- **Criminal IP presenta AITEM come la prossima evoluzione della gestione delle superfici di attacco**  
+  Fonte: BleepingComputer, 10 Oct 2026, 12:30:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/>)
+
 - **Il problema degli agenti di terze parti: perché la sicurezza creata per l'intelligenza artificiale che hai scelto non ha individuato gli agenti che non hai scelto**  
   Fonte: The Hacker News, 10 Oct 2026, 11:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html>)
@@ -10,7 +26,7 @@
   Fonte: The Hacker News, 10 Oct 2026, 09:18:45 UTC  
   [Leggi](<https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html>)
 
-- **L'FBI arresta il fondatore di una società di negoziazione di ransomware**  
+- **L'FBI arresta un dirigente della società di negoziazione di ransomware**  
   Fonte: Krebs on Security, 10 Oct 2026, 00:17:42 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/>)
 
@@ -22,7 +38,7 @@
   Fonte: Schneier on Security, 09 Oct 2026, 20:24:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html>)
 
-- **Flussi di lavoro delle azioni GitHub per il furto di credenziali impiantati in decine di migliaia di repository**  
+- **Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories**  
   Fonte: The Hacker News, 09 Oct 2026, 19:14:28 UTC  
   [Leggi](<https://thehackernews.com/2026/10/credential-stealing-github-actions.html>)
 
@@ -37,10 +53,6 @@
 - **L'FBI arresta un altro sospetto hacker di ShinyHunters dopo una violazione dell'agenzia**  
   Fonte: BleepingComputer, 09 Oct 2026, 17:02:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/>)
-
-- **Il kit di exploit iOS P7 DarkSword aggiunge il furto di dati del portafoglio crittografico e comandi remoti**  
-  Fonte: The Hacker News, 09 Oct 2026, 16:29:55 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html>)
 
 - **La Germania arresta il presunto membro principale del ransomware Qilin dopo l'estradizione**  
   Fonte: BleepingComputer, 09 Oct 2026, 15:38:56 UTC  
@@ -110,7 +122,7 @@
   Fonte: The Hacker News, 09 Oct 2026, 06:39:29 UTC  
   [Leggi](<https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html>)
 
-- **Gli hacker ottengono $ 1.262.000 per 98 zero-day su Pwn2Own Irlanda**  
+- **Gli hacker ottengono $ 1.262.000 per 98 zero-day su Pwn2Own Ireland**  
   Fonte: BleepingComputer, 09 Oct 2026, 05:41:04 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/>)
 
@@ -122,10 +134,6 @@
   Fonte: BleepingComputer, 08 Oct 2026, 20:09:45 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/>)
 
-- **I telefoni Android a basso costo vengono forniti con malware proxy residenziale**  
-  Fonte: BleepingComputer, 08 Oct 2026, 19:20:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/>)
-
 - **L'FBI afferma che gli hacker legati alla Cina hanno gestito un portale che consente a terzi l'accesso alle e-mail rubate**  
   Fonte: The Hacker News, 08 Oct 2026, 18:32:21 UTC  
   [Leggi](<https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html>)
@@ -134,21 +142,13 @@
   Fonte: The Hacker News, 08 Oct 2026, 17:58:02 UTC  
   [Leggi](<https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html>)
 
-- **La campagna malware FakeGit ritorna con 17.610 repository GitHub dannosi**  
-  Fonte: BleepingComputer, 08 Oct 2026, 17:10:55 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/>)
-
-- **Il Giappone vede un forte aumento delle fughe di dati web a causa dell’abuso di API mobili e degli attacchi alle metabase**  
+- **Il Giappone vede un forte aumento delle fughe di dati web a causa dell’abuso di API mobili e degli attacchi alla metabase**  
   Fonte: The Hacker News, 08 Oct 2026, 15:45:56 UTC  
   [Leggi](<https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html>)
 
 - **UAC-0099 prende di mira il personale del governo ucraino con ASHVEIN RAT che nasconde i comandi in HTML**  
   Fonte: The Hacker News, 08 Oct 2026, 15:26:56 UTC  
   [Leggi](<https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html>)
-
-- **Cisco avverte di difetti critici che consentono l'acquisizione dello switch Nexus**  
-  Fonte: BleepingComputer, 08 Oct 2026, 15:26:33 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/>)
 
 - **Strumento di pentesting ARTEX AI utilizzato negli attacchi di furto di dati contro società finanziarie sudcoreane**  
   Fonte: The Hacker News, 08 Oct 2026, 14:12:34 UTC  
@@ -162,7 +162,7 @@
   Fonte: The Hacker News, 08 Oct 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html>)
 
-- **16 estensioni dannose di Firefox che si fingono portafogli Rabby e OKX per rubare frasi di recupero**  
+- **16 estensioni dannose per Firefox che si fingono portafogli Rabby e OKX per rubare frasi di recupero**  
   Fonte: The Hacker News, 08 Oct 2026, 09:46:32 UTC  
   [Leggi](<https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html>)
 
@@ -174,7 +174,7 @@
   Fonte: The Hacker News, 08 Oct 2026, 07:41:44 UTC  
   [Leggi](<https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html>)
 
-- **Il pacchetto Tensorlake npm compromesso per fornire il worm ruba-credenziali Shai-Hulud**  
+- **Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm**  
   Fonte: The Hacker News, 08 Oct 2026, 05:46:20 UTC  
   [Leggi](<https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html>)
 
@@ -266,7 +266,7 @@
   Fonte: The Hacker News, 06 Oct 2026, 09:21:47 UTC  
   [Leggi](<https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html>)
 
-- **Il difetto critico di Atlassian consente agli aggressori non autenticati di leggere file noti su 8 prodotti**  
+- **Il difetto critico di Atlassian consente agli aggressori non autenticati di leggere file conosciuti su 8 prodotti**  
   Fonte: The Hacker News, 06 Oct 2026, 06:58:56 UTC  
   [Leggi](<https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html>)
 
@@ -307,4 +307,4 @@
   [Leggi](<https://www.troyhunt.com/weekly-update-524/>)
 
 
-<!-- Ultimo aggiornamento: 2026-10-10 11:35:29 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-11 11:49:55 UTC -->
