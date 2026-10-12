@@ -2,6 +2,42 @@
 
 ## Ultimi 7 giorni
 
+- **Il gigante della vendita al dettaglio Ahold Delhaize mette i sistemi offline dopo un attacco informatico**  
+  Fonte: BleepingComputer, 12 Oct 2026, 13:51:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/>)
+
+- **GitLab avverte della vulnerabilità relativa all'esecuzione di codice con gravità massima**  
+  Fonte: BleepingComputer, 12 Oct 2026, 13:09:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/>)
+
+- **Microsoft: Windows 11 23H2 raggiunge la fine del supporto tra 30 giorni**  
+  Fonte: BleepingComputer, 12 Oct 2026, 11:58:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/>)
+
+- **Porta il tuo agente: gli assistenti dei tuoi dipendenti sono già registrati**  
+  Fonte: The Hacker News, 12 Oct 2026, 11:55:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html>)
+
+- **Il registro trova un impianto hardware non autorizzato nel portafoglio venduto da CryptoBilis durante le segnalazioni di furto di fondi**  
+  Fonte: The Hacker News, 12 Oct 2026, 11:21:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html>)
+
+- **Difetto critico SonicWall SMA 1000 preso di mira in 135 tentativi di sfruttamento dopo la patch**  
+  Fonte: The Hacker News, 12 Oct 2026, 10:36:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html>)
+
+- **Gli aggressori sfruttano CVSS 10.0 Bricksforge WordPress Flaw che abilita RCE non autenticato**  
+  Fonte: The Hacker News, 12 Oct 2026, 09:02:14 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html>)
+
+- **CyberXero utilizza il codice Claude in una campagna che ha rubato oltre 628.000 documenti ucraini**  
+  Fonte: The Hacker News, 12 Oct 2026, 07:26:12 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html>)
+
+- **L'incidente del malware Nippon Columbia espone 8,6 milioni di record di fan del karaoke**  
+  Fonte: BleepingComputer, 11 Oct 2026, 14:23:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/>)
+
 - **Il kit di exploit iOS P7 DarkSword aggiunge il furto di dati del portafoglio crittografico e comandi remoti**  
   Fonte: The Hacker News, 11 Oct 2026, 04:24:34 UTC  
   [Leggi](<https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html>)
@@ -38,7 +74,7 @@
   Fonte: Schneier on Security, 09 Oct 2026, 20:24:45 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html>)
 
-- **Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories**  
+- **Flussi di lavoro delle azioni GitHub per il furto di credenziali impiantati in decine di migliaia di repository**  
   Fonte: The Hacker News, 09 Oct 2026, 19:14:28 UTC  
   [Leggi](<https://thehackernews.com/2026/10/credential-stealing-github-actions.html>)
 
@@ -106,10 +142,6 @@
   Fonte: The Hacker News, 09 Oct 2026, 09:03:24 UTC  
   [Leggi](<https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html>)
 
-- **Citrix avvisa gli amministratori di correggere immediatamente la nuova falla NetScaler RCE**  
-  Fonte: BleepingComputer, 09 Oct 2026, 08:27:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/>)
-
 - **Tre team dimostrano gli hack remoti di Google Pixel 10 completamente patchato su Pwn2Own**  
   Fonte: The Hacker News, 09 Oct 2026, 08:26:17 UTC  
   [Leggi](<https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html>)
@@ -122,27 +154,15 @@
   Fonte: The Hacker News, 09 Oct 2026, 06:39:29 UTC  
   [Leggi](<https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html>)
 
-- **Gli hacker ottengono $ 1.262.000 per 98 zero-day su Pwn2Own Ireland**  
-  Fonte: BleepingComputer, 09 Oct 2026, 05:41:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/>)
-
-- **L'FBI distrugge gli strumenti di hacking cinesi utilizzati per violare le infrastrutture critiche**  
-  Fonte: BleepingComputer, 08 Oct 2026, 21:42:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/>)
-
-- **L'attacco ransomware interrompe il cloud IDCF giapponese utilizzato dai clienti governativi**  
-  Fonte: BleepingComputer, 08 Oct 2026, 20:09:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/>)
-
 - **L'FBI afferma che gli hacker legati alla Cina hanno gestito un portale che consente a terzi l'accesso alle e-mail rubate**  
   Fonte: The Hacker News, 08 Oct 2026, 18:32:21 UTC  
   [Leggi](<https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html>)
 
-- **ThreatsDay: tradimento di affiliati ransomware, RAT di WhatsApp, strumenti di hacker esposti e altre 12 storie**  
+- **ThreatsDay: tradimento degli affiliati ransomware, RAT di WhatsApp, strumenti di hacker esposti e altre 12 storie**  
   Fonte: The Hacker News, 08 Oct 2026, 17:58:02 UTC  
   [Leggi](<https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html>)
 
-- **Il Giappone vede un forte aumento delle fughe di dati web a causa dell’abuso di API mobili e degli attacchi alla metabase**  
+- **Il Giappone vede un forte aumento delle fughe di dati web a causa dell’abuso di API mobili e degli attacchi alle metabase**  
   Fonte: The Hacker News, 08 Oct 2026, 15:45:56 UTC  
   [Leggi](<https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html>)
 
@@ -174,7 +194,7 @@
   Fonte: The Hacker News, 08 Oct 2026, 07:41:44 UTC  
   [Leggi](<https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html>)
 
-- **Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm**  
+- **Il pacchetto Tensorlake npm compromesso per fornire il worm ruba-credenziali Shai-Hulud**  
   Fonte: The Hacker News, 08 Oct 2026, 05:46:20 UTC  
   [Leggi](<https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html>)
 
@@ -222,7 +242,7 @@
   Fonte: The Hacker News, 07 Oct 2026, 11:49:26 UTC  
   [Leggi](<https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html>)
 
-- **Cos'è il Pentesting Agentico?Cosa dimostra e dove si ferma.**  
+- **Che cos'è il pentesting agentico?Cosa dimostra e dove si ferma.**  
   Fonte: The Hacker News, 07 Oct 2026, 11:42:24 UTC  
   [Leggi](<https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html>)
 
@@ -278,33 +298,5 @@
   Fonte: The Hacker News, 06 Oct 2026, 06:00:30 UTC  
   [Leggi](<https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html>)
 
-- **ClickFix contrabbanda payload attraverso la cache del browser per aggirare i limiti di esecuzione di Windows**  
-  Fonte: The Hacker News, 06 Oct 2026, 05:22:55 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html>)
 
-- **Un difetto di Microsoft Exchange consente agli aggressori autenticati di leggere le caselle di posta di altri utenti**  
-  Fonte: The Hacker News, 05 Oct 2026, 16:21:52 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html>)
-
-- **⚡ Riepilogo settimanale: NetScaler e FortiMail 0-Days, perdite di codice AI, Spectre v2 e arresti ransomware**  
-  Fonte: The Hacker News, 05 Oct 2026, 14:20:43 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html>)
-
-- **Il livello delle credenziali si sta espandendo più velocemente di quanto i team di sicurezza possano vedere**  
-  Fonte: The Hacker News, 05 Oct 2026, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html>)
-
-- **I tentativi di exploit dell'SDK Realtek Jungle forniscono botnet Cling con C2 basato su STUN**  
-  Fonte: The Hacker News, 05 Oct 2026, 11:46:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html>)
-
-- **Un altro cifrario storico cade nell’intelligenza artificiale**  
-  Fonte: Schneier on Security, 05 Oct 2026, 11:04:47 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html>)
-
-- **Aggiornamento settimanale 524: in diretta da Copenaghen**  
-  Fonte: Troy Hunt, 04 Oct 2026, 11:52:23 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-524/>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-11 11:49:55 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-12 13:54:16 UTC -->
