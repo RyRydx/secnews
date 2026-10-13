@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **[Webinar] Come arrestare l'escalation dei privilegi basata sull'intelligenza artificiale con i controlli dell'identità di runtime**  
+  Fonte: The Hacker News, 13 Oct 2026, 11:57:06 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html>)
+
+- **Smart TV LG vulnerabili al root takeover pre-autenticazione dalla rete locale**  
+  Fonte: The Hacker News, 13 Oct 2026, 11:09:10 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html>)
+
+- **Aggiornamento settimanale 525: Iperbole della violazione dei dati dell'IA**  
+  Fonte: Troy Hunt, 13 Oct 2026, 10:47:27 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-525/>)
+
+- **Panoramica del prodotto: Visibilità e controllo dell'IA di Bitdefender**  
+  Fonte: The Hacker News, 13 Oct 2026, 10:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html>)
+
+- **Gli aggressori riscaldano i frigoriferi dei supermercati francesi fino a 50°C dirottando i controller Danfoss**  
+  Fonte: The Hacker News, 13 Oct 2026, 08:48:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html>)
+
+- **Due difetti critici di MarkLogic potrebbero fornire ai manager delegati un controllo amministrativo persistente**  
+  Fonte: The Hacker News, 13 Oct 2026, 08:44:01 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html>)
+
+- **GitLab corregge il difetto CVSS 10.0 che potrebbe consentire agli utenti non autenticati di eseguire il codice del server**  
+  Fonte: The Hacker News, 13 Oct 2026, 08:43:37 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html>)
+
+- **Il leaker di GTA 6 minaccia di rilasciare la versione completamente giocabile del gioco prima del lancio ufficiale**  
+  Fonte: Graham Cluley, 13 Oct 2026, 08:20:56 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/gta-6-leaker-threatens-release-full-game>)
+
+- **I telefoni Android a basso costo vengono forniti con malware preinstallato che li trasforma in proxy residenziali**  
+  Fonte: The Hacker News, 13 Oct 2026, 06:00:11 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html>)
+
+- **La Norvegia multa di 9,6 milioni di dollari la società pubblicitaria Microsoft per la condivisione dei dati di Grindr**  
+  Fonte: BleepingComputer, 12 Oct 2026, 20:13:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/>)
+
+- **Yandex conferma l'interruzione del servizio poiché gli utenti perdono l'accesso ai file cloud**  
+  Fonte: BleepingComputer, 12 Oct 2026, 19:23:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/>)
+
+- **Anthropic mette offline test rischiosi sull'intelligenza artificiale dopo che alcune modelle hanno violato i siti governativi**  
+  Fonte: BleepingComputer, 12 Oct 2026, 18:51:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/>)
+
+- **Il registro conferma l'impianto di un chip spia dietro i furti di criptovalute nei portafogli**  
+  Fonte: BleepingComputer, 12 Oct 2026, 16:27:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/>)
+
+- **Un attacco informatico spegne i frigoriferi dei supermercati francesi**  
+  Fonte: BleepingComputer, 12 Oct 2026, 15:23:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/>)
+
+- **⚡ Riepilogo settimanale: 0-Days dell'Helpdesk, certificati Rogue, arresto di ShinyHunters, malware che inganna l'IA e altro ancora**  
+  Fonte: The Hacker News, 12 Oct 2026, 15:16:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html>)
+
+- **L'FBI arresta il sospetto di un caso di hacking dell'FBI**  
+  Fonte: Schneier on Security, 12 Oct 2026, 15:01:26 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html>)
+
+- **All'interno di AvisLoader: un caricatore di malware per Windows creato per resistere alle interruzioni**  
+  Fonte: BleepingComputer, 12 Oct 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/>)
+
 - **Il gigante della vendita al dettaglio Ahold Delhaize mette i sistemi offline dopo un attacco informatico**  
   Fonte: BleepingComputer, 12 Oct 2026, 13:51:07 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/>)
@@ -26,7 +94,7 @@
   Fonte: The Hacker News, 12 Oct 2026, 10:36:56 UTC  
   [Leggi](<https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html>)
 
-- **Gli aggressori sfruttano CVSS 10.0 Bricksforge WordPress Flaw che abilita RCE non autenticato**  
+- **Gli aggressori sfruttano CVSS 10.0 Il difetto di Bricksforge WordPress che abilita RCE non autenticato**  
   Fonte: The Hacker News, 12 Oct 2026, 09:02:14 UTC  
   [Leggi](<https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html>)
 
@@ -86,21 +154,9 @@
   Fonte: BleepingComputer, 09 Oct 2026, 17:17:23 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/>)
 
-- **L'FBI arresta un altro sospetto hacker di ShinyHunters dopo una violazione dell'agenzia**  
-  Fonte: BleepingComputer, 09 Oct 2026, 17:02:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/>)
-
-- **La Germania arresta il presunto membro principale del ransomware Qilin dopo l'estradizione**  
-  Fonte: BleepingComputer, 09 Oct 2026, 15:38:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/>)
-
 - **Offerta una taglia di 10 milioni di dollari per l'hacker cinese Hafnium accusato del mega attacco al Microsoft Exchange Server**  
   Fonte: Graham Cluley, 09 Oct 2026, 14:35:04 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack>)
-
-- **Come mantenere gli agenti AI entro le loro autorizzazioni**  
-  Fonte: BleepingComputer, 09 Oct 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/>)
 
 - **TP-Link citato in giudizio da altri quattro stati degli Stati Uniti per la sicurezza dei router e legami con la Cina**  
   Fonte: The Hacker News, 09 Oct 2026, 13:22:53 UTC  
@@ -118,10 +174,6 @@
   Fonte: The Hacker News, 09 Oct 2026, 12:47:26 UTC  
   [Leggi](<https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html>)
 
-- **Gravità massima Difetto SonicWall SMA1000 ora sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 09 Oct 2026, 12:32:16 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/>)
-
 - **Il tifone del lino sfrutta cinque difetti mentre la CISA fissa la scadenza dell'11 ottobre per le agenzie federali**  
   Fonte: The Hacker News, 09 Oct 2026, 12:21:51 UTC  
   [Leggi](<https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html>)
@@ -129,14 +181,6 @@
 - **Il paradosso della velocità dell’intelligenza artificiale: perché la sicurezza è indietro di decenni rispetto alle ambizioni dell’intelligenza artificiale**  
   Fonte: The Hacker News, 09 Oct 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html>)
-
-- **L'uomo ammette di gestire una rete di 15.000 money mule per i criminali informatici**  
-  Fonte: BleepingComputer, 09 Oct 2026, 11:14:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/>)
-
-- **Microsoft: i dispositivi Windows obsoleti non riceveranno più gli aggiornamenti di sicurezza**  
-  Fonte: BleepingComputer, 09 Oct 2026, 10:12:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/>)
 
 - **Il difetto di GoBalance consente agli aggressori di prendere il controllo degli indirizzi .onion recuperando le chiavi in ​​formato Tor**  
   Fonte: The Hacker News, 09 Oct 2026, 09:03:24 UTC  
@@ -162,7 +206,7 @@
   Fonte: The Hacker News, 08 Oct 2026, 17:58:02 UTC  
   [Leggi](<https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html>)
 
-- **Il Giappone vede un forte aumento delle fughe di dati web a causa dell’abuso di API mobili e degli attacchi alle metabase**  
+- **Il Giappone vede un forte aumento delle fughe di dati web a causa dell’abuso di API mobili e degli attacchi alla metabase**  
   Fonte: The Hacker News, 08 Oct 2026, 15:45:56 UTC  
   [Leggi](<https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html>)
 
@@ -242,7 +286,7 @@
   Fonte: The Hacker News, 07 Oct 2026, 11:49:26 UTC  
   [Leggi](<https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html>)
 
-- **Che cos'è il pentesting agentico?Cosa dimostra e dove si ferma.**  
+- **Cos'è il Pentesting Agentico?Cosa dimostra e dove si ferma.**  
   Fonte: The Hacker News, 07 Oct 2026, 11:42:24 UTC  
   [Leggi](<https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html>)
 
@@ -262,41 +306,5 @@
   Fonte: The Hacker News, 06 Oct 2026, 18:38:55 UTC  
   [Leggi](<https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html>)
 
-- **Le backdoor Linux impersonano strumenti di sicurezza della posta elettronica per eludere il rilevamento in Corea e Taiwan**  
-  Fonte: The Hacker News, 06 Oct 2026, 18:24:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html>)
 
-- **I difetti di LibreOffice e OpenOffice consentono ai fogli di calcolo dannosi di eseguire codice senza avvisi di macro**  
-  Fonte: The Hacker News, 06 Oct 2026, 11:57:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html>)
-
-- **Wikimedia afferma che gli agenti OpenAI hanno tentato di compromettere Etherpad e utilizzare gli strumenti Wiki come proxy**  
-  Fonte: The Hacker News, 06 Oct 2026, 11:26:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html>)
-
-- **Possibile vulnerabilità nel riavvio automatico di Apple**  
-  Fonte: Schneier on Security, 06 Oct 2026, 11:06:46 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html>)
-
-- **Benvenuti nella giungla: cosa abbiamo trovato all'interno di 15.465 server MCP pubblici**  
-  Fonte: The Hacker News, 06 Oct 2026, 11:02:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html>)
-
-- **Google sospende i premi Bounty per bug dei prodotti OSS dopo un aumento dei report automatizzati non validi**  
-  Fonte: The Hacker News, 06 Oct 2026, 09:21:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html>)
-
-- **Il difetto critico di Atlassian consente agli aggressori non autenticati di leggere file conosciuti su 8 prodotti**  
-  Fonte: The Hacker News, 06 Oct 2026, 06:58:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html>)
-
-- **L'FBI rimuove l'appaltatore di Accenture dopo che il fallimento della patch ha portato alla violazione di ShinyHunters**  
-  Fonte: The Hacker News, 06 Oct 2026, 06:56:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html>)
-
-- **La Danimarca afferma che gli aggressori hanno avuto accesso ai dati CPR di 8,8 milioni di persone tramite l'account aziendale**  
-  Fonte: The Hacker News, 06 Oct 2026, 06:00:30 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-12 13:54:16 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-13 13:11:37 UTC -->
