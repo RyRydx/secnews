@@ -2,6 +2,58 @@
 
 ## Ultimi 7 giorni
 
+- **Gli hacker utilizzano credenziali ConnectWise compromesse per accedere a 173 tenant di Microsoft 365**  
+  Fonte: The Hacker News, 17 Oct 2026, 06:16:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html>)
+
+- **Blog di calamari del venerdì: calamari prima dell'impatto della meteora Chicxulub**  
+  Fonte: Schneier on Security, 16 Oct 2026, 21:06:47 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html>)
+
+- **Il difetto critico di BlockStrap consente agli hacker di eseguire codice sui server Magento**  
+  Fonte: BleepingComputer, 16 Oct 2026, 20:00:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/>)
+
+- **I ricercatori dimostrano il concatenamento dell'exploit root di OpenBSD con un bug della memoria condivisa vecchio di 37 anni**  
+  Fonte: The Hacker News, 16 Oct 2026, 17:48:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html>)
+
+- **Annunci mirati installavano lo spyware Candiru in attacchi zero-click**  
+  Fonte: BleepingComputer, 16 Oct 2026, 17:20:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/>)
+
+- **Gli aggressori hanno manomesso i server di aggiornamento di AOMEI Backupper per minuti per fornire una backdoor**  
+  Fonte: The Hacker News, 16 Oct 2026, 16:43:39 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html>)
+
+- **UAT-11985 utilizza inviti a eventi falsi per prendere di mira gli affiliati di ricerca di Taiwan con il phishing di Google AitM**  
+  Fonte: The Hacker News, 16 Oct 2026, 16:16:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html>)
+
+- **Il modello di ricerca OpenAI ha effettuato test ETH di terze parti senza autorizzazione per implementare Smart Contract**  
+  Fonte: The Hacker News, 16 Oct 2026, 14:03:04 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html>)
+
+- **Dipendenti che utilizzano ChatGPT personale al lavoro?Ecco cosa devono fare gli amministratori IT**  
+  Fonte: BleepingComputer, 16 Oct 2026, 13:50:59 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/>)
+
+- **Responsabilità continua per i bot verificati**  
+  Fonte: Cloudflare Blog - Security, 16 Oct 2026, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/verified-bots-accountability/>)
+
+- **La violazione dei dati di Burger King Giappone espone 11 milioni di record di clienti**  
+  Fonte: BleepingComputer, 16 Oct 2026, 12:01:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/>)
+
+- **Modelli decisionali AI e loro impatto sulle piattaforme AI SOC**  
+  Fonte: The Hacker News, 16 Oct 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html>)
+
+- **Backdooring di modelli IA a peso aperto**  
+  Fonte: Schneier on Security, 16 Oct 2026, 11:04:53 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html>)
+
 - **Microsoft: l'aggiornamento Windows di ottobre potrebbe interrompere Smart App Control**  
   Fonte: BleepingComputer, 16 Oct 2026, 08:44:22 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/>)
@@ -114,10 +166,6 @@
   Fonte: The Hacker News, 15 Oct 2026, 08:45:10 UTC  
   [Leggi](<https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html>)
 
-- **Agenzia di assistenza legale del Regno Unito: gli hacker hanno rubato documenti risalenti al 1978**  
-  Fonte: BleepingComputer, 15 Oct 2026, 08:06:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/>)
-
 - **Il grave difetto RCE autenticato di Langflow è stato preso di mira da 1.423 tentativi di exploit Honeypot**  
   Fonte: The Hacker News, 15 Oct 2026, 07:07:05 UTC  
   [Leggi](<https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html>)
@@ -130,21 +178,9 @@
   Fonte: Graham Cluley, 14 Oct 2026, 23:06:42 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-488/>)
 
-- **Palo Alto Networks avverte di una falla PAN-OS RCE sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 14 Oct 2026, 22:56:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/>)
-
-- **L'FBI fa irruzione nelle fattorie di laptop dei lavoratori IT della RPDC in Texas, arrestati cittadini statunitensi**  
-  Fonte: BleepingComputer, 14 Oct 2026, 19:41:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/>)
-
 - **Cisco avverte di attacchi attivi che sfruttano una nuova vulnerabilità critica del gateway di posta elettronica sicuro**  
   Fonte: The Hacker News, 14 Oct 2026, 18:38:56 UTC  
   [Leggi](<https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html>)
-
-- **Ledger chiede ai venditori in tutta l'Asia di interrompere le vendite dopo l'attacco alla catena di approvvigionamento**  
-  Fonte: BleepingComputer, 14 Oct 2026, 17:46:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/>)
 
 - **Gli hacker hanno backdoor i server Nextcloud attraverso un difetto critico nell'app CODE integrata di Collabora**  
   Fonte: The Hacker News, 14 Oct 2026, 17:38:31 UTC  
@@ -274,45 +310,9 @@
   Fonte: Graham Cluley, 13 Oct 2026, 08:20:56 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/gta-6-leaker-threatens-release-full-game>)
 
-- **I telefoni Android a basso costo vengono forniti con malware preinstallato che li trasforma in proxy residenziali**  
-  Fonte: The Hacker News, 13 Oct 2026, 06:00:11 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html>)
-
-- **⚡ Riepilogo settimanale: 0-Days dell'Helpdesk, certificati Rogue, arresto di ShinyHunters, malware che inganna l'IA e altro ancora**  
-  Fonte: The Hacker News, 12 Oct 2026, 15:16:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html>)
-
 - **L'FBI arresta il sospetto di un caso di hacking dell'FBI**  
   Fonte: Schneier on Security, 12 Oct 2026, 15:01:26 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html>)
 
-- **Porta il tuo agente: gli assistenti dei tuoi dipendenti sono già registrati**  
-  Fonte: The Hacker News, 12 Oct 2026, 11:55:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html>)
 
-- **Il registro trova un impianto hardware non autorizzato nel portafoglio venduto da CryptoBilis durante le segnalazioni di furto di fondi**  
-  Fonte: The Hacker News, 12 Oct 2026, 11:21:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html>)
-
-- **Difetto critico SonicWall SMA 1000 preso di mira in 135 tentativi di sfruttamento dopo la patch**  
-  Fonte: The Hacker News, 12 Oct 2026, 10:36:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html>)
-
-- **Gli aggressori sfruttano CVSS 10.0 Il difetto di Bricksforge WordPress che abilita RCE non autenticato**  
-  Fonte: The Hacker News, 12 Oct 2026, 09:02:14 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html>)
-
-- **L'FBI arresta un dirigente della società di negoziazione di ransomware**  
-  Fonte: Krebs on Security, 10 Oct 2026, 00:17:42 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/>)
-
-- **Blog sui calamari del venerdì: ho catturato un calamaro**  
-  Fonte: Schneier on Security, 09 Oct 2026, 20:24:45 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html>)
-
-- **Offerta una taglia di 10 milioni di dollari per l'hacker cinese Hafnium accusato del mega attacco al Microsoft Exchange Server**  
-  Fonte: Graham Cluley, 09 Oct 2026, 14:35:04 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-16 10:20:52 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-17 09:54:03 UTC -->
