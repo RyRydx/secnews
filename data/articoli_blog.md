@@ -2,6 +2,22 @@
 
 ## Ultimi 7 giorni
 
+- **ConnectWise sospende il backup sul cloud dopo che gli aggressori hanno compromesso i tenant di Microsoft 365**  
+  Fonte: The Hacker News, 18 Oct 2026, 08:23:02 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html>)
+
+- **Gli hacker violano i tenant di Microsoft 365 tramite l'attacco alla catena di fornitura ConnectWise**  
+  Fonte: BleepingComputer, 17 Oct 2026, 15:18:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/>)
+
+- **Drupal corregge i difetti critici RCE e avverte che presto potrebbero emergere degli exploit**  
+  Fonte: BleepingComputer, 17 Oct 2026, 14:32:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/>)
+
+- **Il pacchetto MALFEX npm 'imgdecode' nasconde il caricatore di shellcode nel componente aggiuntivo nativo di Windows**  
+  Fonte: The Hacker News, 17 Oct 2026, 11:11:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html>)
+
 - **Gli hacker utilizzano credenziali ConnectWise compromesse per accedere a 173 tenant di Microsoft 365**  
   Fonte: The Hacker News, 17 Oct 2026, 06:16:46 UTC  
   [Leggi](<https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html>)
@@ -42,7 +58,7 @@
   Fonte: Cloudflare Blog - Security, 16 Oct 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/verified-bots-accountability/>)
 
-- **La violazione dei dati di Burger King Giappone espone 11 milioni di record di clienti**  
+- **La violazione dei dati di Burger King Japan espone 11 milioni di record di clienti**  
   Fonte: BleepingComputer, 16 Oct 2026, 12:01:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/>)
 
@@ -138,10 +154,6 @@
   Fonte: The Hacker News, 15 Oct 2026, 12:07:20 UTC  
   [Leggi](<https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html>)
 
-- **La polizia arresta 95 sospetti in un'azione repressiva internazionale contro i CSAM**  
-  Fonte: BleepingComputer, 15 Oct 2026, 11:55:38 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/>)
-
 - **Attacchi IA falsi si diffondono tra le aziende statunitensi: come gli MSSP possono fermare tempestivamente gli incidenti**  
   Fonte: The Hacker News, 15 Oct 2026, 11:46:59 UTC  
   [Leggi](<https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html>)
@@ -157,10 +169,6 @@
 - **L'India impone la visualizzazione del nome del chiamante registrato sulle reti 4G e successive dal 1° novembre**  
   Fonte: The Hacker News, 15 Oct 2026, 10:42:16 UTC  
   [Leggi](<https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html>)
-
-- **Microsoft risolve il bug che causava schermate nere di Windows e arresto anomalo di Explorer**  
-  Fonte: BleepingComputer, 15 Oct 2026, 09:10:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/>)
 
 - **GhostAction compromette circa 1.900 account GitHub e prende di mira oltre 30.000 repository**  
   Fonte: The Hacker News, 15 Oct 2026, 08:45:10 UTC  
@@ -214,7 +222,7 @@
   Fonte: The Hacker News, 14 Oct 2026, 12:30:42 UTC  
   [Leggi](<https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html>)
 
-- **curl Patch il difetto di caricamento HTTP/2 dopo che il PoC ha dimostrato l'esecuzione del codice lato client**  
+- **curl patch il difetto di caricamento HTTP/2 dopo che il PoC ha dimostrato l'esecuzione del codice lato client**  
   Fonte: The Hacker News, 14 Oct 2026, 12:13:36 UTC  
   [Leggi](<https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html>)
 
@@ -298,14 +306,6 @@
   Fonte: The Hacker News, 13 Oct 2026, 08:48:41 UTC  
   [Leggi](<https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html>)
 
-- **Due difetti critici di MarkLogic potrebbero fornire ai manager delegati un controllo amministrativo persistente**  
-  Fonte: The Hacker News, 13 Oct 2026, 08:44:01 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html>)
-
-- **GitLab corregge il difetto CVSS 10.0 che potrebbe consentire agli utenti non autenticati di eseguire il codice del server**  
-  Fonte: The Hacker News, 13 Oct 2026, 08:43:37 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html>)
-
 - **Il leaker di GTA 6 minaccia di rilasciare la versione completamente giocabile del gioco prima del lancio ufficiale**  
   Fonte: Graham Cluley, 13 Oct 2026, 08:20:56 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/gta-6-leaker-threatens-release-full-game>)
@@ -315,4 +315,4 @@
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-10-17 09:54:03 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-18 10:06:38 UTC -->
