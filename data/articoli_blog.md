@@ -2,6 +2,30 @@
 
 ## Ultimi 7 giorni
 
+- **Addestrare le IA per risolvere i CAPTCHA**  
+  Fonte: Schneier on Security, 19 Oct 2026, 11:07:43 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html>)
+
+- **Microsoft: gli aggiornamenti di ottobre di Windows Server interrompono l'accesso a Exchange e il flusso di posta**  
+  Fonte: BleepingComputer, 19 Oct 2026, 08:58:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/>)
+
+- **Aggiornamento settimanale 526: creazione innanzitutto di HIBP AI/SI**  
+  Fonte: Troy Hunt, 19 Oct 2026, 06:47:58 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-526/>)
+
+- **Il difetto Wi-Fi Broadcom senza patch consente agli aggressori nel raggio d'azione di eseguire il codice come root sui router**  
+  Fonte: The Hacker News, 19 Oct 2026, 06:29:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html>)
+
+- **La violazione della console OpenCode potrebbe aver esposto le chiavi API OpenAI, Anthropic e Google**  
+  Fonte: The Hacker News, 19 Oct 2026, 06:07:08 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/opencode-console-breach-may-have.html>)
+
+- **Gli hacker sfruttano la falla WAF di SiteGuard per eseguire comandi come amministratori**  
+  Fonte: BleepingComputer, 18 Oct 2026, 14:23:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/>)
+
 - **ConnectWise sospende il backup sul cloud dopo che gli aggressori hanno compromesso i tenant di Microsoft 365**  
   Fonte: The Hacker News, 18 Oct 2026, 08:23:02 UTC  
   [Leggi](<https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html>)
@@ -29,6 +53,10 @@
 - **Il difetto critico di BlockStrap consente agli hacker di eseguire codice sui server Magento**  
   Fonte: BleepingComputer, 16 Oct 2026, 20:00:59 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/>)
+
+- **Irish police force has its Twitter hacked in cryptocurrency scam**  
+  Fonte: Graham Cluley, 16 Oct 2026, 18:00:50 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/irish-police-twitter-hacked-crypto-scam>)
 
 - **I ricercatori dimostrano il concatenamento dell'exploit root di OpenBSD con un bug della memoria condivisa vecchio di 37 anni**  
   Fonte: The Hacker News, 16 Oct 2026, 17:48:45 UTC  
@@ -69,6 +97,10 @@
 - **Backdooring di modelli IA a peso aperto**  
   Fonte: Schneier on Security, 16 Oct 2026, 11:04:53 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html>)
+
+- **Ransomware Krybit: cosa devi sapere**  
+  Fonte: Graham Cluley, 16 Oct 2026, 10:25:12 UTC  
+  [Leggi](<https://www.fortra.com/blog/krybit-ransomware-what-you-need-know>)
 
 - **Microsoft: l'aggiornamento Windows di ottobre potrebbe interrompere Smart App Control**  
   Fonte: BleepingComputer, 16 Oct 2026, 08:44:22 UTC  
@@ -133,14 +165,6 @@
 - **Aiuta TDS collegato a Hotejka come oltre 20.000 pagine Cloudflare Domini host Supporto tecnico Truffe**  
   Fonte: The Hacker News, 15 Oct 2026, 14:11:36 UTC  
   [Leggi](<https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html>)
-
-- **Il pentesting dell’IA è valido quanto quello di un pentester umano?**  
-  Fonte: BleepingComputer, 15 Oct 2026, 14:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/>)
-
-- **Microsoft: Windows Server 2022 ha raggiunto la fine del supporto mainstream**  
-  Fonte: BleepingComputer, 15 Oct 2026, 13:18:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/>)
 
 - **NGINX risolve 5 difetti, tra cui un possibile RCE e un bug TLS che potrebbero ignorare i controlli dei certificati client**  
   Fonte: The Hacker News, 15 Oct 2026, 12:58:05 UTC  
@@ -298,14 +322,6 @@
   Fonte: Troy Hunt, 13 Oct 2026, 10:47:27 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-525/>)
 
-- **Panoramica del prodotto: Visibilità e controllo dell'IA di Bitdefender**  
-  Fonte: The Hacker News, 13 Oct 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html>)
-
-- **Gli aggressori riscaldano i frigoriferi dei supermercati francesi fino a 50°C dirottando i controller Danfoss**  
-  Fonte: The Hacker News, 13 Oct 2026, 08:48:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html>)
-
 - **Il leaker di GTA 6 minaccia di rilasciare la versione completamente giocabile del gioco prima del lancio ufficiale**  
   Fonte: Graham Cluley, 13 Oct 2026, 08:20:56 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/gta-6-leaker-threatens-release-full-game>)
@@ -315,4 +331,4 @@
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-10-18 10:06:38 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-19 11:33:48 UTC -->
