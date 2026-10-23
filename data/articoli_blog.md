@@ -2,6 +2,98 @@
 
 ## Ultimi 7 giorni
 
+- **Un difetto critico nella popolare libreria di immagini Pillow di Python consente l'esecuzione del codice tramite un'immagine creata**  
+  Fonte: The Hacker News, 23 Oct 2026, 09:36:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html>)
+
+- **I ricercatori dimostrano l'exploit RCE di Node2Shell sulla build Node.js utilizzando dati Brotli creati**  
+  Fonte: The Hacker News, 23 Oct 2026, 08:40:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html>)
+
+- **Un difetto critico dell'SDK x402 potrebbe consentire alle API dannose di prosciugare i saldi dei token degli agenti IA**  
+  Fonte: The Hacker News, 23 Oct 2026, 08:35:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html>)
+
+- **I tentativi di exploit PHP2Shell colpiscono milioni mentre gli aggressori tentano di distribuire malware Mirai**  
+  Fonte: The Hacker News, 23 Oct 2026, 07:40:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html>)
+
+- **Railway avvisa gli sviluppatori di ruotare i segreti dopo una potenziale violazione**  
+  Fonte: BleepingComputer, 22 Oct 2026, 21:25:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/>)
+
+- **Capcom conferma la violazione dei dati che colpisce 11,7 milioni di account**  
+  Fonte: BleepingComputer, 22 Oct 2026, 20:22:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/>)
+
+- **La pipeline di rilascio di LiteLLM è stata violata per distribuire malware che ruba informazioni**  
+  Fonte: BleepingComputer, 22 Oct 2026, 19:12:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/>)
+
+- **L'agente IA che nessuno possiede: guarda il webinar degli esperti sulla tua nuova minaccia interna**  
+  Fonte: The Hacker News, 22 Oct 2026, 19:05:35 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html>)
+
+- **Arista avverte dello sfruttamento critico della modalità Zero-Day SQL Injection di VeloCloud negli attacchi**  
+  Fonte: The Hacker News, 22 Oct 2026, 19:05:17 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html>)
+
+- **eMudhra uscirà dal business SSL/TLS globale dopo che sono state trovate 8 chiavi CA intermedie facilmente indovinabili**  
+  Fonte: The Hacker News, 22 Oct 2026, 18:12:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html>)
+
+- **ThreatsDay: perdita di segreti AI, furto della sorgente PingCAP, difetto di blocco del segnale, bypass di autenticazione Laravel e altri 21**  
+  Fonte: The Hacker News, 22 Oct 2026, 17:45:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html>)
+
+- **Arista applica le patch al nuovo VeloCloud Orchestrator zero-day sfruttato negli attacchi**  
+  Fonte: BleepingComputer, 22 Oct 2026, 17:18:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/>)
+
+- **Due difetti CVSS 9.0 Linux KSMBD RCE divulgati nelle mailing list pubbliche prima delle correzioni del kernel**  
+  Fonte: The Hacker News, 22 Oct 2026, 17:01:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html>)
+
+- **Meta condannato a pagare 25 miliardi di dollari dopo che la corte ha accertato 43 milioni di violazioni della privacy**  
+  Fonte: The Hacker News, 22 Oct 2026, 16:12:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html>)
+
+- **Microsoft spiega come riparare le app EWS di Exchange Online danneggiate**  
+  Fonte: BleepingComputer, 22 Oct 2026, 15:49:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/>)
+
+- **Gli attacchi alla velocità della macchina richiedono il rilevamento e la risposta della velocità della macchina**  
+  Fonte: BleepingComputer, 22 Oct 2026, 14:02:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/>)
+
+- **L'INTERPOL arresta 1.462 sospetti e interrompe 10.909 reti di criminalità informatica durante un giro di vite globale**  
+  Fonte: The Hacker News, 22 Oct 2026, 13:38:22 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html>)
+
+- **Nuove gravi vulnerabilità PHP rilasciate e corrette**  
+  Fonte: Schneier on Security, 22 Oct 2026, 13:26:51 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html>)
+
+- **Amazon afferma che lo sfruttamento di PHP2Shell è iniziato 4 giorni prima delle patch**  
+  Fonte: BleepingComputer, 22 Oct 2026, 13:09:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/>)
+
+- **Localizzare la conformità su larga scala: ottenere la certificazione ISMS della Corea del Sud**  
+  Fonte: Cloudflare Blog - Security, 22 Oct 2026, 13:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/k-isms/>)
+
+- **GitLab avverte di una nuova vulnerabilità legata all'esecuzione di codice con gravità massima**  
+  Fonte: BleepingComputer, 22 Oct 2026, 11:41:48 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/>)
+
+- **Ferrovia afferma che l'intruso potrebbe aver avuto accesso ai segreti dei clienti e sollecita la rotazione delle credenziali**  
+  Fonte: The Hacker News, 22 Oct 2026, 11:15:42 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html>)
+
+- **Il difetto OpenCode consente ai server MCP dannosi di eseguire codice durante l'accesso su Windows e WSL**  
+  Fonte: The Hacker News, 22 Oct 2026, 10:44:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html>)
+
 - **LiteLLM sospetta una perdita di token GitHub nei registri del gateway AI dietro il rilascio di pacchetti dannosi**  
   Fonte: The Hacker News, 22 Oct 2026, 08:28:48 UTC  
   [Leggi](<https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html>)
@@ -74,10 +166,6 @@
   Fonte: BleepingComputer, 21 Oct 2026, 14:07:05 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/>)
 
-- **ClickFix non è mai stato così grande e gli strumenti di intelligenza artificiale sono ancora la sua attrazione più convincente**  
-  Fonte: BleepingComputer, 21 Oct 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/>)
-
 - **PHP rilascia patch di emergenza per due difetti critici RCE di PHP2Shell mentre emergono tentativi di exploit**  
   Fonte: The Hacker News, 21 Oct 2026, 14:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html>)
@@ -89,10 +177,6 @@
 - **Google Chrome aggiunge avvisi ClickFix per impedire agli utenti di eseguire comandi dannosi**  
   Fonte: The Hacker News, 21 Oct 2026, 13:15:09 UTC  
   [Leggi](<https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html>)
-
-- **Microsoft PowerToys aggiunge CursorHide e gli strumenti del mouse Blocco pulsanti**  
-  Fonte: BleepingComputer, 21 Oct 2026, 12:20:34 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/>)
 
 - **China-Aligned Bronze Sandcastle abusa del sideloading DLL Sandboxie per implementare backdoor**  
   Fonte: The Hacker News, 21 Oct 2026, 12:05:00 UTC  
@@ -118,10 +202,6 @@
   Fonte: The Hacker News, 21 Oct 2026, 10:30:27 UTC  
   [Leggi](<https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html>)
 
-- **Microsoft afferma che gli aggiornamenti di ottobre non hanno effettivamente risolto i problemi della VPN**  
-  Fonte: BleepingComputer, 21 Oct 2026, 10:14:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/>)
-
 - **PHP2Shell: due difetti critici PHP RCE senza patch (CVSS 9.2) attivano un avviso di sicurezza di emergenza**  
   Fonte: The Hacker News, 21 Oct 2026, 09:05:17 UTC  
   [Leggi](<https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html>)
@@ -129,10 +209,6 @@
 - **Gli aggressori abusano delle chiavi UpdraftCentral per installare backdoor sui siti WordPress**  
   Fonte: The Hacker News, 21 Oct 2026, 09:01:12 UTC  
   [Leggi](<https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html>)
-
-- **CISA: il ransomware SafePay ha colpito oltre 600 organizzazioni con infrastrutture critiche**  
-  Fonte: BleepingComputer, 21 Oct 2026, 08:36:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/>)
 
 - **Gli Stati Uniti ordinano la rimozione di DeepSeek dai sistemi civili federali e vietano nuovi acquisti**  
   Fonte: The Hacker News, 21 Oct 2026, 08:04:17 UTC  
@@ -150,25 +226,9 @@
   Fonte: The Hacker News, 21 Oct 2026, 06:05:15 UTC  
   [Leggi](<https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html>)
 
-- **Chiavi UpdraftCentral rubate utilizzate per backdoor nei siti WordPress**  
-  Fonte: BleepingComputer, 21 Oct 2026, 01:01:50 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/>)
-
-- **Mozilla, Google, Apple bloccano i certificati CA eMudhra compromessi**  
-  Fonte: BleepingComputer, 21 Oct 2026, 00:46:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/>)
-
 - **8 certificati eMudhra sono compromessi.Ecco cosa devi sapere**  
   Fonte: Cloudflare Blog - Security, 20 Oct 2026, 22:20:16 UTC  
   [Leggi](<https://blog.cloudflare.com/emudhra-certificate-compromise/>)
-
-- **PHP avvisa gli amministratori di due difetti critici, le patch di emergenza arriveranno domani**  
-  Fonte: BleepingComputer, 20 Oct 2026, 20:56:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/>)
-
-- **Zeabur chiude dopo la seconda violazione della sicurezza in due mesi**  
-  Fonte: BleepingComputer, 20 Oct 2026, 19:33:02 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/>)
 
 - **Otto chiavi CA di eMudhra compromesse, che attivano correzioni di emergenza su browser e software**  
   Fonte: The Hacker News, 20 Oct 2026, 17:09:53 UTC  
@@ -242,57 +302,21 @@
   Fonte: The Hacker News, 19 Oct 2026, 16:28:47 UTC  
   [Leggi](<https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html>)
 
-- **⚡ Riepilogo settimanale: 98 Zero-Day, agenti IA canaglia, furti di criptovalute da 100 milioni di dollari, 700 supermercati colpiti e altro ancora**  
-  Fonte: The Hacker News, 19 Oct 2026, 14:14:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html>)
-
 - **I federali sospettano che il negoziatore del riscatto gestisse il sito di estorsione di ShinyHunters**  
   Fonte: Krebs on Security, 19 Oct 2026, 13:48:56 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/>)
-
-- **Gli aggressori di GhostAction inseriscono un ladro di credenziali mascherato da carattere in 94 repository GitHub**  
-  Fonte: The Hacker News, 19 Oct 2026, 13:05:45 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html>)
 
 - **Oltre la patch: protezione del gateway NetScaler da future vulnerabilità**  
   Fonte: Cloudflare Blog - Security, 19 Oct 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/protect-your-netscaler-gateway/>)
 
-- **Dall'e-mail al caso alla sala riunioni: come gli agenti ereditati interrompono la governance creata per il software**  
-  Fonte: The Hacker News, 19 Oct 2026, 11:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html>)
-
 - **Addestrare le IA per risolvere i CAPTCHA**  
   Fonte: Schneier on Security, 19 Oct 2026, 11:07:43 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html>)
 
-- **Il falso acceleratore Web3 utilizza pacchetti npm per diffondere malware e dirottare il traffico degli agenti AI**  
-  Fonte: The Hacker News, 19 Oct 2026, 10:06:40 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html>)
-
 - **Aggiornamento settimanale 526: creazione innanzitutto di HIBP AI/SI**  
   Fonte: Troy Hunt, 19 Oct 2026, 06:47:58 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-526/>)
-
-- **Il difetto Wi-Fi Broadcom senza patch consente agli aggressori nel raggio d'azione di eseguire il codice come root sui router**  
-  Fonte: The Hacker News, 19 Oct 2026, 06:29:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html>)
-
-- **La violazione della console OpenCode potrebbe aver esposto le chiavi API OpenAI, Anthropic e Google**  
-  Fonte: The Hacker News, 19 Oct 2026, 06:07:08 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/opencode-console-breach-may-have.html>)
-
-- **ConnectWise sospende il backup sul cloud dopo che gli aggressori hanno compromesso i tenant di Microsoft 365**  
-  Fonte: The Hacker News, 18 Oct 2026, 08:23:02 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html>)
-
-- **Il pacchetto MALFEX npm 'imgdecode' nasconde il caricatore di shellcode nel componente aggiuntivo nativo di Windows**  
-  Fonte: The Hacker News, 17 Oct 2026, 11:11:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html>)
-
-- **Gli hacker utilizzano credenziali ConnectWise compromesse per accedere a 173 tenant di Microsoft 365**  
-  Fonte: The Hacker News, 17 Oct 2026, 06:16:46 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html>)
 
 - **Blog di calamari del venerdì: calamari prima dell'impatto della meteora Chicxulub**  
   Fonte: Schneier on Security, 16 Oct 2026, 21:06:47 UTC  
@@ -302,22 +326,6 @@
   Fonte: Graham Cluley, 16 Oct 2026, 18:00:50 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/irish-police-twitter-hacked-crypto-scam>)
 
-- **I ricercatori dimostrano il concatenamento dell'exploit root di OpenBSD con un bug della memoria condivisa vecchio di 37 anni**  
-  Fonte: The Hacker News, 16 Oct 2026, 17:48:45 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html>)
-
-- **Gli aggressori hanno manomesso i server di aggiornamento di AOMEI Backupper per minuti per fornire una backdoor**  
-  Fonte: The Hacker News, 16 Oct 2026, 16:43:39 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html>)
-
-- **UAT-11985 utilizza inviti a eventi falsi per prendere di mira gli affiliati di ricerca di Taiwan con il phishing di Google AitM**  
-  Fonte: The Hacker News, 16 Oct 2026, 16:16:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html>)
-
-- **Il modello di ricerca OpenAI ha effettuato test ETH di terze parti senza autorizzazione per implementare Smart Contract**  
-  Fonte: The Hacker News, 16 Oct 2026, 14:03:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html>)
-
 - **Responsabilità continua per i bot verificati**  
   Fonte: Cloudflare Blog - Security, 16 Oct 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/verified-bots-accountability/>)
@@ -326,13 +334,5 @@
   Fonte: Schneier on Security, 16 Oct 2026, 11:04:53 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html>)
 
-- **Ransomware Krybit: cosa devi sapere**  
-  Fonte: Graham Cluley, 16 Oct 2026, 10:25:12 UTC  
-  [Leggi](<https://www.fortra.com/blog/krybit-ransomware-what-you-need-know>)
 
-- **Misurazione dello sforzo di crittoanalisi umana**  
-  Fonte: Schneier on Security, 15 Oct 2026, 16:24:29 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-22 10:51:28 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-23 10:42:38 UTC -->
