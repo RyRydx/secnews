@@ -2,6 +2,74 @@
 
 ## Ultimi 7 giorni
 
+- **CISA segnala due difetti critici attivamente sfruttati in Collabora Online e Arista VeloCloud**  
+  Fonte: The Hacker News, 24 Oct 2026, 06:25:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html>)
+
+- **Blog sui calamari del venerdì: aumento delle popolazioni di calamari**  
+  Fonte: Schneier on Security, 23 Oct 2026, 21:00:09 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html>)
+
+- **L'app Popcorn Time abbandonata ha esposto milioni di dispositivi ad attacchi RCE**  
+  Fonte: BleepingComputer, 23 Oct 2026, 20:55:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/>)
+
+- **Microsoft Teams per ottenere il rilevamento del phishing basato sull'intelligenza artificiale e sensibile al contesto**  
+  Fonte: BleepingComputer, 23 Oct 2026, 18:54:41 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/>)
+
+- **BlackX UEFI Bootkit ignora l'avvio sicuro sui sistemi Windows con patch Revoche mancanti**  
+  Fonte: The Hacker News, 23 Oct 2026, 18:50:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html>)
+
+- **Ruby risolve tre bug del motore Regex responsabili di quattro difetti critici di GitLab RCE**  
+  Fonte: The Hacker News, 23 Oct 2026, 17:54:08 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html>)
+
+- **L'infrastruttura esposta rivela come gli affiliati al ransomware hanno utilizzato gli agenti IA per eseguire intrusioni**  
+  Fonte: The Hacker News, 23 Oct 2026, 17:50:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html>)
+
+- **Microsoft: Windows Server 2016 terminerà il supporto a gennaio**  
+  Fonte: BleepingComputer, 23 Oct 2026, 17:05:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/>)
+
+- **Quest Diagnostics conferma i record dei pazienti esposti alla violazione dei dati**  
+  Fonte: BleepingComputer, 23 Oct 2026, 16:40:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/>)
+
+- **PHP condivide la mitigazione per la nuova vulnerabilità RCE senza patch**  
+  Fonte: BleepingComputer, 23 Oct 2026, 15:38:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/>)
+
+- **Hai concesso l'accesso al tuo agente AI, ma chi gli dà gli ordini?**  
+  Fonte: BleepingComputer, 23 Oct 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/>)
+
+- **Gli hacker violano firewall e VPN aziendali, esponendo oltre 70.000 credenziali**  
+  Fonte: The Hacker News, 23 Oct 2026, 13:50:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html>)
+
+- **HPE corregge otto difetti RCE di gravità massima e bypass AOS di autenticazione**  
+  Fonte: BleepingComputer, 23 Oct 2026, 12:48:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/>)
+
+- **L’hacker fa trapelare 281 GB di dati dal partito di estrema destra tedesco AfD**  
+  Fonte: Graham Cluley, 23 Oct 2026, 12:29:16 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd>)
+
+- **PHP avverte di un altro rischio RCE senza patch due giorni dopo le patch di emergenza PHP2Shell**  
+  Fonte: The Hacker News, 23 Oct 2026, 11:25:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html>)
+
+- **Hacker legati alla Russia hanno utilizzato una nuova backdoor di rete mesh in un attacco distruttivo in Ucraina**  
+  Fonte: The Hacker News, 23 Oct 2026, 11:11:23 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html>)
+
+- **Certificati TLS compromessi**  
+  Fonte: Schneier on Security, 23 Oct 2026, 11:04:22 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html>)
+
 - **Un difetto critico nella popolare libreria di immagini Pillow di Python consente l'esecuzione del codice tramite un'immagine creata**  
   Fonte: The Hacker News, 23 Oct 2026, 09:36:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html>)
@@ -98,10 +166,6 @@
   Fonte: The Hacker News, 22 Oct 2026, 08:28:48 UTC  
   [Leggi](<https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html>)
 
-- **Le autorità smantellano quasi 11.000 reti di criminalità informatica in Africa**  
-  Fonte: BleepingComputer, 22 Oct 2026, 08:27:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/>)
-
 - **Il bug del decodificatore Brotli di Node.js potrebbe consentire l'esecuzione di codice remoto in tutte le versioni supportate**  
   Fonte: The Hacker News, 22 Oct 2026, 07:47:22 UTC  
   [Leggi](<https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html>)
@@ -122,25 +186,9 @@
   Fonte: Graham Cluley, 21 Oct 2026, 23:12:20 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-489/>)
 
-- **Google Chrome aggiunge il rilevamento delle truffe basato su Gemini e avvisa gli utenti degli attacchi ClickFix**  
-  Fonte: BleepingComputer, 21 Oct 2026, 22:16:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/>)
-
-- **Il giapponese Onamae Desktop Cloud è stato violato e sono stati colpiti fino a 27.000 server**  
-  Fonte: BleepingComputer, 21 Oct 2026, 21:43:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/>)
-
-- **Gli hacker di Lazarus utilizzano la crittografia post-quantistica per la distribuzione del malware**  
-  Fonte: BleepingComputer, 21 Oct 2026, 20:31:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/>)
-
 - **Un difetto critico di GitLab (CVSS 10.0) potrebbe consentire RCE non autenticato in 12 anni di versioni**  
   Fonte: The Hacker News, 21 Oct 2026, 18:57:34 UTC  
   [Leggi](<https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html>)
-
-- **CISA: gli hacker concatenano i difetti Plex negli attacchi Plex2Shell per violare i server**  
-  Fonte: BleepingComputer, 21 Oct 2026, 18:34:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/>)
 
 - **LiteLLM compromesso nell'attacco alla catena di fornitura che fornisce ladri di credenziali e backdoor**  
   Fonte: The Hacker News, 21 Oct 2026, 18:01:57 UTC  
@@ -150,21 +198,13 @@
   Fonte: The Hacker News, 21 Oct 2026, 16:33:47 UTC  
   [Leggi](<https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html>)
 
-- **Gli agenti OpenAI hanno disabilitato il monitoraggio della sicurezza, uno ha mentito al riguardo**  
-  Fonte: BleepingComputer, 21 Oct 2026, 16:26:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/>)
-
-- **Il diffuso difetto PHP può causare oggi molte interruzioni del sito**  
+- **Widespread PHP Flaw May Cause Many Site Outages Today**  
   Fonte: Krebs on Security, 21 Oct 2026, 15:26:07 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/>)
 
 - **Presentazione del rilevamento completo delle transazioni per Cloudflare WAF**  
   Fonte: Cloudflare Blog - Security, 21 Oct 2026, 14:10:42 UTC  
   [Leggi](<https://blog.cloudflare.com/full-transaction-waf/>)
-
-- **PHP fornisce patch di emergenza per i difetti critici di PHP2Shell**  
-  Fonte: BleepingComputer, 21 Oct 2026, 14:07:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/>)
 
 - **PHP rilascia patch di emergenza per due difetti critici RCE di PHP2Shell mentre emergono tentativi di exploit**  
   Fonte: The Hacker News, 21 Oct 2026, 14:00:00 UTC  
@@ -258,7 +298,7 @@
   Fonte: The Hacker News, 20 Oct 2026, 11:33:04 UTC  
   [Leggi](<https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html>)
 
-- **Go presenta un problema di sicurezza con un aggiornamento di emergenza che blocca otto chiavi CA a causa di problemi di sicurezza non divulgati**  
+- **Go pubblica un aggiornamento di emergenza che blocca otto chiavi CA a causa di problemi di sicurezza non divulgati**  
   Fonte: The Hacker News, 20 Oct 2026, 11:32:59 UTC  
   [Leggi](<https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html>)
 
@@ -270,37 +310,9 @@
   Fonte: Schneier on Security, 20 Oct 2026, 11:03:13 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html>)
 
-- **ConnectWise reimposta le credenziali poiché il backup sul cloud rimane offline dopo un incidente di sicurezza**  
-  Fonte: The Hacker News, 20 Oct 2026, 10:56:08 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html>)
-
 - **La polizia arresta il sospettato del ransomware Qilin in vacanza, poiché i collegamenti all'hacking Synnovis hanno contribuito alla morte del paziente**  
   Fonte: Graham Cluley, 20 Oct 2026, 09:41:49 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/qilin-ransomware-arrested-synnovis-patient-death>)
-
-- **Gli hacker prendono il controllo di cinque versioni della CLI di OVHcloud per distribuire malware in grado di rubare segreti**  
-  Fonte: The Hacker News, 20 Oct 2026, 08:21:29 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html>)
-
-- **Gli aggressori di ClickFix sfruttano la falla del Siemens Software Center per distribuire un trojan di accesso remoto**  
-  Fonte: The Hacker News, 20 Oct 2026, 07:11:45 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html>)
-
-- **Ex ingegnere di OpenAI detenuto nel caso di un dispositivo spia mentre emergono contatti reali sauditi**  
-  Fonte: The Hacker News, 20 Oct 2026, 05:53:16 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html>)
-
-- **Gli hacker utilizzano la nuova piattaforma ROMULUS ClickFix per diffondere LegionLoader e altri malware**  
-  Fonte: The Hacker News, 20 Oct 2026, 04:05:58 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html>)
-
-- **Gli hacker sfruttano i difetti di Plex2Shell per installare crypto miner e proxy backdoor Linux**  
-  Fonte: The Hacker News, 19 Oct 2026, 17:32:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html>)
-
-- **Il popolare plugin SEO per WordPress Rank Math PRO dirottato per offrire una backdoor con ripristino automatico**  
-  Fonte: The Hacker News, 19 Oct 2026, 16:28:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html>)
 
 - **I federali sospettano che il negoziatore del riscatto gestisse il sito di estorsione di ShinyHunters**  
   Fonte: Krebs on Security, 19 Oct 2026, 13:48:56 UTC  
@@ -314,25 +326,9 @@
   Fonte: Schneier on Security, 19 Oct 2026, 11:07:43 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html>)
 
-- **Aggiornamento settimanale 526: creazione innanzitutto di HIBP AI/SI**  
+- **Aggiornamento settimanale 526: costruire prima l'HIBP AI/SI**  
   Fonte: Troy Hunt, 19 Oct 2026, 06:47:58 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-526/>)
 
-- **Blog di calamari del venerdì: calamari prima dell'impatto della meteora Chicxulub**  
-  Fonte: Schneier on Security, 16 Oct 2026, 21:06:47 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html>)
 
-- **Le forze di polizia irlandesi hanno violato il loro Twitter in una truffa di criptovaluta**  
-  Fonte: Graham Cluley, 16 Oct 2026, 18:00:50 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/irish-police-twitter-hacked-crypto-scam>)
-
-- **Responsabilità continua per i bot verificati**  
-  Fonte: Cloudflare Blog - Security, 16 Oct 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/verified-bots-accountability/>)
-
-- **Backdooring di modelli IA a peso aperto**  
-  Fonte: Schneier on Security, 16 Oct 2026, 11:04:53 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-23 10:42:38 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-24 10:00:39 UTC -->
