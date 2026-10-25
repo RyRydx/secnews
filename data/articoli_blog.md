@@ -2,6 +2,30 @@
 
 ## Ultimi 7 giorni
 
+- **Gli agenti AI di OpenAI dimostrano gli escape delle VM e la comunicazione segreta tra sandbox**  
+  Fonte: The Hacker News, 25 Oct 2026, 06:54:29 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html>)
+
+- **Il bootkit UEFI BlackX sfrutta il difetto Baton Drop per bypassare Secure Boot**  
+  Fonte: BleepingComputer, 24 Oct 2026, 14:17:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/>)
+
+- **Il difetto del decodificatore Brotli dietro Node.js RCE colpisce anche Bun, Python e altri software ampiamente utilizzati**  
+  Fonte: The Hacker News, 24 Oct 2026, 11:09:29 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html>)
+
+- **La chiave master LiteLLM trapelata consente agli aggressori di rubare token GitHub e dirottare la pipeline di rilascio**  
+  Fonte: The Hacker News, 24 Oct 2026, 11:03:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html>)
+
+- **Google afferma che i dati di Gmail e foto condivisi con AI Search potrebbero essere utilizzati per annunci mirati**  
+  Fonte: The Hacker News, 24 Oct 2026, 10:36:33 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html>)
+
+- **I ricercatori inviano oltre 2 milioni di aggiornamenti per disabilitare da remoto il programma di aggiornamento Popcorn Time che potrebbe alimentare una botnet**  
+  Fonte: The Hacker News, 24 Oct 2026, 09:04:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html>)
+
 - **CISA segnala due difetti critici attivamente sfruttati in Collabora Online e Arista VeloCloud**  
   Fonte: The Hacker News, 24 Oct 2026, 06:25:57 UTC  
   [Leggi](<https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html>)
@@ -150,10 +174,6 @@
   Fonte: Cloudflare Blog - Security, 22 Oct 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/k-isms/>)
 
-- **GitLab avverte di una nuova vulnerabilità legata all'esecuzione di codice con gravità massima**  
-  Fonte: BleepingComputer, 22 Oct 2026, 11:41:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/>)
-
 - **Ferrovia afferma che l'intruso potrebbe aver avuto accesso ai segreti dei clienti e sollecita la rotazione delle credenziali**  
   Fonte: The Hacker News, 22 Oct 2026, 11:15:42 UTC  
   [Leggi](<https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html>)
@@ -198,7 +218,7 @@
   Fonte: The Hacker News, 21 Oct 2026, 16:33:47 UTC  
   [Leggi](<https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html>)
 
-- **Widespread PHP Flaw May Cause Many Site Outages Today**  
+- **Oggigiorno un diffuso difetto PHP può causare molte interruzioni del sito**  
   Fonte: Krebs on Security, 21 Oct 2026, 15:26:07 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/>)
 
@@ -286,26 +306,6 @@
   Fonte: The Hacker News, 20 Oct 2026, 14:07:17 UTC  
   [Leggi](<https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html>)
 
-- **Confermata l'infezione da spyware Pegasus sull'iPhone del rettore dell'Università serba pochi giorni prima delle elezioni**  
-  Fonte: The Hacker News, 20 Oct 2026, 12:59:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html>)
-
-- **WhatsApp ha nascosto le istruzioni nelle pagine di aiuto dicendo al suo chatbot AI di non raccomandare le autorità di regolamentazione della privacy**  
-  Fonte: The Hacker News, 20 Oct 2026, 11:41:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html>)
-
-- **Cosa possono fare i team di sicurezza per domare il codice selvaggio**  
-  Fonte: The Hacker News, 20 Oct 2026, 11:33:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html>)
-
-- **Go pubblica un aggiornamento di emergenza che blocca otto chiavi CA a causa di problemi di sicurezza non divulgati**  
-  Fonte: The Hacker News, 20 Oct 2026, 11:32:59 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html>)
-
-- **L'APT28 russo viola un costruttore navale navale della NATO nel paese NATO, schiera un nuovo caricatore riflettente**  
-  Fonte: The Hacker News, 20 Oct 2026, 11:06:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html>)
-
 - **Possibile nuova Cellebrite iPhone Radio Zero-Day**  
   Fonte: Schneier on Security, 20 Oct 2026, 11:03:13 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html>)
@@ -331,4 +331,4 @@
   [Leggi](<https://www.troyhunt.com/weekly-update-526/>)
 
 
-<!-- Ultimo aggiornamento: 2026-10-24 10:00:39 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-25 10:23:48 UTC -->
