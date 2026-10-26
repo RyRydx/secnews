@@ -2,6 +2,50 @@
 
 ## Ultimi 7 giorni
 
+- **Tra gli avvisi: cosa fanno gli aggressori negli spazi di rilevamento ordinario**  
+  Fonte: The Hacker News, 26 Oct 2026, 11:23:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html>)
+
+- **Bias nel modello Qwen3-Coder**  
+  Fonte: Schneier on Security, 26 Oct 2026, 11:03:31 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html>)
+
+- **Kali Linux 2026.3 rilasciato con 6 nuovi strumenti, aggiornamenti desktop**  
+  Fonte: BleepingComputer, 26 Oct 2026, 10:26:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/>)
+
+- **Lo spyware Android uCreator può rubare le password 2FA di Telegram e clonare gli account WeChat**  
+  Fonte: The Hacker News, 26 Oct 2026, 09:54:02 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html>)
+
+- **I difetti di sicurezza di PHP Shell sono ora sfruttati con successo in natura**  
+  Fonte: BleepingComputer, 26 Oct 2026, 09:19:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/>)
+
+- **Gli attacchi Token-Replay di Microsoft 365 compromettono 97 account presso 79 organizzazioni**  
+  Fonte: The Hacker News, 26 Oct 2026, 08:35:51 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html>)
+
+- **Gheist utilizza token GitHub rubati per rubare i segreti dei repository privati ​​tramite i registri delle azioni**  
+  Fonte: The Hacker News, 26 Oct 2026, 07:49:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html>)
+
+- **Il file dannoso nella cartella Download tenta di ingannare l'agente di codifica AI inducendolo a installare malware**  
+  Fonte: The Hacker News, 26 Oct 2026, 06:03:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html>)
+
+- **I difetti SSH di Tailscale senza patch potrebbero consentire a un dispositivo compromesso di raggiungere il root su altri server**  
+  Fonte: The Hacker News, 25 Oct 2026, 17:44:09 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html>)
+
+- **I tentativi di sfruttamento di PHP2Shell continuano nel contesto di una sospetta attività di scansione globale in Corea del Nord**  
+  Fonte: The Hacker News, 25 Oct 2026, 17:19:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html>)
+
+- **Agenti di codifica AI violati utilizzando il file AGENTS.md nella cartella Download**  
+  Fonte: BleepingComputer, 25 Oct 2026, 15:49:38 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/>)
+
 - **Gli agenti AI di OpenAI dimostrano gli escape delle VM e la comunicazione segreta tra sandbox**  
   Fonte: The Hacker News, 25 Oct 2026, 06:54:29 UTC  
   [Leggi](<https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html>)
@@ -30,7 +74,7 @@
   Fonte: The Hacker News, 24 Oct 2026, 06:25:57 UTC  
   [Leggi](<https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html>)
 
-- **Blog sui calamari del venerdì: aumento delle popolazioni di calamari**  
+- **Blogging sui calamari del venerdì: aumento delle popolazioni di calamari**  
   Fonte: Schneier on Security, 23 Oct 2026, 21:00:09 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html>)
 
@@ -150,14 +194,6 @@
   Fonte: The Hacker News, 22 Oct 2026, 16:12:31 UTC  
   [Leggi](<https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html>)
 
-- **Microsoft spiega come riparare le app EWS di Exchange Online danneggiate**  
-  Fonte: BleepingComputer, 22 Oct 2026, 15:49:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/>)
-
-- **Gli attacchi alla velocità della macchina richiedono il rilevamento e la risposta della velocità della macchina**  
-  Fonte: BleepingComputer, 22 Oct 2026, 14:02:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/>)
-
 - **L'INTERPOL arresta 1.462 sospetti e interrompe 10.909 reti di criminalità informatica durante un giro di vite globale**  
   Fonte: The Hacker News, 22 Oct 2026, 13:38:22 UTC  
   [Leggi](<https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html>)
@@ -165,10 +201,6 @@
 - **Nuove gravi vulnerabilità PHP rilasciate e corrette**  
   Fonte: Schneier on Security, 22 Oct 2026, 13:26:51 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html>)
-
-- **Amazon afferma che lo sfruttamento di PHP2Shell è iniziato 4 giorni prima delle patch**  
-  Fonte: BleepingComputer, 22 Oct 2026, 13:09:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/>)
 
 - **Localizzare la conformità su larga scala: ottenere la certificazione ISMS della Corea del Sud**  
   Fonte: Cloudflare Blog - Security, 22 Oct 2026, 13:00:00 UTC  
@@ -202,7 +234,7 @@
   Fonte: The Hacker News, 22 Oct 2026, 04:21:26 UTC  
   [Leggi](<https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html>)
 
-- **Smashing Security podcast n. 489: Come è arrivato un nuovissimo portafoglio crittografico con una spia al suo interno**  
+- **Podcast di Smashing Security n. 489: Come è arrivato un nuovissimo portafoglio crittografico con una spia al suo interno**  
   Fonte: Graham Cluley, 21 Oct 2026, 23:12:20 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-489/>)
 
@@ -218,7 +250,7 @@
   Fonte: The Hacker News, 21 Oct 2026, 16:33:47 UTC  
   [Leggi](<https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html>)
 
-- **Oggigiorno un diffuso difetto PHP può causare molte interruzioni del sito**  
+- **Un difetto PHP diffuso può causare oggi molte interruzioni del sito**  
   Fonte: Krebs on Security, 21 Oct 2026, 15:26:07 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/>)
 
@@ -274,37 +306,9 @@
   Fonte: The Hacker News, 21 Oct 2026, 08:04:17 UTC  
   [Leggi](<https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html>)
 
-- **La State Bank of India conferma la fuga di dati dopo che 3.897 record di clienti sono stati trovati sul dark web**  
-  Fonte: The Hacker News, 21 Oct 2026, 07:44:22 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html>)
-
-- **La CISA ordina alle agenzie federali di correggere i difetti sfruttati di Plex2Shell, Siemens e SiteGuard**  
-  Fonte: The Hacker News, 21 Oct 2026, 07:26:49 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html>)
-
-- **Gli hacker hanno nascosto la backdoor Vasilek negli strumenti VMware durante un'intrusione nel settore sanitario russo durata due anni**  
-  Fonte: The Hacker News, 21 Oct 2026, 06:05:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html>)
-
 - **8 certificati eMudhra sono compromessi.Ecco cosa devi sapere**  
   Fonte: Cloudflare Blog - Security, 20 Oct 2026, 22:20:16 UTC  
   [Leggi](<https://blog.cloudflare.com/emudhra-certificate-compromise/>)
-
-- **Otto chiavi CA di eMudhra compromesse, che attivano correzioni di emergenza su browser e software**  
-  Fonte: The Hacker News, 20 Oct 2026, 17:09:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html>)
-
-- **Il difetto critico di FortiSIEM ottiene un PoC di exploit pubblico per l'esecuzione di codice remoto non autenticato**  
-  Fonte: The Hacker News, 20 Oct 2026, 15:38:52 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html>)
-
-- **I gruppi ransomware Qilin e INC sfruttano il difetto di Palo Alto Networks per bypassare l'MFA**  
-  Fonte: The Hacker News, 20 Oct 2026, 15:32:27 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html>)
-
-- **Gli hacker utilizzano agenti IA autonomi per violare i siti Web aziendali e prendere di mira oltre 1.200 siti**  
-  Fonte: The Hacker News, 20 Oct 2026, 14:07:17 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html>)
 
 - **Possibile nuova Cellebrite iPhone Radio Zero-Day**  
   Fonte: Schneier on Security, 20 Oct 2026, 11:03:13 UTC  
@@ -322,13 +326,5 @@
   Fonte: Cloudflare Blog - Security, 19 Oct 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/protect-your-netscaler-gateway/>)
 
-- **Addestrare le IA per risolvere i CAPTCHA**  
-  Fonte: Schneier on Security, 19 Oct 2026, 11:07:43 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html>)
 
-- **Aggiornamento settimanale 526: costruire prima l'HIBP AI/SI**  
-  Fonte: Troy Hunt, 19 Oct 2026, 06:47:58 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-526/>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-25 10:23:48 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-26 11:53:14 UTC -->
