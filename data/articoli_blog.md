@@ -2,6 +2,98 @@
 
 ## Ultimi 7 giorni
 
+- **Nascondere le capacità nei modelli di intelligenza artificiale**  
+  Fonte: Schneier on Security, 27 Oct 2026, 11:01:26 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html>)
+
+- **Apple esegue il backport delle patch zero-day CoreGraphics sugli iPhone più vecchi**  
+  Fonte: BleepingComputer, 27 Oct 2026, 10:36:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/>)
+
+- **L'Australia entra nel backend del malware Amadey e taglia l'accesso a 180.000 computer infetti**  
+  Fonte: The Hacker News, 27 Oct 2026, 09:33:06 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html>)
+
+- **Il colosso energetico ENGIE rivela una violazione dei dati che colpisce i clienti**  
+  Fonte: BleepingComputer, 27 Oct 2026, 09:25:50 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/>)
+
+- **Il difetto di compattazione di OpenAI consente ai ricercatori di aggirare le protezioni del ragionamento nascosto**  
+  Fonte: The Hacker News, 27 Oct 2026, 08:22:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html>)
+
+- **La CISA conferma le vulnerabilità PHP2Shell ora sfruttate negli attacchi**  
+  Fonte: BleepingComputer, 27 Oct 2026, 08:20:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/>)
+
+- **Aggiornamento settimanale 527: Notizie Cybergeddon contro Realtà**  
+  Fonte: Troy Hunt, 27 Oct 2026, 07:59:09 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-527/>)
+
+- **Gli aggressori dirottano le telecamere IP Dahua in Ucraina utilizzando l'accesso P2P e le debolezze di autenticazione**  
+  Fonte: The Hacker News, 27 Oct 2026, 06:34:47 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html>)
+
+- **CISA conferma lo sfruttamento attivo di due difetti PHP2Shell che consentono l'esecuzione di codice in modalità remota**  
+  Fonte: The Hacker News, 27 Oct 2026, 04:37:59 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html>)
+
+- **La violazione dei dati dell'Università di Copenaghen espone i dati di 525.000 persone**  
+  Fonte: BleepingComputer, 26 Oct 2026, 22:20:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/>)
+
+- **Esposizione della cache KV con richieste incrociate nel modello AI GLM-5.3 Workers e nostra correzione con SGLang**  
+  Fonte: Cloudflare Blog - Security, 26 Oct 2026, 22:01:23 UTC  
+  [Leggi](<https://blog.cloudflare.com/kv-cache-exposure-remediation/>)
+
+- **L'ex pentester ha utilizzato ARTEX AI per rubare 8,2 milioni di record di dati**  
+  Fonte: BleepingComputer, 26 Oct 2026, 21:08:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/>)
+
+- **OpenAI lancia GPT-6.1 Terra con agenti AI 3 volte più veloci, prezzi inferiori del 50%.**  
+  Fonte: BleepingComputer, 26 Oct 2026, 20:46:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/>)
+
+- **DreamHost forza la reimpostazione della password in un "incidente" in corso**  
+  Fonte: BleepingComputer, 26 Oct 2026, 19:26:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/>)
+
+- **Gli hacker infettano 953 negozi online con JavaScript che elude lo scanner, principalmente su Magento**  
+  Fonte: The Hacker News, 26 Oct 2026, 18:12:22 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html>)
+
+- **PHP pubblica il secondo aggiornamento di sicurezza di Windows in cinque giorni per correggere il difetto di esecuzione del codice Brotli**  
+  Fonte: The Hacker News, 26 Oct 2026, 17:45:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/php-issues-second-windows-security.html>)
+
+- **La vulnerabilità critica Brotli "HTTP2Shell" attiva patch di emergenza**  
+  Fonte: BleepingComputer, 26 Oct 2026, 16:27:57 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/>)
+
+- **Gli aggressori utilizzano le truffe del supporto IT di Microsoft Teams per distribuire malware e ransomware**  
+  Fonte: The Hacker News, 26 Oct 2026, 15:52:40 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html>)
+
+- **Microsoft rilascia patch .NET di emergenza per il difetto critico Brotli**  
+  Fonte: BleepingComputer, 26 Oct 2026, 15:38:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/>)
+
+- **⚡ Riepilogo settimanale: This2Shell, That2Shell, tutto è un RCE?IA canaglia, caos nella catena di fornitura e altro ancora**  
+  Fonte: The Hacker News, 26 Oct 2026, 14:06:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html>)
+
+- **Quando un agente AI è l'incidente, il documento di identità è la prova**  
+  Fonte: BleepingComputer, 26 Oct 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/>)
+
+- **Un cinese estradato per aver preso parte ad una truffa di criptovalute da 36 milioni di dollari**  
+  Fonte: BleepingComputer, 26 Oct 2026, 13:56:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/>)
+
+- **Due difetti critici di Wasmtime potrebbero consentire ai moduli WebAssembly dannosi di sfuggire ai sandbox**  
+  Fonte: The Hacker News, 26 Oct 2026, 11:52:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html>)
+
 - **Tra gli avvisi: cosa fanno gli aggressori negli spazi di rilevamento ordinario**  
   Fonte: The Hacker News, 26 Oct 2026, 11:23:56 UTC  
   [Leggi](<https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html>)
@@ -78,14 +170,6 @@
   Fonte: Schneier on Security, 23 Oct 2026, 21:00:09 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html>)
 
-- **L'app Popcorn Time abbandonata ha esposto milioni di dispositivi ad attacchi RCE**  
-  Fonte: BleepingComputer, 23 Oct 2026, 20:55:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/>)
-
-- **Microsoft Teams per ottenere il rilevamento del phishing basato sull'intelligenza artificiale e sensibile al contesto**  
-  Fonte: BleepingComputer, 23 Oct 2026, 18:54:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/>)
-
 - **BlackX UEFI Bootkit ignora l'avvio sicuro sui sistemi Windows con patch Revoche mancanti**  
   Fonte: The Hacker News, 23 Oct 2026, 18:50:13 UTC  
   [Leggi](<https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html>)
@@ -98,29 +182,9 @@
   Fonte: The Hacker News, 23 Oct 2026, 17:50:47 UTC  
   [Leggi](<https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html>)
 
-- **Microsoft: Windows Server 2016 terminerà il supporto a gennaio**  
-  Fonte: BleepingComputer, 23 Oct 2026, 17:05:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/>)
-
-- **Quest Diagnostics conferma i record dei pazienti esposti alla violazione dei dati**  
-  Fonte: BleepingComputer, 23 Oct 2026, 16:40:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/>)
-
-- **PHP condivide la mitigazione per la nuova vulnerabilità RCE senza patch**  
-  Fonte: BleepingComputer, 23 Oct 2026, 15:38:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/>)
-
-- **Hai concesso l'accesso al tuo agente AI, ma chi gli dà gli ordini?**  
-  Fonte: BleepingComputer, 23 Oct 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/>)
-
 - **Gli hacker violano firewall e VPN aziendali, esponendo oltre 70.000 credenziali**  
   Fonte: The Hacker News, 23 Oct 2026, 13:50:56 UTC  
   [Leggi](<https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html>)
-
-- **HPE corregge otto difetti RCE di gravità massima e bypass AOS di autenticazione**  
-  Fonte: BleepingComputer, 23 Oct 2026, 12:48:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/>)
 
 - **L’hacker fa trapelare 281 GB di dati dal partito di estrema destra tedesco AfD**  
   Fonte: Graham Cluley, 23 Oct 2026, 12:29:16 UTC  
@@ -154,18 +218,6 @@
   Fonte: The Hacker News, 23 Oct 2026, 07:40:45 UTC  
   [Leggi](<https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html>)
 
-- **Railway avvisa gli sviluppatori di ruotare i segreti dopo una potenziale violazione**  
-  Fonte: BleepingComputer, 22 Oct 2026, 21:25:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/>)
-
-- **Capcom conferma la violazione dei dati che colpisce 11,7 milioni di account**  
-  Fonte: BleepingComputer, 22 Oct 2026, 20:22:45 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/>)
-
-- **La pipeline di rilascio di LiteLLM è stata violata per distribuire malware che ruba informazioni**  
-  Fonte: BleepingComputer, 22 Oct 2026, 19:12:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/>)
-
 - **L'agente IA che nessuno possiede: guarda il webinar degli esperti sulla tua nuova minaccia interna**  
   Fonte: The Hacker News, 22 Oct 2026, 19:05:35 UTC  
   [Leggi](<https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html>)
@@ -181,10 +233,6 @@
 - **ThreatsDay: perdita di segreti AI, furto della sorgente PingCAP, difetto di blocco del segnale, bypass di autenticazione Laravel e altri 21**  
   Fonte: The Hacker News, 22 Oct 2026, 17:45:44 UTC  
   [Leggi](<https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html>)
-
-- **Arista applica le patch al nuovo VeloCloud Orchestrator zero-day sfruttato negli attacchi**  
-  Fonte: BleepingComputer, 22 Oct 2026, 17:18:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/>)
 
 - **Due difetti CVSS 9.0 Linux KSMBD RCE divulgati nelle mailing list pubbliche prima delle correzioni del kernel**  
   Fonte: The Hacker News, 22 Oct 2026, 17:01:53 UTC  
@@ -266,65 +314,13 @@
   Fonte: Cloudflare Blog - Security, 21 Oct 2026, 13:56:45 UTC  
   [Leggi](<https://blog.cloudflare.com/php-vulnerabilities-waf-protection/>)
 
-- **Google Chrome aggiunge avvisi ClickFix per impedire agli utenti di eseguire comandi dannosi**  
-  Fonte: The Hacker News, 21 Oct 2026, 13:15:09 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html>)
-
-- **China-Aligned Bronze Sandcastle abusa del sideloading DLL Sandboxie per implementare backdoor**  
-  Fonte: The Hacker News, 21 Oct 2026, 12:05:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html>)
-
-- **L’intelligenza artificiale generativa sta cancellando i dati comportamentali, indebolendo il rilevamento basato esclusivamente sul comportamento e i report di prova**  
-  Fonte: The Hacker News, 21 Oct 2026, 11:53:34 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html>)
-
 - **Workshop sull'economia e la sicurezza dell'informazione (WEIS) Archivio**  
   Fonte: Schneier on Security, 21 Oct 2026, 11:02:22 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html>)
-
-- **PHP2Shell: cosa ti protegge effettivamente prima della patch PHP RCE delle 14:00 UTC e cosa no**  
-  Fonte: The Hacker News, 21 Oct 2026, 10:36:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html>)
-
-- **L'imbracatura è la parte difficile del pentesting agentico**  
-  Fonte: The Hacker News, 21 Oct 2026, 10:32:40 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html>)
-
-- **Gli aggressori hanno preso il controllo di oltre 300 relè di uscita Tor per intercettare le connessioni SSH**  
-  Fonte: The Hacker News, 21 Oct 2026, 10:30:27 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html>)
-
-- **PHP2Shell: due difetti critici PHP RCE senza patch (CVSS 9.2) attivano un avviso di sicurezza di emergenza**  
-  Fonte: The Hacker News, 21 Oct 2026, 09:05:17 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html>)
-
-- **Gli aggressori abusano delle chiavi UpdraftCentral per installare backdoor sui siti WordPress**  
-  Fonte: The Hacker News, 21 Oct 2026, 09:01:12 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html>)
-
-- **Gli Stati Uniti ordinano la rimozione di DeepSeek dai sistemi civili federali e vietano nuovi acquisti**  
-  Fonte: The Hacker News, 21 Oct 2026, 08:04:17 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html>)
 
 - **8 certificati eMudhra sono compromessi.Ecco cosa devi sapere**  
   Fonte: Cloudflare Blog - Security, 20 Oct 2026, 22:20:16 UTC  
   [Leggi](<https://blog.cloudflare.com/emudhra-certificate-compromise/>)
 
-- **Possibile nuova Cellebrite iPhone Radio Zero-Day**  
-  Fonte: Schneier on Security, 20 Oct 2026, 11:03:13 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html>)
 
-- **La polizia arresta il sospettato del ransomware Qilin in vacanza, poiché i collegamenti all'hacking Synnovis hanno contribuito alla morte del paziente**  
-  Fonte: Graham Cluley, 20 Oct 2026, 09:41:49 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/qilin-ransomware-arrested-synnovis-patient-death>)
-
-- **I federali sospettano che il negoziatore del riscatto gestisse il sito di estorsione di ShinyHunters**  
-  Fonte: Krebs on Security, 19 Oct 2026, 13:48:56 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/>)
-
-- **Oltre la patch: protezione del gateway NetScaler da future vulnerabilità**  
-  Fonte: Cloudflare Blog - Security, 19 Oct 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/protect-your-netscaler-gateway/>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-26 11:53:14 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-27 11:16:13 UTC -->
