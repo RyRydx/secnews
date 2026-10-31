@@ -2,11 +2,79 @@
 
 ## Ultimi 7 giorni
 
+- **Gli aggressori incatenano tre Ivanti Connect a proteggere le falle per ottenere l'accesso root non autenticato**  
+  Fonte: The Hacker News, 31 Oct 2026, 08:27:43 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html>)
+
+- **Un collegamento ChatGPT condiviso potrebbe eseguire il codice dell'autore dell'attacco nella sessione e leggere le chat private**  
+  Fonte: The Hacker News, 31 Oct 2026, 05:33:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html>)
+
+- **Cloudflare segnala 18,2 milioni di attacchi DDoS a livello di rete nel terzo trimestre, in aumento del 38%**  
+  Fonte: The Hacker News, 31 Oct 2026, 04:56:12 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html>)
+
+- **Un difetto critico del kernel Linux consente attacchi root remoti sui server MPTCP**  
+  Fonte: BleepingComputer, 30 Oct 2026, 21:09:46 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/>)
+
+- **Blog sui calamari del venerdì: calamari pinna grande al largo della costa della California**  
+  Fonte: Schneier on Security, 30 Oct 2026, 21:04:36 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html>)
+
+- **4 reale?Monitoraggio dello sfruttamento e dell’applicazione di patch alle chiavi deboli di eMudhra**  
+  Fonte: Cloudflare Blog - Security, 30 Oct 2026, 17:38:50 UTC  
+  [Leggi](<https://blog.cloudflare.com/emudhra-patching/>)
+
+- **Gli hacker cinesi utilizzano ARTEX basato sull'intelligenza artificiale per colpire oltre 200 organizzazioni in tutto il mondo**  
+  Fonte: The Hacker News, 30 Oct 2026, 16:58:44 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html>)
+
+- **Trezor avverte del sospetto impianto di furto di criptovalute nel portafoglio hardware**  
+  Fonte: BleepingComputer, 30 Oct 2026, 15:58:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/>)
+
+- **Bloatware nei ricambi auto aftermarket**  
+  Fonte: Schneier on Security, 30 Oct 2026, 15:20:02 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html>)
+
+- **Il difetto di TeamViewer consente ai computer remoti di attaccare gli utenti che si connettono per controllarli**  
+  Fonte: The Hacker News, 30 Oct 2026, 15:17:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html>)
+
+- **Estensione dannosa del codice Claude sulle backdoor SSH installate dal cursore**  
+  Fonte: BleepingComputer, 30 Oct 2026, 14:36:54 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/>)
+
+- **WordPress RCE Flaw attira quasi 63.000 tentativi di attacco in sole 24 ore**  
+  Fonte: The Hacker News, 30 Oct 2026, 14:08:14 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html>)
+
+- **SS7 e attacchi di diametro: come i difetti di segnalazione espongono il tuo telefono**  
+  Fonte: BleepingComputer, 30 Oct 2026, 14:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/>)
+
+- **CISA afferma che il difetto GitLab di massima gravità è ora sfruttato in libertà**  
+  Fonte: BleepingComputer, 30 Oct 2026, 13:00:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/>)
+
+- **Trezor avverte di un sospetto impianto hardware in uno dei suoi portafogli venduti da CryptoBilis**  
+  Fonte: The Hacker News, 30 Oct 2026, 12:21:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html>)
+
+- **Perché le correzioni urgenti di sicurezza non vengono risolte.Osservare, provare, agire, confermare li fa muovere**  
+  Fonte: The Hacker News, 30 Oct 2026, 11:58:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html>)
+
 - **Microsoft risolve finalmente i problemi VPN causati dagli aggiornamenti di settembre**  
   Fonte: BleepingComputer, 30 Oct 2026, 11:20:26 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/>)
 
-- **Gli hacker trapelano i dati personali di oltre 41.000 membri del personale della Homeland Security, inclusi l'ICE e gli agenti di frontiera**  
+- **L'hacker siriano dietro il tweet falso che ha provocato un crollo del mercato di 136 miliardi di dollari viene condannato a 42 mesi di prigione**  
+  Fonte: The Hacker News, 30 Oct 2026, 10:40:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html>)
+
+- **Hackers leak personnel data of 41,000+ Homeland Security staff, including ICE and border agents**  
   Fonte: Graham Cluley, 30 Oct 2026, 10:33:50 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-leak-41-000-dhs-staff-data>)
 
@@ -18,7 +86,7 @@
   Fonte: BleepingComputer, 30 Oct 2026, 09:18:13 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/>)
 
-- **L'estensione ufficiale del codice Claude VS è stata compromessa per l'installazione di una backdoor SSH persistente**  
+- **L'estensione ufficiale del codice Claude sul mercato Cursor è stata colpita da un trojan con una backdoor SSH persistente**  
   Fonte: The Hacker News, 30 Oct 2026, 08:55:47 UTC  
   [Leggi](<https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html>)
 
@@ -70,10 +138,6 @@
   Fonte: Graham Cluley, 29 Oct 2026, 17:01:24 UTC  
   [Leggi](<https://www.fortra.com/blog/byod-cyberattack-diverts-ambulances-and-cancels-classes-university-new-mexico-health-center>)
 
-- **Le estensioni di Chrome con 13,4 milioni di installazioni hanno rilevato il dirottamento delle ricerche**  
-  Fonte: BleepingComputer, 29 Oct 2026, 16:10:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/>)
-
 - **Difetto TCP del kernel Linux con punteggio CVSS 9,8 colpisce Ubuntu, Red Hat e altre distribuzioni**  
   Fonte: The Hacker News, 29 Oct 2026, 15:57:05 UTC  
   [Leggi](<https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html>)
@@ -82,18 +146,6 @@
   Fonte: The Hacker News, 29 Oct 2026, 15:20:29 UTC  
   [Leggi](<https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html>)
 
-- **Microsoft risolve gli errori di Desktop remoto causati dai recenti aggiornamenti di Windows**  
-  Fonte: BleepingComputer, 29 Oct 2026, 14:35:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/>)
-
-- **3 modi in cui gli agenti AI funzionano già nel tuo browser**  
-  Fonte: BleepingComputer, 29 Oct 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/>)
-
-- **CISA avverte della falla di Fragnesia Linux concatenata negli attacchi PHP2Shell**  
-  Fonte: BleepingComputer, 29 Oct 2026, 13:59:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/>)
-
 - **Gemini 4 Carbon Leads di Google benchmark per l'individuazione, lo sfruttamento e l'applicazione di patch alle vulnerabilità**  
   Fonte: The Hacker News, 29 Oct 2026, 13:42:40 UTC  
   [Leggi](<https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html>)
@@ -101,10 +153,6 @@
 - **Report Cloudflare sulle minacce DDoS 2026 Q3: più sciami, meno giganti**  
   Fonte: Cloudflare Blog - Security, 29 Oct 2026, 12:55:00 UTC  
   [Leggi](<https://blog.cloudflare.com/ddos-threat-report-2026-q3/>)
-
-- **Aggiornamento Windows 11 KB5127936 rilasciato con 41 modifiche e correzioni**  
-  Fonte: BleepingComputer, 29 Oct 2026, 12:00:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/>)
 
 - **Webinar: come integrare la preparazione alle minacce dell'intelligenza artificiale nelle operazioni di sicurezza**  
   Fonte: The Hacker News, 29 Oct 2026, 11:39:41 UTC  
@@ -226,7 +274,7 @@
   Fonte: The Hacker News, 27 Oct 2026, 13:59:48 UTC  
   [Leggi](<https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html>)
 
-- **Correzione dei backport di Apple per il difetto di CoreGraphics sfruttato su iPhone e iPad meno recenti**  
+- **Correzione dei backport di Apple per il difetto CoreGraphics sfruttato su iPhone e iPad meno recenti**  
   Fonte: The Hacker News, 27 Oct 2026, 13:59:09 UTC  
   [Leggi](<https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html>)
 
@@ -242,7 +290,7 @@
   Fonte: The Hacker News, 27 Oct 2026, 11:46:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html>)
 
-- **Le pagine di accesso false generate dall'intelligenza artificiale stanno rendendo più semplice l'acquisizione degli account**  
+- **Le pagine di accesso false generate dall'intelligenza artificiale stanno rendendo più facile l'acquisizione degli account**  
   Fonte: The Hacker News, 27 Oct 2026, 11:32:46 UTC  
   [Leggi](<https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html>)
 
@@ -250,7 +298,7 @@
   Fonte: The Hacker News, 27 Oct 2026, 11:32:31 UTC  
   [Leggi](<https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html>)
 
-- **Nascondere le capacità nei modelli di intelligenza artificiale**  
+- **Funzionalità nascoste nei modelli di intelligenza artificiale**  
   Fonte: Schneier on Security, 27 Oct 2026, 11:01:26 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html>)
 
@@ -258,61 +306,17 @@
   Fonte: The Hacker News, 27 Oct 2026, 09:33:06 UTC  
   [Leggi](<https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html>)
 
-- **Il difetto di compattazione di OpenAI consente ai ricercatori di aggirare le protezioni del ragionamento nascosto**  
-  Fonte: The Hacker News, 27 Oct 2026, 08:22:43 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html>)
-
 - **Aggiornamento settimanale 527: Notizie Cybergeddon contro Realtà**  
   Fonte: Troy Hunt, 27 Oct 2026, 07:59:09 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-527/>)
 
-- **Gli aggressori dirottano le telecamere IP Dahua in Ucraina utilizzando l'accesso P2P e le debolezze di autenticazione**  
-  Fonte: The Hacker News, 27 Oct 2026, 06:34:47 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html>)
-
-- **CISA conferma lo sfruttamento attivo di due difetti PHP2Shell che consentono l'esecuzione di codice in modalità remota**  
-  Fonte: The Hacker News, 27 Oct 2026, 04:37:59 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html>)
-
-- **Esposizione della cache KV con richieste incrociate nel modello AI Workers GLM-5.3 e la nostra correzione con SGLang**  
+- **Esposizione della cache KV con richieste incrociate nel modello AI GLM-5.3 Workers e nostra correzione con SGLang**  
   Fonte: Cloudflare Blog - Security, 26 Oct 2026, 22:01:23 UTC  
   [Leggi](<https://blog.cloudflare.com/kv-cache-exposure-remediation/>)
-
-- **Gli hacker infettano 953 negozi online con JavaScript che elude gli scanner, principalmente su Magento**  
-  Fonte: The Hacker News, 26 Oct 2026, 18:12:22 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html>)
-
-- **PHP pubblica il secondo aggiornamento di sicurezza di Windows in cinque giorni per correggere il difetto di esecuzione del codice Brotli**  
-  Fonte: The Hacker News, 26 Oct 2026, 17:45:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/php-issues-second-windows-security.html>)
-
-- **Gli aggressori utilizzano le truffe del supporto IT di Microsoft Teams per distribuire malware e ransomware**  
-  Fonte: The Hacker News, 26 Oct 2026, 15:52:40 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html>)
-
-- **⚡ Riepilogo settimanale: This2Shell, That2Shell, tutto è un RCE?IA canaglia, caos nella catena di fornitura e altro ancora**  
-  Fonte: The Hacker News, 26 Oct 2026, 14:06:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html>)
-
-- **Due difetti critici di Wasmtime potrebbero consentire ai moduli WebAssembly dannosi di sfuggire ai sandbox**  
-  Fonte: The Hacker News, 26 Oct 2026, 11:52:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html>)
-
-- **Tra gli avvisi: cosa fanno gli aggressori negli spazi di rilevamento ordinario**  
-  Fonte: The Hacker News, 26 Oct 2026, 11:23:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html>)
 
 - **Bias nel modello Qwen3-Coder**  
   Fonte: Schneier on Security, 26 Oct 2026, 11:03:31 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html>)
 
-- **Blogging sui calamari del venerdì: aumento delle popolazioni di calamari**  
-  Fonte: Schneier on Security, 23 Oct 2026, 21:00:09 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html>)
 
-- **L’hacker fa trapelare 281 GB di dati dal partito di estrema destra tedesco AfD**  
-  Fonte: Graham Cluley, 23 Oct 2026, 12:29:16 UTC  
-  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd>)
-
-
-<!-- Ultimo aggiornamento: 2026-10-30 11:52:54 UTC -->
+<!-- Ultimo aggiornamento: 2026-10-31 11:25:45 UTC -->
