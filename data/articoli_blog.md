@@ -2,6 +2,50 @@
 
 ## Ultimi 7 giorni
 
+- **CVSS 10.0 LXD, MicroCloud Flaw consente agli aggressori di impersonare client fidati senza una chiave privata**  
+  Fonte: The Hacker News, 01 Nov 2026, 08:51:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html>)
+
+- **Aggiornamento settimanale 528: Lettura del codice generato dall'intelligenza artificiale e l'economia del solare**  
+  Fonte: Troy Hunt, 01 Nov 2026, 07:35:23 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-528/>)
+
+- **Gli hacker rubano circa 2,7 milioni di dollari dai commercianti del Polymarket tramite lo script DebugBear dirottato**  
+  Fonte: The Hacker News, 01 Nov 2026, 07:25:40 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html>)
+
+- **L'FBI collega TraderTraitor della Corea del Nord per registrare un furto di criptovalute su Binance da 6,43 miliardi di dollari**  
+  Fonte: The Hacker News, 01 Nov 2026, 07:03:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html>)
+
+- **Il malware NetamLoader prende di mira i sistemi Windows 10 governativi in ​​Asia tramite .NET Injection**  
+  Fonte: The Hacker News, 01 Nov 2026, 07:02:58 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/netamloader-malware-targets-government.html>)
+
+- **La violazione della sicurezza di Northflank porta all'abuso delle chiavi API AI dei clienti**  
+  Fonte: BleepingComputer, 31 Oct 2026, 18:01:12 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/>)
+
+- **Il nuovo exploit Android SMS of Death può mandare in crash da remoto i telefoni senza patch**  
+  Fonte: BleepingComputer, 31 Oct 2026, 15:35:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/>)
+
+- **Reddit per bloccare i contenuti dietro gli accessi per combattere gli scraper**  
+  Fonte: BleepingComputer, 31 Oct 2026, 14:05:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/>)
+
+- **Dal principiante al cacciatore di bug: imparare la sicurezza informatica nell'era dell'intelligenza artificiale.**  
+  Fonte: BleepingComputer, 31 Oct 2026, 13:10:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/>)
+
+- **Chainalysis rivela la violazione dei dati da parte di "tecniche di agenti offensivi"**  
+  Fonte: BleepingComputer, 31 Oct 2026, 12:50:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/>)
+
+- **Chainalysis conferma l'intrusione in strumenti interni e l'esposizione dei dati di identità del cliente**  
+  Fonte: The Hacker News, 31 Oct 2026, 12:01:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html>)
+
 - **Gli aggressori incatenano tre Ivanti Connect a proteggere le falle per ottenere l'accesso root non autenticato**  
   Fonte: The Hacker News, 31 Oct 2026, 08:27:43 UTC  
   [Leggi](<https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html>)
@@ -74,7 +118,7 @@
   Fonte: The Hacker News, 30 Oct 2026, 10:40:45 UTC  
   [Leggi](<https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html>)
 
-- **Hackers leak personnel data of 41,000+ Homeland Security staff, including ICE and border agents**  
+- **Gli hacker trapelano i dati personali di oltre 41.000 membri del personale della Homeland Security, inclusi l'ICE e gli agenti di frontiera**  
   Fonte: Graham Cluley, 30 Oct 2026, 10:33:50 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-leak-41-000-dhs-staff-data>)
 
@@ -110,29 +154,9 @@
   Fonte: BleepingComputer, 29 Oct 2026, 22:45:23 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/>)
 
-- **La campagna malware Hugging Face ritorna per dirottare le GPU per il mining di criptovalute**  
-  Fonte: BleepingComputer, 29 Oct 2026, 22:09:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/>)
-
-- **Japan Airlines subisce una violazione dei dati di terze parti che espone le informazioni dei passeggeri**  
-  Fonte: BleepingComputer, 29 Oct 2026, 22:08:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/>)
-
-- **Polymarket interrompe le negoziazioni dopo una violazione dello script di drenaggio delle criptovalute, tracciati 2,5 milioni di dollari**  
-  Fonte: BleepingComputer, 29 Oct 2026, 21:47:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/>)
-
-- **App di crittografia falsa sull'App Store di Apple collegata al furto di portafoglio da 23.000 dollari**  
-  Fonte: BleepingComputer, 29 Oct 2026, 19:23:41 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/>)
-
 - **ThreatsDay: difetti critici del firewall, trojan bancari noleggiati, PDF armati, furto di token e altre 26 storie**  
   Fonte: The Hacker News, 29 Oct 2026, 19:11:58 UTC  
   [Leggi](<https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html>)
-
-- **Gli hacker sfruttano la falla di Cisco SD-WAN per distribuire malware KeyDrift personalizzato**  
-  Fonte: BleepingComputer, 29 Oct 2026, 18:38:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/>)
 
 - **Un attacco informatico BYOD devia le ambulanze e annulla le lezioni presso il centro sanitario dell'Università del New Mexico**  
   Fonte: Graham Cluley, 29 Oct 2026, 17:01:24 UTC  
@@ -194,7 +218,7 @@
   Fonte: The Hacker News, 29 Oct 2026, 05:50:17 UTC  
   [Leggi](<https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html>)
 
-- **Podcast Smashing Security n. 490: come l'iPhone di Jared Kushner è stato presumibilmente violato due volte**  
+- **Podcast di Smashing Security n. 490: come l'iPhone di Jared Kushner è stato presumibilmente violato due volte**  
   Fonte: Graham Cluley, 29 Oct 2026, 00:16:56 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-490/>)
 
@@ -242,7 +266,7 @@
   Fonte: The Hacker News, 28 Oct 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/american-organizations-under-attack.html>)
 
-- **Il modello di intelligenza artificiale inedito di Anthropic concatena i difetti nel funzionamento degli exploit Chrome, Safari, Windows e Linux**  
+- **Il modello IA inedito di Anthropic concatena difetti nel funzionamento degli exploit Chrome, Safari, Windows e Linux**  
   Fonte: The Hacker News, 28 Oct 2026, 08:15:07 UTC  
   [Leggi](<https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html>)
 
@@ -274,7 +298,7 @@
   Fonte: The Hacker News, 27 Oct 2026, 13:59:48 UTC  
   [Leggi](<https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html>)
 
-- **Correzione dei backport di Apple per il difetto CoreGraphics sfruttato su iPhone e iPad meno recenti**  
+- **Correzione dei backport di Apple per il difetto di CoreGraphics sfruttato su iPhone e iPad meno recenti**  
   Fonte: The Hacker News, 27 Oct 2026, 13:59:09 UTC  
   [Leggi](<https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html>)
 
@@ -282,35 +306,15 @@
   Fonte: Cloudflare Blog - Security, 27 Oct 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/php-ctf/>)
 
-- **Il difetto di Microsoft Authenticator consente alle app Android senza autorizzazione di rubare i token dell'account di lavoro**  
-  Fonte: The Hacker News, 27 Oct 2026, 12:09:50 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html>)
-
-- **Keystone distruggerà 18.835 portafogli hardware dopo che gli hacker hanno rubato la chiave di verifica del dispositivo**  
-  Fonte: The Hacker News, 27 Oct 2026, 11:46:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html>)
-
-- **Le pagine di accesso false generate dall'intelligenza artificiale stanno rendendo più facile l'acquisizione degli account**  
-  Fonte: The Hacker News, 27 Oct 2026, 11:32:46 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html>)
-
-- **Lazarus abusa del software di sicurezza sudcoreano per distribuire malware utilizzando la crittografia post-quantistica**  
-  Fonte: The Hacker News, 27 Oct 2026, 11:32:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html>)
-
 - **Funzionalità nascoste nei modelli di intelligenza artificiale**  
   Fonte: Schneier on Security, 27 Oct 2026, 11:01:26 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html>)
-
-- **L'Australia entra nel backend del malware Amadey e taglia l'accesso a 180.000 computer infetti**  
-  Fonte: The Hacker News, 27 Oct 2026, 09:33:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html>)
 
 - **Aggiornamento settimanale 527: Notizie Cybergeddon contro Realtà**  
   Fonte: Troy Hunt, 27 Oct 2026, 07:59:09 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-527/>)
 
-- **Esposizione della cache KV con richieste incrociate nel modello AI GLM-5.3 Workers e nostra correzione con SGLang**  
+- **Esposizione della cache KV a richiesta incrociata nel modello AI Workers GLM-5.3 e nostra correzione con SGLang**  
   Fonte: Cloudflare Blog - Security, 26 Oct 2026, 22:01:23 UTC  
   [Leggi](<https://blog.cloudflare.com/kv-cache-exposure-remediation/>)
 
@@ -319,4 +323,4 @@
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-10-31 11:25:45 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-01 12:19:01 UTC -->
