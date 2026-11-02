@@ -2,6 +2,58 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft corregge il controllo intelligente delle app interrotto dall'aggiornamento Windows di ottobre**  
+  Fonte: BleepingComputer, 02 Nov 2026, 13:57:29 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/>)
+
+- **Oltre 1.000 server GitLab vulnerabili agli attacchi RCE in corso**  
+  Fonte: BleepingComputer, 02 Nov 2026, 12:47:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/>)
+
+- **Individuazione delle vulnerabilità dell'IA**  
+  Fonte: Schneier on Security, 02 Nov 2026, 12:02:34 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html>)
+
+- **Difetti critici del Langflow potrebbero consentire agli aggressori non autenticati di eseguire codice sui server**  
+  Fonte: The Hacker News, 02 Nov 2026, 11:50:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html>)
+
+- **Il tuo SOC è pronto per gli agenti IA?Un controllo di maturità prima della distribuzione**  
+  Fonte: The Hacker News, 02 Nov 2026, 11:30:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html>)
+
+- **Synology avverte degli attacchi ransomware C3RB3R rivolti ai dispositivi NAS**  
+  Fonte: BleepingComputer, 02 Nov 2026, 11:28:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/>)
+
+- **Gli aggressori si spacciano per supporto IT di Microsoft Teams e abusano di AD CS per rubare dati aziendali**  
+  Fonte: The Hacker News, 02 Nov 2026, 11:08:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html>)
+
+- **Server Linux governativi presi di mira da SysGoRAT e sospetti script generati dall'intelligenza artificiale**  
+  Fonte: The Hacker News, 02 Nov 2026, 10:49:59 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html>)
+
+- **Ivanti corregge altri due zero-day Connect Secure concatenati negli attacchi**  
+  Fonte: BleepingComputer, 02 Nov 2026, 09:33:26 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/>)
+
+- **Il nuovo infostealer VOLTA utilizza l'intelligenza artificiale di Claude, Gemini e Kimi per classificare le vittime in base al valore finanziario**  
+  Fonte: The Hacker News, 02 Nov 2026, 05:51:07 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html>)
+
+- **L'FBI collega la rapina di criptovalute da 6,3 miliardi di dollari su Binance ad hacker nordcoreani**  
+  Fonte: BleepingComputer, 01 Nov 2026, 19:57:53 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/>)
+
+- **Alpine Linux ricostruisce GitLab dopo un tentativo di attacco RCE**  
+  Fonte: BleepingComputer, 01 Nov 2026, 15:11:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/>)
+
+- **OpenAI afferma che raddoppierà i limiti di utilizzo di Pro e porterà le funzionalità di lavoro in Chat**  
+  Fonte: BleepingComputer, 01 Nov 2026, 13:53:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/>)
+
 - **CVSS 10.0 LXD, MicroCloud Flaw consente agli aggressori di impersonare client fidati senza una chiave privata**  
   Fonte: The Hacker News, 01 Nov 2026, 08:51:31 UTC  
   [Leggi](<https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html>)
@@ -10,7 +62,7 @@
   Fonte: Troy Hunt, 01 Nov 2026, 07:35:23 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-528/>)
 
-- **Gli hacker rubano circa 2,7 milioni di dollari dai commercianti del Polymarket tramite lo script DebugBear dirottato**  
+- **Gli hacker rubano circa 2,7 milioni di dollari dai trader del Polymarket tramite lo script DebugBear dirottato**  
   Fonte: The Hacker News, 01 Nov 2026, 07:25:40 UTC  
   [Leggi](<https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html>)
 
@@ -86,21 +138,13 @@
   Fonte: The Hacker News, 30 Oct 2026, 15:17:28 UTC  
   [Leggi](<https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html>)
 
-- **Estensione dannosa del codice Claude sulle backdoor SSH installate dal cursore**  
+- **Estensione dannosa del codice Claude sulle backdoor SSH inserite dal cursore**  
   Fonte: BleepingComputer, 30 Oct 2026, 14:36:54 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/>)
 
 - **WordPress RCE Flaw attira quasi 63.000 tentativi di attacco in sole 24 ore**  
   Fonte: The Hacker News, 30 Oct 2026, 14:08:14 UTC  
   [Leggi](<https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html>)
-
-- **SS7 e attacchi di diametro: come i difetti di segnalazione espongono il tuo telefono**  
-  Fonte: BleepingComputer, 30 Oct 2026, 14:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/>)
-
-- **CISA afferma che il difetto GitLab di massima gravità è ora sfruttato in libertà**  
-  Fonte: BleepingComputer, 30 Oct 2026, 13:00:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/>)
 
 - **Trezor avverte di un sospetto impianto hardware in uno dei suoi portafogli venduti da CryptoBilis**  
   Fonte: The Hacker News, 30 Oct 2026, 12:21:56 UTC  
@@ -110,10 +154,6 @@
   Fonte: The Hacker News, 30 Oct 2026, 11:58:53 UTC  
   [Leggi](<https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html>)
 
-- **Microsoft risolve finalmente i problemi VPN causati dagli aggiornamenti di settembre**  
-  Fonte: BleepingComputer, 30 Oct 2026, 11:20:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/>)
-
 - **L'hacker siriano dietro il tweet falso che ha provocato un crollo del mercato di 136 miliardi di dollari viene condannato a 42 mesi di prigione**  
   Fonte: The Hacker News, 30 Oct 2026, 10:40:45 UTC  
   [Leggi](<https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html>)
@@ -122,19 +162,11 @@
   Fonte: Graham Cluley, 30 Oct 2026, 10:33:50 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-leak-41-000-dhs-staff-data>)
 
-- **Drupal avverte della vulnerabilità critica di Commerce Core sfruttata negli attacchi**  
-  Fonte: BleepingComputer, 30 Oct 2026, 10:16:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/>)
-
-- **Binance collega un furto di criptovalute da 6,3 miliardi di dollari a un laptop DevOps compromesso**  
-  Fonte: BleepingComputer, 30 Oct 2026, 09:18:13 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/>)
-
 - **L'estensione ufficiale del codice Claude sul mercato Cursor è stata colpita da un trojan con una backdoor SSH persistente**  
   Fonte: The Hacker News, 30 Oct 2026, 08:55:47 UTC  
   [Leggi](<https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html>)
 
-- **Gli hacker sfruttano attivamente il difetto estremamente critico del bypass dell'autorizzazione di Drupal Commerce Core**  
+- **Gli hacker sfruttano attivamente il difetto estremamente critico di bypass dell'autorizzazione di Drupal Commerce Core**  
   Fonte: The Hacker News, 30 Oct 2026, 07:45:30 UTC  
   [Leggi](<https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html>)
 
@@ -145,14 +177,6 @@
 - **Binance subisce una violazione della sicurezza che colpisce 6,3 miliardi di dollari di asset, quasi 3 miliardi di dollari congelati**  
   Fonte: The Hacker News, 30 Oct 2026, 04:14:59 UTC  
   [Leggi](<https://thehackernews.com/2026/10/binance-suffers-security-breach.html>)
-
-- **OpenAI raddoppia i limiti di utilizzo di ChatGPT Pro dopo il contraccolpo rispetto al taglio previsto del 50%.**  
-  Fonte: BleepingComputer, 29 Oct 2026, 23:35:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/>)
-
-- **Binance indaga su un potenziale furto di criptovalute da 5,8 miliardi di dollari**  
-  Fonte: BleepingComputer, 29 Oct 2026, 22:45:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/>)
 
 - **ThreatsDay: difetti critici del firewall, trojan bancari noleggiati, PDF armati, furto di token e altre 26 storie**  
   Fonte: The Hacker News, 29 Oct 2026, 19:11:58 UTC  
@@ -198,7 +222,7 @@
   Fonte: The Hacker News, 29 Oct 2026, 10:44:46 UTC  
   [Leggi](<https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html>)
 
-- **GitHub avvia npm Firewall per bloccare i pacchetti dannosi prima dell'installazione**  
+- **GitHub lancia il firewall npm per bloccare i pacchetti dannosi prima dell'installazione**  
   Fonte: The Hacker News, 29 Oct 2026, 10:26:33 UTC  
   [Leggi](<https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html>)
 
@@ -218,7 +242,7 @@
   Fonte: The Hacker News, 29 Oct 2026, 05:50:17 UTC  
   [Leggi](<https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html>)
 
-- **Podcast di Smashing Security n. 490: come l'iPhone di Jared Kushner è stato presumibilmente violato due volte**  
+- **Podcast Smashing Security n. 490: come l'iPhone di Jared Kushner è stato presumibilmente violato due volte**  
   Fonte: Graham Cluley, 29 Oct 2026, 00:16:56 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-490/>)
 
@@ -266,7 +290,7 @@
   Fonte: The Hacker News, 28 Oct 2026, 10:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/10/american-organizations-under-attack.html>)
 
-- **Il modello IA inedito di Anthropic concatena difetti nel funzionamento degli exploit Chrome, Safari, Windows e Linux**  
+- **Il modello di intelligenza artificiale inedito di Anthropic concatena i difetti nel funzionamento degli exploit di Chrome, Safari, Windows e Linux**  
   Fonte: The Hacker News, 28 Oct 2026, 08:15:07 UTC  
   [Leggi](<https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html>)
 
@@ -282,26 +306,6 @@
   Fonte: The Hacker News, 28 Oct 2026, 06:20:37 UTC  
   [Leggi](<https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html>)
 
-- **Oracle PeopleSoft Zero-Day sfruttato da ShinyHunters si rivela essere composto da tre difetti concatenati**  
-  Fonte: The Hacker News, 28 Oct 2026, 06:04:58 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html>)
-
-- **Gli attacchi Adobe Commerce PolyShell violano centinaia di negozi mentre Brotli sfrutta il traffico emergente**  
-  Fonte: The Hacker News, 28 Oct 2026, 05:42:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html>)
-
-- **CyberStrikeAI utilizza 44 agenti IA per automatizzare le operazioni di hacking contro obiettivi giapponesi**  
-  Fonte: The Hacker News, 27 Oct 2026, 18:26:46 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html>)
-
-- **I difetti TLS di GoAhead consentono certificati client revocati e abilitano la decrittografia della sessione**  
-  Fonte: The Hacker News, 27 Oct 2026, 13:59:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html>)
-
-- **Correzione dei backport di Apple per il difetto di CoreGraphics sfruttato su iPhone e iPad meno recenti**  
-  Fonte: The Hacker News, 27 Oct 2026, 13:59:09 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html>)
-
 - **Presentazione della sfida Cloudflare PHP Capture the Flag**  
   Fonte: Cloudflare Blog - Security, 27 Oct 2026, 13:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/php-ctf/>)
@@ -314,13 +318,9 @@
   Fonte: Troy Hunt, 27 Oct 2026, 07:59:09 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-527/>)
 
-- **Esposizione della cache KV a richiesta incrociata nel modello AI Workers GLM-5.3 e nostra correzione con SGLang**  
+- **Esposizione della cache KV con richieste incrociate nel modello AI GLM-5.3 Workers e nostra correzione con SGLang**  
   Fonte: Cloudflare Blog - Security, 26 Oct 2026, 22:01:23 UTC  
   [Leggi](<https://blog.cloudflare.com/kv-cache-exposure-remediation/>)
 
-- **Bias nel modello Qwen3-Coder**  
-  Fonte: Schneier on Security, 26 Oct 2026, 11:03:31 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-11-01 12:19:01 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-02 14:13:05 UTC -->
