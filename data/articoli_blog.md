@@ -2,6 +2,90 @@
 
 ## Ultimi 7 giorni
 
+- **Google aggiunge un nuovo premio VRP cloud da $ 250.000 per i bug Root-in-Cloud**  
+  Fonte: BleepingComputer, 03 Nov 2026, 12:05:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/>)
+
+- **Le IA violano la legge**  
+  Fonte: Schneier on Security, 03 Nov 2026, 12:01:00 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html>)
+
+- **Red Hat corregge il difetto TCP RCE di Linux con classificazione 9.8 mentre Ubuntu rilascia correzioni per i test**  
+  Fonte: The Hacker News, 03 Nov 2026, 11:23:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html>)
+
+- **I 4 elementi per dare priorità all'esposizione e come renderli operativi**  
+  Fonte: The Hacker News, 03 Nov 2026, 11:18:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/the-4-elements-of-exposure.html>)
+
+- **Gli hacker Gorbag ​​allineati alla Russia sfruttano la falla WinRAR per distribuire malware in grado di rubare dati**  
+  Fonte: The Hacker News, 03 Nov 2026, 11:00:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html>)
+
+- **La violazione dei dati dell'Università di Harvard ha rivelato informazioni su 851.000 account**  
+  Fonte: BleepingComputer, 03 Nov 2026, 10:53:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/>)
+
+- **Gli hacker sfruttano il difetto del server BTCPay per rubare Bitcoin e Litecoin dagli Hot Wallet**  
+  Fonte: The Hacker News, 03 Nov 2026, 08:31:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html>)
+
+- **Dispositivi Synology NAS presi di mira da attacchi ransomware che sfruttano il difetto DSM con patch**  
+  Fonte: The Hacker News, 03 Nov 2026, 07:43:07 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html>)
+
+- **Una nuova ondata di attacchi informatici ai sistemi di refrigerazione colpisce i supermercati di tutta Europa, costringendo i negozi a ritirare gli alimenti**  
+  Fonte: The Hacker News, 03 Nov 2026, 07:27:07 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html>)
+
+- **Gli aggressori sfruttano il difetto critico di Siemens IoT2050 per installare backdoor di comando remoto**  
+  Fonte: The Hacker News, 03 Nov 2026, 05:34:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html>)
+
+- **Gli aggressori prendono di mira il difetto del gateway di pagamento crittografico senza patch che può esporre le credenziali del portafoglio**  
+  Fonte: The Hacker News, 03 Nov 2026, 05:34:37 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/attackers-target-unpatched.html>)
+
+- **Le aziende tecnologiche smantellano la botnet che ha trasformato 1,3 milioni di TV Box in proxy**  
+  Fonte: Krebs on Security, 03 Nov 2026, 02:24:31 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/>)
+
+- **Gli hacker cinesi utilizzano ARTEX AI in attacchi automatizzati contro 200 organizzazioni**  
+  Fonte: BleepingComputer, 02 Nov 2026, 21:40:14 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/>)
+
+- **La piattaforma fintech Sageworks è stata messa offline dopo un sospetto attacco informatico**  
+  Fonte: BleepingComputer, 02 Nov 2026, 19:00:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/>)
+
+- **Google interrompe la botnet malware Android XCPE che conta milioni di dispositivi e vieta il produttore di TV box**  
+  Fonte: BleepingComputer, 02 Nov 2026, 18:16:34 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/>)
+
+- **⚡ Riepilogo settimanale: CVE critici, botnet DDoS Linux, phishing con codice dispositivo, spyware Android e altro ancora**  
+  Fonte: The Hacker News, 02 Nov 2026, 16:57:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html>)
+
+- **Google interrompe 1,3 milioni di botnet Android, afferma che TV Box Maker ha venduto accesso criminale**  
+  Fonte: The Hacker News, 02 Nov 2026, 15:50:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/google-disrupts-13-million-device.html>)
+
+- **BTCPay Server avvisa dei furti di criptovalute dell'hot wallet su istanze obsolete**  
+  Fonte: BleepingComputer, 02 Nov 2026, 15:03:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/>)
+
+- **Il tuo operatore di telefonia mobile memorizza i registri delle chiamate per anni**  
+  Fonte: BleepingComputer, 02 Nov 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/>)
+
+- **DarkBlinders compromette l'obiettivo israeliano e l'ambiente cloud del governo curdo iracheno**  
+  Fonte: The Hacker News, 02 Nov 2026, 14:46:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html>)
+
+- **Gli hacker interrompono i sistemi di refrigerazione nei supermercati europei**  
+  Fonte: BleepingComputer, 02 Nov 2026, 14:28:39 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/>)
+
 - **Microsoft corregge il controllo intelligente delle app interrotto dall'aggiornamento Windows di ottobre**  
   Fonte: BleepingComputer, 02 Nov 2026, 13:57:29 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/>)
@@ -14,7 +98,7 @@
   Fonte: Schneier on Security, 02 Nov 2026, 12:02:34 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html>)
 
-- **Difetti critici del Langflow potrebbero consentire agli aggressori non autenticati di eseguire codice sui server**  
+- **Difetti critici di Langflow potrebbero consentire agli aggressori non autenticati di eseguire codice sui server**  
   Fonte: The Hacker News, 02 Nov 2026, 11:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html>)
 
@@ -62,7 +146,7 @@
   Fonte: Troy Hunt, 01 Nov 2026, 07:35:23 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-528/>)
 
-- **Gli hacker rubano circa 2,7 milioni di dollari dai trader del Polymarket tramite lo script DebugBear dirottato**  
+- **Gli hacker rubano circa 2,7 milioni di dollari dai commercianti del Polymarket tramite lo script DebugBear dirottato**  
   Fonte: The Hacker News, 01 Nov 2026, 07:25:40 UTC  
   [Leggi](<https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html>)
 
@@ -73,26 +157,6 @@
 - **Il malware NetamLoader prende di mira i sistemi Windows 10 governativi in ​​Asia tramite .NET Injection**  
   Fonte: The Hacker News, 01 Nov 2026, 07:02:58 UTC  
   [Leggi](<https://thehackernews.com/2026/11/netamloader-malware-targets-government.html>)
-
-- **La violazione della sicurezza di Northflank porta all'abuso delle chiavi API AI dei clienti**  
-  Fonte: BleepingComputer, 31 Oct 2026, 18:01:12 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/>)
-
-- **Il nuovo exploit Android SMS of Death può mandare in crash da remoto i telefoni senza patch**  
-  Fonte: BleepingComputer, 31 Oct 2026, 15:35:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/>)
-
-- **Reddit per bloccare i contenuti dietro gli accessi per combattere gli scraper**  
-  Fonte: BleepingComputer, 31 Oct 2026, 14:05:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/>)
-
-- **Dal principiante al cacciatore di bug: imparare la sicurezza informatica nell'era dell'intelligenza artificiale.**  
-  Fonte: BleepingComputer, 31 Oct 2026, 13:10:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/>)
-
-- **Chainalysis rivela la violazione dei dati da parte di "tecniche di agenti offensivi"**  
-  Fonte: BleepingComputer, 31 Oct 2026, 12:50:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/>)
 
 - **Chainalysis conferma l'intrusione in strumenti interni e l'esposizione dei dati di identità del cliente**  
   Fonte: The Hacker News, 31 Oct 2026, 12:01:56 UTC  
@@ -110,10 +174,6 @@
   Fonte: The Hacker News, 31 Oct 2026, 04:56:12 UTC  
   [Leggi](<https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html>)
 
-- **Un difetto critico del kernel Linux consente attacchi root remoti sui server MPTCP**  
-  Fonte: BleepingComputer, 30 Oct 2026, 21:09:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/>)
-
 - **Blog sui calamari del venerdì: calamari pinna grande al largo della costa della California**  
   Fonte: Schneier on Security, 30 Oct 2026, 21:04:36 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html>)
@@ -126,10 +186,6 @@
   Fonte: The Hacker News, 30 Oct 2026, 16:58:44 UTC  
   [Leggi](<https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html>)
 
-- **Trezor avverte del sospetto impianto di furto di criptovalute nel portafoglio hardware**  
-  Fonte: BleepingComputer, 30 Oct 2026, 15:58:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/>)
-
 - **Bloatware nei ricambi auto aftermarket**  
   Fonte: Schneier on Security, 30 Oct 2026, 15:20:02 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html>)
@@ -137,10 +193,6 @@
 - **Il difetto di TeamViewer consente ai computer remoti di attaccare gli utenti che si connettono per controllarli**  
   Fonte: The Hacker News, 30 Oct 2026, 15:17:28 UTC  
   [Leggi](<https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html>)
-
-- **Estensione dannosa del codice Claude sulle backdoor SSH inserite dal cursore**  
-  Fonte: BleepingComputer, 30 Oct 2026, 14:36:54 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/>)
 
 - **WordPress RCE Flaw attira quasi 63.000 tentativi di attacco in sole 24 ore**  
   Fonte: The Hacker News, 30 Oct 2026, 14:08:14 UTC  
@@ -222,7 +274,7 @@
   Fonte: The Hacker News, 29 Oct 2026, 10:44:46 UTC  
   [Leggi](<https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html>)
 
-- **GitHub lancia il firewall npm per bloccare i pacchetti dannosi prima dell'installazione**  
+- **GitHub avvia npm Firewall per bloccare i pacchetti dannosi prima dell'installazione**  
   Fonte: The Hacker News, 29 Oct 2026, 10:26:33 UTC  
   [Leggi](<https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html>)
 
@@ -254,73 +306,13 @@
   Fonte: The Hacker News, 28 Oct 2026, 17:08:09 UTC  
   [Leggi](<https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html>)
 
-- **Un ricercatore rivela come i soli bug logici abbiano crackato Microsoft Edge in una vincita Pwn2Own da $ 175.000**  
-  Fonte: The Hacker News, 28 Oct 2026, 16:23:34 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html>)
-
-- **L'attacco PHP2Shell blocca 25 server e viola la rete affiliata al governo degli Stati Uniti**  
-  Fonte: The Hacker News, 28 Oct 2026, 16:02:45 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html>)
-
 - **L'affiliato del ransomware Hive è stato incarcerato, anni dopo che l'FBI si era infiltrato nei sistemi della banda**  
   Fonte: Graham Cluley, 28 Oct 2026, 15:27:15 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/hive-ransomware-jailed-fbi-infiltrated>)
-
-- **Gli hacker prendono di mira i difetti critici di Oracle E-Business Suite RCE giorni dopo la patch di sicurezza**  
-  Fonte: The Hacker News, 28 Oct 2026, 12:48:03 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html>)
-
-- **Un grave difetto UEFI vecchio di 16 anni può eseguire il codice prima dell'avvio sicuro sui server con avvio dalla rete**  
-  Fonte: The Hacker News, 28 Oct 2026, 11:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html>)
-
-- **Wazuh e intelligenza artificiale per flussi di lavoro SOC avanzati**  
-  Fonte: The Hacker News, 28 Oct 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html>)
-
-- **Adobe risolve 8 difetti critici classici della campagna che consentono l'esecuzione di codice e l'elusione della sicurezza**  
-  Fonte: The Hacker News, 28 Oct 2026, 11:15:51 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html>)
 
 - **Studio dei lavoratori IT fraudolenti della Corea del Nord**  
   Fonte: Schneier on Security, 28 Oct 2026, 11:05:00 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html>)
 
-- **Organizzazioni americane sotto attacco: smascherata la campagna di phishing del codice del dispositivo Skyw4lker**  
-  Fonte: The Hacker News, 28 Oct 2026, 10:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/american-organizations-under-attack.html>)
 
-- **Il modello di intelligenza artificiale inedito di Anthropic concatena i difetti nel funzionamento degli exploit di Chrome, Safari, Windows e Linux**  
-  Fonte: The Hacker News, 28 Oct 2026, 08:15:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html>)
-
-- **L'FBI sequestra il dominio Virtualine per presunto hosting criminale e riciclaggio di denaro Bitcoin**  
-  Fonte: The Hacker News, 28 Oct 2026, 07:37:50 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html>)
-
-- **L'OGM giapponese offre una taglia di 1 milione di dollari per catturare gli hacker dietro la violazione del FX Trading Cloud**  
-  Fonte: The Hacker News, 28 Oct 2026, 07:13:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html>)
-
-- **Tailscale corregge i difetti SSH che potrebbero consentire ai dispositivi compromessi di ottenere l'accesso root su altri server**  
-  Fonte: The Hacker News, 28 Oct 2026, 06:20:37 UTC  
-  [Leggi](<https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html>)
-
-- **Presentazione della sfida Cloudflare PHP Capture the Flag**  
-  Fonte: Cloudflare Blog - Security, 27 Oct 2026, 13:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/php-ctf/>)
-
-- **Funzionalità nascoste nei modelli di intelligenza artificiale**  
-  Fonte: Schneier on Security, 27 Oct 2026, 11:01:26 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html>)
-
-- **Aggiornamento settimanale 527: Notizie Cybergeddon contro Realtà**  
-  Fonte: Troy Hunt, 27 Oct 2026, 07:59:09 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-527/>)
-
-- **Esposizione della cache KV con richieste incrociate nel modello AI GLM-5.3 Workers e nostra correzione con SGLang**  
-  Fonte: Cloudflare Blog - Security, 26 Oct 2026, 22:01:23 UTC  
-  [Leggi](<https://blog.cloudflare.com/kv-cache-exposure-remediation/>)
-
-
-<!-- Ultimo aggiornamento: 2026-11-02 14:13:05 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-03 13:16:17 UTC -->
