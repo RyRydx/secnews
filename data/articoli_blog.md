@@ -2,6 +2,66 @@
 
 ## Ultimi 7 giorni
 
+- **Il file "Don't Ask Again" di Claude Code espone password e chiavi in ​​1.122 copie pubbliche su GitHub**  
+  Fonte: The Hacker News, 07 Nov 2026, 06:44:17 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html>)
+
+- **SonicWall avverte di una nuova falla di bypass MFA SSL-VPN sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 07 Nov 2026, 00:00:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/>)
+
+- **Agente di hacking AI in fuga dietro la violazione di WorkOS dopo essere fuggito dalla sandbox**  
+  Fonte: BleepingComputer, 06 Nov 2026, 22:27:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/>)
+
+- **Blog sui calamari del venerdì: nuovi predecessori dei calamari giurassici**  
+  Fonte: Schneier on Security, 06 Nov 2026, 22:05:12 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html>)
+
+- **La nuova Cyber ​​AI GPT-6 di OpenAI rileva 81 difetti di Firefox e 948 bug di Linux**  
+  Fonte: BleepingComputer, 06 Nov 2026, 20:24:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/>)
+
+- **Strumenti di sicurezza falsi su GitHub spingono backdoor e infostealer**  
+  Fonte: BleepingComputer, 06 Nov 2026, 18:46:52 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/>)
+
+- **QNAP afferma che gli hacker hanno violato i dispositivi NAS con attacchi Plex2Shell**  
+  Fonte: BleepingComputer, 06 Nov 2026, 17:04:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/>)
+
+- **L'installazione della correzione per un difetto di WordPress sfruttato può esporre alcuni siti un'ultima volta**  
+  Fonte: The Hacker News, 06 Nov 2026, 16:08:38 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html>)
+
+- **Veeam avvisa in caso di errori di avvio dell'appliance software sugli host AMD EPYC**  
+  Fonte: BleepingComputer, 06 Nov 2026, 15:25:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/>)
+
+- **Gli hacker prendono di mira il difetto SSHole di OpenSSH entro poche ore dalla divulgazione e ottengono il root su Honeypot**  
+  Fonte: The Hacker News, 06 Nov 2026, 15:21:49 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html>)
+
+- **IMSI vs IMEI: cosa trasmette il tuo telefono e chi può leggerlo**  
+  Fonte: BleepingComputer, 06 Nov 2026, 15:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/>)
+
+- **OpenAI lancia GPT-6 Cyber ​​dopo che l'intelligenza artificiale ha aiutato a trovare 81 difetti di Firefox e 948 exploit di Linux**  
+  Fonte: The Hacker News, 06 Nov 2026, 14:58:32 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html>)
+
+- **Individuazione della posizione dei video dai suoni di sottofondo degli aerei**  
+  Fonte: Schneier on Security, 06 Nov 2026, 14:57:48 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html>)
+
+- **Chainalysis afferma che le credenziali esposte di tutti i clienti vengono violate**  
+  Fonte: BleepingComputer, 06 Nov 2026, 14:17:07 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/>)
+
+- **Il futuro post-quantistico della privacy sul web**  
+  Fonte: Cloudflare Blog - Security, 06 Nov 2026, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/vole-mole/>)
+
 - **D-Link segnala la presenza di più giorni zero negli switch della serie DGS-3130**  
   Fonte: BleepingComputer, 06 Nov 2026, 12:37:22 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/>)
@@ -62,21 +122,9 @@
   Fonte: The Hacker News, 05 Nov 2026, 16:42:46 UTC  
   [Leggi](<https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html>)
 
-- **I ricercatori bypassano la modalità di blocco di ChatGPT per estrarre le chat senza interazione con l'utente**  
+- **I ricercatori bypassano la modalità di blocco di ChatGPT per estrarre le chat senza l'interazione dell'utente**  
   Fonte: The Hacker News, 05 Nov 2026, 16:42:32 UTC  
   [Leggi](<https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html>)
-
-- **Gli hacker eseguono backdoor sui server Linux utilizzando il server Web CWP con trojan**  
-  Fonte: BleepingComputer, 05 Nov 2026, 16:24:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/>)
-
-- **La violazione dei dati di DigiCert espone informazioni sui clienti e documenti di identità**  
-  Fonte: BleepingComputer, 05 Nov 2026, 16:12:46 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/>)
-
-- **Colmare il divario di identità al Service Desk**  
-  Fonte: BleepingComputer, 05 Nov 2026, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/>)
 
 - **ThreatsDay: Apache OFBiz RCE, violazione di DreamHost, dirottamenti di siti DeFi e altre 17 storie**  
   Fonte: The Hacker News, 05 Nov 2026, 14:41:10 UTC  
@@ -93,10 +141,6 @@
 - **5 minacce informatiche attive che mettono a rischio le imprese statunitensi nell'ottobre 2026**  
   Fonte: The Hacker News, 05 Nov 2026, 10:06:19 UTC  
   [Leggi](<https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html>)
-
-- **Il difetto di GhostMap Android consente alle app dannose di attivare un ciclo di avvio persistente**  
-  Fonte: BleepingComputer, 05 Nov 2026, 09:18:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/>)
 
 - **Apple inizierà a scansionare foto e file iCloud condivisi pubblicamente alla ricerca di contenuti dannosi**  
   Fonte: The Hacker News, 05 Nov 2026, 09:13:28 UTC  
@@ -122,27 +166,11 @@
   Fonte: Graham Cluley, 05 Nov 2026, 00:15:11 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-491/>)
 
-- **Vercel lancia una nuova protezione contro gli attacchi di cookie di sessione rubati**  
-  Fonte: BleepingComputer, 04 Nov 2026, 21:31:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/>)
-
-- **Zyxel corregge gli attacchi zero-day sfruttati per hackerare quasi 1.000 switch di rete**  
-  Fonte: BleepingComputer, 04 Nov 2026, 20:58:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/>)
-
-- **DreamHost conferma gli accessi FTP e le sessioni webmail esposti alla violazione dei dati**  
-  Fonte: BleepingComputer, 04 Nov 2026, 19:05:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/>)
-
-- **Un attacco informatico interrompe i sistemi di refrigerazione per la conservazione del sangue in Francia**  
-  Fonte: BleepingComputer, 04 Nov 2026, 18:02:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/>)
-
 - **Il difetto APT di Debian e Ubuntu consente agli aggressori MitM di scambiare pacchetti verificati ed eseguire codice come root**  
   Fonte: The Hacker News, 04 Nov 2026, 17:00:46 UTC  
   [Leggi](<https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html>)
 
-- **SonicWall non risolverà i difetti EoL GMS che potrebbero esporre file e alterare i record del database**  
+- **SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records**  
   Fonte: The Hacker News, 04 Nov 2026, 17:00:38 UTC  
   [Leggi](<https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html>)
 
@@ -270,7 +298,7 @@
   Fonte: Schneier on Security, 02 Nov 2026, 12:02:34 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html>)
 
-- **Difetti critici di Langflow potrebbero consentire agli aggressori non autenticati di eseguire codice sui server**  
+- **Difetti critici del Langflow potrebbero consentire agli aggressori non autenticati di eseguire codice sui server**  
   Fonte: The Hacker News, 02 Nov 2026, 11:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html>)
 
@@ -278,37 +306,9 @@
   Fonte: The Hacker News, 02 Nov 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html>)
 
-- **Gli aggressori si spacciano per supporto IT di Microsoft Teams e abusano di AD CS per rubare dati aziendali**  
-  Fonte: The Hacker News, 02 Nov 2026, 11:08:45 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html>)
-
-- **Server Linux governativi presi di mira da SysGoRAT e sospetti script generati dall'intelligenza artificiale**  
-  Fonte: The Hacker News, 02 Nov 2026, 10:49:59 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html>)
-
-- **Il nuovo infostealer VOLTA utilizza l'intelligenza artificiale di Claude, Gemini e Kimi per classificare le vittime in base al valore finanziario**  
-  Fonte: The Hacker News, 02 Nov 2026, 05:51:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html>)
-
-- **CVSS 10.0 LXD, MicroCloud Flaw consente agli aggressori di impersonare client fidati senza una chiave privata**  
-  Fonte: The Hacker News, 01 Nov 2026, 08:51:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html>)
-
 - **Aggiornamento settimanale 528: Lettura del codice generato dall'intelligenza artificiale e l'economia del solare**  
   Fonte: Troy Hunt, 01 Nov 2026, 07:35:23 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-528/>)
 
-- **Blog sui calamari del venerdì: calamari pinna grande al largo della costa della California**  
-  Fonte: Schneier on Security, 30 Oct 2026, 21:04:36 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html>)
 
-- **4 reale?Monitoraggio dello sfruttamento e dell’applicazione di patch alle chiavi deboli di eMudhra**  
-  Fonte: Cloudflare Blog - Security, 30 Oct 2026, 17:38:50 UTC  
-  [Leggi](<https://blog.cloudflare.com/emudhra-patching/>)
-
-- **Bloatware nei ricambi auto aftermarket**  
-  Fonte: Schneier on Security, 30 Oct 2026, 15:20:02 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-11-06 13:27:26 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-07 12:07:00 UTC -->
