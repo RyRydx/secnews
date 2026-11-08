@@ -2,6 +2,14 @@
 
 ## Ultimi 7 giorni
 
+- **Gli hacker riescono a mettere a segno una rapina da 133 milioni di dollari in una banca francese tramite un fornitore di servizi**  
+  Fonte: BleepingComputer, 07 Nov 2026, 15:25:35 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/>)
+
+- **CTM360 denuncia le truffe relative alle carte regalo false che sfruttano marchi affidabili**  
+  Fonte: BleepingComputer, 07 Nov 2026, 14:10:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/>)
+
 - **Il file "Don't Ask Again" di Claude Code espone password e chiavi in ​​1.122 copie pubbliche su GitHub**  
   Fonte: The Hacker News, 07 Nov 2026, 06:44:17 UTC  
   [Leggi](<https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html>)
@@ -106,14 +114,6 @@
   Fonte: BleepingComputer, 05 Nov 2026, 20:15:08 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/>)
 
-- **Il GPT-6 Astra di OpenAI ha silenziosamente ostacolato le attività di ricerca sulla sicurezza**  
-  Fonte: BleepingComputer, 05 Nov 2026, 19:24:26 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/>)
-
-- **La falla OpenSSH consente agli aggressori di accedere ad account Linux disabilitati con password**  
-  Fonte: BleepingComputer, 05 Nov 2026, 17:45:29 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/>)
-
 - **Gli agenti non sono umani (ma in un certo senso lo sono)**  
   Fonte: Cloudflare Blog - Security, 05 Nov 2026, 17:03:04 UTC  
   [Leggi](<https://blog.cloudflare.com/trusted-agent-delegation/>)
@@ -122,7 +122,7 @@
   Fonte: The Hacker News, 05 Nov 2026, 16:42:46 UTC  
   [Leggi](<https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html>)
 
-- **I ricercatori bypassano la modalità di blocco di ChatGPT per estrarre le chat senza l'interazione dell'utente**  
+- **I ricercatori bypassano la modalità di blocco di ChatGPT per estrarre le chat senza interazione con l'utente**  
   Fonte: The Hacker News, 05 Nov 2026, 16:42:32 UTC  
   [Leggi](<https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html>)
 
@@ -134,7 +134,7 @@
   Fonte: The Hacker News, 05 Nov 2026, 12:25:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/is-your-exposure-management-platform.html>)
 
-- **La pipeline AI di OpenAI genera 948 exploit di escalation root Linux in 30 ore**  
+- **La pipeline AI di OpenAI genera 948 exploit di root escalation di Linux in 30 ore**  
   Fonte: The Hacker News, 05 Nov 2026, 12:08:54 UTC  
   [Leggi](<https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html>)
 
@@ -170,7 +170,7 @@
   Fonte: The Hacker News, 04 Nov 2026, 17:00:46 UTC  
   [Leggi](<https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html>)
 
-- **SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records**  
+- **SonicWall non risolverà i difetti EoL GMS che potrebbero esporre file e alterare i record del database**  
   Fonte: The Hacker News, 04 Nov 2026, 17:00:38 UTC  
   [Leggi](<https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html>)
 
@@ -254,7 +254,7 @@
   Fonte: The Hacker News, 03 Nov 2026, 11:18:20 UTC  
   [Leggi](<https://thehackernews.com/2026/11/the-4-elements-of-exposure.html>)
 
-- **Gli hacker Gorbag ​​allineati alla Russia sfruttano la falla WinRAR per diffondere malware in grado di rubare dati**  
+- **Gli hacker Gorbag ​​allineati alla Russia sfruttano la falla WinRAR per distribuire malware in grado di rubare dati**  
   Fonte: The Hacker News, 03 Nov 2026, 11:00:45 UTC  
   [Leggi](<https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html>)
 
@@ -298,7 +298,7 @@
   Fonte: Schneier on Security, 02 Nov 2026, 12:02:34 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html>)
 
-- **Difetti critici del Langflow potrebbero consentire agli aggressori non autenticati di eseguire codice sui server**  
+- **Difetti critici di Langflow potrebbero consentire agli aggressori non autenticati di eseguire codice sui server**  
   Fonte: The Hacker News, 02 Nov 2026, 11:50:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html>)
 
@@ -306,9 +306,5 @@
   Fonte: The Hacker News, 02 Nov 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html>)
 
-- **Aggiornamento settimanale 528: Lettura del codice generato dall'intelligenza artificiale e l'economia del solare**  
-  Fonte: Troy Hunt, 01 Nov 2026, 07:35:23 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-528/>)
 
-
-<!-- Ultimo aggiornamento: 2026-11-07 12:07:00 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-08 12:27:59 UTC -->
