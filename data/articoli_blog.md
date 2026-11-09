@@ -2,6 +2,58 @@
 
 ## Ultimi 7 giorni
 
+- **L'agente dell'FBI ha rubato 2,5 milioni di dollari in criptovalute agli hacker sotto inchiesta**  
+  Fonte: BleepingComputer, 09 Nov 2026, 14:34:03 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/>)
+
+- **Gli Stati Uniti vietano lo scambio di criptovalute MEXC per evasione delle sanzioni e collegamenti con la criminalità informatica**  
+  Fonte: BleepingComputer, 09 Nov 2026, 13:28:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/>)
+
+- **⚡ Riepilogo settimanale: SSHole sfruttato, RCE root APT, acquisizioni di robot, 15.000 siti compromessi e altro ancora**  
+  Fonte: The Hacker News, 09 Nov 2026, 13:28:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html>)
+
+- **L'Ucraina smantella la rete di truffe crittografiche che ha rubato 4,3 milioni di euro**  
+  Fonte: BleepingComputer, 09 Nov 2026, 12:16:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/>)
+
+- **Sicurezza dell'intelligenza artificiale**  
+  Fonte: Schneier on Security, 09 Nov 2026, 12:05:39 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/11/ai-security.html>)
+
+- **La password predefinita del server "admin:admin" aiuta i ricercatori ad hackerare due case automobilistiche, sbloccare e avviare automobili**  
+  Fonte: The Hacker News, 09 Nov 2026, 11:27:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/default-adminadmin-server-password.html>)
+
+- **Difetto Web3Auth sfruttato per rubare criptovalute Keplr, il provider svuota altri portafogli per sicurezza**  
+  Fonte: The Hacker News, 09 Nov 2026, 10:56:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html>)
+
+- **LNbits esorta tutti gli operatori a chiudere i propri server Bitcoin Lightning Wallet durante gli attacchi**  
+  Fonte: The Hacker News, 09 Nov 2026, 10:01:21 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html>)
+
+- **Un hacker con sede a Taiwan ha utilizzato gli agenti IA BOSSAI per rubare i registri delle spedizioni di emergenza di Taipei**  
+  Fonte: The Hacker News, 09 Nov 2026, 09:01:50 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html>)
+
+- **L'ex ingegnere di OpenAI si dichiara non colpevole di aver installato un dispositivo nascosto nella sala riunioni dei dirigenti**  
+  Fonte: The Hacker News, 09 Nov 2026, 07:05:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html>)
+
+- **Le agenzie statunitensi avvertono che gli attacchi ai controllori di refrigerazione potrebbero causare incendi e perdite di inventario**  
+  Fonte: The Hacker News, 09 Nov 2026, 06:15:10 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html>)
+
+- **CISA segnala SonicWall SonicOS MFA bypassa il difetto tra le segnalazioni di possibile sfruttamento**  
+  Fonte: The Hacker News, 09 Nov 2026, 06:05:24 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html>)
+
+- **La violazione del data cloud di Iris Ohyama espone le informazioni di 7,7 milioni di clienti**  
+  Fonte: BleepingComputer, 08 Nov 2026, 15:43:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/>)
+
 - **Gli hacker riescono a mettere a segno una rapina da 133 milioni di dollari in una banca francese tramite un fornitore di servizi**  
   Fonte: BleepingComputer, 07 Nov 2026, 15:25:35 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/>)
@@ -58,7 +110,7 @@
   Fonte: The Hacker News, 06 Nov 2026, 14:58:32 UTC  
   [Leggi](<https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html>)
 
-- **Individuazione della posizione dei video dai suoni di sottofondo degli aerei**  
+- **Individuazione della posizione dei video dai suoni dell'aereo in sottofondo**  
   Fonte: Schneier on Security, 06 Nov 2026, 14:57:48 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html>)
 
@@ -86,10 +138,6 @@
   Fonte: The Hacker News, 06 Nov 2026, 11:30:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html>)
 
-- **MetaMask afferma che il recente attacco non ha influenzato l'infrastruttura del portafoglio**  
-  Fonte: BleepingComputer, 06 Nov 2026, 09:22:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/>)
-
 - **La violazione di Chainalysis espone le credenziali di tutti gli utenti e impone l'arresto dei servizi chiave**  
   Fonte: The Hacker News, 06 Nov 2026, 08:04:49 UTC  
   [Leggi](<https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html>)
@@ -101,18 +149,6 @@
 - **Gli esperti dimostrano la catena Barracuda Email Security Gateway che consente l'accesso root senza login**  
   Fonte: The Hacker News, 06 Nov 2026, 05:39:10 UTC  
   [Leggi](<https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html>)
-
-- **FBI e CISA avvertono di attacchi informatici contro impianti di refrigerazione**  
-  Fonte: BleepingComputer, 06 Nov 2026, 00:56:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/>)
-
-- **Eventi OpenAI falsi e SpaceX utilizzati per rubare account Microsoft e Google**  
-  Fonte: BleepingComputer, 05 Nov 2026, 21:30:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/>)
-
-- **Quasi 1,5 milioni di segreti esposti presi di mira dal nuovo programma di revoca**  
-  Fonte: BleepingComputer, 05 Nov 2026, 20:15:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/>)
 
 - **Gli agenti non sono umani (ma in un certo senso lo sono)**  
   Fonte: Cloudflare Blog - Security, 05 Nov 2026, 17:03:04 UTC  
@@ -254,7 +290,7 @@
   Fonte: The Hacker News, 03 Nov 2026, 11:18:20 UTC  
   [Leggi](<https://thehackernews.com/2026/11/the-4-elements-of-exposure.html>)
 
-- **Gli hacker Gorbag ​​allineati alla Russia sfruttano la falla WinRAR per distribuire malware in grado di rubare dati**  
+- **Gli hacker Gorbag ​​allineati alla Russia sfruttano la falla WinRAR per diffondere malware in grado di rubare dati**  
   Fonte: The Hacker News, 03 Nov 2026, 11:00:45 UTC  
   [Leggi](<https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html>)
 
@@ -266,45 +302,9 @@
   Fonte: The Hacker News, 03 Nov 2026, 07:43:07 UTC  
   [Leggi](<https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html>)
 
-- **Una nuova ondata di attacchi informatici ai sistemi di refrigerazione colpisce i supermercati di tutta Europa, costringendo i negozi a ritirare gli alimenti**  
-  Fonte: The Hacker News, 03 Nov 2026, 07:27:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html>)
-
-- **Gli aggressori sfruttano il difetto critico di Siemens IoT2050 per installare backdoor di comando remoto**  
-  Fonte: The Hacker News, 03 Nov 2026, 05:34:41 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html>)
-
-- **Gli aggressori prendono di mira il difetto del gateway di pagamento crittografico senza patch che può esporre le credenziali del portafoglio**  
-  Fonte: The Hacker News, 03 Nov 2026, 05:34:37 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/attackers-target-unpatched.html>)
-
 - **Le aziende tecnologiche smantellano la botnet che ha trasformato 1,3 milioni di TV Box in proxy**  
   Fonte: Krebs on Security, 03 Nov 2026, 02:24:31 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/>)
 
-- **⚡ Riepilogo settimanale: CVE critici, botnet DDoS Linux, phishing con codice dispositivo, spyware Android e altro ancora**  
-  Fonte: The Hacker News, 02 Nov 2026, 16:57:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html>)
 
-- **Google interrompe 1,3 milioni di botnet Android, afferma che TV Box Maker ha venduto accesso criminale**  
-  Fonte: The Hacker News, 02 Nov 2026, 15:50:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/google-disrupts-13-million-device.html>)
-
-- **DarkBlinders compromette l'obiettivo israeliano e l'ambiente cloud del governo curdo iracheno**  
-  Fonte: The Hacker News, 02 Nov 2026, 14:46:05 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html>)
-
-- **Individuazione delle vulnerabilità dell'IA**  
-  Fonte: Schneier on Security, 02 Nov 2026, 12:02:34 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html>)
-
-- **Difetti critici di Langflow potrebbero consentire agli aggressori non autenticati di eseguire codice sui server**  
-  Fonte: The Hacker News, 02 Nov 2026, 11:50:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html>)
-
-- **Il tuo SOC è pronto per gli agenti IA?Un controllo di maturità prima della distribuzione**  
-  Fonte: The Hacker News, 02 Nov 2026, 11:30:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-11-08 12:27:59 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-09 14:42:27 UTC -->
