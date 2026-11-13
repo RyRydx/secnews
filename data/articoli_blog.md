@@ -2,6 +2,114 @@
 
 ## Ultimi 7 giorni
 
+- **Microsoft afferma che gli aggiornamenti di sicurezza di novembre causano problemi di stampa**  
+  Fonte: BleepingComputer, 13 Nov 2026, 12:27:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/>)
+
+- **L’intelligenza artificiale non deve diventare un ladro per distruggere il mondo**  
+  Fonte: Schneier on Security, 13 Nov 2026, 12:03:30 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html>)
+
+- **Quando un agente AI va storto, puoi fermarlo?**  
+  Fonte: The Hacker News, 13 Nov 2026, 11:52:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html>)
+
+- **SilentAir dirotta le reti di telecomunicazioni asiatiche per intercettare i codici SMS 2FA e spiare gli utenti taiwanesi**  
+  Fonte: The Hacker News, 13 Nov 2026, 11:10:40 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html>)
+
+- **L'operazione Endgame distrugge i server Gootloader, CastleRAT e StealC e sequestra 6,4 milioni di accessi rubati**  
+  Fonte: The Hacker News, 13 Nov 2026, 10:55:03 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html>)
+
+- **Check Point avverte di una falla zero-day sfruttata per l'accesso root**  
+  Fonte: BleepingComputer, 13 Nov 2026, 10:44:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/>)
+
+- **Microsoft conferma gli errori di attivazione di Windows dopo gli aggiornamenti di novembre**  
+  Fonte: BleepingComputer, 13 Nov 2026, 09:36:18 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/>)
+
+- **La polizia arresta 354 sospetti nella repressione della criminalità informatica nel dark web**  
+  Fonte: BleepingComputer, 13 Nov 2026, 08:34:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/>)
+
+- **Gli hacker sfruttano le falle di PHP2Shell nei gateway Check Point per implementare backdoor TSGA e cancellare i file ESXi**  
+  Fonte: The Hacker News, 13 Nov 2026, 08:05:49 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html>)
+
+- **Gli hacker sfruttano le falle N-central per infettare 21 server, di cui 19 che eseguono l'hotfix 2**  
+  Fonte: The Hacker News, 13 Nov 2026, 05:43:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html>)
+
+- **Il nuovo malware simile al worm "SCKit" prende di mira gli MSP negli attacchi ScreenConnect**  
+  Fonte: BleepingComputer, 12 Nov 2026, 22:53:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/>)
+
+- **Gli hacker compromettono 4.800 account GitHub per rubare le credenziali del cloud**  
+  Fonte: BleepingComputer, 12 Nov 2026, 22:25:30 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/>)
+
+- **La massiccia interruzione di Microsoft 365 interrompe Outlook, Teams e Copilot in tutto il mondo**  
+  Fonte: BleepingComputer, 12 Nov 2026, 20:15:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/>)
+
+- **Nuovo sfruttamento zero-day N-able "4EverAble2Shell" poche ore dopo il rilascio del PoC**  
+  Fonte: BleepingComputer, 12 Nov 2026, 19:51:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/>)
+
+- **Apache HTTP Server corregge un difetto critico nell'esecuzione del codice remoto HTTP/2**  
+  Fonte: BleepingComputer, 12 Nov 2026, 19:12:55 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/>)
+
+- **Webinar: scopri come i punti ciechi dell'identità mettono a rischio il tuo SOC e come risolverli**  
+  Fonte: The Hacker News, 12 Nov 2026, 18:07:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html>)
+
+- **ThreatsDay: 59 bug del kernel Linux, spyware Falcon, backdoor GSocket e altre 17 storie**  
+  Fonte: The Hacker News, 12 Nov 2026, 18:02:51 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html>)
+
+- **Il nuovo exploit Zero-Day di SignDrop trasforma la funzionalità di sicurezza CLFS di Windows nell'accesso al SISTEMA**  
+  Fonte: The Hacker News, 12 Nov 2026, 17:50:27 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html>)
+
+- **Il difetto critico di Red Hat Quay consente agli aggressori di leggere e sovrascrivere tutte le immagini del contenitore privato in un registro**  
+  Fonte: The Hacker News, 12 Nov 2026, 16:27:01 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html>)
+
+- **Il nuovo Windows SignDrop zero-day offre agli hacker i privilegi di SISTEMA**  
+  Fonte: BleepingComputer, 12 Nov 2026, 16:04:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/>)
+
+- **Citrix corregge 12 difetti di NetScaler e Secure Access Client, incluso il bypass dell'autenticazione**  
+  Fonte: The Hacker News, 12 Nov 2026, 15:38:49 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html>)
+
+- **186 domini AI falsi reindirizzano gli utenti a esche ClickFix, malware del browser e dirottatori di ricerca**  
+  Fonte: The Hacker News, 12 Nov 2026, 15:15:40 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html>)
+
+- **La banda WhiteArmor rivendica la responsabilità dell'ultimo attacco informatico al gigante marittimo Maersk**  
+  Fonte: Graham Cluley, 12 Nov 2026, 15:12:29 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/whitearmor-gang-cyberattack-maersk>)
+
+- **La polizia smantella l'infrastruttura malware Gootloader, CastleRAT e StealC**  
+  Fonte: BleepingComputer, 12 Nov 2026, 15:07:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/>)
+
+- **La tua piattaforma di gestione degli endpoint potrebbe rappresentare il rischio più grande per la sicurezza**  
+  Fonte: BleepingComputer, 12 Nov 2026, 15:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/>)
+
+- **Apify ruota i token API e richiede il ripristino della 2FA dopo la violazione**  
+  Fonte: BleepingComputer, 12 Nov 2026, 14:36:47 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/>)
+
+- **Il malware SCKit trasforma le sessioni di supporto ScreenConnect in potenziali percorsi di attacco MSP**  
+  Fonte: The Hacker News, 12 Nov 2026, 13:08:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html>)
+
 - **Microsoft: i recenti aggiornamenti di Windows causano problemi di prestazioni di SQL Server**  
   Fonte: BleepingComputer, 12 Nov 2026, 12:11:11 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/>)
@@ -13,10 +121,6 @@
 - **Un altro modo in cui la polizia localizza le persone dai loro smartphone**  
   Fonte: Schneier on Security, 12 Nov 2026, 12:02:58 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html>)
-
-- **Webinar: scopri come i punti ciechi dell'identità mettono a rischio il tuo SOC e come risolverli**  
-  Fonte: The Hacker News, 12 Nov 2026, 12:02:51 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html>)
 
 - **I nuovi exploit N-central funzionano contro i server con patch, abilitano Root RCE e l'accesso al sistema Windows**  
   Fonte: The Hacker News, 12 Nov 2026, 11:51:43 UTC  
@@ -33,10 +137,6 @@
 - **Microsoft conferma i problemi di installazione degli aggiornamenti di sicurezza di Windows**  
   Fonte: BleepingComputer, 12 Nov 2026, 10:24:07 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/>)
-
-- **Gli hacker installano GSocket sui server Linux per un accesso persistente**  
-  Fonte: BleepingComputer, 12 Nov 2026, 09:38:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/>)
 
 - **Difetto critico pre-autenticazione MongoDB (CVE-2026-118383) può bloccare i server in ritardo in caso di failover**  
   Fonte: The Hacker News, 12 Nov 2026, 09:25:00 UTC  
@@ -62,29 +162,9 @@
   Fonte: Graham Cluley, 12 Nov 2026, 00:32:55 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-492/>)
 
-- **Baker Tilly avvisa i clienti della violazione dei dati presso il fornitore di terze parti**  
-  Fonte: BleepingComputer, 11 Nov 2026, 23:01:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/>)
-
-- **Gli attacchi Active ScreenConnect violano gli MSP e colpiscono decine di organizzazioni**  
-  Fonte: BleepingComputer, 11 Nov 2026, 22:56:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/>)
-
-- **eMudhra revoca altri 8 certificati CA dopo l'incidente con la chiave privata**  
-  Fonte: BleepingComputer, 11 Nov 2026, 21:27:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/>)
-
-- **Notion afferma che Fireworks viola le trascrizioni delle chat dell'intelligenza artificiale dei clienti esposte**  
-  Fonte: BleepingComputer, 11 Nov 2026, 20:54:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/>)
-
 - **Chi gestisce il gruppo ransomware Qilin?**  
   Fonte: Krebs on Security, 11 Nov 2026, 18:06:01 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/>)
-
-- **Maersk conferma la violazione dei dati poiché il ransomware WhiteArmor richiede 5 milioni di dollari**  
-  Fonte: BleepingComputer, 11 Nov 2026, 16:24:18 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/>)
 
 - **Un difetto critico sul posto di lavoro dello zoom potrebbe consentire l’escalation dei privilegi remoti non autenticati**  
   Fonte: The Hacker News, 11 Nov 2026, 16:12:46 UTC  
@@ -94,21 +174,9 @@
   Fonte: The Hacker News, 11 Nov 2026, 15:34:27 UTC  
   [Leggi](<https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html>)
 
-- **Gli hacker utilizzano agenti AI AntiFox negli attacchi di furto di credenziali AWS**  
-  Fonte: BleepingComputer, 11 Nov 2026, 15:12:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/>)
-
-- **Rootkit eBPF: perché gli attori clandestini se ne stanno accorgendo**  
-  Fonte: BleepingComputer, 11 Nov 2026, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/>)
-
 - **Gli hacker prendono di mira i server Qlik Sense con Reverse Shell, Stage ActiveMQ e exploit Veeam**  
   Fonte: The Hacker News, 11 Nov 2026, 14:01:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html>)
-
-- **N-able rilascia hotfix di sicurezza per le vulnerabilità zero-day**  
-  Fonte: BleepingComputer, 11 Nov 2026, 12:32:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/>)
 
 - **Oltre 35.000 app create da Grok esposte online, alcuni dati riservati e password sono trapelati**  
   Fonte: The Hacker News, 11 Nov 2026, 12:19:40 UTC  
@@ -126,18 +194,6 @@
   Fonte: The Hacker News, 11 Nov 2026, 12:00:53 UTC  
   [Leggi](<https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html>)
 
-- **Microsoft risolve i problemi audio causati dagli aggiornamenti di sicurezza di settembre**  
-  Fonte: BleepingComputer, 11 Nov 2026, 11:18:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/>)
-
-- **CISA flags Cisco BroadWorks flaw as actively exploited in attacks**  
-  Fonte: BleepingComputer, 11 Nov 2026, 10:12:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/>)
-
-- **Microsoft corregge gli accessi a Exchange interrotti dagli aggiornamenti di Windows Server**  
-  Fonte: BleepingComputer, 11 Nov 2026, 09:07:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/>)
-
 - **Microsoft corregge 1.259 difetti, incluso un bug di Outlook sfruttato che potrebbe esporre gli hash NTLMv2**  
   Fonte: The Hacker News, 11 Nov 2026, 08:17:53 UTC  
   [Leggi](<https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html>)
@@ -146,7 +202,7 @@
   Fonte: The Hacker News, 11 Nov 2026, 07:49:04 UTC  
   [Leggi](<https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html>)
 
-- **I ricercatori Microsoft dimostrano che gli agenti IA possono essere sottoposti a backdoor modificando meno di 10 neuroni**  
+- **I ricercatori Microsoft dimostrano che è possibile eseguire backdoor sugli agenti IA modificando meno di 10 neuroni**  
   Fonte: The Hacker News, 11 Nov 2026, 07:21:05 UTC  
   [Leggi](<https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html>)
 
@@ -154,11 +210,7 @@
   Fonte: The Hacker News, 11 Nov 2026, 06:04:02 UTC  
   [Leggi](<https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html>)
 
-- **La violazione ferroviaria porta a $ 740.000 in accuse fraudolente di IA**  
-  Fonte: BleepingComputer, 10 Nov 2026, 22:20:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/>)
-
-- **Microsoft risolve quasi 1.100 vulnerabilità della sicurezza**  
+- **Microsoft risolve quasi 1.100 vulnerabilità di sicurezza**  
   Fonte: Krebs on Security, 10 Nov 2026, 21:55:03 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/>)
 
@@ -254,57 +306,13 @@
   Fonte: The Hacker News, 09 Nov 2026, 17:36:28 UTC  
   [Leggi](<https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html>)
 
-- **Gli hacker più accaniti implementano la nuova backdoor PapRAT nella campagna di cyberspionaggio rivolta all'Asia meridionale**  
-  Fonte: The Hacker News, 09 Nov 2026, 14:31:29 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html>)
-
-- **⚡ Riepilogo settimanale: SSHole sfruttato, RCE root APT, acquisizioni di robot, 15.000 siti compromessi e altro ancora**  
-  Fonte: The Hacker News, 09 Nov 2026, 13:28:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html>)
-
 - **Sicurezza dell'intelligenza artificiale**  
   Fonte: Schneier on Security, 09 Nov 2026, 12:05:39 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/ai-security.html>)
 
-- **La password predefinita del server "admin:admin" aiuta i ricercatori ad hackerare due case automobilistiche, sbloccare e avviare automobili**  
-  Fonte: The Hacker News, 09 Nov 2026, 11:27:53 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/default-adminadmin-server-password.html>)
-
-- **Difetto Web3Auth sfruttato per rubare criptovalute Keplr, il provider svuota altri portafogli per sicurezza**  
-  Fonte: The Hacker News, 09 Nov 2026, 10:56:25 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html>)
-
-- **LNbits esorta tutti gli operatori a chiudere i propri server Bitcoin Lightning Wallet durante gli attacchi**  
-  Fonte: The Hacker News, 09 Nov 2026, 10:01:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html>)
-
-- **Un hacker con sede a Taiwan ha utilizzato gli agenti IA BOSSAI per rubare i registri delle spedizioni di emergenza di Taipei**  
-  Fonte: The Hacker News, 09 Nov 2026, 09:01:50 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html>)
-
-- **L'ex ingegnere di OpenAI si dichiara non colpevole di aver installato un dispositivo nascosto nella sala riunioni dei dirigenti**  
-  Fonte: The Hacker News, 09 Nov 2026, 07:05:48 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html>)
-
-- **Le agenzie statunitensi avvertono che gli attacchi ai controllori di refrigerazione potrebbero causare incendi e perdite di inventario**  
-  Fonte: The Hacker News, 09 Nov 2026, 06:15:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html>)
-
-- **CISA segnala SonicWall SonicOS MFA bypassa il difetto tra le segnalazioni di possibile sfruttamento**  
-  Fonte: The Hacker News, 09 Nov 2026, 06:05:24 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html>)
-
-- **Il file "Don't Ask Again" di Claude Code espone password e chiavi in ​​1.122 copie pubbliche su GitHub**  
-  Fonte: The Hacker News, 07 Nov 2026, 06:44:17 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html>)
-
 - **Blog sui calamari del venerdì: nuovi predecessori dei calamari giurassici**  
   Fonte: Schneier on Security, 06 Nov 2026, 22:05:12 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html>)
-
-- **L'installazione della correzione per un difetto di WordPress sfruttato può esporre alcuni siti un'ultima volta**  
-  Fonte: The Hacker News, 06 Nov 2026, 16:08:38 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html>)
 
 - **Individuazione della posizione dei video dai suoni dell'aereo in sottofondo**  
   Fonte: Schneier on Security, 06 Nov 2026, 14:57:48 UTC  
@@ -314,9 +322,5 @@
   Fonte: Cloudflare Blog - Security, 06 Nov 2026, 14:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/vole-mole/>)
 
-- **Gli agenti non sono umani (ma in un certo senso lo sono)**  
-  Fonte: Cloudflare Blog - Security, 05 Nov 2026, 17:03:04 UTC  
-  [Leggi](<https://blog.cloudflare.com/trusted-agent-delegation/>)
 
-
-<!-- Ultimo aggiornamento: 2026-11-12 14:16:17 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-13 13:39:45 UTC -->
