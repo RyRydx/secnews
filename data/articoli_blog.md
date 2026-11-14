@@ -2,6 +2,46 @@
 
 ## Ultimi 7 giorni
 
+- **Blog sui calamari del venerdì: popolazioni di calamari volanti del Pacifico in calo nelle acque coreane**  
+  Fonte: Schneier on Security, 13 Nov 2026, 22:00:46 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html>)
+
+- **Trezor conferma impianti di furto di criptovalute in tre portafogli e rilascia la correzione**  
+  Fonte: BleepingComputer, 13 Nov 2026, 19:38:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/>)
+
+- **Adattamento agli orchestratori dei test di penetrazione dell'intelligenza artificiale: il modello di sicurezza moderno**  
+  Fonte: Cloudflare Blog - Security, 13 Nov 2026, 19:26:07 UTC  
+  [Leggi](<https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/>)
+
+- **Operazioni dei droni militari tedeschi interrotte da un attacco informatico**  
+  Fonte: BleepingComputer, 13 Nov 2026, 17:31:56 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/>)
+
+- **PostgreSQL corregge 52 difetti, incluso un bug vecchio di 22 anni che abilitava l'RCE autenticato**  
+  Fonte: The Hacker News, 13 Nov 2026, 16:53:08 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html>)
+
+- **Gateway Check Point violati tramite PHP2Shell per implementare il wiper VMware ESXi**  
+  Fonte: BleepingComputer, 13 Nov 2026, 16:21:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/>)
+
+- **I nuovi attacchi Mior e Skyfall consentono agli host cloud non autorizzati di rubare segreti dalle VM AMD SEV-SNP**  
+  Fonte: The Hacker News, 13 Nov 2026, 15:27:05 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html>)
+
+- **Come un agente AI ha messo in luce cinque lacune critiche nella sicurezza aziendale**  
+  Fonte: BleepingComputer, 13 Nov 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/>)
+
+- **L'FBI afferma che gli hacker nordcoreani hanno rubato oltre 400 milioni di dollari in criptovalute utilizzando videochiamate Deepfake**  
+  Fonte: The Hacker News, 13 Nov 2026, 14:28:58 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html>)
+
+- **Trezor conferma impianti nascosti nei portafogli venduti da CryptoBilis che possono rubare frasi di recupero**  
+  Fonte: The Hacker News, 13 Nov 2026, 13:54:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html>)
+
 - **Microsoft afferma che gli aggiornamenti di sicurezza di novembre causano problemi di stampa**  
   Fonte: BleepingComputer, 13 Nov 2026, 12:27:40 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/>)
@@ -98,21 +138,9 @@
   Fonte: BleepingComputer, 12 Nov 2026, 15:07:20 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/>)
 
-- **La tua piattaforma di gestione degli endpoint potrebbe rappresentare il rischio più grande per la sicurezza**  
-  Fonte: BleepingComputer, 12 Nov 2026, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/>)
-
-- **Apify ruota i token API e richiede il ripristino della 2FA dopo la violazione**  
-  Fonte: BleepingComputer, 12 Nov 2026, 14:36:47 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/>)
-
 - **Il malware SCKit trasforma le sessioni di supporto ScreenConnect in potenziali percorsi di attacco MSP**  
   Fonte: The Hacker News, 12 Nov 2026, 13:08:28 UTC  
   [Leggi](<https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html>)
-
-- **Microsoft: i recenti aggiornamenti di Windows causano problemi di prestazioni di SQL Server**  
-  Fonte: BleepingComputer, 12 Nov 2026, 12:11:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/>)
 
 - **Google Cloud avverte che tre difetti della CPU AMD Torino potrebbero far perdere dati attraverso i processi nelle VM**  
   Fonte: The Hacker News, 12 Nov 2026, 12:09:14 UTC  
@@ -133,10 +161,6 @@
 - **PTC corregge un difetto critico di Windchill e FlexPLM che potrebbe consentire l'esecuzione di codice in modalità remota**  
   Fonte: The Hacker News, 12 Nov 2026, 11:33:15 UTC  
   [Leggi](<https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html>)
-
-- **Microsoft conferma i problemi di installazione degli aggiornamenti di sicurezza di Windows**  
-  Fonte: BleepingComputer, 12 Nov 2026, 10:24:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/>)
 
 - **Difetto critico pre-autenticazione MongoDB (CVE-2026-118383) può bloccare i server in ritardo in caso di failover**  
   Fonte: The Hacker News, 12 Nov 2026, 09:25:00 UTC  
@@ -166,7 +190,7 @@
   Fonte: Krebs on Security, 11 Nov 2026, 18:06:01 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/>)
 
-- **Un difetto critico sul posto di lavoro dello zoom potrebbe consentire l’escalation dei privilegi remoti non autenticati**  
+- **Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation**  
   Fonte: The Hacker News, 11 Nov 2026, 16:12:46 UTC  
   [Leggi](<https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html>)
 
@@ -286,41 +310,13 @@
   Fonte: The Hacker News, 10 Nov 2026, 06:52:54 UTC  
   [Leggi](<https://thehackernews.com/2026/11/google-issues-chrome-security-update.html>)
 
-- **N-able mette offline il cloud N-central dopo che un ricercatore ha rivelato 33 zero-day con exploit PoC**  
-  Fonte: The Hacker News, 10 Nov 2026, 06:44:36 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html>)
-
-- **CISA mette in guardia contro lo sfruttamento attivo di OpenSSH, GPUStack, FreeSWITCH e IBM Flaws**  
-  Fonte: The Hacker News, 10 Nov 2026, 06:31:42 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html>)
-
 - **Aggiornamento settimanale 529: divieti sui social media per bambini (e tutto il resto)**  
   Fonte: Troy Hunt, 10 Nov 2026, 00:42:35 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-529/>)
-
-- **Gli hacker sfruttano l'accesso affidabile ad AWS di Qubole per violare gli account dei clienti e rubare dati**  
-  Fonte: The Hacker News, 09 Nov 2026, 17:51:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html>)
-
-- **Gli hacker compromettono bee-js e Swarm Desktop di Ethersphere per diffondere malware in grado di rubare portafogli**  
-  Fonte: The Hacker News, 09 Nov 2026, 17:36:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html>)
 
 - **Sicurezza dell'intelligenza artificiale**  
   Fonte: Schneier on Security, 09 Nov 2026, 12:05:39 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/ai-security.html>)
 
-- **Blog sui calamari del venerdì: nuovi predecessori dei calamari giurassici**  
-  Fonte: Schneier on Security, 06 Nov 2026, 22:05:12 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html>)
 
-- **Individuazione della posizione dei video dai suoni dell'aereo in sottofondo**  
-  Fonte: Schneier on Security, 06 Nov 2026, 14:57:48 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html>)
-
-- **Il futuro post-quantistico della privacy sul web**  
-  Fonte: Cloudflare Blog - Security, 06 Nov 2026, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/vole-mole/>)
-
-
-<!-- Ultimo aggiornamento: 2026-11-13 13:39:45 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-14 12:43:03 UTC -->
