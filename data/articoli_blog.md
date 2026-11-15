@@ -2,6 +2,30 @@
 
 ## Ultimi 7 giorni
 
+- **L'Italia multa Meta da 805 milioni di euro per l'accesso alla galleria Android di Facebook senza consenso esplicito**  
+  Fonte: The Hacker News, 15 Nov 2026, 11:27:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html>)
+
+- **Il cursore afferma che la chiave AI di Fireworks rubata ha portato a un incidente relativo all'estensione del codice Claude con trojan**  
+  Fonte: The Hacker News, 15 Nov 2026, 08:22:04 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html>)
+
+- **Il cursore conferma che la violazione della sicurezza ha portato all'estensione dannosa del codice Claude**  
+  Fonte: BleepingComputer, 14 Nov 2026, 17:27:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/>)
+
+- **Prossimi impegni di conferenza**  
+  Fonte: Schneier on Security, 14 Nov 2026, 17:02:39 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html>)
+
+- **Gli Stati Uniti stroncano la campagna nordcoreana dietro il furto di criptovalute da 400 milioni di dollari**  
+  Fonte: BleepingComputer, 14 Nov 2026, 15:15:49 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/>)
+
+- **Gli aggressori sfruttano la falla di UnrealIRCd che consente l'iniezione di comandi a livello di server**  
+  Fonte: The Hacker News, 14 Nov 2026, 12:38:35 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html>)
+
 - **Blog sui calamari del venerdì: popolazioni di calamari volanti del Pacifico in calo nelle acque coreane**  
   Fonte: Schneier on Security, 13 Nov 2026, 22:00:46 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html>)
@@ -70,7 +94,7 @@
   Fonte: BleepingComputer, 13 Nov 2026, 09:36:18 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/>)
 
-- **La polizia arresta 354 sospetti nella repressione della criminalità informatica nel dark web**  
+- **La polizia arresta 354 sospetti nella repressione del crimine informatico sul dark web**  
   Fonte: BleepingComputer, 13 Nov 2026, 08:34:20 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/>)
 
@@ -118,10 +142,6 @@
   Fonte: The Hacker News, 12 Nov 2026, 16:27:01 UTC  
   [Leggi](<https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html>)
 
-- **Il nuovo Windows SignDrop zero-day offre agli hacker i privilegi di SISTEMA**  
-  Fonte: BleepingComputer, 12 Nov 2026, 16:04:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/>)
-
 - **Citrix corregge 12 difetti di NetScaler e Secure Access Client, incluso il bypass dell'autenticazione**  
   Fonte: The Hacker News, 12 Nov 2026, 15:38:49 UTC  
   [Leggi](<https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html>)
@@ -133,10 +153,6 @@
 - **La banda WhiteArmor rivendica la responsabilità dell'ultimo attacco informatico al gigante marittimo Maersk**  
   Fonte: Graham Cluley, 12 Nov 2026, 15:12:29 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/whitearmor-gang-cyberattack-maersk>)
-
-- **La polizia smantella l'infrastruttura malware Gootloader, CastleRAT e StealC**  
-  Fonte: BleepingComputer, 12 Nov 2026, 15:07:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/>)
 
 - **Il malware SCKit trasforma le sessioni di supporto ScreenConnect in potenziali percorsi di attacco MSP**  
   Fonte: The Hacker News, 12 Nov 2026, 13:08:28 UTC  
@@ -190,7 +206,7 @@
   Fonte: Krebs on Security, 11 Nov 2026, 18:06:01 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/>)
 
-- **Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation**  
+- **Un difetto critico sul posto di lavoro dello zoom potrebbe consentire l’escalation dei privilegi remoti non autenticati**  
   Fonte: The Hacker News, 11 Nov 2026, 16:12:46 UTC  
   [Leggi](<https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html>)
 
@@ -298,18 +314,6 @@
   Fonte: The Hacker News, 10 Nov 2026, 10:02:40 UTC  
   [Leggi](<https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html>)
 
-- **La Francia incolpa l'Iran per l'attacco di sabotaggio ai controllori della refrigerazione in circa 700 siti di vendita al dettaglio**  
-  Fonte: The Hacker News, 10 Nov 2026, 09:08:20 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html>)
-
-- **Claude Fable 5.2 di Anthropic batte GPT-6 Cyber ​​nel benchmark degli attacchi informatici multi-fase**  
-  Fonte: The Hacker News, 10 Nov 2026, 08:16:14 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html>)
-
-- **Google pubblica l'aggiornamento di sicurezza di Chrome per l'ottavo zero-day del 2026 attivamente sfruttato**  
-  Fonte: The Hacker News, 10 Nov 2026, 06:52:54 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/google-issues-chrome-security-update.html>)
-
 - **Aggiornamento settimanale 529: divieti sui social media per bambini (e tutto il resto)**  
   Fonte: Troy Hunt, 10 Nov 2026, 00:42:35 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-529/>)
@@ -319,4 +323,4 @@
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/ai-security.html>)
 
 
-<!-- Ultimo aggiornamento: 2026-11-14 12:43:03 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-15 13:10:17 UTC -->
