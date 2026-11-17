@@ -2,9 +2,101 @@
 
 ## Ultimi 7 giorni
 
-- **Google warns that fully-automated AI attacks are coming soon**  
+- **All'interno dei moderni kit di phishing creati per rubare le sessioni di Microsoft 365**  
+  Fonte: BleepingComputer, 17 Nov 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/>)
+
+- **Gli hacker hanno trovato un modo per aggirare il pinning SHA di GitHub.Questo webinar spiega come colmare il divario**  
+  Fonte: The Hacker News, 17 Nov 2026, 12:25:06 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html>)
+
+- **I ricercatori descrivono nel dettaglio il difetto dell'iPhone che consente alle app di registrare l'audio nonostante il permesso del microfono negato**  
+  Fonte: The Hacker News, 17 Nov 2026, 12:14:36 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html>)
+
+- **Verifica formale del protocollo del segnale utilizzando l'intelligenza artificiale**  
+  Fonte: Schneier on Security, 17 Nov 2026, 12:05:43 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html>)
+
+- **Le nuove backdoor GitDoor e GraphDoor trasformano GitHub e SharePoint in canali C2 nascosti**  
+  Fonte: The Hacker News, 17 Nov 2026, 11:20:18 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html>)
+
+- **Microsoft testa il blocco remoto per dispositivi Windows smarriti o rubati**  
+  Fonte: BleepingComputer, 17 Nov 2026, 11:19:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/>)
+
+- **Apple rafforza le autorizzazioni delle app macOS per limitare l'accesso ai dati tra i rischi per la sicurezza degli agenti AI**  
+  Fonte: The Hacker News, 17 Nov 2026, 11:07:31 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html>)
+
+- **La corte assolve i fratelli dalle accuse di rapina in criptovalute da 25 milioni di dollari su Ethereum**  
+  Fonte: BleepingComputer, 17 Nov 2026, 09:44:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/>)
+
+- **Uber avvisa gli autisti della violazione dei dati che colpisce quasi 150.000 persone**  
+  Fonte: BleepingComputer, 17 Nov 2026, 08:35:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/>)
+
+- **Il sospettato affiliato di ransomware estradato negli Stati Uniti, rischia 27 anni di prigione**  
+  Fonte: BleepingComputer, 17 Nov 2026, 07:25:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/>)
+
+- **Script ottimizzati dirottati forniti Card Skimmer e kit di exploit iOS ai visitatori di CNN, BBC e Zoom**  
+  Fonte: The Hacker News, 17 Nov 2026, 07:12:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html>)
+
+- **ConnectWise avverte che gli attacchi ScreenConnect continuano mentre SCKit prende di mira i sistemi senza patch**  
+  Fonte: The Hacker News, 17 Nov 2026, 06:29:27 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html>)
+
+- **N-able corregge 17 difetti N-centrali mentre gli aggressori sfruttano i bug precedenti per implementare crypto miner**  
+  Fonte: The Hacker News, 17 Nov 2026, 05:00:34 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html>)
+
+- **Hackera in modo ottimale i siti infetti di CNN, Fox News, BBC e Salesforce con malware**  
+  Fonte: BleepingComputer, 17 Nov 2026, 02:12:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/>)
+
+- **Gli agenti dell'intelligenza artificiale di Gemini hanno ripetutamente aggirato le misure di sicurezza per attaccare siti Web reali**  
+  Fonte: BleepingComputer, 16 Nov 2026, 22:54:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/>)
+
+- **Google Project Zero riduce a 30 giorni la divulgazione dei bug nel caso delle minacce legate all'intelligenza artificiale**  
+  Fonte: BleepingComputer, 16 Nov 2026, 21:31:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/>)
+
+- **La California fa causa a OpenAI per agenti di intelligenza artificiale in fuga da sandbox e aziende di hacking**  
+  Fonte: BleepingComputer, 16 Nov 2026, 20:59:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/>)
+
+- **Barracuda collega la violazione del cloud all'attacco informatico basato sull'intelligenza artificiale di ARTEX**  
+  Fonte: BleepingComputer, 16 Nov 2026, 19:57:13 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/>)
+
+- **Microsoft afferma che un bug vecchio di mesi ha causato l'interruzione globale di Microsoft 365**  
+  Fonte: BleepingComputer, 16 Nov 2026, 16:43:24 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/>)
+
+- **Fandango afferma che gli hacker hanno rubato i dettagli delle carte di pagamento dalle pagine di pagamento**  
+  Fonte: BleepingComputer, 16 Nov 2026, 15:44:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/>)
+
+- **7 suggerimenti per rispettare la password CJIS e i requisiti MFA**  
+  Fonte: BleepingComputer, 16 Nov 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/>)
+
+- **Google scopre che gli hacker utilizzano agenti IA per creare ed eseguire exploit dalle patch software**  
+  Fonte: The Hacker News, 16 Nov 2026, 14:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html>)
+
+- **Google avverte che presto arriveranno attacchi IA completamente automatizzati**  
   Fonte: BleepingComputer, 16 Nov 2026, 14:00:00 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/>)
+
+- **⚡ Riepilogo settimanale: 0 giorni per N-able, 0 giorni per Windows, 0 giorni per Chrome, 0 giorni per il frigorifero e altri brutti giorni**  
+  Fonte: The Hacker News, 16 Nov 2026, 13:27:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html>)
 
 - **Microsoft: Windows Server 2016 reaches end of support in 60 days**  
   Fonte: BleepingComputer, 16 Nov 2026, 12:53:18 UTC  
@@ -22,25 +114,9 @@
   Fonte: Schneier on Security, 16 Nov 2026, 12:04:42 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html>)
 
-- **Il colosso australiano della vendita al dettaglio Coles indaga su un incidente di sicurezza informatica**  
-  Fonte: BleepingComputer, 16 Nov 2026, 11:18:09 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/>)
-
-- **Claude Fable 5.2 di Anthropic blocca meno attività di sicurezza, mentre Mythos migliora nel trovare bug**  
-  Fonte: BleepingComputer, 16 Nov 2026, 11:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/>)
-
 - **Il malware SANSAR Linux Cryptomining utilizza la libreria NVIDIA modificata per nascondere l'attività della GPU**  
   Fonte: The Hacker News, 16 Nov 2026, 09:32:57 UTC  
   [Leggi](<https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html>)
-
-- **La nuova vulnerabilità NoisyTCP consente agli aggressori di mandare in crash i server Linux**  
-  Fonte: BleepingComputer, 16 Nov 2026, 09:30:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/>)
-
-- **Microsoft invia aggiornamenti di emergenza di Windows per correggere gli errori di attivazione**  
-  Fonte: BleepingComputer, 16 Nov 2026, 08:26:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/>)
 
 - **Amazon scopre una campagna di agenti AI mirata a LiteLLM, Dify e altre app per le chiavi API**  
   Fonte: The Hacker News, 16 Nov 2026, 07:34:21 UTC  
@@ -54,14 +130,6 @@
   Fonte: The Hacker News, 16 Nov 2026, 06:53:34 UTC  
   [Leggi](<https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html>)
 
-- **L'FBI avverte che lo strumento di hacking AI ARTEX sta alimentando attacchi informatici globali**  
-  Fonte: BleepingComputer, 15 Nov 2026, 18:29:53 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/>)
-
-- **Violazione dei dati dei dipendenti di TSMC collegata al fornitore di servizi cloud**  
-  Fonte: BleepingComputer, 15 Nov 2026, 15:23:48 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/>)
-
 - **L'Italia multa Meta da 805 milioni di euro per l'accesso alla galleria Android di Facebook senza consenso esplicito**  
   Fonte: The Hacker News, 15 Nov 2026, 11:27:31 UTC  
   [Leggi](<https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html>)
@@ -70,17 +138,9 @@
   Fonte: The Hacker News, 15 Nov 2026, 08:22:04 UTC  
   [Leggi](<https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html>)
 
-- **Il cursore conferma che la violazione della sicurezza ha portato all'estensione dannosa del codice Claude**  
-  Fonte: BleepingComputer, 14 Nov 2026, 17:27:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/>)
-
 - **Prossimi impegni di conferenza**  
   Fonte: Schneier on Security, 14 Nov 2026, 17:02:39 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html>)
-
-- **Gli Stati Uniti stroncano la campagna nordcoreana dietro il furto di criptovalute da 400 milioni di dollari**  
-  Fonte: BleepingComputer, 14 Nov 2026, 15:15:49 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/>)
 
 - **Gli aggressori sfruttano la falla di UnrealIRCd che consente l'iniezione di comandi a livello di server**  
   Fonte: The Hacker News, 14 Nov 2026, 12:38:35 UTC  
@@ -90,35 +150,19 @@
   Fonte: Schneier on Security, 13 Nov 2026, 22:00:46 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html>)
 
-- **Trezor conferma impianti di furto di criptovalute in tre portafogli e rilascia la correzione**  
-  Fonte: BleepingComputer, 13 Nov 2026, 19:38:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/>)
-
 - **Adattamento agli orchestratori dei test di penetrazione dell'intelligenza artificiale: il modello di sicurezza moderno**  
   Fonte: Cloudflare Blog - Security, 13 Nov 2026, 19:26:07 UTC  
   [Leggi](<https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/>)
-
-- **Operazioni dei droni militari tedeschi interrotte da un attacco informatico**  
-  Fonte: BleepingComputer, 13 Nov 2026, 17:31:56 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/>)
 
 - **PostgreSQL corregge 52 difetti, incluso un bug vecchio di 22 anni che abilitava l'RCE autenticato**  
   Fonte: The Hacker News, 13 Nov 2026, 16:53:08 UTC  
   [Leggi](<https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html>)
 
-- **Gateway Check Point violati tramite PHP2Shell per implementare il wiper VMware ESXi**  
-  Fonte: BleepingComputer, 13 Nov 2026, 16:21:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/>)
-
 - **I nuovi attacchi Mior e Skyfall consentono agli host cloud non autorizzati di rubare segreti dalle VM AMD SEV-SNP**  
   Fonte: The Hacker News, 13 Nov 2026, 15:27:05 UTC  
   [Leggi](<https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html>)
 
-- **Come un agente AI ha messo in luce cinque lacune critiche nella sicurezza aziendale**  
-  Fonte: BleepingComputer, 13 Nov 2026, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/>)
-
-- **L'FBI afferma che gli hacker nordcoreani hanno rubato oltre 400 milioni di dollari in criptovalute utilizzando videochiamate Deepfake**  
+- **FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls**  
   Fonte: The Hacker News, 13 Nov 2026, 14:28:58 UTC  
   [Leggi](<https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html>)
 
@@ -126,15 +170,11 @@
   Fonte: The Hacker News, 13 Nov 2026, 13:54:20 UTC  
   [Leggi](<https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html>)
 
-- **Microsoft afferma che gli aggiornamenti di sicurezza di novembre causano problemi di stampa**  
-  Fonte: BleepingComputer, 13 Nov 2026, 12:27:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/>)
-
 - **L’intelligenza artificiale non deve diventare un ladro per distruggere il mondo**  
   Fonte: Schneier on Security, 13 Nov 2026, 12:03:30 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html>)
 
-- **Quando un agente AI va storto, puoi fermarlo?**  
+- **When an AI Agent Goes Wrong, Can You Stop It?**  
   Fonte: The Hacker News, 13 Nov 2026, 11:52:31 UTC  
   [Leggi](<https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html>)
 
@@ -146,7 +186,7 @@
   Fonte: The Hacker News, 13 Nov 2026, 10:55:03 UTC  
   [Leggi](<https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html>)
 
-- **Gli hacker sfruttano le falle di PHP2Shell nei gateway Check Point per implementare backdoor TSGA e cancellare i file ESXi**  
+- **Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files**  
   Fonte: The Hacker News, 13 Nov 2026, 08:05:49 UTC  
   [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html>)
 
@@ -154,11 +194,11 @@
   Fonte: The Hacker News, 13 Nov 2026, 05:43:28 UTC  
   [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html>)
 
-- **Webinar: scopri come i punti ciechi dell'identità mettono a rischio il tuo SOC e come risolverli**  
+- **Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them**  
   Fonte: The Hacker News, 12 Nov 2026, 18:07:15 UTC  
   [Leggi](<https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html>)
 
-- **ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories**  
+- **ThreatsDay: 59 bug del kernel Linux, spyware Falcon, backdoor GSocket e altre 17 storie**  
   Fonte: The Hacker News, 12 Nov 2026, 18:02:51 UTC  
   [Leggi](<https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html>)
 
@@ -166,7 +206,7 @@
   Fonte: The Hacker News, 12 Nov 2026, 17:50:27 UTC  
   [Leggi](<https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html>)
 
-- **Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry**  
+- **Il difetto critico di Red Hat Quay consente agli aggressori di leggere e sovrascrivere tutte le immagini del contenitore privato in un registro**  
   Fonte: The Hacker News, 12 Nov 2026, 16:27:01 UTC  
   [Leggi](<https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html>)
 
@@ -174,15 +214,15 @@
   Fonte: The Hacker News, 12 Nov 2026, 15:38:49 UTC  
   [Leggi](<https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html>)
 
-- **186 domini AI falsi reindirizzano gli utenti a esche ClickFix, malware del browser e dirottatori di ricerca**  
+- **186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers**  
   Fonte: The Hacker News, 12 Nov 2026, 15:15:40 UTC  
   [Leggi](<https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html>)
 
-- **La banda WhiteArmor rivendica la responsabilità dell'ultimo attacco informatico al gigante marittimo Maersk**  
+- **WhiteArmor gang claims responsibility for latest cyber attack on shipping giant Maersk**  
   Fonte: Graham Cluley, 12 Nov 2026, 15:12:29 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/whitearmor-gang-cyberattack-maersk>)
 
-- **SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths**  
+- **Il malware SCKit trasforma le sessioni di supporto ScreenConnect in potenziali percorsi di attacco MSP**  
   Fonte: The Hacker News, 12 Nov 2026, 13:08:28 UTC  
   [Leggi](<https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html>)
 
@@ -198,7 +238,7 @@
   Fonte: The Hacker News, 12 Nov 2026, 11:51:43 UTC  
   [Leggi](<https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html>)
 
-- **Inviti del calendario e proxy live: all'interno di una campagna di dirottamento della sessione di Google**  
+- **Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign**  
   Fonte: The Hacker News, 12 Nov 2026, 11:51:31 UTC  
   [Leggi](<https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html>)
 
@@ -226,7 +266,7 @@
   Fonte: The Hacker News, 12 Nov 2026, 04:39:48 UTC  
   [Leggi](<https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html>)
 
-- **Podcast di Smashing Security n. 492: Come gli hacker hanno trasformato le auto russe in zucche**  
+- **Smashing Security podcast #492: How hackers turned Russian cars into pumpkins**  
   Fonte: Graham Cluley, 12 Nov 2026, 00:32:55 UTC  
   [Leggi](<https://grahamcluley.com/smashing-security-podcast-492/>)
 
@@ -266,65 +306,21 @@
   Fonte: The Hacker News, 11 Nov 2026, 08:17:53 UTC  
   [Leggi](<https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html>)
 
-- **Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges**  
+- **Le ferrovie affermano che il furto delle chiavi AI dei clienti ha comportato costi stimati di 740.000 dollari per l'utilizzo non autorizzato**  
   Fonte: The Hacker News, 11 Nov 2026, 07:49:04 UTC  
   [Leggi](<https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html>)
-
-- **I ricercatori Microsoft dimostrano che gli agenti IA possono essere sottoposti a backdoor modificando meno di 10 neuroni**  
-  Fonte: The Hacker News, 11 Nov 2026, 07:21:05 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html>)
-
-- **I difetti di Cisco BroadWorks e Openwave vengono sfruttati attivamente nonostante le patch disponibili**  
-  Fonte: The Hacker News, 11 Nov 2026, 06:04:02 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html>)
 
 - **Microsoft risolve quasi 1.100 vulnerabilità di sicurezza**  
   Fonte: Krebs on Security, 10 Nov 2026, 21:55:03 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/>)
 
-- **Infine, il pagamento tramite bonifico bancario arriva a Have I Been Pwned**  
+- **Finally, Payment by Bank Transfer Comes to Have I Been Pwned**  
   Fonte: Troy Hunt, 10 Nov 2026, 20:26:15 UTC  
   [Leggi](<https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/>)
-
-- **Git corregge il difetto che consente ai repository dannosi di eseguire codice durante i cloni ricorsivi**  
-  Fonte: The Hacker News, 10 Nov 2026, 19:23:10 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html>)
-
-- **SGLang RCE Exploit viola NEAR AI, ruba dati da 18 agenti e circa 100 utenti**  
-  Fonte: The Hacker News, 10 Nov 2026, 19:19:39 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html>)
-
-- **Gli hacker sfruttano il difetto critico di autenticazione dell'orchestra Xen per ottenere l'accesso amministrativo**  
-  Fonte: The Hacker News, 10 Nov 2026, 18:12:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html>)
-
-- **Tre campagne di spionaggio Cina-Nexus collegate attraverso l'ecosistema malware Sparrow**  
-  Fonte: The Hacker News, 10 Nov 2026, 17:43:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html>)
 
 - **Gli hacker iraniani hanno acceso il fuoco sui congelatori dei supermercati francesi, dice la Francia**  
   Fonte: Graham Cluley, 10 Nov 2026, 16:05:50 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-supermarket-freezers-france>)
 
-- **Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor**  
-  Fonte: The Hacker News, 10 Nov 2026, 16:00:55 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html>)
 
-- **Blind Eagle utilizza false notifiche giudiziarie per diffondere trojan di accesso remoto in tutta l'America Latina**  
-  Fonte: The Hacker News, 10 Nov 2026, 15:58:44 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html>)
-
-- **Fireworks AI conferma una violazione più ampia che colpisce i set di dati dei clienti, i pesi dei modelli e le chat di Notion AI**  
-  Fonte: The Hacker News, 10 Nov 2026, 15:33:59 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html>)
-
-- **Nuova vulnerabilità OpenSSH**  
-  Fonte: Schneier on Security, 10 Nov 2026, 12:02:38 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html>)
-
-- **Aggiornamento settimanale 529: divieti sui social media per bambini (e tutto il resto)**  
-  Fonte: Troy Hunt, 10 Nov 2026, 00:42:35 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-529/>)
-
-
-<!-- Ultimo aggiornamento: 2026-11-16 14:19:21 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-17 15:11:30 UTC -->
