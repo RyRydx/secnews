@@ -2,6 +2,94 @@
 
 ## Ultimi 7 giorni
 
+- **Traffico Internet e attacchi durante le elezioni di medio termine statunitensi del 2026**  
+  Fonte: Cloudflare Blog - Security, 19 Nov 2026, 14:00:00 UTC  
+  [Leggi](<https://blog.cloudflare.com/internet-traffic-2026-us-election/>)
+
+- **Drupal corregge il difetto RCE critico e avverte che gli exploit potrebbero emergere rapidamente**  
+  Fonte: BleepingComputer, 19 Nov 2026, 13:08:08 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/>)
+
+- **Tutto è un'applicazione Web, incluso il firewall**  
+  Fonte: The Hacker News, 19 Nov 2026, 11:52:23 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/everything-is-web-application-including.html>)
+
+- **Microsoft testa la nuova modalità Edge Lockdown che disabilita le API GPU**  
+  Fonte: BleepingComputer, 19 Nov 2026, 11:46:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/>)
+
+- **Microsoft conferma l'installazione dell'app e i problemi di avvio dopo l'hotpatch**  
+  Fonte: BleepingComputer, 19 Nov 2026, 10:35:05 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/>)
+
+- **Gli hacker violano il server cloud N-able, interrompendo la gestione della sicurezza della posta elettronica in 3 regioni**  
+  Fonte: The Hacker News, 19 Nov 2026, 09:31:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html>)
+
+- **NVIDIA sta indagando sulle accuse di violazione del ransomware Gentlemen**  
+  Fonte: BleepingComputer, 19 Nov 2026, 09:23:21 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/>)
+
+- **Ruby rilascia correzioni per 7 difetti di Regex e stringhe, avverte che 5 hanno RCE Proof-of-Concept**  
+  Fonte: The Hacker News, 19 Nov 2026, 08:42:11 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html>)
+
+- **Un ricercatore dimostra gli exploit RCE del database che influenzano PostgreSQL, MySQL e Oracle**  
+  Fonte: The Hacker News, 19 Nov 2026, 08:14:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html>)
+
+- **CISA mette in guardia contro 4 falle sfruttate legate ad attacchi ransomware, cryptomining e LLMjacking**  
+  Fonte: The Hacker News, 19 Nov 2026, 08:00:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html>)
+
+- **PHP avvisa di difetti critici di sicurezza che interessano tutte le versioni supportate, correzioni in arrivo il 19 novembre**  
+  Fonte: The Hacker News, 19 Nov 2026, 04:33:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html>)
+
+- **Smashing Security podcast n. 493: Perché il tuo modello di intelligenza artificiale potrebbe essere un agente dormiente**  
+  Fonte: Graham Cluley, 19 Nov 2026, 00:14:52 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-493/>)
+
+- **Ucraina, l'FBI arresta membri di una banda di ransomware legati a 40 milioni di dollari di riscatto**  
+  Fonte: BleepingComputer, 18 Nov 2026, 23:08:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/>)
+
+- **Coinbase blocca 4,7 milioni di dollari in trasferimenti alla truffa deepfake di Elon Musk**  
+  Fonte: BleepingComputer, 18 Nov 2026, 20:49:32 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/>)
+
+- **La violazione dei dati colpisce 40 cooperative di credito irlandesi in un caso di attacco informatico a un fornitore di servizi IT**  
+  Fonte: BleepingComputer, 18 Nov 2026, 19:39:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/>)
+
+- **Un difetto NGINX HTTP/2 vecchio di 10 anni consente agli aggressori non autenticati di eseguire codice sui server**  
+  Fonte: The Hacker News, 18 Nov 2026, 18:31:17 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html>)
+
+- **F5 avverte che 6 difetti critici BIG-IP possono bloccare il traffico in configurazioni specifiche e possono consentire RCE**  
+  Fonte: The Hacker News, 18 Nov 2026, 18:15:39 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html>)
+
+- **Difetto critico RCE di Apache Roller in caso di sfruttamento attivo, nessuna autenticazione richiesta**  
+  Fonte: The Hacker News, 18 Nov 2026, 17:10:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html>)
+
+- **Il pacchetto PyPI di Agent Framework di Microsoft è stato compromesso per rubare le credenziali**  
+  Fonte: BleepingComputer, 18 Nov 2026, 16:58:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/>)
+
+- **Dai deepfake all'impersonificazione dell'Helpdesk: perché è importante una verifica più efficace**  
+  Fonte: BleepingComputer, 18 Nov 2026, 15:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/>)
+
+- **In che modo Cloudflare WAF aiuta a proteggersi da Java4Shell (CVE-2026-114938)**  
+  Fonte: Cloudflare Blog - Security, 18 Nov 2026, 14:52:10 UTC  
+  [Leggi](<https://blog.cloudflare.com/java4shell-waf-protection/>)
+
+- **La nuova variante malware EggStreme resta silenziosa per eludere gli strumenti di sicurezza negli attacchi governativi**  
+  Fonte: The Hacker News, 18 Nov 2026, 14:11:28 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html>)
+
 - **Un nuovo attacco aggira il blocco TPM per violare i PIN di Windows Hello e BitLocker in pochi giorni, non in anni**  
   Fonte: The Hacker News, 18 Nov 2026, 12:28:30 UTC  
   [Leggi](<https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html>)
@@ -14,7 +102,7 @@
   Fonte: Schneier on Security, 18 Nov 2026, 12:05:35 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html>)
 
-- **Java4Shell Flaw (CVE-2026-114938) abilita la pre-autenticazione RCE in Jira, Jenkins, Keycloak e altri**  
+- **Il difetto Java4Shell (CVE-2026-114938) abilita la RCE pre-autenticazione in Jira, Jenkins, Keycloak e altri**  
   Fonte: The Hacker News, 18 Nov 2026, 11:55:49 UTC  
   [Leggi](<https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html>)
 
@@ -66,33 +154,13 @@
   Fonte: BleepingComputer, 17 Nov 2026, 21:27:17 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/>)
 
-- **Il Giappone mette offline il supercomputer Fugaku dopo un attacco informatico**  
-  Fonte: BleepingComputer, 17 Nov 2026, 20:51:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/>)
-
 - **Il ritiro di Quad9 dalla Francia: un canarino nella miniera di carbone**  
   Fonte: Cloudflare Blog - Security, 17 Nov 2026, 20:24:27 UTC  
   [Leggi](<https://blog.cloudflare.com/quad9-withdrawal-from-france/>)
 
-- **I ricercatori affermano che due exploit RCE aggirano le nuove difese Android di Telegram**  
+- **I ricercatori sostengono che due exploit RCE aggirano le nuove difese Android di Telegram**  
   Fonte: The Hacker News, 17 Nov 2026, 19:34:20 UTC  
   [Leggi](<https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html>)
-
-- **Apple segnala interruzioni che riguardano iCloud Mail, AppleCare e altro ancora**  
-  Fonte: BleepingComputer, 17 Nov 2026, 19:24:07 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/>)
-
-- **I ricercatori dirottano l'account Hugging Face per il popolare modello AI di Kokoro**  
-  Fonte: BleepingComputer, 17 Nov 2026, 18:21:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/>)
-
-- **Tor rilascia un aggiornamento di emergenza durante l'attacco DDoS in corso**  
-  Fonte: BleepingComputer, 17 Nov 2026, 18:04:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/>)
-
-- **Flipper Devices lancia il multi-strumento basato su Linux "Flipper One" da $ 399**  
-  Fonte: BleepingComputer, 17 Nov 2026, 16:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/>)
 
 - **Oggi Oracle introduce la patch 11 per difetti Java quando emerge il rapporto critico OpenJDK RCE (CVE-2026-114938)**  
   Fonte: The Hacker News, 17 Nov 2026, 15:17:36 UTC  
@@ -101,10 +169,6 @@
 - **La campagna Trigram impersona circa 50 brand di AI e Blockchain per rivolgersi agli sviluppatori con infostealer**  
   Fonte: The Hacker News, 17 Nov 2026, 15:17:28 UTC  
   [Leggi](<https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html>)
-
-- **All'interno dei moderni kit di phishing creati per rubare le sessioni di Microsoft 365**  
-  Fonte: BleepingComputer, 17 Nov 2026, 15:01:11 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/>)
 
 - **Gli hacker hanno trovato un modo per aggirare il pinning SHA di GitHub.Questo webinar spiega come colmare il divario**  
   Fonte: The Hacker News, 17 Nov 2026, 12:25:06 UTC  
@@ -122,23 +186,11 @@
   Fonte: The Hacker News, 17 Nov 2026, 11:20:18 UTC  
   [Leggi](<https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html>)
 
-- **Microsoft testa il blocco remoto per dispositivi Windows smarriti o rubati**  
-  Fonte: BleepingComputer, 17 Nov 2026, 11:19:51 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/>)
-
 - **Apple rafforza le autorizzazioni delle app macOS per limitare l'accesso ai dati tra i rischi per la sicurezza degli agenti AI**  
   Fonte: The Hacker News, 17 Nov 2026, 11:07:31 UTC  
   [Leggi](<https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html>)
 
-- **La corte assolve i fratelli dalle accuse di rapina in criptovalute da 25 milioni di dollari su Ethereum**  
-  Fonte: BleepingComputer, 17 Nov 2026, 09:44:22 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/>)
-
-- **Uber avvisa gli autisti della violazione dei dati che colpisce quasi 150.000 persone**  
-  Fonte: BleepingComputer, 17 Nov 2026, 08:35:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/>)
-
-- **Script ottimizzati dirottati serviti Card Skimmer e kit di exploit iOS ai visitatori della CNN, della BBC e di Zoom**  
+- **Script ottimizzati dirottati forniti Card Skimmer e kit di exploit iOS ai visitatori di CNN, BBC e Zoom**  
   Fonte: The Hacker News, 17 Nov 2026, 07:12:13 UTC  
   [Leggi](<https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html>)
 
@@ -262,61 +314,9 @@
   Fonte: The Hacker News, 12 Nov 2026, 17:50:27 UTC  
   [Leggi](<https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html>)
 
-- **Il difetto critico di Red Hat Quay consente agli aggressori di leggere e sovrascrivere tutte le immagini del contenitore privato in un registro**  
-  Fonte: The Hacker News, 12 Nov 2026, 16:27:01 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html>)
-
-- **Citrix corregge 12 difetti di NetScaler e Secure Access Client, incluso il bypass dell'autenticazione**  
-  Fonte: The Hacker News, 12 Nov 2026, 15:38:49 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html>)
-
-- **186 domini AI falsi reindirizzano gli utenti a esche ClickFix, malware del browser e dirottatori di ricerca**  
-  Fonte: The Hacker News, 12 Nov 2026, 15:15:40 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html>)
-
 - **La banda WhiteArmor rivendica la responsabilità dell'ultimo attacco informatico al gigante marittimo Maersk**  
   Fonte: Graham Cluley, 12 Nov 2026, 15:12:29 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/whitearmor-gang-cyberattack-maersk>)
 
-- **Il malware SCKit trasforma le sessioni di supporto ScreenConnect in potenziali percorsi di attacco MSP**  
-  Fonte: The Hacker News, 12 Nov 2026, 13:08:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html>)
 
-- **Google Cloud avverte che tre difetti della CPU AMD Torino potrebbero far perdere dati attraverso i processi nelle VM**  
-  Fonte: The Hacker News, 12 Nov 2026, 12:09:14 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html>)
-
-- **Un altro modo in cui la polizia localizza le persone dai loro smartphone**  
-  Fonte: Schneier on Security, 12 Nov 2026, 12:02:58 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html>)
-
-- **I nuovi exploit N-central funzionano contro i server con patch, abilitano Root RCE e l'accesso al sistema Windows**  
-  Fonte: The Hacker News, 12 Nov 2026, 11:51:43 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html>)
-
-- **Inviti del calendario e proxy live: all'interno di una campagna di dirottamento della sessione di Google**  
-  Fonte: The Hacker News, 12 Nov 2026, 11:51:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html>)
-
-- **PTC corregge un difetto critico di Windchill e FlexPLM che potrebbe consentire l'esecuzione di codice in modalità remota**  
-  Fonte: The Hacker News, 12 Nov 2026, 11:33:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html>)
-
-- **Difetto critico pre-autenticazione MongoDB (CVE-2026-118383) può bloccare i server in ritardo in caso di failover**  
-  Fonte: The Hacker News, 12 Nov 2026, 09:25:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html>)
-
-- **Node.js risolve 16 difetti, inclusi bug HTTP/2 che mandano in crash i server e perdono dati di altre connessioni**  
-  Fonte: The Hacker News, 12 Nov 2026, 08:20:37 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html>)
-
-- **Podcast di Smashing Security n. 492: Come gli hacker hanno trasformato le auto russe in zucche**  
-  Fonte: Graham Cluley, 12 Nov 2026, 00:32:55 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-492/>)
-
-- **Chi gestisce il gruppo ransomware Qilin?**  
-  Fonte: Krebs on Security, 11 Nov 2026, 18:06:01 UTC  
-  [Leggi](<https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/>)
-
-
-<!-- Ultimo aggiornamento: 2026-11-18 14:49:32 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-19 14:55:57 UTC -->
