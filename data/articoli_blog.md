@@ -2,11 +2,75 @@
 
 ## Ultimi 7 giorni
 
+- **Un'unica pagina Web dannosa consente ai ricercatori di prendere il controllo di Meta Muse e accedere alle chat private**  
+  Fonte: The Hacker News, 21 Nov 2026, 11:53:07 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html>)
+
+- **GnuPG avverte che un difetto critico di GPGME potrebbe esporre i dati dell'app tramite chiavi OpenPGP dannose**  
+  Fonte: The Hacker News, 21 Nov 2026, 11:05:53 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html>)
+
+- **Gli agenti IA degli aggressori hanno trovato uno Zero-Day nel software di imaging medico e hanno ottenuto l'accesso root**  
+  Fonte: The Hacker News, 21 Nov 2026, 11:03:17 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html>)
+
+- **Signal impedisce agli agenti AI di leggere le chat private tramite screenshot su Android e iOS**  
+  Fonte: The Hacker News, 21 Nov 2026, 08:49:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html>)
+
+- **Gli hacker sfruttano i difetti critici di VMware, Cisco e Apache mentre emergono attacchi di spionaggio**  
+  Fonte: The Hacker News, 21 Nov 2026, 08:49:13 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html>)
+
+- **CTO di "RansomwareHelp" accusato di frode telematica**  
+  Fonte: Krebs on Security, 21 Nov 2026, 00:36:39 UTC  
+  [Leggi](<https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/>)
+
+- **Blog sui calamari del venerdì: il calamaro più grande mai filmato**  
+  Fonte: Schneier on Security, 20 Nov 2026, 22:04:12 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html>)
+
+- **Come Cloudflare WAF protegge da ruby2shell (CVE-2026-132825)**  
+  Fonte: Cloudflare Blog - Security, 20 Nov 2026, 20:24:38 UTC  
+  [Leggi](<https://blog.cloudflare.com/ruby2shell-waf-protection/>)
+
+- **In che modo Cloudflare WAF aiuta a proteggersi da phpAfterShell e altri difetti critici di PHP**  
+  Fonte: Cloudflare Blog - Security, 20 Nov 2026, 20:00:45 UTC  
+  [Leggi](<https://blog.cloudflare.com/phpaftershell-waf-protection/>)
+
+- **n0n una banda di estortori fa trapelare i dati dei clienti di JPMorgan Chase, Visa e Mastercard**  
+  Fonte: Graham Cluley, 20 Nov 2026, 18:57:38 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/n0n-extortion-leaks-data-jpmorgan-chase-visa-mastercard>)
+
+- **Bell Canada afferma che un hacker "agente" ha rubato i dati dei clienti aziendali**  
+  Fonte: BleepingComputer, 20 Nov 2026, 18:51:43 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/>)
+
+- **WhatsApp corregge 3 difetti di sicurezza, incluso un bug Android sospettato di essere utilizzato in truffe**  
+  Fonte: The Hacker News, 20 Nov 2026, 17:57:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html>)
+
+- **Gli hacker utilizzano lo strumento AI autonomo Cairn per trovare zero-day e prendere il controllo del server**  
+  Fonte: BleepingComputer, 20 Nov 2026, 17:30:00 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/>)
+
+- **Il malware Android Bazuka utilizza sovrapposizioni di schermate false per nascondere il furto di credenziali e il controllo del dispositivo**  
+  Fonte: The Hacker News, 20 Nov 2026, 16:58:16 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html>)
+
+- **La violazione dei dati del fornitore espone le informazioni sui clienti Chase, Visa e Mastercard**  
+  Fonte: BleepingComputer, 20 Nov 2026, 15:58:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/>)
+
+- **Tieni ancora traccia delle password aziendali nei fogli di calcolo?Stai volando alla cieca.**  
+  Fonte: BleepingComputer, 20 Nov 2026, 15:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/>)
+
 - **N-able afferma che la recente violazione della sicurezza ha portato a gravi interruzioni del servizio**  
   Fonte: BleepingComputer, 20 Nov 2026, 13:18:36 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/>)
 
-- **Il difetto KVM di Linux CVE-2026-99312 consente alle VM guest di accedere alla memoria dell'host su host AMD**  
+- **Il difetto KVM di Linux CVE-2026-99312 consente alle VM guest di accedere alla memoria host sugli host AMD**  
   Fonte: The Hacker News, 20 Nov 2026, 12:20:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html>)
 
@@ -110,29 +174,13 @@
   Fonte: Cloudflare Blog - Security, 19 Nov 2026, 14:00:00 UTC  
   [Leggi](<https://blog.cloudflare.com/internet-traffic-2026-us-election/>)
 
-- **Drupal corregge il difetto RCE critico e avverte che gli exploit potrebbero emergere rapidamente**  
-  Fonte: BleepingComputer, 19 Nov 2026, 13:08:08 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/>)
-
 - **Tutto è un'applicazione Web, incluso il firewall**  
   Fonte: The Hacker News, 19 Nov 2026, 11:52:23 UTC  
   [Leggi](<https://thehackernews.com/2026/11/everything-is-web-application-including.html>)
 
-- **Microsoft testa la nuova modalità Edge Lockdown che disabilita le API GPU**  
-  Fonte: BleepingComputer, 19 Nov 2026, 11:46:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/>)
-
-- **Microsoft conferma l'installazione dell'app e i problemi di avvio dopo l'hotpatch**  
-  Fonte: BleepingComputer, 19 Nov 2026, 10:35:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/>)
-
 - **Gli hacker violano il server cloud N-able, interrompendo la gestione della sicurezza della posta elettronica in 3 regioni**  
   Fonte: The Hacker News, 19 Nov 2026, 09:31:26 UTC  
   [Leggi](<https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html>)
-
-- **NVIDIA sta indagando sulle accuse di violazione del ransomware Gentlemen**  
-  Fonte: BleepingComputer, 19 Nov 2026, 09:23:21 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/>)
 
 - **Ruby Ships risolve 7 difetti, incluso Ruby2Shell critico, che si dice colpisca la pre-autenticazione delle app Rails predefinite**  
   Fonte: The Hacker News, 19 Nov 2026, 08:42:11 UTC  
@@ -142,7 +190,7 @@
   Fonte: The Hacker News, 19 Nov 2026, 08:14:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html>)
 
-- **CISA mette in guardia contro 4 falle sfruttate legate ad attacchi ransomware, cryptomining e LLMjacking**  
+- **CISA mette in guardia contro 4 difetti sfruttati legati ad attacchi ransomware, cryptomining e LLMjacking**  
   Fonte: The Hacker News, 19 Nov 2026, 08:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html>)
 
@@ -250,7 +298,7 @@
   Fonte: The Hacker News, 17 Nov 2026, 11:07:31 UTC  
   [Leggi](<https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html>)
 
-- **Script ottimizzati dirottati forniti Card Skimmer e kit di exploit iOS ai visitatori di CNN, BBC e Zoom**  
+- **Script ottimizzati dirottati forniti Card Skimmer e kit di exploit iOS ai visitatori della CNN, della BBC e di Zoom**  
   Fonte: The Hacker News, 17 Nov 2026, 07:12:13 UTC  
   [Leggi](<https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html>)
 
@@ -274,53 +322,17 @@
   Fonte: The Hacker News, 16 Nov 2026, 12:34:21 UTC  
   [Leggi](<https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html>)
 
-- **Il worm Retadup riappare 7 anni dopo la rimozione per diffondere il malware CoffeeLoader**  
-  Fonte: The Hacker News, 16 Nov 2026, 12:33:18 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html>)
-
 - **Sicurezza utilizzabile negli Hotel di Lusso**  
   Fonte: Schneier on Security, 16 Nov 2026, 12:04:42 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html>)
-
-- **Il malware SANSAR Linux Cryptomining utilizza la libreria NVIDIA modificata per nascondere l'attività della GPU**  
-  Fonte: The Hacker News, 16 Nov 2026, 09:32:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html>)
-
-- **Amazon scopre una campagna di agenti AI mirata a LiteLLM, Dify e altre app per le chiavi API**  
-  Fonte: The Hacker News, 16 Nov 2026, 07:34:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html>)
 
 - **Aggiornamento settimanale 530: dipendenze e-mail e app**  
   Fonte: Troy Hunt, 16 Nov 2026, 07:09:38 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-530/>)
 
-- **Il team BO sfrutta Log4Shell in VMware vCenter, compromette il server di firma codice di un'azienda russa**  
-  Fonte: The Hacker News, 16 Nov 2026, 06:53:34 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html>)
-
-- **L'Italia multa Meta da 805 milioni di euro per l'accesso alla galleria Android di Facebook senza consenso esplicito**  
-  Fonte: The Hacker News, 15 Nov 2026, 11:27:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html>)
-
-- **Il cursore afferma che la chiave AI di Fireworks rubata ha portato a un incidente relativo all'estensione del codice Claude con trojan**  
-  Fonte: The Hacker News, 15 Nov 2026, 08:22:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html>)
-
 - **Prossimi impegni di conferenza**  
   Fonte: Schneier on Security, 14 Nov 2026, 17:02:39 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html>)
 
-- **Gli aggressori sfruttano la falla di UnrealIRCd che consente l'iniezione di comandi a livello di server**  
-  Fonte: The Hacker News, 14 Nov 2026, 12:38:35 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html>)
 
-- **Blog sui calamari del venerdì: popolazioni di calamari volanti del Pacifico in calo nelle acque coreane**  
-  Fonte: Schneier on Security, 13 Nov 2026, 22:00:46 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html>)
-
-- **Adattamento agli orchestratori dei test di penetrazione dell'intelligenza artificiale: il modello di sicurezza moderno**  
-  Fonte: Cloudflare Blog - Security, 13 Nov 2026, 19:26:07 UTC  
-  [Leggi](<https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/>)
-
-
-<!-- Ultimo aggiornamento: 2026-11-20 14:35:34 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-21 13:54:47 UTC -->
