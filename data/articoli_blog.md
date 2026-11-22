@@ -2,6 +2,34 @@
 
 ## Ultimi 7 giorni
 
+- **Aggiornamento settimanale 531: in modo ottimale.Dipendenze degli script e terze parti**  
+  Fonte: Troy Hunt, 22 Nov 2026, 05:24:12 UTC  
+  [Leggi](<https://www.troyhunt.com/weekly-update-531/>)
+
+- **OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms**  
+  Fonte: The Hacker News, 22 Nov 2026, 05:06:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html>)
+
+- **I ricercatori dimostrano Ghostscript Sandbox-Escape RCE tramite caricamenti di file predisposti nelle app più diffuse**  
+  Fonte: The Hacker News, 22 Nov 2026, 05:03:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html>)
+
+- **La violazione di Rackspace Spot consente agli hacker di accedere ai segreti Kubernetes dei clienti**  
+  Fonte: BleepingComputer, 21 Nov 2026, 22:59:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/>)
+
+- **Difetto di Microsoft Entra Connect Health sfruttato per rubare i dati del tenant**  
+  Fonte: BleepingComputer, 21 Nov 2026, 18:01:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/>)
+
+- **La botnet BADBOX ritorna con 40 miliardi di richieste di annunci giornalieri da record**  
+  Fonte: BleepingComputer, 21 Nov 2026, 15:17:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/>)
+
+- **Secondo quanto riferito, l'FBI ha violato nuovamente, questa volta prendendo di mira il database della polizia nazionale**  
+  Fonte: BleepingComputer, 21 Nov 2026, 14:26:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/>)
+
 - **Un'unica pagina Web dannosa consente ai ricercatori di prendere il controllo di Meta Muse e accedere alle chat private**  
   Fonte: The Hacker News, 21 Nov 2026, 11:53:07 UTC  
   [Leggi](<https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html>)
@@ -134,10 +162,6 @@
   Fonte: The Hacker News, 19 Nov 2026, 18:47:58 UTC  
   [Leggi](<https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html>)
 
-- **La violazione di Transport for London espone i dati di 265.000 utenti di carte Oyster**  
-  Fonte: BleepingComputer, 19 Nov 2026, 18:20:01 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/>)
-
 - **Reliquia fredda: cosa devi sapere**  
   Fonte: Graham Cluley, 19 Nov 2026, 17:10:29 UTC  
   [Leggi](<https://www.fortra.com/blog/cold-relic-what-you-need-know>)
@@ -146,10 +170,6 @@
   Fonte: The Hacker News, 19 Nov 2026, 16:59:56 UTC  
   [Leggi](<https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html>)
 
-- **Gli aggiornamenti di sicurezza PHP correggono 18 difetti, inclusi bug RCE critici**  
-  Fonte: BleepingComputer, 19 Nov 2026, 16:28:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/>)
-
 - **PHP risolve 7 difetti critici, inclusi bug che potrebbero consentire l'esecuzione di codice remoto**  
   Fonte: The Hacker News, 19 Nov 2026, 15:18:07 UTC  
   [Leggi](<https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html>)
@@ -157,14 +177,6 @@
 - **Il difetto critico zero-day di VMware vCenter consente agli aggressori di rete di ignorare l'autenticazione**  
   Fonte: The Hacker News, 19 Nov 2026, 15:11:06 UTC  
   [Leggi](<https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html>)
-
-- **Cinque segnali d'allarme di una violazione del ransomware prima della crittografia o del furto di dati**  
-  Fonte: BleepingComputer, 19 Nov 2026, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/>)
-
-- **I bug critici di NGINX “NGINX2Root” consentono agli aggressori di prendere il controllo dei server**  
-  Fonte: BleepingComputer, 19 Nov 2026, 14:57:24 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/>)
 
 - **Drupal corregge un difetto critico del programma di installazione che potrebbe fornire agli aggressori non autenticati il ​​controllo dei siti**  
   Fonte: The Hacker News, 19 Nov 2026, 14:33:06 UTC  
@@ -314,14 +326,6 @@
   Fonte: The Hacker News, 16 Nov 2026, 14:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html>)
 
-- **⚡ Riepilogo settimanale: 0 giorni per N-able, 0 giorni per Windows, 0 giorni per Chrome, 0 giorni per Fridge e altri brutti giorni**  
-  Fonte: The Hacker News, 16 Nov 2026, 13:27:20 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html>)
-
-- **Sei difetti del controller di refrigerazione Danfoss senza patch potrebbero consentire l'acquisizione remota senza accesso**  
-  Fonte: The Hacker News, 16 Nov 2026, 12:34:21 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html>)
-
 - **Sicurezza utilizzabile negli Hotel di Lusso**  
   Fonte: Schneier on Security, 16 Nov 2026, 12:04:42 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html>)
@@ -330,9 +334,5 @@
   Fonte: Troy Hunt, 16 Nov 2026, 07:09:38 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-530/>)
 
-- **Prossimi impegni di conferenza**  
-  Fonte: Schneier on Security, 14 Nov 2026, 17:02:39 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html>)
 
-
-<!-- Ultimo aggiornamento: 2026-11-21 13:54:47 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-22 13:46:57 UTC -->
