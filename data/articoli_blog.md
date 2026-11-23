@@ -2,11 +2,83 @@
 
 ## Ultimi 7 giorni
 
+- **GlobeTopper perde 2,5 milioni di dollari dopo che gli hacker hanno rubato 70.000 dollari in carte regalo**  
+  Fonte: BleepingComputer, 23 Nov 2026, 16:50:01 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/>)
+
+- **⚡ Riepilogo settimanale: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell e un sacco di problemi con Shell**  
+  Fonte: The Hacker News, 23 Nov 2026, 15:10:48 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html>)
+
+- **Gli agenti IA stanno creando un divario di responsabilità condivisa**  
+  Fonte: BleepingComputer, 23 Nov 2026, 15:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/>)
+
+- **Correzione del test Microsoft per la qualità audio Bluetooth di Windows 11 ridotta**  
+  Fonte: BleepingComputer, 23 Nov 2026, 13:28:45 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/>)
+
+- **Un difetto critico del parser binario consente l'iniezione di JavaScript tramite definizioni di parser dannose**  
+  Fonte: The Hacker News, 23 Nov 2026, 13:22:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html>)
+
+- **Gli hacker sfruttano il difetto critico di ScreenConnect per prendere il controllo dei PC dei tecnici MSP senza preavviso**  
+  Fonte: The Hacker News, 23 Nov 2026, 12:41:04 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html>)
+
+- **N-able rivela una vulnerabilità critica di Mail Assure rilevata durante l'indagine sulla violazione**  
+  Fonte: The Hacker News, 23 Nov 2026, 12:28:09 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html>)
+
+- **Operatore di call center condannato a 8 anni per aver aiutato a truffare 30.000 americani**  
+  Fonte: BleepingComputer, 23 Nov 2026, 12:02:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/>)
+
+- **Gli esseri umani hanno diritti.Le macchine no.**  
+  Fonte: Schneier on Security, 23 Nov 2026, 12:00:54 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html>)
+
+- **Gli hacker sfruttano il difetto critico della libreria ASP.NET anti-CSRF che consente RCE non autenticato**  
+  Fonte: The Hacker News, 23 Nov 2026, 09:11:56 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html>)
+
+- **Microsoft conferma i problemi di stampa di Windows che interessano gli utenti Forcepoint**  
+  Fonte: BleepingComputer, 23 Nov 2026, 09:11:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/>)
+
+- **Gli hacker hanno sfruttato la falla di GL.iNet Cloud per installare malware su router e dispositivi KVM**  
+  Fonte: The Hacker News, 23 Nov 2026, 09:04:08 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html>)
+
+- **Gli attacchi informatici assistiti dall’intelligenza artificiale innescano pagamenti non autorizzati presso le banche indiane e le aziende fintech**  
+  Fonte: The Hacker News, 23 Nov 2026, 08:24:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html>)
+
+- **Ecco perché la divulgazione delle violazioni dei dati è così difficile: lezioni da centinaia di e-mail con aziende hackerate**  
+  Fonte: Troy Hunt, 23 Nov 2026, 07:58:47 UTC  
+  [Leggi](<https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/>)
+
+- **CISA segnala il difetto critico di Cisco RCE come sfruttato attivamente negli attacchi**  
+  Fonte: BleepingComputer, 23 Nov 2026, 07:44:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/>)
+
+- **Gli hacker sfruttano la falla del cloud GL.iNet per infettare router e dispositivi KVM**  
+  Fonte: BleepingComputer, 22 Nov 2026, 18:45:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/>)
+
+- **Cleverbridge avverte che gli hacker hanno rubato numeri di carte di credito e CVV in caso di violazione dei dati**  
+  Fonte: BleepingComputer, 22 Nov 2026, 15:43:04 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/>)
+
+- **Segnale per impedire a Siri e Gemini AI di acquisire chat su iOS, Android**  
+  Fonte: BleepingComputer, 22 Nov 2026, 15:15:25 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/>)
+
 - **Aggiornamento settimanale 531: in modo ottimale.Dipendenze degli script e terze parti**  
   Fonte: Troy Hunt, 22 Nov 2026, 05:24:12 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-531/>)
 
-- **OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms**  
+- **OpenRouter abbandona 3 provider dopo che i ricercatori hanno scoperto mesi di furti tempestivi presso società di hosting AI**  
   Fonte: The Hacker News, 22 Nov 2026, 05:06:55 UTC  
   [Leggi](<https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html>)
 
@@ -86,25 +158,9 @@
   Fonte: The Hacker News, 20 Nov 2026, 16:58:16 UTC  
   [Leggi](<https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html>)
 
-- **La violazione dei dati del fornitore espone le informazioni sui clienti Chase, Visa e Mastercard**  
-  Fonte: BleepingComputer, 20 Nov 2026, 15:58:06 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/>)
-
-- **Tieni ancora traccia delle password aziendali nei fogli di calcolo?Stai volando alla cieca.**  
-  Fonte: BleepingComputer, 20 Nov 2026, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/>)
-
-- **N-able afferma che la recente violazione della sicurezza ha portato a gravi interruzioni del servizio**  
-  Fonte: BleepingComputer, 20 Nov 2026, 13:18:36 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/>)
-
-- **Il difetto KVM di Linux CVE-2026-99312 consente alle VM guest di accedere alla memoria host sugli host AMD**  
+- **Il difetto KVM di Linux CVE-2026-99312 consente alle VM guest di accedere alla memoria dell'host su host AMD**  
   Fonte: The Hacker News, 20 Nov 2026, 12:20:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html>)
-
-- **Microsoft ora installa automaticamente Windows 11 26H2 sui dispositivi non gestiti**  
-  Fonte: BleepingComputer, 20 Nov 2026, 12:14:28 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/>)
 
 - **Apertura di un Cryptex di 400 anni**  
   Fonte: Schneier on Security, 20 Nov 2026, 12:04:46 UTC  
@@ -113,10 +169,6 @@
 - **Il percorso verso l'autonomia dell'IA nel SOC**  
   Fonte: The Hacker News, 20 Nov 2026, 12:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html>)
-
-- **F5 rilascia patch di emergenza per difetti critici BIG-IP RCE**  
-  Fonte: BleepingComputer, 20 Nov 2026, 10:57:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/>)
 
 - **SonicWall avverte che i firewall di sesta generazione non riceveranno patch di sicurezza, nemmeno per difetti critici**  
   Fonte: The Hacker News, 20 Nov 2026, 10:38:22 UTC  
@@ -130,10 +182,6 @@
   Fonte: The Hacker News, 20 Nov 2026, 09:38:15 UTC  
   [Leggi](<https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html>)
 
-- **Aggiornamento Windows 11 KB5132057 rilasciato con 28 modifiche e correzioni**  
-  Fonte: BleepingComputer, 20 Nov 2026, 09:25:35 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/>)
-
 - **Gli attacchi ROMULUS ClickFix forniscono RAT in grado di spiare utenti e controllare i PC**  
   Fonte: The Hacker News, 20 Nov 2026, 07:11:39 UTC  
   [Leggi](<https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html>)
@@ -145,18 +193,6 @@
 - **nginx2root: cinque nuove vulnerabilità nginx e come Cloudflare protegge le origini dalle peggiori**  
   Fonte: Cloudflare Blog - Security, 20 Nov 2026, 01:58:29 UTC  
   [Leggi](<https://blog.cloudflare.com/nginx2root/>)
-
-- **VMware patch vCenter zero-day sfruttato negli attacchi da settembre**  
-  Fonte: BleepingComputer, 20 Nov 2026, 00:26:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/>)
-
-- **Gli hacker rubano i dati di 1,6 milioni di clienti del SBC Medical Group**  
-  Fonte: BleepingComputer, 19 Nov 2026, 22:25:42 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/>)
-
-- **ASUS avverte di un difetto critico della chiave codificata in Control Center Express**  
-  Fonte: BleepingComputer, 19 Nov 2026, 21:15:59 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/>)
 
 - **ThreatsDay: difetti del jailbreak GPT-6.2, malware PNG BubbleLoader, richieste di riscatto da 500 milioni di dollari e altre 17 storie**  
   Fonte: The Hacker News, 19 Nov 2026, 18:47:58 UTC  
@@ -194,7 +230,7 @@
   Fonte: The Hacker News, 19 Nov 2026, 09:31:26 UTC  
   [Leggi](<https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html>)
 
-- **Ruby Ships risolve 7 difetti, incluso Ruby2Shell critico, che si dice colpisca la pre-autenticazione delle app Rails predefinite**  
+- **Ruby Ships corregge 7 difetti, incluso Ruby2Shell critico, che si dice colpisca la pre-autenticazione delle app Rails predefinite**  
   Fonte: The Hacker News, 19 Nov 2026, 08:42:11 UTC  
   [Leggi](<https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html>)
 
@@ -202,7 +238,7 @@
   Fonte: The Hacker News, 19 Nov 2026, 08:14:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html>)
 
-- **CISA mette in guardia contro 4 difetti sfruttati legati ad attacchi ransomware, cryptomining e LLMjacking**  
+- **CISA mette in guardia contro 4 falle sfruttate legate ad attacchi ransomware, cryptomining e LLMjacking**  
   Fonte: The Hacker News, 19 Nov 2026, 08:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html>)
 
@@ -278,7 +314,7 @@
   Fonte: Cloudflare Blog - Security, 17 Nov 2026, 20:24:27 UTC  
   [Leggi](<https://blog.cloudflare.com/quad9-withdrawal-from-france/>)
 
-- **I ricercatori sostengono che due exploit RCE aggirano le nuove difese Android di Telegram**  
+- **I ricercatori affermano che due exploit RCE aggirano le nuove difese Android di Telegram**  
   Fonte: The Hacker News, 17 Nov 2026, 19:34:20 UTC  
   [Leggi](<https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html>)
 
@@ -294,45 +330,9 @@
   Fonte: The Hacker News, 17 Nov 2026, 12:25:06 UTC  
   [Leggi](<https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html>)
 
-- **I ricercatori descrivono nel dettaglio il difetto dell'iPhone che consente alle app di registrare audio nonostante il permesso del microfono negato**  
-  Fonte: The Hacker News, 17 Nov 2026, 12:14:36 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html>)
-
 - **Verifica formale del protocollo del segnale utilizzando l'intelligenza artificiale**  
   Fonte: Schneier on Security, 17 Nov 2026, 12:05:43 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html>)
 
-- **Le nuove backdoor GitDoor e GraphDoor trasformano GitHub e SharePoint in canali C2 nascosti**  
-  Fonte: The Hacker News, 17 Nov 2026, 11:20:18 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html>)
 
-- **Apple rafforza le autorizzazioni delle app macOS per limitare l'accesso ai dati tra i rischi per la sicurezza degli agenti AI**  
-  Fonte: The Hacker News, 17 Nov 2026, 11:07:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html>)
-
-- **Script ottimizzati dirottati forniti Card Skimmer e kit di exploit iOS ai visitatori della CNN, della BBC e di Zoom**  
-  Fonte: The Hacker News, 17 Nov 2026, 07:12:13 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html>)
-
-- **ConnectWise avverte che gli attacchi ScreenConnect continuano mentre SCKit prende di mira i sistemi senza patch**  
-  Fonte: The Hacker News, 17 Nov 2026, 06:29:27 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html>)
-
-- **N-able corregge 17 difetti N-centrali mentre gli aggressori sfruttano i bug precedenti per implementare crypto miner**  
-  Fonte: The Hacker News, 17 Nov 2026, 05:00:34 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html>)
-
-- **Google scopre che gli hacker utilizzano agenti IA per creare ed eseguire exploit dalle patch software**  
-  Fonte: The Hacker News, 16 Nov 2026, 14:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html>)
-
-- **Sicurezza utilizzabile negli Hotel di Lusso**  
-  Fonte: Schneier on Security, 16 Nov 2026, 12:04:42 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html>)
-
-- **Aggiornamento settimanale 530: dipendenze e-mail e app**  
-  Fonte: Troy Hunt, 16 Nov 2026, 07:09:38 UTC  
-  [Leggi](<https://www.troyhunt.com/weekly-update-530/>)
-
-
-<!-- Ultimo aggiornamento: 2026-11-22 13:46:57 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-23 16:51:44 UTC -->
