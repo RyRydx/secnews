@@ -2,6 +2,98 @@
 
 ## Ultimi 7 giorni
 
+- **ShinyHunters afferma di tornare dopo gli arresti dell'FBI, utilizzando le vecchie chiavi PGP come prova**  
+  Fonte: BleepingComputer, 24 Nov 2026, 16:30:19 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/>)
+
+- **La Commissione europea conferma il furto di dati nella violazione dell’Accademia europea**  
+  Fonte: BleepingComputer, 24 Nov 2026, 16:22:44 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/>)
+
+- **Gli hacker compromettono i server Check Point in 22 organizzazioni**  
+  Fonte: BleepingComputer, 24 Nov 2026, 16:15:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/>)
+
+- **La polizia interrompe 57 servizi di streaming illegali con 7,3 milioni di visite**  
+  Fonte: BleepingComputer, 24 Nov 2026, 15:10:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/>)
+
+- **Dal rumore della vulnerabilità alla resilienza: ripensare la sicurezza nell’era dell’intelligenza artificiale**  
+  Fonte: BleepingComputer, 24 Nov 2026, 15:01:11 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/>)
+
+- **Signal impedisce agli assistenti IA di curiosare sui tuoi messaggi crittografati**  
+  Fonte: Graham Cluley, 24 Nov 2026, 14:17:44 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/signal-ai-assistants-snooping-encrypted-messages>)
+
+- **La violazione dei dati di McDonald's in Giappone rivela le informazioni sulla posizione del cliente**  
+  Fonte: BleepingComputer, 24 Nov 2026, 14:09:37 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/>)
+
+- **Il nuovo strumento Shirudo utilizza l'intelligenza artificiale per proteggere i sistemi Linux senza patch dagli exploit**  
+  Fonte: BleepingComputer, 24 Nov 2026, 13:34:23 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/>)
+
+- **VMware vCenter colpito da un altro difetto critico di bypass di autenticazione con classificazione 9.8 dopo lo sfruttamento zero-day**  
+  Fonte: The Hacker News, 24 Nov 2026, 13:28:26 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html>)
+
+- **Okta collega il gruppo Vishing associato a ShinyHunters al nuovo sito di perdita di dati di INCEPTION**  
+  Fonte: The Hacker News, 24 Nov 2026, 13:28:21 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html>)
+
+- **Gli hacker hanno trovato un modo per aggirare il pinning SHA di GitHub.Questo webinar spiega come colmare il divario**  
+  Fonte: The Hacker News, 24 Nov 2026, 12:42:09 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html>)
+
+- **Otteniamo l'infrastruttura per cui paghiamo**  
+  Fonte: Schneier on Security, 24 Nov 2026, 12:06:50 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html>)
+
+- **Un ricercatore di Google mostra come una modifica di un singolo bit nei file .NET ha aggirato l'integrità del codice di Windows**  
+  Fonte: The Hacker News, 24 Nov 2026, 12:02:00 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html>)
+
+- **Reimpostazione del budget SOC 2027: 5 priorità per tagliare i costi e ridurre il rischio informatico**  
+  Fonte: The Hacker News, 24 Nov 2026, 12:01:54 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html>)
+
+- **Microsoft risolve il classico difetto della gestione API di Azure poiché l'attore prende di mira i segreti dei clienti**  
+  Fonte: The Hacker News, 24 Nov 2026, 10:44:49 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html>)
+
+- **WHMCS SQL Injection potrebbe esporre i dati dei clienti e gli hash delle password dell'amministratore senza effettuare l'accesso**  
+  Fonte: The Hacker News, 24 Nov 2026, 08:34:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html>)
+
+- **OpenAI e Cisco presentano uno strumento di sicurezza Linux assistito dall'intelligenza artificiale per bloccare gli exploit prima dell'applicazione delle patch**  
+  Fonte: The Hacker News, 24 Nov 2026, 06:02:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html>)
+
+- **Gli hacker sfruttano la falla di N-able MailAssure mentre gli agenti AI sfruttano l'etichetta MONAI Zero-Day**  
+  Fonte: The Hacker News, 24 Nov 2026, 06:02:45 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html>)
+
+- **Il colosso energetico sudcoreano KEPCO conferma che la violazione dei dati ha interessato 1,5 milioni di persone**  
+  Fonte: BleepingComputer, 23 Nov 2026, 20:54:51 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/>)
+
+- **OpenRouter elimina i fornitori di intelligenza artificiale a causa di prompt e segreti trapelati**  
+  Fonte: BleepingComputer, 23 Nov 2026, 20:00:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/>)
+
+- **Sfruttata una falla di Microsoft Azure per rubare le credenziali API dei clienti**  
+  Fonte: BleepingComputer, 23 Nov 2026, 19:42:20 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/>)
+
+- **LaLiga spagnola conferma che gli hacker hanno rubato i dati personali dei tifosi di calcio**  
+  Fonte: BleepingComputer, 23 Nov 2026, 18:38:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/>)
+
+- **Webworm sospettato di modificare la VPN SoftEther per eludere il rilevamento e nascondere l'accesso remoto**  
+  Fonte: The Hacker News, 23 Nov 2026, 17:45:15 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html>)
+
 - **GlobeTopper perde 2,5 milioni di dollari dopo che gli hacker hanno rubato 70.000 dollari in carte regalo**  
   Fonte: BleepingComputer, 23 Nov 2026, 16:50:01 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/>)
@@ -42,10 +134,6 @@
   Fonte: The Hacker News, 23 Nov 2026, 09:11:56 UTC  
   [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html>)
 
-- **Microsoft conferma i problemi di stampa di Windows che interessano gli utenti Forcepoint**  
-  Fonte: BleepingComputer, 23 Nov 2026, 09:11:15 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/>)
-
 - **Gli hacker hanno sfruttato la falla di GL.iNet Cloud per installare malware su router e dispositivi KVM**  
   Fonte: The Hacker News, 23 Nov 2026, 09:04:08 UTC  
   [Leggi](<https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html>)
@@ -58,22 +146,6 @@
   Fonte: Troy Hunt, 23 Nov 2026, 07:58:47 UTC  
   [Leggi](<https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/>)
 
-- **CISA segnala il difetto critico di Cisco RCE come sfruttato attivamente negli attacchi**  
-  Fonte: BleepingComputer, 23 Nov 2026, 07:44:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/>)
-
-- **Gli hacker sfruttano la falla del cloud GL.iNet per infettare router e dispositivi KVM**  
-  Fonte: BleepingComputer, 22 Nov 2026, 18:45:37 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/>)
-
-- **Cleverbridge avverte che gli hacker hanno rubato numeri di carte di credito e CVV in caso di violazione dei dati**  
-  Fonte: BleepingComputer, 22 Nov 2026, 15:43:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/>)
-
-- **Segnale per impedire a Siri e Gemini AI di acquisire chat su iOS, Android**  
-  Fonte: BleepingComputer, 22 Nov 2026, 15:15:25 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/>)
-
 - **Aggiornamento settimanale 531: in modo ottimale.Dipendenze degli script e terze parti**  
   Fonte: Troy Hunt, 22 Nov 2026, 05:24:12 UTC  
   [Leggi](<https://www.troyhunt.com/weekly-update-531/>)
@@ -85,22 +157,6 @@
 - **I ricercatori dimostrano Ghostscript Sandbox-Escape RCE tramite caricamenti di file predisposti nelle app più diffuse**  
   Fonte: The Hacker News, 22 Nov 2026, 05:03:41 UTC  
   [Leggi](<https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html>)
-
-- **La violazione di Rackspace Spot consente agli hacker di accedere ai segreti Kubernetes dei clienti**  
-  Fonte: BleepingComputer, 21 Nov 2026, 22:59:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/>)
-
-- **Difetto di Microsoft Entra Connect Health sfruttato per rubare i dati del tenant**  
-  Fonte: BleepingComputer, 21 Nov 2026, 18:01:58 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/>)
-
-- **La botnet BADBOX ritorna con 40 miliardi di richieste di annunci giornalieri da record**  
-  Fonte: BleepingComputer, 21 Nov 2026, 15:17:27 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/>)
-
-- **Secondo quanto riferito, l'FBI ha violato nuovamente, questa volta prendendo di mira il database della polizia nazionale**  
-  Fonte: BleepingComputer, 21 Nov 2026, 14:26:04 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/>)
 
 - **Un'unica pagina Web dannosa consente ai ricercatori di prendere il controllo di Meta Muse e accedere alle chat private**  
   Fonte: The Hacker News, 21 Nov 2026, 11:53:07 UTC  
@@ -142,17 +198,9 @@
   Fonte: Graham Cluley, 20 Nov 2026, 18:57:38 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/n0n-extortion-leaks-data-jpmorgan-chase-visa-mastercard>)
 
-- **Bell Canada afferma che un hacker "agente" ha rubato i dati dei clienti aziendali**  
-  Fonte: BleepingComputer, 20 Nov 2026, 18:51:43 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/>)
-
 - **WhatsApp corregge 3 difetti di sicurezza, incluso un bug Android sospettato di essere utilizzato in truffe**  
   Fonte: The Hacker News, 20 Nov 2026, 17:57:20 UTC  
   [Leggi](<https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html>)
-
-- **Gli hacker utilizzano lo strumento AI autonomo Cairn per trovare zero-day e prendere il controllo del server**  
-  Fonte: BleepingComputer, 20 Nov 2026, 17:30:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/>)
 
 - **Il malware Android Bazuka utilizza sovrapposizioni di schermate false per nascondere il furto di credenziali e il controllo del dispositivo**  
   Fonte: The Hacker News, 20 Nov 2026, 16:58:16 UTC  
@@ -282,30 +330,6 @@
   Fonte: Schneier on Security, 18 Nov 2026, 12:05:35 UTC  
   [Leggi](<https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html>)
 
-- **Il difetto Java4Shell (CVE-2026-114938) abilita la RCE pre-autenticazione in Jira, Jenkins, Keycloak e altri**  
-  Fonte: The Hacker News, 18 Nov 2026, 11:55:49 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html>)
-
-- **La qualità non è la preoccupazione principale del pentesting sull’intelligenza artificiale: lo sono la privacy dei dati e la sicurezza della produzione**  
-  Fonte: The Hacker News, 18 Nov 2026, 11:03:57 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html>)
-
-- **Gli hacker sfruttano il difetto critico RCE del burattino che colpisce i server di gestione aziendale**  
-  Fonte: The Hacker News, 18 Nov 2026, 08:24:31 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html>)
-
-- **CISA sollecita l'applicazione immediata di patch per il difetto Java4Shell che potrebbe consentire l'esecuzione di codice in modalità remota**  
-  Fonte: The Hacker News, 18 Nov 2026, 08:24:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html>)
-
-- **Gli aggressori compromettono il pacchetto PyPI dell'Agent Framework di Microsoft per rubare le credenziali del cloud**  
-  Fonte: The Hacker News, 18 Nov 2026, 06:45:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html>)
-
-- **Gli hacker russi COLD RELIC utilizzano dati rubati di Google Workspace per violare la seconda organizzazione statunitense**  
-  Fonte: The Hacker News, 18 Nov 2026, 05:58:04 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html>)
-
 - **Gli aggressori sono stati utilizzati in modo ottimale per eseguire test A/B del malware sui siti Web principali**  
   Fonte: Krebs on Security, 18 Nov 2026, 02:52:04 UTC  
   [Leggi](<https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/>)
@@ -314,25 +338,5 @@
   Fonte: Cloudflare Blog - Security, 17 Nov 2026, 20:24:27 UTC  
   [Leggi](<https://blog.cloudflare.com/quad9-withdrawal-from-france/>)
 
-- **I ricercatori affermano che due exploit RCE aggirano le nuove difese Android di Telegram**  
-  Fonte: The Hacker News, 17 Nov 2026, 19:34:20 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html>)
 
-- **Oggi Oracle introduce la patch 11 per difetti Java quando emerge il rapporto critico OpenJDK RCE (CVE-2026-114938)**  
-  Fonte: The Hacker News, 17 Nov 2026, 15:17:36 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html>)
-
-- **La campagna Trigram impersona circa 50 brand di AI e Blockchain per rivolgersi agli sviluppatori con infostealer**  
-  Fonte: The Hacker News, 17 Nov 2026, 15:17:28 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html>)
-
-- **Gli hacker hanno trovato un modo per aggirare il pinning SHA di GitHub.Questo webinar spiega come colmare il divario**  
-  Fonte: The Hacker News, 17 Nov 2026, 12:25:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html>)
-
-- **Verifica formale del protocollo del segnale utilizzando l'intelligenza artificiale**  
-  Fonte: Schneier on Security, 17 Nov 2026, 12:05:43 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html>)
-
-
-<!-- Ultimo aggiornamento: 2026-11-23 16:51:44 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-24 16:42:40 UTC -->
