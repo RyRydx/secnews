@@ -2,6 +2,58 @@
 
 ## Ultimi 7 giorni
 
+- **New York vieta i giocattoli chatbot basati sull’intelligenza artificiale, ma non in tempo per Natale**  
+  Fonte: Graham Cluley, 26 Nov 2026, 15:28:04 UTC  
+  [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/new-york-bans-ai-chatbot-toys>)
+
+- **Il malware Remus ruba i messaggi Gmail tramite la falsa estensione Fogli Google**  
+  Fonte: BleepingComputer, 26 Nov 2026, 15:23:28 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/>)
+
+- **PolinRider, legato alla Corea del Nord, avvelena oltre 7.600 repository GitHub per diffondere malware**  
+  Fonte: The Hacker News, 26 Nov 2026, 15:13:41 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html>)
+
+- **Il malware SYS010 abusa della gestione del browser per spiare Gmail, Outlook**  
+  Fonte: BleepingComputer, 26 Nov 2026, 11:50:17 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/>)
+
+- **I più ricercati: i kit e le tecniche di phishing per superare i controlli di sicurezza**  
+  Fonte: The Hacker News, 26 Nov 2026, 10:57:55 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html>)
+
+- **1Password violata, dati del cliente e codice sorgente rubati durante la violazione dell'account GitHub**  
+  Fonte: The Hacker News, 26 Nov 2026, 10:57:25 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html>)
+
+- **Drupal avverte di una nuova vulnerabilità altamente critica di acquisizione di siti in caso di sfruttamento attivo**  
+  Fonte: The Hacker News, 26 Nov 2026, 07:02:34 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html>)
+
+- **Gli hacker sfruttano 10 vulnerabilità nei prodotti Mitel, Juniper, Vates e Danfoss**  
+  Fonte: The Hacker News, 26 Nov 2026, 06:44:46 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html>)
+
+- **13 pacchetti NuGet dannosi trasformano false valutazioni dei lavori .NET in trappole per la distribuzione di malware**  
+  Fonte: The Hacker News, 26 Nov 2026, 03:48:52 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html>)
+
+- **Smashing Security podcast #494: Il russo accusato di spiare Palantir da Starbucks**  
+  Fonte: Graham Cluley, 26 Nov 2026, 00:10:12 UTC  
+  [Leggi](<https://grahamcluley.com/smashing-security-podcast-494/>)
+
+- **Palo Alto Networks avverte della falla Fragnesia sfruttata negli attacchi PAN-OS**  
+  Fonte: BleepingComputer, 25 Nov 2026, 22:05:09 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/>)
+
+- **1Password: dati dei clienti rubati dopo la violazione dell'account GitHub di un dipendente**  
+  Fonte: BleepingComputer, 25 Nov 2026, 21:33:33 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/>)
+
+- **Italia e Svizzera mettono in guardia contro attacchi informatici autonomi guidati dall’intelligenza artificiale**  
+  Fonte: BleepingComputer, 25 Nov 2026, 19:39:31 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/>)
+
 - **CISA avverte di un difetto critico senza patch nei controllori di refrigerazione Danfoss**  
   Fonte: BleepingComputer, 25 Nov 2026, 16:13:40 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/>)
@@ -30,7 +82,7 @@
   Fonte: The Hacker News, 25 Nov 2026, 11:51:48 UTC  
   [Leggi](<https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html>)
 
-- **Drupal Fail2Install Dettagli sugli exploit emergono mentre un difetto critico di RCE affronta lo sfruttamento attivo**  
+- **Drupal Fail2Install Dettagli sugli exploit emergono mentre il difetto critico di RCE affronta lo sfruttamento attivo**  
   Fonte: The Hacker News, 25 Nov 2026, 11:23:26 UTC  
   [Leggi](<https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html>)
 
@@ -38,7 +90,7 @@
   Fonte: BleepingComputer, 25 Nov 2026, 11:16:32 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/>)
 
-- **All'ex dipendente di OpenAI accusato di aver intercettato gli uffici della società è stata concessa una cauzione di 1 milione di dollari**  
+- **All'ex dipendente di OpenAI accusato di aver disturbato gli uffici della società è stata concessa una cauzione di 1 milione di dollari**  
   Fonte: The Hacker News, 25 Nov 2026, 10:43:07 UTC  
   [Leggi](<https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html>)
 
@@ -82,29 +134,9 @@
   Fonte: BleepingComputer, 24 Nov 2026, 18:59:52 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/>)
 
-- **Radware rivela una violazione che espone le chiavi di accesso al cloud del cliente**  
-  Fonte: BleepingComputer, 24 Nov 2026, 17:49:05 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/>)
-
 - **Volant Manticore, allineato all'Iran, utilizza la backdoor KuboShell basata su IPFS nelle campagne di spionaggio**  
   Fonte: The Hacker News, 24 Nov 2026, 16:54:07 UTC  
   [Leggi](<https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html>)
-
-- **ShinyHunters afferma di tornare dopo gli arresti dell'FBI, utilizzando le vecchie chiavi PGP come prova**  
-  Fonte: BleepingComputer, 24 Nov 2026, 16:30:19 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/>)
-
-- **La Commissione europea conferma il furto di dati nella violazione dell’Accademia europea**  
-  Fonte: BleepingComputer, 24 Nov 2026, 16:22:44 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/>)
-
-- **Gli hacker compromettono i server Check Point in 22 organizzazioni**  
-  Fonte: BleepingComputer, 24 Nov 2026, 16:15:23 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/>)
-
-- **La polizia interrompe 57 servizi di streaming illegali con 7,3 milioni di visite**  
-  Fonte: BleepingComputer, 24 Nov 2026, 15:10:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/>)
 
 - **Signal impedisce agli assistenti IA di curiosare sui tuoi messaggi crittografati**  
   Fonte: Graham Cluley, 24 Nov 2026, 14:17:44 UTC  
@@ -182,7 +214,7 @@
   Fonte: The Hacker News, 23 Nov 2026, 09:04:08 UTC  
   [Leggi](<https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html>)
 
-- **Gli attacchi informatici assistiti dall’intelligenza artificiale innescano pagamenti non autorizzati presso le banche indiane e le aziende fintech**  
+- **Gli attacchi informatici assistiti dall’intelligenza artificiale innescano pagamenti non autorizzati presso banche indiane e aziende fintech**  
   Fonte: The Hacker News, 23 Nov 2026, 08:24:15 UTC  
   [Leggi](<https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html>)
 
@@ -250,7 +282,7 @@
   Fonte: The Hacker News, 20 Nov 2026, 16:58:16 UTC  
   [Leggi](<https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html>)
 
-- **Il difetto KVM di Linux CVE-2026-99312 consente alle VM guest di accedere alla memoria dell'host su host AMD**  
+- **Il difetto KVM di Linux CVE-2026-99312 consente alle VM guest di accedere alla memoria host sugli host AMD**  
   Fonte: The Hacker News, 20 Nov 2026, 12:20:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html>)
 
@@ -262,7 +294,7 @@
   Fonte: The Hacker News, 20 Nov 2026, 12:00:00 UTC  
   [Leggi](<https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html>)
 
-- **SonicWall avverte che i firewall di sesta generazione non riceveranno patch di sicurezza, nemmeno per difetti critici**  
+- **SonicWall avverte che i firewall di sesta generazione non riceveranno patch di sicurezza, nemmeno in caso di difetti critici**  
   Fonte: The Hacker News, 20 Nov 2026, 10:38:22 UTC  
   [Leggi](<https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html>)
 
@@ -294,37 +326,5 @@
   Fonte: Graham Cluley, 19 Nov 2026, 17:10:29 UTC  
   [Leggi](<https://www.fortra.com/blog/cold-relic-what-you-need-know>)
 
-- **phpAfterShell spiegato: come gli hacker possono trasformare un difetto della sessione PHP in esecuzione di codice**  
-  Fonte: The Hacker News, 19 Nov 2026, 16:59:56 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html>)
 
-- **PHP risolve 7 difetti critici, inclusi bug che potrebbero consentire l'esecuzione di codice remoto**  
-  Fonte: The Hacker News, 19 Nov 2026, 15:18:07 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html>)
-
-- **Il difetto critico zero-day di VMware vCenter consente agli aggressori di rete di ignorare l'autenticazione**  
-  Fonte: The Hacker News, 19 Nov 2026, 15:11:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html>)
-
-- **Drupal corregge un difetto critico del programma di installazione che potrebbe fornire agli aggressori non autenticati il ​​controllo dei siti**  
-  Fonte: The Hacker News, 19 Nov 2026, 14:33:06 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html>)
-
-- **Traffico Internet e attacchi durante le elezioni di medio termine statunitensi del 2026**  
-  Fonte: Cloudflare Blog - Security, 19 Nov 2026, 14:00:00 UTC  
-  [Leggi](<https://blog.cloudflare.com/internet-traffic-2026-us-election/>)
-
-- **Tutto è un'applicazione Web, incluso il firewall**  
-  Fonte: The Hacker News, 19 Nov 2026, 11:52:23 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/everything-is-web-application-including.html>)
-
-- **Gli hacker violano il server cloud N-able, interrompendo la gestione della sicurezza della posta elettronica in 3 regioni**  
-  Fonte: The Hacker News, 19 Nov 2026, 09:31:26 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html>)
-
-- **Smashing Security podcast n. 493: Perché il tuo modello di intelligenza artificiale potrebbe essere un agente dormiente**  
-  Fonte: Graham Cluley, 19 Nov 2026, 00:14:52 UTC  
-  [Leggi](<https://grahamcluley.com/smashing-security-podcast-493/>)
-
-
-<!-- Ultimo aggiornamento: 2026-11-25 16:27:29 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-26 16:01:57 UTC -->
