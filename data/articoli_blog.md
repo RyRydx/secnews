@@ -2,6 +2,78 @@
 
 ## Ultimi 7 giorni
 
+- **Secondo quanto riferito, la piattaforma cloud dell'aeronautica americana è stata violata nell'ultima violazione federale**  
+  Fonte: BleepingComputer, 27 Nov 2026, 15:09:40 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/>)
+
+- **Il tuo firewall non basta: il rischio nascosto delle macchine virtuali non gestite**  
+  Fonte: BleepingComputer, 27 Nov 2026, 15:00:10 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/>)
+
+- **Malwarebytes Antivirus: sconto del 50% durante il Black Friday 2026**  
+  Fonte: BleepingComputer, 27 Nov 2026, 14:22:06 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/>)
+
+- **Le recenti interruzioni hanno cause economiche**  
+  Fonte: Schneier on Security, 27 Nov 2026, 12:02:23 UTC  
+  [Leggi](<https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html>)
+
+- **Trovata l'app Microsoft Store che fornisce Vinci RAT in grado di controllare il sistema da remoto**  
+  Fonte: The Hacker News, 27 Nov 2026, 11:49:34 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html>)
+
+- **Microsoft rimuove il ruolo del server WSUS in Windows Server 2028**  
+  Fonte: BleepingComputer, 27 Nov 2026, 11:18:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/>)
+
+- **Come mantenere aggiornata la tua immagine della sicurezza quando gli aggressori si muovono alla velocità dell'intelligenza artificiale**  
+  Fonte: The Hacker News, 27 Nov 2026, 10:32:18 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html>)
+
+- **Drupal avverte di una nuova falla di acquisizione del sito sfruttata negli attacchi**  
+  Fonte: BleepingComputer, 27 Nov 2026, 10:10:15 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/>)
+
+- **SAP conferma l'incidente di sicurezza dopo un'attività sospetta su GitHub**  
+  Fonte: BleepingComputer, 27 Nov 2026, 09:56:36 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/>)
+
+- **Gli hacker attaccano i download ufficiali di Q-Dir e DesktopOK per distribuire malware di accesso remoto**  
+  Fonte: The Hacker News, 27 Nov 2026, 09:29:30 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html>)
+
+- **Microsoft invia una hotpatch di emergenza per risolvere i crash di Windows Server**  
+  Fonte: BleepingComputer, 27 Nov 2026, 09:08:16 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/>)
+
+- **La nuova falla NFS2ROOT Linux può consentire agli aggressori di ottenere privilegi di root**  
+  Fonte: BleepingComputer, 27 Nov 2026, 08:06:58 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/>)
+
+- **La Svizzera conferma che gli attacchi informatici assistiti dall’intelligenza artificiale hanno violato gli operatori delle infrastrutture critiche**  
+  Fonte: The Hacker News, 27 Nov 2026, 06:04:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html>)
+
+- **Cacti Zero-Day senza patch consente RCE in sole quattro richieste HTTP tramite accesso ospite**  
+  Fonte: The Hacker News, 27 Nov 2026, 05:48:20 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html>)
+
+- **OpenAI avverte che GPT-6.2 Astra raggiungerà i limiti di utilizzo il 40% più velocemente perché ha risolto un bug**  
+  Fonte: BleepingComputer, 26 Nov 2026, 21:06:22 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/>)
+
+- **ThreatsDay: 10 milioni di servizi NGINX a rischio, oltre 250 estensioni dannose, dirottamento di server AI e altre 17 storie**  
+  Fonte: The Hacker News, 26 Nov 2026, 19:39:57 UTC  
+  [Leggi](<https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html>)
+
+- **Offerta Black Friday NordVPN: ottieni uno sconto del 78% sui piani VPN nel 2026**  
+  Fonte: BleepingComputer, 26 Nov 2026, 17:58:42 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/>)
+
+- **False interviste a esperti retribuiti si spacciano per brand per rubare gli accessi a Google**  
+  Fonte: BleepingComputer, 26 Nov 2026, 17:15:27 UTC  
+  [Leggi](<https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/>)
+
 - **New York vieta i giocattoli chatbot basati sull’intelligenza artificiale, ma non in tempo per Natale**  
   Fonte: Graham Cluley, 26 Nov 2026, 15:28:04 UTC  
   [Leggi](<https://www.bitdefender.com/en-us/blog/hotforsecurity/new-york-bans-ai-chatbot-toys>)
@@ -46,25 +118,9 @@
   Fonte: BleepingComputer, 25 Nov 2026, 22:05:09 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/>)
 
-- **1Password: dati dei clienti rubati dopo la violazione dell'account GitHub di un dipendente**  
+- **1Password dei dati dei clienti rubati dopo la violazione dell'account GitHub di un dipendente**  
   Fonte: BleepingComputer, 25 Nov 2026, 21:33:33 UTC  
   [Leggi](<https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/>)
-
-- **Italia e Svizzera mettono in guardia contro attacchi informatici autonomi guidati dall’intelligenza artificiale**  
-  Fonte: BleepingComputer, 25 Nov 2026, 19:39:31 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/>)
-
-- **CISA avverte di un difetto critico senza patch nei controllori di refrigerazione Danfoss**  
-  Fonte: BleepingComputer, 25 Nov 2026, 16:13:40 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/>)
-
-- **Più Pentest senza più Pentesters: dove l’intelligenza artificiale aiuta in modo sicuro**  
-  Fonte: BleepingComputer, 25 Nov 2026, 15:00:10 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/>)
-
-- **InfraTrust mette in guardia contro lo sfruttamento dei difetti della catena di fornitura nelle apparecchiature di rete**  
-  Fonte: BleepingComputer, 25 Nov 2026, 15:00:00 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/>)
 
 - **Gli hacker sfruttano due difetti del GeoServer mentre i ricercatori avvertono delle catene RCE non autenticate**  
   Fonte: The Hacker News, 25 Nov 2026, 12:48:54 UTC  
@@ -82,33 +138,17 @@
   Fonte: The Hacker News, 25 Nov 2026, 11:51:48 UTC  
   [Leggi](<https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html>)
 
-- **Drupal Fail2Install Dettagli sugli exploit emergono mentre il difetto critico di RCE affronta lo sfruttamento attivo**  
+- **Drupal Fail2Install Dettagli sugli exploit emergono mentre un difetto critico di RCE affronta lo sfruttamento attivo**  
   Fonte: The Hacker News, 25 Nov 2026, 11:23:26 UTC  
   [Leggi](<https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html>)
 
-- **Microsoft risolve il bug di Microsoft 365 che blocca l'accesso alle app di Office**  
-  Fonte: BleepingComputer, 25 Nov 2026, 11:16:32 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/>)
-
-- **All'ex dipendente di OpenAI accusato di aver disturbato gli uffici della società è stata concessa una cauzione di 1 milione di dollari**  
+- **All'ex dipendente di OpenAI accusato di aver intercettato gli uffici della società è stata concessa una cauzione di 1 milione di dollari**  
   Fonte: The Hacker News, 25 Nov 2026, 10:43:07 UTC  
   [Leggi](<https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html>)
-
-- **Gli hacker ora sfruttano il difetto critico di Drupal RCE per dirottare i siti**  
-  Fonte: BleepingComputer, 25 Nov 2026, 10:10:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/>)
 
 - **Gli hacker hanno sfruttato la falla CVSS 10.0 Hex.pm RCE per compromettere 6 server di registro dei pacchetti**  
   Fonte: The Hacker News, 25 Nov 2026, 09:06:59 UTC  
   [Leggi](<https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html>)
-
-- **Microsoft conferma i problemi di autenticazione dopo gli aggiornamenti di novembre**  
-  Fonte: BleepingComputer, 25 Nov 2026, 09:02:57 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/>)
-
-- **Secondo quanto riferito, gli hacker hanno violato il sistema di analisi dell'intelligence della CIA**  
-  Fonte: BleepingComputer, 25 Nov 2026, 07:45:03 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/>)
 
 - **Gli hacker compromettono 24 server di gestione dei Check Point in una sospetta campagna di attacco guidata dall'intelligenza artificiale**  
   Fonte: The Hacker News, 25 Nov 2026, 06:50:19 UTC  
@@ -121,18 +161,6 @@
 - **WordPress blocca sei plugin WP Connect backdoor prima che le versioni dannose vengano pubblicate**  
   Fonte: The Hacker News, 25 Nov 2026, 06:21:12 UTC  
   [Leggi](<https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html>)
-
-- **Rackspace spegne la piattaforma cloud Spot dopo una violazione della sicurezza**  
-  Fonte: BleepingComputer, 24 Nov 2026, 21:37:30 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/>)
-
-- **La banda di estorsori New Inception lancia una campagna di vishing su larga scala**  
-  Fonte: BleepingComputer, 24 Nov 2026, 20:21:20 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/>)
-
-- **Turnitin rivela un attacco informatico che ha colpito i sistemi rivolti ai clienti**  
-  Fonte: BleepingComputer, 24 Nov 2026, 18:59:52 UTC  
-  [Leggi](<https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/>)
 
 - **Volant Manticore, allineato all'Iran, utilizza la backdoor KuboShell basata su IPFS nelle campagne di spionaggio**  
   Fonte: The Hacker News, 24 Nov 2026, 16:54:07 UTC  
@@ -282,49 +310,5 @@
   Fonte: The Hacker News, 20 Nov 2026, 16:58:16 UTC  
   [Leggi](<https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html>)
 
-- **Il difetto KVM di Linux CVE-2026-99312 consente alle VM guest di accedere alla memoria host sugli host AMD**  
-  Fonte: The Hacker News, 20 Nov 2026, 12:20:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html>)
 
-- **Apertura di un Cryptex di 400 anni**  
-  Fonte: Schneier on Security, 20 Nov 2026, 12:04:46 UTC  
-  [Leggi](<https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html>)
-
-- **Il percorso verso l'autonomia dell'IA nel SOC**  
-  Fonte: The Hacker News, 20 Nov 2026, 12:00:00 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html>)
-
-- **SonicWall avverte che i firewall di sesta generazione non riceveranno patch di sicurezza, nemmeno in caso di difetti critici**  
-  Fonte: The Hacker News, 20 Nov 2026, 10:38:22 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html>)
-
-- **Gli hacker sfruttano un difetto critico di Cisco Expressway, violano quattro dispositivi e raggiungono la rete interna**  
-  Fonte: The Hacker News, 20 Nov 2026, 10:32:50 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html>)
-
-- **Gli hacker legati alla Cina sfruttano il critico VMware vCenter Zero-Day per ottenere accesso amministrativo e rubare dati**  
-  Fonte: The Hacker News, 20 Nov 2026, 09:38:15 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html>)
-
-- **Gli attacchi ROMULUS ClickFix forniscono RAT in grado di spiare utenti e controllare i PC**  
-  Fonte: The Hacker News, 20 Nov 2026, 07:11:39 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html>)
-
-- **Il nuovo FastUnlock 0-Day di Windows senza patch consente a chi ha un PC bloccato di eseguire programmi su di esso**  
-  Fonte: The Hacker News, 20 Nov 2026, 05:30:01 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html>)
-
-- **nginx2root: cinque nuove vulnerabilità nginx e come Cloudflare protegge le origini dalle peggiori**  
-  Fonte: Cloudflare Blog - Security, 20 Nov 2026, 01:58:29 UTC  
-  [Leggi](<https://blog.cloudflare.com/nginx2root/>)
-
-- **ThreatsDay: difetti del jailbreak GPT-6.2, malware PNG BubbleLoader, richieste di riscatto da 500 milioni di dollari e altre 17 storie**  
-  Fonte: The Hacker News, 19 Nov 2026, 18:47:58 UTC  
-  [Leggi](<https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html>)
-
-- **Reliquia fredda: cosa devi sapere**  
-  Fonte: Graham Cluley, 19 Nov 2026, 17:10:29 UTC  
-  [Leggi](<https://www.fortra.com/blog/cold-relic-what-you-need-know>)
-
-
-<!-- Ultimo aggiornamento: 2026-11-26 16:01:57 UTC -->
+<!-- Ultimo aggiornamento: 2026-11-27 15:50:52 UTC -->
